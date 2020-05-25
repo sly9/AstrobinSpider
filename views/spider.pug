@@ -1,0 +1,8 @@
+extends layout
+
+block content
+    h1 Meta: #{meta.limit}
+    code #{JSON.stringify(meta)}
+    a(href=meta.next) Click me for next
+    h1 Body
+    code #{JSON.stringify(objects)}
