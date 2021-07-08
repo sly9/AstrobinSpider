@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "62.474",
+    "description": "SH2-155 - Cave Nebula 🤩\r\nMeine wohl bisher aufwendigste DeepSky Aufnahme mit über 20 Std Belichtungszeit!\r\nEin Objekt welches sich in unserer Milchstraße befindet und ca. 2.400 Lichtjahre entfernt ist.\r\n\r\nFür dieses Foto habe ich mir einen komplett neuen Workflow erarbeitet. Und zwar war mein Ziel, mit einer Farbkamera Schmalbandaufnahmen in RGB Aufnahmen einzuarbeiten.\r\nDas heißt, die Details und Strukturen von der Hubble Palette mit den echten Farben des DeepSky Objektes zu vereinen 😀\r\nDafür musste ich natürlich zuerst einmal einen synthetischen Schwefel Kanal erstellen, usw....\r\nIch habe ehrlich gesagt keine Ahnung ob das vor mir schon mal jemand so gemacht hat.\r\nJedenfalls habe ich natürlich gleich mal ein ausführliches Video Tutorial dazu aufgenommen welches dann kommenden Sonntag auf meinem Kanal veröffentlicht wird. Darin erkläre und zeige ich Schritt für Schritt wie man so etwas machen kann.\r\nIst natürlich schon high End Bildbearbeitung in der Astro Fotografie 😅\r\n\r\nSo.... hier nun noch ein paar Daten zum Objekt selbst:\r\n\r\nSh2-155 ist eine ionisierte H-II-Region mit andauernder Sternentstehungsaktivität in einer geschätzten Entfernung von ca. 2.400 Lichtjahre von der Erde. Obwohl Sh2-155 für Amateurbeobachtungen relativ schwach ist, kann ein Teil seiner Struktur sogar visuell durch ein mittelgroßes Teleskop unter einem sehr dunklem Himmel gesehen werden.\r\nSh2-155 liegt am Rande der Cepheus-B-Wolke (Teil der Cepheus-Molekülwolke) und wird von jungen Sternen der Cep-OB3-Assoziation ionisiert. Es wird vermutet, dass die Strahlung des heißen O-Sterns HD 217086 das Gas der Region komprimiert und die Bildung einer neuen Generation von Sternen auslöst. Eine Studie des Chandra-Röntgenobservatoriums und des Spitzer-Weltraumteleskops über die jungen stellaren Objekte der Region zeigt eine Zunahme des Alters von Sternen vor der Wolke und stützt damit die Hypothese der durch HD 217086 ausgelösten Sternbildung in diesem Gebiet.\r\n\r\nAUFNAHMEDATEN:\r\nAufnahmedatum: September 2020\r\nEntfernung: 2.400 Lichtjahre\r\nDurchmesser: 35 Lichtjahre\r\nBelichtung: 42 x 600 Sek. für Dual Schmalband\r\n267 x 180 Sek. für RGB\r\nGesamt: 20,3 Std.\r\n\r\nKalibrierung: Darks / Flats / DarkFlats\r\nMontierung: Skywatcher EQ6-R PRO\r\nTeleskop: Lacerta Fotonewton 250/1000\r\nKorrektor: Lacerta GPU Komakorrektor\r\nFilter: Astronomik L2 UV-IR Block 2″\r\nOptolong Filter L-eXtreme 2″\r\nKamera: QHY268c @ Gain 0 bei -15°C\r\nGuiding: ZWO OAG mit ASI 120mm-s und PHD2\r\nAuflösung: 0,77 Bogensekunden/Pixel\r\nSoftware: APP / Photoshop CC",
+    "h": 1671,
+    "hash": "4p6wc4",
+    "id": 532035,
+    "imaging_cameras": [
+        "QHYCCD QHY268c"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON Teleskop Austria 10\"/F4 Lacerta Newton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 80,
+    "link": "https://www.astro-fotografie.at/portfolio-view/sh2-155",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810811/"
+    ],
+    "orientation": "44.690",
+    "pixscale": "1.806",
+    "published": "2020-10-13T13:55:51.370459",
+    "ra": "344.171",
+    "radius": "0.754",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532035/",
+    "revisions": [],
+    "subjects": [],
+    "title": "SH2-155 – THE CAVE NEBULA",
+    "updated": "2021-07-06T04:55:14.323063",
+    "uploaded": "2020-10-13T14:51:57.531776",
+    "url_duckduckgo": "https://www.astrobin.com/4p6wc4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4p6wc4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4p6wc4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4p6wc4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4p6wc4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4p6wc4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4p6wc4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32716/2020/d0a890b1-f7b3-4769-9ea8-bf620a6dc862.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32716/2020/d0a890b1-f7b3-4769-9ea8-bf620a6dc862-1603203096.jpg",
+    "url_thumb": "https://www.astrobin.com/4p6wc4/0/rawthumb/thumb/",
+    "user": "Daniel_N",
+    "views": 502,
+    "w": 2500
+}

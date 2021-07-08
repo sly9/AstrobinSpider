@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 35,
+    "data_source": "BACKYARD",
+    "dec": "56.095",
+    "description": "This is my longest project so far. The O3 and S2 signal was really faint, so I think I made a good decision with this long exposure, especially from my Bortle 8 zone. I had to throw 7h worth of subs due to clouds and guiding issues. I also added the RGB stars.\r\n\r\nIt is a faint emission nebula situated in Cepheus. It is located around 10000 ly away and it contains Wolf-Rayet stars, massive, evolved and luminous stars . \r\n\r\nAcquisition from August 24 to September 13 :\r\n \r\nHa 143 x 300s\r\nO3 130 x 300s\r\nS2 112 x 300s\r\nRGB 3 x 60 x 60 s\r\nTotal : 33,5 h.",
+    "h": 3324,
+    "hash": "prk5ul",
+    "id": 524179,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Altair Astro Wave 115mm APO Triplet (f7)"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 147,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810850/"
+    ],
+    "orientation": "65.192",
+    "pixscale": "1.212",
+    "published": "2020-09-17T20:24:56.535353",
+    "ra": "334.841",
+    "radius": "0.953",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/524179/",
+    "revisions": [
+        "/api/v1/imagerevision/250478/",
+        "/api/v1/imagerevision/268925/"
+    ],
+    "subjects": [
+        "B369",
+        "RW Cep",
+        "Sh2-132"
+    ],
+    "title": "The Lion Nebula in SHO",
+    "updated": "2021-03-16T20:09:53.264661",
+    "uploaded": "2020-09-17T20:29:45.942893",
+    "url_duckduckgo": "https://www.astrobin.com/prk5ul/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/prk5ul/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/prk5ul/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/prk5ul/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/prk5ul/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/prk5ul/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/prk5ul/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30436/2020/bc652e63-d0a5-443a-b985-8920cb209b08.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30436/2020/bc652e63-d0a5-443a-b985-8920cb209b08-1600377505.png",
+    "url_thumb": "https://www.astrobin.com/prk5ul/0/rawthumb/thumb/",
+    "user": "Bobinius",
+    "views": 275,
+    "w": 4584
+}

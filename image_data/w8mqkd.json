@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "43.875",
+    "description": "The moon is out so time for NB imaging. The RASA 8 if an f/2 telescope so normal narrowband filters work poorly. So far I have only one of those and I recently collected Ha on this object with the High-speed Baader Ha filter but I am still waiting for the High-speed Baader Oiii filter (apparently in production). Last night in desperation I put on my 8.5 nm Baader Oiii filter to se if I could get anything, and it turned out I got quite a lot of signal, and no annoying reflexes. So here is the result of a Ha-Oiii image of Sh2-119, the less well known nebula just \"to the left\" of the North America Nebula.\r\n\r\nHa in the red channel and Oiii in the blue channel, and I made a synthetic green channel by 50:50 mixing of the Ha and Oiii data. Then I tweeked the colours towards an RGB look. All done in PS except initial calibration and stacking in PI.\r\n\r\nHa: 69 x 5 min. Oiii: 30 x 5 min. Gain 139, offset 50, -20°C.",
+    "h": 3118,
+    "hash": "w8mqkd",
+    "id": 522156,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "57.660",
+    "pixscale": "2.374",
+    "published": "2020-09-10T18:47:07.789184",
+    "ra": "319.555",
+    "radius": "1.693",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/522156/",
+    "revisions": [
+        "/api/v1/imagerevision/249128/",
+        "/api/v1/imagerevision/263433/"
+    ],
+    "subjects": [
+        "68 A Cyg",
+        "PK087-03.1",
+        "Sh2-119",
+        "The star 68Cyg"
+    ],
+    "title": "Sh2-119 - first bicolor with the RASA 8",
+    "updated": "2021-03-16T20:23:00.966346",
+    "uploaded": "2020-09-10T19:47:08.037746",
+    "url_duckduckgo": "https://www.astrobin.com/w8mqkd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w8mqkd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w8mqkd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w8mqkd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w8mqkd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w8mqkd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w8mqkd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2020/7b0c769d-267d-4a8a-a727-4e31a1c14600.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2020/7b0c769d-267d-4a8a-a727-4e31a1c14600-1599768488.jpg",
+    "url_thumb": "https://www.astrobin.com/w8mqkd/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 190,
+    "w": 4082
+}

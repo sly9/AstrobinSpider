@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "50.004",
+    "description": "This is now one of my favorite planetaries, now that I know about it! The color and symmetry along with the stars studding the ring edge all make for a lovely object. I color balance my images using G2V stars within the image as white balance points in an attempt to make the color close to what we might  see if our eyes were more sensitive to light.\r\n\r\nThis little planetary nebula in Northern Cygnus that is an almost perfectly symmetrical uniformly blue ring emitting the usually H-alpha, H-beta and OIII emission lines mixing (probably along with some blue H-gamma emission too) to produce the blue color. It's just a little over 10 arc seconds across. Only a couple of small dots of red dominantly H-alpha emission are visible at opposite sides of the ring, one partially obscured by a 16th magnitude star superimposed on the nebula. Its unknown wether this star is in behind or front of the nebula as no good parallax distance measurements are available on either this star or the progenitor star at the center of the nebula, even in the latest Gaia DR2 data set.\r\n\r\nThe only paper I found specifically about this object is from way back in 1997. The paper presents a variety of results including  spectrographic results and a distance estimate:\r\n\r\nhttp://articles.adsabs.harvard.edu/pdf/1997A%26A...328..641S\r\n\r\nThe authors estimate a distance of between 2000 and 4000 parsecs. Based on this, its a pretty small nebula, probably significantly less than .6 of a light year across.\r\n\r\nSix 8 minute exposures was live-stacked in SharpCap and composed of 320x1.5 second exposures. I then stacked the six live-stacked images and processed the result using Fitswork 4 to produce a final image with a total of 48 minutes integration time.",
+    "h": 765,
+    "hash": "asevy4",
+    "id": 534587,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Orion Skyquest xx16g Skyquest xx16g"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808760/"
+    ],
+    "orientation": "113.279",
+    "pixscale": "0.506",
+    "published": "2020-10-23T21:47:47.865047",
+    "ra": "322.717",
+    "radius": "0.094",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534587/",
+    "revisions": [],
+    "subjects": [
+        "PK093-00.1"
+    ],
+    "title": "K3-82 Blue ringed planetary nebula",
+    "updated": "2021-07-03T21:22:06.553147",
+    "uploaded": "2020-10-23T01:53:42.667227",
+    "url_duckduckgo": "https://www.astrobin.com/asevy4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/asevy4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/asevy4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/asevy4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/asevy4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/asevy4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/asevy4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27158/2020/59033c8f-6e76-4288-b775-0ec9bf3ee3cb.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27158/2020/59033c8f-6e76-4288-b775-0ec9bf3ee3cb-1603419729.png",
+    "url_thumb": "https://www.astrobin.com/asevy4/0/rawthumb/thumb/",
+    "user": "lowenthalm",
+    "views": 132,
+    "w": 1096
+}

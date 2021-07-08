@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-19.655",
+    "description": "IC4592 The Blue Horsehead reflection nebula in Scorpius in LRGB.\r\n\r\nThis is something of a bad luck object in that each night I try to image it, really bad weather or at least wind, dust and haze roll in.\r\n\r\nAnyhow, this image is the accumulated data from a March session in Costa Rica (with a travel mount), and another session in May in the US on my main mount.\r\n\r\nNot knowing quite how to get the best result given the dim dust and bright stars, I \"threw the kitchen sink\" at it via a number of camera gains and exposure times, and stacked them all together. No real plan here, I just stacked raws not too affected by weather.\r\n\r\n64x30sec   gain 0\r\n64x30sec   gain 240\r\n15x240sec gain 132\r\n17x120sec gain 240\r\n29x240sec gain 240\r\n\r\nCamera 1x1; cooling -10C; FWHM 3.2px. Applied bias, darks, flats from library.\r\n\r\nRather than reduce the glorious star field, I elected instead to enhance the visibility of the nebulosity.\r\n\r\nI used StarNet++ to pull out a starless luminance layer, enhanced the structural details of the nebulosity, then blended this back into the OSC's RGB image via PixelMath (max operator).\r\n\r\nDrizzle integrated at 2x for post processing then cropped to 16:9 aspect ratio and downscaled to standard UHD resolution. \r\n\r\nThe main mount ran unguided at King rate; and the compact 30mm f/4 ZWO guidescope with an ASI290MM Mini handled the travel mount.\r\n\r\nObserving sites and SQM data: \r\n\r\nFinca Alma de la Selva, UNESCO Savegre Biosphere Reserve, Costa Rica (SQM ~21.5)\r\n\r\nPahrump, NV USA  (SQM 20.57)",
+    "h": 2160,
+    "hash": "n0nua2",
+    "id": 497006,
+    "imaging_cameras": [
+        "ZWO ASI128MC Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star71-II"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814649/",
+        "/api/v1/location/2814650/"
+    ],
+    "orientation": "178.354",
+    "pixscale": "5.397",
+    "published": "2020-06-12T20:06:01.971032",
+    "ra": "244.667",
+    "radius": "3.303",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497006/",
+    "revisions": [],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star νSco",
+        "The star χOph",
+        "The star ψOph",
+        "The star ω1Sco",
+        "The star ω2Sco"
+    ],
+    "title": "IC4592 The Blue Horsehead with IC4601",
+    "updated": "2021-07-07T19:35:35.626455",
+    "uploaded": "2020-06-12T21:06:02.240505",
+    "url_duckduckgo": "https://www.astrobin.com/n0nua2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n0nua2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n0nua2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n0nua2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n0nua2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n0nua2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n0nua2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/69001/2020/37186c02-f2f4-469a-86bf-bfffaab2308d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/69001/2020/37186c02-f2f4-469a-86bf-bfffaab2308d-1591996487.jpg",
+    "url_thumb": "https://www.astrobin.com/n0nua2/0/rawthumb/thumb/",
+    "user": "JimLindelien",
+    "views": 159,
+    "w": 3840
+}

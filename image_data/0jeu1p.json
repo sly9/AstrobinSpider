@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 65,
+    "comments": 85,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is full rotation of planet Mars -  all of the data to make this animation was collected 3, 8, 12, 15, 22 and 28th of Septmber. This allow me to collect all of the necessary data to cover full Mars surface.\r\nThen I created several surface maps in WinJupos - using equirectangular projection and I putted it together into one map using Photoshop.\r\nFinally I put this map to WinJupos again and in \"Ephemerides\" section I create 3D rotation model using this map.\r\nThe effect is on attached GIF animation :)",
+    "h": 656,
+    "hash": "0jeu1p",
+    "id": 531973,
+    "imaging_cameras": [
+        "ZWO ASI 178 MM-C"
+    ],
+    "imaging_telescopes": [
+        "AstroFaktoria Truss Newtonian 350/1400"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 410,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-13T07:30:43.981203",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/531973/",
+    "revisions": [
+        "/api/v1/imagerevision/255249/"
+    ],
+    "subjects": [],
+    "title": "MARS 2020 -  full 3D planet rotation (GIF)",
+    "updated": "2021-04-09T08:20:02.938108",
+    "uploaded": "2020-10-13T08:01:12.104149",
+    "url_duckduckgo": "https://www.astrobin.com/0jeu1p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0jeu1p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0jeu1p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0jeu1p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0jeu1p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0jeu1p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0jeu1p/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/0jeu1p/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 3673,
+    "w": 800
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "80.907",
+    "description": "",
+    "h": 3020,
+    "hash": "gxmpcq",
+    "id": 478400,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "LACERTA Newton ohne Namen 8\"/f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807215/"
+    ],
+    "orientation": "87.150",
+    "pixscale": "0.982",
+    "published": "2020-04-18T05:41:16.751111",
+    "ra": "356.762",
+    "radius": "0.692",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478400/",
+    "revisions": [
+        "/api/v1/imagerevision/226899/"
+    ],
+    "subjects": [],
+    "title": "Sh2-174 - HOO",
+    "updated": "2021-03-17T03:05:21.368581",
+    "uploaded": "2020-04-17T20:55:10.617152",
+    "url_duckduckgo": "https://www.astrobin.com/gxmpcq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gxmpcq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gxmpcq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gxmpcq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gxmpcq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gxmpcq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gxmpcq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23064/2020/566ddb68-ceab-4cf5-be1d-f60db00ecb97.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23064/2020/566ddb68-ceab-4cf5-be1d-f60db00ecb97-1587157284.png",
+    "url_thumb": "https://www.astrobin.com/gxmpcq/0/rawthumb/thumb/",
+    "user": "masteiner",
+    "views": 196,
+    "w": 4080
+}

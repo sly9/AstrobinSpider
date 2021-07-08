@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 34,
+    "comments": 61,
+    "data_source": "BACKYARD",
+    "dec": "-20.831",
+    "description": "Completed 100 hours of narrow band data, 45 hours from last year (Apogee 8300) plus 55 hours from current year (QHY600). Acquired with an AP 6.6-inch apo refractor, FL 1250 mm. Composition is HS:HSO:O, and the processing tries to approach the HST image, with emphasis on the core details rather than surrounding nebulosity. My longest integration thus far.",
+    "h": 2792,
+    "hash": "pf1m1i",
+    "id": 526117,
+    "imaging_cameras": [],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 368,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "271.924",
+    "pixscale": "0.618",
+    "published": "2020-09-23T00:40:45.205160",
+    "ra": "337.429",
+    "radius": "0.317",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526117/",
+    "revisions": [
+        "/api/v1/imagerevision/251366/"
+    ],
+    "subjects": [
+        "Helix Nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix 100",
+    "updated": "2021-05-19T08:53:40.815161",
+    "uploaded": "2020-09-23T01:33:47.447069",
+    "url_duckduckgo": "https://www.astrobin.com/pf1m1i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pf1m1i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pf1m1i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pf1m1i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pf1m1i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pf1m1i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pf1m1i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2020/5e9134c2-1f87-4f03-875f-43f7cded6a28.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2020/5e9134c2-1f87-4f03-875f-43f7cded6a28-1600825282.jpg",
+    "url_thumb": "https://www.astrobin.com/pf1m1i/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 2286,
+    "w": 2414
+}

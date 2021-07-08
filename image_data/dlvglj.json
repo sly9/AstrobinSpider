@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "0.131",
+    "description": "Processing Details:\r\n•Stacking from LVA\r\n•Drizzle Integration\r\n•EZ Soft Stretch RGB data\r\n•LRGB Combination RGB, & Chrominance NR \r\n•Convolution – RGB Data till noise is no longer noticeable \r\n•Color Saturation \r\n•SCNR – Green\r\n•Curves Transformation, bring down green, boost reds. \r\n•EZ Denoise – Luminance \r\n•Histogram Transformation – Luminance \r\n•Deconvolution \r\n•HDR Multiscale Transform – 8 Layers, Small Scale 5 (3)\r\n•Pixelmath – 0.3*Lum+0.7*HDR\r\n•LHE – Kernal: 34, Contrast Limit: 1.5, Amount: 0.170\r\nLRGB Combination – Apply Luminance to RGB Data\r\n•Color Saturation\r\n•ACDNR – Chrominance",
+    "h": 3384,
+    "hash": "dlvglj",
+    "id": 564324,
+    "imaging_cameras": [
+        "QHYCCD 183M"
+    ],
+    "imaging_telescopes": [
+        "TPO 6\" f/4 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "288.200",
+    "pixscale": "0.819",
+    "published": "2021-02-08T03:45:45.732165",
+    "ra": "86.700",
+    "radius": "0.700",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/564324/",
+    "revisions": [
+        "/api/v1/imagerevision/272718/"
+    ],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M78",
+    "updated": "2021-06-27T19:44:04.332002",
+    "uploaded": "2021-02-08T03:28:56.056617",
+    "url_duckduckgo": "https://www.astrobin.com/dlvglj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dlvglj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dlvglj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dlvglj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dlvglj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dlvglj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dlvglj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33270/2021/2501ed03-be74-488a-8835-663b4dfda2c0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33270/2021/2501ed03-be74-488a-8835-663b4dfda2c0-1612755966.png",
+    "url_thumb": "https://www.astrobin.com/dlvglj/0/rawthumb/thumb/",
+    "user": "Shastarocks",
+    "views": 284,
+    "w": 5132
+}

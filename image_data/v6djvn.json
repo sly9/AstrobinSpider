@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "40.167",
+    "description": "IC 1318 is an emission nebula, surrounding the star Sadr (Gamma Cygni).\r\nOn the right side of the image one can find the reflection nebula RNO 122.\r\n\r\nHa-LRGB; Ha 107x10 min, L 44x10 min, RGB 19x10 min per filter; total 34 h 40 min.",
+    "h": 2001,
+    "hash": "v6djvn",
+    "id": 525762,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 ext. FW10"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "http://deeplook.astronomie.at/ic%201318%20mizar.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813232/"
+    ],
+    "orientation": "353.246",
+    "pixscale": "3.225",
+    "published": "2020-09-22T06:40:32.180053",
+    "ra": "306.559",
+    "radius": "1.489",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/525762/",
+    "revisions": [],
+    "subjects": [
+        "37 gam Cyg",
+        "B347",
+        "NGC 6910",
+        "NGC6910",
+        "PK078+00.1",
+        "PK079+00.1",
+        "Sadr",
+        "Sh2-108",
+        "The star Sadr (γCyg)"
+    ],
+    "title": "IC 1318 - Gamma Cygni Nebula wide field",
+    "updated": "2021-07-02T20:05:02.490985",
+    "uploaded": "2020-09-22T07:40:32.998622",
+    "url_duckduckgo": "https://www.astrobin.com/v6djvn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/v6djvn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/v6djvn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/v6djvn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/v6djvn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/v6djvn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/v6djvn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/62588/2020/23fe5178-ec70-4641-859b-6f0ac9c082a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/62588/2020/23fe5178-ec70-4641-859b-6f0ac9c082a9-1600761711.jpg",
+    "url_thumb": "https://www.astrobin.com/v6djvn/0/rawthumb/thumb/",
+    "user": "Markus_Blauensteiner",
+    "views": 285,
+    "w": 2656
+}

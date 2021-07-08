@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "41.117",
+    "description": "M94 - The Crocodile's Eye or Cat's Eye Galaxy (looks more like the crocodile's to me 😄)\r\n\r\nThe weather did not allow me to take Luminance for this object so I instead built a synthetic luminance.  The halo that surrounds M94 can be seen to some extent, but to reveal that faint structure in more detail, I need Luminance and darker skies (I don't have one or the other 😢)\r\n\r\nSynthetic Luminance is a technique that I have used quite successfully lately. Every time I start a broadband object I take the RGB frames first. This way if the weather betrays me, I can at least build a synthetic luminance, process the image and get a fairly reasonable result.\r\n\r\nLocation:  My backyard in Caguas, Puerto Rico / Sky Quality 18.3 (almost Bortle 8, yes it is BAD!)",
+    "h": 3310,
+    "hash": "1t66ti",
+    "id": 493588,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "163.722",
+    "pixscale": "0.528",
+    "published": "2020-05-31T21:18:38.182147",
+    "ra": "192.751",
+    "radius": "0.389",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/493588/",
+    "revisions": [
+        "/api/v1/imagerevision/236405/"
+    ],
+    "subjects": [
+        "M 94",
+        "NGC 4736"
+    ],
+    "title": "M 94 - The Croc Eye Galaxy",
+    "updated": "2021-05-21T10:48:04.406858",
+    "uploaded": "2020-05-31T22:18:38.377365",
+    "url_duckduckgo": "https://www.astrobin.com/1t66ti/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1t66ti/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1t66ti/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1t66ti/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1t66ti/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1t66ti/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1t66ti/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10201/2020/d82fafbb-b855-43ee-a192-7b91d9a3f08d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10201/2020/d82fafbb-b855-43ee-a192-7b91d9a3f08d-1590963738.jpg",
+    "url_thumb": "https://www.astrobin.com/1t66ti/0/rawthumb/thumb/",
+    "user": "Wanda.Conde",
+    "views": 207,
+    "w": 4134
+}

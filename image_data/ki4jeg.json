@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "41.271",
+    "description": "This is an image from last year that was deleted from Astrobin along with several others. I cannot recall the acquisition details but I do know I used 600 s luminance and 300 s, bin 2x2 for the RGB frames.",
+    "h": 4419,
+    "hash": "ki4jeg",
+    "id": 505122,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX III"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807593/"
+    ],
+    "orientation": "270.222",
+    "pixscale": "2.333",
+    "published": "2020-07-13T00:44:57.673117",
+    "ra": "10.676",
+    "radius": "1.830",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/505122/",
+    "revisions": [],
+    "subjects": [
+        "Andromeda Galaxy",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "The star νAnd"
+    ],
+    "title": "Messier 31 (Andromeda Galaxy)",
+    "updated": "2021-07-08T00:53:50.420396",
+    "uploaded": "2020-07-13T01:44:57.959962",
+    "url_duckduckgo": "https://www.astrobin.com/ki4jeg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ki4jeg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ki4jeg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ki4jeg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ki4jeg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ki4jeg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ki4jeg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24072/2020/075f566a-cf26-407a-8c50-a8a23886d8c2.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24072/2020/075f566a-cf26-407a-8c50-a8a23886d8c2-1594605138.jpeg",
+    "url_thumb": "https://www.astrobin.com/ki4jeg/0/rawthumb/thumb/",
+    "user": "stinerjohn",
+    "views": 364,
+    "w": 3515
+}

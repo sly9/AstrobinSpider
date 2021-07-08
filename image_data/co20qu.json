@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "25.991",
+    "description": "The way my backyard is structured makes it extremely hard to image anything outside of the celestial north pole and DSO's passing high overhead to the south. Objects such as the Needle Galaxy are only available for about one hour a night due to trees. \r\n\r\nThe seeing and transparency were not great, so I could not take advantage of the full resolution of my RC. However, a clear night is a clear night and you gotta take what you can get. \r\n\r\nI think I might bump up my exposure time a bit for the next object. Sixty seconds for broadband is already generous in bortle 8, but I probably spend 40 minutes imaging and 20 minutes dithering per hour. I might try 120 seconds as my go to sub length for broadband city imaging. Speaking of dithering, its nice to have a mount that can do it reliably now. It really makes a difference, especially for these OSC's!\r\n\r\nHOWEVER I decided to give APP a go for stacking and oh boy, does it blow DSS out of  the water!",
+    "h": 1063,
+    "hash": "co20qu",
+    "id": 581159,
+    "imaging_cameras": [
+        "ZWO ASI 2600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "TS Optics RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815750/"
+    ],
+    "orientation": "359.835",
+    "pixscale": "1.977",
+    "published": "2021-04-11T00:00:32.565788",
+    "ra": "189.103",
+    "radius": "0.409",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/581159/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4562",
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "C 38",
+    "updated": "2021-06-27T07:18:36.328454",
+    "uploaded": "2021-04-10T23:40:09.819364",
+    "url_duckduckgo": "https://www.astrobin.com/co20qu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/co20qu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/co20qu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/co20qu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/co20qu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/co20qu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/co20qu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/92959/2021/0f330885-cb02-469a-a20a-df93f4b69ad3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/92959/2021/0f330885-cb02-469a-a20a-df93f4b69ad3-1618098543.png",
+    "url_thumb": "https://www.astrobin.com/co20qu/0/rawthumb/thumb/",
+    "user": "SemiPro",
+    "views": 319,
+    "w": 1046
+}

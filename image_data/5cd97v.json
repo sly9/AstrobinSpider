@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-13.788",
+    "description": null,
+    "h": 6209,
+    "hash": "5cd97v",
+    "id": 600616,
+    "imaging_cameras": [
+        "QHYCCD QHY600"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 31,
+    "link": null,
+    "link_to_fits": "https://www.dropbox.com/s/x5stximp8l6vdin/m16.fit?dl=0",
+    "locations": [
+        "/api/v1/location/2816371/"
+    ],
+    "orientation": "180.423",
+    "pixscale": "0.273",
+    "published": "2021-06-29T00:52:02.827066",
+    "ra": "274.726",
+    "radius": "0.425",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600616/",
+    "revisions": [
+        "/api/v1/imagerevision/293242/",
+        "/api/v1/imagerevision/293243/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "M16 Eagle Nebula",
+    "updated": "2021-07-06T19:06:02.330804",
+    "uploaded": "2021-06-29T00:28:48.284722",
+    "url_duckduckgo": "https://www.astrobin.com/5cd97v/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5cd97v/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5cd97v/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5cd97v/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5cd97v/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5cd97v/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5cd97v/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/36681/2021/aa4b4bcd-2d63-4303-ae4e-15bf8328d767.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/36681/2021/aa4b4bcd-2d63-4303-ae4e-15bf8328d767-1624927258.jpg",
+    "url_thumb": "https://www.astrobin.com/5cd97v/0/rawthumb/thumb/",
+    "user": "smccully",
+    "views": 120,
+    "w": 9318
+}

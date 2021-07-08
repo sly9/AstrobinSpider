@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "TRAVELLER",
+    "dec": "25.988",
+    "description": "The iconic edge-on spiral, NGC 4565 (the Needle Galaxy) imaged over several nights in February-March 2021. Also seen in the image is its dwarf satellite companion, IC 3571 that is believed to cause a warp in the NGC4565 disk.\r\n\r\nThis LRGB image was taken with the 250 mm f/4 Lacerta PhotoNewton and a new ZWO ASI294MM Pro camera on the Orion HDX-110 EQ-G mount. \r\n\r\nExposure Information:\r\nL: 45x300s (Gain 0, bin 1x1), 5x90s (Gain 108, bin 1x1)\r\nR: 42x180s (Gain 108, bin 1x1)\r\nG: 20x300s (Gain 108, bin 1x1)\r\nB: 33x180s (Gain 108, bin 1x1)\r\n\r\nTotal exposure: 9.3 hours",
+    "h": 4894,
+    "hash": "djcd1b",
+    "id": 599364,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "89.530",
+    "pixscale": "0.478",
+    "published": "2021-06-22T16:23:01.761327",
+    "ra": "189.089",
+    "radius": "0.562",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599364/",
+    "revisions": [
+        "/api/v1/imagerevision/292432/"
+    ],
+    "subjects": [
+        "IC3533",
+        "IC3543",
+        "IC3546",
+        "IC3571",
+        "IC3582",
+        "NGC 4562",
+        "NGC 4565",
+        "NGC4562",
+        "NGC4565",
+        "Needle Galaxy"
+    ],
+    "title": "NGC 4565, The Needle Galaxy",
+    "updated": "2021-07-06T20:48:55.642096",
+    "uploaded": "2021-06-22T15:32:06.519543",
+    "url_duckduckgo": "https://www.astrobin.com/djcd1b/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/djcd1b/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/djcd1b/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/djcd1b/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/djcd1b/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/djcd1b/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/djcd1b/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2021/cf45c460-3c53-4251-8e78-222c42e99079.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2021/cf45c460-3c53-4251-8e78-222c42e99079-1624377205.jpg",
+    "url_thumb": "https://www.astrobin.com/djcd1b/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 205,
+    "w": 6922
+}

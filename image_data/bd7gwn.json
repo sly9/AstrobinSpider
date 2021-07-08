@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.436",
+    "description": "<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></ a>",
+    "h": 6353,
+    "hash": "bd7gwn",
+    "id": 561850,
+    "imaging_cameras": [
+        "ZWO ASI 6200 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106",
+        "Takahashi TOA-130"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814802/"
+    ],
+    "orientation": "40.134",
+    "pixscale": "0.771",
+    "published": "2021-01-28T19:30:15.724649",
+    "ra": "170.250",
+    "radius": "1.226",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/561850/",
+    "revisions": [
+        "/api/v1/imagerevision/271090/"
+    ],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet",
+    "updated": "2021-07-06T23:51:10.059218",
+    "uploaded": "2021-01-28T17:45:27.536496",
+    "url_duckduckgo": "https://www.astrobin.com/bd7gwn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bd7gwn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bd7gwn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bd7gwn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bd7gwn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bd7gwn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bd7gwn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6729/2021/cbdb00e9-34a5-42e9-bd07-625a6489d5fa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6729/2021/cbdb00e9-34a5-42e9-bd07-625a6489d5fa-1611858136.jpg",
+    "url_thumb": "https://www.astrobin.com/bd7gwn/0/rawthumb/thumb/",
+    "user": "yzhzhang",
+    "views": 731,
+    "w": 9519
+}

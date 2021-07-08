@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "-5.363",
+    "description": "It's been a while since I loaded an image here - been busy sorting automation! \r\nDuring Covid lockdown one in March last year, I decided to learn automation - along the way and with much fiddling and frustration; I've tried Kstars/Ekos directly on the mac, Voyager on PC, SGP on PC and finally ...  Stellarmate!\r\n\r\nThis is my first image from my new Stellarmate/Rpi4/KStars/Ekos Macbook pro combo and I'm delighted, not because it's good ol' M42, but because I took it while sitting on the couch as the 'Scope Plate solved, Locked on, Auto focussed, Calibrated, Guided, Changed filters, Meridian flipped and did it all over again for three nights! \r\n\r\nStill some minor niggles with porting and multi-star guiding to resolve, but nearly there now :)\r\n\r\nI chose M42 because it's big, bright and required meridian flips to image during the night.\r\nMost folks would agree that M42 looks great in broadband LRGB, so it's a great challenge to try and produce a pleasing narrowband colour palette. Hopefully this one works!\r\n\r\n3 Hrs each 5nm Ha & S2, 3 Hrs 3nm O3 from my light polluted suburban location in Melbourne, Australia. Average seeing, Bortle 5/6 skies.",
+    "h": 2385,
+    "hash": "uyng59",
+    "id": 557125,
+    "imaging_cameras": [
+        "QSI 6162 monochrome"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130 APO Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804469/"
+    ],
+    "orientation": "103.868",
+    "pixscale": "1.822",
+    "published": "2021-01-11T11:05:00.628441",
+    "ra": "83.753",
+    "radius": "0.970",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557125/",
+    "revisions": [
+        "/api/v1/imagerevision/268529/"
+    ],
+    "subjects": [
+        "Great Orion Nebula",
+        "Lower Sword",
+        "M 42",
+        "M 43",
+        "Mairan's Nebula",
+        "NGC 1973",
+        "NGC 1975",
+        "NGC 1976",
+        "NGC 1977",
+        "NGC 1980",
+        "NGC 1982",
+        "Orion Nebula",
+        "The star 42Ori",
+        "The star 45Ori",
+        "The star θ1Ori",
+        "The star θ2Ori",
+        "The star ιOri",
+        "the Running Man Nebula"
+    ],
+    "title": "Fire in the Sky: M42 in Lurid Narrowband",
+    "updated": "2021-05-04T00:19:28.701012",
+    "uploaded": "2021-01-11T10:38:52.920601",
+    "url_duckduckgo": "https://www.astrobin.com/uyng59/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uyng59/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uyng59/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uyng59/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uyng59/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uyng59/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uyng59/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8900/2021/f8606614-2f26-468a-8031-8b3ca02dae41.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8900/2021/f8606614-2f26-468a-8031-8b3ca02dae41-1610363107.jpg",
+    "url_thumb": "https://www.astrobin.com/uyng59/0/rawthumb/thumb/",
+    "user": "Andys_Astropix",
+    "views": 390,
+    "w": 3000
+}

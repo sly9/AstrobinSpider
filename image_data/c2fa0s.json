@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "55.292",
+    "description": "",
+    "h": 2904,
+    "hash": "c2fa0s",
+    "id": 569030,
+    "imaging_cameras": [
+        "ZWO ASI2600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC 6\" Newton f/4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807215/"
+    ],
+    "orientation": "101.238",
+    "pixscale": "1.287",
+    "published": "2021-02-23T17:11:14.648152",
+    "ra": "168.246",
+    "radius": "0.859",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/569030/",
+    "revisions": [
+        "/api/v1/imagerevision/275172/"
+    ],
+    "subjects": [
+        "M 108",
+        "M 97",
+        "M108",
+        "M97",
+        "NGC 3556",
+        "NGC 3587",
+        "Owl Nebula",
+        "Owl nebula",
+        "PK148+57.1"
+    ],
+    "title": "Owl Nebula",
+    "updated": "2021-07-03T20:49:10.674537",
+    "uploaded": "2021-02-23T17:01:57.393526",
+    "url_duckduckgo": "https://www.astrobin.com/c2fa0s/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c2fa0s/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c2fa0s/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c2fa0s/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c2fa0s/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c2fa0s/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c2fa0s/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23064/2021/1624204e-525c-4637-a68a-958f5253fac5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23064/2021/1624204e-525c-4637-a68a-958f5253fac5-1614100136.jpg",
+    "url_thumb": "https://www.astrobin.com/c2fa0s/0/rawthumb/thumb/",
+    "user": "masteiner",
+    "views": 182,
+    "w": 3828
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "46.232",
+    "description": "Abell 61 is a small, about 3.4', relatively faint planetary nebula in Cygnus lying approximately 4500 LY's away.  The OIII contribution is dominant however the internal structure is defined by the Ha contribution which required about double the exposure time of the OIII to capture. A possible explanation for the double rings at the periphery of the nebula is the binary nature of its central star.",
+    "h": 1783,
+    "hash": "mehrig",
+    "id": 496944,
+    "imaging_cameras": [
+        "QHY 163M QHY 163 Mono"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10 Carbon"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "http://www.rwstanley.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807368/"
+    ],
+    "orientation": "0.922",
+    "pixscale": "0.391",
+    "published": "2020-07-12T16:43:01.133697",
+    "ra": "289.789",
+    "radius": "0.148",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496944/",
+    "revisions": [
+        "/api/v1/imagerevision/245226/"
+    ],
+    "subjects": [
+        "PK077+14.1"
+    ],
+    "title": "Abell 61 Planetary Nebula Bicolor",
+    "updated": "2021-05-23T11:53:53.159823",
+    "uploaded": "2020-06-12T16:44:44.386013",
+    "url_duckduckgo": "https://www.astrobin.com/mehrig/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mehrig/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mehrig/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mehrig/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mehrig/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mehrig/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mehrig/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23385/2020/5244dcf5-0cfb-45ea-9057-adfbefd34ad2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23385/2020/5244dcf5-0cfb-45ea-9057-adfbefd34ad2-1591980544.jpg",
+    "url_thumb": "https://www.astrobin.com/mehrig/0/rawthumb/thumb/",
+    "user": "rwstanley",
+    "views": 191,
+    "w": 2060
+}

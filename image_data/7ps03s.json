@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 39,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.158",
+    "description": "NGC 7822 is a star forming region in the constellation of Cepheus. The region includes the emission region designated Sharpless 171, and is a part of the wider CED 214 region.  This object is thought to be at a distance of about 3,000 ly distant with a diameter of about 150 ly and it includes regions of active star formation.  The younger, new stars in this region are no more than a few million years old.  This area also includes one of the hottest stars discovered in our nearby neighborhood.   BD+66 1673 is an eclipsing binary system consisting of an O5V blue star (near the center of my image) that has a surface temperature of nearly 45,000K and an absolute brightness roughly 100,000 times greater than the Sun.  It is one of the primary sources illuminating the nebula.  This  nebula features a lot of complexity and it includes  some famed pillars of creation-type formations called the elephant trunks.\r\n\r\nI first started this narrow band imaging project as the moon was waning during late July.  Since the monsoons were in full swing, it seemed like a long slog to get this image finished.  It was common to get the scope started only to quickly have to shut it down as storms moved in. It took some patience to work around all the bad weather and it seems like a long time since I've been able to post a new image, but it was worth it.  As I sorted the data, I also found that many of the subs were affected by passing clouds creating either a shorter than recorded exposure or a lot of scattered light.  The seeing almost always started out pretty bad but I was delighted to find that I was able to achieve nearly a 50% yield from all the data that I took.  I found that the O2 signal was very weak and the other data wasn't super strong.  So, I needed a fair amount of data to get a reasonably clean result.  I was a bit surprised when I saw that I had used over 40 hours of data but that sure helped to produce a reasonably clean result. \r\n\r\nEDIT:\r\nI meant to include some information about processing weak NB data because it's something that I ran into when I processed this image.  When you work with faint NB data, the signal level of the background can be quite low (particularly during new moon.)  That means that when you do the flat correction, some pixels may be driven to have zero or negative values (after subtracting bias,) which PI clamps to zero.  This can be caused by old bias data that may not provide sufficient offset to avoid having the data to cross into negative values when the flat correction calculation is done.  Those zero values cause problems with the PI interpolation algorithm when you register the images.  You'll know that you've run into this issue when you see a Moire pattern in the registered data. The problem is worse for images that require rotation and it looks like a 2D semi-rectangular or circular Moire pattern.  The frequency of the Moire varies with the amount of rotation required.  More rotation produces a higher spatial frequency pattern.\r\n \r\nThe fix for the problem is to add an offset to the calibrated data.  If you look at the calibration dialog in PI, you'll see an option for \"Output pedestal (DN)\" under the \"Output Files\" tab.  That's what that option does and that's why it's there.  In this case, I had to add an additional 30 DN offset to the O3 and S2 signals to avoid this problem.  Getting the offset adjusted to remove the zero pixel values completely fixes the problem.  Just be sure to check the box to subtract the offsets when you stack the results.  On possible side effect is that with an offset, the low-level statistical stacking filter can be affected and you may not reject data that would normally be tossed out.  That may cause another side effect that seems to affect how local normalization data is computed.  In that case, it may produce a very mottled background.  Simply reverting to \"additive with scaling\" should solved that issue.\r\n\r\nAs always, C&C is welcome so feel free to let me know what you think.\r\n\r\nJohn",
+    "h": 3999,
+    "hash": "7ps03s",
+    "id": 523901,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.564",
+    "pixscale": "0.476",
+    "published": "2020-09-16T23:09:11.403920",
+    "ra": "0.975",
+    "radius": "0.374",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/523901/",
+    "revisions": [
+        "/api/v1/imagerevision/250013/",
+        "/api/v1/imagerevision/250260/"
+    ],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "NGC 7822/CED 214 ...More Pillars and More Creation",
+    "updated": "2021-05-21T22:49:22.240642",
+    "uploaded": "2020-09-16T21:44:01.806726",
+    "url_duckduckgo": "https://www.astrobin.com/7ps03s/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7ps03s/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7ps03s/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7ps03s/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7ps03s/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7ps03s/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7ps03s/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/4b453291-7de1-40c1-8e25-1a501991c4c3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/4b453291-7de1-40c1-8e25-1a501991c4c3-1600295712.jpg",
+    "url_thumb": "https://www.astrobin.com/7ps03s/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 798,
+    "w": 3999
+}

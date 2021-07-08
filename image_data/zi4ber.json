@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 23,
+    "data_source": "TRAVELLER",
+    "dec": "-49.474",
+    "description": "NGC4945 is member of the Centaurus A cluster of galaxies and at 12 MLightyears one of the nearest AGN/Seyfert 2/starburst types as well. We look at the spiral almost edge on, and masses of dust filaments are silhouetted against the starforming regions. The superenergetic nucleus is totally hidden inside the bulge, but is extremely bright in IR making NGC4945 the 3rd brightest IR source in the sky (superseded only by M82 and NGC253). There is a powerful H2O maser at work, encircling the nucleus at tremendous speed that points at a supermassive black hole of 1.4 million sunmasses. BeppoSAX and XMMNewton observations in Xrays picture complex plume structures near the nucleus together with a hard variable source. So NGC4945 shows hallmarks of a starburst galaxy and a Seyfert powered nucleus as well. Its still not determined what part contributes more to the intense energy we see at work.\r\n\r\nThis information is extracted from \"Annals of the Deep Sky\" Vol.V, and from the bottom of my heart I wish the authors will be able to continue this unique and important series despite the sad and unexpected closedown of Willman-Bell publishing house.\r\n\r\nIts a pure LRGB with ASI1600 working at gain 75.",
+    "h": 1610,
+    "hash": "zi4ber",
+    "id": 542824,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Faried 10\"f4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 311,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811293/"
+    ],
+    "orientation": "81.040",
+    "pixscale": "0.784",
+    "published": "2020-11-19T23:22:57.415699",
+    "ra": "196.364",
+    "radius": "0.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542824/",
+    "revisions": [
+        "/api/v1/imagerevision/260768/",
+        "/api/v1/imagerevision/260770/"
+    ],
+    "subjects": [
+        "NGC 4945"
+    ],
+    "title": "NGC4945",
+    "updated": "2021-07-06T02:52:32.927801",
+    "uploaded": "2020-11-19T22:36:12.304552",
+    "url_duckduckgo": "https://www.astrobin.com/zi4ber/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zi4ber/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zi4ber/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zi4ber/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zi4ber/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zi4ber/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zi4ber/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/c5b256f1-7275-44d5-8612-348871f84c69.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/c5b256f1-7275-44d5-8612-348871f84c69-1605827999.jpg",
+    "url_thumb": "https://www.astrobin.com/zi4ber/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 1705,
+    "w": 2123
+}

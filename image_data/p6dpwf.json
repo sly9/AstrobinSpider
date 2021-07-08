@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 61,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "About 1,500 light years away in the constellation Auriga is the bright nebula, The Flaming Star (IC 405). The glowing blue region at the center of this image is created by the light from a massive, blue dwarf star, AE Aurigae, reflecting off of the surrounding dust. AE Aurigae was not formed in this location. It is a “runaway star” that was ejected two million years ago from the area of the Trapezium Cluster (Orion’s Sword) in a collision of two binary stars.\r\n\r\nThe data for this image were taken during two different years with two different telescopes. The 2018 data were taken with an SW Esprit 100 (550mm) and the 2019 data with a WO FLT132 (925mm), both using the same ZWO ASI1600MM Pro camera. In this rendition the 2018 data (FOV 1.84 X 1.39 degrees) were used for color mapping, while the 2019 data (FOV 1.09 X 0.83 degrees) were used only in a luminance mask. To help enhance the resolution of the nebular structure the 2019 data were edited to include only sub lights whose HFR < 2.7, reducing the data set from 20.1 hours to 9.2 hours.\r\n\r\nIn my first effort to process these data in 2019 I did an SHO/RGB rendition with a Hubble palette (sort of). While I was happy with the result, I thought that there was an opportunity to create more drama in the image by highlighting AE Aurigae, the “star of the show” (sorry). So, this time I reprocessed the data, removed the “supporting” stars, and gave the spotlight to AE Aurigae. To create a \"bokeh effect\" (a depth of field effect seen in terrestrial photography), I softened the gas and dust that surrounds the core, roiling structure. Tip of the hat to Alan Pham for adding the star spikes for me (I've got to get a PC someday).",
+    "h": 2000,
+    "hash": "p6dpwf",
+    "id": 523968,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 184,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-09-17T03:58:56.989142",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/523968/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Flaming Star Nebula (IC 405)",
+    "updated": "2021-07-04T17:37:24.732540",
+    "uploaded": "2020-09-17T04:58:57.155413",
+    "url_duckduckgo": "https://www.astrobin.com/p6dpwf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/p6dpwf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/p6dpwf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/p6dpwf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/p6dpwf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/p6dpwf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/p6dpwf/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/p6dpwf/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 662,
+    "w": 3000
+}

@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "44.204",
+    "description": "I am not exactly sure what to call this.  The focus for me is on the dark nebula so the Mushroom Cloud seemed right.  But maybe the Dirty Pond or the Thunderstorm?\r\n\r\nOf course this is the North America Nebula and the Pelican, but my goal was for it not to appear as the traditional continental outline.  Instead I wanted to bring out detail to the \"oceans\" areas.  And then there is that third bright emission area that balances the Pelican and Wall.  That surprised me.\r\n\r\nThis is all backyard data from the city of Portland Oregon.  At latitude 45 North, Cygnus is well placed for my peak-a-boo sky view.  The FOV is not cropped much from the original QHY600M+FSQ106 data.\r\n\r\nI mixed the SHO color channels in PI's Pixelmath.  I just kept trying different combo's till something clicked.  I failed to note the final but it was a variant on SHO.  Color was further adjusted in PS.  \r\n\r\nStarnet++ was used to identify the star locations and PS content aware fill used to replace them.  After high pass and unsharp mask filters, stars were added back.",
+    "h": 6277,
+    "hash": "f6m8m8",
+    "id": 512558,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 198,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809385/"
+    ],
+    "orientation": "214.919",
+    "pixscale": "1.458",
+    "published": "2020-08-07T13:55:38.364677",
+    "ra": "314.180",
+    "radius": "2.189",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/512558/",
+    "revisions": [
+        "/api/v1/imagerevision/244479/",
+        "/api/v1/imagerevision/244480/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "NGC 6989",
+        "NGC 6997",
+        "NGC 7000",
+        "North America Nebula",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star 60Cyg",
+        "The star ξCyg"
+    ],
+    "title": "The Mushroom Cloud of Cygnus",
+    "updated": "2021-06-16T17:02:37.944262",
+    "uploaded": "2020-08-06T19:00:04.814799",
+    "url_duckduckgo": "https://www.astrobin.com/f6m8m8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f6m8m8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f6m8m8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f6m8m8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f6m8m8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f6m8m8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f6m8m8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/8c01df27-6123-4c65-9af5-9aab552a96fe.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/8c01df27-6123-4c65-9af5-9aab552a96fe-1596741269.jpg",
+    "url_thumb": "https://www.astrobin.com/f6m8m8/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 566,
+    "w": 8799
+}

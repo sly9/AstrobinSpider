@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "4.981",
+    "description": "Bonjour\r\nComme pour la version SHO, j'ai retraité le centre de NGC2244 ou se trouve l'amas d'étoiles ,pour que cela donne plus de détails et de profondeurs que dans l'image initiale .Dites moi ce que vous en pensez ?\r\n\r\nHalpha:214x600s en bin1\r\nOIII:41x180s en bin2\r\n\r\ntemps total: ~38 Heures\r\n\r\nHi\r\nAs for the SHO version, I have reprocessed the center of NGC2244 where the star cluster is, so that it gives more details and depths than in the initial image. Tell me what you think?\r\n\r\nHalpha: 214x600s in bin1\r\nOIII: 41x180s in bin2\r\n\r\ntotal time: ~ 38 Hours",
+    "h": 1589,
+    "hash": "ennov7",
+    "id": 498214,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805429/"
+    ],
+    "orientation": "276.211",
+    "pixscale": "2.322",
+    "published": "2020-06-17T12:08:59.576593",
+    "ra": "97.964",
+    "radius": "0.797",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498214/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2244 in HOO zoom (new process)",
+    "updated": "2021-03-17T11:05:10.770949",
+    "uploaded": "2020-06-17T13:08:59.723307",
+    "url_duckduckgo": "https://www.astrobin.com/ennov7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ennov7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ennov7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ennov7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ennov7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ennov7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ennov7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/ce1eb25b-3e25-4bae-95f4-2bca5929f872.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/ce1eb25b-3e25-4bae-95f4-2bca5929f872-1592399541.jpg",
+    "url_thumb": "https://www.astrobin.com/ennov7/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 286,
+    "w": 1890
+}

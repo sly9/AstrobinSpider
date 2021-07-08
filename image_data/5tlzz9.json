@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Comet Neowise rising from the Northeast over the Washington Monument.  The comet was not very visible to the naked eye, due to the heavy light pollution over DC coupled with the low altitude of this target.  But with a pair of binoculars, Neowise was readily visible.\r\n\r\nThis animated GIF consists of 135 frames from a Nikon D500 with a Tokina 100mm f/2.8 macro lens, taken from across the Potomac River in my home town of Arlington, VA.  Exposure details:\r\n- 0.5s exposures at 30s intervals\r\n- f/4, ISO 800\r\n\r\nThis low-res GIF compresses the ~25MB frames into ~200KB each, so much of the detail is lost.  I've also added as Revision B a better resolution JPEG of one of the frames (compressed to ~2MB).",
+    "h": 675,
+    "hash": "5tlzz9",
+    "id": 505132,
+    "imaging_cameras": [
+        "NIkon D500"
+    ],
+    "imaging_telescopes": [
+        "Tokina Macro 100mm f/2.8D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811894/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-07-13T01:00:28.210918",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/505132/",
+    "revisions": [
+        "/api/v1/imagerevision/241264/"
+    ],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet Neowise over Washington DC (a time-lapse)",
+    "updated": "2021-03-17T00:34:24.343996",
+    "uploaded": "2020-07-13T02:00:28.929779",
+    "url_duckduckgo": "https://www.astrobin.com/5tlzz9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5tlzz9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5tlzz9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5tlzz9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5tlzz9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5tlzz9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5tlzz9/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/5tlzz9/0/rawthumb/thumb/",
+    "user": "angutier",
+    "views": 327,
+    "w": 1200
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-16.113",
+    "description": "",
+    "h": 2368,
+    "hash": "xxwhsh",
+    "id": 486625,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Orion ED80 F7.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "183.044",
+    "pixscale": "1.317",
+    "published": "2020-05-09T21:00:11.248652",
+    "ra": "275.168",
+    "radius": "0.764",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486625/",
+    "revisions": [],
+    "subjects": [
+        "Checkmark Nebula",
+        "IC 4706",
+        "IC 4707",
+        "Lobster Nebula",
+        "M 17",
+        "NGC 6618",
+        "Swan Nebula",
+        "omega Nebula"
+    ],
+    "title": "Omega Nebula - Messier 17",
+    "updated": "2021-03-17T02:19:17.899768",
+    "uploaded": "2020-05-09T22:00:11.671874",
+    "url_duckduckgo": "https://www.astrobin.com/xxwhsh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xxwhsh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xxwhsh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xxwhsh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xxwhsh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xxwhsh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xxwhsh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5179/2020/d940088f-9fb9-46fd-8a4d-6c5a0125d9ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5179/2020/d940088f-9fb9-46fd-8a4d-6c5a0125d9ff-1589063550.jpg",
+    "url_thumb": "https://www.astrobin.com/xxwhsh/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 179,
+    "w": 3440
+}

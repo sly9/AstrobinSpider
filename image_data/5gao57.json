@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-23.835",
+    "description": "This is an image I worked on for a while this winter.  SH2-308 never rises above 40 degrees in the sky from our location in Florida.  But it is such a cool looking object I couldn't resist trying to capture it.  I ended up with just over 32 hours of data in Ha and OIII.  I combined the filters into a HOO image.  (Hydrogen, Oxygen, Oxygen in place of Red, Green and Blue).  The object itself is a bubble created as a massive (20+ solar masses) Wolf-Rayet star blows off material.  The star has a 3.8 million mph stellar wind that has blown the material outwards so that the bubble is 60 light years in diameter.  This phase is relatively brief in the life of a massive star as they are generally thought to explode after a brief period of blowing these sorts of bubbles.  The bubble itself will eventually be wiped out by the supernova.",
+    "h": 4121,
+    "hash": "5gao57",
+    "id": 569467,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA-120"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806780/"
+    ],
+    "orientation": "92.798",
+    "pixscale": "1.220",
+    "published": "2021-02-25T13:57:11.439295",
+    "ra": "103.617",
+    "radius": "1.586",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/569467/",
+    "revisions": [],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-303",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "SH2-308 Cosmic Bubble in HOO",
+    "updated": "2021-04-04T17:14:11.104510",
+    "uploaded": "2021-02-25T13:44:18.743610",
+    "url_duckduckgo": "https://www.astrobin.com/5gao57/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5gao57/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5gao57/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5gao57/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5gao57/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5gao57/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5gao57/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22065/2021/ec6fcc3a-9031-4029-8aa7-31f477081662.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22065/2021/ec6fcc3a-9031-4029-8aa7-31f477081662-1614261288.jpg",
+    "url_thumb": "https://www.astrobin.com/5gao57/0/rawthumb/thumb/",
+    "user": "4esop",
+    "views": 88,
+    "w": 8408
+}

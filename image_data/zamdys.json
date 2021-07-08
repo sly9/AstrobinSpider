@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "59.126",
+    "description": "Barnard 174 is a Dark Nebula in Cepheus. Dark nebulae consists of gas and dust  absorbing starlight behind them. B 174 is an active star forming region.",
+    "h": 3194,
+    "hash": "zamdys",
+    "id": 601958,
+    "imaging_cameras": [
+        "QHYCCD QHY600 QHY600M-PH"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK17"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811273/"
+    ],
+    "orientation": "179.983",
+    "pixscale": "0.531",
+    "published": "2021-07-06T01:07:55.829812",
+    "ra": "331.821",
+    "radius": "0.425",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601958/",
+    "revisions": [
+        "/api/v1/imagerevision/294146/"
+    ],
+    "subjects": [
+        "B174"
+    ],
+    "title": "Barnard 174 / LDN 1165",
+    "updated": "2021-07-08T01:56:35.213295",
+    "uploaded": "2021-07-05T20:39:58.915567",
+    "url_duckduckgo": "https://www.astrobin.com/zamdys/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zamdys/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zamdys/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zamdys/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zamdys/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zamdys/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zamdys/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22149/2021/3744a9f3-d3d8-4a4b-bb79-aa3f357fa2ab.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22149/2021/3744a9f3-d3d8-4a4b-bb79-aa3f357fa2ab-1625518380.png",
+    "url_thumb": "https://www.astrobin.com/zamdys/0/rawthumb/thumb/",
+    "user": "sink45ny",
+    "views": 94,
+    "w": 4788
+}

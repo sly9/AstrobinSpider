@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "25.994",
+    "description": "Lx16，Rx18，Gx14，Bx14\r\n10min per frame",
+    "h": 1869,
+    "hash": "vvxlq1",
+    "id": 537686,
+    "imaging_cameras": [
+        "QHY695a"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 130/650 PDS Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810710/"
+    ],
+    "orientation": "270.122",
+    "pixscale": "1.439",
+    "published": "2020-11-06T00:30:41.411226",
+    "ra": "189.084",
+    "radius": "0.653",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/537686/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4555",
+        "NGC 4562",
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "NGC4565",
+    "updated": "2021-03-16T18:44:57.662034",
+    "uploaded": "2020-11-06T00:27:01.977471",
+    "url_duckduckgo": "https://www.astrobin.com/vvxlq1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vvxlq1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vvxlq1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vvxlq1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vvxlq1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vvxlq1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vvxlq1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24344/2020/f4a44873-512c-4199-bf4c-58326d7a85a6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24344/2020/f4a44873-512c-4199-bf4c-58326d7a85a6-1604622746.png",
+    "url_thumb": "https://www.astrobin.com/vvxlq1/0/rawthumb/thumb/",
+    "user": "QHY695A",
+    "views": 130,
+    "w": 2676
+}

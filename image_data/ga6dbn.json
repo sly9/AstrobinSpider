@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-2.271",
+    "description": "Nébuleuse tète de cheval prise en remote de France par le Team ARO, à partir de notre observatoire au Sud Portugal.\r\n(Voir notre site http://astroaro.fr).\r\nAu centre la tète de cheval Barnard 33, légèrement en dessous, à gauche Ngc 2023 et Ic 435\r\nPlus à gauche Ngc 2024 la nébuleuse de la flamme.\r\nA gauche de Ngc 2024 on trouve Ic 431 et Ic 432.\r\nL'image est riche en détails comme en témoigne les zoom dans chaque petite nébuleuse, ainsi que les volutes sous Barnard 33, avec une densité de couleurs impressionnante.\r\nImage prise en H,r,v,b avec un total de 19,15 H.",
+    "h": 3390,
+    "hash": "ga6dbn",
+    "id": 575852,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cooled ASI 1600"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "http://www.astroaro.fr",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814842/"
+    ],
+    "orientation": "95.506",
+    "pixscale": "1.475",
+    "published": "2021-03-21T14:12:01.727113",
+    "ra": "85.136",
+    "radius": "1.166",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/575852/",
+    "revisions": [],
+    "subjects": [
+        "Flame Nebula",
+        "IC 431",
+        "IC 432",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "Orion B",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "Barnard 33",
+    "updated": "2021-04-02T14:24:40.333329",
+    "uploaded": "2021-03-21T13:52:48.454973",
+    "url_duckduckgo": "https://www.astrobin.com/ga6dbn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ga6dbn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ga6dbn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ga6dbn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ga6dbn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ga6dbn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ga6dbn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1184/2021/d50b6cb8-cd9c-4391-81e9-ea17514cedbc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1184/2021/d50b6cb8-cd9c-4391-81e9-ea17514cedbc-1616335900.jpg",
+    "url_thumb": "https://www.astrobin.com/ga6dbn/0/rawthumb/thumb/",
+    "user": "stephane55",
+    "views": 214,
+    "w": 4571
+}

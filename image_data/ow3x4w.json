@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "43.754",
+    "description": "This is my first narrowband attempt with the ASI1600. I am still learning the star removal -> process -> star replacement technique, but I think the stars look pretty good here, even if they are not RGB.\r\n\r\nI had the camera cooled to only 0c to avoid any condensation. I can probably go below that temperature next time.",
+    "h": 6753,
+    "hash": "ow3x4w",
+    "id": 526889,
+    "imaging_cameras": [
+        "ZWO ASI1600mm PRO"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED80 FCD1"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811057/"
+    ],
+    "orientation": "264.623",
+    "pixscale": "0.808",
+    "published": "2020-09-25T12:03:45.686984",
+    "ra": "319.666",
+    "radius": "1.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526889/",
+    "revisions": [],
+    "subjects": [
+        "68 A Cyg",
+        "PK087-03.1",
+        "Sh2-119",
+        "The star 68Cyg"
+    ],
+    "title": "SH2-119 at 480mm",
+    "updated": "2021-03-16T19:50:18.792493",
+    "uploaded": "2020-09-25T13:03:46.016274",
+    "url_duckduckgo": "https://www.astrobin.com/ow3x4w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ow3x4w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ow3x4w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ow3x4w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ow3x4w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ow3x4w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ow3x4w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33786/2020/9883c2aa-5ba3-45cb-be77-9692bcd02390.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33786/2020/9883c2aa-5ba3-45cb-be77-9692bcd02390-1601039689.jpg",
+    "url_thumb": "https://www.astrobin.com/ow3x4w/0/rawthumb/thumb/",
+    "user": "Bob_Stevenson",
+    "views": 63,
+    "w": 8830
+}

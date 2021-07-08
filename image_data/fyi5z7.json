@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "61.182",
+    "description": "Using my Bubble and Lobster Claw data from Sept 2019, I made a huge crop edit on the Bubble Nebula. This \"bubble\" is shaped by stellar winds radiated from the central star. In this false-color narrowband image the warmer tones are Hydrogen and Sulfur, while the blues are Oxygen.\r\n\r\nEquipment:  \r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\n74mm aperture stop-down ring (brings scope to f/5.2)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nAccessories:\r\nDeepSkyDad Autofocuser AF1\r\nQHYCCD PoleMaster\r\n\r\nSoftware:  \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition:  \r\nLocation: Flower Mound, TX (Bortle 7)\r\nDates: 8/19/19, 8/20/19, 9/3/19, 9/4/19, 9/5/19, 9/6/19, 9/7/19\r\nGain: 200 Offset: 50\r\nCamera temp: -10C\r\nHa: 155x300\" Astrodon 5nm\r\nSII: 93x600\" Astrodon 3nm\r\nOIII: 89x600\" Astrodon 3nm\r\nTotal integration time: 43hr 15min\r\n64x darks per calibration (master from library)\r\n30x flats per calibration\r\n200x bias per calibration (master from library)",
+    "h": 900,
+    "hash": "fyi5z7",
+    "id": 486321,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808933/"
+    ],
+    "orientation": "273.352",
+    "pixscale": "1.010",
+    "published": "2020-05-08T17:39:08.396703",
+    "ra": "350.169",
+    "radius": "0.178",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486321/",
+    "revisions": [],
+    "subjects": [
+        "Bubble Nebula",
+        "NGC 7635"
+    ],
+    "title": "The Bubble Nebula (NGC7635)",
+    "updated": "2021-06-20T16:41:57.211510",
+    "uploaded": "2020-05-08T18:39:08.518794",
+    "url_duckduckgo": "https://www.astrobin.com/fyi5z7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fyi5z7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fyi5z7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fyi5z7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fyi5z7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fyi5z7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fyi5z7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27683/2020/a65fb3dd-5371-411d-9bb2-6dcfc4e11636.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27683/2020/a65fb3dd-5371-411d-9bb2-6dcfc4e11636-1588963537.jpg",
+    "url_thumb": "https://www.astrobin.com/fyi5z7/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 745,
+    "w": 900
+}

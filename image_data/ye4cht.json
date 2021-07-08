@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "36.356",
+    "description": "6 panel mosaic. Taken over pretty much every clear night between Sept 25 2020 through Feb 3 2021. Sub count and integration is per panel. At 120 hours total integration and over four months of acquisition, easily my largest project to date.\r\n\r\nLuminance is Ha mixed with a pseudo Lum taken from the RGB data for the stars. Nebula color is HOO tonemapping. Stars are RGB.",
+    "h": 5586,
+    "hash": "ye4cht",
+    "id": 563628,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 93,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810264/"
+    ],
+    "orientation": "179.663",
+    "pixscale": "1.389",
+    "published": "2021-02-06T02:53:36.577194",
+    "ra": "59.950",
+    "radius": "1.616",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/563628/",
+    "revisions": [],
+    "subjects": [
+        "46 ksi Per",
+        "California Nebula",
+        "California nebula",
+        "IC2005",
+        "Menkib",
+        "NGC 1499",
+        "NGC1499",
+        "Sh2-220",
+        "The star ξPer"
+    ],
+    "title": "California Nebula HOORGB Mosaic",
+    "updated": "2021-07-06T15:34:45.471084",
+    "uploaded": "2021-02-06T02:38:54.421108",
+    "url_duckduckgo": "https://www.astrobin.com/ye4cht/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ye4cht/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ye4cht/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ye4cht/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ye4cht/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ye4cht/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ye4cht/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14338/2021/4d312a3f-13cc-4995-b185-8d32c8ef3310.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14338/2021/4d312a3f-13cc-4995-b185-8d32c8ef3310-1612579958.png",
+    "url_thumb": "https://www.astrobin.com/ye4cht/0/rawthumb/thumb/",
+    "user": "pbkoden",
+    "views": 215,
+    "w": 6244
+}

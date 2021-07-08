@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 28,
+    "data_source": "BACKYARD",
+    "dec": "61.553",
+    "description": "Likely my last backyard capture of the season as the clouds have come to the Pacific Northwest.  Three lucky, clear nights over the last few days provided 18 hours of SHO data on the Heart.\r\n\r\nThe mix here is a new one for me, Red = SII, Green = Min(Ha, SII, OIII), Blue = OIII.  Ha was used for Luminance to keep noise down.\r\n\r\nI believe there is a  tiny ring shaped, blue planetary nebula above the Heart.  I had thought it was an artifact but before I removed it, I checked other Astrobin images and sure enough it was there too.\r\n\r\nNoise reduction was with Topaz De-Noise and I did not remove the stars for a change.  It's a very strange algorithm in that it usually butchers small stars but they were untouched in this image.  I also ran a reduce noise in PS after processing.",
+    "h": 6268,
+    "hash": "kqim0u",
+    "id": 535070,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 238,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809385/"
+    ],
+    "orientation": "249.172",
+    "pixscale": "1.460",
+    "published": "2020-10-25T04:57:44.084375",
+    "ra": "38.269",
+    "radius": "2.210",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535070/",
+    "revisions": [
+        "/api/v1/imagerevision/256768/",
+        "/api/v1/imagerevision/256923/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC 1831",
+        "IC1795",
+        "IC1805",
+        "IC1824",
+        "NGC 1027",
+        "NGC 896",
+        "NGC1027",
+        "NGC896",
+        "Sh2-190",
+        "Sh2-191"
+    ],
+    "title": "SH2-190 | The Heart Nebula",
+    "updated": "2021-06-10T03:57:22.932199",
+    "uploaded": "2020-10-25T04:36:11.868585",
+    "url_duckduckgo": "https://www.astrobin.com/kqim0u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kqim0u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kqim0u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kqim0u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kqim0u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kqim0u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kqim0u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/837d701a-3538-4441-ab2a-d1b12f58c01a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/837d701a-3538-4441-ab2a-d1b12f58c01a-1603726042.jpg",
+    "url_thumb": "https://www.astrobin.com/kqim0u/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 715,
+    "w": 8915
+}

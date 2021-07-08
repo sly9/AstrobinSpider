@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "-22.963",
+    "description": "Hi everyone!!!\r\n\r\nI reprocessed from scratch the image because I’ve notice that some fine details were lost in some step of the process.\r\n\r\nToday I wanted to share with you the First Light of my new Newtonian Telescope, a SW 250 pds (254/1200) F4.7, which turned to be 254/1086 when used with the SW 0.9 Coma corrector, so the setup is a F4.28!!!.\r\nAlso, this was an excellent experiment for me, because thanks to Optolong, which gave me a L-Pro filter as a prize of an astrophotography contest, I could test how good can be a LRGB image from skies bortle 9 with employing an anti-pollution filter.\r\nSo I stacked the LRGB filters with the L-Pro (wich was screwed on the CC) and the result really amazed me.\r\n\r\nI Hope you enjoy it, clear skies!!\r\n\r\nPs1: I leave you here the technical data since here in astrobin I can not describe the stack of filters:\r\n*Gain 100, -25 º C, R-CCD 2\" Svbony + L-Pro 2\" Optolong, 50x120\"\r\n*Gain 100, -25 º C, G-CCD 2\" Svbony + L-Pro 2\" Optolong, 50x120\"\r\n*Gain 100, -25 º C, B-CCD 2\" Svbony + L-Pro 2\" Optolong, 50x120\"\r\n*Gain 100, -25 º C, L 2\" Optolong + L-Pro 2\" Optolong, 197x120\"\r\n\r\nPS2: I want to dedicate this image to Diego Gravinese and Juan Filas, two great persons that I have the pleasure to interact with, learn from them, and enjoy with them. Thanks Diego and Juan!!",
+    "h": 3444,
+    "hash": "okvc43",
+    "id": 489492,
+    "imaging_cameras": [
+        "ZWO ASI 1600mm-pro"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 250 PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "https://flic.kr/p/2j3sAu6",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811026/"
+    ],
+    "orientation": "26.579",
+    "pixscale": "0.722",
+    "published": "2020-05-19T21:01:56.492053",
+    "ra": "270.666",
+    "radius": "0.574",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/489492/",
+    "revisions": [],
+    "subjects": [
+        "B85",
+        "M 20",
+        "M20",
+        "NGC 6514",
+        "Sh2-30",
+        "Trifid Nebula",
+        "Trifid nebula"
+    ],
+    "title": "M20 - Trifid Nebula (LRGB) from skies Bortle 9 (Reprocessed from scratch)",
+    "updated": "2021-03-17T02:03:33.894835",
+    "uploaded": "2020-05-19T22:01:57.226961",
+    "url_duckduckgo": "https://www.astrobin.com/okvc43/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/okvc43/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/okvc43/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/okvc43/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/okvc43/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/okvc43/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/okvc43/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33477/2020/935cc674-22e1-4ec6-85ef-4727259ded0b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33477/2020/935cc674-22e1-4ec6-85ef-4727259ded0b-1589926536.jpg",
+    "url_thumb": "https://www.astrobin.com/okvc43/0/rawthumb/thumb/",
+    "user": "cappellettiariel",
+    "views": 386,
+    "w": 4578
+}

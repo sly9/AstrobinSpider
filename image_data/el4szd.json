@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "56.668",
+    "description": "Exposure: (Ha,SII,OII) 21,25h Ha 38x900s binx1, SII 25x900s binx1, OIII 22x900s binx1",
+    "h": 2240,
+    "hash": "el4szd",
+    "id": 476257,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "TEC 140/980"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "31.234",
+    "pixscale": "1.248",
+    "published": "2020-04-12T09:24:58.037140",
+    "ra": "13.208",
+    "radius": "0.621",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476257/",
+    "revisions": [
+        "/api/v1/imagerevision/225643/"
+    ],
+    "subjects": [
+        "IC 1590",
+        "NGC 281"
+    ],
+    "title": "The Pacman Nebula NGC281 – Hubble Palette",
+    "updated": "2021-03-17T03:17:04.738794",
+    "uploaded": "2020-04-12T10:24:58.153798",
+    "url_duckduckgo": "https://www.astrobin.com/el4szd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/el4szd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/el4szd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/el4szd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/el4szd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/el4szd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/el4szd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28284/2020/d4eed1e3-4841-40ec-84ba-c91d58561fe1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28284/2020/d4eed1e3-4841-40ec-84ba-c91d58561fe1-1586687410.jpg",
+    "url_thumb": "https://www.astrobin.com/el4szd/0/rawthumb/thumb/",
+    "user": "Astrosib250",
+    "views": 395,
+    "w": 2792
+}

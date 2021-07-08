@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "56.129",
+    "description": "This is the head of the Lion Nebula (Sharpless 132) in Cepheus, also known as LDN 1161.  I've imaged the Lion Nebula before, but not a close up of just the head, which has a lot of really interesting detail, particularly in Ha. \r\n\r\nI continue to try out new processing techniques to try and find new / different / more striking color palettes.  For this, I tried a couple of different Pixelmath combinations with synthetic green channels, and both had their merits: one had some very lovely blues, and the other had the gold I was shooting for near the center.  Rather than pick one versus the other, I used Pixelmath's version of screen blending (~(~IMG1*~IMG2)) to see if I could get the best of both worlds, and while it wasn't perfect, it definitely was an improvement over either image alone. \r\n\r\nI continued to use Adam Block's star emphasis technique, which I'm finding is becoming a regular part of my workflow.  What I need to pay close attention to are the large stars, that they don't get touched by the process.   \r\n\r\nI'm still not 100% happy with this: it's not quite as clean as I would like, and as noise-free as the Ha and Oiii masters suggest.  Somewhere through all the editing it's gotten a little overcooked, when you zoom in to the pixel level, and I need to be mindful of that in either subsequent revisions and/or in future images.  It's odd because normally you find that in over-sharpened images, but this has had little to no sharpening applied beyond initial deconvolution, which was subtle.  Anyway!  I AM happy with the color palette, and the past few images have really helped me get that where I want it.  I'll work on not creating noise / artifacts in subsequent images.",
+    "h": 3192,
+    "hash": "8ks150",
+    "id": 529986,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK CT8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 197,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809103/"
+    ],
+    "orientation": "76.828",
+    "pixscale": "0.775",
+    "published": "2020-10-04T19:12:50.613543",
+    "ra": "334.941",
+    "radius": "0.550",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/529986/",
+    "revisions": [
+        "/api/v1/imagerevision/254034/"
+    ],
+    "subjects": [
+        "Sh2-132"
+    ],
+    "title": "The Lion's Head - LDN 1161",
+    "updated": "2021-07-06T05:15:48.433570",
+    "uploaded": "2020-10-04T19:58:57.283666",
+    "url_duckduckgo": "https://www.astrobin.com/8ks150/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8ks150/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8ks150/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8ks150/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8ks150/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8ks150/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8ks150/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27809/2020/f29a7681-42db-4e50-9612-10efd46e9370.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27809/2020/f29a7681-42db-4e50-9612-10efd46e9370-1601874057.png",
+    "url_thumb": "https://www.astrobin.com/8ks150/0/rawthumb/thumb/",
+    "user": "Tuckie",
+    "views": 589,
+    "w": 3989
+}

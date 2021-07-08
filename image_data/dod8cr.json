@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "54.361",
+    "description": "Mount: Astro-Physics 1100GTO\r\nTelescope: Astro-Tech RC8\r\nCamera: SBIG STF-8300 with OAG+FW8-8300 filter wheel\r\nGuide camera: SBIG OAG-8300+Lodestar X2 with Kiss focuser\r\nFilter: Astrodon LRGB Gen2 E-Series, Ha 3nm\r\nExposure time:\r\nL: 47*10 min, bin1\r\nR: 10*10 min, bin2\r\nG: 10*10 min, bin2\r\nB: 10*10 min, bin2\r\nHa: 50*18 min, bin1\r\nPost processing: Pixinsight 1.8.6+Photoshop",
+    "h": 2700,
+    "hash": "dod8cr",
+    "id": 484897,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.906",
+    "pixscale": "0.602",
+    "published": "2020-05-03T14:01:45.253335",
+    "ra": "210.803",
+    "radius": "0.376",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/484897/",
+    "revisions": [
+        "/api/v1/imagerevision/235054/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471"
+    ],
+    "title": "M101",
+    "updated": "2021-05-26T15:04:30.628013",
+    "uploaded": "2020-05-03T15:01:45.975046",
+    "url_duckduckgo": "https://www.astrobin.com/dod8cr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dod8cr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dod8cr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dod8cr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dod8cr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dod8cr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dod8cr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31027/2020/bdf707bd-1b9a-475c-9403-8598ad46b5de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31027/2020/bdf707bd-1b9a-475c-9403-8598ad46b5de-1588519110.jpg",
+    "url_thumb": "https://www.astrobin.com/dod8cr/0/rawthumb/thumb/",
+    "user": "syxbach",
+    "views": 286,
+    "w": 3600
+}

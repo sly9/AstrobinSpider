@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-13.214",
+    "description": "",
+    "h": 2700,
+    "hash": "bc9bt3",
+    "id": 560643,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/"
+    ],
+    "orientation": "71.921",
+    "pixscale": "0.654",
+    "published": "2021-01-23T22:50:26.004359",
+    "ra": "109.647",
+    "radius": "0.418",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/560643/",
+    "revisions": [
+        "/api/v1/imagerevision/270327/",
+        "/api/v1/imagerevision/270397/",
+        "/api/v1/imagerevision/270580/",
+        "/api/v1/imagerevision/270582/",
+        "/api/v1/imagerevision/270583/"
+    ],
+    "subjects": [
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet",
+    "updated": "2021-04-07T07:22:52.584480",
+    "uploaded": "2021-01-23T22:02:55.121057",
+    "url_duckduckgo": "https://www.astrobin.com/bc9bt3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bc9bt3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bc9bt3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bc9bt3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bc9bt3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bc9bt3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bc9bt3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2021/e28a9b91-3afe-4972-a7c5-705ea784e14a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2021/e28a9b91-3afe-4972-a7c5-705ea784e14a-1611556378.jpg",
+    "url_thumb": "https://www.astrobin.com/bc9bt3/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 205,
+    "w": 3726
+}

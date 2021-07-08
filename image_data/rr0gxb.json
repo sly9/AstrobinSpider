@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "7.997",
+    "description": "",
+    "h": 2500,
+    "hash": "rr0gxb",
+    "id": 510684,
+    "imaging_cameras": [
+        "Atik one 9.0 CCD with OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon-130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 19,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812786/"
+    ],
+    "orientation": "359.934",
+    "pixscale": "1.778",
+    "published": "2020-07-30T15:04:35.549556",
+    "ra": "188.022",
+    "radius": "1.023",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/510684/",
+    "revisions": [],
+    "subjects": [
+        "M 49",
+        "NGC 4472",
+        "NGC 4488",
+        "NGC 4492",
+        "NGC 4526",
+        "NGC 4535"
+    ],
+    "title": "M49",
+    "updated": "2021-03-20T18:00:29.331372",
+    "uploaded": "2020-07-30T16:04:36.447980",
+    "url_duckduckgo": "https://www.astrobin.com/rr0gxb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rr0gxb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rr0gxb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rr0gxb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rr0gxb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rr0gxb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rr0gxb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26247/2020/5fc2e5f2-f8e4-4858-90e4-344f384b84cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26247/2020/5fc2e5f2-f8e4-4858-90e4-344f384b84cf-1596125595.jpg",
+    "url_thumb": "https://www.astrobin.com/rr0gxb/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 50,
+    "w": 3300
+}

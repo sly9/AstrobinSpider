@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is my second attempt at capturing solar images with the Quark H alpha filter. Overall, I think my image processing skills are improving, though I still have a way to go before I am really proficient!\r\n\r\nThis image consists of two separate exposures, one for the solar disk, and one for the prominences. Each video was 30 seconds long (acquired at a frame rate of 30 frames/s. In theory this should have resulted in 900 frames per video, but because of some latency in the transfer to my HDD, the actual number of frames was ~500. I then stacked the best 25% of the frames and sharpened the image in Registax.\r\n\r\nThe final composite was created by manually aligning the images using two different layers. The image of the solar disk is inverted, as this seems to show more detail and provides a better transition to the features at the edge.",
+    "h": 1916,
+    "hash": "5oqnez",
+    "id": 571968,
+    "imaging_cameras": [
+        "ZWO ASI 178MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED 80 apo triplet"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812509/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-03-07T16:39:41.941544",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571968/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Solar prominences (6 March 2021)",
+    "updated": "2021-06-07T10:35:53.545853",
+    "uploaded": "2021-03-07T16:21:16.901309",
+    "url_duckduckgo": "https://www.astrobin.com/5oqnez/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5oqnez/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5oqnez/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5oqnez/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5oqnez/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5oqnez/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5oqnez/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/5oqnez/0/rawthumb/thumb/",
+    "user": "rdk_CA",
+    "views": 177,
+    "w": 2742
+}

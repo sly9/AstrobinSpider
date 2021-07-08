@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.196",
+    "description": "SHO image with RGB stars\r\n\r\n50 Halpha subs @300s gain 100 and -15°C\r\n50 OIII subs @300s gain 100 and -15°C\r\n50 SII subs @300s gain 100 and -15°C\r\n\r\n20 Blue subs @60s gain 100 and -15°C\r\n20 Green subs @60s gain 100 and -15°C\r\n20 Red subs @60s gain 100 and -15°C\r\n\r\nTotal exposure = 13.5 hours",
+    "h": 4013,
+    "hash": "s0davw",
+    "id": 555459,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "91.403",
+    "pixscale": "0.638",
+    "published": "2021-01-04T19:17:51.858570",
+    "ra": "350.149",
+    "radius": "0.503",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/555459/",
+    "revisions": [
+        "/api/v1/imagerevision/267597/",
+        "/api/v1/imagerevision/267600/"
+    ],
+    "subjects": [
+        "Bubble Nebula",
+        "Bubble nebula",
+        "MO Cas",
+        "MP Cas",
+        "NGC 7635",
+        "NGC7635",
+        "Sh2-162",
+        "V0399 Cas"
+    ],
+    "title": "The Bubble Nebula NGC7635",
+    "updated": "2021-04-28T07:32:47.649997",
+    "uploaded": "2021-01-04T18:48:38.583330",
+    "url_duckduckgo": "https://www.astrobin.com/s0davw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s0davw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s0davw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s0davw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s0davw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s0davw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s0davw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2021/88898a30-0242-4960-a07d-ef3b5cd8eee9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2021/88898a30-0242-4960-a07d-ef3b5cd8eee9-1609786349.jpg",
+    "url_thumb": "https://www.astrobin.com/s0davw/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 204,
+    "w": 4013
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "5.012",
+    "description": "12x5min for RGB per channel",
+    "h": 2697,
+    "hash": "f5raxq",
+    "id": 557675,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "SKYROVER 130 APO PRO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810710/"
+    ],
+    "orientation": "94.645",
+    "pixscale": "1.690",
+    "published": "2021-01-13T03:23:58.121974",
+    "ra": "98.028",
+    "radius": "1.217",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/557675/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2244",
+    "updated": "2021-04-08T13:14:36.195641",
+    "uploaded": "2021-01-13T03:04:43.491767",
+    "url_duckduckgo": "https://www.astrobin.com/f5raxq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f5raxq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f5raxq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f5raxq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f5raxq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f5raxq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f5raxq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24344/2021/16db1256-e256-4bb0-b6ec-36d3de66afdc.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24344/2021/16db1256-e256-4bb0-b6ec-36d3de66afdc-1610507982.png",
+    "url_thumb": "https://www.astrobin.com/f5raxq/0/rawthumb/thumb/",
+    "user": "QHY695A",
+    "views": 104,
+    "w": 4428
+}

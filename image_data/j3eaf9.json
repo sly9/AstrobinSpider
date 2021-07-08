@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "69.684",
+    "description": "L 60x600\r\nR 10x600\r\nG 10x600\r\nB 10x600\r\nHa 24x1200",
+    "h": 2632,
+    "hash": "j3eaf9",
+    "id": 548634,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "93.882",
+    "pixscale": "0.471",
+    "published": "2020-12-10T04:31:34.021708",
+    "ra": "148.963",
+    "radius": "0.277",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/548634/",
+    "revisions": [
+        "/api/v1/imagerevision/264843/",
+        "/api/v1/imagerevision/265283/"
+    ],
+    "subjects": [
+        "Cigar Galaxy",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82 LRGB Ha",
+    "updated": "2021-01-24T03:10:42.014661",
+    "uploaded": "2020-12-10T04:25:08.242812",
+    "url_duckduckgo": "https://www.astrobin.com/j3eaf9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/j3eaf9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/j3eaf9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/j3eaf9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/j3eaf9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/j3eaf9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/j3eaf9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/b263973c-5d72-48de-8f15-d9bc45d29358.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/b263973c-5d72-48de-8f15-d9bc45d29358-1607575199.jpg",
+    "url_thumb": "https://www.astrobin.com/j3eaf9/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 323,
+    "w": 3320
+}

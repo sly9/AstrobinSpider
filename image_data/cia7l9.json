@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-30.276",
+    "description": "",
+    "h": 2700,
+    "hash": "cia7l9",
+    "id": 534842,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "305.935",
+    "pixscale": "0.654",
+    "published": "2020-10-24T07:08:02.423787",
+    "ra": "41.580",
+    "radius": "0.409",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534842/",
+    "revisions": [
+        "/api/v1/imagerevision/283958/"
+    ],
+    "subjects": [
+        "NGC 1097"
+    ],
+    "title": "NGC 1097",
+    "updated": "2021-04-20T22:05:56.987315",
+    "uploaded": "2020-10-24T07:54:38.671599",
+    "url_duckduckgo": "https://www.astrobin.com/cia7l9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cia7l9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cia7l9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cia7l9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cia7l9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cia7l9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cia7l9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2020/03a4cd7d-9d20-421f-9e0e-1a14977ebc48.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2020/03a4cd7d-9d20-421f-9e0e-1a14977ebc48-1603527147.jpg",
+    "url_thumb": "https://www.astrobin.com/cia7l9/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 206,
+    "w": 3600
+}

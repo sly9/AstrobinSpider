@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "42.024",
+    "description": "",
+    "h": 3271,
+    "hash": "2zfuva",
+    "id": 478041,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 with external FW"
+    ],
+    "imaging_telescopes": [
+        "10\" Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800418/"
+    ],
+    "orientation": "0.346",
+    "pixscale": "1.225",
+    "published": "2020-04-16T20:00:04.882697",
+    "ra": "198.941",
+    "radius": "0.695",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478041/",
+    "revisions": [
+        "/api/v1/imagerevision/227121/",
+        "/api/v1/imagerevision/276602/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower Galaxy"
+    ],
+    "title": "M63 Sunflower Galaxy",
+    "updated": "2021-05-17T19:53:47.436376",
+    "uploaded": "2020-04-16T21:00:05.117626",
+    "url_duckduckgo": "https://www.astrobin.com/2zfuva/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2zfuva/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2zfuva/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2zfuva/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2zfuva/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2zfuva/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2zfuva/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4117/2020/d64d4b7b-ec12-4810-bcb7-ba7c1e341c60.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4117/2020/d64d4b7b-ec12-4810-bcb7-ba7c1e341c60-1587071118.jpg",
+    "url_thumb": "https://www.astrobin.com/2zfuva/0/rawthumb/thumb/",
+    "user": "chlopak",
+    "views": 128,
+    "w": 2449
+}

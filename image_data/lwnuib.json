@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 48,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "About 5,000 light years from Earth, IC 443 is a super nova remnant (SNR) located in the constellation Gemini. With a size of nearly 70 million light year across, is has a shell-like structure composed of two sub-shells each with different centers and radii. In the northwestern portion of the object (as oriented in my image), is a shockwave, a bright, complex lattice of filaments composed primarily of hydrogen. Extending from this region are streamers of gas and dust extending 25 light years.\r\n\r\nMaking this image has been a long, strange trip. In December 2018 I acquired nearly 20 hours of very good narrowband data of IC 443 using an SW Esprit 100 (550mm FL). While I really liked the image that came from those data (Version B posted here), I was particularly intrigued by the shock wave in the northwestern portion of the SNR (the “bell” of the jellyfish). My data were very tight (HFR 2.0-2.5) and the network of gaseous filaments were distinct with streamers of star ejecta exploding from the glowing tangle. I tried to crop the image to frame the area, but the optical resolution was insufficient and the resulting image was soft. I needed a longer telescope. In the spring 2019 I acquired an WO FLT132, 925mm FL. As soon as IC 443 rose into the nighttime sky I was ready to collect data. Unfortunately through 2019 and 2020 weather, wild fires, and bad seeing prevented the collection of high quality data. During that period I collect and discarded nearly 60 hours of sub lights. Finally, on January 17, 2021, the night sky cleared, the seeing was exceptional, and I collected 4.5 hours of data with HFR 2.0-2.5. Over the next week I was able to collect about 15 hours of low HFR data, enough to finally make the image I have envisioned more than two years earlier. Patience and persistence are necessary elements of astrophotography. For me, it was worth the wait.",
+    "h": 2126,
+    "hash": "lwnuib",
+    "id": 561939,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 191,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-01-29T05:49:58.056168",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/561939/",
+    "revisions": [
+        "/api/v1/imagerevision/271149/"
+    ],
+    "subjects": [],
+    "title": "IC 443: Shockwave",
+    "updated": "2021-07-04T17:26:43.379933",
+    "uploaded": "2021-01-29T05:35:22.961291",
+    "url_duckduckgo": "https://www.astrobin.com/lwnuib/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lwnuib/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lwnuib/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lwnuib/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lwnuib/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lwnuib/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lwnuib/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/lwnuib/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 400,
+    "w": 2835
+}

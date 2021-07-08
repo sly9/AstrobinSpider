@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 30,
+    "data_source": "OWN_REMOTE",
+    "dec": "24.115",
+    "description": "Data Acquisition from 2020-07-17 until 2020-10-17\r\nOriginal Image Scale: 0.54\r\nNebula Color Mapping: Red=NII+Hα, Green=Hα+OIII, Blue=OIII\r\n-------------------------------------------------------------------------------------------------------------------\r\nAbell 74 (PK 72.7 -17.1) is an ancient and exceedingly faint planetary nebula in Vulpecula. I amassed 72 hours of usable narrowband data for this image (plus over three hours of RGB for the stars).\r\n\r\nInfo (approximates):\r\nDistance: 2500 light-years\r\nDiameter: 15 light-years",
+    "h": 3804,
+    "hash": "k8a8hu",
+    "id": 540622,
+    "imaging_cameras": [
+        "FLI ML-16803"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK20"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 155,
+    "link": "https://www.jklovelacephotography.com/portfolio/G0000iMp5HN.FsAc",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814270/"
+    ],
+    "orientation": "358.927",
+    "pixscale": "0.542",
+    "published": "2020-11-14T00:15:43.127818",
+    "ra": "319.217",
+    "radius": "0.405",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/540622/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Abell 74",
+    "updated": "2021-07-02T13:09:36.822095",
+    "uploaded": "2020-11-14T00:00:00.420719",
+    "url_duckduckgo": "https://www.astrobin.com/k8a8hu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k8a8hu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k8a8hu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k8a8hu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k8a8hu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k8a8hu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k8a8hu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/74632/2020/8d22b6e8-1f53-4066-b309-35274d7184e7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/74632/2020/8d22b6e8-1f53-4066-b309-35274d7184e7-1605312904.jpg",
+    "url_thumb": "https://www.astrobin.com/k8a8hu/0/rawthumb/thumb/",
+    "user": "jklovelacephotography",
+    "views": 401,
+    "w": 3804
+}

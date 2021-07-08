@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "69.668",
+    "description": "M82 (Cigar Galaxy) is a bright starburst galaxy birthing new stars at a great rate whose activity is due to its last close encounter 100MY ago with M81 (Bode's Galaxy).  SN2014J is visible in M82 from the 2014 portion of the data.  This is a 22 hour HaLRGB image from data taken in 2014 (ML8300 camera, f/6.0) and 2017 (ML16200 camera, f/4.5).  Total exposures are:  L: 9.8h , RGB: 7.0h, Ha: 5.2h:  Total: 22.0h.  North is up.\r\n\r\nD.A.R.C. Observatory, Mercey Hot Springs, CA , 2/22/14, 3/23/14, 3/27/17, 4/1/17",
+    "h": 1031,
+    "hash": "kb8wrl",
+    "id": 497061,
+    "imaging_cameras": [
+        "FLI ML16200",
+        "FLI Microline ML8300"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 130/780 f/6 LW CNC II 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "177.870",
+    "pixscale": "1.273",
+    "published": "2020-06-13T02:21:11.937524",
+    "ra": "148.979",
+    "radius": "0.304",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497061/",
+    "revisions": [
+        "/api/v1/imagerevision/237431/",
+        "/api/v1/imagerevision/243635/",
+        "/api/v1/imagerevision/259704/"
+    ],
+    "subjects": [
+        "Cigar Galaxy",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "22 hr M82 HaLRGB",
+    "updated": "2021-06-17T20:21:01.917631",
+    "uploaded": "2020-06-13T03:21:12.676024",
+    "url_duckduckgo": "https://www.astrobin.com/kb8wrl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kb8wrl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kb8wrl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kb8wrl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kb8wrl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kb8wrl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kb8wrl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6912/2020/f72673f0-30c8-48bd-a315-db54e9816c62.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6912/2020/f72673f0-30c8-48bd-a315-db54e9816c62-1592072827.jpg",
+    "url_thumb": "https://www.astrobin.com/kb8wrl/0/rawthumb/thumb/",
+    "user": "jeffweiss9",
+    "views": 461,
+    "w": 1373
+}

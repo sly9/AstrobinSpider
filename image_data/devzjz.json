@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "80.949",
+    "description": "SH2-174 Planetary Nebula in HOO Tone Mapped with RGB Stars. I captured Ha and OIII data with 15 minute exposures and was very disappointing with the noise profile when I went to process it. I went back and captured additional data with 30 minute exposures to reduce read noise contribution and the integration didn't improve nearly as much as I had hoped it would. I think I was at the limits of my camera and skies on this one.\r\n\r\nA tone mapping workflow allowed me to bring out more data and color than would have otherwise been possible. I'm much more appreciative of some of the other captures of this target on Astrobin after trying it out myself.",
+    "h": 2199,
+    "hash": "devzjz",
+    "id": 548910,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810264/"
+    ],
+    "orientation": "87.221",
+    "pixscale": "1.390",
+    "published": "2020-12-11T02:01:58.498643",
+    "ra": "356.725",
+    "radius": "0.722",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/548910/",
+    "revisions": [],
+    "subjects": [
+        "PK120+18.1",
+        "Sh2-174"
+    ],
+    "title": "SH2-174 \"Valentine Rose\" Planetary Nebula HOO_RGB",
+    "updated": "2021-04-01T19:07:10.073090",
+    "uploaded": "2020-12-11T01:49:51.549432",
+    "url_duckduckgo": "https://www.astrobin.com/devzjz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/devzjz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/devzjz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/devzjz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/devzjz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/devzjz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/devzjz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14338/2020/320b7358-4f4d-4dff-a1c0-630679a89dca.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14338/2020/320b7358-4f4d-4dff-a1c0-630679a89dca-1607652080.png",
+    "url_thumb": "https://www.astrobin.com/devzjz/0/rawthumb/thumb/",
+    "user": "pbkoden",
+    "views": 216,
+    "w": 3027
+}

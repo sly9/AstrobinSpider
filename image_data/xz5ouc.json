@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 47,
+    "data_source": "BACKYARD",
+    "dec": "-35.862",
+    "description": "This all started from July, 2019 - that was my first attempted target with the Mach1GTO3. Obviously, I picked the wrong one and it was tough and I only captured a few hours of Ha then gave up (<a href=\"https://www.astrobin.com/418005/\">The Lobster Nebula - NGC 6357 (H-alpha)</a>). Got nothing to do during the galaxy season and I can't wait any longer. Then the story began...\r\n\r\nOh man, this is tough. It's to the straight south. Again, right above Dallas downtown light dome. And this time it's much worse - the time window I can shoot it through the trees and neighbors' roofs was about 2-3 hours each clear night, and it's about 6.8 ~ 21.3 degrees in the sky. At the end of the window, of course, the Cat's Paw would hit one neighbor's chimney. 😖\r\n\r\nThe challenges come from different angles. Very quickly I figured out that there was no way I could separate the O3 signal from the heavy light pollution. That led to the first trip to the dark site for two nights. Then there was the S2 data, the SNR was so poor and I gave up imaging at home as well. There again another two nights in Guthrie, TX. Of course, the cost of dark site data is high. I still feel I didn't collect enough O3 and S2 data. The guiding was another story, the sky background was so <B><I>BRIGHT!</I></B> when shooting a target that low. The whole frame of guiding camera got washed out and SGP couldn't even start the sequence due to PHD calibration failure. \r\n\r\nThere was a side story in the middle of imaging this target. Two very good deals were presented right in front of me and I couldn’t let them go - finally upgraded to FSQ-106EDX3 and NiteCrawler WR35. I consider it's quite important to the wide-field imaging that I love. Especially the rotator is crucial to my plan of mosaics. And yes, that f/3.0 system is something I am always drooling after. \r\n\r\nThanks to Bill in Hawaii(WR35) and Stuart in Perth(FSQ-106EDX3) for letting me have the chance to use such wonderful equipment. I had to sell both of my FSQ-85EDX and RASA8 to flat the balance sheet of the hobby. Kinda sad when I shipped out my BBQ, so many wonderful moments with it, and such a solid workhorse. \r\n\r\nLong story short, I got about 14 hours of Ha data (most of them are from the f/3.0 system). And integrated SNR is not good at all. I was expecting to see more cloud details surrounding the NGC 6334. The precious dark site data helped a lot. The hard part in post-processing this time is the Ha channel. The light pollution really hurt the flatness of the integration result. Don't remember how many times I did the DBE to make it closer to the right answer. All I want to say is that I don't want to go back and work on it ever again. 🤯\r\n\r\nI am not whining. Indeed there are enough tears and joys as a backyard APer. I could really say this - I am pretty tough in dealing with light-polluted data. <B><I>LOLROF</I></B>\r\n\r\n<I>I always think that the folks in the southern half got all the best targets in the sky. I got a piece of it this time.</I> 🤣 &nbsp; <I>Now I am imaging something above 55 degrees high in the sky, life can't be better than that...</I> 🤩\r\n\r\n<B>Pre-processing of Narrowband Masters</B>\r\n\r\n<I>– Calibration / Integration, Astro Pixel Processor\r\n– Deconvolution, PixInsight (H-Alpha)\r\n– MultiscaleLinearTransform (Denoise), PixInsight\r\n- Range Selection, PixInsight x N\r\n- PixelMath, PixInsight x N\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.</I>\r\n\r\n<B>Pre-processing of RGB Masters</B>\r\n\r\n<I>– Calibration / Integration, Astro Pixel Processor\r\n– Dynamic Background Extraction, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.</I>\r\n\r\n<B>RGB Combination</B>\r\n\r\n<I>– LRGBCombination, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.</I>\r\n\r\n<B>Narrowband Combination</B>\r\n\r\n<I>– PixelMath, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.</I>\r\n\r\n<B>Narrband & RGB Combination</B>\r\n\r\n<I>– PixelMath, PixInsight\r\n- Detail adjustments, Adobe Photoshop CS\r\n– Final Export, Photoshop</I>",
+    "h": 3770,
+    "hash": "xz5ouc",
+    "id": 497501,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 229,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/",
+        "/api/v1/location/2813309/"
+    ],
+    "orientation": "262.379",
+    "pixscale": "1.845",
+    "published": "2020-06-14T21:26:01.687329",
+    "ra": "259.612",
+    "radius": "1.208",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497501/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6334"
+    ],
+    "title": "From the North: Cat's Paw Nebula Wide-Field",
+    "updated": "2021-03-21T10:22:37.435812",
+    "uploaded": "2020-06-14T18:33:38.376455",
+    "url_duckduckgo": "https://www.astrobin.com/xz5ouc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xz5ouc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xz5ouc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xz5ouc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xz5ouc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xz5ouc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xz5ouc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/6145453e-c658-4656-9b62-4ff502a1fb65.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/6145453e-c658-4656-9b62-4ff502a1fb65-1592161512.png",
+    "url_thumb": "https://www.astrobin.com/xz5ouc/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 763,
+    "w": 2828
+}

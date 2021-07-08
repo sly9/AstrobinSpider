@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "22.025",
+    "description": "I did not actually plan to image the Crab Nebula as a dedicated Fall target this year, but it was conveniently located to be used as a \"placeholder\" target while waiting for other primary targets to rise in the east. While most have seen the Crab in SHO as a crazy-colored planetary or in LRGB as a muted but much more visual-like image, I decided to actually \"go for it\" and do full on SHO and RGB (with my color camera in a separate posted image).\r\n\r\nWhile searching for Crab images here on Astrobin, I came upon an image by Tony Hallas who used an RCOS 14.5\" f/8 classical Cassegrain and a Starlight Xpress 694 camera on an Astro-Physics 1600 mount. It was so impressive it made Astobin's IOTD on Mar 16, 2017. However, one unusual thing I noticed with Tony's image was a quite prominent OIII \"extension\" that was only faintly seen on others images or unintentionally processed away with curves on others deep images. Tony's was by far the most obvious extension imaged by with amateur equipment. Later, I also came across a super-detailed image on Astrobin taken a couple of years ago showing this feature in its full extent - but it was taken with the 2-meter Liverpool Telescope.  (Note:  In my research it's likely I have missed other amateur images that showed this feature in its full extent.)\r\n\r\nSo I set out to create a Crab SHO image with somewhat tamer colors and show the OIII \"extension\" with my C11. The extension is actually not too difficult a feature but required plenty of OIII data. I was imaging during a season with plenty of humidity and light fog and others with better skies will likely fare better on this target. \r\n\r\nIn another image post, I plan to upload the Crab in RGB with my ASI2600MC and possibly a separate SHO-RGB combine.\r\n\r\nImaged over several nights: Nov 4, 6-7, 9, 11, 13-15 and 16, 2020. RGB star data provided by my ASI2600MC on Nov 16.",
+    "h": 5049,
+    "hash": "5ube6e",
+    "id": 543065,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Pro",
+        "ZWO ASI 2600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 77,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813475/"
+    ],
+    "orientation": "271.361",
+    "pixscale": "0.206",
+    "published": "2020-11-20T18:47:58.812693",
+    "ra": "83.635",
+    "radius": "0.251",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/543065/",
+    "revisions": [],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "Crab Nebula with O3 Extension",
+    "updated": "2021-06-25T11:25:37.456451",
+    "uploaded": "2020-11-20T18:17:42.956647",
+    "url_duckduckgo": "https://www.astrobin.com/5ube6e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5ube6e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5ube6e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5ube6e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5ube6e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5ube6e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5ube6e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33351/2020/b50e6569-2b01-4cbf-b6f1-ce38b0e5e605.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33351/2020/b50e6569-2b01-4cbf-b6f1-ce38b0e5e605-1605896948.jpg",
+    "url_thumb": "https://www.astrobin.com/5ube6e/0/rawthumb/thumb/",
+    "user": "Astrojim11",
+    "views": 398,
+    "w": 7200
+}

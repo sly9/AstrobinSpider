@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "-35.882",
+    "description": "This is the first light with a new camera, a QHY600. Will add details of the acquisition later on, but in a nutshell, it's a 14.5 hr integration. Had an issue with roughly half the series, as somehow the parameters of the camera changed (gain, offset, mode) without me noticing (maybe the ASCOM driver did it in a reconnect), and since such parameters are not save in the FITS header, I could not properly calibrate that batch. It will take a few session to know this camera well, but I like very much what I have seen so far (regardless of the parameters mishap).",
+    "h": 4760,
+    "hash": "jugknl",
+    "id": 498324,
+    "imaging_cameras": [
+        "QHYCCD QHY600"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "270.098",
+    "pixscale": "0.618",
+    "published": "2020-06-17T22:36:55.260727",
+    "ra": "259.961",
+    "radius": "0.642",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498324/",
+    "revisions": [
+        "/api/v1/imagerevision/237917/",
+        "/api/v1/imagerevision/238016/"
+    ],
+    "subjects": [
+        "NGC 6334"
+    ],
+    "title": "Cat´'s Paw in SHO",
+    "updated": "2021-03-17T01:13:09.861865",
+    "uploaded": "2020-06-17T23:36:55.691100",
+    "url_duckduckgo": "https://www.astrobin.com/jugknl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jugknl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jugknl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jugknl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jugknl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jugknl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jugknl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2020/3eeb50d3-7b7a-4976-ba38-a91a1ae6421d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2020/3eeb50d3-7b7a-4976-ba38-a91a1ae6421d-1592438001.jpg",
+    "url_thumb": "https://www.astrobin.com/jugknl/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 320,
+    "w": 5784
+}

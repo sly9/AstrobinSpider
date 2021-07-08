@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-47.480",
+    "description": "Takahashi FSQ106ED F5\r\nQHY23M,  \r\nBaarder L filter 12 x 300sec 1bin, \r\nBaarder R,G,B filter each 12 x 150sec, -20℃\r\nNo Bias, No Dark, No Flat \r\nCelestron 50mm Guide finder + QHY5Lll-M\r\nTakahashi EM-11 T2M",
+    "h": 2220,
+    "hash": "wcz3ny",
+    "id": 512082,
+    "imaging_cameras": [
+        "QHY CCD QHY23M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED f/5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "355.435",
+    "pixscale": "1.434",
+    "published": "2020-08-04T13:48:37.918294",
+    "ra": "201.751",
+    "radius": "0.751",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/512082/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "Omega Centauri"
+    ],
+    "title": "NGC5139",
+    "updated": "2021-06-30T19:22:34.603935",
+    "uploaded": "2020-08-04T14:48:38.482155",
+    "url_duckduckgo": "https://www.astrobin.com/wcz3ny/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wcz3ny/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wcz3ny/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wcz3ny/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wcz3ny/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wcz3ny/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wcz3ny/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32130/2020/365c64f0-5ef8-44ae-a2f6-17668472138b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32130/2020/365c64f0-5ef8-44ae-a2f6-17668472138b-1596552858.jpg",
+    "url_thumb": "https://www.astrobin.com/wcz3ny/0/rawthumb/thumb/",
+    "user": "YoungDae-Kim",
+    "views": 151,
+    "w": 3048
+}

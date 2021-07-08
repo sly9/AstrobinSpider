@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Mare Cimmerium\r\n\r\n<a href=\"https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA08797\">Mare Cimmerium from Mars Global Surveyor</a>\r\n\r\nMy second attempt at the red planet under slightly steadier skies (1.8\" FWHM).\r\n\r\n10/19/20 from 10:13 PM to 11:24 PM PST.\r\n\r\nThis is 10ms 640 x 480 frames at 19 fps over USB 2.0.\r\n\r\nCaptured (20 x 60s IR) + (10 x 60s R) + (20 x 60s IR)\r\n\r\nI then deleted 11 unsteady stacks and selected a 1 hour window. Final used 31 stacks @ 20%, or about 7,068 frames...\r\n\r\n(15 x 60s IR) + (8 x 60s R) + (8 x 60s IR)\r\n\r\nI look forward to updating to USB 3.0 and 1\" skies for what should be a noticeably sharper result with less noise. (-:",
+    "h": 695,
+    "hash": "avykk8",
+    "id": 534064,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-20T19:10:51.428880",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534064/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Mare Cimmerium",
+    "updated": "2021-03-16T19:05:55.457019",
+    "uploaded": "2020-10-20T20:06:55.247376",
+    "url_duckduckgo": "https://www.astrobin.com/avykk8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/avykk8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/avykk8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/avykk8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/avykk8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/avykk8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/avykk8/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/avykk8/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 268,
+    "w": 684
+}

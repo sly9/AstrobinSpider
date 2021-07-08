@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "-37.314",
+    "description": "I've been wondering if I could image this object even though it doesn't get above 21 degrees above the horizon.  I decided to try as my site is at 5600 ft in elevation and has good transparency this time of year.  The end result was pretty good, but I did notice that blues are a bit underdone compared to southern hemisphere images, as would be expected.  This is a 2-panel mosaic.  Each has 80 subs of 100s, using an OSC camera.  The stacked image was 2x2 binned for better post processing speed and noise reduction.",
+    "h": 3108,
+    "hash": "s0uirc",
+    "id": 500722,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 182,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "66.394",
+    "pixscale": "3.662",
+    "published": "2020-06-26T13:51:30.769079",
+    "ra": "285.797",
+    "radius": "2.012",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/500722/",
+    "revisions": [
+        "/api/v1/imagerevision/238903/",
+        "/api/v1/imagerevision/239001/"
+    ],
+    "subjects": [
+        "IC 4812",
+        "NGC 6723",
+        "NGC 6726",
+        "NGC 6727",
+        "NGC 6729",
+        "Part of the constellation Corona Austrina (CrA)",
+        "The star αCrA",
+        "The star γCrA",
+        "The star εCrA"
+    ],
+    "title": "NGC 6726 from 32N",
+    "updated": "2021-04-22T08:22:46.130440",
+    "uploaded": "2020-06-26T04:49:41.342678",
+    "url_duckduckgo": "https://www.astrobin.com/s0uirc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s0uirc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s0uirc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s0uirc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s0uirc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s0uirc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s0uirc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2020/880ca4af-d197-4ae8-b74e-ddb79d924204.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7159/2020/880ca4af-d197-4ae8-b74e-ddb79d924204-1593147821.jpg",
+    "url_thumb": "https://www.astrobin.com/s0uirc/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 773,
+    "w": 2447
+}

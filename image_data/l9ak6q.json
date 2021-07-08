@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 71,
+    "data_source": "OWN_REMOTE",
+    "dec": "69.063",
+    "description": "M81 was discovered by Johann Elert Bode in 1774 and is sometimes referred to as \"Bode's Galaxy\".  Apparently word didn't get out and five years later Pierre Méchain and Charles Messier both independently re-discoverd Bode's object again in 1779.  M81 (NGC 3031) is a type SA(s)ab, spiral galaxy located at a distance of 12 million light-years in the constellation Ursa Major.  It has an active nucleus that contains a 70 million solar mass supermassive black hole.  The two distinct spiral arms are sprinkled with hot, young, blue super giants and star clusters.  Its close proximity makes M81 appear to be both fairly large in the sky and moderately bright (at 6.94 mag) so it's a popular target for a lot of backyard imagers.  The challenge lies in showing the interesting detail in the spiral arms while revealing at least some of the rich sea of interstellar dust (IFN) that covers this region of the sky lying in front of the galaxy.\r\n  \r\nLately, my imaging efforts have been in a slump, but it's not for the lack of trying.  I've been working on a couple of moderately difficult narrow band targets but for one reason or another I haven't been able to finish anything.  It's hard to attribute the lack of success to much more than a run of bad luck.  I lost a whole new moon cycle to a broken roof at the observatory.  Then, there was a long run of such crummy weather conditions that my image yield dipped into the low teens.  The scope is running every clear night but it's mostly just filling the garbage can with worthless data!  One problem that I've got to fix is that my system is not tolerant to roof closures so when a passing cloud or wind gust causes the roof to close, even for a short period of time (like 15 minutes), the rest of the night gets lost.  I recall one night when the roof closed and reopened maybe 6 or 7 times.  \r\n\r\nEven when the roof stays open, passing clouds and high very-thin overcast create big problems.  I always blink through my stack of accepted subs and it's pretty obvious when a cloud passes.  The most common effects are star halos and non-uniform gradients.  Sometimes the stacking filter can deal with that stuff, but not always.  Lately, the biggest challenge has been really lousy seeing in the range of 3-5 arc-seconds.  Still, I've seen a few nights with really good seeing in the sub-2 arc second range, but the conditions during most of this period was at or above 3 arc-seconds.  The wind has been another bugaboo for the last couple of months, either keeping the roof closed or gusting just enough to vibrate my scope.  With a focal length of nearly 4 m, it doesn't take much wind to cause significant problems--even with its massive AP1600 mount. This is where shorter exposures might have decreased the amount of data that I had to toss out.\r\n\r\nAs the last lunar cycle began to wane, I started waxing for something bigger, brighter, more spectacular, and, well...easier.  I realized that the last time that I imaged M81 was nearly five years ago when I was still using a DSLR camera.  Bingo!  I wondered if I could do any better with my CCD camera and M81 was still in a pretty good location to give it a try.  Of course whenever I go after a galaxy, the seeing will just never cooperate!  The probability plots for my data showed a lower limit at just below 2 arc-seconds with the mean somewhere around 2.1\"- 2.2\".  There are times when I'm shooting some diffuse nebula when I'll get a good run of FWHM values of 1.6\" - 1.8\", but not this time!  The good news is that I achieved image yields a bit above 40% for all of the channels--all taken within a single lunar cycle.\r\n\r\nTo process the data, I used a straight LRGB approach without any synthetic Lum channel to compile the raw image.  I used masked Deconvolution on the Lum channel being extremely careful to avoid artifacts.  As always, Decon' did a nice job of sharpening the stars and revealing some additional detail but it also presents a challenge with noise control--and that balancing act characterizes the whole struggle with this data set.  This image reveals just a hint of IFN but it would probably require more exposure time to pull out more.  That's a good goal for the next time around.  I left behind some of my usual tricks (such as a syn-L channel) so I'm left with the sense that I could probably start over and find a better path to a more perfect result.  But...at some point, it's better to set it free and move on and I've arrived with this version.  Hopefully, it's about right.  Feel free to let me know what you think.  CC&C are always welcome.\r\n\r\nJohn",
+    "h": 4005,
+    "hash": "l9ak6q",
+    "id": 567008,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 337,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "89.763",
+    "pixscale": "0.475",
+    "published": "2021-02-19T01:44:45.277985",
+    "ra": "148.890",
+    "radius": "0.374",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/567008/",
+    "revisions": [
+        "/api/v1/imagerevision/274007/",
+        "/api/v1/imagerevision/274158/",
+        "/api/v1/imagerevision/274342/",
+        "/api/v1/imagerevision/274544/",
+        "/api/v1/imagerevision/274668/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81 Bode's Galaxy",
+    "updated": "2021-05-20T14:15:36.641859",
+    "uploaded": "2021-02-17T01:48:54.648684",
+    "url_duckduckgo": "https://www.astrobin.com/l9ak6q/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l9ak6q/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l9ak6q/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l9ak6q/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l9ak6q/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l9ak6q/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l9ak6q/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2021/a325ec3b-c08a-469f-a7f1-341a596663ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2021/a325ec3b-c08a-469f-a7f1-341a596663ea-1613527467.jpg",
+    "url_thumb": "https://www.astrobin.com/l9ak6q/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1263,
+    "w": 4005
+}

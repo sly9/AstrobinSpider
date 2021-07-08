@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "31.681",
+    "description": "A close look at Pickering's Triangle, another Veil Nebula target for the summer. Ha and O3 Data collected between 9Aug and 18 August. Added 30xmin on each RGB channel for the stars.\r\n\r\nAlso, This is First Light with the Starlight Xpress AO-LF adaptive optics unit. Very good performance, keeping the guiding RMS between 0.36 and 0.50arcsec.",
+    "h": 2672,
+    "hash": "9lwfdd",
+    "id": 516145,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "267.383",
+    "pixscale": "0.708",
+    "published": "2020-08-19T19:16:31.337377",
+    "ra": "312.132",
+    "radius": "0.421",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/516145/",
+    "revisions": [
+        "/api/v1/imagerevision/246141/",
+        "/api/v1/imagerevision/246143/"
+    ],
+    "subjects": [],
+    "title": "Pickering's Triangle",
+    "updated": "2021-04-21T14:21:45.992678",
+    "uploaded": "2020-08-19T20:16:31.801617",
+    "url_duckduckgo": "https://www.astrobin.com/9lwfdd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9lwfdd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9lwfdd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9lwfdd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9lwfdd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9lwfdd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9lwfdd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2020/8d793c91-b681-4571-a4b5-65b266628f33.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2020/8d793c91-b681-4571-a4b5-65b266628f33-1597882068.png",
+    "url_thumb": "https://www.astrobin.com/9lwfdd/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 404,
+    "w": 3340
+}

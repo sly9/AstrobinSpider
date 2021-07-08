@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "54.420",
+    "description": "L: 201*180 sec Gain 120 -25C\r\nRGB: 45*300 sec Gain 120 -25C\r\nHa: 89*300 sec Gain 120 -25C\r\n\r\nZWO ASI 183MM Pro",
+    "h": 1406,
+    "hash": "zi507h",
+    "id": 483890,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 200/800 carbon Newton astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810840/"
+    ],
+    "orientation": "90.547",
+    "pixscale": "1.205",
+    "published": "2020-04-30T20:25:40.994737",
+    "ra": "210.825",
+    "radius": "0.480",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483890/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471"
+    ],
+    "title": "Messier 101 - Pinwheel galaxy",
+    "updated": "2021-04-30T01:20:56.170272",
+    "uploaded": "2020-04-30T21:25:41.148859",
+    "url_duckduckgo": "https://www.astrobin.com/zi507h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zi507h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zi507h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zi507h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zi507h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zi507h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zi507h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22287/2020/33f43c4f-5692-4d58-b193-f74d31ecb058.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22287/2020/33f43c4f-5692-4d58-b193-f74d31ecb058-1588282305.jpg",
+    "url_thumb": "https://www.astrobin.com/zi507h/0/rawthumb/thumb/",
+    "user": "PeterFeltóti",
+    "views": 344,
+    "w": 2500
+}

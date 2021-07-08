@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "44.304",
+    "description": null,
+    "h": 1880,
+    "hash": "5y6xnk",
+    "id": 601831,
+    "imaging_cameras": [
+        "Moravian Instruments C2-12000A"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 8\" f4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2816737/"
+    ],
+    "orientation": "277.120",
+    "pixscale": "1.171",
+    "published": "2021-07-05T07:01:37.867109",
+    "ra": "312.724",
+    "radius": "0.525",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601831/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula",
+        "The star 56Cyg"
+    ],
+    "title": "IC5070 HST",
+    "updated": "2021-07-06T14:00:06.132282",
+    "uploaded": "2021-07-05T06:51:11.424403",
+    "url_duckduckgo": "https://www.astrobin.com/5y6xnk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5y6xnk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5y6xnk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5y6xnk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5y6xnk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5y6xnk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5y6xnk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19123/2021/6afcfd4e-af32-44fd-9250-d77fe9c296e6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19123/2021/6afcfd4e-af32-44fd-9250-d77fe9c296e6-1625468321.jpg",
+    "url_thumb": "https://www.astrobin.com/5y6xnk/0/rawthumb/thumb/",
+    "user": "Matej_Kovalcik",
+    "views": 41,
+    "w": 2625
+}

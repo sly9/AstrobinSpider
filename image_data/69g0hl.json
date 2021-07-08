@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I bought a Star Analyzer 100 earlier this year and used it quite a lot in the beginning, but then it's just been sitting in the drawer ever since. I finally got back on the spectroscopy horse again and have added a 3.8 degree prism to the setup, well aware that the improvement with the prism is probably marginal. I thought I'd share my first stellar spectroscopy efforts in a while and my first-light with the grism setup.\r\n\r\nThe target is the constellation Cepheus (see https://astrob.in/pqa2gx/0/). Alderamin was my reference star. Then I looked at two very different stars in the Elephant's Trunk Nebula. And finally one relatively high magnitude and strongly red star near Alderamin.\r\n\r\nStar: Alderamin (aka Alpha Cephei)\r\nApparent magnitude: 2.45\r\nClass: A8Vn or A7IV-V\r\nAlderamin is a late main sequence A-class star that is relatively close to us at ~49 ly. It has a radius 2.3-times that of the sun and 1.74-times the mass. It rotates relatively fast, completing a revolution in ~12 hours, i.e. some 50-times faster than the sun. Such fast rotation should tend to lead to spectral line broadening, due to a greater spread of Doppler shifts. The analysis is fairly straight-forward with the dominating absorption lines coming from hydrogen and telluric O2 and H2O.\r\n\r\nStar: HD 206267 (aka HIP 106886 A)\r\nApparent magnitude: 5.65\r\nClass: O7V\r\nHD 206267 is a massive O-class star that lies at the center of the Elephant's Trunk Nebula (IC 1396). It is one of the main stars responsible for the ionization of the gas in the nebula via its strong ultraviolet rays. The spectrum shows faint but distinct hydrogen absorption lines as well as telluric O2 and H2O. I seem to also get a faint but consistent He I signal in the spectra, as well as one unidentified absorption line at 5875 Å.\r\n\r\nStar: Herschel's Garnet Star (aka Erakis aka Mu Cephei aka HD 206936)\r\nApparent magnitude: 4.20\r\nClass: M2Ia\r\nThe Garnet Star is supposedly the reddest star that is visible to the naked eye, so at the complete other end of the spectrum compared with HD 206267. Its strong red color really stands out even when seen through a pair of binoculars. The reason for its redness has actually less to do with its surface temperature than with the fact it is obscured to some extent by interstellar dust (see http://stars.astro.illinois.edu/sow/garnet.html). It's a class M2Ia red hypergiant and, thus, at the end of its life having begun to fuse helium into carbon. Its ultimate fate will be a supernova leaving behind a black hole. The spectrum was not so trivial to analyse. Several strong bands I characterize as TiO. The telluric O2 and H2O are strong. But then there are also several distinct bands that I fail to identify, e.g. around 6500 Å and at the very high end, 7800-8500 Å (possibly water?).\r\n\r\nStar: V* SW Cep (aka HD 204409)\r\nAparent magnitude: 8.29\r\nClass: M5d\r\nThis star is located about half a degree from Alderamin and struck me as remarkably red. At magnitude 8.29 I figured it would serve as a good test of the sensitivity of my setup. The spectrum is quite similar to that of The Garnet Star. Again TiO and telluric bands seem to dominate the spectrum.\r\n\r\nSpectra corrected for instrument response.",
+    "h": 1645,
+    "hash": "69g0hl",
+    "id": 533500,
+    "imaging_cameras": [
+        "ZWO ASI 120 MM Mini"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811342/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-18T20:55:52.688144",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533500/",
+    "revisions": [
+        "/api/v1/imagerevision/255923/"
+    ],
+    "subjects": [],
+    "title": "Spectral analysis of four stars in Cepheus",
+    "updated": "2021-03-16T19:09:17.599265",
+    "uploaded": "2020-10-18T21:51:11.643869",
+    "url_duckduckgo": "https://www.astrobin.com/69g0hl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/69g0hl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/69g0hl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/69g0hl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/69g0hl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/69g0hl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/69g0hl/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/69g0hl/0/rawthumb/thumb/",
+    "user": "jdclausen",
+    "views": 55,
+    "w": 832
+}

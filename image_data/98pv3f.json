@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-21.460",
+    "description": "Total lunar eclipse on May 26, 2021 with background stars.\r\n\r\n1. Lucky imaging on the Moon.\r\n2. Take photos on the same area on the next day to get background stars.\r\n3. In the Moon photo there are some stars. Use them as reference to do manual alignment on the background star photo.\r\n4. Stack the Moon into background stars using a Moon mask.\r\n\r\nExposure details:\r\n\r\nMoon: R: 180 x 50ms, G: 180 x 50ms, B: 180 x 50ms\r\nStars: L: 6 x 300s, R: 5 x 300s, G: 5 x 300s, B: 5 x 300s",
+    "h": 2320,
+    "hash": "98pv3f",
+    "id": 592771,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Meade 80mm APO Serie 6000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813928/"
+    ],
+    "orientation": "93.255",
+    "pixscale": "1.622",
+    "published": "2021-05-28T08:27:22.011428",
+    "ra": "242.728",
+    "radius": "0.739",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/592771/",
+    "revisions": [
+        "/api/v1/imagerevision/288971/"
+    ],
+    "subjects": [
+        "Earth's Moon"
+    ],
+    "title": "Total Lunar Eclipse on May 26, 2021",
+    "updated": "2021-06-11T23:41:14.349420",
+    "uploaded": "2021-05-28T08:20:06.444260",
+    "url_duckduckgo": "https://www.astrobin.com/98pv3f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/98pv3f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/98pv3f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/98pv3f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/98pv3f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/98pv3f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/98pv3f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/74207/2021/ea8c01db-9438-4c19-bb1d-49dba51fcb14.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/74207/2021/ea8c01db-9438-4c19-bb1d-49dba51fcb14-1622284684.jpg",
+    "url_thumb": "https://www.astrobin.com/98pv3f/0/rawthumb/thumb/",
+    "user": "joqiu",
+    "views": 122,
+    "w": 2320
+}

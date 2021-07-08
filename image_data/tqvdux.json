@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "25.503",
+    "description": "",
+    "h": 2363,
+    "hash": "tqvdux",
+    "id": 567020,
+    "imaging_cameras": [
+        "ZWO ASI294MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO RC10 f8 Truss GSO RC10"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810717/"
+    ],
+    "orientation": "270.921",
+    "pixscale": "0.703",
+    "published": "2021-02-17T04:37:29.501305",
+    "ra": "192.561",
+    "radius": "0.366",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/567020/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725"
+    ],
+    "title": "NGC4725",
+    "updated": "2021-04-25T02:07:56.350700",
+    "uploaded": "2021-02-17T04:33:03.444801",
+    "url_duckduckgo": "https://www.astrobin.com/tqvdux/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tqvdux/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tqvdux/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tqvdux/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tqvdux/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tqvdux/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tqvdux/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27175/2021/36bfbf38-7080-4bad-b891-8b5ce7453399.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27175/2021/36bfbf38-7080-4bad-b891-8b5ce7453399-1613537922.jpg",
+    "url_thumb": "https://www.astrobin.com/tqvdux/0/rawthumb/thumb/",
+    "user": "plane",
+    "views": 113,
+    "w": 2908
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "30.655",
+    "description": "Shot from my new Bortle 4 place just outside Wichita. Had a lot of fun with this one, mostly because I found the addition of Oiii to be useful in balancing the galaxy color against the red Hα and because it also provided more detail in some of the emission regions. The only downside is that the effect of combining the O as well as the H meant there was a lot of overlap, and this caused much of the emission regions to turn overall white as a result. To get around this I first isolated the Hα from the continuum per the LVT page, then isolated the Oiii image using the Hα image as a stand in for \"broadband\" to ensure the overlap between the two was minimized. The only downside of this is that the halos from the Oiii around the brighter stars still made it through, despite my efforts at clone stamping.\r\n\r\nOnce everything was combined (LRGB onward) I found the narrowband provided much more than just the brighter discreet emission nebula, but also a lot of wider and more diffuse oceans of Hα. At first I thought this may be large scale color noise but when comparing it to the narrowband images it seemed to match up.\r\n\r\nCalib/Housekeeping:\r\n- BPP, CC, SS Weighing, SA, Local Norm, Image Int, Drizzle 2x for the Hα, Oiii, Lum\r\n- Common Crop\r\n- DBE passes\r\n- LFit R, B, to G\r\n- RGB Combine\r\n\r\nLum, Hα, Oiii Processing:\r\n- Decon for each using Dynamic PSF, StarMask (2 passes for Lum)\r\n- TGVD, MMT (Rista)\r\n- Isolated and blended Hα into Lum\r\n- Isolated Oiii from Hα, then blended into Lum\r\n\r\n- Masked Stretch combined Lum\r\n- Blended the brighter stars from a regular Histogram Stretched copy over it\r\n- ACDNR (Rista)\r\n\r\nRGB Processing:\r\n- Photometric CC\r\n- Blending of Hα and Oiii into R/GB using LightVortexTutorials method (after running StarNet and CloneStamping out the Oiii halos)\r\n- Magenta Star Script, HSV Repair\r\n- TGVD, MMT (Rista) for both CNR, LNR\r\n- SCNR for G reduction\r\n- ArcSinH + Masked Stretch\r\n- ACDNR (Rista)\r\n- LRGB Combination\r\n\r\nLRGB Processing:\r\n- MorphologicalTransformation\r\n- Final NR via ACDNR\r\n- C* increases and a*b adjustments using various galaxy, narrowband, and star masks\r\n- Ran DarkStructureEnh to isolate spiral arm mask, then applied and used Curves to increase contrast of spiral structure\r\n- Couple passes of Unsharp Mask for NB detail and subtle increase of small stars inside galaxy\r\n- Various Curves/Hist alterations for contrast",
+    "h": 6000,
+    "hash": "ls0zym",
+    "id": 557353,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star 71 APO Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 41,
+    "link": "https://www.astronewton.com/astrophotography",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808438/"
+    ],
+    "orientation": "40.994",
+    "pixscale": "1.139",
+    "published": "2021-01-12T15:46:35.715161",
+    "ra": "23.461",
+    "radius": "1.633",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557353/",
+    "revisions": [
+        "/api/v1/imagerevision/281245/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum Galaxy",
+        "Triangulum Pinwheel"
+    ],
+    "title": "The Triangulum Galaxy (M33) in LHαRGBOiii",
+    "updated": "2021-04-08T13:35:43.792406",
+    "uploaded": "2021-01-12T00:55:39.328218",
+    "url_duckduckgo": "https://www.astrobin.com/ls0zym/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ls0zym/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ls0zym/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ls0zym/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ls0zym/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ls0zym/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ls0zym/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18457/2021/2af74c24-e283-4017-b2c3-a1b1ff1652b9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18457/2021/2af74c24-e283-4017-b2c3-a1b1ff1652b9-1610465902.jpg",
+    "url_thumb": "https://www.astrobin.com/ls0zym/0/rawthumb/thumb/",
+    "user": "brent1123",
+    "views": 159,
+    "w": 8400
+}

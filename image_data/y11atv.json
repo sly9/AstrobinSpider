@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "57.583",
+    "description": "",
+    "h": 3344,
+    "hash": "y11atv",
+    "id": 510777,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811894/"
+    ],
+    "orientation": "276.160",
+    "pixscale": "2.403",
+    "published": "2020-07-30T23:26:48.435797",
+    "ra": "324.922",
+    "radius": "1.534",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/510777/",
+    "revisions": [
+        "/api/v1/imagerevision/243690/",
+        "/api/v1/imagerevision/243873/"
+    ],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "Elephant Trunk nebula (SHO)",
+    "updated": "2021-03-29T22:12:59.618098",
+    "uploaded": "2020-07-31T00:26:49.037579",
+    "url_duckduckgo": "https://www.astrobin.com/y11atv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/y11atv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/y11atv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/y11atv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/y11atv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/y11atv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/y11atv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27868/2020/27519ed2-917d-4ffe-8630-7503b5817ccd.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27868/2020/27519ed2-917d-4ffe-8630-7503b5817ccd-1596155602.png",
+    "url_thumb": "https://www.astrobin.com/y11atv/0/rawthumb/thumb/",
+    "user": "angutier",
+    "views": 150,
+    "w": 3155
+}

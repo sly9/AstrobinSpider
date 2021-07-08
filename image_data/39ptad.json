@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-20.837",
+    "description": "A close up look into the Helix nebula through the 10\" Meade LX200.",
+    "h": 1526,
+    "hash": "39ptad",
+    "id": 516473,
+    "imaging_cameras": [
+        "ASI1600MM Cooled"
+    ],
+    "imaging_telescopes": [
+        "MEADE 10\" SCT  f 10 LX200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 114,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812278/"
+    ],
+    "orientation": "0.166",
+    "pixscale": "0.587",
+    "published": "2020-08-21T02:17:18.204640",
+    "ra": "337.422",
+    "radius": "0.208",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/516473/",
+    "revisions": [
+        "/api/v1/imagerevision/246468/"
+    ],
+    "subjects": [
+        "Helix Nebula",
+        "NGC 7293"
+    ],
+    "title": "The Helix Nebula",
+    "updated": "2021-06-11T07:03:01.026618",
+    "uploaded": "2020-08-21T03:17:18.477614",
+    "url_duckduckgo": "https://www.astrobin.com/39ptad/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/39ptad/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/39ptad/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/39ptad/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/39ptad/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/39ptad/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/39ptad/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/49796/2020/1c7175b7-35bb-46e1-b485-1b4444c975eb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/49796/2020/1c7175b7-35bb-46e1-b485-1b4444c975eb-1597980168.jpg",
+    "url_thumb": "https://www.astrobin.com/39ptad/0/rawthumb/thumb/",
+    "user": "DrKrud",
+    "views": 567,
+    "w": 2048
+}

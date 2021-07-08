@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-22.967",
+    "description": "Combination of RGB, Ha and S data.  \r\n\r\nSh2-30 is a misplaced annotation for the Sharpless 2 catalog ID for the emission nebula in M20.",
+    "h": 3600,
+    "hash": "j80pry",
+    "id": 493414,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Apochromatic"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811616/"
+    ],
+    "orientation": "354.402",
+    "pixscale": "1.129",
+    "published": "2020-05-31T13:57:20.343765",
+    "ra": "270.677",
+    "radius": "0.903",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/493414/",
+    "revisions": [
+        "/api/v1/imagerevision/235539/",
+        "/api/v1/imagerevision/235577/"
+    ],
+    "subjects": [
+        "B85",
+        "M 20",
+        "M 21",
+        "M20",
+        "M21",
+        "NGC 6514",
+        "NGC 6531",
+        "PK006+00.1",
+        "Sh2-30",
+        "Trifid Nebula",
+        "Trifid nebula"
+    ],
+    "title": "M21 open cluster and M20 Trifid nebula",
+    "updated": "2021-03-17T01:41:49.444944",
+    "uploaded": "2020-05-31T14:48:29.733640",
+    "url_duckduckgo": "https://www.astrobin.com/j80pry/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/j80pry/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/j80pry/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/j80pry/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/j80pry/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/j80pry/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/j80pry/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2020/f35139c5-d0b0-427b-ae98-8b6e7144279e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2020/f35139c5-d0b0-427b-ae98-8b6e7144279e-1590936920.jpg",
+    "url_thumb": "https://www.astrobin.com/j80pry/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 65,
+    "w": 4500
+}

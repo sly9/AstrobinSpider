@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "73.400",
+    "description": "NGC 3147 is a spiral galaxy of visual magnitude 10.6  in the constellation Draco that lies at a distance of about 130 million  light years.  Its dimensions are listed as 3.9' x 3.6' by several sources, but it appears to be somewhat larger in my image if the diffuse arms are included.  \r\n\r\nThere are a few interesting notes on variable stars in this image.  The bright, intensely red star above and slightly to the left of the galaxy is DH Dra, a Mira-type long period variable.  While acquiring the RGB data, I was focusing on this star, not realizing how red it was.  Upon switching to the blue filter, the star completely disappeared in a 3 second focus frame!  I thought my filter wheel was broken, but I soon realized what was going on.\r\n\r\nOf greater interest is the dwarf nova CP Dra, which is boxed in the revision.  This star possibly underwent a super-outburst (unconfirmed) while I was acquiring the data.  It was barely detectable on March 9th, but it flared up by several magnitudes by March 15th.  An animated gif file showing the dramatic increase in brightness is visible in my gallery.\r\n\r\nThe supernova 2021do in NGC 3147 itself is also worth mentioning.  It has faded enough from its original magnitude of ~18 reported on Jan. 2 that I cannot say it is visible in this image.  According to rochesterastronomy.org, this supernova was \"located 12\".9 east and 11\".4 south of the center of NGC 3147.\"\r\n\r\nFinally, there is a faint patch of integrated flux nebula (IFN) in the image, though it does not jump out from my Bortle 4/5 skies.\r\n\r\nLuminance frames were binned 2x2 and RGB frames were binned 3x3.  Seeing was below average with some wind and dew problems.  The image was restored to native resolution before  LRGB combination by drizzling 2x or 3x during stacking.\r\n\r\nProcessing detail:  for galaxy images, I use Topaz AI only to reduce noise in the sky background. The dark background has a 50/50 blend of Topaz with standard noise reduction, which produces a slightly smoother result without turning the image into \"plastic\" or eroding the shapes of the smaller stars.  I do not like to use Topaz AI to sharpen detail in galaxy images.",
+    "h": 2163,
+    "hash": "xi4ukn",
+    "id": 574795,
+    "imaging_cameras": [
+        "QSI 660 WS"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812791/"
+    ],
+    "orientation": "308.051",
+    "pixscale": "0.461",
+    "published": "2021-03-17T01:16:13.596419",
+    "ra": "154.224",
+    "radius": "0.217",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/574795/",
+    "revisions": [
+        "/api/v1/imagerevision/278397/"
+    ],
+    "subjects": [
+        "NGC 3147"
+    ],
+    "title": "NGC 3147 and variable stars",
+    "updated": "2021-05-11T21:12:47.415827",
+    "uploaded": "2021-03-17T00:35:13.331062",
+    "url_duckduckgo": "https://www.astrobin.com/xi4ukn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xi4ukn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xi4ukn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xi4ukn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xi4ukn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xi4ukn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xi4ukn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4253/2021/8ecc6120-db81-463b-a5e9-d960c7a97fa6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4253/2021/8ecc6120-db81-463b-a5e9-d960c7a97fa6-1615943485.jpg",
+    "url_thumb": "https://www.astrobin.com/xi4ukn/0/rawthumb/thumb/",
+    "user": "rhedden",
+    "views": 203,
+    "w": 2617
+}

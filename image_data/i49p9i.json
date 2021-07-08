@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "36.482",
+    "description": "Last night I setup my 250-PDS for a test run given sky was extremely hazy. Simply a chance to set it up and check it all works ready for a clear night. When I started imaging M13 I could only see about 4 stars in the sky so I left it going and went to sleep. The sky must have cleared as I've unexpectedly got 88 minutes of data, I was expecting nothing but a couple of bright stars through thick haze.\r\n\r\nBeing new to imaging with a reflector can anyone suggest how to fix the weird flare/diffraction is around the bright stars? I'm not sure what the cause is as there is nothing other than the spider veins in the path. Perhaps mirror clips or even the 1600 sensor microlensing? I have no idea.",
+    "h": 2518,
+    "hash": "i49p9i",
+    "id": 575112,
+    "imaging_cameras": [
+        "asi zwo 1600 pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 250/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810919/"
+    ],
+    "orientation": "13.824",
+    "pixscale": "0.964",
+    "published": "2021-03-18T11:18:38.670712",
+    "ra": "250.470",
+    "radius": "0.551",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575112/",
+    "revisions": [
+        "/api/v1/imagerevision/278624/"
+    ],
+    "subjects": [
+        "Hercules Globular Cluster",
+        "Hercules globular cluster",
+        "IC4617",
+        "M 13",
+        "M13",
+        "NGC 6205",
+        "NGC 6207",
+        "NGC6207"
+    ],
+    "title": "M13 - Hercules Globular Cluster (90 mins)",
+    "updated": "2021-07-06T05:52:29.982444",
+    "uploaded": "2021-03-18T11:16:06.378109",
+    "url_duckduckgo": "https://www.astrobin.com/i49p9i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i49p9i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i49p9i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i49p9i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i49p9i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i49p9i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i49p9i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20303/2021/8ec92c68-c416-47f0-9053-26311b741bda.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20303/2021/8ec92c68-c416-47f0-9053-26311b741bda-1616066391.jpg",
+    "url_thumb": "https://www.astrobin.com/i49p9i/0/rawthumb/thumb/",
+    "user": "AbsolutelyN",
+    "views": 242,
+    "w": 3257
+}

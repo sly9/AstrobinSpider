@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "66.643",
+    "description": "The OIII data for this nice planetary nebula is quite strong, so I decided to re-process my data and show more of the blue colors which are normally represented by the OIII wavelength. \r\n\r\nFor Luminace I tried to combine the signal from H-Alpha and OIII which worked really good in this case. This leads to the fact that the PN shows a smooth structure over the whole surface and not only in the very strong areas.",
+    "h": 1044,
+    "hash": "n29ooh",
+    "id": 547190,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro",
+        "Astrel Instruments AST16200B"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 250/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 279,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "357.550",
+    "pixscale": "1.035",
+    "published": "2020-12-04T12:17:22.064683",
+    "ra": "269.640",
+    "radius": "0.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/547190/",
+    "revisions": [
+        "/api/v1/imagerevision/269944/"
+    ],
+    "subjects": [
+        "IC4677",
+        "NGC 6552",
+        "NGC6543",
+        "NGC6552",
+        "PK096+29.1"
+    ],
+    "title": "NGC 6543 - The Cat's Eye Nebula (Bicolor RGB)",
+    "updated": "2021-07-06T13:30:30.575557",
+    "uploaded": "2020-12-04T11:42:46.412590",
+    "url_duckduckgo": "https://www.astrobin.com/n29ooh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n29ooh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n29ooh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n29ooh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n29ooh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n29ooh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n29ooh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2020/d834ad3b-ebb0-460f-a127-0c9398871f52.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2020/d834ad3b-ebb0-460f-a127-0c9398871f52-1607082860.png",
+    "url_thumb": "https://www.astrobin.com/n29ooh/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 683,
+    "w": 1370
+}

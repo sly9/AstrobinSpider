@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "44.120",
+    "description": "Nearly 11 hours of narrowband data shot over three nights, September 24-26, 2020, capturing the North America Nebula (NGC 7000) in Cygnus. Sub exposures were unguided on a Paramount MyT.",
+    "h": 2429,
+    "hash": "c9qwhs",
+    "id": 528026,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810486/"
+    ],
+    "orientation": "267.595",
+    "pixscale": "2.818",
+    "published": "2020-09-27T22:35:24.518795",
+    "ra": "314.799",
+    "radius": "1.575",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/528026/",
+    "revisions": [
+        "/api/v1/imagerevision/255758/"
+    ],
+    "subjects": [
+        "B355",
+        "NGC 6989",
+        "NGC 6997",
+        "NGC 7000",
+        "NGC6997",
+        "NGC7000",
+        "North America Nebula",
+        "North America nebula",
+        "Sh2-117"
+    ],
+    "title": "NGC 7000 - North America Nebula (SHO)",
+    "updated": "2021-06-25T15:07:44.378095",
+    "uploaded": "2020-09-27T23:14:05.861863",
+    "url_duckduckgo": "https://www.astrobin.com/c9qwhs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c9qwhs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c9qwhs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c9qwhs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c9qwhs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c9qwhs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c9qwhs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31418/2020/b5b9b697-d483-4489-aa79-96db494280b8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31418/2020/b5b9b697-d483-4489-aa79-96db494280b8-1601249237.jpg",
+    "url_thumb": "https://www.astrobin.com/c9qwhs/0/rawthumb/thumb/",
+    "user": "dandra",
+    "views": 58,
+    "w": 3209
+}

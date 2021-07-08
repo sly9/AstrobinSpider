@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 17,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-19.909",
+    "description": "ngc 3891\r\n\r\nASA 1000\r\nFLI PL 16803\r\n\r\nEl Sauce Observatory\r\nRío Hurtado, Coquimbo Region, Chile\r\nElevation: 1525 m\r\n\r\n32x1200s Astrodon G2E L, bin 1x1\r\n12x1200s Astrodon G2E R, bin 2x2\r\n21x1200s Astrodon G2E G, bin 2x2\r\n25x1200s Astrodon G2E B, bin 2x2\r\n\r\n\r\ni joined telescope.live to check it out. i guess these guys are aggregating a bunch of remotely hosted telescopes, but they might have one or two that are their own. i can't tell easily.\r\n\r\nas part of their subscription plans they have a number of datasets available to download. this one had the most integration time, so i downloaded it.\r\n\r\nthe data is precalibrated. either the darks applied were wrong (there is some evidence for this since a subset of the images have terrible \"salt-and-pepper\" noise where it looks like the dark was shifted over some number of pixels), or the sensor on this telescope has seen better days. there are multiple dead and weak columns right thru the center of the galaxy, necessitating a few trips thru LinearDefectDetection and LinearPatternSubtraction in PI. that mostly took care of the problem but some pixelmath was necessary on the luminance master to clean up residuals.\r\n\r\nmany of the frames had some top/bottom shadowing which did not flatten out. also i guess there were some thin clouds here and there; a few subframes needed ABE and both LocalNormalization and AdaptiveNormalization were used to try to combat these gradients, as well as DBE after integration with AN/LN.\r\n\r\nthis telescope is a real beast - 1m RC. this particular one must be mounted on an alt/az mount as the diffraction spikes rotate with each subframe. not only that but i guess because of the extra mirror to bring the light out the side, the data is \"backwards\", which is something you normally only see with hyperstar as there is only one mirror in that situation. i've un-mirrored the data.\r\n\r\nfinally the position angle was sort of weird and bringing the galaxy back to \"north-is-up\" required a lot of cropping. IDK if \"north up\" is an appropriate orientation for a southern hemisphere object, but there you go.",
+    "h": 2124,
+    "hash": "x2566z",
+    "id": 564850,
+    "imaging_cameras": [
+        "FLI PL-16803"
+    ],
+    "imaging_telescopes": [
+        "ASA 1000 CHILESCOPE"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 283,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "275.357",
+    "pixscale": "0.273",
+    "published": "2021-02-09T21:27:08.455090",
+    "ra": "179.018",
+    "radius": "0.127",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/564850/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3981",
+        "NGC3981"
+    ],
+    "title": "ngc 3981",
+    "updated": "2021-06-06T22:40:31.638476",
+    "uploaded": "2021-02-09T20:48:10.080993",
+    "url_duckduckgo": "https://www.astrobin.com/x2566z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x2566z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x2566z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x2566z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x2566z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x2566z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x2566z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2021/6e40c6cd-4da8-4ffc-9ca6-2cc984cbf7fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2021/6e40c6cd-4da8-4ffc-9ca6-2cc984cbf7fd-1612905084.jpg",
+    "url_thumb": "https://www.astrobin.com/x2566z/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 1525,
+    "w": 2588
+}

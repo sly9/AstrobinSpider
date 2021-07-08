@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "1.940",
+    "description": "On the right we see M5, a globular cluster at magnitude 5.95 and on the left we have Serpentis A & B at Magnitude 5.04.  \r\n\r\nSerpentis A has exhausted its core hydrogen and is evolving to become a red giant, though clearly it is still blue at this time.  It's color index is .5.  Serpentis B separates from A by 11.4\" and was a nice surprise for me when I started processing the data!  Clearly B is red though I did not find its color index.  They make an interesting pair.\r\n\r\nM5 lies 24,000 light years distant which makes wish we had a globular a close as Serpentis A at 82 light years.  What a show that would be!\r\n\r\nI'm having a guiding issue currently and can't get to the scope to troubleshoot.  So these were shot unguided.  I always think of globular clusters when I have guiding issues - 2 minute subs will suffice!\r\n\r\nCalibration in CCDStack, Alignment in PI to take advantage of distortion correction.  DBE and ArcSinh stretch in PI.  Noise reduction via Topaz Denoise AI.  Final processing in PS.",
+    "h": 3131,
+    "hash": "9e8s46",
+    "id": 490085,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "300.963",
+    "pixscale": "0.608",
+    "published": "2020-05-21T21:42:26.633252",
+    "ra": "229.712",
+    "radius": "0.477",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/490085/",
+    "revisions": [],
+    "subjects": [
+        "IC 4537",
+        "M 5",
+        "NGC 5904",
+        "The star 5Ser"
+    ],
+    "title": "M5 and Serpentis A&B",
+    "updated": "2021-03-17T02:00:10.445068",
+    "uploaded": "2020-05-21T22:19:04.540049",
+    "url_duckduckgo": "https://www.astrobin.com/9e8s46/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9e8s46/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9e8s46/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9e8s46/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9e8s46/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9e8s46/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9e8s46/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/74ed7092-d92a-4111-b356-1bbec1520f52.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/74ed7092-d92a-4111-b356-1bbec1520f52-1590100641.jpg",
+    "url_thumb": "https://www.astrobin.com/9e8s46/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 454,
+    "w": 4703
+}

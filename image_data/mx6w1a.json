@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "51.263",
+    "description": "R = 0.5*Ha + 0.5*Sii\r\nG = 0.8*Oiii + 0.2*Sii\r\nB = 1.1*Oiii - 0.1*Sii\r\n\r\nOu1 is the bluish object near the top-center of the image and is classified as a possible PN discovered in 2012.",
+    "h": 3396,
+    "hash": "mx6w1a",
+    "id": 521661,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106-EDXII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812173/"
+    ],
+    "orientation": "281.321",
+    "pixscale": "1.477",
+    "published": "2020-09-08T19:03:08.542184",
+    "ra": "61.151",
+    "radius": "0.952",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521661/",
+    "revisions": [
+        "/api/v1/imagerevision/248908/"
+    ],
+    "subjects": [
+        "NGC 1491",
+        "NGC1491",
+        "Sh2-206"
+    ],
+    "title": "NGC1491 + PN Ou1",
+    "updated": "2021-03-16T22:11:15.464765",
+    "uploaded": "2020-09-08T20:03:08.549612",
+    "url_duckduckgo": "https://www.astrobin.com/mx6w1a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mx6w1a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mx6w1a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mx6w1a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mx6w1a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mx6w1a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mx6w1a/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9347/2020/c71804ec-1226-4c80-80f7-65e7d77d2c99.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9347/2020/c71804ec-1226-4c80-80f7-65e7d77d2c99-1599595827.png",
+    "url_thumb": "https://www.astrobin.com/mx6w1a/0/rawthumb/thumb/",
+    "user": "mesh83",
+    "views": 174,
+    "w": 3162
+}

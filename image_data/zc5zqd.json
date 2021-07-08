@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "A friend suggested it would be interesting to make a comparison of my recent NGC 253 image with that from the Hubble, which was acquired in 2008.\r\nI cropped and rotated my image to match the segment of the galaxy visible in the HST image. A most interesting exercise. \r\n\r\nThe Hubble image certainly has higher resolution, the benefit of not looking through the atmosphere and having mirror diameter 6.8X times mine. My image of course, highlights the Hydrogen Alpha emissions in red. Interesting to see where these areas correspond. In the HST image they almost look yellowy green. The HST image is almost monochrome and it is interesting that the yellow core of the galaxy where older stars reside, does not come through. It was clearly there in my data however. I am not sure what filters were used for the HST image.\r\n\r\nI find it amazing to see how the same features appear in both images. \r\n\r\nThe impact of the atmosphere on the foreground stars, i.e. bloating them is also quite apparent, notwithstanding the fact that I took steps during processing, with Morphological Transformation in PixInsight, to pull them in.\r\n\r\nNotice that, especially in front of the core, there appear to be columns of darker dust material perpendicular to the plane of the galaxy. NGC 253 is well known for this.",
+    "h": 6025,
+    "hash": "zc5zqd",
+    "id": 550453,
+    "imaging_cameras": [
+        "SBIG 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-12-18T04:08:17.653177",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/550453/",
+    "revisions": [],
+    "subjects": [],
+    "title": "NGC 253 comparison with HST image",
+    "updated": "2021-05-04T14:36:18.453995",
+    "uploaded": "2020-12-18T03:54:20.119661",
+    "url_duckduckgo": "https://www.astrobin.com/zc5zqd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zc5zqd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zc5zqd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zc5zqd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zc5zqd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zc5zqd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zc5zqd/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/zc5zqd/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 431,
+    "w": 11239
+}

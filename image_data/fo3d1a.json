@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.848",
+    "description": "This target needs little explanation and a brief description from Wikipedia states: \"The Eagle Nebula is part of a diffuse emission nebula, or H II region, which is catalogued as IC 4703. This region of active current star formation is about 5700 light-years distant. A spire of gas that can be seen coming off the nebula in the northeastern part is approximately 9.5 light-years or about 90 trillion kilometers long. The cluster associated with the nebula has approximately 8100 stars, which are mostly concentrated in a gap in the molecular cloud to the north-west of the Pillars. The brightest star (HD 168076) has an apparent magnitude of +8.24, easily visible with good binoculars. It is actually a binary star formed of an O3.5V star plus an O7.5V companion.[7] This star has a mass of roughly 80 solar masses, and a luminosity up to 1 million times that of the Sun. The cluster's age has been estimated to be 1–2 million years. The descriptive names reflect impressions of the shape of the central pillar rising from the southeast into the central luminous area. The name \"Star Queen Nebula\" was introduced by Robert Burnham, Jr., reflecting his characterization of the central pillar as the Star Queen shown in silhouette.\"\r\n\r\nSteve and I turned to this target a little later than optimum and didn't manage to capture our normal dataset.  This combined with its low altitude made for a harder processing challenge and much experimentation to arrive at ideal Deconvolution settings for the Ha channel to tighten stars and better define the small scale structure.  Next year . . .\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 2320,
+    "hash": "fo3d1a",
+    "id": 531480,
+    "imaging_cameras": [
+        "Starlight Xpress Loadestar 2"
+    ],
+    "imaging_telescopes": [
+        "TEC 140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 303,
+    "link": "https://barrywilson.smugmug.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "359.607",
+    "pixscale": "0.743",
+    "published": "2020-10-11T11:13:39.950829",
+    "ra": "274.717",
+    "radius": "0.308",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/531480/",
+    "revisions": [
+        "/api/v1/imagerevision/254488/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "M16 The Eagle Nebula",
+    "updated": "2021-06-27T00:34:09.303817",
+    "uploaded": "2020-10-11T12:13:40.098994",
+    "url_duckduckgo": "https://www.astrobin.com/fo3d1a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fo3d1a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fo3d1a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fo3d1a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fo3d1a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fo3d1a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fo3d1a/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2020/0c0f8677-d8db-4055-9a6a-bcbbb51820cb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5519/2020/0c0f8677-d8db-4055-9a6a-bcbbb51820cb-1602418897.jpg",
+    "url_thumb": "https://www.astrobin.com/fo3d1a/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 690,
+    "w": 1872
+}

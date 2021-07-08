@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-59.245",
+    "description": "NGC 1672 is a barred spiral Seyfert II galaxy, located around 60 million light-years away towards the southern constellation Dorado.\r\nThe center of the galaxy contains a high surface brightness bar, and four filament-like spiral arms that extend outward from the ends of this bar. There are a number of star forming areas and considerable amounts of dust and H alpha gas. \r\nImaged in LRGB and H alpha\r\nImage Processing: Mike Selby\r\nSystem Control: Voyager by Leo Orazi",
+    "h": 2589,
+    "hash": "jikk5t",
+    "id": 570471,
+    "imaging_cameras": [
+        "FLI PL 16803"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RiDK 700",
+        "Officina Stellare RiDK 500"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815547/"
+    ],
+    "orientation": "1.680",
+    "pixscale": "0.378",
+    "published": "2021-03-01T23:17:56.558949",
+    "ra": "71.428",
+    "radius": "0.205",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/570471/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1672",
+        "NGC1672"
+    ],
+    "title": "NGC 1672",
+    "updated": "2021-05-25T17:23:58.625597",
+    "uploaded": "2021-03-01T23:15:21.799776",
+    "url_duckduckgo": "https://www.astrobin.com/jikk5t/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jikk5t/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jikk5t/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jikk5t/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jikk5t/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jikk5t/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jikk5t/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/96468/2021/9424c616-5fbd-4bfc-b097-2a8f3fb16a30.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/96468/2021/9424c616-5fbd-4bfc-b097-2a8f3fb16a30-1621086818.jpg",
+    "url_thumb": "https://www.astrobin.com/jikk5t/0/rawthumb/thumb/",
+    "user": "SCObservatory",
+    "views": 120,
+    "w": 2918
+}

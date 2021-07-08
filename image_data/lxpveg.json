@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "31.401",
+    "description": "Short integration - test image after collimating with Catseye Infinity XLKP Autocollimator.\r\n\r\nLuminance = Ha + OIII\r\nColor = HOO modified with SCNR and curves for pseudo-RGB look\r\nStars were treated with inverted SCNR to bring out more natural yellow-orange hues",
+    "h": 4636,
+    "hash": "lxpveg",
+    "id": 514817,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.906",
+    "pixscale": "0.978",
+    "published": "2020-08-19T04:56:31.201317",
+    "ra": "314.060",
+    "radius": "0.789",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514817/",
+    "revisions": [
+        "/api/v1/imagerevision/245512/",
+        "/api/v1/imagerevision/245672/",
+        "/api/v1/imagerevision/245715/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995"
+    ],
+    "title": "NGC 6992 - Eastern Veil Nebula",
+    "updated": "2021-03-29T21:41:57.085609",
+    "uploaded": "2020-08-14T22:20:21.728093",
+    "url_duckduckgo": "https://www.astrobin.com/lxpveg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lxpveg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lxpveg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lxpveg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lxpveg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lxpveg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lxpveg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/f02db213-640e-4f76-ad35-8c87fc8bb129.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/f02db213-640e-4f76-ad35-8c87fc8bb129-1597485261.jpg",
+    "url_thumb": "https://www.astrobin.com/lxpveg/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 393,
+    "w": 3500
+}

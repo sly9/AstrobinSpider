@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 41,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Located about 12,000 light-year away in the northern constellation, Auriga, the Tadpole Nebula is a dusty emission nebula and an active star-forming region. The cloud of glowing gas is more than 100 light-years across, sculpted by stellar winds and radiation from an embedded open star cluster, NGC 1893. The name-sake feature of the nebula are two dense streamers of gas and dust that resemble wriggling tadpoles. Potential star forming sites, the “tadpoles” are about 10 light-years long, with tapered tails extending toward the edge of the nebula.\r\n\r\nI’ve been attempting to shoot this object for a few years. Each fall, when the tadpoles rose into view, weather or wildfires obscured the night sky and the project was pushed to “next year.” In 2020 I got lucky, had two perfect nights in a row in November with good seeing, and was able to collect just enough excellent data to give this image a go. This is an SHO rendition using standard Hubble color assignment. I relied on Ha subs with an HFR of <2.2 for a luminance mask, incorporating multiple rounds of Pixinsight Multi Scale Median Transfer and Deconvolution to reduce noise and enhance structural detail. I particularly favor the “backlit” appearance of the tadpoles in the blue-green pond of glowing oxygen gas. This feature is reminiscent of one of my favorite objects, Melotte 15, with the dusty “islands” suspended in the a sea of glowing oxygen.",
+    "h": 2119,
+    "hash": "jbjz9d",
+    "id": 546761,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 159,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-12-02T04:50:23.260079",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546761/",
+    "revisions": [
+        "/api/v1/imagerevision/262800/"
+    ],
+    "subjects": [],
+    "title": "Tadpole Nebula (IC 410) and NGC 1893",
+    "updated": "2021-07-04T17:32:23.621420",
+    "uploaded": "2020-12-02T04:40:29.204128",
+    "url_duckduckgo": "https://www.astrobin.com/jbjz9d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jbjz9d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jbjz9d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jbjz9d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jbjz9d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jbjz9d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jbjz9d/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/jbjz9d/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 419,
+    "w": 3178
+}

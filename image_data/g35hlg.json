@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "HaOIIIRGB image of the Crescent Nebula (NGC 6888) and the surrounding nebulosity. I think I would need a bit more integration time to better bring out the oxygen-shell. Also the colors of the Crescent seem a bit weird.\r\n\r\nFirst time I tried star reduction and sharpening as part of the processing. I think it looks alright.\r\n\r\nUnder an image of Jim Lindelien (www.astrobin.com/users/JimLindelien/) I read about correcting the mixing of the colors channels due to overlapping response of the different pixels in the Bayer matrix.  I tried to do this in revision C. This in my opinion improved the colors of the image, the stars are much more colorful and there are more different colors in the nebulosity. However it messed up the star cores when using the same processing as before, therefore I tried out MaskedStrech which did a better job. Overall I am not sure which version I like more.",
+    "h": 2794,
+    "hash": "g35hlg",
+    "id": 514559,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED80 Air-Spaced Triplet Apochromatic Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813481/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-13T20:23:06.580343",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514559/",
+    "revisions": [
+        "/api/v1/imagerevision/245582/"
+    ],
+    "subjects": [],
+    "title": "NGC 6888 - Crescent Nebula",
+    "updated": "2021-03-16T22:53:52.307718",
+    "uploaded": "2020-08-13T21:23:07.239834",
+    "url_duckduckgo": "https://www.astrobin.com/g35hlg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/g35hlg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/g35hlg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/g35hlg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/g35hlg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/g35hlg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/g35hlg/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/g35hlg/0/rawthumb/thumb/",
+    "user": "iPrimeSE",
+    "views": 109,
+    "w": 4120
+}

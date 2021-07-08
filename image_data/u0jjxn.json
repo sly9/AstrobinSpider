@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "22.610",
+    "description": "A newly-discovered nebula in Hercules. This is a potential planetary nebula, and we hope to obtain a spectrum soon that will help in confirming that it is. \r\n\r\nDana Patchick originally spotted some faint nebulosity on a POSS (Palomar Observatory Sky Survey) plate back on 14 January 2016, but never got around to getting someone to capture an image of it. So he asked me if I would give it a shot.  Here's the result, with a small bright blue star at the centre of the image - a promising CSPN (Central Star of a Planetary Nebula).  The star is magnitude 17.12, has a temperature of 40,338.5K, and a stellar mass of 0.41.",
+    "h": 2716,
+    "hash": "u0jjxn",
+    "id": 508535,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "6.824",
+    "pixscale": "0.533",
+    "published": "2020-07-24T16:07:06.629780",
+    "ra": "266.063",
+    "radius": "0.369",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/508535/",
+    "revisions": [
+        "/api/v1/imagerevision/242871/"
+    ],
+    "subjects": [
+        "PGC1670669",
+        "PGC1672558"
+    ],
+    "title": "PaGo 2 (Patchick-Goodhew 2) - a newly-discovered nebula in Hercules",
+    "updated": "2021-03-17T00:14:27.508874",
+    "uploaded": "2020-07-23T15:29:49.049038",
+    "url_duckduckgo": "https://www.astrobin.com/u0jjxn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/u0jjxn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/u0jjxn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/u0jjxn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/u0jjxn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/u0jjxn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/u0jjxn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2020/a3e59510-ae0c-4b1f-bff6-997c7903d43a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2020/a3e59510-ae0c-4b1f-bff6-997c7903d43a-1595593789.jpg",
+    "url_thumb": "https://www.astrobin.com/u0jjxn/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 308,
+    "w": 4180
+}

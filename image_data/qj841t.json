@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "69.457",
+    "description": "My first effort at imaging a comet and creating an animated GIF.  30 two-minute frames calibrated, registered, and normalized in APP, but not integrated.  Then each frame stretched/processed and created into a GIF in Photoshop.",
+    "h": 2538,
+    "hash": "qj841t",
+    "id": 490974,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812985/"
+    ],
+    "orientation": "237.664",
+    "pixscale": "2.896",
+    "published": "2020-05-24T15:42:44.373120",
+    "ra": "150.094",
+    "radius": "1.857",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490974/",
+    "revisions": [],
+    "subjects": [
+        "Bode's Galaxy",
+        "Cigar Galaxy",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077",
+        "Comet"
+    ],
+    "title": "C/2017 T2 (PANSTARRS) passing M81-82 -- GIF",
+    "updated": "2021-03-17T01:55:10.037252",
+    "uploaded": "2020-05-24T16:42:44.880363",
+    "url_duckduckgo": "https://www.astrobin.com/qj841t/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qj841t/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qj841t/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qj841t/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qj841t/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qj841t/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qj841t/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27868/2020/a7e8cfca-103c-4cce-b591-64893ae74012.gif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27868/2020/a7e8cfca-103c-4cce-b591-64893ae74012-1590339119.gif",
+    "url_thumb": "https://www.astrobin.com/qj841t/0/rawthumb/thumb/",
+    "user": "angutier",
+    "views": 53,
+    "w": 3856
+}

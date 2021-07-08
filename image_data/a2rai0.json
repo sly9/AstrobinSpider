@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.592",
+    "description": "NGC 5033 contains a super-massive black hole, which is not unusual, but the black hole is offset from the rotational center of the galaxy, which is unusual.  This is thought to have resulted from a galaxy merger in the past.  That may also account for the distorted arm that is inclined to the rotational plane and the M64-like black eye in the core.  No suspect has been named in the galaxy merger!\r\n\r\nThe activity and interest here is in the core - the arms are dim and don't show much activity.  Ha data was helpful but more in the core than arms.\r\n\r\nI reduced my sub duration from 600 to 300 seconds due to a periodic guiding issue.  This is most likely a cable issue.  Going from 10 to 5 minute subs gave me more un-affected subs and allowed me to keep most of the affected subs via rejection.  The guiding issue only lasts a few seconds so only star cores are displaced.  While I would like to go fix the problem, that requires an airplane flight....",
+    "h": 1837,
+    "hash": "a2rai0",
+    "id": 484559,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 196,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "41.940",
+    "pixscale": "0.608",
+    "published": "2020-05-02T16:40:25.284266",
+    "ra": "198.365",
+    "radius": "0.260",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/484559/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5033",
+        "NGC5033"
+    ],
+    "title": "NGC 5033 | An Offset Seyfert Nucleus Galaxy",
+    "updated": "2021-07-02T00:32:38.135401",
+    "uploaded": "2020-05-02T17:15:35.714624",
+    "url_duckduckgo": "https://www.astrobin.com/a2rai0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a2rai0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a2rai0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a2rai0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a2rai0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a2rai0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a2rai0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/93b4add0-31f1-4e6b-ac51-1e35092142d1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/93b4add0-31f1-4e6b-ac51-1e35092142d1-1588441207.jpg",
+    "url_thumb": "https://www.astrobin.com/a2rai0/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 757,
+    "w": 2464
+}

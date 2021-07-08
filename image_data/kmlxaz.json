@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 27,
+    "data_source": "OWN_REMOTE",
+    "dec": "59.355",
+    "description": "This lovely triplet of smallish galaxies sits in a nice star field.  The \"Star\" of the group is the perfectly formed spiral, 5985.  It seems these clusters are often anchored by a diffuse elliptical galaxy - is that right?  And if so does anyone know why that would be?  Maybe its just my mistaken perception.\r\n\r\nI attempted Ha to see if there were any tendrils connecting the three.  All three had remarkably quiet Ha emissions.  No clumping in the arms of even 5985.  Only the cores were showing much Ha.   It would be a dull place to image from!\r\n\r\n36 x 600 Luminance\r\n19 x 600 Red\r\n18 x 600 Green\r\n16x 600 Blue",
+    "h": 1959,
+    "hash": "kmlxaz",
+    "id": 500687,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 187,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "8.865",
+    "pixscale": "0.609",
+    "published": "2020-06-25T23:19:00.531811",
+    "ra": "234.604",
+    "radius": "0.316",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/500687/",
+    "revisions": [
+        "/api/v1/imagerevision/238836/"
+    ],
+    "subjects": [
+        "NGC 5976",
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985",
+        "NGC5976",
+        "NGC5981",
+        "NGC5982",
+        "NGC5985"
+    ],
+    "title": "NGC 5981, 5982, 5985 | The Draco Triplet",
+    "updated": "2021-07-01T21:43:08.312888",
+    "uploaded": "2020-06-26T00:06:20.746945",
+    "url_duckduckgo": "https://www.astrobin.com/kmlxaz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kmlxaz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kmlxaz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kmlxaz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kmlxaz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kmlxaz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kmlxaz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/85c38351-486f-4665-aaec-2d1dfaa71629.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/85c38351-486f-4665-aaec-2d1dfaa71629-1593130755.jpg",
+    "url_thumb": "https://www.astrobin.com/kmlxaz/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 488,
+    "w": 3181
+}

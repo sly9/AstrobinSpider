@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "48.637",
+    "description": "Comet Neowise during its close approach to Earth.\r\n\r\nYou'll notice two tails. The blue one is the ion tail, caused by the sun's radiation electrically charging the gases. The larger more diffuse tail is the dust tail, where particles are released as the sun vaporizes the comet.\r\n\r\nEquipment:\r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\n74mm aperture stop-down ring (brings scope to f/5.2)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool \r\n\r\nAccessories:\r\nQHYCCD PoleMaster\r\n\r\nSoftware:\r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition:\r\nLocation:\r\nFt. Griffin State Historic Site, TX\r\nDate: 7/19/2020 (from 10:17-11:09pm)\r\nGain: 76 Offset: 15\r\nCamera temp: -10C\r\nR: 13x60\"\r\nG: 11x60\"\r\nB: 12x60\"\r\nTotal integration time: 36min\r\n64x darks per calibration\r\n30x flats per calibration\r\n200x bias per calibration\r\n\r\nPreprocessing:\r\nBatchPreProcessing to calibrate lights\r\nStarAlignment to register lights\r\n\r\nTo create image for stars:\r\nImageIntegration on star aligned lights\r\n\r\nTo create comet-only image:\r\nCometAlignment on star aligned lights\r\nUsed ProcessContainer and ImageContainer in conjunction with PixelMath and StarNet to stretch, run StarNet, and finally invert stretch to return to linear. \r\nImageIntegration of comet aligned starless lights.\r\n\r\nProcessing on star aligned masters:\r\nDynamicCrop\r\nDynamicBackgroundExtraction\r\nChannelCombination\r\nBackgroundNeutralization\r\nColorCalibration\r\nSCNR Green\r\nArcsinhStretch x2\r\nHistogramTransformation\r\nSCNR Green (making sure there are no green stars on this master)\r\n\r\nProcessing comet-only masters:\r\nDynamicCrop\r\nTGVDenoise\r\nChannelCombination\r\nDynamicBackgroundExtraction\r\nBackgroundNeutralization\r\nSCNR Green on background sky\r\nHistogramTransformation\r\nLocalHistogramEqualization\r\nCurvesTransformation\r\nSCNR Green on low signal areas\r\nTGVDenoise targeting background chrominance\r\nLarsonSekanina for contrast enhancements centered on the nucleus\r\nColorSaturation\r\nCurvesTransformation\r\n\r\nAdded in stars from the star aligned master using a star mask and PixelMath\r\n\r\nMorphologicalTransformation to slightly reduce stars\r\nCurvesTransformation to saturate stars\r\nUnsharpMask to slightly sharpen stars\r\nNoiseGenerator to bring back some fine grain noise to the image.\r\nResampled 50% for web posting",
+    "h": 1602,
+    "hash": "lpv7oe",
+    "id": 511742,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "271.324",
+    "pixscale": "4.051",
+    "published": "2020-08-02T21:24:45.560766",
+    "ra": "142.297",
+    "radius": "1.543",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/511742/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet C/2020 F3 (NEOWISE)",
+    "updated": "2021-03-16T23:09:45.181433",
+    "uploaded": "2020-08-02T22:24:45.730989",
+    "url_duckduckgo": "https://www.astrobin.com/lpv7oe/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lpv7oe/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lpv7oe/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lpv7oe/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lpv7oe/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lpv7oe/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lpv7oe/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27683/2020/f91e0b3f-90d3-44ac-ad4c-9fce995611d9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27683/2020/f91e0b3f-90d3-44ac-ad4c-9fce995611d9-1596407334.jpg",
+    "url_thumb": "https://www.astrobin.com/lpv7oe/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 317,
+    "w": 2226
+}

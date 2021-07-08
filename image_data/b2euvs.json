@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "44.129",
+    "description": "64x10min Halpha\r\n64x10min SII\r\n64x10min OIII",
+    "h": 2652,
+    "hash": "b2euvs",
+    "id": 511184,
+    "imaging_cameras": [
+        "Atik One 9.0 with OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.426",
+    "pixscale": "1.774",
+    "published": "2020-08-01T08:56:41.334532",
+    "ra": "313.003",
+    "radius": "1.051",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/511184/",
+    "revisions": [
+        "/api/v1/imagerevision/243883/",
+        "/api/v1/imagerevision/260701/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC5070 SHO",
+    "updated": "2021-03-16T23:12:56.470298",
+    "uploaded": "2020-08-01T09:56:41.618117",
+    "url_duckduckgo": "https://www.astrobin.com/b2euvs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b2euvs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b2euvs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b2euvs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b2euvs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b2euvs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b2euvs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3147/2020/ce333414-f6dc-4048-a356-c2d8b8d3a9f5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3147/2020/ce333414-f6dc-4048-a356-c2d8b8d3a9f5-1596276044.jpg",
+    "url_thumb": "https://www.astrobin.com/b2euvs/0/rawthumb/thumb/",
+    "user": "az-picture.de",
+    "views": 301,
+    "w": 3339
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 36,
+    "data_source": "BACKYARD",
+    "dec": "20.564",
+    "description": "NGC2174 (aka Monkey Head Nebula) is located in the constellation Orion about 6,400 light-years away. NGC 2174 can be found with binoculars near the head of the Orion hunter during the winter and its size is larger than the full Moon. NGC 2174 is an H II emission nebula as well as a star-forming region surrounding loose open clusters of young stars.\r\nThis image is the Hubble color palette (SHO) plus the natural star color using R, G, and B filters.\r\n\r\nTechnical details:\r\nTelescope: TEC 160FL + TEC FRC 0.9x\r\nMount: Astro-Physics Mach 2 GTO\r\nImaging cameras:ZWO ASI6200MM\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\nTotal Integration: 32.9 Hours\r\nPhotometricColorCalibration data(before crop):\r\nResolution ............... 0.783 arcsec/px\r\nRotation ................. 146.171 deg\r\nObservation start time ... 2021-02-06 02:38:39 UTC\r\nObservation end time ..... 2021-02-25 06:16:52 UTC\r\nFocal distance ........... 990.02 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 2d 5' 1.6\" x 1d 23' 24.2\"\r\nImage center ............. RA: 6 09 53.922 Dec: +20 33 09.96\r\n\r\nFilters: Astrodon 50mm Unmounted LRGB Gen2 E-Series Filter Sets\r\nAstrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue 22x120\" 44 Minutes Bin1x1\r\nGreen 22x120\" 44 Minutes Bin1x1\r\nRed 22x120\" 44 Minutes Bin1x1\r\nHa 45x900\" 11.25 Hours Bin1x1\r\nOIII 35x900\" 8.75 Hours Bin1x1\r\nSII 43x900\" 10.75 Hours Bin1x1",
+    "h": 3545,
+    "hash": "xsrken",
+    "id": 570265,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 180,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "187.308",
+    "pixscale": "0.785",
+    "published": "2021-02-28T22:33:36.709813",
+    "ra": "92.425",
+    "radius": "0.513",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/570265/",
+    "revisions": [],
+    "subjects": [
+        "Monkey Head Nebula",
+        "NGC 2174",
+        "NGC 2175"
+    ],
+    "title": "NGC2174 (Monkey Head Nebula) SHO + RGB stars",
+    "updated": "2021-05-28T07:48:56.927188",
+    "uploaded": "2021-02-28T22:23:55.531209",
+    "url_duckduckgo": "https://www.astrobin.com/xsrken/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xsrken/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xsrken/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xsrken/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xsrken/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xsrken/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xsrken/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/5c2fc915-ac4c-48c1-badc-385b02d773ad.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/5c2fc915-ac4c-48c1-badc-385b02d773ad-1614551691.JPG",
+    "url_thumb": "https://www.astrobin.com/xsrken/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 335,
+    "w": 3100
+}

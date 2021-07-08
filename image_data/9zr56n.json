@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "15.784",
+    "description": "M74\r\nL: 278 x 2 min , Skywatcher 250/1000 Quattro CF, ASI 183 mmc , 2x2 bin\r\nRGB: 120 x  2 min, Skywatcher 130/650 PDS  , ASI ZWO 294 mc\r\n-----------------------\r\nTOTAL 15h 16 min",
+    "h": 1460,
+    "hash": "9zr56n",
+    "id": 558865,
+    "imaging_cameras": [
+        "ASI ZWO ASI 294MC Pro",
+        "ASI ZWO ASI 183MM-C pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 130/650 PDS",
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810357/"
+    ],
+    "orientation": "359.446",
+    "pixscale": "1.098",
+    "published": "2021-01-17T10:47:57.232726",
+    "ra": "24.173",
+    "radius": "0.378",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558865/",
+    "revisions": [],
+    "subjects": [
+        "M 74",
+        "M74",
+        "NGC 628"
+    ],
+    "title": "M74",
+    "updated": "2021-03-11T19:04:24.443954",
+    "uploaded": "2021-01-17T10:42:56.550768",
+    "url_duckduckgo": "https://www.astrobin.com/9zr56n/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9zr56n/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9zr56n/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9zr56n/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9zr56n/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9zr56n/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9zr56n/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3620/2021/f98b0b0c-9b3b-4df5-8c37-4e8d31a9bc81.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3620/2021/f98b0b0c-9b3b-4df5-8c37-4e8d31a9bc81-1610880586.jpg",
+    "url_thumb": "https://www.astrobin.com/9zr56n/0/rawthumb/thumb/",
+    "user": "navigator77",
+    "views": 136,
+    "w": 1998
+}

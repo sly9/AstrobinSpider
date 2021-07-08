@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 11,
+    "data_source": "PUBLIC_AMATEUR_DATA",
+    "dec": "60.915",
+    "description": "This is my entry in the monthly processing challenge on SGL. Data provided by the Ikarus Imaging Observatory run by FLO in Spain. \r\n\r\nThis is Ha Sii Oiii data and I aimed for an RGB like image. I put Oiii in blue, Ha in red, and made a sythetic green out of 50% Oiii, 25% Ha and 25% Sii. \r\n\r\nhttps://stargazerslounge.com/topic/371536-iko-ic59-ic63-ghost-of-cassiopeia-data-release-february-2021/",
+    "h": 2494,
+    "hash": "hszy59",
+    "id": 568953,
+    "imaging_cameras": [
+        "Starlight Xpress Trius 694 mono"
+    ],
+    "imaging_telescopes": [
+        "Stella Mira 104mm ED2 Triplet Refractor & Dedicated Flattener"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815519/"
+    ],
+    "orientation": "92.000",
+    "pixscale": "1.441",
+    "published": "2021-02-23T08:53:05.137275",
+    "ra": "14.674",
+    "radius": "0.786",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/568953/",
+    "revisions": [],
+    "subjects": [
+        "27 gam Cas",
+        "IC 59",
+        "IC 63",
+        "IC59",
+        "IC63",
+        "Sh2-185",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "Ghost of Cassiopeia IC59 & IC63",
+    "updated": "2021-04-10T22:34:44.664549",
+    "uploaded": "2021-02-23T08:25:21.380243",
+    "url_duckduckgo": "https://www.astrobin.com/hszy59/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hszy59/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hszy59/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hszy59/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hszy59/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hszy59/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hszy59/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2021/61e59649-b475-4916-9f8a-87ffd0fd79f3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2021/61e59649-b475-4916-9f8a-87ffd0fd79f3-1614070029.jpg",
+    "url_thumb": "https://www.astrobin.com/hszy59/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 234,
+    "w": 3033
+}

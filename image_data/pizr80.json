@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Sometimes the mediocre resolution of a planetary image means you have to compose it with the planet rather small in the FOV. Rarely, is the resolution so good that it justifies a close up.\r\nHowever yesterday morning I had seeing that was about as good as it gets.The resolution in the image reflects this, with good detail from pole to pole and limb to limb. Note that when the seeing is this good, the resolution of the RGB image is far superior to that of the IR image, included as a separate version, because the lucky imaging gets to the optical resolution of the OTA, which is a function of wavelength and favours shorter ones.\r\nI also included the R,G,B components as separate versions, which show just how good the resolution was by wavelength on this occasion. I set up the Blue image as a mouseover as it is so rare to see a Blue image of this quality. Blue light is more refracted by the atmosphere and the image quality therefore more affected by the seeing.  Note that RGB, IR and Green images all have the same timestamp 2021-05-22_19-55, where the Blue is one minute before and the Red one minute after. These three images were derotated and integrated to the central (Green) timestamp by WinJUPOS to produce the final RGB image.\r\nThe WSZ (the large white spot at the Northern edge of the NEB, left of centre, can be seen at the boundary of the NEB and the NTrZ, just to the f side of the Central Meridian (CM) and there are two prominent red barges also in the NEB. The beautiful wave pattern at the boundary of the NTeB and NTeZ is in evidence.\r\nThere is also a small intense spot at the Boundary of the EZ and NEB, just on the f side of the CM.\r\nAs a reminder “f” stands for following and “p” stand for preceding. When the planet it north up as it is now, the f side is at left and the p side is to the right.",
+    "h": 744,
+    "hash": "pizr80",
+    "id": 591835,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-05-24T05:38:07.067368",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/591835/",
+    "revisions": [
+        "/api/v1/imagerevision/288561/",
+        "/api/v1/imagerevision/288562/",
+        "/api/v1/imagerevision/288563/",
+        "/api/v1/imagerevision/288564/"
+    ],
+    "subjects": [],
+    "title": "Jupiter - a very close up view with high resolution",
+    "updated": "2021-07-05T18:18:16.362578",
+    "uploaded": "2021-05-24T04:58:34.416401",
+    "url_duckduckgo": "https://www.astrobin.com/pizr80/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pizr80/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pizr80/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pizr80/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pizr80/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pizr80/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pizr80/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/pizr80/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 447,
+    "w": 744
+}

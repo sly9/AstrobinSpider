@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is a result of a few imaging sessions during August 2020. I was experimenting with different camera gain from 0 to 200. The later comparison of frames make me think that ASI1600 camera gain of 200 is probably works best for my setup. The preprocessing stage was a bit of a challenge, because I have two telescopes and it means I have to manage two sets of data for each session, left alone different camera gain. In order to deal with this issue I had to modify a WBPP, and that allowed me to handle ~1000 files properly. Then the image was processed in PixInsight 1.8.8-6 that comes with build in StarNet tool, which I find very exciting. For the final touches I used Topaz Studio.",
+    "h": 2038,
+    "hash": "93segr",
+    "id": 518068,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM pro",
+        "ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805625/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-26T02:51:01.369632",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/518068/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Starless Sh2-115",
+    "updated": "2021-06-30T17:05:33.969034",
+    "uploaded": "2020-08-26T03:17:40.845120",
+    "url_duckduckgo": "https://www.astrobin.com/93segr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/93segr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/93segr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/93segr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/93segr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/93segr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/93segr/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/93segr/0/rawthumb/thumb/",
+    "user": "mtau",
+    "views": 112,
+    "w": 1629
+}

@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "34.242",
+    "description": "Flaming Star Nebula\r\n\r\nGear:\r\nCamera: ASI1600MM w/ EAF, EFW\r\nFilters: ZWO Ha, Sii 7nm & Astronomik Oiii 6nm\r\nScope: Meade Series 6000 70mm f/5 Astrograph Quadruplet\r\nGuidescope: Williams Optics 50mm\r\nGuidecam: ASI120MM mini\r\nMount: SW HEQ5 Pro w/ Belt mod\r\nPegasus Astro Pocket Power Box\r\nAstro-Zap dew heaters\r\n\r\nImage details:\r\n69x420s HA, Gain 139, -10c\r\n73x420s OIII, Gain 139, -10c\r\n18x420s SII, Gain 139, -10c\r\n25 darks, flats, darkflats\r\n18.5 hrs total\r\nSlight crop on the nebula to focus on the details.\r\n\r\nAcquisition/Edits:\r\nSharpCap, NINA, PHD2, Stellarium, APP, Pixinsight",
+    "h": 2464,
+    "hash": "zc72kp",
+    "id": 542542,
+    "imaging_cameras": [
+        "ZWO ASI ASI1600 MM cooled"
+    ],
+    "imaging_telescopes": [
+        "Meade 6000 70mm Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "229.597",
+    "pixscale": "2.270",
+    "published": "2020-11-18T23:33:29.496797",
+    "ra": "78.787",
+    "radius": "1.273",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542542/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star Nebula",
+        "IC 405"
+    ],
+    "title": "Flaming Star Nebula",
+    "updated": "2021-06-07T16:37:25.977120",
+    "uploaded": "2020-11-18T23:31:34.889807",
+    "url_duckduckgo": "https://www.astrobin.com/zc72kp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zc72kp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zc72kp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zc72kp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zc72kp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zc72kp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zc72kp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54336/2020/c11663e6-2f76-4a79-a454-25b0436c49ef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54336/2020/c11663e6-2f76-4a79-a454-25b0436c49ef-1605744842.jpg",
+    "url_thumb": "https://www.astrobin.com/zc72kp/0/rawthumb/thumb/",
+    "user": "Colorado_Astro",
+    "views": 234,
+    "w": 3201
+}

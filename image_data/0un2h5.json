@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-14.334",
+    "description": "During the last 3 months the sky was very unfriendly around here so I could not complete any deep sky project. So I thought of a project shot from the Southern hemisphere. After discovering Arp 245 I thought to myself that's a pretty original object, I haven't seen any pictures of it until now. I programmed the acquisitions and the next day, IOTD was Warren Keller's beautiful rendition of the same couple : ). Originality just lost 85%. \r\n\r\nThe galaxies are pretty small in the field and the star shapes showed undersampling. So I did a drizzle integration which clearly improved things. Also a deconvolution process on the Luminance really worked this time (it's not always very spectacular) and some details appeared in the galaxy core. I had some big gradients due to the moon phase on the RGB subs but DBE and cropping helped neutralize them.\r\n\r\nARP 245 is a couple of gravitationally interacting galaxies, discovered, of course by William Herschel in 1785. They are located in the Hydra constellation. NGC 2992 is an active Seyfert galaxy (meaning that it has a compact and dense core, an important source of electromagnetic radiation). They are situated at around 105 million ly away (Wikipedia).\r\n\r\nAcquisition details : L 14 x 600s, R 9 x 600s, G 7 x 600s, B 7 x 600s",
+    "h": 2025,
+    "hash": "0un2h5",
+    "id": 579611,
+    "imaging_cameras": [
+        "FLI PROLINE PL16803"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 500m Newtonian f3.8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "315.397",
+    "pixscale": "0.478",
+    "published": "2021-04-05T12:21:11.645405",
+    "ra": "146.435",
+    "radius": "0.223",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/579611/",
+    "revisions": [
+        "/api/v1/imagerevision/281605/"
+    ],
+    "subjects": [
+        "NGC 2992",
+        "NGC 2993",
+        "NGC2992",
+        "NGC2993"
+    ],
+    "title": "Galactic Rendez-vous : NGC 2992 and NGC 2993",
+    "updated": "2021-05-18T20:44:29.723648",
+    "uploaded": "2021-04-05T11:15:04.074212",
+    "url_duckduckgo": "https://www.astrobin.com/0un2h5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0un2h5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0un2h5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0un2h5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0un2h5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0un2h5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0un2h5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30436/2021/08739941-486f-421b-a3d8-2832472c5e31.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30436/2021/08739941-486f-421b-a3d8-2832472c5e31-1617622380.png",
+    "url_thumb": "https://www.astrobin.com/0un2h5/0/rawthumb/thumb/",
+    "user": "Bobinius",
+    "views": 200,
+    "w": 2673
+}

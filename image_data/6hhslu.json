@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 28,
+    "data_source": "BACKYARD",
+    "dec": "60.623",
+    "description": "The Soul Nebula spans roughly 100 light years across at 6,500 ly away. It doesn't quite fit into my smaller 183 sensor, but I enjoyed the additional detail from this camera's tiny pixels.\r\n\r\nI experimented with tone mapping this time, moving Ha to be more towards the red and OIII towards the green. For anyone curious, the pixel math expression used was:\r\nR: Ha*.45+SII*.55\r\nG: Ha*.6+OIII*.4\r\nB: OIII\r\n\r\nThank you for checking out the result!\r\n\r\n---------------------------\r\nAstroPixelProcessor\r\n---------------------------\r\nStacked with default settings except LNC set to 2nd degree with 3 iterations.\r\n\r\n--------------\r\nPixinsight\r\n--------------\r\n1. Deconvolution\r\n2. TGV Denoise & MMT (Jon Rista method) used for noise reduction.\r\n3. STF Stretch applied.\r\n4. Temporary star removal for tone mapping.\r\n5. PixelMath SHO combine.\r\n6. Small 30% SNCR applied to remove slight green cast.\r\n7. Re-add stars back.\r\n8. Applied various curves/masks to enhance contrast.\r\n\r\n---------------\r\nPhotoshop\r\n---------------\r\n1. Spot cleanup of small over-saturated stars.\r\n2. Smart Sharpening of just the details in IC 1871",
+    "h": 3625,
+    "hash": "6hhslu",
+    "id": 566185,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX102T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 223,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814012/"
+    ],
+    "orientation": "45.275",
+    "pixscale": "0.937",
+    "published": "2021-02-14T17:31:52.240095",
+    "ra": "43.909",
+    "radius": "0.805",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/566185/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-199"
+    ],
+    "title": "IC1848 - IC1871 - Soul Nebula",
+    "updated": "2021-07-04T21:07:15.977579",
+    "uploaded": "2021-02-14T16:53:14.072476",
+    "url_duckduckgo": "https://www.astrobin.com/6hhslu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6hhslu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6hhslu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6hhslu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6hhslu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6hhslu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6hhslu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/75293/2021/14ed55e7-fd8e-4d0b-88f0-134fa6d4f919.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/75293/2021/14ed55e7-fd8e-4d0b-88f0-134fa6d4f919-1613323030.png",
+    "url_thumb": "https://www.astrobin.com/6hhslu/0/rawthumb/thumb/",
+    "user": "brule",
+    "views": 1176,
+    "w": 5014
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "32.362",
+    "description": "First image after being out of business for nearly 6 months due to technical problems in my remote observatory (and Covid-19 travel restrictions)",
+    "h": 3900,
+    "hash": "w37wrw",
+    "id": 568459,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.700",
+    "pixscale": "1.236",
+    "published": "2021-02-21T15:18:47.873406",
+    "ra": "190.651",
+    "radius": "0.947",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/568459/",
+    "revisions": [
+        "/api/v1/imagerevision/274848/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC 4656",
+        "NGC 4657",
+        "Whale Galaxy"
+    ],
+    "title": "The Whale and Hockey Stick galaxies",
+    "updated": "2021-04-13T14:12:06.458422",
+    "uploaded": "2021-02-21T15:18:48.591120",
+    "url_duckduckgo": "https://www.astrobin.com/w37wrw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w37wrw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w37wrw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w37wrw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w37wrw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w37wrw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w37wrw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2021/fc49d4d7-cc56-495c-98a6-e78eef63bb39.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2021/fc49d4d7-cc56-495c-98a6-e78eef63bb39-1613921320.jpg",
+    "url_thumb": "https://www.astrobin.com/w37wrw/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 289,
+    "w": 3900
+}

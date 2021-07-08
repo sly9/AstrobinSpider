@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "62.570",
+    "description": "Cave Nebula Ah2-155 in HSO-RGB\r\n\r\nTS Photoline 130/910 mm apo and ASI16000mmp\r\n50 x 30s R\r\n50 x 30s G\r\n50 x 30s B\r\n36 x 300s Ha\r\n36 x 300s SII\r\n50 x 300s OIII",
+    "h": 3343,
+    "hash": "tu0oa3",
+    "id": 487570,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "322.448",
+    "pixscale": "1.070",
+    "published": "2020-05-14T15:03:46.166489",
+    "ra": "344.203",
+    "radius": "0.818",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487570/",
+    "revisions": [
+        "/api/v1/imagerevision/232972/"
+    ],
+    "subjects": [],
+    "title": "Sh2-155 Burning Cave",
+    "updated": "2021-03-17T02:14:00.409214",
+    "uploaded": "2020-05-13T19:02:45.230928",
+    "url_duckduckgo": "https://www.astrobin.com/tu0oa3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tu0oa3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tu0oa3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tu0oa3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tu0oa3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tu0oa3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tu0oa3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/2edc530e-b6c9-47c0-b784-9bf83486318a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/2edc530e-b6c9-47c0-b784-9bf83486318a-1589397055.jpg",
+    "url_thumb": "https://www.astrobin.com/tu0oa3/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 346,
+    "w": 4379
+}

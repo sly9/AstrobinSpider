@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "43.768",
+    "description": "Object : ngc 7000 (Cygnus Wall)\r\nDate : Sept.2018-Oct.2018\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon Ha,Oiii,Sii\r\nExposure : L Ha:1200s x8 ,Oiii 1200s x6,Sii 1200s x8 (7.33hr)\r\nGuiding  :Borg 50/ asi174 ,\r\nProcessing:  PI、PS-CC\r\n\r\n<a  href=\"https://www.facebook.com/noodle.v/posts/10157956836667599\"> Facebook 3D image</a>",
+    "h": 1534,
+    "hash": "9ka917",
+    "id": 521441,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "https://astro-noodle.blogspot.com/2020/09/the-wall.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "88.757",
+    "pixscale": "0.930",
+    "published": "2020-09-07T23:37:02.757863",
+    "ra": "315.057",
+    "radius": "0.317",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/521441/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The Wall, ngc 7000 / Hubble palette",
+    "updated": "2021-03-16T22:12:52.969367",
+    "uploaded": "2020-09-08T00:37:02.914130",
+    "url_duckduckgo": "https://www.astrobin.com/9ka917/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9ka917/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9ka917/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9ka917/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9ka917/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9ka917/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9ka917/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/c8a2815c-ab11-4330-bae5-5a04f54dc51a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/c8a2815c-ab11-4330-bae5-5a04f54dc51a-1599526282.png",
+    "url_thumb": "https://www.astrobin.com/9ka917/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 154,
+    "w": 1920
+}

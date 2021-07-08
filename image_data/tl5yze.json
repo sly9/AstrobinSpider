@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 28,
+    "data_source": "BACKYARD",
+    "dec": "40.447",
+    "description": "Just south of Sadr, in the Gama Cygni Nebula, is IC 1318, the Butterfly Nebula. The body of the butterfly is a dark lane of dust, LDN 889, that bisects the colorful emission nebula that creates the butterfly wings. This image is the northern wing of the butterfly, IC 1318 C, a concentration glowing hydrogen, oxygen, and sulfur with of channel dark dust perforating the center of the mass.\r\n\r\nThis image combine data collected over two years with two different OTA’s (both with the same camera, ZWO ASI1600MM Pro). In 2019 I collect 19.6 hours of Ha, OIII, and SII using at SW Esprit 100 (FL 550mm), and in 2020 I collected 12.6 hours of Ha using a WO FLT 132 (FL 925mm). In this rendition I used the 2019 data for color mapping, and used both the 2019 and 2020 Ha data to create a master luminance. The FOV of the 925mm OTA was used for framing (1.2 degrees X 0.8 degrees).\r\n\r\nHere is a link to the original 2019 Butterly Nebula image (IC 1318).\r\n\r\nhttps://www.astrobin.com/420891/?nc=user",
+    "h": 2349,
+    "hash": "tl5yze",
+    "id": 500304,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 105,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "39.660",
+    "pixscale": "0.862",
+    "published": "2020-06-24T14:36:30.052275",
+    "ra": "306.485",
+    "radius": "0.466",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/500304/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Heart of the Swan (IC 1318 C)",
+    "updated": "2021-07-04T17:47:11.567827",
+    "uploaded": "2020-06-24T15:36:31.162713",
+    "url_duckduckgo": "https://www.astrobin.com/tl5yze/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tl5yze/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tl5yze/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tl5yze/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tl5yze/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tl5yze/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tl5yze/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/571bb45c-f6f3-4f5e-9c78-b5b4d73f2ec1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/571bb45c-f6f3-4f5e-9c78-b5b4d73f2ec1-1593014669.jpg",
+    "url_thumb": "https://www.astrobin.com/tl5yze/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 278,
+    "w": 3107
+}

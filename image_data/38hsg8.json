@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": null,
+    "description": "The Tarantula Nebula, also known as 30 Doradus and NGC 2070, is located within the Large Magellanic Cloud on the border between the constellations Dorado and Mensa.  It's a large emission nebula and star forming region which is one of the most active and largest regions of star formation in our Local Group of galaxies.  The nebula lies at a distance of 160,000 light-years from Earth and is approximately 1,000 light-years across (13 arc minutes).  It contains more than 800,000 stars and is extremely luminous, shining at magnitude 8.  I've read that the Orion Nebula, in comparison, is only 1/100th the size of the Tarantula Nebula and if the Tarantula Nebula was as close to Earth as the Orion Nebula it would cast shadows.    The nebula contains two clusters R136 and Hodge 301. R136 located near the center of the nebula is responsible for it's illumination.  It has an estimated mass of around 450,000 solar masses, several stars that are 100 times the mass of the Sun, and a diameter of 35 light-years.  \r\nThis data was recorded in November 2020 at Deep Sky West-Chile.  There's 38.5 hours of L, R, G, B, HA, OIII, and SII of varying exposure lengths from 120s-1800s.  I processed it in Pixinsight and tweaked it with Photoshop.\r\nAnyway, hope ya like it!\r\nTom",
+    "h": 3600,
+    "hash": "38hsg8",
+    "id": 561906,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Takahashi TOA 150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815247/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-01-29T00:45:19.935598",
+    "ra": null,
+    "radius": null,
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/561906/",
+    "revisions": [
+        "/api/v1/imagerevision/271130/",
+        "/api/v1/imagerevision/271132/",
+        "/api/v1/imagerevision/283680/"
+    ],
+    "subjects": [],
+    "title": "Tarantula Nebula Area-30 Doradus/NGC 2070",
+    "updated": "2021-04-19T01:05:21.011497",
+    "uploaded": "2021-01-29T00:04:09.013863",
+    "url_duckduckgo": "https://www.astrobin.com/38hsg8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/38hsg8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/38hsg8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/38hsg8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/38hsg8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/38hsg8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/38hsg8/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/38hsg8/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 141,
+    "w": 4500
+}

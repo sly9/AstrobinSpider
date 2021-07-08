@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "42.038",
+    "description": "Fortunately the good weather held out for a few more days to squeeze out one more object during the April dark cycle. (-: The fog and rain returned last night.\r\n\r\nThe challenge here was to expose the very faint tidal streams without overexposing the galaxy. Fortunately the Kodak 16803 chip permits this with 900s exposures. A 21.6+ sky helps too (i.e., fog at lower altitudes during April, May and June helps shield the San Diego city lights).\r\n\r\nThe 24 900s L frames used here were between 1.67\"and 2.26\".\r\n\r\nI took lots of color this time for more precise color reproduction (less noise) in the very dim areas. Color subs were VERY steady. I could actually find a combo of 28 900s color and L subs between 1.4\" and 2.0\" to make a hybrid luminance. That helped improved the stacked result by about .4\" over the 24 900s L subs. But it was noisier, and after deconvolution, the 24 L subs gave a better overall result with less noise. This also helped me avoid any processing artifacts resulting from overlaying hybrid L over pure L in the high SNR areas.\r\n\r\nFWIW, after looking at the 8:8:8 R:G:B data vs the 16:16:16 R:G:B data, the noise improvement is very subtle when the skies are this dark. I think my time would have been better spent capturing 1800s L data for less noise in the  tidal areas. I was hoping to do that last night and actually captured 20 x 1800s dark calibration subs for that. But the weather turned on me. Next time for sure. (-:\r\n\r\nAbout 2 hours of Ha was screened over the top. This added a subtle red hue to the central area with the brighter star-forming regions enhanced very slightly. The dark R data seemed to already be doing a good job for the Ha regions.\r\n\r\n\"M63, also known as NGC 5055 or the Sunflower Galaxy, is a spiral galaxy in the northern constellation of Canes Venatici with approximately 400 billion stars.\r\n\r\nThe shape or morphology of this galaxy has a classification of SAbc, indicating a spiral form with no central bar feature (SA) and moderate to loosely wound arms (bc). There is a general lack of large-scale continuous spiral structure in visible light, so it is considered a flocculent galaxy. However, when observed in the near infrared, a symmetric, two-arm structure is seen. Each arm wraps 150° around the galaxy and extends out to 13,000 light-years from the nucleus.\r\n\r\nRadio observations at the 21-cm hydrogen line show the gaseous disk of M63 extends outward to a radius of 130,000 light-years, well past the bright optical disk. This gas shows a symmetrical form that is warped in a pronounced manner, starting at a radius of 33,000 light-years. The form suggests a dark matter halo that is offset with respect to the inner region. The reason for the warp is unclear, but the position angle points toward the smaller companion galaxy, UGC 8313.\r\n\r\nThe distance to M63, based upon the luminosity-distance measurement is 29,300,000 light-years.\"",
+    "h": 2952,
+    "hash": "19c4rk",
+    "id": 581950,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 180,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "359.175",
+    "pixscale": "0.468",
+    "published": "2021-04-13T17:42:28.862560",
+    "ra": "198.959",
+    "radius": "0.321",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/581950/",
+    "revisions": [],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower Galaxy"
+    ],
+    "title": "The Sunflower Galaxy (M63)",
+    "updated": "2021-05-12T14:18:31.555921",
+    "uploaded": "2021-04-13T17:23:36.742227",
+    "url_duckduckgo": "https://www.astrobin.com/19c4rk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/19c4rk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/19c4rk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/19c4rk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/19c4rk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/19c4rk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/19c4rk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2021/524f6826-a8f1-4d63-8192-b1bf0644d7bd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2021/524f6826-a8f1-4d63-8192-b1bf0644d7bd-1618335639.jpg",
+    "url_thumb": "https://www.astrobin.com/19c4rk/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 411,
+    "w": 3957
+}

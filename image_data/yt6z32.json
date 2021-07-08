@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 11,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "47.409",
+    "description": "I have to admit that HaLRGB processing is something that I just don't feel like I have the best understanding of or process for.  I have made a few attempts at different methodologies with varying degrees of success.  This time I reached out to Adam Block for a bit of consulting.  I attempted to take his advice and direction and apply it to this terrific data from Deep Sky West in Rowe, NM.\r\n\r\nWhat I struggle with is getting the Ha to come through without messing up the stars or losing the red data that isn't from the emission line.  I think I have managed (with Adams help) to preserve the proper star color, but I am still a bit unhappy with the color of the dust in the dust lane.  The Ha is so strong that it overpowers the rest of the red channel.  Perhaps I should keep at it...\r\n\r\nThank you, Adam, for helping me to get to this result.\r\nAs always, C and C are welcome and appreciated.",
+    "h": 3162,
+    "hash": "yt6z32",
+    "id": 516737,
+    "imaging_cameras": [
+        "FLI PL16070"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 175mm"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813524/"
+    ],
+    "orientation": "90.658",
+    "pixscale": "1.056",
+    "published": "2020-08-21T20:52:10.272285",
+    "ra": "327.997",
+    "radius": "0.842",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/516737/",
+    "revisions": [],
+    "subjects": [
+        "B168",
+        "Cocoon Nebula",
+        "Cocoon nebula",
+        "IC 5146",
+        "IC5146",
+        "Sh2-125",
+        "VdB147"
+    ],
+    "title": "IC5146 HaLRGB",
+    "updated": "2021-03-16T22:41:52.480318",
+    "uploaded": "2020-08-21T21:52:10.651688",
+    "url_duckduckgo": "https://www.astrobin.com/yt6z32/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yt6z32/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yt6z32/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yt6z32/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yt6z32/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yt6z32/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yt6z32/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31444/2020/b9cc58ac-c8bb-4231-9a4c-b2f0d1c75bb8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31444/2020/b9cc58ac-c8bb-4231-9a4c-b2f0d1c75bb8-1598129257.jpg",
+    "url_thumb": "https://www.astrobin.com/yt6z32/0/rawthumb/thumb/",
+    "user": "tim@the-hutchison-family.net",
+    "views": 100,
+    "w": 4794
+}

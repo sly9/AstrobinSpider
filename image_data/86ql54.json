@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "57.462",
+    "description": "The data was collected on two Nights with two Scopes. Ha was done with the 150/750 PDS, OIII and SII with the SV503 on top of the PDS.",
+    "h": 4036,
+    "hash": "86ql54",
+    "id": 594268,
+    "imaging_cameras": [
+        "ZWO ASI 2600 MM Pro",
+        "ZWO ASI 1600 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "SvBony SV503",
+        "Skywatcher Explorer 150/750 PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2814237/"
+    ],
+    "orientation": "270.349",
+    "pixscale": "1.021",
+    "published": "2021-06-03T14:33:53.818316",
+    "ra": "323.743",
+    "radius": "0.641",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594268/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "The Elefant Trunk",
+    "updated": "2021-06-16T00:53:41.810655",
+    "uploaded": "2021-06-03T14:22:46.193372",
+    "url_duckduckgo": "https://www.astrobin.com/86ql54/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/86ql54/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/86ql54/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/86ql54/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/86ql54/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/86ql54/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/86ql54/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/56163/2021/4fde4e45-c8ce-4781-9802-3548f5e4e400.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/56163/2021/4fde4e45-c8ce-4781-9802-3548f5e4e400-1622730648.jpg",
+    "url_thumb": "https://www.astrobin.com/86ql54/0/rawthumb/thumb/",
+    "user": "pmneo",
+    "views": 165,
+    "w": 2034
+}

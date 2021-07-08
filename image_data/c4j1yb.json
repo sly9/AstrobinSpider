@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "After about 10-years delay, I decided to recommence H-alpha solar imaging. For that purpose, I assembled a modified Coronado PST telescope, coupled with a TS 102 f/7 refractor. The modification was made with an aid of a specially designed afocal corrector lens (\"Gomal\") installed in front of the Coronado objective. The purpose of the corrector is to converst the incoming light into a parallel beam before it enters the Coronado. The system was introduced and popularized by Russian astrophotographer <a href=\"http://shvedun.ru/solncescop.htm\">Alexey Prudnikov</a>. \"Gomal\" correctors were custom-produced in small amount at the NPZ optical plant in Novosibirsk. I am happy to own one of these rare optical gatgets. About 10 years ago, I used Coronado PST coupled with a 80 mm f/7 refractor, and was really impressed with the system performance. Upgrade to a 100 mm Solarscope afforded even more impressive visual views, along with marvellous photo-quality.\r\n\r\nHere is a first-light picture, showing subsiding active region 2765 close to the solar limb on the morning, 14 July 2020 (7:30 UT). The raw video was taken during my visit to <a href=\"https://www.facebook.com/astronoom/\">Estonian People's Observatory</a> (Munalaskme, Estonia). \r\n\r\nProcessing details: 16-bit raw video, stacked in AS!3 (600 of 3000 frames), deconvolved in AstraImage. Inverted pseudocolor version. Image B: pseudocolor version.",
+    "h": 905,
+    "hash": "c4j1yb",
+    "id": 501051,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Coronado PST",
+        "TS PHOTOLINE 102 mm f/7 FPL-53 Doublet Apo"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813736/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-27T15:05:11.958819",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/501051/",
+    "revisions": [
+        "/api/v1/imagerevision/239092/"
+    ],
+    "subjects": [],
+    "title": "First Light of a New Solarscope: AR 2765",
+    "updated": "2021-06-25T03:27:17.908040",
+    "uploaded": "2020-06-27T14:13:06.113131",
+    "url_duckduckgo": "https://www.astrobin.com/c4j1yb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c4j1yb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c4j1yb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c4j1yb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c4j1yb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c4j1yb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c4j1yb/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/c4j1yb/0/rawthumb/thumb/",
+    "user": "Dzmitry_Kananovich",
+    "views": 160,
+    "w": 1093
+}

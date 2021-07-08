@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "22.014",
+    "description": "I was a little late in this game so it took a long time to collect enough data for a decent image. My plan was to have a lot of NB data and just enough RGB data to have color stars. After I did my first channel combination I noticed that I hated all the rainbow colors the master showed. Not having enough RGB data left me scratching my head until I thought I'll try the HDRCombination putting together each of two channels S + R, H + G and O + B. After combining these new masters I got a more natural looking palette which I then started to work with. At the end it came down again to decide how dominant one wants the Red to be and how much that Blue / Green hue around the Nebula should show. I'm not a big fan of Green color so my M1 is maybe more Bluish than Greenish. \r\n\r\nI did more convolution and color saturation to my stars than usually and I really like the way they turned out. This might be my new go-to process for the color stars going forward. When it comes to the Nebula itself, well I wish I would have had more focal length. It would have really helped to bring out those fainter dust lines inside the Crab.",
+    "h": 2784,
+    "hash": "f04ee9",
+    "id": 473356,
+    "imaging_cameras": [
+        "QSI 6120WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TEC 140 APO ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808334/"
+    ],
+    "orientation": "269.849",
+    "pixscale": "0.615",
+    "published": "2020-04-07T11:39:41.261599",
+    "ra": "83.632",
+    "radius": "0.429",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/473356/",
+    "revisions": [],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "M1 - Crab Nebula / 2020",
+    "updated": "2021-03-21T09:28:00.530235",
+    "uploaded": "2020-04-05T15:44:06.511063",
+    "url_duckduckgo": "https://www.astrobin.com/f04ee9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f04ee9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f04ee9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f04ee9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f04ee9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f04ee9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f04ee9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24166/2020/9d81d63a-8d4d-4663-8c45-3d86e2ffa788.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24166/2020/9d81d63a-8d4d-4663-8c45-3d86e2ffa788-1586223270.png",
+    "url_thumb": "https://www.astrobin.com/f04ee9/0/rawthumb/thumb/",
+    "user": "mikko.viljamaa@gmail.com",
+    "views": 310,
+    "w": 4184
+}

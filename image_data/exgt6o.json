@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-2.510",
+    "description": "This image is a composite of two synthetic RGB combinations of H-alpha, Oiii, and Blue filters.\r\n  \r\nCombination HOO:  Red = H-alpha, Green = (80% Oiii, 20% H-alpha), Blue = Oiii\r\nCombination HOB:  Red = H-alpha, Green = (80% Oiii, 20% H-alpha), Blue = Blue\r\n\r\nCombination \"HOO\" was used for the nebula colors and blue stars; combination \"HOB\" was used for star colors on orange, yellow, and off-white stars.\r\n\r\nThe luminance layer is mostly H-alpha, except the Blue data were added using \"lighten mode\" to enhance the reflection nebulae.  The problematic halos around bright blue stars (e.g. Alnitak) were reduced by using entirely H-alpha close to the stars.\r\n\r\nThis image required a lot of processing work to remove halos and ghosts from bright stars.  While the damage is  minimal in the final  image, I don't want anyone to think that the filters and optics used produced magical data without any halo around Alnitak.  :)  \r\n\r\nAlso, it is worth noting that the \"HOO\" data were further manipulated in GIMP by changing the composition of the green channel using the Channel Mixer feature.  While the resulting nebula has pleasing (false) colors, all of the stars turned blue.   Importing the pseudo-RGB star colors from the HOB combination was very tedious, and it required manually creating a star mask, which took up several hours.  I will  think twice before attempting another project with this filter combination.",
+    "h": 5284,
+    "hash": "exgt6o",
+    "id": 565068,
+    "imaging_cameras": [
+        "QSI 660 WS"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Espirit 100ED Super Apo"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812791/"
+    ],
+    "orientation": "106.105",
+    "pixscale": "1.312",
+    "published": "2021-02-11T00:37:18.919514",
+    "ra": "85.024",
+    "radius": "1.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/565068/",
+    "revisions": [],
+    "subjects": [
+        "Flame Nebula",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "Orion B",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "Horsehead Nebula (IC 434) - Narrowband + Blue",
+    "updated": "2021-06-10T08:41:34.726397",
+    "uploaded": "2021-02-11T00:18:34.159874",
+    "url_duckduckgo": "https://www.astrobin.com/exgt6o/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/exgt6o/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/exgt6o/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/exgt6o/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/exgt6o/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/exgt6o/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/exgt6o/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4253/2021/f99e6422-d443-4cf5-a788-de6908d44f9c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4253/2021/f99e6422-d443-4cf5-a788-de6908d44f9c-1613008806.jpg",
+    "url_thumb": "https://www.astrobin.com/exgt6o/0/rawthumb/thumb/",
+    "user": "rhedden",
+    "views": 251,
+    "w": 4363
+}

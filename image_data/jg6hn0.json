@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 33,
+    "data_source": "OWN_REMOTE",
+    "dec": "11.703",
+    "description": "I love barred spirals and M95 is a beautiful example.  Located at a distance of about 33 mly in the \"Leo Group\" in the constellation Leo, it was originally discovered in 1781 by Pierre Méchain, a colleague of Charles Messier.  With an angular size of only about 7 arc-minutes and an apparent magnitude of 11.4, it's not a particularly easy galaxy to image without sufficient optical resolution and image scale.  Even with an EFL of about 3900 mm, it's still a bit of a challenge for the C14 Edge.  As you can see, the spiral arms just outside of the central bar are very tightly wound to form a core ring before opening up toward the outer regions.  The morphological classification is SB(r)b where (r) denotes the central ring structure.  The diameter of the core ring is about 2,000 ly.  If you look very carefully, you can see that this image reveals three bright regions around a tight ring in the nucleus.\r\n\r\nThis image started out two new-moon cycles ago just as M95 was rising in the east at sunset.  As usual, the weather gods seemed to know when the moon was new and I was plagued by persistent clouds, rain, frost, and wind--along with some pretty poor seeing.  I kept at it through this last new moon cycle and up until last night, I only had about 14 hours of usable data that I was able to process into a \"half\" usable image.  Unfortunately, I wasn't very happy with the \"other half\" and since the moon is rising again, I was running out of time during the current lunar cycle.  I finally got a break last night with clear skies and good seeing before clouds moved in to shut me down an hour before I reach my horizon.  The yield turned out to be good and I was able to fill in the last remaining channels to finish this image.  The best usable subs turned out to reach about 1.7\" FWHM.\r\n\r\nI took four runs at processing before I was reasonably happy with the result.  I initially tried drizzling the data but I couldn't see any improvement in detail.  Drizzling also precludes using the DemureDenoise algorithm, which I really like, so I processed the data in the native camera resolution.  I'm always a bit disappointed with the AB display after I upload an image when I compare it to what I see on my local PC.  The colors appear very slightly washed out but the big problem is the loss of perceived sharpness.  The last version here was a crude attempt to try to get a little  better match.  \r\n\r\nProcessing galaxy images always presents the question of  how to best handle color and contrast.  I love to reveal detail and structure so I tend to favor a \"harder\" (less wispy) result that might be on the edge of having too much contrast.  I played with that a bit as I processed this image but again settled on a result that favors emphasizing structure.  One look at my image library shows my inclination to go for less subdued colors.  Again, I see other images with less color that look wonderful, but as I process my images I can't help remembering the view of Milky Way stars through my big binoculars.  They are incredibly colorful!  I suspect that if objects were bright enough, we'd actually see a pretty colorful universe.  Anyway, after looking at this image on a couple of other devices, I decided to tone it down just a little for the final version.  You can see the more vibrant version in 'C'.  I don't have a calibrated monitor so let me know what you think.\r\n\r\nAs usual, C&C is always welcome.  I've stared at this image for so long now that it's burned into my retina and I can't tell any more if it's any good.  That probably means that I've hit the wall and it's time to set it free.  It's certainly been a good way to achieve social distancing for the last couple of days.  It sure is a good time to be engaged in such a solitary hobby...\r\n\r\nStay well!\r\nJohn",
+    "h": 3400,
+    "hash": "jg6hn0",
+    "id": 470515,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 203,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "89.657",
+    "pixscale": "0.476",
+    "published": "2020-03-30T17:42:24.549660",
+    "ra": "160.987",
+    "radius": "0.318",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/470515/",
+    "revisions": [
+        "/api/v1/imagerevision/222557/",
+        "/api/v1/imagerevision/222579/",
+        "/api/v1/imagerevision/222594/"
+    ],
+    "subjects": [
+        "M 95",
+        "M95",
+        "NGC 3351"
+    ],
+    "title": "M95 (NGC 3351) A Barred Spiral In Leo",
+    "updated": "2021-04-27T17:28:07.769214",
+    "uploaded": "2020-03-29T23:22:44.544439",
+    "url_duckduckgo": "https://www.astrobin.com/jg6hn0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jg6hn0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jg6hn0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jg6hn0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jg6hn0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jg6hn0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jg6hn0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/3bd77211-4208-4fb4-802d-43a90f04cdfa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/3bd77211-4208-4fb4-802d-43a90f04cdfa-1585525027.jpg",
+    "url_thumb": "https://www.astrobin.com/jg6hn0/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 914,
+    "w": 3400
+}

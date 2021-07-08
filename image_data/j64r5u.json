@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 32,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "-6.397",
+    "description": "NGC 2170   Angel Nebula\r\n\r\nObject : NGC 2170   Angel Nebula\r\nDate : Jan.2018- Mar.2018  \r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon Ha,LRGB,  \r\nExposure : Ha:1200sx3,L:300s x122,R:300s x54,G:300s x56,B:300s x50,(24.5hr)\r\nGuiding  :OAG/ asi174 ,\r\nProcessing:  PI、PS-CC",
+    "h": 2705,
+    "hash": "j64r5u",
+    "id": 536063,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 307,
+    "link": "https://astro-noodle.blogspot.com/2020/10/ngc-2170.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "180.769",
+    "pixscale": "0.669",
+    "published": "2020-10-29T08:51:38.706251",
+    "ra": "92.046",
+    "radius": "0.321",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/536063/",
+    "revisions": [
+        "/api/v1/imagerevision/257351/"
+    ],
+    "subjects": [
+        "NGC 2170",
+        "NGC2170",
+        "VdB68",
+        "VdB69"
+    ],
+    "title": "ngc 2170 Angel Nebula",
+    "updated": "2021-07-05T02:50:16.660483",
+    "uploaded": "2020-10-29T08:51:39.146797",
+    "url_duckduckgo": "https://www.astrobin.com/j64r5u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/j64r5u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/j64r5u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/j64r5u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/j64r5u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/j64r5u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/j64r5u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/ad1efe10-e299-4561-b8fb-f19115e68269.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/ad1efe10-e299-4561-b8fb-f19115e68269-1603962385.png",
+    "url_thumb": "https://www.astrobin.com/j64r5u/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 1567,
+    "w": 2150
+}

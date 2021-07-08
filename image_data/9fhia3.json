@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "9.847",
+    "description": "NGC 2264\r\nSternbild Einhorn\r\nAusgedehntes H-II-Gebiet, Offener Sternhaufen (Weihnachtssternhaufen), Dunkelnebel (Konusnebel),\r\nChristmas Tree Cluster,  Cone Nebula\r\n\r\n71 x 600s H-alpha-OIII = 11,8 h\r\n70 x 180s ´RGB = 3,5 h\r\nBLZ ges. = 15,3 h\r\n\r\nZWO ASI2600 MCpro, 16 bit Cmos Color\r\nGain 0, offset 20, temp -20°C\r\nGuiding Mgen 2, dithering\r\nKeine (no) Flats, Bias, Darks\r\nSoftware NINA, APP, PS \r\n\r\nDas erste Projekt mit dem Astro Duo Schmalbandfilter (Hα, OIII).\r\nThe first Project with the Astro Duo-Narrowband-Filter (Hα, OIII).\r\n5 Nächte (Nights) Mond (Moon) 50-80 %",
+    "h": 1829,
+    "hash": "9fhia3",
+    "id": 573563,
+    "imaging_cameras": [
+        "ZWO ASI2600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814659/"
+    ],
+    "orientation": "89.091",
+    "pixscale": "1.549",
+    "published": "2021-03-12T19:03:43.979628",
+    "ra": "100.227",
+    "radius": "0.756",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573563/",
+    "revisions": [
+        "/api/v1/imagerevision/277823/"
+    ],
+    "subjects": [
+        "Christmas Tree Cluster",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264",
+    "updated": "2021-05-03T21:38:53.370496",
+    "uploaded": "2021-03-12T18:40:23.621464",
+    "url_duckduckgo": "https://www.astrobin.com/9fhia3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9fhia3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9fhia3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9fhia3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9fhia3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9fhia3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9fhia3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/82470/2021/2a1bf7e1-060b-4230-9797-1352a726c53c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/82470/2021/2a1bf7e1-060b-4230-9797-1352a726c53c-1615575518.png",
+    "url_thumb": "https://www.astrobin.com/9fhia3/0/rawthumb/thumb/",
+    "user": "Ralf_Dienst",
+    "views": 257,
+    "w": 3000
+}

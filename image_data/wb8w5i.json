@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 29,
+    "data_source": "TRAVELLER",
+    "dec": "27.983",
+    "description": "Looking for a warmer place to rent a home for a while, I naturally started with the Bortle maps!  We ended up choosing a community outside of Sedona Arizona.  This was a Bortle 3 location - which is pretty dark - but then I ended up shooting narrowband!  I've had the Spaghetti Nebula on my list for a long time and, being a Winter object, it's not accessible from Portland.  So NB it is.\r\n\r\nAs large as the FOV is on the QHY600M/FSQ106 combo, 240 is still far too big.  So this required a two panel mosaic to shoehorn in.  \r\n\r\nWe ended up getting some cloudy nights so this doesn't include as much data as I would like, but still a respectable 23.8 split across the two panels.  Twice as much would be better.\r\n\r\nThe mix is straight HOO.  Because these SNRs tend to have very different Ha and OIII components, I was not able to rely on the Ha for Luminance.  The resulting Cyans have been shifted slightly to the blue.  \r\n\r\nNoise reduction was with Topaz Denoise 5.1.  I added a touch of Topaz AI at the end, masking off all but the shadows.",
+    "h": 9342,
+    "hash": "wb8w5i",
+    "id": 554022,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 266,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.752",
+    "pixscale": "1.462",
+    "published": "2020-12-30T03:48:50.381162",
+    "ra": "84.939",
+    "radius": "2.897",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/554022/",
+    "revisions": [
+        "/api/v1/imagerevision/266868/"
+    ],
+    "subjects": [
+        "12.16",
+        "203 Pompeja",
+        "PK178-02.1",
+        "Sh2-240"
+    ],
+    "title": "SH2-240 | The Spaghetti Nebula in Two Panels",
+    "updated": "2021-06-19T09:32:15.971778",
+    "uploaded": "2020-12-30T03:32:33.530227",
+    "url_duckduckgo": "https://www.astrobin.com/wb8w5i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wb8w5i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wb8w5i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wb8w5i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wb8w5i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wb8w5i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wb8w5i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/b2b9ffaf-aabc-4302-8587-9a06f77b6f83.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/b2b9ffaf-aabc-4302-8587-9a06f77b6f83-1609299996.jpg",
+    "url_thumb": "https://www.astrobin.com/wb8w5i/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 687,
+    "w": 10774
+}

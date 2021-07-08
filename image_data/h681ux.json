@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 18,
+    "data_source": "TRAVELLER",
+    "dec": "54.360",
+    "description": "Object description (wikipedia.org) :\r\nThe Pinwheel Galaxy (also known as Messier 101, M101 or NGC 5457) is a face-on spiral galaxy distanced 21 million light-years (six megaparsecs) away from Earth in the constellation Ursa Major. Discovered by Pierre Méchain on March 27, 1781, it was communicated to Charles Messier who verified its position for inclusion in the Messier Catalogue as one of its final entries.\r\n\r\nOn February 28, 2006, NASA and the European Space Agency released a very detailed image of the Pinwheel Galaxy, which was the largest and most detailed image of a galaxy by Hubble Space Telescope at the time. The image was composed of 51 individual exposures, plus some extra ground-based photos.",
+    "h": 4996,
+    "hash": "h681ux",
+    "id": 483858,
+    "imaging_cameras": [
+        "ZWO ASI 183 MM PRO"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/5 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 183,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805602/"
+    ],
+    "orientation": "43.181",
+    "pixscale": "0.493",
+    "published": "2020-04-30T18:55:54.259517",
+    "ra": "210.787",
+    "radius": "0.421",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483858/",
+    "revisions": [
+        "/api/v1/imagerevision/231511/",
+        "/api/v1/imagerevision/231770/"
+    ],
+    "subjects": [
+        "M 101",
+        "M101",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471",
+        "NGC5447",
+        "NGC5449",
+        "NGC5450",
+        "NGC5451",
+        "NGC5453",
+        "NGC5455",
+        "NGC5461",
+        "NGC5462",
+        "NGC5471",
+        "Pinwheel galaxy"
+    ],
+    "title": "Pinwheel Galaxy - M101",
+    "updated": "2021-06-04T19:01:02.094148",
+    "uploaded": "2020-04-30T19:44:46.634918",
+    "url_duckduckgo": "https://www.astrobin.com/h681ux/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h681ux/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h681ux/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h681ux/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h681ux/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h681ux/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h681ux/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6530/2020/18db42e7-e272-4151-a5b2-1b45253100fc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6530/2020/18db42e7-e272-4151-a5b2-1b45253100fc-1588276436.jpg",
+    "url_thumb": "https://www.astrobin.com/h681ux/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 622,
+    "w": 3569
+}

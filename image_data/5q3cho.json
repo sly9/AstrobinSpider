@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.380",
+    "description": "@ 150%",
+    "h": 3000,
+    "hash": "5q3cho",
+    "id": 577337,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "178.954",
+    "pixscale": "0.824",
+    "published": "2021-03-27T00:31:19.815930",
+    "ra": "210.905",
+    "radius": "0.485",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/577337/",
+    "revisions": [
+        "/api/v1/imagerevision/280180/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5477"
+    ],
+    "title": "M101",
+    "updated": "2021-05-11T12:29:17.454736",
+    "uploaded": "2021-03-27T00:28:57.646309",
+    "url_duckduckgo": "https://www.astrobin.com/5q3cho/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5q3cho/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5q3cho/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5q3cho/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5q3cho/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5q3cho/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5q3cho/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2021/b7e14cf1-24d7-4ccd-8354-ec4ff26b2eb8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2021/b7e14cf1-24d7-4ccd-8354-ec4ff26b2eb8-1616805181.jpg",
+    "url_thumb": "https://www.astrobin.com/5q3cho/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 470,
+    "w": 3000
+}

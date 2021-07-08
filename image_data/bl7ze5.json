@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "27.382",
+    "description": "",
+    "h": 3600,
+    "hash": "bl7ze5",
+    "id": 533066,
+    "imaging_cameras": [
+        "Movarian G3 16200"
+    ],
+    "imaging_telescopes": [
+        "TEC180"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812786/"
+    ],
+    "orientation": "0.149",
+    "pixscale": "0.962",
+    "published": "2020-10-17T15:39:40.138344",
+    "ra": "27.078",
+    "radius": "0.770",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/533066/",
+    "revisions": [],
+    "subjects": [
+        "IC 1727",
+        "IC 1731",
+        "NGC 672",
+        "NGC 684"
+    ],
+    "title": "NGC684, NGC672, IC1727",
+    "updated": "2021-03-16T19:12:00.820728",
+    "uploaded": "2020-10-17T16:35:59.737113",
+    "url_duckduckgo": "https://www.astrobin.com/bl7ze5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bl7ze5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bl7ze5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bl7ze5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bl7ze5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bl7ze5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bl7ze5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26247/2020/dc068e78-f27c-4226-8579-947ce8f18b2e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26247/2020/dc068e78-f27c-4226-8579-947ce8f18b2e-1602952860.jpg",
+    "url_thumb": "https://www.astrobin.com/bl7ze5/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 90,
+    "w": 4500
+}

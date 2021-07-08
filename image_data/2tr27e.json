@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "66.768",
+    "description": "A Mosaic of 8 panels, with photons collected across 3 months in 2020.",
+    "h": 9600,
+    "hash": "2tr27e",
+    "id": 553903,
+    "imaging_cameras": [
+        "Atik one 9.0 CCD with OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon-130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812786/"
+    ],
+    "orientation": "1.882",
+    "pixscale": "1.779",
+    "published": "2020-12-29T15:57:22.714565",
+    "ra": "0.216",
+    "radius": "2.820",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/553903/",
+    "revisions": [
+        "/api/v1/imagerevision/266725/"
+    ],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822"
+    ],
+    "title": "NGC7822 & Sh2-170",
+    "updated": "2021-06-30T17:49:40.661089",
+    "uploaded": "2020-12-29T15:45:42.595718",
+    "url_duckduckgo": "https://www.astrobin.com/2tr27e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2tr27e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2tr27e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2tr27e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2tr27e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2tr27e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2tr27e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26247/2020/366bf843-69b7-46da-acd4-d738b0fac0cc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26247/2020/366bf843-69b7-46da-acd4-d738b0fac0cc-1609257455.jpg",
+    "url_thumb": "https://www.astrobin.com/2tr27e/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 217,
+    "w": 6176
+}

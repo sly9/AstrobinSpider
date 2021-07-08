@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "55.015",
+    "description": "M97 or the Owl Nebula, one of the only four PNs in the Messier catalog and the most difficult one to image. I started this in 2007 (unguided) and I found this PN surprisingly difficult to image properly despite its brightness. Somehow the noise level seemed to plateau no matter the increase in exposure time. Eventually I made peace with this and issued my first version. Never quite really happy about it in 2010 I decided to up my game and went for higher image scale with longer guided exposures. I also used the UHC filter in the hope of improving the SNR. It didn't turn out any better. Eventually, as of 2020, I re-registered everything in PI at the lower image scale and created the (this) final image. In hindsight I should have gone for H-alpha to complement the UHC exposures, something I came to sorely regret not having done. Too late now, the gate is open and the cows are out.",
+    "h": 761,
+    "hash": "iwuhal",
+    "id": 559195,
+    "imaging_cameras": [
+        "starlight  xpress SXV-H9"
+    ],
+    "imaging_telescopes": [
+        "Intes Micro MK 809"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814966/"
+    ],
+    "orientation": "90.362",
+    "pixscale": "0.976",
+    "published": "2021-01-18T12:51:44.692316",
+    "ra": "168.688",
+    "radius": "0.177",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559195/",
+    "revisions": [],
+    "subjects": [
+        "M 97",
+        "NGC 3587",
+        "Owl Nebula"
+    ],
+    "title": "M97 L-UHC-RGB - The Owl Nebula",
+    "updated": "2021-06-14T15:56:22.077178",
+    "uploaded": "2021-01-18T12:20:04.162372",
+    "url_duckduckgo": "https://www.astrobin.com/iwuhal/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iwuhal/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iwuhal/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iwuhal/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iwuhal/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iwuhal/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iwuhal/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/78130/2021/872542f7-2553-4cce-8419-b8ceda95e2d8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/78130/2021/872542f7-2553-4cce-8419-b8ceda95e2d8-1610974452.jpg",
+    "url_thumb": "https://www.astrobin.com/iwuhal/0/rawthumb/thumb/",
+    "user": "andreatax",
+    "views": 93,
+    "w": 1063
+}

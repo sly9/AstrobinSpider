@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.297",
+    "description": "👨‍💻Processing Pixinsight sequence:\r\nBatch PreProcessing; Mure, RGB; DBE; chrominance; PCC; MaskedStretch; Deconvolution; Luminance & Ha luminance merge using pixelmath; LRGB, Local Histogram, Curves, Starmask.",
+    "h": 4020,
+    "hash": "x9msuu",
+    "id": 485525,
+    "imaging_cameras": [
+        "SBIG STX16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809838/"
+    ],
+    "orientation": "209.471",
+    "pixscale": "0.551",
+    "published": "2020-05-05T11:58:14.906260",
+    "ra": "184.710",
+    "radius": "0.394",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/485525/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "M106",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258",
+        "NGC4231",
+        "NGC4232",
+        "NGC4248"
+    ],
+    "title": "Poor M106 that will be cleared out by its massive blackhole",
+    "updated": "2021-04-21T22:35:54.303939",
+    "uploaded": "2020-05-05T12:58:15.059431",
+    "url_duckduckgo": "https://www.astrobin.com/x9msuu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x9msuu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x9msuu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x9msuu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x9msuu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x9msuu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x9msuu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29427/2020/e0c74ab1-0532-499d-b20a-506967cca4f2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29427/2020/e0c74ab1-0532-499d-b20a-506967cca4f2-1588684739.jpg",
+    "url_thumb": "https://www.astrobin.com/x9msuu/0/rawthumb/thumb/",
+    "user": "Ben_Allen",
+    "views": 58,
+    "w": 3216
+}

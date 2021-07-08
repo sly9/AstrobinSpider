@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 18,
+    "data_source": "TRAVELLER",
+    "dec": "-11.624",
+    "description": "The brilliant Sombrero Galaxy (M 104/NGC 4594) imaged over several nights in February and March 2020 with my mobile setup: the 250mm f4 Lacerta PhotoNewton and ZWO ASI183MM Pro camera on the Orion HDX-110 EQ-G mount. It was a tough target to both image and process, considering its low position in the sky and mediocre seeing conditions plaguing this imaging season. To reduce the effect of poor seeing and get better details in the disk and core region, I resorted to using a combination of medium and short duration exposures (20, 90 and 180 seconds) with different gain settings:\r\n\r\nL: 21x180s (Gain 0, bin 1x1), 43x90s (Gain 110, bin 1x1), 82x20s (Gain 200, bin 1x1)\r\nR: 34x180s (Gain 110, bin 1x1)\r\nG: 34x180s (Gain 110, bin 1x1)\r\nB: 32x180s (Gain 110, bin 1x1)\r\n\r\nTotal exposure:  7.6 hours",
+    "h": 2146,
+    "hash": "neu7ad",
+    "id": 475332,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 256,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "359.515",
+    "pixscale": "0.495",
+    "published": "2020-04-09T19:29:24.980743",
+    "ra": "189.995",
+    "radius": "0.263",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/475332/",
+    "revisions": [
+        "/api/v1/imagerevision/225137/",
+        "/api/v1/imagerevision/266017/",
+        "/api/v1/imagerevision/266018/"
+    ],
+    "subjects": [
+        "M 104",
+        "M104",
+        "NGC 4594",
+        "Sombrero Galaxy",
+        "Sombrero galaxy"
+    ],
+    "title": "M 104, The Sombrero Galaxy",
+    "updated": "2021-06-30T02:42:40.403828",
+    "uploaded": "2020-04-09T19:52:08.843354",
+    "url_duckduckgo": "https://www.astrobin.com/neu7ad/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/neu7ad/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/neu7ad/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/neu7ad/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/neu7ad/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/neu7ad/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/neu7ad/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/fef8db0c-9e5c-41f4-9d5d-885289c8cfed.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/fef8db0c-9e5c-41f4-9d5d-885289c8cfed-1586464192.jpg",
+    "url_thumb": "https://www.astrobin.com/neu7ad/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 757,
+    "w": 3164
+}

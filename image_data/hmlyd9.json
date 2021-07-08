@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "My goal with this project was to see how close I could get to the 2015 Hubble shot celebrating 25 years in orbit...\r\n\r\n<a href=\"https://www.nasa.gov/image-feature/the-pillars-of-creation\">Hubble Pillars of Creation</a>\r\n\r\nFortunately my Ha, OIII and SII filters are very close to those used by Hubble...\r\n\r\nBlue: F502N (OIII)\r\nGreen: F657N (Hα + NII)\r\nRed: F673N (SII)\r\n\r\n... so similar color was in sight. (-:\r\n\r\nThe biggest challenge was to capture good Ha for detail. This uses 35 of my best 5-minute Ha exposures over several days. FWHM on Ha subs is between 1.7\" and 2.1\".\r\n\r\nAfter combining SII, OIII and Ha, uncolored Ha was added as a soft light layer to help with detail and contrast.\r\n\r\nMinor noise reduction was applied to SII and OIII. No noise reduction on Ha to help maximize detail.\r\n\r\nFinally, a very mild Unsharp Mask was applied over a cropped 2X Drizzle for additional detail.",
+    "h": 1217,
+    "hash": "hmlyd9",
+    "id": 498772,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-19T21:22:35.242856",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498772/",
+    "revisions": [
+        "/api/v1/imagerevision/238181/",
+        "/api/v1/imagerevision/239210/"
+    ],
+    "subjects": [],
+    "title": "The Pillars of Creation with 24\"",
+    "updated": "2021-06-19T09:43:05.890491",
+    "uploaded": "2020-06-19T22:22:35.851839",
+    "url_duckduckgo": "https://www.astrobin.com/hmlyd9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hmlyd9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hmlyd9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hmlyd9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hmlyd9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hmlyd9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hmlyd9/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/hmlyd9/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 940,
+    "w": 1313
+}

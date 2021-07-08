@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "28.369",
+    "description": "WeSb 2 is has only recently been included in the HASH database of PNs 202.189.117.101:8999/gpne/objectInfoPage.php?id=713\r\nThis is the result of the first ever narrowband image of this PN produced by Peter Goodhew in December 2020.  His excellent image is here on Astrobin:  https://www.astrobin.com/5m0zfi/B/\r\nAlso known as PK183+05.1.\r\n\r\nMy Abell Collection is here:\r\n<a href=\"https://www.astrobin.com/users/jmacon/collections/2482/\" target=\"_new\">Abell Planetary Nebulae</a>\r\nCurrently 60+, and soon to be complete.\r\n\r\nWeSb 2 was discovered by Ronald Weinberger and Franco Sabbadin in 1981.  Details are included in their 1981 paper \r\nhttp://cdsads.u-strasbg.fr/cgi-bin/nph-iarticle_query?1981A%26A...100...66W&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf\r\nand includes details of 5 other possible PN discoveries they made.\r\nThe info about WeSb2 included in this paper are:\r\n\r\n\"No 2: half ring with a mean thickness of 15\" and m = 23.4 plus a rather homogeneous, hardly visible disk with m = 24.8.  The overall diameter is 135\"x135\".  Nothing visible on blue senstive print.\"\r\n\r\nThey point out that it is only a half disk, and hardly visible.  Peter's and my images clearly show the disk with one side much weaker than the other side, essentially a half disk if not adequately imaged.  The Ha is exceptionally weak, perhaps the dimmest Ha target I have imaged.  And the Oiii is vastly dimmer than the Ha.  No image whatsoever of either shows up on individual subs.\r\n\r\nThis is only the second narrow band image of WeSb 2 ever published.",
+    "h": 6068,
+    "hash": "rk6aqr",
+    "id": 561381,
+    "imaging_cameras": [
+        "ZWO ASI6200MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "269.573",
+    "pixscale": "0.302",
+    "published": "2021-01-26T11:19:09.040278",
+    "ra": "94.048",
+    "radius": "0.458",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/561381/",
+    "revisions": [],
+    "subjects": [
+        "PGC143063",
+        "PGC143064",
+        "PGC1825385",
+        "PGC1827052",
+        "PGC1831259",
+        "PK183+05.1"
+    ],
+    "title": "WeSb 2 - Weinberger Sabbadin 2 - NEW Planetary Nebula",
+    "updated": "2021-04-06T18:45:21.888534",
+    "uploaded": "2021-01-26T02:25:36.364727",
+    "url_duckduckgo": "https://www.astrobin.com/rk6aqr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rk6aqr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rk6aqr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rk6aqr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rk6aqr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rk6aqr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rk6aqr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2021/c8df7b31-454a-4b2b-be7e-bd37740719a0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2021/c8df7b31-454a-4b2b-be7e-bd37740719a0-1611628363.jpg",
+    "url_thumb": "https://www.astrobin.com/rk6aqr/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 277,
+    "w": 9106
+}

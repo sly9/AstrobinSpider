@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-34.170",
+    "description": "",
+    "h": 6982,
+    "hash": "ot75ca",
+    "id": 513275,
+    "imaging_cameras": [
+        "QHYCCD QHY 16200A"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120 ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812769/"
+    ],
+    "orientation": "91.529",
+    "pixscale": "0.718",
+    "published": "2020-08-09T11:39:26.617975",
+    "ra": "261.427",
+    "radius": "1.039",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513275/",
+    "revisions": [
+        "/api/v1/imagerevision/244814/",
+        "/api/v1/imagerevision/244836/",
+        "/api/v1/imagerevision/245015/"
+    ],
+    "subjects": [
+        "NGC 6357",
+        "the War and Peace Nebula"
+    ],
+    "title": "NGC 6357 War & Peace Nebula",
+    "updated": "2021-06-15T14:33:31.474286",
+    "uploaded": "2020-08-09T12:39:27.119722",
+    "url_duckduckgo": "https://www.astrobin.com/ot75ca/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ot75ca/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ot75ca/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ot75ca/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ot75ca/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ot75ca/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ot75ca/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24186/2020/dae6dfe8-a7af-4ec4-96f2-4bd8e2b4478e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24186/2020/dae6dfe8-a7af-4ec4-96f2-4bd8e2b4478e-1596977264.jpg",
+    "url_thumb": "https://www.astrobin.com/ot75ca/0/rawthumb/thumb/",
+    "user": "Christian_Hilbert",
+    "views": 150,
+    "w": 7727
+}

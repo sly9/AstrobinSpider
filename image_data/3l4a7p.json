@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "36.202",
+    "description": "I've always thought Wolf-Rayet stars are so cool: ever since Hubble captured the iconic image of WR 124 (seriously look it up if you haven't seen it, it's unreal), I've had this fascination with them.  WR 134  is  one such star located around 6,000 light years away in the constellation of Cygnus: it's the bright one at the center of the frame.  While it is only five times the radius of the sun, but it burns incredibly hot, at over 63,000 K (that's 113,000 degrees Fahrenheit), and is **400,000** times as luminous as the Sun. \r\nThis image comprises over 300 five minute exposures from my backyard, or about 28 hours of data, focused on ionized hydrogen and oxygen.  What makes the nebula you see here is the incredibly strong solar wind and radiation Wolf-Rayet stars are known for colliding with the surrounding interstellar medium.  To give you an idea of the kind of power we are talking about here, this frame is over 50 light years across, and I was fortunate enough to be able to see it from my backyard. Still blows my mind when I think of it. \r\nI continued to work on new Pixinsight techniques in this image.  I used Muredenoise for the first time on the linear Oiii master, since it still had a little bit of noise despite the lengthy integration time.  I was very pleased with the results.  I also tried Adam Block's star de-emphasis technique, and I love it: I think it gives results superior to simply erosion alone.  I had intended to capture some RGB data for the star colors, but I think it turned out ok without it.  Plus, I'm eager to move on to the next target.  Imaging nights have been few and far between with all the rain we have been having, plus the smoke from the wildfires out west (which somehow made it all the way over here to Virginia!).  Clear skies everyone.  Stay safe.",
+    "h": 2964,
+    "hash": "3l4a7p",
+    "id": 524813,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK CT8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 216,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809103/"
+    ],
+    "orientation": "60.605",
+    "pixscale": "0.774",
+    "published": "2020-09-19T18:08:58.501157",
+    "ra": "302.572",
+    "radius": "0.510",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/524813/",
+    "revisions": [],
+    "subjects": [],
+    "title": "WR 134",
+    "updated": "2021-07-07T10:10:52.092731",
+    "uploaded": "2020-09-19T19:08:58.997173",
+    "url_duckduckgo": "https://www.astrobin.com/3l4a7p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3l4a7p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3l4a7p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3l4a7p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3l4a7p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3l4a7p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3l4a7p/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27809/2020/38b33f78-567b-46ac-b070-4fd6475bfede-1600543584.jpg",
+    "url_thumb": "https://www.astrobin.com/3l4a7p/0/rawthumb/thumb/",
+    "user": "Tuckie",
+    "views": 465,
+    "w": 3706
+}

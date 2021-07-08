@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "47.198",
+    "description": "This is an LRGB image with H-alpha data added to the red channel.\r\n\r\n600 second subs in the ratio  40:27:17:21:36 (L:R:G:B:Ha)\r\n\r\nCelestron Edge 14 with 0.72 reducer\r\nAtik 460ex mono + EFW2 filter wheel\r\n1.25\" Baader filters\r\n\r\n100% processed in PixInsight, using workflow and techniques from Harry's Astroshed, and the Ha + Red combination method of Vicent Peris.",
+    "h": 2172,
+    "hash": "os8mly",
+    "id": 486455,
+    "imaging_cameras": [
+        "ATIK 460ex mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 14HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "https://flic.kr/p/2iZ51R1",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808416/"
+    ],
+    "orientation": "201.347",
+    "pixscale": "0.333",
+    "published": "2020-05-09T10:37:30.522497",
+    "ra": "202.474",
+    "radius": "0.160",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486455/",
+    "revisions": [],
+    "subjects": [
+        "IC 4277",
+        "IC 4278",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "Messier 51",
+    "updated": "2021-03-17T02:20:13.262135",
+    "uploaded": "2020-05-09T10:56:11.561028",
+    "url_duckduckgo": "https://www.astrobin.com/os8mly/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/os8mly/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/os8mly/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/os8mly/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/os8mly/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/os8mly/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/os8mly/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21664/2020/bc65f87c-2e19-4941-bc3a-572c6dc37d04./tmp/tmpKGkJxT",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21664/2020/bc65f87c-2e19-4941-bc3a-572c6dc37d04./tmp/tmpKGkJxT-1589024439",
+    "url_thumb": "https://www.astrobin.com/os8mly/0/rawthumb/thumb/",
+    "user": "NigeB",
+    "views": 399,
+    "w": 2706
+}

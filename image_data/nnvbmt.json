@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "Continuing my imaging of Venus during the 2019-2020 evening apparition. These images were captured on the night of April 6, 2020 (April 7 in UTC). Venus was ~43% illuminated in this image.  In preparation for Mar's 2020 opposition, I decided to try my hand at imaging with a mono planetary camera in hope of improving my imaging.  I've spent the past few weeks familiarizing myself with the camera and working on capturing some near-UV and IR images.  This is my first attempt at combing them to generate a color image.  The red channel uses data from an IR pass filter and the Blue channel uses data from a combined W47 Violet and IRblocker filter to capture some near-UV.  I was hoping to pick up some cloud features with the W47+IRblocker combination.  There might be a hint of cloud structure in the images, but the contrast is not so great.  Planning on trying some other filter combinations that should let in more UV, as long as the weather cooperates before this Venus apparition is over...\r\n\r\nImaged with a C8 Evo, ZWO ADC, Baader IR 685nm pass and W47+IRblocker filters, and ZWO ASI290MM. Imaging train was configured to give me ~F/20. Image capture using Firecapture (see below for exposure settings). Stacking in AutoStakkert3 (best 20% of ~27000 frames captured over 180 seconds). Color balancing and Wavelet sharpening in Registax6. Derotated and combined three images in WinJUPOS for both the W47+IRblocker and IRpass filters.",
+    "h": 400,
+    "hash": "nnvbmt",
+    "id": 476435,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron Nextstar Evolution C8"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806888/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-12T15:58:17.578548",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476435/",
+    "revisions": [
+        "/api/v1/imagerevision/225708/"
+    ],
+    "subjects": [],
+    "title": "Venus on 2020-04-06 (Near-UV and IR)",
+    "updated": "2021-03-17T03:16:02.456799",
+    "uploaded": "2020-04-12T16:58:17.812830",
+    "url_duckduckgo": "https://www.astrobin.com/nnvbmt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nnvbmt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nnvbmt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nnvbmt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nnvbmt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nnvbmt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nnvbmt/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/nnvbmt/0/rawthumb/thumb/",
+    "user": "JDJ",
+    "views": 87,
+    "w": 400
+}

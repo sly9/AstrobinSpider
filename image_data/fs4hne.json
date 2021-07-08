@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "53.068",
+    "description": "Imaging at F9 is tough!  I decided to attempt a project that had a decent integration time to test out the 6\" RC at it's native 1370mm focal length.  This image was taken oven three nights although analysis of the subs, shows the third night was noticeably poor compared to the first.  I'm not sure if this was sky related or dew on one of the mirrors perhaps.\r\n\r\nAt 1370mm FL and a 3.76um pixel camera, the imaging scale is around 0.57\"PP.  The image was rescaled to 50% before I started processing.\r\n\r\nIn rare clear UK skies (with minimal or no moon) 11 hours is a sizable chunk of your likely yearly hours and I can't help wondering if I'd have been as happy with a small, wider field view from my Redcat (or perhaps a slightly larger 500mm scope).  I'm perhaps being overly harsh on a relatively challenging target and scope combo.  Interested in any thoughts anyone has!  Thanks for looking.\r\n\r\nCaptured with Voyager, stacked & calibrated in APP then processed in PixInsight.",
+    "h": 1475,
+    "hash": "fs4hne",
+    "id": 579312,
+    "imaging_cameras": [
+        "ZWO ASI533MC Pro"
+    ],
+    "imaging_telescopes": [
+        "StellaLyra RC6"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "96.088",
+    "pixscale": "1.114",
+    "published": "2021-04-04T14:10:43.798893",
+    "ra": "173.147",
+    "radius": "0.323",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/579312/",
+    "revisions": [
+        "/api/v1/imagerevision/281419/"
+    ],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "NGC 3718",
+    "updated": "2021-07-04T21:24:30.512296",
+    "uploaded": "2021-04-04T13:48:38.640217",
+    "url_duckduckgo": "https://www.astrobin.com/fs4hne/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fs4hne/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fs4hne/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fs4hne/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fs4hne/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fs4hne/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fs4hne/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/51658/2021/3ea27791-a27f-410e-bf3c-e3fddf2b415d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/51658/2021/3ea27791-a27f-410e-bf3c-e3fddf2b415d-1617545226.png",
+    "url_thumb": "https://www.astrobin.com/fs4hne/0/rawthumb/thumb/",
+    "user": "geeklee",
+    "views": 297,
+    "w": 1475
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "61.467",
+    "description": "I've been meaning to shoot the Heart Nebula for some time now, primarily as a gift to my wife and her parents, but also because it is such a vibrant nebula.  This is because in June 2017, my dear brother-in-law, <a href=\"https://www.dignitymemorial.com/obituaries/dayton-oh/jonathan-duffy-7445500\" target=\"_blank\">Craig, my wife's younger brother, unexpectedly died in his early 40s</a>.  He was a strong force in our lives, and we all loved him dearly.\r\n\r\nCraig was a gifted yoga instructor, and one of his passions was art, mainly mixed media, and often, of hearts.  These weren't your classic cherubic hearts often seen around Valentine's Day; they were stretched, bent, irregular, and sometimes twisted.\r\n\r\nSo whenever I see the Heart Nebula, I think of Craig.  Here is how I captured this target for him.\r\n\r\nAs I mentioned at the start, I have wanted to image this for some time now, but I don't own an imaging train with a wide enough FOV to fit this target comfortably.  So, I had to shoot a mosaic with my trusty 127mm refractor.  Also daunting is that my previous mosaics have all be 1x2s, so a 2x2 with good SNR is definitely a hefty time investment complete with frustration.  But it was time...\r\n\r\nI started this in late October, using <a href=\"https://www.astrobin.com/jhn2vm\" target=\"_blank\">my fully completed backyard observatory</a>.  With a permanent setup now, I was able to image even for just a few hours before Maine clouds rolled in.  I ended up with a total of around 65h collected, with about 7h blinked out and a minimal 4h rejected by PI's SFS.\r\n\r\nTo deal with the challenging gradients I get from neighborhood LP as I swing across my Bortle 4 Eastern sky to Bortle 6 Western sky, I used the latest 1.11 nightly builds of <a href=\"https://nighttime-imaging.eu/\" target=\"_blank\">NINA</a> and its new highly configurable sequencer.  I basically looped throughout the night until Nautical Dawn (or a time when I knew clouds were going to move in), and during that time-based loop, I looped over 3 frames per panel, each, over and over again.  I did this to ensure I had the same number of good dark-sky frames and lesser LP-washed frames in all panels, thus avoiding heavy gradient disparities between the panels.\r\n\r\nOnce all the data was collected, I was given a tip by a <a href=\"https://www.cloudynights.com/user/259665-imtl/\" target=\"_blank\">CN member named Eyal (handle: imtl)</a> to use the downloadable <a href=\"https://pixinsight.com/forum/index.php?threads/photometricmosiac-2-0.14838/page-2\" target=\"_blank\">PhotometricMosaic script, developed by John Murphy</a>, for PixInsight.  This is a fantastic script which I now recommend to anyone doing mosaics via PI.  It adjusts the background scale, by using photometry to compare the stars, and offset in the overlap region.  I believe Juan will be adding this script to the base PI download in the next release, 1.8.8-7.  Look for it if you do mosaics and don't already know about it.\r\n\r\nWell, now that it's done, I call out to all you fine folk for any constructive feedback before I send the image off for printing on metal (the gift) :)\r\n\r\nThanks for looking and stay safe wherever you are.\r\n\r\nCS, Ara",
+    "h": 3098,
+    "hash": "h891a1",
+    "id": 546685,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED127 FCD 100 Air-Spaced Triplet Apochromatic Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810290/"
+    ],
+    "orientation": "300.038",
+    "pixscale": "2.331",
+    "published": "2020-12-01T21:37:28.967613",
+    "ra": "37.970",
+    "radius": "1.670",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546685/",
+    "revisions": [
+        "/api/v1/imagerevision/262824/",
+        "/api/v1/imagerevision/263150/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 896"
+    ],
+    "title": "Heart Nebula (Sh2-190) - 2x2 Mosaic",
+    "updated": "2021-05-17T11:21:01.616622",
+    "uploaded": "2020-12-01T19:33:03.013655",
+    "url_duckduckgo": "https://www.astrobin.com/h891a1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h891a1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h891a1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h891a1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h891a1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h891a1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h891a1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28874/2020/06fff2da-9feb-4f49-869d-a7ee609d6c0a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28874/2020/06fff2da-9feb-4f49-869d-a7ee609d6c0a-1606858092.jpg",
+    "url_thumb": "https://www.astrobin.com/h891a1/0/rawthumb/thumb/",
+    "user": "jerahian",
+    "views": 292,
+    "w": 4124
+}

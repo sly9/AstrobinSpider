@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-36.141",
+    "description": "",
+    "h": 1800,
+    "hash": "2hv0l8",
+    "id": 513460,
+    "imaging_cameras": [
+        "ZWO ASI 178MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 105,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "349.297",
+    "pixscale": "0.827",
+    "published": "2020-08-09T20:13:51.630949",
+    "ra": "53.390",
+    "radius": "0.378",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513460/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "NGC 1365: Barred Spiral Galaxy",
+    "updated": "2021-03-16T22:59:53.746209",
+    "uploaded": "2020-08-09T21:13:52.775619",
+    "url_duckduckgo": "https://www.astrobin.com/2hv0l8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2hv0l8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2hv0l8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2hv0l8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2hv0l8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2hv0l8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2hv0l8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5179/2020/d154b749-9a02-4ef3-93bc-0d86663f3d9c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5179/2020/d154b749-9a02-4ef3-93bc-0d86663f3d9c-1597007968.jpg",
+    "url_thumb": "https://www.astrobin.com/2hv0l8/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 369,
+    "w": 2750
+}

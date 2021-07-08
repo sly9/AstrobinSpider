@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 56,
+    "comments": 59,
+    "data_source": "BACKYARD",
+    "dec": "66.641",
+    "description": "My second approach to look into the Cat's Eye (NGC6543). NGC 6543 is a planetary nebula in the constellation draco.  The extremely bright ans well structured inner core is surrounded by a 20' size halo with nice OIII and H-alpha emission.\r\n\r\nASI1600mmp and TS Photoline 130/910 mm\r\n\r\n\r\n57 x 300s gain 139Ha \r\n64 x 300s gain 139 OIII \r\n\r\n92 x 60s gain 76 lum\r\n100 x 1s gain 76 lum\r\n59 x 30s gain 76 red\r\n120 x 1s gain 76 red\r\n58 x 30s gain 76 green\r\n94 x 1s gain 76 green\r\n60 x 30 s gain 76 blue\r\n60 x 1 s gain 76 blue\r\n\r\nHa was shot on 2019-08-23\r\nOIII was shot on 2020-05-15\r\nLRGB was shot on 2020_05_20",
+    "h": 1737,
+    "hash": "iab3nk",
+    "id": 490046,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 389,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "180.090",
+    "pixscale": "0.865",
+    "published": "2020-05-22T07:53:18.012763",
+    "ra": "269.508",
+    "radius": "0.354",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490046/",
+    "revisions": [
+        "/api/v1/imagerevision/234052/",
+        "/api/v1/imagerevision/234449/"
+    ],
+    "subjects": [
+        "NGC 6552"
+    ],
+    "title": "Cat's Eye Nebula (NGC 6543)",
+    "updated": "2021-05-04T20:09:29.499091",
+    "uploaded": "2020-05-21T20:06:38.674747",
+    "url_duckduckgo": "https://www.astrobin.com/iab3nk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iab3nk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iab3nk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iab3nk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iab3nk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iab3nk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iab3nk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/46c26cf6-8e38-41c7-b14e-0178ce847445.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/46c26cf6-8e38-41c7-b14e-0178ce847445-1590091779.jpg",
+    "url_thumb": "https://www.astrobin.com/iab3nk/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 2736,
+    "w": 2384
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 44,
+    "data_source": "BACKYARD",
+    "dec": "47.324",
+    "description": "HaLRGB compilation of M 106\r\n\r\nTS Photoline 103/910 and ZWO ASI2600mm pro.\r\n\r\n111 x 300s Ha\r\n68 x 90 s lum\r\n59 x 30 s red\r\n59 x 60 s red\r\n60 x 30 s green\r\n59 x 60 s green\r\n58 x 30 s blue\r\n58 x 60 s blue",
+    "h": 2638,
+    "hash": "w3ti6h",
+    "id": 585356,
+    "imaging_cameras": [
+        "ZWO ASI2600mm-pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 205,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "348.223",
+    "pixscale": "0.511",
+    "published": "2021-04-26T19:33:41.304598",
+    "ra": "184.614",
+    "radius": "0.392",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/585356/",
+    "revisions": [
+        "/api/v1/imagerevision/285233/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "The Whirling Heart of M 106",
+    "updated": "2021-07-01T16:51:23.137094",
+    "uploaded": "2021-04-26T19:26:25.369447",
+    "url_duckduckgo": "https://www.astrobin.com/w3ti6h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w3ti6h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w3ti6h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w3ti6h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w3ti6h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w3ti6h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w3ti6h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2021/8a2a3962-fb3d-474f-af84-d83dcff07fc7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2021/8a2a3962-fb3d-474f-af84-d83dcff07fc7-1619465540.jpg",
+    "url_thumb": "https://www.astrobin.com/w3ti6h/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 567,
+    "w": 4861
+}

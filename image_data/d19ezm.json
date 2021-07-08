@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "41.145",
+    "description": "Thanks to Ole Alexander Ødegård and Askvang Observatory",
+    "h": 2754,
+    "hash": "d19ezm",
+    "id": 573620,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA150B"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812794/"
+    ],
+    "orientation": "272.901",
+    "pixscale": "1.560",
+    "published": "2021-03-12T22:41:03.276110",
+    "ra": "192.701",
+    "radius": "1.081",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573620/",
+    "revisions": [
+        "/api/v1/imagerevision/277685/"
+    ],
+    "subjects": [
+        "IC3795",
+        "IC3808",
+        "M 94",
+        "M94",
+        "NGC 4736",
+        "NGC4704",
+        "Other"
+    ],
+    "title": "M94 (Recommends full resolution)",
+    "updated": "2021-05-15T18:18:32.818445",
+    "uploaded": "2021-03-12T22:04:33.015594",
+    "url_duckduckgo": "https://www.astrobin.com/d19ezm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/d19ezm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/d19ezm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/d19ezm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/d19ezm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/d19ezm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/d19ezm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2021/9af1e98c-1f72-4523-b0b7-626fd823ea03.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2021/9af1e98c-1f72-4523-b0b7-626fd823ea03-1615588455.png",
+    "url_thumb": "https://www.astrobin.com/d19ezm/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 252,
+    "w": 4158
+}

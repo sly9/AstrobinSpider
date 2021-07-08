@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "A 76 minute elapsed time animation of an interesting prominence on the NE solar limb Wednesday, Nov 18, 2020.  Captured between 11:49 CST/1749 UT and 13:06 CST/1906 UT.  About 10 minutes into the capture, a small surge prominence interacts violently with a descending leg of an arch prominence.  Plasma seems to shoot in two directions (due to our line of sight) while material continues up through the arch leg splitting it into two legs, each of which subsequently reconnect to the Sun's surface.\r\n\r\nSeeing was generally good but there were a few periods of poor seeing, perhaps from high thin clouds that I was not able to see.  The edge of the Sun would ripple significantly as I have seen other times before clouds.  I have removed a few of the blurred images to make the animation smoother.  \r\n\r\nI captured 15 second videos with a 15 second interval between captures using SharpCap Pro.   The video captures were stacked in AutoStakkert 3, sharpened and aligned in ImPPG and the black occulting disk was added in Photoshop CC 2019.  PIPP was used to make the final animation.\r\n\r\nThe Final version is at 20 fps.  Version B is a slower version at 10 fps.",
+    "h": 361,
+    "hash": "mhgloy",
+    "id": 542837,
+    "imaging_cameras": [
+        "ZWO ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "Lunt LS100THa/B3400"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809545/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-20T00:32:00.322721",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542837/",
+    "revisions": [
+        "/api/v1/imagerevision/260782/"
+    ],
+    "subjects": [],
+    "title": "Explosive Prominence Nov 18, 2020",
+    "updated": "2021-01-04T22:19:34.622848",
+    "uploaded": "2020-11-19T23:31:05.696279",
+    "url_duckduckgo": "https://www.astrobin.com/mhgloy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mhgloy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mhgloy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mhgloy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mhgloy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mhgloy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mhgloy/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/mhgloy/0/rawthumb/thumb/",
+    "user": "walkman",
+    "views": 239,
+    "w": 487
+}

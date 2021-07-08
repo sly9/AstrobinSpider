@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 22,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-25.868",
+    "description": "The Robin’s Egg Nebula\r\nSpanning 3 light years and located 1500 light years away in the Constellation of Fornax. NGC 1360 is a Planetary nebula identified as such due to its strong radiation in the Oxygen III spectrum. There are small areas of Hydrogen alpha and a pair of reddish colored jets which appear to have been ejected when the central star collapsed. \r\nImaged in HOO at Obstech, Chile\r\nImage Processing: Mike Selby\r\nSystem Control: Voyager by Leo Orazi",
+    "h": 3005,
+    "hash": "cstta2",
+    "id": 578003,
+    "imaging_cameras": [
+        "FLI PL 16803"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RiDK 700"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 191,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815547/"
+    ],
+    "orientation": "1.360",
+    "pixscale": "0.379",
+    "published": "2021-03-29T22:54:40.139322",
+    "ra": "53.315",
+    "radius": "0.237",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/578003/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1360",
+        "NGC1360",
+        "PK220-53.1"
+    ],
+    "title": "NGC 1360",
+    "updated": "2021-05-02T05:21:02.856905",
+    "uploaded": "2021-03-29T23:34:11.012735",
+    "url_duckduckgo": "https://www.astrobin.com/cstta2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cstta2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cstta2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cstta2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cstta2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cstta2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cstta2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/96468/2021/21d1ab8b-0ddd-4efd-a18f-ecea64a646d0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/96468/2021/21d1ab8b-0ddd-4efd-a18f-ecea64a646d0-1617062210.jpg",
+    "url_thumb": "https://www.astrobin.com/cstta2/0/rawthumb/thumb/",
+    "user": "SCObservatory",
+    "views": 905,
+    "w": 3336
+}

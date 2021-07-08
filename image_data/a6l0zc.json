@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "-48.129",
+    "description": "NGC6164",
+    "h": 2718,
+    "hash": "a6l0zc",
+    "id": 592363,
+    "imaging_cameras": [
+        "ASI1600MM Cooled"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher SkyWatcher Esprit 120ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2812278/"
+    ],
+    "orientation": "91.125",
+    "pixscale": "1.136",
+    "published": "2021-05-26T02:31:20.888012",
+    "ra": "248.486",
+    "radius": "0.711",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/592363/",
+    "revisions": [
+        "/api/v1/imagerevision/291798/",
+        "/api/v1/imagerevision/291801/"
+    ],
+    "subjects": [
+        "NGC 6164",
+        "NGC 6165"
+    ],
+    "title": "The Dragon's Egg",
+    "updated": "2021-06-27T17:55:04.032251",
+    "uploaded": "2021-05-26T02:18:49.446655",
+    "url_duckduckgo": "https://www.astrobin.com/a6l0zc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a6l0zc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a6l0zc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a6l0zc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a6l0zc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a6l0zc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a6l0zc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/49796/2021/6b01d3cf-e0e8-4884-be3d-8097516426ca.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/49796/2021/6b01d3cf-e0e8-4884-be3d-8097516426ca-1621996274.png",
+    "url_thumb": "https://www.astrobin.com/a6l0zc/0/rawthumb/thumb/",
+    "user": "DrKrud",
+    "views": 243,
+    "w": 3594
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 64,
+    "data_source": "BACKYARD",
+    "dec": "53.076",
+    "description": "This one was a hard nut to crack. I wanted to see the fainter spiral arms on the pic. Not so easy under my nightsky light pollution. But in the last weeks we had some very clear nights and I waited to capture the luminance images until this part reaches the most dark region in my sky in the northwest short before dawn. This I did over 4 nights. For color I used bin 2x2 which I exposed always before the luminance shots. Than of course a lot of processing work to get out the fainter parts. The CLS/CCD filter helps for contrast, but I think I am loosing so fainter stars with it. With the UV/IR filter the backround gets to bright. Red and  blue was quite ok but green is always difficult under my conditions. I think, I can not achieve more deepness with more integration time any more.....hope you like it like it is.\r\nCS to you all\r\n\r\nI put this image from the staging into the public area and can not set any technical data. Maybe a bug??\r\nEdge 11 HD\r\nASI 6200 mm pro\r\nCelestron reducer .7 for Edge 11 HD\r\nASI 120 mc for guiding\r\nWilliams Megrez 90 for guiding\r\nBaader filters 2\"\r\nCLS / CCD Filter\r\nL  95x300sec gain 300 bin 1\r\nRGB all 30x350sec gain 350 bin2",
+    "h": 3583,
+    "hash": "nwb9et",
+    "id": 474542,
+    "imaging_cameras": [
+        "Zwo Asi 6200 mm pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 300,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811130/"
+    ],
+    "orientation": "345.150",
+    "pixscale": "0.396",
+    "published": "2020-04-07T12:12:04.973796",
+    "ra": "173.278",
+    "radius": "0.305",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/474542/",
+    "revisions": [
+        "/api/v1/imagerevision/232562/"
+    ],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729",
+        "NGC3718",
+        "NGC3729"
+    ],
+    "title": "NGC 3718",
+    "updated": "2021-04-06T07:14:32.358570",
+    "uploaded": "2020-04-07T13:08:32.622928",
+    "url_duckduckgo": "https://www.astrobin.com/nwb9et/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nwb9et/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nwb9et/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nwb9et/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nwb9et/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nwb9et/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nwb9et/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28392/2020/f3b85064-be23-43ae-8ddb-3fdd422d2403.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28392/2020/f3b85064-be23-43ae-8ddb-3fdd422d2403-1586266194.jpg",
+    "url_thumb": "https://www.astrobin.com/nwb9et/0/rawthumb/thumb/",
+    "user": "Christophorus",
+    "views": 1057,
+    "w": 4231
+}

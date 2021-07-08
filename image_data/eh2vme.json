@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "36.589",
+    "description": "NGC 5033 is an inclined spiral galaxy located in the constellation Canes Venatici. Distance estimates vary from between 38 and 60 million light years from the Milky Way. The galaxy has a very bright nucleus and a relatively faint disk. Significant warping is visible in the southern half of the disk. The galaxy's relatively large angular size and relatively high surface brightness make it an object that can be viewed and imaged by amateur astronomers. \r\nThe galaxy's location relatively near Earth and its active galactic nucleus make it a commonly studied object for professional astronomers.  NGC 5033's nucleus is thought to contain a supermassive black hole. The bright emission seen in visible light (as well as other wavebands) is partially produced by the hot gas in the environment around this black hole.\r\nIntegral field spectroscopic observations indicate that the Seyfert nucleus is not located at the kinematic center of the galaxy (the point around which the stars in the galaxies rotate). This has been interpreted as evidence that this galaxy has undergone a merger. The displacement of the Seyfert nucleus from the kinematic center may destabilize the rotation of gas in the center of the galaxy, which could cause gas to fall into the Seyfert nucleus. The gas would be compressed by the enormous gravitational forces in the center of the Seyfert nucleus and become hot, thus making the nucleus appear bright or \"active\".\r\n\r\nCAPTURE Information:\r\nThe image was captured with the iOptron CEM120 mount , the venerable Meade 12\"LX200 SCT, and my Atik 383L+ mono CCD at F7.16 (2182mm FL). Image subs were taken through Astronomik's filters Ha, Lum, R, G and B. \r\nBoth Ha and Lum subs were done at 1x1 bin, -10C, at 10 minutes each.  The R, G and B subs were done at 5 minutes each.\r\n\r\nIMAGE information -- 2020\r\nLum  (600s): 71 subs (11.83hr) on Apr 25th, 29th, May 2nd and 9th.\r\nHa   (600s): 25 subs (4.17hr) on May 2nd and 9th.\r\nRed  (300s): 32 subs (2.67hr) on Apr 25th, 29th.\r\nGreen(300s): 30 subs (2.5hr) on Apr 29th.\r\nBlue  (300s): 30 subs (2.5hr) on Apr 25th.\r\n\r\nProcessing was done with PixInsight, following (for the most part) kayronjm's tutorial of Feb. 24th from several years back. Only L was used to develop the Luminance image. R, G and B were collected for the color mix. Ha was combined with RED to accentuate the star burst activity in the spiral arms.\r\nNorth is up (pretty sure), and this is a 50% crop to increase the scale of the main target.\r\n\r\nCOMMENTS:\r\nI had chased this object previously but had never done a finished image. Not sure why.",
+    "h": 1924,
+    "hash": "eh2vme",
+    "id": 486817,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 12\" f/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798019/"
+    ],
+    "orientation": "268.719",
+    "pixscale": "0.509",
+    "published": "2020-05-10T13:34:51.761634",
+    "ra": "198.381",
+    "radius": "0.218",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486817/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5033"
+    ],
+    "title": "NGC5033 Spiral Galaxy",
+    "updated": "2021-03-17T02:18:15.064431",
+    "uploaded": "2020-05-10T13:45:53.622494",
+    "url_duckduckgo": "https://www.astrobin.com/eh2vme/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eh2vme/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eh2vme/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eh2vme/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eh2vme/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eh2vme/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eh2vme/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/231/2020/b1ac5b3f-840c-4bde-ba98-9218187ec132.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/231/2020/b1ac5b3f-840c-4bde-ba98-9218187ec132-1589120683.jpg",
+    "url_thumb": "https://www.astrobin.com/eh2vme/0/rawthumb/thumb/",
+    "user": "niteman1946",
+    "views": 112,
+    "w": 2409
+}

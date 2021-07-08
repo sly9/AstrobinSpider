@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "OWN_REMOTE",
+    "dec": "-25.299",
+    "description": "A revisit of NGC 253, using Lum and Ha from our CDK scope in Texas and RGB data from Deep Sky West's Chile scope (TOA 150)",
+    "h": 3880,
+    "hash": "n14xfr",
+    "id": 548213,
+    "imaging_cameras": [
+        "FLI ML16200",
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14",
+        "Takahashi TOA-150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "https://www.good-astronomy.com",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.199",
+    "pixscale": "0.715",
+    "published": "2020-12-14T00:34:22.730495",
+    "ra": "11.888",
+    "radius": "0.546",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/548213/",
+    "revisions": [
+        "/api/v1/imagerevision/263934/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "Sculptor Filament",
+        "Silver Coin"
+    ],
+    "title": "NGC 253",
+    "updated": "2021-02-12T14:03:41.241750",
+    "uploaded": "2020-12-08T13:21:50.636830",
+    "url_duckduckgo": "https://www.astrobin.com/n14xfr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n14xfr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n14xfr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n14xfr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n14xfr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n14xfr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n14xfr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8588/2020/40ba2a83-f7a5-4dda-81c8-8d2eabc930d1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8588/2020/40ba2a83-f7a5-4dda-81c8-8d2eabc930d1-1607434034.png",
+    "url_thumb": "https://www.astrobin.com/n14xfr/0/rawthumb/thumb/",
+    "user": "crgood2",
+    "views": 228,
+    "w": 3904
+}

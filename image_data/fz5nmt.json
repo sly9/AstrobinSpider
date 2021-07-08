@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "10.623",
+    "description": "Well, this one is very bright.  I decided to stop collecting at this point.  I used the RGB as the color (photometrically corrected) and the very strong and complex HA signal as the L.  There was not much effect of HDR on the HA.  \r\n\r\nI denoised it with Topaz Denoise and that helped a lot.  I used the default settings.  Probably would be smoother with more images, but there are a lot of objects out there and not much time....\r\n\r\nSo the colors are correct  as is... not manipulated in 3D LUT just saturated a bit.",
+    "h": 500,
+    "hash": "fz5nmt",
+    "id": 494456,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVT 130T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798180/"
+    ],
+    "orientation": "359.616",
+    "pixscale": "1.220",
+    "published": "2020-06-03T17:42:02.480214",
+    "ra": "268.384",
+    "radius": "0.120",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/494456/",
+    "revisions": [],
+    "subjects": [
+        "PK036+17.1"
+    ],
+    "title": "Abell 43",
+    "updated": "2021-03-17T01:36:00.652719",
+    "uploaded": "2020-06-03T18:42:02.615362",
+    "url_duckduckgo": "https://www.astrobin.com/fz5nmt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fz5nmt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fz5nmt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fz5nmt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fz5nmt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fz5nmt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fz5nmt/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1338/2020/afaffe61-e694-4f6d-8efe-15d90c6e8f6f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1338/2020/afaffe61-e694-4f6d-8efe-15d90c6e8f6f-1591210203.jpg",
+    "url_thumb": "https://www.astrobin.com/fz5nmt/0/rawthumb/thumb/",
+    "user": "jerryyyyy",
+    "views": 180,
+    "w": 500
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 27,
+    "comments": 50,
+    "data_source": "BACKYARD",
+    "dec": "60.389",
+    "description": "Here is my version of the Soul nebula processed and combined in the Hubble Palette.  I managed to capture some good H-alpha data in december and some decent OIII and SII data in January/February. All data was captured from my backyard, processed with Pixinsight and Photoshop.\r\n\r\nRevision: Rework of sharpening and carefully working on small details, big thanks to <a href=\"https://www.astrobin.com/users/mxcoppell/\">Min Xie</a> for some super helpful tips on replacing RGB with narrowband stars :-)",
+    "h": 3312,
+    "hash": "jnlwa0",
+    "id": 478283,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM PRO"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 280,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809587/"
+    ],
+    "orientation": "0.163",
+    "pixscale": "1.963",
+    "published": "2020-04-17T14:21:17.416833",
+    "ra": "43.688",
+    "radius": "1.502",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478283/",
+    "revisions": [
+        "/api/v1/imagerevision/229907/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "Sh2-199 - Soul Nebula",
+    "updated": "2021-06-17T21:51:04.348111",
+    "uploaded": "2020-04-17T15:21:17.646567",
+    "url_duckduckgo": "https://www.astrobin.com/jnlwa0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jnlwa0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jnlwa0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jnlwa0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jnlwa0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jnlwa0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jnlwa0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25612/2020/cad91439-d3dc-4079-9ca9-2c1ac35a94da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25612/2020/cad91439-d3dc-4079-9ca9-2c1ac35a94da-1587137246.jpg",
+    "url_thumb": "https://www.astrobin.com/jnlwa0/0/rawthumb/thumb/",
+    "user": "dotmod",
+    "views": 2384,
+    "w": 4400
+}

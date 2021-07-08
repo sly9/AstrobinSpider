@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.808",
+    "description": "This is a test of the Finger Lakes Kepler KL4040 camera.   Subs were captured in high gain 12 bit mode.   Images captured over a number of nights - June 25,26,27; July 7,8,16,17,20,24 (2020).  For most of the subs Eagle was pretty low on the horizon (30 to 40 degrees).   Color integration and other post processing done by B. Falls.",
+    "h": 3393,
+    "hash": "qgp7s0",
+    "id": 523397,
+    "imaging_cameras": [
+        "Finger Lakes Instruments KL4040"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK-17"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814331/"
+    ],
+    "orientation": "89.381",
+    "pixscale": "0.634",
+    "published": "2020-09-14T23:34:54.145816",
+    "ra": "274.699",
+    "radius": "0.417",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/523397/",
+    "revisions": [],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "Eagle Nebula NGC6611",
+    "updated": "2021-03-20T04:33:01.661338",
+    "uploaded": "2020-09-15T00:22:03.995786",
+    "url_duckduckgo": "https://www.astrobin.com/qgp7s0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qgp7s0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qgp7s0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qgp7s0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qgp7s0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qgp7s0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qgp7s0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/71260/2020/f6161723-7c24-4625-bca8-159f96304d66.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/71260/2020/f6161723-7c24-4625-bca8-159f96304d66-1600132359.jpg",
+    "url_thumb": "https://www.astrobin.com/qgp7s0/0/rawthumb/thumb/",
+    "user": "jdowning",
+    "views": 327,
+    "w": 3294
+}

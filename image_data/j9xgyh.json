@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "11.610",
+    "description": "Lx27, Rx24, Gx19, Bx21 600s per frame",
+    "h": 1854,
+    "hash": "j9xgyh",
+    "id": 497372,
+    "imaging_cameras": [
+        "QHY695a"
+    ],
+    "imaging_telescopes": [
+        "SKYROVER 130 APO PRO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810710/"
+    ],
+    "orientation": "280.103",
+    "pixscale": "1.032",
+    "published": "2020-06-14T08:23:17.051166",
+    "ra": "190.731",
+    "radius": "0.397",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/497372/",
+    "revisions": [],
+    "subjects": [
+        "IC 3684",
+        "IC 809",
+        "M 59",
+        "M 60",
+        "NGC 4621",
+        "NGC 4637",
+        "NGC 4638",
+        "NGC 4647",
+        "NGC 4649"
+    ],
+    "title": "M60",
+    "updated": "2021-07-04T18:04:10.862396",
+    "uploaded": "2020-06-14T09:23:17.853667",
+    "url_duckduckgo": "https://www.astrobin.com/j9xgyh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/j9xgyh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/j9xgyh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/j9xgyh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/j9xgyh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/j9xgyh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/j9xgyh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24344/2020/f90e815d-873b-499c-8414-65e3dca77a89.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24344/2020/f90e815d-873b-499c-8414-65e3dca77a89-1592126926.png",
+    "url_thumb": "https://www.astrobin.com/j9xgyh/0/rawthumb/thumb/",
+    "user": "QHY695A",
+    "views": 138,
+    "w": 2060
+}

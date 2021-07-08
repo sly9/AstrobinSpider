@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "-22.964",
+    "description": "After cutting my deep sky teeth on galaxies I thought it was time to image a nebula. I chose one of the most iconic nebulae in the night sky, M20, NGC 6514 or the Trifid Nebula. It is perfectly framed in my C14 EdgeHD/ SBIG 16803 combination.\r\nThis is an LRGB image although I have gathered Ha, OIII and SII data try try narrowband processing in due course.\r\nCapture details:\r\nDates; 2021-04-22 to 2021-05-18\r\nLights: 16.5 hours integration\r\nLum: 32 x 600 secs\r\nRed: 23 x 600 secs\r\nGreen: 22 x 600 secs\r\nBlue: 22 x 600 secs\r\nBias: 35\r\nDarks: 35\r\nFlats: 20 per colour channel per camera change\r\nI am indebted to my friends Rodney Watters and Georges Lucotte for their advice on the Starnet process in PixInsight, which allowed me to remove the stars and to process the nebula without messing up the stars or having to play around with masks to protect them. Most advantageous. Merci Georges pour ton aide. C'était très utile mon ami.\r\nI have set up the starless image as a  mouse-over as I feel it adds a unique perspective to see the nebula without the star field, although I do love the dense star field of the Milky Way behind the nebula. There are some very bright foreground stars, which I decided not to reduce too much through Morphological Transformation, as compositionally I feel they add a lot to the image. Having said that the bright star at upper right left me with a nasty reflection artefact that need to be dealt with.\r\nMy image scale and advantageous latitude, which means the object was at a good altitude throughout the imaging runs, plus generally decent seeing meant that good resolution of detail was possible. I was particularly pleased to resolve the stellar jet as imaged by the HST and, in revisions C & D, I include a zoomed in image of this region and the comparison with the HST image detail. This is a Herbig-Haro object numbered HH 399.",
+    "h": 3970,
+    "hash": "84037n",
+    "id": 601628,
+    "imaging_cameras": [
+        "SBIG 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": "359.395",
+    "pixscale": "0.475",
+    "published": "2021-07-04T08:24:54.716345",
+    "ra": "270.634",
+    "radius": "0.365",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601628/",
+    "revisions": [
+        "/api/v1/imagerevision/293847/",
+        "/api/v1/imagerevision/293848/",
+        "/api/v1/imagerevision/293852/"
+    ],
+    "subjects": [
+        "B85",
+        "M 20",
+        "M20",
+        "NGC 6514",
+        "Sh2-30",
+        "Trifid Nebula",
+        "Trifid nebula"
+    ],
+    "title": "M20 the Trifid Nebula",
+    "updated": "2021-07-07T01:42:12.154245",
+    "uploaded": "2021-07-04T07:44:39.957702",
+    "url_duckduckgo": "https://www.astrobin.com/84037n/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/84037n/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/84037n/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/84037n/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/84037n/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/84037n/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/84037n/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20830/2021/29f3c44d-427b-488f-9839-23e3074b448c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20830/2021/29f3c44d-427b-488f-9839-23e3074b448c-1625386009.jpg",
+    "url_thumb": "https://www.astrobin.com/84037n/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 235,
+    "w": 3855
+}

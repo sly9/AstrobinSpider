@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Archive image from 2013.\r\nSelected for <a href=\"http://www.lpod.org/wiki/January_31,_2013\">LPOD</a> on 31 January 2013. (Chuck Wood's annotation is provided there)\r\n\r\n<b>Technical Details:</b>\r\nJanuary 18, 2013, at around 18:30 UT.\r\n<b>Grayscale image:</b> TAL-250K telescope at prime focus (2130 mm), Baader red CCD-filter, Basler acA 640-100gm CCD. Best 200 of 4000 frames were stacked in Autostakkert!2, drizzle 1.5x. LR deconvolution, contrast adjustment.\r\n<b>Colour image:</b> L(R) RG(UV) composite, TAL-250K telescope at prime focus (2130 mm), Baader R, G-filters, and Shuler UV-pass filter. Basler acA 640-100gm CCD. Best 200 of 4000 frames were stacked in Autostakkert!2,drizzle 1.5x. LR deconvolution, contrast adjustment, colour enhancement.",
+    "h": 751,
+    "hash": "t8dhzt",
+    "id": 508888,
+    "imaging_cameras": [
+        "Basler acA 640-100gm  mono"
+    ],
+    "imaging_telescopes": [
+        "TAL-250K"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804354/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-07-24T15:33:50.640755",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/508888/",
+    "revisions": [
+        "/api/v1/imagerevision/242895/"
+    ],
+    "subjects": [],
+    "title": "Humboldt and Petavius in color (from 2013)",
+    "updated": "2021-05-17T03:50:56.182813",
+    "uploaded": "2020-07-24T16:15:32.892760",
+    "url_duckduckgo": "https://www.astrobin.com/t8dhzt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t8dhzt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t8dhzt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t8dhzt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t8dhzt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t8dhzt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t8dhzt/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/t8dhzt/0/rawthumb/thumb/",
+    "user": "Dzmitry_Kananovich",
+    "views": 143,
+    "w": 939
+}

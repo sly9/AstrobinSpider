@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 44,
+    "data_source": "OWN_REMOTE",
+    "dec": "22.716",
+    "description": "I have never imaged M27 before and when Steve and I were discussing target choices I was enthusiastic to image a combined narrow and broad band image to capture all of its features.  Thus we started imaging late May and had an enforced break part-way through when the power supply failed to the GM2000 mount; fortunately a quick response and diagnosis from the e-Eye team under guidance and a fast despatch of a new supply from Baader/Telescope Express saw us back in action just over one week later.\r\n\r\nWe managed to gather plenty of data, deciding during the second lunar phase to gather SII as it helped with data for the central core detail; we did not pursue any luminance data after a few test subs.  Processing has been very entertaining as I meandered and stumbled along a processing path towards an artistic image and interpretation of the prominent features in each channel.  When I first saw the classic Hubble Palette image I was very underwhelmed however it did assist in a foundation for a synthetic luminance.  The bicolour HOO image and the RGB provided the foundation for further embellishment with additional narrowband addition for the separate colour channels (here the shorter Ha and OIII subs helped with central details).  With some constructive critique from Steve I have a final image (version 6) in which I have retained some green hues to help with contrast between the layered shell structure of the expanding PN gases and as an aid to depth of field.\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson\r\n\r\nFrom Wikipedia: \"The Dumbbell Nebula (also known as Apple Core Nebula, Messier 27, M 27, or NGC 6853) is a planetary nebula in the constellation Vulpecula, at a distance of about 1227 light-years. This object was the first planetary nebula to be discovered; by Charles Messier in 1764. At its brightness of visual magnitude 7.5 and its diameter of about 8 arcminutes, it is easily visible in binoculars, and a popular observing target in amateur telescopes.  The Dumbbell Nebula appears to be shaped like a prolate spheroid and is viewed from our perspective along the plane of its equator. In 1992, Moreno-Corral et al. computed that its rate of expansion in the plane of the sky was no more than 2.3\" per century. From this, an upper limit to the age of 14,600 yr may be determined. In 1970, Bohuski, Smith, and Weedman found an expansion velocity of 31 km/s. Given its semi-minor axis radius of 1.01 ly, this implies that the kinematic age of the nebula is some 9,800 years. Like many nearby planetary nebulae, the Dumbbell contains knots. Its central region is marked by a pattern of dark and bright cusped knots and their associated dark tails (see picture). The knots vary in appearance from symmetric objects with tails to rather irregular tail-less objects. Similarly to the Helix Nebula and the Eskimo Nebula, the heads of the knots have bright cusps which are local photoionization fronts. The central star, a white dwarf progenitor, is estimated to have a radius which is 0.055±0.02 R☉ (0.13 light seconds) which gives it a size larger than most other known white dwarfs The central star mass was estimated in 1999 by Napiwotzki to be 0.56±0.01 M☉.\"",
+    "h": 2601,
+    "hash": "3ulolq",
+    "id": 505971,
+    "imaging_cameras": [
+        "QSI 690 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "TEC 140"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 405,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "89.637",
+    "pixscale": "0.743",
+    "published": "2020-07-15T16:38:15.382393",
+    "ra": "299.899",
+    "radius": "0.431",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/505971/",
+    "revisions": [
+        "/api/v1/imagerevision/274651/"
+    ],
+    "subjects": [
+        "Dumbbell Nebula",
+        "Dumbbell nebula",
+        "M 27",
+        "M27",
+        "NGC 6853",
+        "PK060-03.1"
+    ],
+    "title": "Messier 27 The Dumbell Nebula",
+    "updated": "2021-06-20T16:14:19.439991",
+    "uploaded": "2020-07-15T17:38:15.658709",
+    "url_duckduckgo": "https://www.astrobin.com/3ulolq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3ulolq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3ulolq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3ulolq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3ulolq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3ulolq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3ulolq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2020/a4c5421b-e13d-4914-b842-5ab409948ccd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5519/2020/a4c5421b-e13d-4914-b842-5ab409948ccd-1594835677.jpg",
+    "url_thumb": "https://www.astrobin.com/3ulolq/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 1073,
+    "w": 3268
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "-20.783",
+    "description": "Capture refractor : Red 350 min , Blue 180 min, Green 80 min , Lum 220 min, Ha 140 min.\r\nCapture Astrograph 10 \" : Red 180 min, Blue 180 min , Green 120 min",
+    "h": 1904,
+    "hash": "ymtvli",
+    "id": 524516,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Cool CMOS Camera"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVS130 f5 Astrograph",
+        "OOUK AG10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 211,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808626/"
+    ],
+    "orientation": "131.321",
+    "pixscale": "1.257",
+    "published": "2020-09-18T23:26:54.368128",
+    "ra": "11.772",
+    "radius": "0.459",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/524516/",
+    "revisions": [],
+    "subjects": [
+        "NGC 247",
+        "NGC247"
+    ],
+    "title": "NGC 247 & the Burbidge Galaxy chain",
+    "updated": "2021-06-25T02:42:09.317795",
+    "uploaded": "2020-09-19T00:26:54.563770",
+    "url_duckduckgo": "https://www.astrobin.com/ymtvli/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ymtvli/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ymtvli/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ymtvli/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ymtvli/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ymtvli/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ymtvli/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26190/2020/3ae2da6e-30d4-4237-9541-7f82c734a017.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26190/2020/3ae2da6e-30d4-4237-9541-7f82c734a017-1600475917.png",
+    "url_thumb": "https://www.astrobin.com/ymtvli/0/rawthumb/thumb/",
+    "user": "JAIME.FELIPE",
+    "views": 1081,
+    "w": 1814
+}

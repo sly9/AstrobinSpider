@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "66.633",
+    "description": "The Cat's Eye Nebula (also known as NGC 6543) is a planetary nebula in the northern constellation of Draco. It lies about three thousand light-years from Earth (Source: Wikipedia)\r\n\r\nI am revisiting this target using my Esprit 120ED, so this is a heavily cropped version of last year's attempt using the EdgeHD 8. This started as an experiment to compare if the EdgeHD imaging scale (~0.5 arcsec/pixel) would give me any advantages from my balcony over the Esprit 120 (~0.9 arcsec/pixel). And it ended up being a full project. The jury is still out on the resolution part, but I think the Esprit FL is better for my skies.\r\n\r\nThis is mainly an HOO image, with two sets of exposures for each of the filters, then combined as an HDR composition, in order to tame the super bright core. I've also collected RGB data for the stars, the galaxy and the nebula core colors.\r\n\r\nClear Skies!",
+    "h": 1769,
+    "hash": "eoex5z",
+    "id": 598111,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 120ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808755/"
+    ],
+    "orientation": "180.172",
+    "pixscale": "0.911",
+    "published": "2021-06-18T12:50:09.953195",
+    "ra": "269.639",
+    "radius": "0.370",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/598111/",
+    "revisions": [
+        "/api/v1/imagerevision/291836/"
+    ],
+    "subjects": [
+        "IC4677",
+        "NGC 6552",
+        "NGC6543",
+        "NGC6552",
+        "PK096+29.1"
+    ],
+    "title": "NGC 6543 - Cat's Eye Nebula (HA/OIII/RGB)",
+    "updated": "2021-07-06T22:35:10.386532",
+    "uploaded": "2021-06-18T11:02:18.938702",
+    "url_duckduckgo": "https://www.astrobin.com/eoex5z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eoex5z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eoex5z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eoex5z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eoex5z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eoex5z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eoex5z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27151/2021/a38ac27c-05af-4a5d-b53c-3ed4cb159048.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27151/2021/a38ac27c-05af-4a5d-b53c-3ed4cb159048-1624015809.jpg",
+    "url_thumb": "https://www.astrobin.com/eoex5z/0/rawthumb/thumb/",
+    "user": "makhlouta",
+    "views": 213,
+    "w": 2326
+}

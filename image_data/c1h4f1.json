@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "56.669",
+    "description": "This is the second subject shot along sh2-308.  It turns out really good and it the best of 3 subjects from last project.  Its 7.2 magnitude and short distance(48 light years) really helps the SNR.  \r\n\r\nnights:\r\n12/17/2020, 12/19/2020, 12/20/2020, 12/24/2020, 12/25/2020, 12/26/2020, 1/2/2020, 1/4/2020, 1/8/2020\r\n\r\nsub:\r\nha: 20x1800s\r\no3: 20x1800s\r\ns2: 20x1800s\r\nR/G/B: 20x120s",
+    "h": 1370,
+    "hash": "c1h4f1",
+    "id": 559077,
+    "imaging_cameras": [
+        "Moravian Instruments G3 16200"
+    ],
+    "imaging_telescopes": [
+        "TEC 140 APO ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810896/"
+    ],
+    "orientation": "245.306",
+    "pixscale": "2.362",
+    "published": "2021-01-18T02:51:51.178732",
+    "ra": "13.103",
+    "radius": "0.691",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559077/",
+    "revisions": [],
+    "subjects": [
+        "IC 1590",
+        "NGC 281"
+    ],
+    "title": "The Pacman",
+    "updated": "2021-06-13T06:51:41.939473",
+    "uploaded": "2021-01-17T23:20:45.638186",
+    "url_duckduckgo": "https://www.astrobin.com/c1h4f1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c1h4f1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c1h4f1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c1h4f1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c1h4f1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c1h4f1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c1h4f1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27942/2021/fbee43f3-a60f-4822-bbf0-444a29d4878a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27942/2021/fbee43f3-a60f-4822-bbf0-444a29d4878a-1610926390.jpg",
+    "url_thumb": "https://www.astrobin.com/c1h4f1/0/rawthumb/thumb/",
+    "user": "weili616",
+    "views": 175,
+    "w": 1600
+}

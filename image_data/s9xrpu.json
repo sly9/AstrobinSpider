@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "67.234",
+    "description": "Cederblad 214 in narrowband with SHO color blend. This is my longest integration so far: just over 16 hours of data in Ha, Oiii, and Sii. This is the first time I used Pixinsight to stack an image. I used WBPP and Drizzle Integration. I'm still having issues learning to combine and balance color, so I used Photoshop for the rest of the processing.",
+    "h": 5038,
+    "hash": "s9xrpu",
+    "id": 522114,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "328.208",
+    "pixscale": "0.601",
+    "published": "2020-09-10T15:37:08.739823",
+    "ra": "0.887",
+    "radius": "0.673",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/522114/",
+    "revisions": [
+        "/api/v1/imagerevision/249635/"
+    ],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "Ced 214 Nebula in SHO",
+    "updated": "2021-06-16T22:35:05.776087",
+    "uploaded": "2020-09-10T16:37:09.548555",
+    "url_duckduckgo": "https://www.astrobin.com/s9xrpu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s9xrpu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s9xrpu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s9xrpu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s9xrpu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s9xrpu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s9xrpu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/51389/2020/326ae323-1861-48e3-8802-37e4762973c8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/51389/2020/326ae323-1861-48e3-8802-37e4762973c8-1599756797.png",
+    "url_thumb": "https://www.astrobin.com/s9xrpu/0/rawthumb/thumb/",
+    "user": "DanielZoliro",
+    "views": 399,
+    "w": 6298
+}

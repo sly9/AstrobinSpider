@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "54.105",
+    "description": "2020-03-13 23:30-03:00\r\nVery clear, half moon, no wind, snow on ground, 85% humidity, -5 degrees C\r\n2020-03-20 20:00-04:00\r\nVery clear, no moon, some wind, 50% humidity, 0 degrees C\r\n2020-03-21 20:00-04:00\r\nVery clear, no moon, no wind, 70 % humidity, -3 degrees C",
+    "h": 3408,
+    "hash": "08kvas",
+    "id": 483862,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "TS-Optics 8\" f/4 UNC Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "https://astrophotos.se/?p=2054",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802109/"
+    ],
+    "orientation": "263.696",
+    "pixscale": "0.975",
+    "published": "2020-04-30T18:56:55.511982",
+    "ra": "210.918",
+    "radius": "0.758",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483862/",
+    "revisions": [
+        "/api/v1/imagerevision/231057/",
+        "/api/v1/imagerevision/231161/",
+        "/api/v1/imagerevision/241081/",
+        "/api/v1/imagerevision/282421/",
+        "/api/v1/imagerevision/284577/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5474",
+        "NGC 5477"
+    ],
+    "title": "M101 and NGC5474 in LRGBHa",
+    "updated": "2021-04-05T23:44:24.660269",
+    "uploaded": "2020-04-30T19:56:56.495351",
+    "url_duckduckgo": "https://www.astrobin.com/08kvas/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/08kvas/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/08kvas/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/08kvas/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/08kvas/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/08kvas/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/08kvas/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4865/2020/b375260d-e0c3-44ec-a007-8a5c6192f30d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4865/2020/b375260d-e0c3-44ec-a007-8a5c6192f30d-1588276849.jpg",
+    "url_thumb": "https://www.astrobin.com/08kvas/0/rawthumb/thumb/",
+    "user": "petfol",
+    "views": 136,
+    "w": 4443
+}

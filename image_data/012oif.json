@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "45.405",
+    "description": "This target was acquired over 13 nights : 18, 23, 24, 26, 27, 30, 31 of October and 1, 7, 9, 18, 19, 23 of November.\r\n\r\nThe camera was cooled at -18 and -21°C.\r\n\r\nThe signal of both channel was very faint and did not exceed for the brightest part of the nebula : 1e-/10min/pix in Ha and 0.5 e-/10min/pix in O3.",
+    "h": 3384,
+    "hash": "012oif",
+    "id": 546122,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Meade APO 115"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814137/"
+    ],
+    "orientation": "2.707",
+    "pixscale": "1.213",
+    "published": "2020-11-30T11:11:53.138959",
+    "ra": "51.823",
+    "radius": "0.952",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/546122/",
+    "revisions": [],
+    "subjects": [
+        "PK149-09.1"
+    ],
+    "title": "HDW3 - a faint planetary Nebula in Perseus - HO",
+    "updated": "2021-01-26T13:38:36.817616",
+    "uploaded": "2020-11-29T20:02:51.485597",
+    "url_duckduckgo": "https://www.astrobin.com/012oif/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/012oif/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/012oif/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/012oif/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/012oif/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/012oif/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/012oif/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16918/2020/c7ac7707-99da-48cb-be3d-29dc98d64559.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16918/2020/c7ac7707-99da-48cb-be3d-29dc98d64559-1606681417.jpeg",
+    "url_thumb": "https://www.astrobin.com/012oif/0/rawthumb/thumb/",
+    "user": "Daniel.P",
+    "views": 111,
+    "w": 4521
+}

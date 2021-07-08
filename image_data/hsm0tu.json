@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-24.000",
+    "description": "NGC 6559 is a star-forming region located at a distance of about 5000 light-years from Earth, in the constellation of Sagittarius, It contains both emission and reflection nebular components.\r\nImaged in SHO narrowband\r\nImage Processing: Mike Selby\r\nSystem Control Software: Voyager by Leo Orazi",
+    "h": 3696,
+    "hash": "hsm0tu",
+    "id": 576573,
+    "imaging_cameras": [
+        "FLI PL 16803"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RiDK 500"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815547/"
+    ],
+    "orientation": "270.565",
+    "pixscale": "0.528",
+    "published": "2021-03-23T23:50:32.267239",
+    "ra": "272.475",
+    "radius": "0.398",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/576573/",
+    "revisions": [],
+    "subjects": [
+        "B302",
+        "B303",
+        "IC 4685",
+        "IC1275",
+        "IC4685",
+        "NGC 6559",
+        "NGC6559",
+        "PK006-02.1",
+        "Sh2-29"
+    ],
+    "title": "NGC 6559",
+    "updated": "2021-04-05T16:18:19.113367",
+    "uploaded": "2021-03-23T23:47:28.667800",
+    "url_duckduckgo": "https://www.astrobin.com/hsm0tu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hsm0tu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hsm0tu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hsm0tu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hsm0tu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hsm0tu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hsm0tu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/96468/2021/184a4923-5f98-4e54-bdf2-7863839f1211.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/96468/2021/184a4923-5f98-4e54-bdf2-7863839f1211-1616543926.jpg",
+    "url_thumb": "https://www.astrobin.com/hsm0tu/0/rawthumb/thumb/",
+    "user": "SCObservatory",
+    "views": 96,
+    "w": 3972
+}

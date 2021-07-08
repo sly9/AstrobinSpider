@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-10.664",
+    "description": "IC2177 The Seagull Nebula\r\n\r\nCaptured over 2 nights, January 16th and 17th, 2021\r\n\r\nZWO ASI183MM Pro Gain 53, Offset 2\r\n\r\nAntlia 3.5nm Filters\r\n\r\n24 x 600 seconds Ha\r\n26 x 600 seconds S2\r\n29 x 600 seconds O3",
+    "h": 3595,
+    "hash": "sk77sb",
+    "id": 559302,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro Cooled"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech 80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "95.875",
+    "pixscale": "1.283",
+    "published": "2021-01-18T20:06:58.393264",
+    "ra": "106.355",
+    "radius": "1.158",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559302/",
+    "revisions": [
+        "/api/v1/imagerevision/269510/"
+    ],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335"
+    ],
+    "title": "IC2177 The Seagull Nebula",
+    "updated": "2021-01-30T10:46:19.507500",
+    "uploaded": "2021-01-18T20:00:30.587847",
+    "url_duckduckgo": "https://www.astrobin.com/sk77sb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sk77sb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sk77sb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sk77sb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sk77sb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sk77sb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sk77sb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/50175/2021/8077e286-4619-4db2-9eb3-89ace9077ceb.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/50175/2021/8077e286-4619-4db2-9eb3-89ace9077ceb-1611003538.png",
+    "url_thumb": "https://www.astrobin.com/sk77sb/0/rawthumb/thumb/",
+    "user": "Slice1969",
+    "views": 218,
+    "w": 5412
+}

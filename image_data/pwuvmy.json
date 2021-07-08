@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "36.363",
+    "description": "Discovered by Edward Barnard in 1885, the California Nebula (NGC 1499) is an emission nebula located in the constellation Perseus about 1,500 light-years from Earth. It is located near the Milky Way's Orion Arm and its size is 2.5° long on the sky or across 100 light-years of space. This cosmic cloud is named California Nebula based on its appearance resembling the outline of State of California. The nebula glows with the energetic starlight that ionizes much of the nebular gas because of the radiation from the intensely hot Xi Persei(aka Menkib) star, the brightest star in this image.\r\nThis is a Hubble Palette (SHO) narrowband imaging that NASA tends to use RGB mapping with Sulphur II, Ha, OIII filter data.\r\nResolution ............... 1.462 arcsec/px\r\nRotation ................. -179.227 deg\r\nObservation start time ... 2020-11-24 03:17:39 UTC\r\nObservation end time ..... 2020-11-29 12:41:32 UTC\r\nFocal distance ........... 530.48 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 3d 43' 23.5\" x 2d 27' 10.4\"\r\nImage center ............. RA:  4 01 01.366  Dec: +36 21 48.43\r\n\r\nFilters:     Astrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nHa    74x600\" 12 Hours 20 minutes  Bin2x2   \r\n        18x900\"  4 Hours 30 Minutes Bin2x2   \r\nOIII  67x600\" 11 Hours 10 Minutes  Bin2x2          \r\nSII   69x600\" 11 Hours 30 Minutes Bin2x2",
+    "h": 3020,
+    "hash": "pwuvmy",
+    "id": 547608,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 179,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "179.209",
+    "pixscale": "2.924",
+    "published": "2020-12-06T07:52:24.333919",
+    "ra": "60.255",
+    "radius": "2.229",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/547608/",
+    "revisions": [],
+    "subjects": [
+        "California Nebula",
+        "NGC 1499",
+        "The star ξPer"
+    ],
+    "title": "NGC1499 California Nebula (SHO)",
+    "updated": "2021-05-28T06:19:10.091162",
+    "uploaded": "2020-12-06T07:40:17.658104",
+    "url_duckduckgo": "https://www.astrobin.com/pwuvmy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pwuvmy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pwuvmy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pwuvmy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pwuvmy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pwuvmy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pwuvmy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2020/ec15f3f9-b79c-4480-9a5f-88529c6d96b0.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2020/ec15f3f9-b79c-4480-9a5f-88529c6d96b0-1607241504.JPG",
+    "url_thumb": "https://www.astrobin.com/pwuvmy/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 520,
+    "w": 4584
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "PRO_DATA",
+    "dec": "54.346",
+    "description": "M101 shoot à C2PU observatory ( 1m f3)\r\nShoot by S. Brunier\r\nprocess F Tapissier",
+    "h": 3021,
+    "hash": "xxdkeh",
+    "id": 599324,
+    "imaging_cameras": [
+        "QHYCCD 600M"
+    ],
+    "imaging_telescopes": [
+        "C2PU Omicron"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808484/"
+    ],
+    "orientation": "176.961",
+    "pixscale": "0.470",
+    "published": "2021-06-22T07:43:38.514221",
+    "ra": "210.805",
+    "radius": "0.360",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599324/",
+    "revisions": [
+        "/api/v1/imagerevision/292419/",
+        "/api/v1/imagerevision/292704/",
+        "/api/v1/imagerevision/293457/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5451",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471"
+    ],
+    "title": "M101 @ C2PU Observatory",
+    "updated": "2021-07-05T17:15:31.629392",
+    "uploaded": "2021-06-22T07:33:37.363111",
+    "url_duckduckgo": "https://www.astrobin.com/xxdkeh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xxdkeh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xxdkeh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xxdkeh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xxdkeh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xxdkeh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xxdkeh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1393/2021/b753b281-0bfc-482f-88a2-633e32ccac39.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1393/2021/b753b281-0bfc-482f-88a2-633e32ccac39-1624347895.png",
+    "url_thumb": "https://www.astrobin.com/xxdkeh/0/rawthumb/thumb/",
+    "user": "ftapissier",
+    "views": 428,
+    "w": 4621
+}

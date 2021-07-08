@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "61.043",
+    "description": "The ghost of Cassiopée / IC59, IC63 and Gamma-Cas\r\n\r\nFaint reflection and emission nebulae located in the northern suburbs of Cassiopeia, each is of +10 of apparent magnitude and a PITA to observe.\r\nBlue and red colors are both caused by the bright Gamma-Cas (mag +2.4) located at the top of the frame, blue is its light reflected back to us by dust and gas, and  red represents H-clouds ionized by the same star.\r\n\r\nUnder the hood:\r\nTMB92SS, iOptron CEM70, ZWO ASI183MM && ASI-183MC\r\nH (MM) :  78x600s\r\nOSC (MC): 445x120s",
+    "h": 4208,
+    "hash": "ao8jkl",
+    "id": 562048,
+    "imaging_cameras": [
+        "ZWO ASI 183MC Pro (cooled)",
+        "ZWO ASI 183 MM Pro (Cooled)"
+    ],
+    "imaging_telescopes": [
+        "TMB Optical TMB 92SS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811835/"
+    ],
+    "orientation": "105.180",
+    "pixscale": "0.965",
+    "published": "2021-01-29T19:25:19.990401",
+    "ra": "14.948",
+    "radius": "0.722",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/562048/",
+    "revisions": [],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)"
+    ],
+    "title": "The ghost of Cassiopée / IC59, IC63 and y Cas",
+    "updated": "2021-06-28T21:03:30.967748",
+    "uploaded": "2021-01-29T19:18:36.788356",
+    "url_duckduckgo": "https://www.astrobin.com/ao8jkl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ao8jkl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ao8jkl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ao8jkl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ao8jkl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ao8jkl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ao8jkl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19887/2021/dde7f085-24b2-4358-925e-9e63ca873bc5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19887/2021/dde7f085-24b2-4358-925e-9e63ca873bc5-1611948463.jpg",
+    "url_thumb": "https://www.astrobin.com/ao8jkl/0/rawthumb/thumb/",
+    "user": "Moophz",
+    "views": 284,
+    "w": 3366
+}

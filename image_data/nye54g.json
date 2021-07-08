@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "60.407",
+    "description": "I am completely IN LOVE with this area of the sky.  The nebulosity is so incredible.  wide field or close.  It's so wonderful\r\nI was able to capture this over 5 nights. \r\nI went to a high gain for a while but ti is challenging to calibrate out so I returned to 200_50 after this image\r\n\r\n~~~~Tekkie stuffs:\r\nTelescope: Explorer scientific Ed 80 FCD-100\r\nCamera: ASI1600pro\r\nFilters: Astrodon E series\r\nMount: Atlas EQ-G\r\nGuiding camera: 290 mini with OAG\r\nSHO~. 84:86:85 300 sec images\r\nTotal integration time: 21.25 hours\r\nSeeing/ environment: 2-3\r\nBortle Class: Class 5/6 Backyard~ Central Indiana\r\nDates of acquisition: 10/4-5 11/5-8, 2020\r\nprocessing Pixinsght:\r\nprocessing: considerations. MULTIPLE nights with good alignment (2 degree error allowed in SGP) \r\nsynth lum created for Decon\r\n\r\nAligned all to each other.\r\nCrop\r\nDBE individually\r\nSHO combine with 15% of Ha added to R and 10% to Blue\r\nSHO workflow~BGN; MLT for Noise reduction\r\nLum workflow~decon with autopsf 40 iterations 5 layers; \r\nMLT for noise reduction\r\nArc sin for SHO and chose HT for Lum with Bg at 10% for both\r\nTGVDN\r\nLHE after for small and larger kernels masked for the nebula\r\n Curves with  range and color and Lum masking for lightness and sat boost\r\nLOADS of masking to bring colors.\r\nXPTR with Lum mask for lum boost;\r\nMLT for sharpening.\r\nMorph to reduce the stars just a bit and ICC to end.",
+    "h": 2736,
+    "hash": "nye54g",
+    "id": 549501,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro (Mono) ZWO ASI 1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Explorer Scientific 80mm ED FCD-100 Explore Scientific 80mm FCD 100"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810993/"
+    ],
+    "orientation": "4.822",
+    "pixscale": "2.051",
+    "published": "2020-12-13T16:14:22.409091",
+    "ra": "43.772",
+    "radius": "1.324",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549501/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "A whole lotta Soul",
+    "updated": "2021-06-26T06:12:16.429850",
+    "uploaded": "2020-12-13T16:09:54.017892",
+    "url_duckduckgo": "https://www.astrobin.com/nye54g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nye54g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nye54g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nye54g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nye54g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nye54g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nye54g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30306/2020/edaf9119-d34c-4b66-9440-58e8942e7a52.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30306/2020/edaf9119-d34c-4b66-9440-58e8942e7a52-1607876181.jpg",
+    "url_thumb": "https://www.astrobin.com/nye54g/0/rawthumb/thumb/",
+    "user": "lowry_pt",
+    "views": 258,
+    "w": 3760
+}

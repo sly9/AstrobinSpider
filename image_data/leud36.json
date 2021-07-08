@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "15.784",
+    "description": "An elusive Phantom Galaxy (M 74/NGC 628), a grand-design spiral galaxy in the constellation Pisces. This image is a combination of LHaRGB exposures obtained with the 250 mm f/4 Lacerta PhotoNewton and ASI183MM Pro camera over several nights in September-November 2020.  \r\n\r\nThe luminance image is a combination of series of 30s, 90s and 180s exposures to expand the dynamic range and reduce the effects of atmospheric turbulence. The L exposures were captured with camera gain of  53, 110 and 200, while RGB and H-alpha exposures were taken at gain 110 and 200:\r\n\r\nL:   45x180s (Gain 53, bin 1x1), 69x90s (Gain 110, bin 1x1), 185x30s (Gain 200, bin 1x1)\r\nR:   42x180s (Gain 110, bin 1x1)\r\nG:   45x180s (Gain 110, bin 1x1)\r\nB:   43x180s (Gain 110, bin 1x1)\r\nHa: 12x600s(Gain 200, bin 1x1)\r\n\r\nTotal exposure: 14.0 hours",
+    "h": 3000,
+    "hash": "leud36",
+    "id": 546863,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 159,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "359.784",
+    "pixscale": "0.495",
+    "published": "2020-12-02T21:09:45.540326",
+    "ra": "24.174",
+    "radius": "0.344",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546863/",
+    "revisions": [
+        "/api/v1/imagerevision/262869/",
+        "/api/v1/imagerevision/262870/",
+        "/api/v1/imagerevision/264689/",
+        "/api/v1/imagerevision/264690/",
+        "/api/v1/imagerevision/268488/",
+        "/api/v1/imagerevision/268491/"
+    ],
+    "subjects": [
+        "M 74",
+        "M74",
+        "NGC 628"
+    ],
+    "title": "M74, The Phantom Galaxy",
+    "updated": "2021-05-15T17:26:46.881448",
+    "uploaded": "2020-12-02T19:45:37.439872",
+    "url_duckduckgo": "https://www.astrobin.com/leud36/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/leud36/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/leud36/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/leud36/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/leud36/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/leud36/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/leud36/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/eae6c1b7-e7e0-435a-90a6-199143573c4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/eae6c1b7-e7e0-435a-90a6-199143573c4b-1606940495.jpg",
+    "url_thumb": "https://www.astrobin.com/leud36/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 415,
+    "w": 4000
+}

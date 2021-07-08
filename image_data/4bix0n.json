@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 27,
+    "comments": 57,
+    "data_source": "OWN_REMOTE",
+    "dec": "38.041",
+    "description": "The discovery of the Soap Bubble was first made by amateur astronomer, Dave Jurasevich who noticed it in some images that he acquired with an Astro-Physics 160 mm F/5.7 refractor using 20 minute exposures with a STL-11000M camera on July 5, 2008.  Within eleven days after Dave's discovery, three other imagers independently sent notification of the newly discovered nebula.  On 16 July 2009, the International Astronomical Union officially recognized the new discovery and gave it the designation of PNG 75.5+1.7.  You can read more about Dave's discovery in his own words here: http://www.starimager.com/Image%20Gallery%20Pages/Hydrogen%20Alpha%20Images/ic%201318_AP_8%20pane%20mosaic_bubble%20nebula.htm.  Dave and a number of other researchers went back and checked earlier images of the same region and found that it had been previously imaged, but no one had ever noticed it!  And indeed, unless you are looking for it on pretty deep images of the region, it's easy to miss.  It has extremely low surface brightness, it sits in a dense star field in the middle of the Milky Way, and it's only about 4.3 arc-minutes in diameter.  It is estimated to be about 4,000 ly from Earth with a diameter of about 5 ly. \r\n\r\nThere is some uncertainty about the origin of the bubble.  Because of its low surface brightness, spectroscopic data is very difficult to acquire (even with the largest professional telescopes,) but preliminary results indicate that it shows the signature of being a nova remanent.  Another more remote possibility is that it might be a stellar bubble caused by radiation pressure from a Wolf-Rayet star at the center.  There hasn't been a lot of research on this object so there's some uncertainty about it's origin.\r\n\r\nI started this project back in 2018 late in the season so I didn't get very far.  I picked it up again in 2019 and the monsoons again pushed the effort into the late season.  That time I managed to get enough data in two channels (Ha and O3) to process a bi-color image; but, it wasn't very good so I put it aside.  I simply didn't have enough data to produce a clean result.  This year, I remembered the unfinished Soap Bubble project and started gathering data as Cygnus was rising at sunset.  I started gathering S2 data this spring when the moon appeared after my NGC 5033 project came to an end.  I've been busy with other things and I didn't have a lot of time to research other interesting targets and I figured that even though my enthusiasm for imaging the Soap Bubble wasn't super high, I'd just let it rip until I finished it off. \r\n\r\nAs usual, the conditions at sunset often seemed really crummy and I got shut down by what seemed like a lot of cloudy weather.  So by the time I sat down to look at what I had collected, I was stunned to see that I had acquired nearly 100 useable images in the S2 band--and that a lot of it was surprisingly good.  The best frames achieved slightly under 1.5\" FWHM and a lot of the data was under 2.0\" pulling the median value to about 2.0\" (with an upper limit of 2.4\").  I was also surprised to see that over the three years, I had managed to snag over 90 hours of useable data!  That seems like a huge effort but in reality, this object and the region around it are so incredibly faint that without a LOT of data, it is very difficult to pull out a very clean image.\r\n\r\nThe big surprise (for me anyway) didn't happen until I was nearly finished processing the data.  I started wondering if I could somehow locate the star at the center and when I zoomed in--BINGO!  There it was, a bright blue faint star sitting right at the center.  Zoom in and take a look.  It is very easy to see.  The central star is very faint and after examining most of the Soap Bubble images on AB, I noticed that not very many images capture it.  \r\n\r\nThen, I got curious about its brightness.  A cursory search of the web didn't show anything so I pulled up the electronic star chart that I have in SkyTools3, which goes to 20th magnitude.  I centered the cursor but it was hard to tell in the chart exactly which star was which so I tried an interesting experiment.   I screen grabbed the chart and cut out an appropriate field from my image, dumped them into PI and used the StarAlignment tool with the chart as the reference.  PI didn't even hiccup and it immediately popped out a perfectly scaled and rotated version of my image so that I could overlay it perfectly on the star chart.  Revision F shows the result.  The catalog is missing a lot of stars and shows a number of multiple stars as a single star so it's not very accurate.  The nearest star to the center star is 19th magnitude but it's clearly quite a bit brighter than the center star.  So the center star is likely fainter than 20th magnitude.  I'll have to see if I can figure out how to measure it directly in my raw data (if I can see it in the unstacked images.)\r\n\r\nI ran into a common conundrum with this data set:  I couldn't decide on the level of cropping to display the Soap Bubble.  For one thing it's a region that is almost never imaged in SHO and there's more going on than I expected.  If you look around up close, you'll find a number of Bok globules, which are tight coalescing dust clouds that are thought to be (pre) pre-prototype stars.  There's even one in our line of sight with the Soap Bubble.  But the Soap Bubble gets a little lost in such a large  field (as in Rev B) so I finally decided to on a tighter crop to better highlight the Soap Bubble and the knots in the surrounding dust.  Let me know what works better.  As always C&C is welcome and I'm happy to try to answer any questions along the way.\r\n\r\nJohn\r\n\r\nPost Script (7-27-20):\r\nRev D shows the results of a little more research into the brightness of the central star.  PixInsight has a very nice feature that allows generating catalog stars from the VisieR catalog in France for different color channels to any magnitude limit that you like down to 25th magnitude.  I experimented a bit with this and was able to bound the brightness of the central star to between 18 and 18.5 magnitude in the b1mag catalog.  It is quite a blue star and does not appear in the red channel down to 25th magnitude.\r\n\r\nAs a side note, this catalog star generator is quite good!  In fact, it is so good and provides so much control over the output that it strikes me as an excellent way to generate a very good star mask.  As with most catalogs, it doesn't contain absolutely every star, but it looks at least as good as the star masks that I've produced from raw data, which are also missing stars!  Using all three channels from the R, G, B catalog data should be really good!",
+    "h": 3601,
+    "hash": "4bix0n",
+    "id": 503562,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 263,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.687",
+    "pixscale": "0.476",
+    "published": "2020-07-08T23:24:00.700702",
+    "ra": "303.841",
+    "radius": "0.337",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/503562/",
+    "revisions": [
+        "/api/v1/imagerevision/240570/",
+        "/api/v1/imagerevision/240622/",
+        "/api/v1/imagerevision/240648/",
+        "/api/v1/imagerevision/240661/",
+        "/api/v1/imagerevision/243327/"
+    ],
+    "subjects": [],
+    "title": "The Soap Bubble, PN G75.5+1.7 in SHO ...with a nice surprise",
+    "updated": "2021-06-07T22:51:03.180420",
+    "uploaded": "2020-07-08T05:14:18.024186",
+    "url_duckduckgo": "https://www.astrobin.com/4bix0n/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4bix0n/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4bix0n/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4bix0n/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4bix0n/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4bix0n/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4bix0n/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/5ceaca7b-81c5-4fc5-a8d7-aa8721b7cb3f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/5ceaca7b-81c5-4fc5-a8d7-aa8721b7cb3f-1594186346.jpg",
+    "url_thumb": "https://www.astrobin.com/4bix0n/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1071,
+    "w": 3601
+}

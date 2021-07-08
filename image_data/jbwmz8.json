@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "46.848",
+    "description": "Near the North America Nebula is a region rich with deep-sky objects. At the center of this image is an emission nebula cataloged Sh2-115, an area of hydrogen, sulfur, and oxygen gases surrounding an open star cluster, Berkeley 90. To the right is what appears to be a bright blue planetary nebula that was originally cataloged Abell 71 (PK 085+4.1). Upon further analysis the object is now consider part of the Sh2-115 complex and is cataloged Sh-116. On lower left of the image is Sh2-112, a star-forming region of gases and dust honeycombed with channels and Bok globules.\r\n\r\nThe data for this image were collected in 2018 using an SW Esprit 100 (FL 550mm) and in 2020 using a WO GT71 (FL 336mm). In other images where I combined data acquired using telescopes with different focal lengths, the wide field data served for color mapping and the narrow field provide structure and FOV via a luminance mask. In this image, however, I reversed that approach. The FOV of this image is the wide field data. The narrow field provides the detailed structure of Sh2-115 and Sh2-116. I used a combination of Pixinsight and Photoshop to combine the two data sets and feather out the seam between the images.",
+    "h": 3357,
+    "hash": "jbwmz8",
+    "id": 544319,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor",
+        "Sky-Watcher Esprit 100ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 118,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "305.163",
+    "pixscale": "2.302",
+    "published": "2020-11-24T05:43:58.154635",
+    "ra": "308.551",
+    "radius": "1.780",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/544319/",
+    "revisions": [],
+    "subjects": [
+        "PK085+04.1",
+        "Sh2-112",
+        "Sh2-115",
+        "Sh2-116"
+    ],
+    "title": "Sh2-112, Sh2-115, Berkeley 90, and Sh2-116 (Abell 71, PK 085+4.1)",
+    "updated": "2021-07-04T17:33:03.208180",
+    "uploaded": "2020-11-24T05:31:10.485671",
+    "url_duckduckgo": "https://www.astrobin.com/jbwmz8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jbwmz8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jbwmz8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jbwmz8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jbwmz8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jbwmz8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jbwmz8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/b3464a39-9928-4976-815b-7513c5019b9c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/b3464a39-9928-4976-815b-7513c5019b9c-1606196810.jpg",
+    "url_thumb": "https://www.astrobin.com/jbwmz8/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 368,
+    "w": 4440
+}

@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "42.030",
+    "description": "m63 captured in LHaRGB and processed in superlum_HaR_GB. Superlum is a composition of a true luminance and Synthetic one built from RGB frames selected with subframes selector script from PI.",
+    "h": 1764,
+    "hash": "zdqo73",
+    "id": 496759,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8 Celestar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810776/"
+    ],
+    "orientation": "89.296",
+    "pixscale": "0.613",
+    "published": "2020-06-11T20:13:56.877036",
+    "ra": "198.956",
+    "radius": "0.306",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496759/",
+    "revisions": [
+        "/api/v1/imagerevision/256110/",
+        "/api/v1/imagerevision/286945/",
+        "/api/v1/imagerevision/294243/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "PGC2186506",
+        "PGC2186546",
+        "PGC2187167",
+        "PGC46093",
+        "Sunflower Galaxy",
+        "Sunflower galaxy"
+    ],
+    "title": "m63(sunflower galaxy) Superlum_HaR_GB",
+    "updated": "2021-07-08T06:32:00.508500",
+    "uploaded": "2020-06-11T20:53:16.507915",
+    "url_duckduckgo": "https://www.astrobin.com/zdqo73/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zdqo73/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zdqo73/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zdqo73/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zdqo73/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zdqo73/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zdqo73/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32506/2020/acd4dad2-9ead-4d3a-b222-9a27ffb4788d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32506/2020/acd4dad2-9ead-4d3a-b222-9a27ffb4788d-1591910088.jpg",
+    "url_thumb": "https://www.astrobin.com/zdqo73/0/rawthumb/thumb/",
+    "user": "philippe_gilberton",
+    "views": 94,
+    "w": 3136
+}

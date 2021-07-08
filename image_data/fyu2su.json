@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "60.139",
+    "description": "Hi all, finally this is done! I've been swamped with life, but managed to finish the third image of my Squid series. The following writeup is a lot of the old info slightly updated but my lessons learnt from all the time spent on this target are at the bottom. It was hard to find the time to process this properly so I hope I can come back to it one day. Now to get my new QHY294M + CFW3-S-US setup going.\r\n\r\nThe Squid nebula (ou4) occupies over one degree of the night sky, representing the largest angular extent ever found in a planetary nebula. Known colloquially as the giant squid nebula, it is physically nearly 50 light years across.  This bipolar nebula could be one of the nearest of its type known, situated around 2300 light years away, though it being a planetary nebula needs confirmation.  Even though it is big and close, you're not likely to find it easily. It is an extremely faint nebula emitting primarily O3 signal and resides within the larger Flying Bat nebula (sh2-129) which tends to overshadow it, making it a challenging target to image.\r\n\r\nThe Squid shape is created by the outflow of material driven by a triple system of hot, massive stars catalogued as HR8119 (blue hypergiant) as well as the pulsating variable star v419 Cephei (red supergiant) seen near the center. While their shapes do their names justice, to me, the Squid seated within the Flying Bat more resembles a hand holding an infinity stone (viewed sideways) rather than a Bat carrying a bejeweled Squid on its back.\r\n\r\nSeeing the Squid situated within the Flying Bat (which apparently has been confirmed) brightly light up in Ha and S2 emissions makes for a fascinating study in contrast and perspective: Most people prefer to assume the head of the bat shape to be part on the bottom left when it is viewed right side up (aka sideways) but to me it's more natural to have the head be where the small blob of O3 is. This is especially so in the narrowfield framing of my second image, and viewing it sideways, small O3 blob pointing down, and pointing up, all offer something to contemplate. In the widefield framing however it is clear that what most people think is more correct since the wings of the Bat go back a long way.\r\n\r\nThe Flying Bat and Squid project/series became a huge undertaking for me, ending up with a total of more than 131 hours in the final integrated widefield image of both objects and three series of images, with a few versions in each, depending on the data set used for the integration. The three series are Squid by itself, narrowfield, and widefield.\r\n\r\nIn the Squid by itself series (https://www.astrobin.com/jdaa90/), which was done first, I am showcasing the O3 filter data only, with and without RGB stars.  The mono Squid imaged with the Takahashi FC100DF consists of ~53 hours of total exposure in O3, making it my single longest total exposure of a target with a particular framing with a specific filter/scope/camera combination.  The RGB data collected using the QHY247C with the SV70T adds another two hours to the exposure.  The total integration for the version with RGB stars is ~55 hours.  I also captured another 5.5 hours of O3 data using my SV70T which I added in while creating the narrowfield version by reprocessing using LocalNormalization and Drizzle (which were a big help to me in combining the data for narrowfield and widefield series).\r\n\r\nThere are several versions of the Squid by itself with full capture details. The difference between the two monochrome versions of the Squid is the application of HDR Multiscale Transform which reduces the halo on the central star as well as the amount of data used: (A) is based on the full ~53 hours whereas (B) is based on the best 40 hours.  (C) and (D) are corresponding versions that combine O3 in the blue channel with RGB stars along with changes in the amount of saturation and brightness. Similarly with (E) and (F), but the Squid is in monochrome mixed with the RGB stars background. Finally, the last image is the re-processed O3 version with and without RGB stars representing ~58 and ~60 hours worth of data.\r\n\r\nFollowing the Squid-only series, I worked on the narrowfield (https://www.astrobin.com/hg1c5d/) and widefield (https://www.astrobin.com/fyu2su/) series where it is situated between the wingspan of Flying Bat. I started with data from the FC100DF/QHY163M combination which results in a total exposure of 78+ hours for SHO. The SV70T/QHY163M data used for the widefield framing representing another 51+ hours was also integrated in. The RGB data using the QHY247C with the SV70T adds another two hours.  The total exposure of the final image with the narrowfield or widefield framing is 131+ hours, my longest to date!\r\n\r\nFor narrowfield series, I struggled with colour. The Ha (A), the S2 (B), and the L versions that include the O3 data (with and without stars, C and D) are my favourites.  The final colour versions were processed additionally using TopazStudio (with and without stars, E and F).\r\n\r\nThe widefield series (https://www.astrobin.com/fyu2su/) follows a similar trajectory: there's the Ha (A) and the full L (B), two versions with about 80 hours of data from the SV70T only (C) and the full 131 hours with RGB stars (D), a full version with PixInsight processing only (E), and the corresponding starless versions (F, G), followed by a hybrid with reduced stars (H). As I write above I was trying to create both a narrowfield and a widefield version using two scopes with different FOVs and then integrating all the data in the hopes of producing a better image. I cannot say that the experiment was a success, but I wouldn't call it a failure either: I believe I put in enough time in each of these framings to having them stand on its own. If there's a single image that slightly benefitted from this approach, it's the narrowfield one where the overlap was near 100%. Because I used a shifted FOV you can see slight lines where the images combined but overall I think PixInsight integrated all the data quite well. So some pluses and minuses to this approach, nothing definitive, which seems to be the case generally.\r\n\r\nAs always, thanks for looking!",
+    "h": 9192,
+    "hash": "fyu2su",
+    "id": 596654,
+    "imaging_cameras": [
+        "QHYCCD QHY247C",
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FC-100DF",
+        "Stellarvue SV70T"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 97,
+    "link": "http://ram.org/images/space/scope/1.4+7.4.5+6/ou4_sh2-129_wf_c_lshorgb_2193m+3489m+2060m+120m_7876m_131h.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807410/"
+    ],
+    "orientation": "43.543",
+    "pixscale": "1.157",
+    "published": "2021-06-13T04:43:54.578089",
+    "ra": "316.938",
+    "radius": "1.852",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/596654/",
+    "revisions": [
+        "/api/v1/imagerevision/291026/",
+        "/api/v1/imagerevision/291028/",
+        "/api/v1/imagerevision/291029/",
+        "/api/v1/imagerevision/291031/",
+        "/api/v1/imagerevision/291032/",
+        "/api/v1/imagerevision/291033/",
+        "/api/v1/imagerevision/291034/"
+    ],
+    "subjects": [
+        "Sh2-129"
+    ],
+    "title": "Flying Bat and Squid nebulae Sh2-129/Ou4 widefield (c-shorgb)",
+    "updated": "2021-06-20T12:38:25.773204",
+    "uploaded": "2021-06-13T03:48:53.120683",
+    "url_duckduckgo": "https://www.astrobin.com/fyu2su/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fyu2su/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fyu2su/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fyu2su/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fyu2su/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fyu2su/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fyu2su/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23513/2021/fc44bc02-9bd4-4d0e-abff-0dae011b7b97.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23513/2021/fc44bc02-9bd4-4d0e-abff-0dae011b7b97-1623557604.jpg",
+    "url_thumb": "https://www.astrobin.com/fyu2su/0/rawthumb/thumb/",
+    "user": "ramdom",
+    "views": 279,
+    "w": 6948
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "56.591",
+    "description": "",
+    "h": 2685,
+    "hash": "5vzs43",
+    "id": 515112,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "91.715",
+    "pixscale": "0.470",
+    "published": "2020-08-16T00:45:11.978945",
+    "ra": "13.308",
+    "radius": "0.281",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/515112/",
+    "revisions": [
+        "/api/v1/imagerevision/249828/"
+    ],
+    "subjects": [
+        "IC 1590",
+        "NGC 281"
+    ],
+    "title": "NGC 281 SHO",
+    "updated": "2021-03-16T22:50:51.624131",
+    "uploaded": "2020-08-16T01:45:12.280652",
+    "url_duckduckgo": "https://www.astrobin.com/5vzs43/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5vzs43/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5vzs43/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5vzs43/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5vzs43/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5vzs43/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5vzs43/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/e2ca5c18-f79e-4175-b37e-b17db5e6dc5f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/e2ca5c18-f79e-4175-b37e-b17db5e6dc5f-1597543123.jpg",
+    "url_thumb": "https://www.astrobin.com/5vzs43/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 262,
+    "w": 3368
+}

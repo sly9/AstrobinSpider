@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 70,
+    "comments": 64,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "<i>Here is my largest and most challenging project, reprocessed. The 69-panel mosaic was captured in 2018, but I decided have another go at it using improved techniques in 2020. The basic calibrated light frames are the same, but it was completely re-stitched and re-processed. I belive the overall result improved a lot compared to <a href=\" https://astrob.in/395000/0/\" target=\"_blank\">the original</a> What do you think? Share your thoughts in the comments! </i>\r\n\r\nThis image presents the Milky Way, our Cosmic Home. More specifically, it is a extremely wide field mosaic of the center of our galaxy as seen from Earth, pointing towards the constellations Scorpius, Sagittarius and Ophiuchus. The field spans some 60 degrees (120 full moons), and crosses the Zenith from Southern latitudes in a breathtaking view.\r\n\r\nThe Milky Way has arisen Humanity's questioning since Ancient times. Under the beauty of the unspoiled night skies, our ancestors wondered:\r\n\r\n\"[...] the !Kung Bushmen of the Kalahari Desert in Botswana have an explanation for the Milky Way, which at their latitude is often overhead. They call it ‘the backbone of night,’ as if the sky were some great beast inside which we live.\" [1] [...] \"Thomas Wright marveled in 1750 that Democritus had believed the Milky Way to be composed mainly of unresolved stars: ‘long before astronomy reaped any benefit from the improved sciences of optics' [...] Beyond the Milk of Hera, past the Backbone of Night, the mind of Democritus soared.\" [2]\r\n\r\nCarl Sagan puts it brilliantly in Cosmos. It was Galileo who first pointed the telescope and saw myriads of stars that made the bright clouds overhead. Today we know the white river in the sky is actually made of billions of unresolved stars! We know a lot about our galaxy, but there is much to be still discovered. In our quest of existence and understanding, we try to better understand the universe we are all part of.\r\n\r\nTo me, this deep connection to the night skies, that goes way back into the history of mankind, is a kernel of awe and inspiration. But, unfortunately, many people today don’t see this vista, as light pollution spoil the view. By photographing these deep sky objects, I can share some of the Night skies' beauty to everyone, and hopefully inspire them to go and experience a dark sky someday.\r\n__________________________________\r\n\r\nThis is my largest and most challenging project yet. It was a challenge to plan, capture and process. The image was planned to be a 8x8 panel mosaic. Three panels were captured from MG, and the other 61 took most of my time at the 11th Brazilian Astrophotography Meeting (EBA), some 1000km away, in GO. Framing was Go-To assisted, manually changed every 5 minutes or so, but without plate-solving. As I came back, I noticed a ‘hole’ in the mosaic, result of imperfect Go-To sync. Later that month, back to Cristina, I captured 5 \"filler\" frames, that completed the shooting process. Then it was time to process all the data. I tried many approaches and workflows, consuming probably some 300 machine hours of testing and processing. APP couldn't handle the full mosaic because my RAM was not enough. The result was not perfect as the overlap was quite small (~15%), but I decided I had to finish the project. \r\n\r\nWorkflow: [APP] Integration of each panel, saved as FITS => TIFF16b => [PS] Scripted simple non-linear curve stretch => [ICE] Mosaic stitching (stereographic) saved as TIFF => [PI] Contrast and colour adjustments globally; Starless processes => [PS+Nik] Further processing and finalization\r\n\r\nThat's the result of 5 nights of shooting, 10GB of RAW frames, some 200GB of intermediate files (calibrated FITS, stretched TIFFs), some 300 computer hours and 10h of active post-processing. Here I present a 30% resize that is still 20MP, for practical purposes. \r\n\r\nConstructive criticism, comments and suggestions are more than welcome in the comments section.\r\n\r\nDates: 8, 11, 13, 14 and 30 July 2018\r\nLocations: MG and 11th EBA, GO, Brazil. Dark-Rural Skies (Bortle 2-3-4, calculated SQM ~21.4-21.7)\r\nCamera: Canon EOS T5/1200D (mod) at ISO 800\r\nOptics: Samyang 135mm f/2 operated at f/2.4 and f/2.8\r\nMount: Sky-Watcher HEQ5, tracking, guiding\r\nExposure Detail: 69-panel mosaic, each 1-2x120s; total 135x120s = 270 min\r\n\r\n[1] Carl Sagan, COSMOS, \"The Backbone of Night\", pp. 179; [2] Carl Sagan, COSMOS, \"The Backbone of Night\", pp. 189\r\n\r\n<b> *** Português - O Coração da Via L´áctea, a Espinha Dorsal da Noite  ***</b>\r\n\r\nEsta imagem apresenta a Via Láctea, o nossa Casa Cósmica. É um mosaico de campo extremamente amplo do centro da nossa galáxia como visto da Terra, apontando para as constelações de Escorpião, Sagitário e Ofiúco. O campo abrange cerca de 60 graus (120 luas cheias) e cruza o zênite das latitudes sul, em uma vista de tirar o fôlego.\r\n\r\nA Via Láctea tem surgido questionamento da Humanidade desde os tempos antigos. Sob a beleza dos céus noturnos intocados, nossos ancestrais se perguntaram:\r\n\r\n\"[...] os !Kung do Deserto de Kalahari, em Botswana, têm uma explicação para a Via Láctea, que na sua latitude está muitas vezes acima deles. Eles chamam de \"a espinha dorsal da noite\", como se o céu fosse um grande animal no qual vivemos \". [1] [...] \"Thomas Wright maravilhou-se em 1750 que Demócrito acreditava que a Via Láctea era composta principalmente de estrelas não resolvidas: 'muito antes da astronomia colher qualquer benefício das melhores ciências da óptica' [...] Além do leite de Hera, passado a Espinha Dorsal da Noite, elevou-se a mente de Demócrito\". [2]\r\n\r\nCarl Sagan coloca brilhantemente no Cosmos. Galileu quem apontou o telescópio pela primeira vez e viu milhares de estrelas que formam as nuvens brilhantes no céu. Hoje sabemos que o \"rio de leite\" no céu é na verdade feito de bilhões de estrelas não resolvidas! Nós sabemos muito sobre nossa galáxia, mas ainda há muito a ser descoberto. Em nossa busca da existência, tentamos entender melhor o universo do qual todos fazemos parte.\r\n\r\nPara mim, essa conexão profunda com os céus noturnos, que remontam à história da humanidade, é uma semente de admiração e inspiração. Mas, infelizmente, muitas pessoas hoje não veem essa vista, já que a poluição luminosa ofusca a vista. Ao fotografar esses objetos do céu profundo, posso compartilhar um pouco da beleza dos céus com todos e espero inspirá-los a ir experimentar um céu escuro algum dia.\r\n_____________________________________________\r\n\r\nEste é o meu maior projeto até agora. Foi um desafio planejar, capturar e processar. A imagem foi planejada para ser um mosaico de 8x8 painéis. Três foram capturados no MG, e os outros 61 levaram a maior parte do meu tempo no 11º Encontro Brasileiro de Astrofotografia (EBA), a cerca de 1000 km de distância, em GO. Todo o enquadramento foi assistido com Go-To, mudando manualmente o quadro (via PC) a cada 5 minutos, mas sem plate solving. Quando voltei, notei um buraco no mosaico, resultado da sincronização imperfeita. Mais tarde naquele mês, de Cristina, capturei 5 quadros extras, que completaram a captura. Então chegou a hora de processar todos os dados. Eu tentei muitas abordagens e fluxos de trabalho, consumindo provavelmente cerca de 200 horas de teste e processamento. O APP não conseguiu lidar com o mosaico completo porque minha RAM não era suficiente. O resultado não foi perfeito, pois a sobreposição era muito pequena (~ 15%), mas eu decidi que tinha que terminar o projeto.\r\n\r\nEsse é o resultado de 5 noites de captura, 10GB de fotos RAW, cerca de 200GB de arquivos intermediários (FITS calibrados, TIFFs etc), cerca de 300 horas-máquina no PC e 10 horas de pós-processamento ativo.",
+    "h": 4084,
+    "hash": "shwgfi",
+    "id": 473539,
+    "imaging_cameras": [
+        "Canon EOS Rebel T5/1200D"
+    ],
+    "imaging_telescopes": [
+        "Samyang 135 f/2",
+        "Samyang 135mm f/2 ED UMC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 418,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-05T20:11:42.980307",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/473539/",
+    "revisions": [
+        "/api/v1/imagerevision/224335/"
+    ],
+    "subjects": [],
+    "title": "The Heart of the Milky Way - The Backbone of Night",
+    "updated": "2021-06-26T13:51:26.710879",
+    "uploaded": "2020-04-05T21:11:44.742335",
+    "url_duckduckgo": "https://www.astrobin.com/shwgfi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/shwgfi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/shwgfi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/shwgfi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/shwgfi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/shwgfi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/shwgfi/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/shwgfi/0/rawthumb/thumb/",
+    "user": "grsotnas",
+    "views": 2558,
+    "w": 5297
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "28.124",
+    "description": "The Spaghetti Nebula as a deep widefield Ha-OIII bi-color.\r\n\r\nStarting with a standard HOO rendering and then to enhance the view of the filamentary details, I created a synthetic green channel from a blend of OIII and the square of Ha, producing a hue shift from reds toward oranges and yellows in the brighter Ha regions.\r\n\r\nOther objects include LBN 827 (DG 84), Czernik 23 and OCL 433, and also the tiny planetary Pu 1. For its location, see:\r\n\r\nhttps://www.astrobin.com/6wz9eg/B\r\n\r\nBrighter stars in the OIII suffer from halos, and overall the stars and my star mask need some attention toward a second revision, but this first version is nonetheless satisfying.\r\n\r\nFWHM is stated in pixels.",
+    "h": 6176,
+    "hash": "mx1jg6",
+    "id": 546894,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star71-II"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 248,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814650/"
+    ],
+    "orientation": "3.624",
+    "pixscale": "2.239",
+    "published": "2020-12-02T22:37:49.908119",
+    "ra": "85.353",
+    "radius": "3.472",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546894/",
+    "revisions": [],
+    "subjects": [
+        "136 Tau",
+        "PK178-02.1",
+        "PK181+00.1",
+        "Sh2-240",
+        "Sh2-242",
+        "The star 136Tau"
+    ],
+    "title": "Sh2-240 in 57 Megapixels",
+    "updated": "2021-07-07T19:58:13.068788",
+    "uploaded": "2020-12-02T22:15:16.913083",
+    "url_duckduckgo": "https://www.astrobin.com/mx1jg6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mx1jg6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mx1jg6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mx1jg6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mx1jg6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mx1jg6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mx1jg6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/69001/2020/d374f25e-3c76-4257-93dd-d78e5b5578a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/69001/2020/d374f25e-3c76-4257-93dd-d78e5b5578a9-1606948591.jpg",
+    "url_thumb": "https://www.astrobin.com/mx1jg6/0/rawthumb/thumb/",
+    "user": "JimLindelien",
+    "views": 1009,
+    "w": 9304
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 38,
+    "data_source": "BACKYARD",
+    "dec": "54.826",
+    "description": "NGC 3733 and several neighbors are located in Ursa Major. \r\nReally busy part of the sky with lot of galaxies and Quasars.\r\n A bit difficult to image due to the bright star.\r\nLuminance imaged on April 14, 15 (both the seeing and transparence mediocre)\r\nColour imaged on April 17 (bad conditions with high clouds)\r\nOriginal version without Quasar annotations",
+    "h": 1232,
+    "hash": "m78tde",
+    "id": 478664,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "358.630",
+    "pixscale": "1.210",
+    "published": "2020-04-18T14:47:18.742975",
+    "ra": "173.798",
+    "radius": "0.388",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478664/",
+    "revisions": [
+        "/api/v1/imagerevision/227045/"
+    ],
+    "subjects": [
+        "NGC 3733",
+        "NGC 3737",
+        "NGC 3759"
+    ],
+    "title": "NGC 3733 and 18 Quasars",
+    "updated": "2021-03-17T03:03:55.024790",
+    "uploaded": "2020-04-18T14:57:40.424517",
+    "url_duckduckgo": "https://www.astrobin.com/m78tde/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m78tde/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m78tde/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m78tde/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m78tde/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m78tde/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m78tde/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/680e18a7-f18d-4bac-833f-959c6d899f74.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/680e18a7-f18d-4bac-833f-959c6d899f74-1587222314.png",
+    "url_thumb": "https://www.astrobin.com/m78tde/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 582,
+    "w": 1952
+}

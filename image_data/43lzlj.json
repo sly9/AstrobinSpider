@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is a falscolor re-processing to more clearly show the parts of the comet nucleus.\r\n\r\nResolution ........................ 0.614 arcsec/px\r\nObservation start time ... 2020-04-11 19:43:28 UTC\r\nObservation end time .... 2020-04-11 20:33:56 UTC\r\nFocal distance .................. 6048.20 mm\r\nPixel size ........................... 18.00 um",
+    "h": 447,
+    "hash": "43lzlj",
+    "id": 476873,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "Philipp Keller (Astrooptik) RC 900mm F/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808903/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-13T14:40:40.102790",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476873/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet C/2019 Y4 (ATLAS) breakup in pieces",
+    "updated": "2021-03-17T03:13:36.211003",
+    "uploaded": "2020-04-13T15:40:40.225099",
+    "url_duckduckgo": "https://www.astrobin.com/43lzlj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/43lzlj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/43lzlj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/43lzlj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/43lzlj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/43lzlj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/43lzlj/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/43lzlj/0/rawthumb/thumb/",
+    "user": "Michael_Deyerler",
+    "views": 179,
+    "w": 642
+}

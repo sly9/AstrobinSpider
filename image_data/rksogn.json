@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.141",
+    "description": "My NGC7822 attempt with SHO colors and natural stars from RGB frames\r\n\r\n\r\nNGC 7822 is a young star forming complex in the constellation of Cepheus. The complex encompasses the emission region designated Sharpless 171, and the young cluster of stars named Berkeley 59. The complex is believed to be some 800–1000 pc distant, with the younger components aged no more than a few million years. The complex also includes one of the hottest stars discovered within 1 kpc of the Sun, namely BD+66 1673, which is an eclipsing binary system consisting of an O5V that exhibits a surface temperature of nearly 45,000 K and a luminosity about 100,000 times that of the Sun. The star is one of the primary sources illuminating the nebula and shaping the complex's famed pillars of creation-type formations\r\n\r\nBD + 66 1673 or V747 Cephei is an eclipsing binary star of the constellation Cepheus, composed of a blue star of the main sequence of spectral type O5.5V and a blue-white star of the main sequence2. It is located in the nebula NGC 7822 and is the hottest star in the open cluster Berkeley 59, which is only about 2 million years old.\r\n\r\nHave a look at the binary star system  BD+66 1673 =>\r\n alpha= 00h 01m 46,86792s   and delta=:  67° 30′ 25,1022″\r\nMagnituyde : 10.7\r\n\r\n\r\n50 Halpha subs @300s gain 100 and -15°C\r\n48 OIII subs @300s gain 100 and -15°C\r\n50 SII subs @300s gain 100 and -15°C\r\n\r\n20 Blue subs @180s gain 100 and -15°C\r\n20 Green subs @180s gain 100 and -15°C\r\n20 Red subs @180s gain 100 and -15°C\r\n\r\nTotal exposure = 15.5 hours",
+    "h": 7390,
+    "hash": "rksogn",
+    "id": 550381,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "270.470",
+    "pixscale": "0.639",
+    "published": "2020-12-17T21:46:36.604801",
+    "ra": "0.792",
+    "radius": "0.861",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/550381/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171",
+        "V0961 Cep"
+    ],
+    "title": "NGC7822 in Cepheus",
+    "updated": "2021-06-13T00:46:32.244791",
+    "uploaded": "2020-12-17T21:20:00.603945",
+    "url_duckduckgo": "https://www.astrobin.com/rksogn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rksogn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rksogn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rksogn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rksogn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rksogn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rksogn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/d2918751-d32f-47e4-817a-24626ddf7f58.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/d2918751-d32f-47e4-817a-24626ddf7f58-1608240378.jpg",
+    "url_thumb": "https://www.astrobin.com/rksogn/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 208,
+    "w": 6288
+}

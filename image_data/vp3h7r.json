@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "20.569",
+    "description": "NGC 2174 is an emission nebula in Orion. In my rendition, the blue face contains the star cluster NGC 2175.\r\n\r\nI used the follow tri-band expression to create a natural palette for this image:\r\nR: 0.4 * SII + 0.6 * Ha\r\nG: 0.4 * Ha + 0.6 * OIII\r\nB: OIII\r\n\r\nI did take some RGB star data, but it didn't add anything to this image, so I did not include it. I used drizzle integration to recapture some resolution (I am slightly under sampled) and then re-sampled the image to about 1.5 x the original sensor dimensions. \r\n\r\nAcquisition Details:\r\nDates: 1/5/2021 - 1/7/2021\r\nGain 200, temp -20C, 2x2 binning\r\nHa: 128 x 240 sec\r\nSII: 128 x 240 sec\r\nOIII: 128 x 240 sec\r\nTotal integration time: 25.6 hours",
+    "h": 4042,
+    "hash": "vp3h7r",
+    "id": 559400,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX 130T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804732/"
+    ],
+    "orientation": "25.896",
+    "pixscale": "0.691",
+    "published": "2021-01-19T03:55:09.008871",
+    "ra": "92.464",
+    "radius": "0.657",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559400/",
+    "revisions": [],
+    "subjects": [
+        "IC2159",
+        "Monkey Head Nebula",
+        "NGC 2174",
+        "NGC 2175",
+        "NGC2174",
+        "NGC2175",
+        "Sh2-252"
+    ],
+    "title": "NGC 2174 (Monkey Head) in Narrow Band",
+    "updated": "2021-05-12T16:07:03.861586",
+    "uploaded": "2021-01-19T03:27:54.868011",
+    "url_duckduckgo": "https://www.astrobin.com/vp3h7r/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vp3h7r/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vp3h7r/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vp3h7r/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vp3h7r/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vp3h7r/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vp3h7r/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15584/2021/f52b8507-190d-46bf-b448-0f45ce89daf8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15584/2021/f52b8507-190d-46bf-b448-0f45ce89daf8-1611027405.jpg",
+    "url_thumb": "https://www.astrobin.com/vp3h7r/0/rawthumb/thumb/",
+    "user": "andrewjbarton",
+    "views": 145,
+    "w": 5533
+}

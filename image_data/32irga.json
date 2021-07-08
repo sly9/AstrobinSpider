@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.335",
+    "description": "Together with my friend's FSQ106, I moved my TOA130 setup to DSNM to setup a remote side by side rig last month. We 4 friends formed a very good imaging team. Preparation went on for a couple months. We impressed ourselves how we finally managed to drive 30+ hours in total in one day and still assembled everything first night and opened light around 2am. \r\n \r\nThe pictures are coming back now almost every night. I'd thank DSNM owner to host us, thank the roommates to share the space, setup and valuable experience, and thank my friends for the teamwork we all appreciate. \r\n\r\nFor this NGC 1333 picture, I tried 3 different workflows and this is by far the best from me. I started to use starnet++ with masks to not to leave artefacts for bright ones. I tried to use the Topaz tool to tackle the noises more intelligently. Finally I forced myself to use PixInsight as much as possible. I hope you all enjoy it!\r\n\r\n<br>\r\n<I>#TeamNoctuaDSNM</I>",
+    "h": 4265,
+    "hash": "32irga",
+    "id": 541818,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.158",
+    "pixscale": "1.149",
+    "published": "2020-11-22T23:20:25.780532",
+    "ra": "52.255",
+    "radius": "1.227",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/541818/",
+    "revisions": [
+        "/api/v1/imagerevision/261419/"
+    ],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "NGC 1333",
+    "updated": "2021-06-11T06:34:36.950069",
+    "uploaded": "2020-11-16T18:51:05.405532",
+    "url_duckduckgo": "https://www.astrobin.com/32irga/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/32irga/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/32irga/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/32irga/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/32irga/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/32irga/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/32irga/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25460/2020/db651f45-77af-43bf-8837-39ce1cf47ab6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25460/2020/db651f45-77af-43bf-8837-39ce1cf47ab6-1607638485.jpg",
+    "url_thumb": "https://www.astrobin.com/32irga/0/rawthumb/thumb/",
+    "user": "nodustab",
+    "views": 265,
+    "w": 6397
+}

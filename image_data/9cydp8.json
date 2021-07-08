@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-18.873",
+    "description": "LRGB proces: \r\nCapture time L: 120 min , Red: 500 min Green: 250 min BLue:  460 min\r\nLights: 10 min",
+    "h": 1622,
+    "hash": "9cydp8",
+    "id": 475740,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Cool CMOS Camera"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVS130 f5 Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808626/"
+    ],
+    "orientation": "85.297",
+    "pixscale": "1.153",
+    "published": "2020-04-11T02:22:31.159861",
+    "ra": "180.459",
+    "radius": "0.497",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/475740/",
+    "revisions": [],
+    "subjects": [
+        "Antennae",
+        "Antennae Galaxies",
+        "NGC 4038",
+        "NGC 4039",
+        "NGC4038",
+        "NGC4039"
+    ],
+    "title": "NGC 4038 & NGC 4039 Antennae Galaxies",
+    "updated": "2021-05-09T19:12:30.990768",
+    "uploaded": "2020-04-11T03:22:31.331074",
+    "url_duckduckgo": "https://www.astrobin.com/9cydp8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9cydp8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9cydp8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9cydp8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9cydp8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9cydp8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9cydp8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26190/2020/0dbf8018-7b6e-40ed-86fc-6415c64aa53a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26190/2020/0dbf8018-7b6e-40ed-86fc-6415c64aa53a-1586575952.jpg",
+    "url_thumb": "https://www.astrobin.com/9cydp8/0/rawthumb/thumb/",
+    "user": "JAIME.FELIPE",
+    "views": 109,
+    "w": 2647
+}

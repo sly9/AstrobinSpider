@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "62.449",
+    "description": "70x1200s Ha\r\n80x1200s OIII\r\nRGB average 8h",
+    "h": 1522,
+    "hash": "oqoo51",
+    "id": 529242,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service TS APO 100 Q"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 218,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811638/"
+    ],
+    "orientation": "177.060",
+    "pixscale": "2.218",
+    "published": "2020-10-02T07:45:39.957995",
+    "ra": "359.888",
+    "radius": "0.755",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/529242/",
+    "revisions": [
+        "/api/v1/imagerevision/252926/",
+        "/api/v1/imagerevision/252927/",
+        "/api/v1/imagerevision/252928/"
+    ],
+    "subjects": [
+        "The star 9Cas"
+    ],
+    "title": "CTB1 / Abell 85 / SNR G116.9+00.1 / LBN 576",
+    "updated": "2021-07-05T04:22:39.506697",
+    "uploaded": "2020-10-02T08:19:45.441516",
+    "url_duckduckgo": "https://www.astrobin.com/oqoo51/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/oqoo51/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/oqoo51/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/oqoo51/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/oqoo51/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/oqoo51/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/oqoo51/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41770/2020/3d58a5dc-b272-4141-a843-819852522e2a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41770/2020/3d58a5dc-b272-4141-a843-819852522e2a-1602015806.jpg",
+    "url_thumb": "https://www.astrobin.com/oqoo51/0/rawthumb/thumb/",
+    "user": "Tayson",
+    "views": 962,
+    "w": 1920
+}

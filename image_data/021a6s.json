@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.214",
+    "description": "Another version :  I re- processed  the HII region , to get more details and colors.\r\nI  also tried a rotated framing, tell me what you think ?\r\n\r\n\r\nIntégration: 19.7 Heures \r\n-----------------------\r\nA new version to enhance the optical jets around M51.\r\nI added 4 more hours of luminance (from the 6 taken) to get these extension jets on both sides of the galaxy, and a complete reprocess ...\r\n\r\n2 nights added : 28/29, 31 march 2020,\r\n77 Light subs added @180s gain zero and -20°C\r\n-------------\r\n\r\n4 nights : 10/11 , 14/15 april 2020 and 2 nights in 2019 for Halpha\r\n\r\n69 Light subs @180s gain zero and -20°C and\r\n\r\n121 Halpha subs @300s gain 139 and -20°C with newton 250/1000\r\n20 Blue subs @180s gain zero and -20°C\r\n20 Green subs @180s gain zero and -20°C\r\n20 Red subs @180s gain zero and -20°C",
+    "h": 2361,
+    "hash": "021a6s",
+    "id": 481581,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm",
+        "LACERTA 250/1000 F4 LACERTA NEWTON"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 145,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "302.425",
+    "pixscale": "0.652",
+    "published": "2020-04-25T08:37:26.110406",
+    "ra": "202.476",
+    "radius": "0.302",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/481581/",
+    "revisions": [
+        "/api/v1/imagerevision/229167/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool Galaxy",
+        "Whirlpool galaxy"
+    ],
+    "title": "Whirlpool Galaxy M51  - HII nodules enhanced",
+    "updated": "2021-06-24T15:03:33.662101",
+    "uploaded": "2020-04-25T09:23:06.927290",
+    "url_duckduckgo": "https://www.astrobin.com/021a6s/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/021a6s/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/021a6s/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/021a6s/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/021a6s/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/021a6s/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/021a6s/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/ffe4c35b-818d-406d-8faf-31492a83f1c8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/ffe4c35b-818d-406d-8faf-31492a83f1c8-1587806759.jpg",
+    "url_thumb": "https://www.astrobin.com/021a6s/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 565,
+    "w": 2361
+}

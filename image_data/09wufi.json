@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 37,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.784",
+    "description": "Messier 74 (NGC 628) is a challenging visual object and for that reason, it's sometimes called the Phantom Galaxy.  M74 has an apparent magnitude of 10.0 but it has a very low surface brightness, which places it among the most difficult Messier objects for visual observers.  It's a face-on SA(s)c spiral galaxy in the constellation Pisces at a distance of about 32 million light-years.  If you look carefully, you can see that this galaxy has two well defined spiral arms, which makes it a classic example of a \"grand design\" spiral galaxy.   At about 10 arc-minutes, its relatively large angular size, detailed structure, and colors make it an excellent object for long focal length imaging.  M74 has been the subject of extensive study on how spiral density waves form and how they influence spiral arm structure.  M74 is estimated to contain about 100 billion stars.\r\n\r\nOn March 22, 2005, astronomers using the Chandra X-ray Observatory observed an ultra-luminous X-ray source (ULX) in M74 radiating more X-ray power than a neutron star in periodic intervals of around two hours.  With an estimated mass of around 10,000 Suns, this is an indicator of an intermediate-mass black hole falling somewhere in between the size of stellar black holes and the massive black holes theorized to reside in the center of many galaxies. Because of this, ULX objects are believed to form not from single stars, but from a number of lesser stellar black holes in a star cluster.\r\n\r\nThis image ends a fairly long imaging dry-spell; but it wasn't for the lack of trying.  Over the summer, I gathered a lot of data but a lot of it was either no good, poorly framed, or too hard to process into something presentable.  I also got caught up in work on my new 20\" system.  That project is currently dead in the water with some optical issues but that's a different story and I'll post more about it when I get it fixed.  \r\n\r\nAlong the way, my PC out at DSW suddenly went radio-silent.  I could not get it to connect to Chrome Remote Desktop so one of the guys at the observatory helped me out by putting a monitor on it.  He couldn't get it to show anything but a blank screen so I had to assume that it was dead.  Sheeze...I have the worst luck with PCs!  This is the 4th or 5th PC that I've had on that scope in 3 years.  Whatever--I quickly ordered a new PC, which took a few weeks.  When it arrived, I spent a day reloading and configuring for the scope and the next day I headed out to New Mexico.  When I arrived at the observatory, I hooked up a monitor and keyboard and confirmed that the PC indeed appeared to be dead so I spent an afternoon installing the new PC.  (My control box was an early design and I stupidly mounted the PC below everything so replacing the PC requires pulling absolutely everything apart.).  I cleaned up and serviced the mount and scope and left it ready for another 6-10 months of unattended operation.  And of course, as soon as I got my system back up and running, the main router in the DSW Alpha observatory failed taking the whole facility down for about a week.  It's always something.   :-p\r\n\r\nTwo interesting things came out of this whole adventure.  First, when I got the dead PC home, I immediately got it to boot in SAFE mode and after that it would boot normally.  Go figure.  I then ran it for about 4 weeks on my bench without a single glitch!  My guess is that something might have failed on the boot sector of the main SSD drive so I'm about to install a new, much larger boot drive.  I'll probably also convert it from Win7 Pro to Win10 Pro to be compatible with my two other imaging PCs.  Second, after replacing the PC with a new one running Win10 Pro, the occasional problems with my system hanging due to a \"Waiting...\" error have gone away.  The system now runs every single night through a full sequence without any problems.  This is HUGE!  I have struggled with this problem for years.  If I had known that swapping PCs and/or operating systems would fix this problem, I would have done it a long time ago.  The only glitch that I ran into during my service visit was that updating the low-level control code in my AP1600 mount destroyed its ability to communicate via USB.  The folks at AP told me that was impossible so I was left with new problem that I couldn't resolve.  Fortunately it works perfectly via a network connection so I gave up trying to solve the USB problem.\r\n\r\nOnce I was past all the problems, I was able to take the data for this image relatively quickly.  A few nights were the best that I've seen in a long time and I saw FWHM around 1.5 arc-sec from 20 minute exposures.  I would have liked to grab another 5-10 hours of data but I basically abandoned the project as the seeing conditions gradually deteriorated.  To be honest, this image started out as a quick processing check just to see what else I might need and at the end of the day, I decided to set it free.  Let me know what you think.  It's been a long time and so I alway appreciate any feedback.  Hopefully I didn't screw it up too badly.\r\n\r\nJohn",
+    "h": 3200,
+    "hash": "09wufi",
+    "id": 541785,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 260,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.766",
+    "pixscale": "0.477",
+    "published": "2020-11-16T21:05:31.663656",
+    "ra": "24.176",
+    "radius": "0.300",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/541785/",
+    "revisions": [
+        "/api/v1/imagerevision/260500/",
+        "/api/v1/imagerevision/261595/"
+    ],
+    "subjects": [
+        "M 74",
+        "M74",
+        "NGC 628"
+    ],
+    "title": "M74--A Colorful Phantom",
+    "updated": "2021-05-05T15:22:29.801972",
+    "uploaded": "2020-11-16T17:37:22.144471",
+    "url_duckduckgo": "https://www.astrobin.com/09wufi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/09wufi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/09wufi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/09wufi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/09wufi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/09wufi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/09wufi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/e7d07543-78aa-4d26-8741-7b6c2879cf4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/e7d07543-78aa-4d26-8741-7b6c2879cf4b-1605548913.jpg",
+    "url_thumb": "https://www.astrobin.com/09wufi/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 900,
+    "w": 3200
+}

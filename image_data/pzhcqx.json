@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "56.338",
+    "description": "A rare stretch of good seeing persisted for this shoot.  Unfortunately, the Moon was bright as well.  I thought the short subs would help with the Moon, but it really complicated processing, and I am sure the final result.  The Splinter Galaxy is a unique one - according to Wikipedia, composed almost entirely of dwarf stars.  I am not sure this is completely accurate, as I did not change the palette much at all--the blue regions, which are typically regarded as star forming regions, were naturally present .  I have some ideas for this image but a simple concept will be complicated.  There are a lot of subs, and when one calibrates, uses SFS to select the best, then registers, the number is multiplied by 4.  Way more space than I have available to me.   I need an SDD flash drive.  then, I plan to create a synthetic luminance using only the subs from each channel with an FWHM value of less than 2.  This seems aggressive, but the green stack's FWHM is 1.5, and the blue stack is 1.85.  The red is 2.4, so I am hoping to use the green stack and all the best subs from the green and blue as luminance.  This will require much more space on my hard drive than I have. \r\n When the Moon goes away, I plan on collecting proper luminance, but I can't rely on seeing being as good as it was.  I think with more data, this could be a winner.\r\n\r\nThe last version includes a 1130 sub luminance (not super luminance)...straight luminance.  I am calling this image completed as its starting to get crazy.",
+    "h": 1550,
+    "hash": "pzhcqx",
+    "id": 591477,
+    "imaging_cameras": [
+        "ZWO ASI 1600mm cool pro ASI 1600"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11Edge HD C11Edge"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "269.215",
+    "pixscale": "0.558",
+    "published": "2021-05-22T17:21:22.252059",
+    "ra": "228.954",
+    "radius": "0.207",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/591477/",
+    "revisions": [
+        "/api/v1/imagerevision/290453/",
+        "/api/v1/imagerevision/290489/",
+        "/api/v1/imagerevision/290498/",
+        "/api/v1/imagerevision/290947/",
+        "/api/v1/imagerevision/291532/"
+    ],
+    "subjects": [
+        "NGC 5907",
+        "NGC5906",
+        "NGC5907"
+    ],
+    "title": "NGC 5907 - The Splinter Galaxy",
+    "updated": "2021-06-22T15:22:29.763034",
+    "uploaded": "2021-05-22T16:53:01.705111",
+    "url_duckduckgo": "https://www.astrobin.com/pzhcqx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pzhcqx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pzhcqx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pzhcqx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pzhcqx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pzhcqx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pzhcqx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21099/2021/ffe68f6c-1ace-4300-9607-0a792af35254.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21099/2021/ffe68f6c-1ace-4300-9607-0a792af35254-1621703837.jpg",
+    "url_thumb": "https://www.astrobin.com/pzhcqx/0/rawthumb/thumb/",
+    "user": "RAD",
+    "views": 345,
+    "w": 2172
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "28.566",
+    "description": "A comet came near the globular cluster M3 on May 15, 2021.\r\n\r\nThe comet, C/2020 T2, discovered in October 2020 by the Mount Palomar Observatory, is an insignificant little object in our solar system, with the mass of a small mountain on Earth. On that night, it was about 210 million kilometers from Earth, fainter than 10 magnitudes, and would have to be many tens of times brighter to be seen by the human eye.\r\n\r\nThe globular cluster M3, on the other hand, with about 500,000 stars, is one of the largest and brightest globular clusters in the Milky Way. It is about 32,600 light-years away from Earth, nearly 1.5 billion times farther than the comet. Even so, the brightness of M3 clearly exceeds that of the comet, reaching the limit of what is visible to the naked eye.",
+    "h": 6000,
+    "hash": "r00kx4",
+    "id": 592105,
+    "imaging_cameras": [
+        "ZWO ASI 6200MM PRO"
+    ],
+    "imaging_telescopes": [
+        "BLACKHOLE 10-inch f/4 Reflector"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815640/"
+    ],
+    "orientation": "270.610",
+    "pixscale": "0.769",
+    "published": "2021-05-25T06:30:05.874020",
+    "ra": "205.125",
+    "radius": "0.907",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/592105/",
+    "revisions": [],
+    "subjects": [
+        "M 3",
+        "NGC 5272",
+        "Comet"
+    ],
+    "title": "When a globular cluster meet a comet",
+    "updated": "2021-06-08T03:58:35.896643",
+    "uploaded": "2021-05-25T03:48:32.926257",
+    "url_duckduckgo": "https://www.astrobin.com/r00kx4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r00kx4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r00kx4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r00kx4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r00kx4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r00kx4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r00kx4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30546/2021/0f4be086-6f13-432d-8544-44bbe4818813.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30546/2021/0f4be086-6f13-432d-8544-44bbe4818813-1621915122.jpg",
+    "url_thumb": "https://www.astrobin.com/r00kx4/0/rawthumb/thumb/",
+    "user": "Steed",
+    "views": 195,
+    "w": 6000
+}

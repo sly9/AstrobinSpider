@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "41.263",
+    "description": "Première lumière de l'asi2600MC ainsi que de la lunette ASKAR400",
+    "h": 4110,
+    "hash": "x0tvn2",
+    "id": 542397,
+    "imaging_cameras": [
+        "asi zwo 2600MC asi2600MC"
+    ],
+    "imaging_telescopes": [
+        "ASKAR FRA400 F5.6 Quintuplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806389/"
+    ],
+    "orientation": "265.892",
+    "pixscale": "2.766",
+    "published": "2020-11-18T14:48:24.236143",
+    "ra": "10.656",
+    "radius": "2.848",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542397/",
+    "revisions": [
+        "/api/v1/imagerevision/260597/"
+    ],
+    "subjects": [
+        "Andromeda Galaxy",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "The star 32And",
+        "The star νAnd"
+    ],
+    "title": "M31",
+    "updated": "2021-02-25T14:49:11.424800",
+    "uploaded": "2020-11-18T14:42:23.485321",
+    "url_duckduckgo": "https://www.astrobin.com/x0tvn2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x0tvn2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x0tvn2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x0tvn2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x0tvn2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x0tvn2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x0tvn2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20876/2020/9e44b311-331c-476f-8b10-a714697d1afb.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20876/2020/9e44b311-331c-476f-8b10-a714697d1afb-1605711439.png",
+    "url_thumb": "https://www.astrobin.com/x0tvn2/0/rawthumb/thumb/",
+    "user": "fred4646",
+    "views": 676,
+    "w": 6170
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "60.320",
+    "description": "Fireworks Galaxy (NGC 6946) is about 25.2 million light-years away and lies on the border of constellations Cepheus and Cygnus.\r\nTen supernovae have been observed in NGC 6946 in the last century, this is an unusually high rate of supernovae production compared to our Milky Way galaxy, whose rate averages just one supernova event per century. For this reason in 2005 the galaxy was dubbed the \"Fireworks Galaxy”.\r\n\r\nOpen star cluster 6939 (upper left) lies approximately 4000 light years away and is over a billion years old.\r\n\r\nTechnical Details:\r\n\r\nTelescope: Skywatcher Esprit 120 ED \r\nCamera: ZWO ASI 1600MM\r\nFilters: Astrodon LRGB filters\r\n Mount: Skywatcher AZ-EQ6  \r\nGuidescope: Orion 80mm OTA  \r\nGuidecam: ZWO ASI 290M  \r\nProcessed using PixInsight, PS and LR\r\nCapture Software: SGP Pro and PHD2\r\nL = 290 x 60s\r\nR = 45 x 120s\r\nG = 45 x 120s\r\nB = 45 x 120s\r\n(Total integration time around 9 hours)\r\n\r\n76 Gain, sensor at -15c\r\n40 Bias, 40 Darks and 20 Flats\r\nCaptured over 3 nights: 18,19 & 20 June 2020\r\nLocation: Akoura, Lebanon",
+    "h": 3211,
+    "hash": "xfl5d4",
+    "id": 508455,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled"
+    ],
+    "imaging_telescopes": [
+        "Esprit 120 ED APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809638/"
+    ],
+    "orientation": "90.294",
+    "pixscale": "0.910",
+    "published": "2020-07-23T08:24:01.563252",
+    "ra": "308.250",
+    "radius": "0.682",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/508455/",
+    "revisions": [],
+    "subjects": [
+        "Fireworks Galaxy",
+        "NGC 6939",
+        "NGC 6946"
+    ],
+    "title": "Fireworks Galaxy and NGC 6939 open cluster",
+    "updated": "2021-03-17T00:14:55.568554",
+    "uploaded": "2020-07-23T09:24:02.001151",
+    "url_duckduckgo": "https://www.astrobin.com/xfl5d4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xfl5d4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xfl5d4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xfl5d4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xfl5d4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xfl5d4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xfl5d4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23484/2020/19733f07-c00d-46cf-8a64-32f4f6abdf04.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23484/2020/19733f07-c00d-46cf-8a64-32f4f6abdf04-1595496626.jpg",
+    "url_thumb": "https://www.astrobin.com/xfl5d4/0/rawthumb/thumb/",
+    "user": "dcaracache",
+    "views": 119,
+    "w": 4336
+}

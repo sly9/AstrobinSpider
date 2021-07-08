@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "27.980",
+    "description": "spent this week collecting data on the Spaghetti Nebula (Simesis 147) and did not know it was a very faint target upfront. Ended up culling 5 hours of data as there were reflections from a nearby star, even a full stretch did not show the reflections initially.\r\n\r\nAfter spending an hour or so the following night, I got FOV spot where the reflections did not show up that much, and went on and added more data.\r\n\r\nOiii is still faint, I did not push it any further than it already was, I guess this target is better suited for a mono and left the overall color as default this time.",
+    "h": 3992,
+    "hash": "ydpoxp",
+    "id": 558396,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Espirit 100ED Super Apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 194,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.648",
+    "pixscale": "2.948",
+    "published": "2021-01-15T20:25:30.459296",
+    "ra": "84.894",
+    "radius": "2.812",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558396/",
+    "revisions": [
+        "/api/v1/imagerevision/269180/"
+    ],
+    "subjects": [
+        "PK178-02.1",
+        "Sh2-240"
+    ],
+    "title": "The Spaghetti Nebula - Simeis 147",
+    "updated": "2021-05-30T13:05:18.528454",
+    "uploaded": "2021-01-15T20:07:16.453182",
+    "url_duckduckgo": "https://www.astrobin.com/ydpoxp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ydpoxp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ydpoxp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ydpoxp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ydpoxp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ydpoxp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ydpoxp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/91435/2021/14c51132-0c6b-4048-9831-2cf694da0b2a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/91435/2021/14c51132-0c6b-4048-9831-2cf694da0b2a-1610741941.jpg",
+    "url_thumb": "https://www.astrobin.com/ydpoxp/0/rawthumb/thumb/",
+    "user": "sendhilchinnasamy",
+    "views": 440,
+    "w": 5588
+}

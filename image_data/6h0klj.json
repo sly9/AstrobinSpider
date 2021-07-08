@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "61.188",
+    "description": "NGC 7635 or The Bubble Nebula lies about 7000 LY's away in the constellation Cassiopeia and is about 7 LY's in diameter.  The bubble is being formed by the hot stellar winds coming off the massive star BD +602522, which is the bright star at the 11 o'clock position in the upper left portion of the bubble.  These stellar winds plow into the surrounding molecular cloud and push it to form the bubble shape.  BD +602522 is estimated to be 4 million years old and is 45 times more massive than the sun and is projected to go supernova within another 10-20 million years.",
+    "h": 2626,
+    "hash": "6h0klj",
+    "id": 520794,
+    "imaging_cameras": [
+        "QHY 163M QHY 163 Mono"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10 Carbon"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "http://www.rwstanley.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807368/"
+    ],
+    "orientation": "1.129",
+    "pixscale": "0.391",
+    "published": "2020-11-21T21:23:58.559992",
+    "ra": "350.163",
+    "radius": "0.195",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/520794/",
+    "revisions": [
+        "/api/v1/imagerevision/260281/",
+        "/api/v1/imagerevision/261077/"
+    ],
+    "subjects": [
+        "Bubble Nebula",
+        "Bubble nebula",
+        "NGC 7635",
+        "NGC7635",
+        "Sh2-162"
+    ],
+    "title": "NGC 7635 The Bubble Nebula SHO",
+    "updated": "2021-06-23T06:11:54.145863",
+    "uploaded": "2020-09-05T14:59:06.693799",
+    "url_duckduckgo": "https://www.astrobin.com/6h0klj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6h0klj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6h0klj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6h0klj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6h0klj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6h0klj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6h0klj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23385/2020/af04b815-dfa0-44a6-aa3a-1bc1f91b1cda.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23385/2020/af04b815-dfa0-44a6-aa3a-1bc1f91b1cda-1605992538.jpg",
+    "url_thumb": "https://www.astrobin.com/6h0klj/0/rawthumb/thumb/",
+    "user": "rwstanley",
+    "views": 180,
+    "w": 2448
+}

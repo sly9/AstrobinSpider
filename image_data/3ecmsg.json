@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "36.464",
+    "description": "L'amas globulaire M13 ou Messier 13, très souvent appelé le Grand Amas d'Hercule, est parmi les objets les plus imposants du catalogue Messier. Il a été découvert par Edmond Halley en 1714, et ajouté par Charles Messier dans son catalogue le 1er juin 1764.\n\nComportant plus de 500 000 étoiles, il est aussi l'un des plus vieux objets : son âge est estimé à 12 ou 14 milliards d'années. Il apparaît avec un diamètre de 20 minutes d'arc, soit un diamètre réel de 150 années-lumière. Il a cependant la particularité de contenir de nombreuses étoiles jeunes (appartenance confirmée d'après leur vitesse angulaire), ce qui est inhabituel pour un amas de cet âge : les scientifiques pensent que ces étoiles ne sont pas nées à l'intérieur de l'amas, mais ont plutôt été capturées par ce dernier.\n\nM13 a été utilisé en 1974 (le 16 novembre) comme cible pour l'envoi d'un message à une potentielle civilisation extraterrestre. Ce message a été envoyé à partir du radiotélescope d'Arecibo, qui participe également au projet SETI. Il contenait des informations comme les chiffres, le numéro atomique de l'hydrogène, du carbone, de l'azote, de l'oxygène et du phosphore, des données sur l'ADN, la forme et la taille d'un humain, la population terrestre, et la position de la Terre dans le système solaire. Il mettra plus de 22 000 ans à y parvenir (autant pour la réponse éventuelle).",
+    "h": 3935,
+    "hash": "3ecmsg",
+    "id": 593383,
+    "imaging_cameras": [
+        "asi zwo 2600MC asi2600MC"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Newton 200 / 1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2806389/"
+    ],
+    "orientation": "342.930",
+    "pixscale": "0.769",
+    "published": "2021-05-31T07:22:59.954796",
+    "ra": "250.433",
+    "radius": "0.737",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/593383/",
+    "revisions": [
+        "/api/v1/imagerevision/289527/"
+    ],
+    "subjects": [
+        "Hercules Globular Cluster",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "m13 hercules globular cluster",
+    "updated": "2021-07-01T18:46:48.149669",
+    "uploaded": "2021-05-31T07:18:23.749056",
+    "url_duckduckgo": "https://www.astrobin.com/3ecmsg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3ecmsg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3ecmsg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3ecmsg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3ecmsg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3ecmsg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3ecmsg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20876/2021/0827ff56-ee6e-403b-9a17-a77067946a90.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20876/2021/0827ff56-ee6e-403b-9a17-a77067946a90-1622613068.jpg",
+    "url_thumb": "https://www.astrobin.com/3ecmsg/0/rawthumb/thumb/",
+    "user": "fred4646",
+    "views": 217,
+    "w": 5670
+}

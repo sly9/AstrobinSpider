@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "31.439",
+    "description": "NGC6992 in HOO mode with 2 nights (1 night for each filter)\r\nBortle sky 5\r\nESPRIT 80ED\r\nAvalon M-UNO \r\nASI183MM with baader 3,5nm",
+    "h": 2926,
+    "hash": "5zgtce",
+    "id": 534161,
+    "imaging_cameras": [
+        "ZWO ASI183MM"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 80 ED Triplet Super Apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "294.906",
+    "pixscale": "1.206",
+    "published": "2020-10-21T19:19:37.182938",
+    "ra": "314.042",
+    "radius": "0.924",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534161/",
+    "revisions": [
+        "/api/v1/imagerevision/256194/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995"
+    ],
+    "title": "NGC6992",
+    "updated": "2021-07-03T09:33:20.758906",
+    "uploaded": "2020-10-21T07:19:04.806396",
+    "url_duckduckgo": "https://www.astrobin.com/5zgtce/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5zgtce/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5zgtce/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5zgtce/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5zgtce/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5zgtce/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5zgtce/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1776/2020/22f6011c-765e-422c-bacd-050c30e94e19.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1776/2020/22f6011c-765e-422c-bacd-050c30e94e19-1609319431.jpg",
+    "url_thumb": "https://www.astrobin.com/5zgtce/0/rawthumb/thumb/",
+    "user": "jdurand",
+    "views": 234,
+    "w": 4681
+}

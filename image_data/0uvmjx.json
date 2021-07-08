@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "-6.326",
+    "description": "07.MAR.2021 - Celestron Edge HD 1100 + Hyperstar v4 + ASI6200MM Pro\r\n11 x 600s Baader Ha f/2 Ultra-Highspeed Filter 3.5 nm\r\n\r\n07.MAR.2021 - Takahashi FSQ-85 + Moravian G3 16200 S7\r\n13 x 120s a Baader LRGB Filter\r\n\r\nTo check whether the new Ha f/2 Ultra-Highspeed 3.5 nm filter works well,\r\nI chose a really weak and rarely exposed planetary nebula in Monoceros \r\nwhich was discovered in 2004 by Quentin Parker, David Frew and Mark Pierce.\r\nDespite the relatively short exposure time, the main object can be seen.\r\n\r\nIf you are looking you will find some friends:\r\nPK221.7+05.3 (Planetary Nebula)\r\nWHI B0717-07 (Planetary Nebula)\r\nMCG-01-19-002 (Galaxy)\r\n\r\nSo far I have only found a few images of the PFP1.\r\nI would also be interested in whether there is a signal in OIII and it is on my to-do list...",
+    "h": 3302,
+    "hash": "0uvmjx",
+    "id": 586966,
+    "imaging_cameras": [
+        "Moravian G3-16200FW-S7",
+        "ZWO ASI 6200 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 315,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "0.629",
+    "pixscale": "2.746",
+    "published": "2021-05-04T03:46:22.584569",
+    "ra": "110.601",
+    "radius": "2.112",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/586966/",
+    "revisions": [],
+    "subjects": [
+        "NGC2364",
+        "PK221+04.1",
+        "PK221+05.1",
+        "PK221+05.2",
+        "PK223+04.1"
+    ],
+    "title": "PFP1 (Pierce, Frew & Parker) faint PN in Monoceros",
+    "updated": "2021-07-01T17:09:34.781666",
+    "uploaded": "2021-05-04T03:37:16.362382",
+    "url_duckduckgo": "https://www.astrobin.com/0uvmjx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0uvmjx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0uvmjx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0uvmjx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0uvmjx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0uvmjx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0uvmjx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2021/919a78ac-9d60-4e9f-b664-9213adc12240.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2021/919a78ac-9d60-4e9f-b664-9213adc12240-1620099797.jpg",
+    "url_thumb": "https://www.astrobin.com/0uvmjx/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 595,
+    "w": 4444
+}

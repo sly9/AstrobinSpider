@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "22.016",
+    "description": "Still continuing looking at old data and reprocess while waiting for things to setup in my new observatory. \r\n\r\nThis data is from 2017 shot from my backyard my now-sold Edge11 and ASI1600 combination . The data is not as deep as I would like (5 min narrowband subs at unity gain). The calibration also left some edge artificats that I had to crop. However, the background etc was clear.\r\n\r\nI processed in PI and tried a few different mapping of SHO data to see if I Can get some variation in the channels. It feels like there is a bit more data not resolving here (There is a super faint outcropping that I couldnt get to show up clearly) . I will revisit this again when the observatory is up and running.\r\n\r\nAstrodon Ha 1.25 5nm: 36x300\" bin 1x1\r\nAstrodon OIII 1.25 3nm: 44x300\" bin 1x1\r\nAstrodon SII 1.25 5nm: 45x300\" bin 1x1",
+    "h": 1976,
+    "hash": "lqumc3",
+    "id": 571702,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "286.793",
+    "pixscale": "0.428",
+    "published": "2021-03-06T19:52:22.793453",
+    "ra": "83.618",
+    "radius": "0.167",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571702/",
+    "revisions": [
+        "/api/v1/imagerevision/276765/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "M1 - SHO",
+    "updated": "2021-07-04T03:20:03.115856",
+    "uploaded": "2021-03-06T19:40:55.324674",
+    "url_duckduckgo": "https://www.astrobin.com/lqumc3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lqumc3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lqumc3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lqumc3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lqumc3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lqumc3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lqumc3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2021/0fbe31f0-e53b-46c6-890a-e5488c8d1f43.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2021/0fbe31f0-e53b-46c6-890a-e5488c8d1f43-1615061016.png",
+    "url_thumb": "https://www.astrobin.com/lqumc3/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 362,
+    "w": 2001
+}

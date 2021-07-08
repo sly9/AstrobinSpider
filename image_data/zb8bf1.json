@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "44.287",
+    "description": "Finally I have managed to put together al the elements for this object. Capturing data was, in this case, the easy part. Along some nights in May and June I managed to get a lot of hours (I think it is my longest integration).  All of them were captured from my backyard at the outskirts of Madrid (Bortle class 6 area), narrowband is kind of magic I must admit. \r\n\r\nBut processing has been a tedious journey, I wanted to squeeze all the juice of all that data, so I have taken many attempts, going all the way to the last part only to find something that I was not happy with or that wasnt up to the quality of the data.  It is funny how sentitive is processing to initial conditions (as if it were a nonlinear or chaotic process)... starting all over to solve something was leading me to different results with new aspects to solve.... interesting journey....\r\n\r\nEventually I have managed to come up with this result, of which I am specially happy about  the details in the dark nebula and dust \"winds\", the dynamic range in the dark areas and of course to check that even though I was using the Esprit 100 I managed to capture with some detail the HH-555 and other HH objects (only visible in the enlarged view).\r\n\r\n(EDIT) I forgot to include that color is a variation of SHO with these config:\r\n\r\nR=0.9*SII+0.3*Ha\r\nG=H+0.6OIII\r\nB=OIII+0.3Ha\r\n\r\nI ended up on this config adter serveral tries to: 1) not to let bloated SII stars rule the starfield, and 2) achieve a \"natural color\" on the stars. \r\n\r\nHope you like it and any comment is welcomed!\r\n\r\nGuillermo",
+    "h": 1886,
+    "hash": "zb8bf1",
+    "id": 538371,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 100ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806321/"
+    ],
+    "orientation": "258.232",
+    "pixscale": "2.417",
+    "published": "2020-11-08T02:34:02.510311",
+    "ra": "313.000",
+    "radius": "1.051",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/538371/",
+    "revisions": [],
+    "subjects": [
+        "56 Cyg",
+        "57 Cyg",
+        "IC 5070",
+        "IC5070",
+        "Pelican Nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "My Pelican inside the Swan",
+    "updated": "2021-06-18T13:17:59.486750",
+    "uploaded": "2020-11-08T01:30:24.314126",
+    "url_duckduckgo": "https://www.astrobin.com/zb8bf1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zb8bf1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zb8bf1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zb8bf1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zb8bf1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zb8bf1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zb8bf1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19149/2020/eb8c0e95-e1a7-4a37-801a-0d502d991384.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19149/2020/eb8c0e95-e1a7-4a37-801a-0d502d991384-1604801617.jpg",
+    "url_thumb": "https://www.astrobin.com/zb8bf1/0/rawthumb/thumb/",
+    "user": "lapinilla",
+    "views": 235,
+    "w": 2500
+}

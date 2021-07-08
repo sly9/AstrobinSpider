@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "35.438",
+    "description": "Version HOO de la tulipe et ses environs. De gauche à droite, ic1310, ngc6871 et sh 2-101.\r\nLa couche Ha a été faite l'année dernière. 16x1200\"\r\nLa couche OIII lundi dernier. 11x1200\"\r\nJ'espérai pouvoir faire la version SHO cette semaine mais la météo en a décidé autrement!!... \r\nLa couche OIII était assez faiblarde, mais j'ai quand même tenté de la faire ressortir au \"maximum\".",
+    "h": 2402,
+    "hash": "v79nmn",
+    "id": 500750,
+    "imaging_cameras": [
+        "QSI583wsg5"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85 EDX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810330/"
+    ],
+    "orientation": "2.100",
+    "pixscale": "3.391",
+    "published": "2020-06-26T15:12:30.432414",
+    "ra": "301.404",
+    "radius": "1.902",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/500750/",
+    "revisions": [
+        "/api/v1/imagerevision/238900/",
+        "/api/v1/imagerevision/239090/"
+    ],
+    "subjects": [
+        "27 b01 Cyg",
+        "B144",
+        "B146",
+        "B147",
+        "IC 1310",
+        "NGC 6871",
+        "NGC 6883",
+        "NGC6871",
+        "NGC6883",
+        "PK070+02.1",
+        "Sh2-101",
+        "The star 27Cyg"
+    ],
+    "title": "In Cygnus",
+    "updated": "2021-05-12T17:25:01.302894",
+    "uploaded": "2020-06-26T07:59:58.144616",
+    "url_duckduckgo": "https://www.astrobin.com/v79nmn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/v79nmn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/v79nmn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/v79nmn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/v79nmn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/v79nmn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/v79nmn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30961/2020/a428e9d6-3781-46d8-8b06-fe9d20ddcd4e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30961/2020/a428e9d6-3781-46d8-8b06-fe9d20ddcd4e-1593159137.jpg",
+    "url_thumb": "https://www.astrobin.com/v79nmn/0/rawthumb/thumb/",
+    "user": "bruno58",
+    "views": 378,
+    "w": 3247
+}

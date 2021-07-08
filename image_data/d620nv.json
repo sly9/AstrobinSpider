@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 51,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "My run of extraordinary seeing continues. These images capture the transits of the GRS and the moons Ganymede and Europa.\r\nI processed Ganymede separately combining the red, green and blue images from the 7 RGB runs I made, then stacking and integrating them in Photoshop, before a small sharpen. I felt the detail in the raw images warranted this. Although I derotated and integrated the 7 RGB runs for the planet to give a low noise result and hence a high SNR, I also derotated and integrated the central RGB run. This gave a fairly precise location for Ganymede so that I could insert the sharpened image at the right location. The image of Europa is simply from that central RGB integration and there is virtually no smear. It is located next to the very bright break out in the NEB on its p (right) side.\r\n I have magnified the moon and put the WinJUPOS graphic showing the anti-Jovian Hemisphere alongside. The bright crater Osiris is clearly to the south and the large darker albedo area of Galileo Regio to the north like a French cap. In between there is quite good detail of Marius Regio.\r\nUse the mouseover for Ganymede detail.",
+    "h": 800,
+    "hash": "d620nv",
+    "id": 495036,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 191,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-06T05:22:27.912504",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495036/",
+    "revisions": [
+        "/api/v1/imagerevision/236477/"
+    ],
+    "subjects": [],
+    "title": "Ganymede and Europa in transit",
+    "updated": "2021-07-06T23:15:28.079949",
+    "uploaded": "2020-06-06T06:01:49.858821",
+    "url_duckduckgo": "https://www.astrobin.com/d620nv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/d620nv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/d620nv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/d620nv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/d620nv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/d620nv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/d620nv/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/d620nv/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 612,
+    "w": 800
+}

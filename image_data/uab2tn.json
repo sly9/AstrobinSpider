@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "47.330",
+    "description": "This is a reprocessing of the image from 2019. \r\n\r\nI always thought that my initial result was not giving justice to the amount of data collected.\r\n\r\nI have reworked the HaLRGB from scratch now focusing on  elimination of gradients and stretching to bring out dimmer parts of the nebula. Also I went a bit more aggressive on incorporating background Ha signal.\r\n\r\nNow it looks more like a deeper representation of this beautiful area which hosts emission, reflection and dark nebulae.\r\n\r\nInterestingly, being in a dusty region at low galactic altitude we still see a few external galaxies peeping through. I am showing a particularly tight group in the complementary image.\r\n\r\nAcquisition times are:\r\nHa: 13.5 h\r\nL: 6 h\r\nRGB: 1.5 h each",
+    "h": 2160,
+    "hash": "uab2tn",
+    "id": 513546,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/4 Imaging Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 194,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "267.925",
+    "pixscale": "1.500",
+    "published": "2020-08-10T23:40:08.723008",
+    "ra": "328.282",
+    "radius": "0.750",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513546/",
+    "revisions": [
+        "/api/v1/imagerevision/244961/"
+    ],
+    "subjects": [
+        "Cocoon Nebula",
+        "IC 5146"
+    ],
+    "title": "Cocoon nebula in HaLRGB (reworked from scratch)",
+    "updated": "2021-05-17T07:52:35.146491",
+    "uploaded": "2020-08-10T03:14:14.756139",
+    "url_duckduckgo": "https://www.astrobin.com/uab2tn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uab2tn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uab2tn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uab2tn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uab2tn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uab2tn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uab2tn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27653/2020/fbc90d5d-e915-4112-9482-19a2989e730e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27653/2020/fbc90d5d-e915-4112-9482-19a2989e730e-1597045522.jpg",
+    "url_thumb": "https://www.astrobin.com/uab2tn/0/rawthumb/thumb/",
+    "user": "meeus",
+    "views": 985,
+    "w": 2880
+}

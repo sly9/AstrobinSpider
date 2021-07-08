@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.257",
+    "description": "2 Panel Mosaic of the California Nebula. NGC 1499 is an emission nebula located in the constellation Perseus.  Named California Nebula because of its remarkable resemblance to the shape of the state of California :)\r\n\r\nTotal Integration time is roughly divided 50/50 for each panel. This was gathered with my Triad Quadband filter and it appears to me that there is a lot of super faint OIII that surrounds the entire region - and thus contributes to teal stars around the nebula.  \r\n\r\nI was torn on shooting RGB stars so I could really boost the OII, but, It turns out, my softer editing side of me won because if you pan around the image you can actually see the very diffuse OIII and Ha clouds and you can see the stars shining through with their reddish or teal color.\r\n\r\nAlso, I'm afraid I'd have to clip the diffuse nebulosity to correct the stars since they would appear artificial in front. So, I'll leave it as it is.\r\n\r\nThe one thing I may do is take a stack of shorter subs so I can correct the one bloated bright star.   Then again, worried it will clip that faint stuff ;)",
+    "h": 7445,
+    "hash": "9kkehq",
+    "id": 545709,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Esprit 120"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814766/"
+    ],
+    "orientation": "88.797",
+    "pixscale": "1.375",
+    "published": "2020-11-28T20:29:11.145392",
+    "ra": "60.151",
+    "radius": "1.811",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/545709/",
+    "revisions": [
+        "/api/v1/imagerevision/262171/",
+        "/api/v1/imagerevision/262206/"
+    ],
+    "subjects": [
+        "46 ksi Per",
+        "California Nebula",
+        "California nebula",
+        "IC2005",
+        "IC2027",
+        "Menkib",
+        "NGC 1499",
+        "NGC1499",
+        "Sh2-220",
+        "The star ξPer"
+    ],
+    "title": "California Nebula Mosaic",
+    "updated": "2021-02-03T07:46:57.463608",
+    "uploaded": "2020-11-28T16:34:39.614440",
+    "url_duckduckgo": "https://www.astrobin.com/9kkehq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9kkehq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9kkehq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9kkehq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9kkehq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9kkehq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9kkehq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/64952/2020/4fa541d9-5325-48e5-8fbb-0c0329320a2a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/64952/2020/4fa541d9-5325-48e5-8fbb-0c0329320a2a-1606581686.jpg",
+    "url_thumb": "https://www.astrobin.com/9kkehq/0/rawthumb/thumb/",
+    "user": "sn2006gy",
+    "views": 220,
+    "w": 5867
+}

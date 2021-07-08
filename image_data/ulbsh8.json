@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Planet Mars on 10.10.2020 (23:52 CEST), 38° above the horizon, with the Celestron SC C14 and Baader FFC. Camera: ASI 290MM with Baader IR-Pass and R-G-B Filter, 11x L (60 sec), 3xR (60 sec), 3x G (60 sec), 3x B (60 sec): 20% of 12000 frames, stacked with AutoStakkert!3, derotated with WinJupos.",
+    "h": 696,
+    "hash": "ulbsh8",
+    "id": 532755,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "http://ag-astronomie.de/Sonnensystem-Galerie",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812547/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-16T10:41:23.779808",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532755/",
+    "revisions": [
+        "/api/v1/imagerevision/257364/"
+    ],
+    "subjects": [],
+    "title": "Mars on 10th October 2020 (LRGB @ 38°)",
+    "updated": "2021-04-20T17:42:46.241555",
+    "uploaded": "2020-10-16T11:37:51.676607",
+    "url_duckduckgo": "https://www.astrobin.com/ulbsh8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ulbsh8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ulbsh8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ulbsh8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ulbsh8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ulbsh8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ulbsh8/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/ulbsh8/0/rawthumb/thumb/",
+    "user": "HenningSchmidt",
+    "views": 188,
+    "w": 1200
+}

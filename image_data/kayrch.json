@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 26,
+    "data_source": "MIX",
+    "dec": "67.311",
+    "description": "Today I would like to present you the result of my second astro cooperation. <a href=\"https://www.astrobin.com/users/Florian_Pieper/\">Florian Pieper</a> asked me in early spring of this year if I would like to do a joint project. We quickly agreed that we wanted to try to gather at least 100 hours in narrow band for Cederblad 214. \r\n\r\nThis emission nebula is characterized by an unbelievable richness of structures, globules and dark nebula components. So it should become a deep image that shows many details. :-) Since we both own a very fast telescope with the Takahashi Epsilon and with our cameras we generate almost the same field of view, the decision was made. We spent the time from the end of July to mid of September to take all the data. Flo contributed the data for OIII and SII. The H-Alpha data came from me. A long time passed away for a single image...\r\n\r\nSo we were even more pleased to see the first interim results and afterwards of course the final raw images in SHO. The processing was a real pleasure for me! I can't remember ever having almost completely abandoned the denoising of my astro images. Here the quality was so good that this was effortlessly possible. :-) \r\n\r\nFurthermore, this is my first image using my new mount (a 10 Micron GM3000 HPS). What a magnificent piece of technology! Precision, no backlash and no need for autoguiding. This is fun! \r\n\r\nIn the technical card I could only store the information of the exposures I made. Here is the complete overview:\r\n\r\n* Image Acquisition (Florian Pieper)\r\nSkyWatcher EQ6-AZ + Epsilon 130D + Asi1600mm-c + Astrodon SII,OIII 3mn\r\n\r\n08/05 SII 51x300s\r\n08/06 SII 53x300s\r\n08/07 SII 56x300s\r\n08/10 SII 58x300s\r\n08/11 SII 60x300s\r\n08/12 SII 57x300s\r\n08/14 OIII 44x300s\r\n08/15 OIII 50x300s\r\n08/16 OIII 66x300s\r\n09/02 OIII 77x300s\r\n09/15 OIII 29x300s\r\n09/16 OIII 75x300s\r\n\r\nExposure time 56.3 hrs\r\n\r\n* Image Acquisition (Frank Breslawski)\r\n10 Micron GM3000 HPS + Epsilon 130D + Astrel 8300 + Astronomik Ha 6nm\r\n\r\n07/29 Ha 24x600s\r\n07/30 Ha 29x600s\r\n07/31 Ha 22x600s\r\n08/04 Ha 31x600s\r\n08/05 Ha 31x600s\r\n08/06 Ha 30x600s\r\n08/07 Ha 28x600s\r\n08/08 Ha 11x600s\r\n08/10 Ha 18x600s\r\n08/18 Ha 31x600s\r\n08/28 Ha 9x600s\r\n\r\nExposure time 44.0 hrs\r\n\r\n* Overall Integration Time\r\nTotal: 100.3 hrs\r\nH-Alpha: 44.0 hrs\r\nOIII: 28.4 hrs\r\nSII: 27.9 hrs\r\n\r\nHere you can also find Flo's version: <a href=\"https://astrob.in/4ofs79/0/\">Cederblad 214-NGC 7822 (100h Epsilon) SHO</a>\r\n\r\nAnd last but not least some information about the shown area (Wikipedia):\r\nThis area is a young star forming complex in the constellation of Cepheus. The complex encompasses the emission region designated Sharpless 171, and the young cluster of stars named Berkeley 59. The complex is believed to be some 800–1,000 pc distant, with the younger components aged no more than a few million years. The complex also includes one of the hottest stars discovered within 1 kpc of the Sun, namely BD+66 1673, which is an eclipsing binary system consisting of an O5V that exhibits a surface temperature of nearly 45,000 K and a luminosity about 100,000 times that of the Sun. The star is one of the primary sources illuminating the nebula and shaping the complex's famed pillars of creation-type formations, the elephant trunks.\r\n\r\nHope you enjoy our little project! :-) Really looking forward to something like that again in future! :-)",
+    "h": 2398,
+    "hash": "kayrch",
+    "id": 532924,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 211,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "269.397",
+    "pixscale": "2.597",
+    "published": "2020-10-17T10:12:55.739981",
+    "ra": "0.775",
+    "radius": "1.115",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532924/",
+    "revisions": [
+        "/api/v1/imagerevision/255389/",
+        "/api/v1/imagerevision/255390/"
+    ],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "Cederblad 214 - SH2-171 - NGC 7822 (SHO with 100 hrs integration time)",
+    "updated": "2021-07-02T16:38:52.610689",
+    "uploaded": "2020-10-16T23:51:39.330661",
+    "url_duckduckgo": "https://www.astrobin.com/kayrch/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kayrch/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kayrch/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kayrch/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kayrch/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kayrch/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kayrch/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2020/4dddf8bb-2cc5-4291-83d3-cf73d6d2d972.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2020/4dddf8bb-2cc5-4291-83d3-cf73d6d2d972-1602893210.png",
+    "url_thumb": "https://www.astrobin.com/kayrch/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 439,
+    "w": 1950
+}

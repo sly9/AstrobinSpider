@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "0.933",
+    "description": "The area captured in this image lies in Serpens Cauda (the tail of the Snake),  within the Serpens - Aquila Rift in the Milky Way, and contains many dark nebula, reflection nebula Herbig-Haro objects and star forming regions. The clouds of blue nebulosity result from gas that is being ionised by light from surrounding stars. The dark tendrils that permeate the scene are not an absence of stuff but are thick clouds of interstellar dust that block out the light from distant objects. The vista has a hazy red hue resulting from light being scattered by the surrounding dust.\r\n\r\nI was drawn to this area after noticing the object vdb123 in Stellarium and being unfamiliar with this catalogue decided to do some research. I now know that a person by the name of Sidney van den Bergh published a paper in 1966 which contained a catalogue of bright nebula. The area is also replete with dark nebulae many of which have been catalogued by Dobashi in the\" Atlas and Catalog of Dark Clouds\" (Dobashi et al. 2005). Further research showed that it was an interesting area to image so I figured that I would give it a shot.\r\n\r\nThe image is comprised of 22 hours of data through Red, Green and Blue Astronomik filters. No separate luminance was captured but I did create a pseudo luminance by separately integrating the RGB masters in Pixinsight. Combining this with the processed RGB did help in bringing the blue luminosity into the foreground. The dark nebula are balanced quite nicely in the image by the red glows from the Herbig-Haro object and the Serpens Reflection Nebula (see mouse over).\r\n\r\nComments and critique welcome.\r\n\r\nCS\r\nRodney",
+    "h": 2444,
+    "hash": "5prksl",
+    "id": 539640,
+    "imaging_cameras": [
+        "QSI 683 ws-8"
+    ],
+    "imaging_telescopes": [
+        "Tak TSA120"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "https://flic.kr/p/2k5nNTj",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "267.204",
+    "pixscale": "1.645",
+    "published": "2020-11-12T03:53:05.332681",
+    "ra": "277.493",
+    "radius": "0.929",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/539640/",
+    "revisions": [
+        "/api/v1/imagerevision/259379/",
+        "/api/v1/imagerevision/259385/"
+    ],
+    "subjects": [],
+    "title": "Darkness in Serpens Cauda",
+    "updated": "2021-06-23T11:50:52.001868",
+    "uploaded": "2020-11-11T00:52:54.655810",
+    "url_duckduckgo": "https://www.astrobin.com/5prksl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5prksl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5prksl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5prksl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5prksl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5prksl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5prksl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1551/2020/2d34cc45-80f8-46ea-b3c8-3a067d558b09.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1551/2020/2d34cc45-80f8-46ea-b3c8-3a067d558b09-1605056318.jpg",
+    "url_thumb": "https://www.astrobin.com/5prksl/0/rawthumb/thumb/",
+    "user": "Ryderscope",
+    "views": 188,
+    "w": 3250
+}

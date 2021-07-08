@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 28,
+    "data_source": "BACKYARD",
+    "dec": "20.513",
+    "description": "The Monkey Head Nebula is a star-forming region located between the constellations Gemini and Orion. Newborn stars in the center of the nebula illuminate the surrounding gases with energetic radiation and strong stellar winds that erode the lower-density materials. Higher density materials resist the erosion forming pillars and peaks along the inner edge, especially noticeable in the upper portion of the nebula as oriented in this image.\r\n\r\nI was able to collect about 18 hours of data during two successive clear nights at the end of November. I had planned on acquiring about 25 hours for this image, but after three weeks of clouds, overcast, and fog, I decided to process what I had. In this image, I used only subs with HFR ranging from 2.0-3.0 totaling about 14 hours. Fortunately, despite the modest quantity of data, the image noise was not too bad and I used successive applications of Pixinsight Multiscale Median Transform and Deconvolution on all channels. About 8 hours of good Ha data were used to produce the luminance layer. This rendition is an SHO with traditional Hubble palette color assignments.",
+    "h": 2425,
+    "hash": "js41us",
+    "id": 550026,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "119.912",
+    "pixscale": "0.864",
+    "published": "2020-12-16T04:24:22.822348",
+    "ra": "92.436",
+    "radius": "0.482",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/550026/",
+    "revisions": [],
+    "subjects": [
+        "IC2159",
+        "Monkey Head Nebula",
+        "NGC 2174",
+        "NGC 2175",
+        "NGC2174",
+        "NGC2175",
+        "Sh2-252"
+    ],
+    "title": "Monkey Head Nebula (NGC 2174, NGC 2175, Sh2-252, IC 2159)",
+    "updated": "2021-07-04T17:31:02.509711",
+    "uploaded": "2020-12-16T04:16:46.139966",
+    "url_duckduckgo": "https://www.astrobin.com/js41us/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/js41us/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/js41us/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/js41us/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/js41us/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/js41us/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/js41us/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/d28c5f10-0013-4fc7-8923-2b5bd65bb88f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/d28c5f10-0013-4fc7-8923-2b5bd65bb88f-1608093145.jpg",
+    "url_thumb": "https://www.astrobin.com/js41us/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 352,
+    "w": 3207
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "14.900",
+    "description": "Messier 98 (M98 or NGC 4192) is a magnitude 11 spiral galaxy in the constellation of Coma Berenices.It is about 44 million light years away from us.  M98 is a member of the Virgo Cluster of galaxies.\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\nImaging data:\r\nDate: May 2009  Processing:  4/1/2020\r\nLocation: New Ringgold PA\r\nOptics: Meade LX200R-14 at f/10\r\nMount: Paramount ME\r\nCamera/Filters: Apogee Alta U8300 FLI CFW-2-7 FLI Filters\r\nGuiding: guidescope\r\nExposure: Luminance: 24x5 minutes binned 2x2, R:6x5 min G:8x4 min B:7x6 min all binned 3x3 for a total of 3.7 hours, 45 subs at 300 sec each\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing using Photoshop.",
+    "h": 1206,
+    "hash": "zt19jf",
+    "id": 471609,
+    "imaging_cameras": [
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200R 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "180.324",
+    "pixscale": "0.784",
+    "published": "2020-04-01T17:04:02.759214",
+    "ra": "183.441",
+    "radius": "0.212",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/471609/",
+    "revisions": [],
+    "subjects": [
+        "M 98",
+        "M98",
+        "NGC 4192"
+    ],
+    "title": "M98",
+    "updated": "2021-04-23T17:21:25.157137",
+    "uploaded": "2020-04-01T18:04:02.845759",
+    "url_duckduckgo": "https://www.astrobin.com/zt19jf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zt19jf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zt19jf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zt19jf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zt19jf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zt19jf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zt19jf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/a1004340-454d-4f0e-8ab6-164222b68efe.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/a1004340-454d-4f0e-8ab6-164222b68efe-1585764594.jpg",
+    "url_thumb": "https://www.astrobin.com/zt19jf/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 187,
+    "w": 1525
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.359",
+    "description": "With NGC 7217 I'm trying to add some smaller objects to my portfolio.  This Galaxy measures 4x4.3 arc-minutes-  though I don't think that includes the very faint glow of the extended halo.  I've normally stuck to 10 arc-minutes+ but the L-350 and the summer seeing is delivering subs down to 1.6 arc seconds and I want to see what that will show.\r\n\r\nThis pretty little loner, is a spiral galaxy but with most of it's blue star concentrated in the prominent out ring.  It's this ring that attracted me to the object.  The yellow core and magenta inner part of the ring are straight out of PI's PCC, granted I've done a lot of vibrance and saturation.\r\n\r\nPurely and LRGB combination, I shot Ha but found it was not well defined.  Attempts to use it only un-balanced the color.\r\n\r\nColor was via Photometric Color Calibration and ArcSinh Stretch.  Luminance was sharpened with CCDStack and highlights reduced in Photoshop.  Noise reduction is a combination of Topaz Denoise 5.1 and Photoshop Noise reduction.  The color layer was blurred 2 pixels.  I did not find Topaz Denoise AI to work on this one.  It tended to just produce artifacts.",
+    "h": 1085,
+    "hash": "h0xsqh",
+    "id": 502862,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 206,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "180.674",
+    "pixscale": "0.609",
+    "published": "2020-07-04T17:40:13.109625",
+    "ra": "331.967",
+    "radius": "0.167",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/502862/",
+    "revisions": [
+        "/api/v1/imagerevision/240203/"
+    ],
+    "subjects": [
+        "NGC 7217",
+        "NGC7217"
+    ],
+    "title": "NGC 7217 | A Spiral Ring Galaxy",
+    "updated": "2021-07-01T21:37:41.799246",
+    "uploaded": "2020-07-04T18:21:38.753605",
+    "url_duckduckgo": "https://www.astrobin.com/h0xsqh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h0xsqh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h0xsqh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h0xsqh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h0xsqh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h0xsqh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h0xsqh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/a41f284f-055d-40c8-be72-e23eeda4fa11.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/a41f284f-055d-40c8-be72-e23eeda4fa11-1593888012.jpg",
+    "url_thumb": "https://www.astrobin.com/h0xsqh/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 566,
+    "w": 1642
+}

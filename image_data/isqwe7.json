@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 42,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-44.944",
+    "description": "This section of the Vela Supernova Remnant is made up of 2 panes shot using the TOA-150 refractor and FLI ML16200 camera located in El Sauce Chile.  This target was a very difficult one to process.  I must have thrown everything away and restarted 5 times. The detail is more faint than you would think making it very difficult to bring out the color and detail that I imaged before I started.\r\n\r\nHats off to the PixInsight team for the development of the MosaicByCoordinates script.  In my previous mosaics I used the StarAlignment tool to attempt to put the individual frames together.  This always seemed like a kludge and I typically struggled with images that were 1 pixel too wide or too long that would refuse to combine.  The MosaicByCoordinates script is AWESOME!!!  It took a bit longer to run, but it was perfect.  I can't believe that I didn't know this thing was there (I'm sure it has been for a while, I just didn't know it).  The reason that I mention it here is in case there are others out there that are also unaware of its existence.  The documentation for it was great and I had no problems using it.  My individual channel mosaics were done with a few ticks of the clock and zero frustration.\r\n\r\nC and C always welcome!\r\nTim.",
+    "h": 4150,
+    "hash": "isqwe7",
+    "id": 558933,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 237,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813525/"
+    ],
+    "orientation": "84.077",
+    "pixscale": "1.129",
+    "published": "2021-01-17T16:52:44.165169",
+    "ra": "127.812",
+    "radius": "1.225",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/558933/",
+    "revisions": [
+        "/api/v1/imagerevision/269339/"
+    ],
+    "subjects": [],
+    "title": "A section of the Vela SNR",
+    "updated": "2021-06-26T02:19:58.699393",
+    "uploaded": "2021-01-17T15:36:11.119601",
+    "url_duckduckgo": "https://www.astrobin.com/isqwe7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/isqwe7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/isqwe7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/isqwe7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/isqwe7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/isqwe7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/isqwe7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31444/2021/6f32efb6-7dd7-4f14-8678-d3ba0e7ac9d1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31444/2021/6f32efb6-7dd7-4f14-8678-d3ba0e7ac9d1-1610898880.jpg",
+    "url_thumb": "https://www.astrobin.com/isqwe7/0/rawthumb/thumb/",
+    "user": "tim@the-hutchison-family.net",
+    "views": 1110,
+    "w": 6619
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "-43.014",
+    "description": "Reworking some old data to see how much resolution can be recovered. The integrated stack has been hitting around the 1.6-1.7\" mark but in previous attempts I haven't felt that I've been able to deconvolve back enough resolution. I think I've extracted every last bit out of it now.\r\n\r\nTaken from my bortle 7 backyard so it's not an overly deep image but I'm enjoying the resolution that comes with a longer focal length telescope.",
+    "h": 1186,
+    "hash": "bdgv2c",
+    "id": 514063,
+    "imaging_cameras": [
+        "ZWO ASI094MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Mewlon 250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "95.009",
+    "pixscale": "0.801",
+    "published": "2020-08-12T02:34:43.403541",
+    "ra": "201.379",
+    "radius": "0.173",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514063/",
+    "revisions": [
+        "/api/v1/imagerevision/245166/"
+    ],
+    "subjects": [
+        "Centaurus A",
+        "NGC 5128"
+    ],
+    "title": "Cent A*",
+    "updated": "2021-07-01T12:47:33.172348",
+    "uploaded": "2020-08-12T03:34:43.537414",
+    "url_duckduckgo": "https://www.astrobin.com/bdgv2c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bdgv2c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bdgv2c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bdgv2c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bdgv2c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bdgv2c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bdgv2c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14547/2020/ee54bd4f-6295-41b2-994a-897400ef7f69.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14547/2020/ee54bd4f-6295-41b2-994a-897400ef7f69-1597203619.jpg",
+    "url_thumb": "https://www.astrobin.com/bdgv2c/0/rawthumb/thumb/",
+    "user": "AtmosFearIC",
+    "views": 217,
+    "w": 1008
+}

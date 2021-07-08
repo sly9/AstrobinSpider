@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "69.070",
+    "description": "La célèbre galaxie de Bode M81 (NGC 3031) est une galaxie spirale située dans la constellation de la Grande Ourse à environ 12 millions d'années-lumière de la Voie lactée et elle est souvent présentée en couple avec sa non moins célèbre voisine M82, lorsque la focale est suffisamment courte.\r\n\r\nL'instrument utilisé ici (focale 1600mm) et la taille du capteur de la camera ont en l'occurence permit un plan rapproché sur cette superbe galaxie, à défaut de la présenter avec sa \"voisine\".\r\n\r\n42h d'expositions ont été réalisées en fevrier et mars 2021 pour lui tirer le portrait! \r\n\r\nCe temps de pose conséquent limite le \"bruit\" dans l'image, et a permis notamment de révéler une multitude de détails (21h filtre de Luminance) et les couleurs de cette galaxie (3h filtres RVB), mais également les nébuleuses (couleur rouge de l'hydrogène ionisé) présentes en son sein (18h d'expositions au travers d'un filtre à Hydrogène), ainsi que de détecter et mettre en valeur le très ténu signal d'IFN ( grands nuages de gaz et de poussière à l'extérieur de notre galaxie et illuminés faiblement par les étoiles de celle-ci, qu'on appelle également cirrus galactiques) dans lequel elle baigne, visible sur l'image sous forme de variations de luminosité du fond de ciel autour de la galaxie.\r\n\r\nAcquisitions en plein centre ville d'Amiens (ciel Bortle 7) avec telescope RC8 @f/8 sur monture Avalon Linear et camera ZWO ASI 294mm + filtres LRVB + H Antlia.\r\n\r\nL : 248x300s bin2\r\nRVB : 12x300s bin2 chacun \r\nHalpha : 219x300s bin2\r\n\r\nTraitement avec Pixinsight et Photoshop.",
+    "h": 2335,
+    "hash": "cofnz5",
+    "id": 573703,
+    "imaging_cameras": [
+        "Zwo asi294mm pro"
+    ],
+    "imaging_telescopes": [
+        "Altair Astro RC 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 173,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804603/"
+    ],
+    "orientation": "6.274",
+    "pixscale": "0.597",
+    "published": "2021-03-13T11:58:09.442402",
+    "ra": "148.933",
+    "radius": "0.317",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573703/",
+    "revisions": [],
+    "subjects": [
+        "Bode's Galaxy",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81 LRVB + Halpha",
+    "updated": "2021-07-07T07:31:06.462115",
+    "uploaded": "2021-03-13T10:54:15.783355",
+    "url_duckduckgo": "https://www.astrobin.com/cofnz5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cofnz5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cofnz5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cofnz5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cofnz5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cofnz5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cofnz5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15022/2021/dad93d15-3f84-4218-b4c3-0c67e43d3f30.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15022/2021/dad93d15-3f84-4218-b4c3-0c67e43d3f30-1615727338.jpg",
+    "url_thumb": "https://www.astrobin.com/cofnz5/0/rawthumb/thumb/",
+    "user": "Mathieu80",
+    "views": 594,
+    "w": 3019
+}

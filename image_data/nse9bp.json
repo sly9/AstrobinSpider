@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.170",
+    "description": "Double cluster with a hint of Ha",
+    "h": 2927,
+    "hash": "nse9bp",
+    "id": 540670,
+    "imaging_cameras": [
+        "QHYCCD QHY 163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 230,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "159.123",
+    "pixscale": "1.837",
+    "published": "2020-11-14T04:34:17.548203",
+    "ra": "35.101",
+    "radius": "1.260",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/540670/",
+    "revisions": [
+        "/api/v1/imagerevision/259740/"
+    ],
+    "subjects": [
+        "NGC 869",
+        "NGC 884",
+        "The star 7Per",
+        "The star 8Per",
+        "chi Persei Cluster",
+        "h Persei Cluster"
+    ],
+    "title": "Double Cluster",
+    "updated": "2021-06-21T21:21:09.457053",
+    "uploaded": "2020-11-14T04:26:44.915717",
+    "url_duckduckgo": "https://www.astrobin.com/nse9bp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nse9bp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nse9bp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nse9bp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nse9bp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nse9bp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nse9bp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11485/2020/61d1263e-549d-4305-bc80-5214e2e98e3a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11485/2020/61d1263e-549d-4305-bc80-5214e2e98e3a-1605328370.png",
+    "url_thumb": "https://www.astrobin.com/nse9bp/0/rawthumb/thumb/",
+    "user": "adamland",
+    "views": 1079,
+    "w": 3976
+}

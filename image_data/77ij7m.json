@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 43,
+    "data_source": "PRO_DATA",
+    "dec": "13.009",
+    "description": "A data set taken a while back when trying to use the DCT to make pretty images. Experimenting with things like exposure times and what not led to a very funky data set. The above image is a single exposure in each the R, V, and B channels. R and V both used 60\" exposures, while B used 300\". Because of how rough this data was though, I decided that to pretty much shelf it. No need to edit it. \r\n\r\nI am bored though, and felt like a challenge for processing. Was mainly an exercise in clone stamping, mask creation, and pattern removal. The pattern from the glue on the sensor is still there, but way way better than when I started.\r\n\r\nThanks for looking :)  and huge thanks to the Lowell Observatory’s Discovery Channel Telescope which made these results possible.",
+    "h": 3000,
+    "hash": "77ij7m",
+    "id": 487749,
+    "imaging_cameras": [
+        "Large Monolithic Imager"
+    ],
+    "imaging_telescopes": [
+        "4.3 m Discovery Channel Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 267,
+    "link": "https://www.instagram.com/cosmic.speck/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "231.923",
+    "pixscale": "0.240",
+    "published": "2020-05-14T16:14:52.425089",
+    "ra": "186.940",
+    "radius": "0.141",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487749/",
+    "revisions": [
+        "/api/v1/imagerevision/233244/"
+    ],
+    "subjects": [
+        "NGC 4435",
+        "NGC 4438",
+        "NGC4435",
+        "NGC4438",
+        "PGC169320",
+        "PGC169335",
+        "PGC40913",
+        "PGC40959",
+        "PGC40975",
+        "The Eyes"
+    ],
+    "title": "Markarian's Eyes - NGC 4438 and NGC 4435",
+    "updated": "2021-05-04T11:50:03.422277",
+    "uploaded": "2020-05-14T17:14:52.577214",
+    "url_duckduckgo": "https://www.astrobin.com/77ij7m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/77ij7m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/77ij7m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/77ij7m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/77ij7m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/77ij7m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/77ij7m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13971/2020/de8d1bf9-d77b-486e-906d-509ec03b3e1a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13971/2020/de8d1bf9-d77b-486e-906d-509ec03b3e1a-1589477129.jpg",
+    "url_thumb": "https://www.astrobin.com/77ij7m/0/rawthumb/thumb/",
+    "user": "matherneconnor",
+    "views": 1873,
+    "w": 3000
+}

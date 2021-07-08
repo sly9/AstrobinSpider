@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "42.030",
+    "description": "M63, Data acquired during 3 nights, using an OSC. During post processing, I have extracted LRGB channels and processed using a mono camera workflow. L channel was processed separately for deconvolution, sharpening and noise reduction. RGB re-composed image was colour calibrated and was masked stretched to maintain colour information. I hope you like the result of a 6\" refractor and a very competent OSC from a bortle6/7 urban sky :-)",
+    "h": 2000,
+    "hash": "uadhhu",
+    "id": 571986,
+    "imaging_cameras": [
+        "ZWO asi 2600 MC"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "341.308",
+    "pixscale": "0.708",
+    "published": "2021-03-07T16:59:55.455522",
+    "ra": "198.955",
+    "radius": "0.278",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571986/",
+    "revisions": [
+        "/api/v1/imagerevision/276846/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "Sunflower Galaxy",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 The Sunflower Galaxy",
+    "updated": "2021-07-02T00:34:01.150734",
+    "uploaded": "2021-03-07T16:45:39.823096",
+    "url_duckduckgo": "https://www.astrobin.com/uadhhu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uadhhu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uadhhu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uadhhu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uadhhu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uadhhu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uadhhu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2021/11ec028d-0c4b-4434-9030-418c0dadf78f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2021/11ec028d-0c4b-4434-9030-418c0dadf78f-1615136312.png",
+    "url_thumb": "https://www.astrobin.com/uadhhu/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 361,
+    "w": 2000
+}

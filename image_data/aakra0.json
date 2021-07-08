@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-11.623",
+    "description": "A few weeks back I captured this target for the first time using my one-shot color camera, the ZWO ASI294MC Pro.. It immediately became one of my favorite deep sky objects. I love the dusty ring around this beautiful galaxy. Well, this time I wanted to do a little experiment and try to do it a little better this time. So I started my second LRGB project using the QHY 294M-Pro. The monochrome brother to my OSC. I used Optolong LRGB filters and shot this from my Bortle 6 backyard to capture this beaut.\r\n\r\nThe noise profile for the monochrome camera is much better and the color balance is WAY better out of the box. The signal is better due to the better quantum efficiency in the mono cam as well. I've also noticed that the stars have a much better color to them. This is because for each filter change there is a refocus done. Thus eliminating any chromatic aberration in the lens. However with all of that said, its incredibly impressive how much detail the OSC camera still captured. No additional filters were needed and it was a simple shoot and stack.",
+    "h": 4056,
+    "hash": "aakra0",
+    "id": 584320,
+    "imaging_cameras": [
+        "QHYCCD QHY294M-Pro"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 127mm ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "2.851",
+    "pixscale": "0.506",
+    "published": "2021-04-22T20:36:54.147815",
+    "ra": "189.996",
+    "radius": "0.532",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/584320/",
+    "revisions": [
+        "/api/v1/imagerevision/284481/"
+    ],
+    "subjects": [
+        "M 104",
+        "NGC 4594",
+        "Sombrero Galaxy"
+    ],
+    "title": "M104 - The Sombrero Galaxy",
+    "updated": "2021-06-04T10:52:53.725348",
+    "uploaded": "2021-04-22T20:21:06.479345",
+    "url_duckduckgo": "https://www.astrobin.com/aakra0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/aakra0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/aakra0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/aakra0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/aakra0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/aakra0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/aakra0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/58232/2021/94b6385f-d236-4fb5-9837-16e689850f5b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/58232/2021/94b6385f-d236-4fb5-9837-16e689850f5b-1619165701.jpg",
+    "url_thumb": "https://www.astrobin.com/aakra0/0/rawthumb/thumb/",
+    "user": "blastrophoto",
+    "views": 263,
+    "w": 6396
+}

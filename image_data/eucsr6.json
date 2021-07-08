@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "32.535",
+    "description": "NGC 4631 ,the Whale Galaxy, is an edge-on spiral galaxy in the constellation Canes Venatici. Its slightly distorted wedge shape gives the appearance of a herring or a whale, hence its nickname. Because this nearby galaxy is seen edge-on from Earth, it is observed to better understand the gas and stars located outside the plane of the galaxy.\r\n\r\nNGC 4631 contains a central region of intense star formation. This is evident in the emission from ionized hydrogen and interstellar dust heated by these stars. The most massive stars in these regions only burn hydrogen gas through fusion for a short period of time, after which they explode as supernovae. So many supernovae have exploded in the NGC 4631 center that gas is blown out of the galaxy plane. This super-wind has produced a giant, diffuse corona of hot, X-ray emitting gas around the whole galaxy.\r\n\r\nNGC 4631 has a nearby companion dwarf elliptical galaxy, NGC 4627. Together they were listed in the Atlas of Peculiar Galaxies as an example of a \"double galaxy\" or a galaxy pair.\r\nThey are also a part of a group including the interacting galaxies NGC 4656 and NGC 4657. However, exact group identification is problematic because of their part of the sky, which is relatively crowded. Estimates of the number of galaxies in this group range from 5 to 27. [Source Wikipedia]\r\n\r\nCAPTURE Information:\r\nThe image was captured with the iOptron CEM120 mount , the venerable Meade 12\"LX200 SCT, and my Atik 383L+ mono CCD at F7.16 (2182mm FL). Image subs were taken through Astronomik's filters Lum, R, G and B wide band, along with the Ha (12nm) narrow band filter.\r\n\r\nAll subs were done at 1x1 bin and -10C.  Lum and Ha were exposed for 10 min. each;  and Red, Grn and Blu for 5 min. each.\r\n\r\nIMAGE information -- 2021\r\nLum (600s): 20 subs (3.33hr) on May 2nd and 4th.\r\nRed (300s): 20 subs (1.67hr) on May 4th and 6th.\r\nGrn (300s):  20 subs (1.67hr) on May 20th.\r\nBlu (300s):  19 subs (1.67hr) on May 6th and 13th.\r\nHa  (600s):  15 subs (2.50hr) on May 13th.\r\n\r\nProcessing was done with PixInsight, following (for the most part) kayronjm's tutorial of Feb. 24th from several years back. Only Lum was used to develop the Luminance image.\r\nR, G, B and Ha were collected for the color mix.\r\n\r\nCOMMENTS:\r\nNote that there are two thumbnail images (upper right under \"Revision\" heading).  The first illustrates the inclusion of the Ha filter (Red and Ha merged) that highlights the red starburst areas.  The second image was created without the addition of the Ha contribution. \r\nYou can click on either one to present them in the main window.\r\n\r\nNorth is up (pretty sure, or not), and this is a slight crop due to the various movement of different subs.\r\n\r\nThis is the third time to image this target.  Once in 2012 using my DSLR color camera and the 12\"LX200 fork mount.  Once in 2013 using the Atik 383L+ mono CCD and the 12\"LX200 fork mount.  And now the latest, with the Atik 383L+ mono CCD and the 12\"LX200 OTA mounted on the iOptron CEM120.",
+    "h": 2454,
+    "hash": "eucsr6",
+    "id": 589615,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 12\" f/10"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 12,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.718",
+    "pixscale": "0.510",
+    "published": "2021-05-14T19:11:41.824691",
+    "ra": "190.515",
+    "radius": "0.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/589615/",
+    "revisions": [
+        "/api/v1/imagerevision/287390/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "Whale Galaxy"
+    ],
+    "title": "NGC4631 The Whale Galaxy",
+    "updated": "2021-05-15T15:48:02.126297",
+    "uploaded": "2021-05-14T18:14:48.349644",
+    "url_duckduckgo": "https://www.astrobin.com/eucsr6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eucsr6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eucsr6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eucsr6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eucsr6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eucsr6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eucsr6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/231/2021/b6f19c7f-821f-4a36-87b0-68d5935ff7de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/231/2021/b6f19c7f-821f-4a36-87b0-68d5935ff7de-1621019345.jpg",
+    "url_thumb": "https://www.astrobin.com/eucsr6/0/rawthumb/thumb/",
+    "user": "niteman1946",
+    "views": 93,
+    "w": 3274
+}

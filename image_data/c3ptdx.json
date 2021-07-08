@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 23,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.204",
+    "description": "This is my first Galaxy shot with the RCOS system. It has been a very rainy and cloudy spring in Texas and total number of clear nights in the last few months has been very low.\n\nThe biggest issue I have had is to test and adjust the system due to that. Since this system is setup in my remote observatory about 2 hours from Austin, every adjustment needs to be planned based on weather and work. \nFirst the problem was collimation. It needed adjustment after the first time. Second, I found my filters inside the wheel were night attached tightly and were shifting causing flats failure. Third, I confirmed what I expected in terms of the mount. It cannot handle this scope. So I have a 10Micron HPS2000 on the way.\n\nMount issues: The mount cannot handle *any* wind at all (Not really the fault of the mount as this is above its capacity). The major problem has beeen with APCC and ASCOM driver. The scope needs to be parked very precisely to avoid the observatory roof. But there seems to be a software issue where the ASCOM driver cannot precisely park at the user defined Alt-Az location (it is off by few degrees ) and apparently a fix is coming at some point.  so, I have to remotely-manually shutdown the observatory in the morning (which is scary given the fast moving storms during this time of the year).  Finally, I am having some kind of RA oscillation. RA is almost twice that of DEC (0.5'' in RA vs 0.25'' in DEC) resulting in tight but eccentric stars.  I am not sure why.. either RA needs to be remeshed or it is due to the load on the mount.\n\nNo introduction is needed for the target . I have not shot this after my initial attempt few years ago. I decided, I needed a inspiring target to start with :) and wanted like 20 hours of L. But I couldn't even eke out half of that.. and the star eccentricity was driving me crazy. But here it is. The resolution is very very good. The scope shows a lot of promise.. I am hoping new mount will take care of that.  I decided to process the data I have instead of chasing more subs (more rains for the next few weeks).  \n\nI shot 110x10 minute subs of L and 18x10 minute for each of R, G, B. However, due to the aforementioned flats issue, I threw out about 40 L subs. I manually rejected 27 more frames and ended up with 43 x 10 minute for L.",
+    "h": 1694,
+    "hash": "c3ptdx",
+    "id": 601535,
+    "imaging_cameras": [
+        "QHYCCD QHY600m"
+    ],
+    "imaging_telescopes": [
+        "RCOS 12.5'' Carbontube RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 167,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "90.369",
+    "pixscale": "0.879",
+    "published": "2021-07-03T19:02:20.728743",
+    "ra": "202.511",
+    "radius": "0.369",
+    "remote_source": "SSLLC",
+    "resource_uri": "/api/v1/image/601535/",
+    "revisions": [
+        "/api/v1/imagerevision/294128/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool Galaxy",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51",
+    "updated": "2021-07-07T04:27:27.162387",
+    "uploaded": "2021-07-03T18:48:32.336664",
+    "url_duckduckgo": "https://www.astrobin.com/c3ptdx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c3ptdx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c3ptdx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c3ptdx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c3ptdx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c3ptdx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c3ptdx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2021/29db77c0-f040-4c07-82ce-0fcfdc9c41b3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2021/29db77c0-f040-4c07-82ce-0fcfdc9c41b3-1625338949.png",
+    "url_thumb": "https://www.astrobin.com/c3ptdx/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 298,
+    "w": 2500
+}

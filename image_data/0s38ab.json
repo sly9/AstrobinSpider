@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "67.322",
+    "description": "This is a 2-panel mosaic at full resolution  (4878x6189).  I wanted to see if Startools could handle it (it could) and it wasn't too slow (it wasn't).  Each panel is 80x100s.",
+    "h": 6189,
+    "hash": "0s38ab",
+    "id": 537039,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "181.301",
+    "pixscale": "1.829",
+    "published": "2020-11-03T04:13:04.600933",
+    "ra": "359.905",
+    "radius": "2.002",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/537039/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822"
+    ],
+    "title": "NGC 7822 area",
+    "updated": "2021-03-16T18:48:45.169865",
+    "uploaded": "2020-11-03T03:56:48.765067",
+    "url_duckduckgo": "https://www.astrobin.com/0s38ab/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0s38ab/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0s38ab/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0s38ab/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0s38ab/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0s38ab/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0s38ab/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2020/8de8ce94-fdbe-4600-92bc-47a1ad66fe2a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7159/2020/8de8ce94-fdbe-4600-92bc-47a1ad66fe2a-1604376744.jpg",
+    "url_thumb": "https://www.astrobin.com/0s38ab/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 151,
+    "w": 4878
+}

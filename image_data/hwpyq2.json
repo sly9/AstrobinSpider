@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 52,
+    "comments": 111,
+    "data_source": "OTHER",
+    "dec": "54.347",
+    "description": "This deep field and HR image was taken with the 1m C2PU telescope in june, using a QHY600 camera. S. Brunier and David Vernet sent the data to me for processing.\r\n\r\nI have rarely seen such a resolution. The stretched stack shows faint objects of mag 25,3.\r\n\r\nLuminance : 13 hours (784 x 60 s)\r\nR : 2 hours (126x60s)\r\nV : 2 hours (115x60s)\r\nB : 2 hours (117x60s)\r\n\r\nIMO this is one of the best images of this object ever taken from the ground (Pro or amator). For example here is one from the Kitt Peak 4m (credits on the site) :  \r\n\r\n<a href=\"https://noirlab.edu/public/images/noao-m101ubviha/\">comparison example Kitt Peak 4m</a>\r\n\r\nHope you like it.\r\n\r\nJF",
+    "h": 3118,
+    "hash": "hwpyq2",
+    "id": 599146,
+    "imaging_cameras": [
+        "QHY 600"
+    ],
+    "imaging_telescopes": [
+        "C2PU T 1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 559,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814912/"
+    ],
+    "orientation": "356.464",
+    "pixscale": "0.470",
+    "published": "2021-06-21T11:56:05.102857",
+    "ra": "210.806",
+    "radius": "0.368",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599146/",
+    "revisions": [
+        "/api/v1/imagerevision/292839/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5451",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471"
+    ],
+    "title": "M 101 - Pinwheel Galaxy. High resolution and deep field with C2PU T 1000.",
+    "updated": "2021-07-06T23:19:32.439105",
+    "uploaded": "2021-06-21T11:42:17.687014",
+    "url_duckduckgo": "https://www.astrobin.com/hwpyq2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hwpyq2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hwpyq2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hwpyq2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hwpyq2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hwpyq2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hwpyq2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2021/3cc22c4b-7735-4df8-bbff-a951c946f04c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2021/3cc22c4b-7735-4df8-bbff-a951c946f04c-1624276585.jpg",
+    "url_thumb": "https://www.astrobin.com/hwpyq2/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 2022,
+    "w": 4696
+}

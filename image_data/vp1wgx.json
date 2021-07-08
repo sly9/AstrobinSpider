@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "33.418",
+    "description": "The Tadpoles Nebula (aka IC410) - Tadpoles swim in the cosmic ocean.\r\nThis faint, dusty, emission nebula locates in the constellation Auriga about 12,000 light-years away from Earth.\r\nThe cloud of glowing hydrogen gas structures(red color) in this picture is lit by the radiation from a galactic cluster of stars NGC1893 that lies in the center of the nebula. There are two tadpole shapes in the center of the image about 10 light-years long which consist of denser, cooler gas, and dust, and it is known as the Tadpoles of IC 410. \r\nThis is a Hubble Palette (SHO) narrowband imaging that NASA tends to use RGB mapping with Sulphur II, Ha, OIII filter data.  \r\nR=0.6*Sii + 0.45 * Ha\r\nG=.7*Ha + 0.3*Oiii\r\nB=Oiii\r\nUsed Synthetic Lum from (Ha+S2+O3)/3\r\nRGB stars\r\n\r\nResolution ............... 0.783 arcsec/px\r\nRotation ................. -89.789 deg\r\nObservation start time ... 2020-09-23 09:40:21 UTC\r\nObservation end time ..... 2020-11-10 13:29:49 UTC\r\nFocal distance ........... 990.19 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 2d 2' 51.5\" x 1d 21' 48.8\"\r\nImage center ............. RA:  5 22 36.290  Dec: +33 25 01.31\r\n\r\nFilters: Astrodon 50mm Unmounted RGB Gen2 E-Series Tru-Balance Filter Sets\r\n         Astrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue  FWHM 1.87 ~ 3.00(cut-off) Approved 105/131\r\n     105*60\" 1 Hour 45 Minutes   Bin2x2  9/24, 9/25, 10/19/2020\r\nGreen FWHM 1.83 ~ 3.00(cut-off)  Approved 110/123\r\n     110*60\" 1 Hour 50 Minutes   Bin2x2  9/24, 9/25, 10/19/2020\r\nRed   FWHM 2.18 ~ 3.00(cut-off)  Approved 120/123\r\n     121*60\" 2 Hour    Bin2x2  9/24, 9/25, 10/19/2020\r\nHa    FWHM 2.20 ~ 4.00(cut-off) Approved 83/93\r\n     83*900  20 Hours 45 Minutes   Bin2x2   9/22 ~ 11/09/2020\r\nOII   FWHM 2.31 ~ 4.00 (cut-off) Approved 69/84\r\n     69*900  17 Hours 15 minutes   Bin2x2   9/22 ~ 11/09/2020\r\nSII   FWHM 2.15 ~ 4.00 (Cut-off) Approved  80/89\r\n     80*900  20 Hours   Bin2x2   9/22 ~ 11/09/2020",
+    "h": 2687,
+    "hash": "vp1wgx",
+    "id": 540707,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 199,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "269.800",
+    "pixscale": "1.796",
+    "published": "2020-11-14T08:37:17.509008",
+    "ra": "80.661",
+    "radius": "1.222",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/540707/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1893",
+        "The star 19Aur"
+    ],
+    "title": "Tadpoles of IC 410 - Narrow Bands",
+    "updated": "2021-05-17T00:14:48.508604",
+    "uploaded": "2020-11-14T08:14:57.989107",
+    "url_duckduckgo": "https://www.astrobin.com/vp1wgx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vp1wgx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vp1wgx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vp1wgx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vp1wgx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vp1wgx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vp1wgx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2020/01086354-4b23-4895-8e06-5fa6e15cd0a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2020/01086354-4b23-4895-8e06-5fa6e15cd0a3-1605342785.jpg",
+    "url_thumb": "https://www.astrobin.com/vp1wgx/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 566,
+    "w": 4096
+}

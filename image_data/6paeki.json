@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "13.330",
+    "description": "A couple caveats:\r\n\r\n1. I did actually use some of my data from my <a href=https://www.astrobin.com/286165/>previous attempt in 2017</a> making the total hours of integration 33.9 hours. I didn't include this in the total for a couple reasons, the main one being that I mostly used those data for fixing some overly skewed stars due to the collimation woes that I mentioned in my <a href=https://www.astrobin.com/bup3h3/>Thor's Helmet</a> image, but it did also end up in the superlum stack and Ha stack as well.\r\n\r\n2. Like I said: My collimation is off. Zoom in at your own peril (pixel peepers: You've been warned). This was actually a little worse than Thor's Helmet, because I only imaged on one side of the Meridian. I took the scope completely apart on Wednesday and found two possible sources of the collimation problems I've been plagued with since January. Hopefully I fixed everything - I should know by Friday morning.\r\n\r\nAnyway: How cool is it that I got a trace of that tidal stream from my Bortle 7+ location? I wouldn't have thought it possible, but I actually saw a trace of it in an early lum test stack. I must have really messed up my flats in 2017 to have not gotten it.",
+    "h": 3520,
+    "hash": "6paeki",
+    "id": 470883,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific PN-208/812 Carbon Fiber OTA"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "274.173",
+    "pixscale": "0.914",
+    "published": "2020-03-30T19:18:26.939523",
+    "ra": "169.974",
+    "radius": "0.741",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/470883/",
+    "revisions": [
+        "/api/v1/imagerevision/222752/",
+        "/api/v1/imagerevision/222754/",
+        "/api/v1/imagerevision/222755/"
+    ],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet",
+    "updated": "2021-03-31T22:29:21.920421",
+    "uploaded": "2020-03-30T19:02:39.587969",
+    "url_duckduckgo": "https://www.astrobin.com/6paeki/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6paeki/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6paeki/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6paeki/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6paeki/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6paeki/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6paeki/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/079cfebd-0058-410d-b499-b44f1534d19a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/079cfebd-0058-410d-b499-b44f1534d19a-1586303762.png",
+    "url_thumb": "https://www.astrobin.com/6paeki/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 609,
+    "w": 4656
+}

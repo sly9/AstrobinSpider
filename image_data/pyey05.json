@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.958",
+    "description": "An extremely dim supernova remnant in Auriga. 17,5 hours of total exposure in SHO+RGB composition",
+    "h": 1800,
+    "hash": "pyey05",
+    "id": 549025,
+    "imaging_cameras": [
+        "ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO 6\" f/4 Imaging Newtonian Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 189,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "95.448",
+    "pixscale": "1.938",
+    "published": "2020-12-11T16:57:21.190959",
+    "ra": "81.628",
+    "radius": "0.800",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/549025/",
+    "revisions": [
+        "/api/v1/imagerevision/264083/"
+    ],
+    "subjects": [],
+    "title": "Sh2-224",
+    "updated": "2021-04-29T15:36:45.277243",
+    "uploaded": "2020-12-11T16:57:21.436553",
+    "url_duckduckgo": "https://www.astrobin.com/pyey05/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pyey05/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pyey05/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pyey05/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pyey05/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pyey05/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pyey05/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/40092/2020/1e52fc0f-db8f-4daf-a1de-f53b612ea320.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/40092/2020/1e52fc0f-db8f-4daf-a1de-f53b612ea320-1607706664.jpg",
+    "url_thumb": "https://www.astrobin.com/pyey05/0/rawthumb/thumb/",
+    "user": "erik.pirtala",
+    "views": 1181,
+    "w": 2365
+}

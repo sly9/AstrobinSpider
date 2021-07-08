@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "26.427",
+    "description": "Object : Melotte 111  Coma Star Cluster\r\nDate :  Mar.2020\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope  : Tak e-180\r\nMount : Skywatcher EQ8\r\nCamera : ZWO ASI094MC(-10ºC )\r\nFilters :  Baader L\r\nExposure : L: 300sx 27, (2.25hr)\r\nGuiding :  Borg 50/ asi174\r\nImage Processing : PI ,PS-CC",
+    "h": 4800,
+    "hash": "novxkr",
+    "id": 561966,
+    "imaging_cameras": [
+        "ZWO ASI094MC-PRO"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "https://astro-noodle.blogspot.com/2021/01/melotte-111.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "90.787",
+    "pixscale": "1.994",
+    "published": "2021-01-29T09:18:00.068259",
+    "ra": "186.459",
+    "radius": "2.413",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/561966/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4494",
+        "The star 12Com",
+        "The star 13Com",
+        "The star 14Com",
+        "The star 16Com",
+        "The star 17Com",
+        "The star 21Com",
+        "The star γCom"
+    ],
+    "title": "Melotte 111  Coma Star Cluster",
+    "updated": "2021-04-16T01:08:50.764805",
+    "uploaded": "2021-01-29T09:14:30.702217",
+    "url_duckduckgo": "https://www.astrobin.com/novxkr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/novxkr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/novxkr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/novxkr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/novxkr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/novxkr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/novxkr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2021/25501713-2ec4-4ae4-9c39-34380c27f447.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2021/25501713-2ec4-4ae4-9c39-34380c27f447-1611912201.png",
+    "url_thumb": "https://www.astrobin.com/novxkr/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 221,
+    "w": 7272
+}

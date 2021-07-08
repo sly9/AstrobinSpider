@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "38.333",
+    "description": "This is first attempt at using my 2600MC with the 250mm Newtonian. The results were a bit mixed it picked up some reflections which I assume are coming from the comma corrector. It may be they were always there but the 1600 sensor is small enough to hide them. \r\n\r\nSo to rescue the image I've added data from the old RASA 8 to bring out HA and OIII which I'd never get in a single short night here in the UK. The raw OSC image is in revisions for anyone interested showing reflections.\r\n\r\n104 x 2min 250-PDS 2600MC (3.4 hours)\r\n314 x 2min RASA 8 1600MM (10.4 hours)\r\n216 x 2min RASA 8 1600MM (7.2 hours)",
+    "h": 2673,
+    "hash": "snvinq",
+    "id": 595512,
+    "imaging_cameras": [
+        "ZWO ASI 2600 MC Pro",
+        "asi zwo 1600 pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\"",
+        "Skywatcher 250/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810919/"
+    ],
+    "orientation": "356.580",
+    "pixscale": "1.114",
+    "published": "2021-06-08T09:31:35.727455",
+    "ra": "303.046",
+    "radius": "0.745",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595512/",
+    "revisions": [
+        "/api/v1/imagerevision/290361/"
+    ],
+    "subjects": [
+        "Crescent Nebula",
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "NGC6888 - The Crescent Nebula",
+    "updated": "2021-07-05T20:17:45.710074",
+    "uploaded": "2021-06-08T09:28:16.696401",
+    "url_duckduckgo": "https://www.astrobin.com/snvinq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/snvinq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/snvinq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/snvinq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/snvinq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/snvinq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/snvinq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20303/2021/c2aa47cc-60b4-4dd1-8228-b702d8c5c8ba.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20303/2021/c2aa47cc-60b4-4dd1-8228-b702d8c5c8ba-1623145219.jpg",
+    "url_thumb": "https://www.astrobin.com/snvinq/0/rawthumb/thumb/",
+    "user": "AbsolutelyN",
+    "views": 305,
+    "w": 4000
+}

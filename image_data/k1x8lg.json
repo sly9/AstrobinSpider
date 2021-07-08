@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 46,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I made 7 RGB runs with the GRS quite central. The last 3 captures for each colour channel looked better so I did a test to compare the integration of all 7 runs versus the last 3. There was a very slight benefit in resolution by integrating less, but better runs. However the two images are very comparable but with a timestamp 6.5mins apart. I made this animation to show just how much the planet rotates in this short time. It never ceases to amaze me.\r\nThe seeing was good and the resolution excellent.",
+    "h": 800,
+    "hash": "k1x8lg",
+    "id": 473222,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-05T08:56:32.304669",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/473222/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The rotation of Jupiter in 6.5mins",
+    "updated": "2021-03-17T03:33:31.477778",
+    "uploaded": "2020-04-05T09:44:09.673359",
+    "url_duckduckgo": "https://www.astrobin.com/k1x8lg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k1x8lg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k1x8lg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k1x8lg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k1x8lg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k1x8lg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k1x8lg/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/k1x8lg/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 350,
+    "w": 800
+}

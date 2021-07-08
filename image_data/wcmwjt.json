@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "This is a R-RGB image of Saturn. The R channel was used as the luminance layer. It enhanced the contrast of surface features. Several tiny storms are visible.",
+    "h": 800,
+    "hash": "wcmwjt",
+    "id": 503273,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher BKP300"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809163/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-07-06T16:54:54.617595",
+    "ra": null,
+    "radius": null,
+    "remote_source": "HMO",
+    "resource_uri": "/api/v1/image/503273/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Saturn on 2020-07-05",
+    "updated": "2021-03-17T00:45:23.168046",
+    "uploaded": "2020-07-06T17:54:54.758231",
+    "url_duckduckgo": "https://www.astrobin.com/wcmwjt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wcmwjt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wcmwjt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wcmwjt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wcmwjt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wcmwjt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wcmwjt/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/wcmwjt/0/rawthumb/thumb/",
+    "user": "lgwong",
+    "views": 230,
+    "w": 800
+}

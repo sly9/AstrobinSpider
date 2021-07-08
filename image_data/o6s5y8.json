@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-46.483",
+    "description": "5 Channel 2 Pane Mosaic of the Vela Region",
+    "h": 1932,
+    "hash": "o6s5y8",
+    "id": 601772,
+    "imaging_cameras": [
+        "Apogee U8300 U8300"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106N FSQ -106N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2815842/"
+    ],
+    "orientation": "177.309",
+    "pixscale": "3.510",
+    "published": "2021-07-04T20:59:14.988183",
+    "ra": "133.636",
+    "radius": "1.660",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/601772/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2736",
+        "Pencil Nebula"
+    ],
+    "title": "Pencil Nebula",
+    "updated": "2021-07-07T02:01:38.787831",
+    "uploaded": "2021-07-04T20:49:24.970306",
+    "url_duckduckgo": "https://www.astrobin.com/o6s5y8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/o6s5y8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/o6s5y8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/o6s5y8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/o6s5y8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/o6s5y8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/o6s5y8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15297/2021/5dfd2d82-594d-4522-94e1-a0133ed1dc66.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15297/2021/5dfd2d82-594d-4522-94e1-a0133ed1dc66-1625432409.jpg",
+    "url_thumb": "https://www.astrobin.com/o6s5y8/0/rawthumb/thumb/",
+    "user": "jmtanous",
+    "views": 53,
+    "w": 2803
+}

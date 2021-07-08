@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 42,
+    "comments": 65,
+    "data_source": "BACKYARD",
+    "dec": "18.271",
+    "description": "NGC 7497 is an edge on spiral galaxy, about 60 million ly away, with a diameter of 100.000 ly\r\nMBM 54 is a molecular cloud (also called IFN (Integrated Flux Nebulae)) in the Milky Way, about 900 ly away\r\n\r\nRev B shows the photometry of a star with pretty unusual behavior.\r\nThere is to seen a quick pulsation(about  45 minutes/maxima )\r\nThe pulsation is present on both sessions did at 8 and 9 September.\r\n\r\nLum : ASI174mm / 180 x 2minutes / total 6 hours\r\nColour : Moravian G3-11000c / 24 x 5 minutes / total 2 hours",
+    "h": 1165,
+    "hash": "e454xv",
+    "id": 522324,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 371,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.720",
+    "pixscale": "1.210",
+    "published": "2020-09-11T13:32:32.879638",
+    "ra": "347.254",
+    "radius": "0.365",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/522324/",
+    "revisions": [
+        "/api/v1/imagerevision/249193/"
+    ],
+    "subjects": [
+        "NGC 7497"
+    ],
+    "title": "NGC 7497 and MBM 54",
+    "updated": "2021-05-05T21:18:17.952415",
+    "uploaded": "2020-09-11T14:21:40.219094",
+    "url_duckduckgo": "https://www.astrobin.com/e454xv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/e454xv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/e454xv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/e454xv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/e454xv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/e454xv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/e454xv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/06b3e79f-2be0-43dc-ad22-1a55dcb3fdd7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/06b3e79f-2be0-43dc-ad22-1a55dcb3fdd7-1599834692.png",
+    "url_thumb": "https://www.astrobin.com/e454xv/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 1438,
+    "w": 1835
+}

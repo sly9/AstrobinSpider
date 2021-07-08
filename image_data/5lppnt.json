@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "Mars near opposition, 2020. Trying different processing workflow, deconvoluting less aggressively with AstraImage, then refining with wavelets in RS6 which somehow still seems to work a little better than the equivalent multiscale processes in either AstraImage or PixInsight. Final cleanup in PixInsight and Photoshop.",
+    "h": 800,
+    "hash": "5lppnt",
+    "id": 531898,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808204/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-12T21:04:04.141419",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/531898/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Mars near opposition, 2020",
+    "updated": "2021-03-16T19:19:10.901762",
+    "uploaded": "2020-10-12T21:59:30.764816",
+    "url_duckduckgo": "https://www.astrobin.com/5lppnt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5lppnt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5lppnt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5lppnt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5lppnt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5lppnt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5lppnt/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/5lppnt/0/rawthumb/thumb/",
+    "user": "FlankerOneTwo",
+    "views": 55,
+    "w": 800
+}

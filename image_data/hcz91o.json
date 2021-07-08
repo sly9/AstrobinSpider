@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "69.068",
+    "description": "L  60x600 2x2\r\nR  12x600 2x2\r\nG  12x600 2x2\r\nB  12x600 2x2",
+    "h": 2652,
+    "hash": "hcz91o",
+    "id": 550757,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "273.834",
+    "pixscale": "0.470",
+    "published": "2020-12-19T14:38:00.113178",
+    "ra": "148.899",
+    "radius": "0.278",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/550757/",
+    "revisions": [
+        "/api/v1/imagerevision/265282/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81 LRGB",
+    "updated": "2021-03-24T15:15:30.638421",
+    "uploaded": "2020-12-19T14:36:15.142263",
+    "url_duckduckgo": "https://www.astrobin.com/hcz91o/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hcz91o/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hcz91o/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hcz91o/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hcz91o/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hcz91o/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hcz91o/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/b8b60abe-1726-4cf8-9ed6-6493adeb7af7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/b8b60abe-1726-4cf8-9ed6-6493adeb7af7-1608388795.jpg",
+    "url_thumb": "https://www.astrobin.com/hcz91o/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 359,
+    "w": 3332
+}

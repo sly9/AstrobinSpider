@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "-10.556",
+    "description": "Very rarely imaged target for some reason. I was always noticing it on wide field images of the MW (like in my recent image <a href=\"https://www.astrobin.com/cp7z1f/\">here</a>) and decided to give it a try with a longer FL.\r\n\r\nPretty dim, so it would definitely appreciate more integration time, but I got what I got. Not a lot of details here (maybe more integration will show additional details, but I don't think there is too much more: although I saw fantastic deep images in hydrogen like <a href=\"https://www.mdwskysurvey.org/recent-highlights?pgid=iw2583if-72139e4c-9e64-4417-9e09-998bf37bcd79\">here</a> I doubt that those details can be really picked up with wide band filters). I like the combination of dust clouds and emission nebulae. Also, if you look closely, you can notice a tiny wisp of reflection nebula just around ζOph. I also like how the dust on the left kinda resembles the letter ζ.\r\n\r\nRevision B shows starless version, check it out, it shows <b>a lot</b> more nebulosity. \r\n\r\nPS. Now I definitely know how to remove stars from images (lol) and how to put them back, but I still have no idea how to turn them into nice and colorful ones instead of dull blobs that I always get with this setup. Any recommendations and suggestions are welcome!",
+    "h": 3761,
+    "hash": "9pnt1k",
+    "id": 489559,
+    "imaging_cameras": [
+        "QHYCCD QHY 16200A"
+    ],
+    "imaging_telescopes": [
+        "Zeiss APO Sonnar 2/135"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809552/"
+    ],
+    "orientation": "359.131",
+    "pixscale": "9.418",
+    "published": "2020-05-20T06:31:51.008632",
+    "ra": "250.007",
+    "radius": "6.744",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/489559/",
+    "revisions": [
+        "/api/v1/imagerevision/233805/"
+    ],
+    "subjects": [
+        "13 zet Oph",
+        "14.21",
+        "20 Oph",
+        "23 Oph",
+        "3 ups Oph",
+        "814 Tauris",
+        "Khan",
+        "M107",
+        "Sh2-27",
+        "The star 20Oph",
+        "The star 23Oph",
+        "The star ζOph",
+        "The star υOph"
+    ],
+    "title": "Area around ζOph: Sh2-27, M107 and more",
+    "updated": "2021-06-12T21:00:37.885157",
+    "uploaded": "2020-05-20T06:59:14.859517",
+    "url_duckduckgo": "https://www.astrobin.com/9pnt1k/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9pnt1k/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9pnt1k/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9pnt1k/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9pnt1k/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9pnt1k/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9pnt1k/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13578/2020/f422470e-10bc-4b3f-a410-7068dfdf02b3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13578/2020/f422470e-10bc-4b3f-a410-7068dfdf02b3-1589963401.jpg",
+    "url_thumb": "https://www.astrobin.com/9pnt1k/0/rawthumb/thumb/",
+    "user": "nekitmm",
+    "views": 407,
+    "w": 3527
+}

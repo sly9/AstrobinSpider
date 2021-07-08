@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "47.192",
+    "description": "This is a reprocess of M 51 from last week.  I also added Ha data from last year's M 51 image.",
+    "h": 3368,
+    "hash": "buqcfr",
+    "id": 482892,
+    "imaging_cameras": [
+        "QHYCCD QHY183M",
+        "QHYCCD QHY 183c"
+    ],
+    "imaging_telescopes": [
+        "Orion 10\" f/3.9 Astrograph",
+        "Explore Scientific ED127 FCD 100 Air-Spaced Triplet Apochromatic Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "https://alexroberts.smugmug.com/Alex-Roberts-Astrophotos/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809749/",
+        "/api/v1/location/2811319/"
+    ],
+    "orientation": "270.971",
+    "pixscale": "0.430",
+    "published": "2020-04-28T05:29:12.326756",
+    "ra": "202.470",
+    "radius": "0.373",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482892/",
+    "revisions": [
+        "/api/v1/imagerevision/230214/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M 51 in RGBHa",
+    "updated": "2021-03-17T02:39:29.618682",
+    "uploaded": "2020-04-28T06:29:12.625046",
+    "url_duckduckgo": "https://www.astrobin.com/buqcfr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/buqcfr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/buqcfr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/buqcfr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/buqcfr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/buqcfr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/buqcfr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24175/2020/9cf60e28-0588-4da2-93b7-3081db838810.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24175/2020/9cf60e28-0588-4da2-93b7-3081db838810-1588055944.jpg",
+    "url_thumb": "https://www.astrobin.com/buqcfr/0/rawthumb/thumb/",
+    "user": "Arcturus19",
+    "views": 505,
+    "w": 5265
+}

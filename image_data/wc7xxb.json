@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "68.255",
+    "description": "",
+    "h": 4869,
+    "hash": "wc7xxb",
+    "id": 546959,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "OPT/TPO 10\" Imaging Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 125,
+    "link": "http://www.createdheavens.com/yoder-observing-site.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812236/"
+    ],
+    "orientation": "180.722",
+    "pixscale": "0.854",
+    "published": "2020-12-03T05:52:04.487683",
+    "ra": "319.039",
+    "radius": "0.691",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546959/",
+    "revisions": [
+        "/api/v1/imagerevision/262899/",
+        "/api/v1/imagerevision/263023/"
+    ],
+    "subjects": [],
+    "title": "VdB 141 Ghost Nebula",
+    "updated": "2021-06-30T16:41:01.073718",
+    "uploaded": "2020-12-03T05:47:33.126002",
+    "url_duckduckgo": "https://www.astrobin.com/wc7xxb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wc7xxb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wc7xxb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wc7xxb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wc7xxb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wc7xxb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wc7xxb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/46890/2020/d21c2ed7-68e3-4e5a-b3f2-cd2b38f4bb7a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/46890/2020/d21c2ed7-68e3-4e5a-b3f2-cd2b38f4bb7a-1606975333.jpg",
+    "url_thumb": "https://www.astrobin.com/wc7xxb/0/rawthumb/thumb/",
+    "user": "Morrisayoder",
+    "views": 322,
+    "w": 3201
+}

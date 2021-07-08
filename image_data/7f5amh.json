@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "73.914",
+    "description": "",
+    "h": 3115,
+    "hash": "7f5amh",
+    "id": 526846,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM Pro Cooled"
+    ],
+    "imaging_telescopes": [
+        "William Optics SpaceCat 51"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802959/"
+    ],
+    "orientation": "26.074",
+    "pixscale": "3.163",
+    "published": "2020-09-25T09:33:40.095664",
+    "ra": "334.406",
+    "radius": "2.349",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526846/",
+    "revisions": [
+        "/api/v1/imagerevision/251704/",
+        "/api/v1/imagerevision/251943/",
+        "/api/v1/imagerevision/251946/",
+        "/api/v1/imagerevision/252231/"
+    ],
+    "subjects": [
+        "16 Cep",
+        "24 Cep",
+        "31 Cep",
+        "The star 16Cep",
+        "The star 24Cep",
+        "The star 31Cep",
+        "VdB149",
+        "VdB150"
+    ],
+    "title": "LDN1235 and LDN1246",
+    "updated": "2021-03-16T19:50:40.424386",
+    "uploaded": "2020-09-25T10:30:37.885298",
+    "url_duckduckgo": "https://www.astrobin.com/7f5amh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7f5amh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7f5amh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7f5amh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7f5amh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7f5amh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7f5amh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2391/2020/3e7bf232-44b2-48a0-ab9f-0cb43a69b05f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2391/2020/3e7bf232-44b2-48a0-ab9f-0cb43a69b05f-1601030026.jpg",
+    "url_thumb": "https://www.astrobin.com/7f5amh/0/rawthumb/thumb/",
+    "user": "erikgu",
+    "views": 188,
+    "w": 4347
+}

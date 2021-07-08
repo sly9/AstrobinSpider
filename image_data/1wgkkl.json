@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "60.440",
+    "description": "Soul Nebula - IC1848\r\nEquipment Details: ASI183MC Pro, Optolong L-Enhance, Williams Optics Z1 w/ FLAT6 .8x FF, Williams Optics 50mm Guidescope, ASI120mm mini guidecam, SW HEQ5 w/ belt mod.\r\nImage Details: 30x480sec subs(4hrs) unity gain 111, offset 10, bin 1x1, -10c. 20 darks, no flats or bias.\r\nSoftware: NINA, SharpCap, PHD2, APP, Pixinsight, Photoshop.",
+    "h": 3676,
+    "hash": "1wgkkl",
+    "id": 524176,
+    "imaging_cameras": [
+        "ZWO Optical ASI183MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics Zenithstar 81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "23.908",
+    "pixscale": "1.100",
+    "published": "2020-09-17T19:21:41.181979",
+    "ra": "43.790",
+    "radius": "1.012",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/524176/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "IC 1848 - Soul Nebula",
+    "updated": "2021-03-24T13:33:51.822897",
+    "uploaded": "2020-09-17T20:21:43.092245",
+    "url_duckduckgo": "https://www.astrobin.com/1wgkkl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1wgkkl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1wgkkl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1wgkkl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1wgkkl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1wgkkl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1wgkkl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54336/2020/f53376b5-6dfa-42dd-a792-e33eedf203f6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54336/2020/f53376b5-6dfa-42dd-a792-e33eedf203f6-1600374636.jpg",
+    "url_thumb": "https://www.astrobin.com/1wgkkl/0/rawthumb/thumb/",
+    "user": "Colorado_Astro",
+    "views": 143,
+    "w": 5513
+}

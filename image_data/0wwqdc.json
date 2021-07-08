@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.200",
+    "description": "Whether you've learned new techniques, gotten better equipment or just had some special nights, there are a handful of objects that you always want to keep improving on.  M51 is one of those.  Finding myself with some excellent seeing, including a 0.8\" period one night, I gave the Whirlpool Galaxy another try.  \r\n\r\nGuider RMS error got as low as .15\" and FWHM got down to 1.48\" on the best subs.  That's about 2.5 pixels with my setup.  I'm really pleased with the resolution but I had hoped to capture more of the faint dust streams.  At F7.2 and Bortle 3, this may not be the best location and equipment for that.  Or maybe I'm not processing The dim details competently?  Well, we always need something to improve on I guess.\r\n\r\nThe sharpest subs were integrated separately to produce both a \"Sharpest\"- and \"All\"-sub channel masters.  Two super-luminance masters were created, one for the Sharpest set and one for the all set.  Deconvolution was applied in CCDStack to both super-luminance masters with further sharpening in CCDStack done to the Sharpest.  These were combined using luminance masks in Photoshop.  This process kept the background mostly noise free and retained as much detail as possible in the galaxy.\r\n\r\n30 Hours of LRGB were used, split about 50/50 between L and RGB.  A further 17 hours of Ha was added to both the Luminance and RGB channels.\r\n\r\nThe QHY600M was in high gain mode 1 and gain 56.  I used 300 seconds subs for the LRGB and 600 second subs for the Ha.",
+    "h": 1683,
+    "hash": "0wwqdc",
+    "id": 582316,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 249,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "308.897",
+    "pixscale": "0.609",
+    "published": "2021-04-21T00:25:35.107176",
+    "ra": "202.475",
+    "radius": "0.261",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/582316/",
+    "revisions": [
+        "/api/v1/imagerevision/284248/",
+        "/api/v1/imagerevision/284264/",
+        "/api/v1/imagerevision/292061/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "IC 4278",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool Galaxy",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 With Excellent Seeing",
+    "updated": "2021-07-01T21:37:22.343427",
+    "uploaded": "2021-04-15T06:23:35.809362",
+    "url_duckduckgo": "https://www.astrobin.com/0wwqdc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0wwqdc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0wwqdc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0wwqdc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0wwqdc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0wwqdc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0wwqdc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2021/a8c07671-d4c3-404e-83a8-85da9a014a86.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2021/a8c07671-d4c3-404e-83a8-85da9a014a86-1618964541.jpg",
+    "url_thumb": "https://www.astrobin.com/0wwqdc/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 630,
+    "w": 2588
+}

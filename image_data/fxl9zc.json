@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 13,
+    "data_source": "TRAVELLER",
+    "dec": "-24.298",
+    "description": "Spectral colour mapping technique.\r\nL: R: G: B: Ha: OIII: SII: 85: 60: 55: 55: 105: 45: 55 mins.",
+    "h": 2000,
+    "hash": "fxl9zc",
+    "id": 471812,
+    "imaging_cameras": [
+        "Apogee U16M"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo CDK dual config. 300mm f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812882/"
+    ],
+    "orientation": "1.311",
+    "pixscale": "2.551",
+    "published": "2020-04-02T03:30:24.607278",
+    "ra": "271.074",
+    "radius": "1.002",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/471812/",
+    "revisions": [],
+    "subjects": [
+        "Lagoon Nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 Lagoon Nebula",
+    "updated": "2021-06-01T17:18:16.120180",
+    "uploaded": "2020-04-02T04:30:25.044943",
+    "url_duckduckgo": "https://www.astrobin.com/fxl9zc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fxl9zc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fxl9zc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fxl9zc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fxl9zc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fxl9zc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fxl9zc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/55711/2020/679ee197-37c5-4f57-9ed1-57656a8f485c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/55711/2020/679ee197-37c5-4f57-9ed1-57656a8f485c-1585802378.jpg",
+    "url_thumb": "https://www.astrobin.com/fxl9zc/0/rawthumb/thumb/",
+    "user": "debraceravolo",
+    "views": 388,
+    "w": 2000
+}

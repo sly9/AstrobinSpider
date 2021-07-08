@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "44.381",
+    "description": "Two nights of OSC on Pelican, basic quick processing and stacking",
+    "h": 2457,
+    "hash": "szpn56",
+    "id": 501163,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ES102mm FCD100 CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811428/"
+    ],
+    "orientation": "233.805",
+    "pixscale": "1.364",
+    "published": "2020-06-27T19:36:58.171050",
+    "ra": "312.801",
+    "radius": "0.842",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/501163/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Pelican IC5070",
+    "updated": "2021-03-17T00:57:06.025479",
+    "uploaded": "2020-06-27T20:21:36.508431",
+    "url_duckduckgo": "https://www.astrobin.com/szpn56/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/szpn56/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/szpn56/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/szpn56/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/szpn56/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/szpn56/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/szpn56/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/39519/2020/dfe87175-bad5-49d5-97ac-b8e2328b53db.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/39519/2020/dfe87175-bad5-49d5-97ac-b8e2328b53db-1593289857.png",
+    "url_thumb": "https://www.astrobin.com/szpn56/0/rawthumb/thumb/",
+    "user": "pilotken",
+    "views": 49,
+    "w": 3705
+}

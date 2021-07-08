@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 73,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Data for this image is from my last effort to create a mosaic of the Cygnus Loop. I don't remember exactly how many nights involved. A quick check shows it happened between 2020/06/06 and 2020/09/27. The backyard imaging for this project finished before I switching gears to prepare the remote observatory team installation. \r\n\r\n<B>Data Details (2-Panel Mosaic):</B>\r\n<I>\r\nHa - 336 x 2, 300s, Gain 100\r\nS-II - 336 x 2, 300s, Gain 100\r\nO-III - 336 x 2, 300s, Gain 100\r\n</I>\r\nAfter letting the data sitting on the disk for 4 months, I decided to put the data together and make an image. The first thing I noticed is that the light pollution is getting much worse in my area year by year. One example - I even got a strong gradient with the Ha 3nm filter. There are strong gradient bars in the middle of the S-II and O-III mosaic masters. Even with 168 hours, the SNRs are so poor. Hats off to all backyarders!\r\n\r\nThis is a typical HSO narrowband blend. A portion of Ha and O-III joined S-II to form the green channel. Synthetical luminance was created with all three mosaic masters by lighten blending with SHO-AIP script. Multiple hue selections done to separate the colors.",
+    "h": 3840,
+    "hash": "ft1kwb",
+    "id": 562666,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "QHYCCD PoleMaster",
+        "Takahashi FSQ-106EDX III"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 282,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-02-01T15:09:54.415200",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/562666/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Cygnus Loop - Color Splash!",
+    "updated": "2021-07-05T20:01:35.664042",
+    "uploaded": "2021-02-01T07:17:24.491297",
+    "url_duckduckgo": "https://www.astrobin.com/ft1kwb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ft1kwb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ft1kwb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ft1kwb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ft1kwb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ft1kwb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ft1kwb/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/ft1kwb/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1682,
+    "w": 2881
+}

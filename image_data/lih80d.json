@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-59.697",
+    "description": "Carina Nebula the great southern Nebula Processed this in Astropixel Processor, separated the channels into HA and O3 and recombined them. In Photoshop I tweaked the image then pasted as a luminous mask the HA which did a great job of taking the stars and enhancing the nebulosity. Did a further starnett++ and created a star mask, worked on the nebulosity of the starless image then recombined the stars in linear dodge mode. \r\n26 x 300 secs asi zwo 294mc with the Optolong L-Extreme\r\nSkywatcher ED72 with the 0.85 reducer\r\nGuided with the asi 120mm\r\ncontrolled with the ASIAIR Pro eq mode on the Skywatcher neq6",
+    "h": 1880,
+    "hash": "lih80d",
+    "id": 567908,
+    "imaging_cameras": [
+        "ZWO ASI294MC pro"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher ED72 ED APO SkyWatcher ED72"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813735/"
+    ],
+    "orientation": "89.231",
+    "pixscale": "3.626",
+    "published": "2021-02-20T00:54:30.976119",
+    "ra": "160.874",
+    "radius": "1.671",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/567908/",
+    "revisions": [],
+    "subjects": [
+        "Carina Nebula",
+        "IC 2599",
+        "NGC 3324",
+        "NGC 3372",
+        "eta Car Nebula"
+    ],
+    "title": "Carina Nebula NGC  3372",
+    "updated": "2021-06-07T05:04:22.842213",
+    "uploaded": "2021-02-20T00:51:13.800484",
+    "url_duckduckgo": "https://www.astrobin.com/lih80d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lih80d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lih80d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lih80d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lih80d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lih80d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lih80d/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4232/2021/c34f03a6-077e-4e3f-b5bc-2fea0dea08bc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4232/2021/c34f03a6-077e-4e3f-b5bc-2fea0dea08bc-1613782656.jpg",
+    "url_thumb": "https://www.astrobin.com/lih80d/0/rawthumb/thumb/",
+    "user": "Nikolas64",
+    "views": 99,
+    "w": 2734
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.013",
+    "description": "",
+    "h": 4000,
+    "hash": "b6dsh0",
+    "id": 575691,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 217,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.289",
+    "pixscale": "1.234",
+    "published": "2021-03-20T21:00:34.776579",
+    "ra": "198.914",
+    "radius": "0.970",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/575691/",
+    "revisions": [
+        "/api/v1/imagerevision/279026/",
+        "/api/v1/imagerevision/279027/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower Galaxy"
+    ],
+    "title": "The Tidal Streams of M63",
+    "updated": "2021-05-06T08:18:33.056601",
+    "uploaded": "2021-03-20T20:58:48.919662",
+    "url_duckduckgo": "https://www.astrobin.com/b6dsh0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b6dsh0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b6dsh0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b6dsh0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b6dsh0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b6dsh0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b6dsh0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2021/5e5a6d5f-5ee0-475c-9d3d-b8a2332a2f76.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2021/5e5a6d5f-5ee0-475c-9d3d-b8a2332a2f76-1616274168.jpg",
+    "url_thumb": "https://www.astrobin.com/b6dsh0/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 415,
+    "w": 4000
+}

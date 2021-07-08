@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Daystar Quark eyepiece\r\n\r\nThe 1100GTO pairs up very nicely with the Astro-Tech 130 for really stable solar imaging. While the ERF is not strictly necessary (I could use a 2\" UV/IR filter instead) I have switched to using the yellow ERF (energy rejection filter) exclusively now to manage thermal load in the tube.\r\n\r\nThe downside of the ERF is that it adds heavy glass to the already-heavy glass of the triplet cell. To help a bit with weight I remove the AT130's dew shield completely, and secure the ERF with wide, blue tape along the length of the tube. I then use the entirely inadequate nylon screws, that came with the ERF, to center it.\r\n\r\nAt first I tried a Powermate 2.5x on the back of the Quark; I didn't need it. Until now I had always used a 0.5x reducer on the snout of the Quark, a 1.25\" GSO offering, but until I want a full disk image again I don't think I will be using that either.\r\n\r\nI now use two reflective laptop tents or shrouds, made by LapDome, during acquistion. The imaging computer goes in one, and the other gubbins (power brick, external hard disk, power connectors) go in the other with cabling running out the velcro holes at the  back of each tent. This means I can lift, turn and move the laptop for viewing without disturbing the supporting equipment. This is really important so that focusing is physically comfortable.\r\n\r\nI always drape a reflective cloak over the mount as well, made by TeleGizmos I think. The only hardware that is exposed to direct sunlight is the front of the telescope. I also use a straight-through imaging configuration so that the Quark is not 'upright' getting cooked by the sun, although that makes it harder to see the green/orange ready light sometimes.\r\n\r\nNote about Daystar Quark vs SolarMax II 90: The effective exposure times for the Quark were much shorter than for the SolarMax. Something like 20ms vs 150ms. This could be due to aperture difference (130mm vs 90mm), the double stacking of the SolarMax, or possibly just the red filter inside the diagonal of the SolarMax, I don't really know. (Please note I have the BF30 with internal blocking filter). But if frame rate is important to you, such as making a prominence movie, or shooting the ISS as it passes in front of the sun, this may be something to consider. Come to think of it, when I shot the transit of Mercury with the SolarMax, I did not use the diagonal with red filter, just straight through as you can do with the BF30, and I don't recall requiring 'long' exposure times. So it was probably just that.",
+    "h": 1184,
+    "hash": "9cl3kk",
+    "id": 497565,
+    "imaging_cameras": [
+        "ZWO ASI 174MM"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT130EDT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808512/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-14T20:55:12.567169",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497565/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sunspot AR2765 in Hydrogen Alpha",
+    "updated": "2021-04-02T02:03:18.824267",
+    "uploaded": "2020-06-14T21:55:12.805116",
+    "url_duckduckgo": "https://www.astrobin.com/9cl3kk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9cl3kk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9cl3kk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9cl3kk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9cl3kk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9cl3kk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9cl3kk/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/9cl3kk/0/rawthumb/thumb/",
+    "user": "ken_and_sara",
+    "views": 103,
+    "w": 1904
+}

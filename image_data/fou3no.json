@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.616",
+    "description": "﻿Telescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803\r\nMount : RainbowAstro RST-135\r\nFilters : Astrodon 50mm square RGB, 3nm Ha O3\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI120mm mini\r\nExposure : RGB each 600s x 12(1x1bin), Ha 1200s x 68(1x1bin), O3 1200s x 35(1x1bin) Total 40h 20m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)\r\n\r\n﻿",
+    "h": 3960,
+    "hash": "fou3no",
+    "id": 528513,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "357.437",
+    "pixscale": "3.484",
+    "published": "2020-09-29T11:15:54.136577",
+    "ra": "312.888",
+    "radius": "2.710",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/528513/",
+    "revisions": [],
+    "subjects": [
+        "IC 1340",
+        "NGC 6960",
+        "NGC 6979",
+        "NGC 6992",
+        "NGC 6995",
+        "The star 52Cyg",
+        "Veil Nebula"
+    ],
+    "title": "Cygnus Loop",
+    "updated": "2021-06-19T09:38:53.298774",
+    "uploaded": "2020-09-29T12:15:54.422119",
+    "url_duckduckgo": "https://www.astrobin.com/fou3no/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fou3no/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fou3no/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fou3no/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fou3no/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fou3no/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fou3no/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/9b8f601f-c419-4b18-ac44-14d3841b866b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/9b8f601f-c419-4b18-ac44-14d3841b866b-1601382055.jpg",
+    "url_thumb": "https://www.astrobin.com/fou3no/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 348,
+    "w": 3960
+}

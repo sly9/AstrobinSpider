@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "24.131",
+    "description": "Messier 45 - The Pleiades\r\n\r\nThe Pleiades also known as the Seven Sisters and Messier 45, is an open star cluster in the north-west of the constellation Taurus. It is among the star clusters nearest to Earth, it is the nearest Messier object to Earth, located an average distance of 445 light-years from Earth, and is the cluster most obvious to the naked eye in the night sky.\r\n\r\nTechnical details:\r\nTelescope: TS APO 80/500 & TS 0.79x\r\nEQ mount: SW EQ6-r guided ASI120MM\r\nCamera: QHY294C\r\nFilters: Baader Neodymium\r\nFrames: 60 x 180s ; Gain 1600 ; -10ºC\r\nAcquisition: Sharpcap; APT\r\nEdition: PixInsight Core; PS\r\n10/01/2021 \r\nSabugo - Portugal",
+    "h": 1825,
+    "hash": "kmyjrf",
+    "id": 559035,
+    "imaging_cameras": [
+        "QHY294C"
+    ],
+    "imaging_telescopes": [
+        "TS 80/500 Super APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802219/"
+    ],
+    "orientation": "84.216",
+    "pixscale": "3.067",
+    "published": "2021-01-17T21:01:00.940358",
+    "ra": "56.731",
+    "radius": "1.402",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559035/",
+    "revisions": [
+        "/api/v1/imagerevision/269482/"
+    ],
+    "subjects": [
+        "Barnard's Merope Nebula",
+        "IC 349",
+        "Maia Nebula",
+        "Merope Nebula",
+        "NGC 1432",
+        "NGC 1435",
+        "The star 18Tau",
+        "The star Atlas (27Tau)",
+        "The star Celaeno (16Tau)",
+        "The star Electra (17Tau)",
+        "The star Merope (23Tau)",
+        "The star Pleione (28Tau)",
+        "The star Sterope I (21Tau)",
+        "The star Taygeta (19Tau)",
+        "The star ηTau"
+    ],
+    "title": "Messier 45 - The Pleiades",
+    "updated": "2021-04-07T21:15:11.920320",
+    "uploaded": "2021-01-17T20:56:56.326392",
+    "url_duckduckgo": "https://www.astrobin.com/kmyjrf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kmyjrf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kmyjrf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kmyjrf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kmyjrf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kmyjrf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kmyjrf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10378/2021/54aec687-3017-4f07-8d36-85a4dc827a31.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10378/2021/54aec687-3017-4f07-8d36-85a4dc827a31-1610917876.jpg",
+    "url_thumb": "https://www.astrobin.com/kmyjrf/0/rawthumb/thumb/",
+    "user": "Henrique_Silva",
+    "views": 133,
+    "w": 2738
+}

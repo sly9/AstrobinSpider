@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "54.373",
+    "description": "Messier 101 is a spiral galaxy in Ursa Major. It is located about 21 million light years away.  The first recorded observation of M101 was on 27 March 1781 by Pierre Méchain.\r\n\r\nThe majority of this data (LRGB) were captured from our home observatory in Nottinghamshire over several nights between 15 and 27 March 2020. The Ha data were captured on a remote imaging rig in Spain which is jointly owned and operated by Steve and Barry Wilson.  The Ha data is from February 2019. \r\n\r\nMany thanks to Barry for allowing me to use the Ha data\r\n\r\nHa: 20 x 1200s\r\nLum: 32 x 600s\r\nRed: 24 x 600s\r\nGreen: 24 x 600s\r\nBlue: 24 x 600s\r\n\r\nA total of 24 hours exposure.\r\n\r\nData: Elisabeth Milne, Steve Milne & Barry Wilson\r\nProcessing: Elisabeth Milne",
+    "h": 2423,
+    "hash": "uct3oz",
+    "id": 475821,
+    "imaging_cameras": [
+        "QSI 683 wsg-8",
+        "QSI690"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120 ED",
+        "TEC 140/980"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810184/",
+        "/api/v1/location/2810185/"
+    ],
+    "orientation": "270.069",
+    "pixscale": "2.098",
+    "published": "2020-04-11T09:44:35.493680",
+    "ra": "210.782",
+    "radius": "1.176",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/475821/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5422",
+        "NGC 5457",
+        "NGC 5473",
+        "NGC 5474",
+        "NGC 5485"
+    ],
+    "title": "Messier 101 Widefield",
+    "updated": "2021-04-12T14:54:20.464803",
+    "uploaded": "2020-04-11T10:44:35.806572",
+    "url_duckduckgo": "https://www.astrobin.com/uct3oz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uct3oz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uct3oz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uct3oz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uct3oz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uct3oz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uct3oz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30676/2020/11e04a62-736f-4727-acfe-40430a1bb513.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30676/2020/11e04a62-736f-4727-acfe-40430a1bb513-1586602108.jpg",
+    "url_thumb": "https://www.astrobin.com/uct3oz/0/rawthumb/thumb/",
+    "user": "MrsGnomus",
+    "views": 114,
+    "w": 3227
+}

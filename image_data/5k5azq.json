@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "61.790",
+    "description": "Hello,\r\n\r\nThis is my image of the planetary nebula Abell 16.\r\n\r\nAbell 16 is one of the few examples of spherical PNe. Unfortunately, it is very faint and so is rarely imaged and doesn’t show up much in the professional literature. I found one study on the deceleration of nebula shells that talks about it, but otherwise it tends to show up in various surveys. From these we can glean a distance of 2413 lightyears, a diameter of ~3 lightyears and gas expansion speeds of ~37km/s.\r\n\r\nPNe are the result of a slowly expanding shell of gas ejected by the progenitor star during its AGB phase, interacting with the faster stellar wind given off when the progenitor star’s core is exposed. Often these winds are shaped by magnetic fields, companion stars, the interstellar medium and other effects, but in this case the gases appeared to have expanded equally in all directions.\r\n\r\nGiven that this interaction results in the turbulent mixing of bubbles of hot gas, I have deliberately highlighted the layers containing structures with a size similar to the FHWM of the image to give the impression of a roiling, boiling sphere of expanding gasses. \r\n\r\nFor the nebula, the narrow band channels have been blended according to the following scheme:\r\nRed = 0.9*Ha+0.1*N2, Green = 0.5*(Red + O3), Blue = O3.\r\n\r\nThe background stars are 30x60s each in red, green and blue.\r\n\r\nI hope you like it.",
+    "h": 1361,
+    "hash": "5k5azq",
+    "id": 574691,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 280,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "91.964",
+    "pixscale": "0.431",
+    "published": "2021-03-16T23:18:03.425966",
+    "ra": "100.972",
+    "radius": "0.147",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/574691/",
+    "revisions": [],
+    "subjects": [
+        "PK153+22.1"
+    ],
+    "title": "Abell 16",
+    "updated": "2021-06-21T03:29:24.220967",
+    "uploaded": "2021-03-16T18:09:56.100502",
+    "url_duckduckgo": "https://www.astrobin.com/5k5azq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5k5azq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5k5azq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5k5azq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5k5azq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5k5azq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5k5azq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20624/2021/8adfccff-fe24-4ef0-916b-7c46a51cb717.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20624/2021/8adfccff-fe24-4ef0-916b-7c46a51cb717-1615919685.jpg",
+    "url_thumb": "https://www.astrobin.com/5k5azq/0/rawthumb/thumb/",
+    "user": "astroian",
+    "views": 1210,
+    "w": 2045
+}

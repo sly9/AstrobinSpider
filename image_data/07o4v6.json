@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "55.936",
+    "description": "",
+    "h": 3336,
+    "hash": "07o4v6",
+    "id": 490237,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/3.9 Newtonian Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810325/"
+    ],
+    "orientation": "270.054",
+    "pixscale": "0.919",
+    "published": "2020-05-22T12:37:38.312861",
+    "ra": "228.602",
+    "radius": "0.709",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490237/",
+    "revisions": [
+        "/api/v1/imagerevision/234090/",
+        "/api/v1/imagerevision/234096/",
+        "/api/v1/imagerevision/234098/",
+        "/api/v1/imagerevision/234099/",
+        "/api/v1/imagerevision/234103/"
+    ],
+    "subjects": [
+        "NGC 5905",
+        "NGC 5907",
+        "NGC 5908"
+    ],
+    "title": "NGC 5907 and Friends",
+    "updated": "2021-03-17T01:59:19.767126",
+    "uploaded": "2020-05-22T13:37:38.562275",
+    "url_duckduckgo": "https://www.astrobin.com/07o4v6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/07o4v6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/07o4v6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/07o4v6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/07o4v6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/07o4v6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/07o4v6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21820/2020/a16ec6af-8382-490b-9c28-0a051dc01769.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21820/2020/a16ec6af-8382-490b-9c28-0a051dc01769-1590154989.jpg",
+    "url_thumb": "https://www.astrobin.com/07o4v6/0/rawthumb/thumb/",
+    "user": "ks_observer",
+    "views": 150,
+    "w": 4446
+}

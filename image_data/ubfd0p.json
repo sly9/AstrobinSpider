@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "23.328",
+    "description": "",
+    "h": 4011,
+    "hash": "ubfd0p",
+    "id": 503712,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "TPO 12\" Truss RC ONAG-SC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808950/"
+    ],
+    "orientation": "107.652",
+    "pixscale": "0.404",
+    "published": "2020-07-08T18:52:53.406540",
+    "ra": "295.806",
+    "radius": "0.282",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/503712/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6823"
+    ],
+    "title": "NGC6823",
+    "updated": "2021-03-17T00:42:52.014313",
+    "uploaded": "2020-07-08T19:52:53.946388",
+    "url_duckduckgo": "https://www.astrobin.com/ubfd0p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ubfd0p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ubfd0p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ubfd0p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ubfd0p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ubfd0p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ubfd0p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16029/2020/95b47d44-f7ab-4ee2-b61f-830c845f2222.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16029/2020/95b47d44-f7ab-4ee2-b61f-830c845f2222-1594238576.jpg",
+    "url_thumb": "https://www.astrobin.com/ubfd0p/0/rawthumb/thumb/",
+    "user": "dts350z",
+    "views": 91,
+    "w": 3032
+}

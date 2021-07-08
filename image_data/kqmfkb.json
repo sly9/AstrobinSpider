@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "MIX",
+    "dec": "-36.136",
+    "description": "LRGB each 10x180sec",
+    "h": 768,
+    "hash": "kqmfkb",
+    "id": 540127,
+    "imaging_cameras": [
+        "Zwo ASI 1600 mono"
+    ],
+    "imaging_telescopes": [
+        "12\" Deltagraph f 3,3"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806807/"
+    ],
+    "orientation": "127.864",
+    "pixscale": "1.975",
+    "published": "2020-11-12T10:16:44.850863",
+    "ra": "53.414",
+    "radius": "0.351",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/540127/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "NGC 1365",
+    "updated": "2021-03-31T14:03:43.731663",
+    "uploaded": "2020-11-12T10:16:45.203984",
+    "url_duckduckgo": "https://www.astrobin.com/kqmfkb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kqmfkb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kqmfkb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kqmfkb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kqmfkb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kqmfkb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kqmfkb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22108/2020/14928c61-4960-48e4-a448-59d5f1e10e17.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22108/2020/14928c61-4960-48e4-a448-59d5f1e10e17-1605176577.png",
+    "url_thumb": "https://www.astrobin.com/kqmfkb/0/rawthumb/thumb/",
+    "user": "AntaresGabi",
+    "views": 107,
+    "w": 1024
+}

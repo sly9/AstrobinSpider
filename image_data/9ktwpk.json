@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "47.196",
+    "description": "Shot in a bortle 8-9 zone. Filter details:\r\n\r\nR = 79 x 300s = 6.58 hours\r\nG = 82 x 300s = 6.83 hours\r\nB = 82 x 300s = 6.83 hours\r\nH-alpha = 62 x 300s = 5.16 hours\r\nL = 192 x 180s = 9.6 hours",
+    "h": 3796,
+    "hash": "9ktwpk",
+    "id": 573310,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro monochrome"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 8 HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813841/"
+    ],
+    "orientation": "266.284",
+    "pixscale": "0.347",
+    "published": "2021-03-11T19:00:04.348192",
+    "ra": "202.472",
+    "radius": "0.285",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573310/",
+    "revisions": [],
+    "subjects": [
+        "IC 4277",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M51 - The Whirlpool Galaxy HaLRGB",
+    "updated": "2021-06-21T08:32:50.310699",
+    "uploaded": "2021-03-11T18:53:19.458644",
+    "url_duckduckgo": "https://www.astrobin.com/9ktwpk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9ktwpk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9ktwpk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9ktwpk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9ktwpk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9ktwpk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9ktwpk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/68818/2021/7991ea4b-ad4c-40f5-8b33-1b1fcd23facb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/68818/2021/7991ea4b-ad4c-40f5-8b33-1b1fcd23facb-1615833712.jpg",
+    "url_thumb": "https://www.astrobin.com/9ktwpk/0/rawthumb/thumb/",
+    "user": "chadleader",
+    "views": 637,
+    "w": 4527
+}

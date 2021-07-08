@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 62,
+    "data_source": "BACKYARD",
+    "dec": "-34.178",
+    "description": "This object's Dec is 34 degrees South and only had two hours period imaging time. I captured the subframes during the 3 AM ~ 5 AM when I was asleep.  The ocean cloud will be in the bay for the next couple of weeks after 11 PM, I have cut short the imaging session. I do have enough data for post-processing. \r\nC&C is welcome. Thank you for viewing.\r\nJian Yuan Peng\r\n--- Facts --\r\nThe Lobster Nebula, Cataloged as NGC 6357, spans about 400 light-years in the constellation of the Scorpion about 8,000 light-years away from Earth. It is a diffuse nebula and contains at least three clusters of young stars, including many hot, massive, luminous stars. The overall blue glow near the inner star-forming region results from the emission of ionized hydrogen gas. The intricate patterns are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity.\r\nThis nebula is named Lobster due to its appearance resembling the lobster.\r\nTechnical details:\r\nColor palette by PixelMath\r\n    R = \"(O^~O)*S + ~(O^~O)*H\";\r\n    G = \"((O*H)^~(O*H))*H + ~((O*H)^~(O*H))*O\";\r\n    B = \"O*1.2\";\r\nTelescope: TEC 160FL + TEC FRC 0.9x\r\nMount: Astro-Physics 1100GTO\r\nImaging cameras: ZWO ASI6200MM\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\nPhotometricColorCalibration data (preCorp):\r\nResolution ............... 0.784 arcsec/px\r\nRotation ................. 0.195 deg\r\nObservation start time ... 2021-04-14 10:45:44 UTC\r\nObservation end time ..... 2021-05-12 11:09:25 UTC\r\nFocal distance ........... 988.91 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 2d 3' 0.6\" x 1d 21' 29.0\"\r\nImage center ............. RA: 17 25 24.494  Dec: -34 11 42.48\r\n\r\nAstrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nAstrodon 50mm Unmounted LRGB Gen2 E-Series Filter Sets\r\nBlue   52x120\"      1.7 Hours         Bin1x1 \r\nGreen  52x120\"      1.7 Hours         Bin1x1 \r\nRed    52x120\"      1.7 Hours         Bin1x1 \r\nHa     40x900\"  2x1200\"   10.6 Hours  Bin1x1  \r\nOIII   29x900\"  2x1200\"  7.9 Hours   Bin1x1 \r\nSII    28x900\"  2x1200\"   7.6 Hours   Bin1x1",
+    "h": 5579,
+    "hash": "ipp2wk",
+    "id": 589611,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 331,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "359.924",
+    "pixscale": "0.785",
+    "published": "2021-05-14T20:02:28.177661",
+    "ra": "261.482",
+    "radius": "1.043",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/589611/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6357",
+        "the War and Peace Nebula"
+    ],
+    "title": "NGC 6357 The Lobster Nebula",
+    "updated": "2021-07-02T00:52:44.656139",
+    "uploaded": "2021-05-14T18:01:36.751992",
+    "url_duckduckgo": "https://www.astrobin.com/ipp2wk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ipp2wk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ipp2wk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ipp2wk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ipp2wk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ipp2wk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ipp2wk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/5162f39f-00e8-46d3-8b98-82ab9afbc702.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/5162f39f-00e8-46d3-8b98-82ab9afbc702-1621018041.JPG",
+    "url_thumb": "https://www.astrobin.com/ipp2wk/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 1359,
+    "w": 7778
+}

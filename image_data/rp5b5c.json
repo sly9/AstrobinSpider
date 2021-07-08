@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "55.908",
+    "description": "Well this Nebula actually does resemble a Lion, who would have thought.  Sharpless-132 (Sh2-132), a.k.a. the Lion Nebula, is located approximately 10,000 light-years away in the constellation of Cepheus and about 250 LY across.  I have been doing a lot of Sharpless objects lately because they do seem less popular.  I haven't found much information about the nebula other than very hot stars are responsible for ionizing the gases that make it up, this includes two Wolf-Rayet stars.  Also located in this image are two dark nebula, LDN 1161 and LDN 1163 located above the Lion's back.  This object has not been imaged much in years past, however, it has become much more popular these days among amateur astrophotographers.  Cataloged as a Sharpless object hydrogen is dominate element but there is plenty of Oxygen and Sulfur.  I really like the HOO images of this and was planning on doing this with Ha and OIII but decided on SII at the last minute based on weather conditions and the moon.\r\n\r\nNormally I would use a model someone's image as a model, however, this time I adjusted the colors to see what gave the most detail but looked cool to me.  The hard part of processing this object was the stars. I tried to keep the stars and process the nebula at the same time but eventually ended up going starless.  Of course StarNet did not work in PixInsight since the new update so I did it using the Windows version.  I actually combined a couple of different methods for adding the RGB stars.  I was not totally satisfied with the stars and after seeing an image from Rodd Dryfoos where he made an HaSHO version, I did that on this image in order to add back some more stars and soften them a bit.  I like the HaSHO a little better but some might prefer the SHO.  \r\n\r\nDate: 8-22-20, , 8-23-20, 8-24-20, 8-25-20, 8-30-20\r\n\r\nhttps://kurtzeppetello.smugmug.com/\r\nhttp://astroquest1.blogspot.com/\r\nhttp://youtube.com/c/AstroQuest1",
+    "h": 3425,
+    "hash": "rp5b5c",
+    "id": 521182,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "http://astroquest1.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "3.962",
+    "pixscale": "1.204",
+    "published": "2020-09-06T23:30:05.283912",
+    "ra": "334.479",
+    "radius": "0.949",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521182/",
+    "revisions": [
+        "/api/v1/imagerevision/248678/"
+    ],
+    "subjects": [
+        "B369",
+        "RW Cep",
+        "Sh2-132"
+    ],
+    "title": "Sh2-132 - Lion Nebula (SHO with RGB stars)",
+    "updated": "2021-06-16T13:01:41.128211",
+    "uploaded": "2020-09-07T00:07:04.986369",
+    "url_duckduckgo": "https://www.astrobin.com/rp5b5c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rp5b5c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rp5b5c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rp5b5c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rp5b5c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rp5b5c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rp5b5c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/986a941d-0dec-4477-8206-5ea99fa8a8de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/986a941d-0dec-4477-8206-5ea99fa8a8de-1599437843.jpg",
+    "url_thumb": "https://www.astrobin.com/rp5b5c/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 326,
+    "w": 4521
+}

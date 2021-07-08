@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "60.394",
+    "description": "Soul, narrowband, traditional SHO palette\r\n\r\nS2 57 x 300s\r\nHa 101 x 180s\r\nO3 10 x 180s; 68 x 300s\r\n \r\nMixed quality data; some Bortle 3 darkish site, some Bortle 6 backyard. Some hazy/thin cloud O3 data.\r\n\r\nAlso, I completely processed the image before realizing I had another 2 hours of S2 data that I forgot to include in the integration. If I'm more motivated on some future cloudy day, I may attempt a revision.",
+    "h": 2704,
+    "hash": "gpaps8",
+    "id": 560381,
+    "imaging_cameras": [
+        "ZWO ASI294MM Pro Cooled"
+    ],
+    "imaging_telescopes": [
+        "William Optics ZenithStar 81 APO Doublet Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "355.499",
+    "pixscale": "2.119",
+    "published": "2021-01-22T23:50:59.717560",
+    "ra": "43.624",
+    "radius": "1.412",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/560381/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "Soul Nebula IC 1848 SHO",
+    "updated": "2021-03-23T04:45:53.008461",
+    "uploaded": "2021-01-22T22:40:54.462173",
+    "url_duckduckgo": "https://www.astrobin.com/gpaps8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gpaps8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gpaps8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gpaps8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gpaps8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gpaps8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gpaps8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/92996/2021/bbcc16f2-5731-4f79-a425-e87e71890bf4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/92996/2021/bbcc16f2-5731-4f79-a425-e87e71890bf4-1611357342.jpg",
+    "url_thumb": "https://www.astrobin.com/gpaps8/0/rawthumb/thumb/",
+    "user": "jbpriolo",
+    "views": 222,
+    "w": 3964
+}

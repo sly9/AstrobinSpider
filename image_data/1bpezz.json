@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "68.092",
+    "description": "frames 300 s each:\r\n\r\nL 120\r\nR 35\r\nG 30\r\nB 25\r\n\r\ntotal 210 x 5 min = 17.5 h",
+    "h": 2276,
+    "hash": "1bpezz",
+    "id": 567065,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-P"
+    ],
+    "imaging_telescopes": [
+        "Celestron Newton 150/750"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812115/"
+    ],
+    "orientation": "90.010",
+    "pixscale": "1.511",
+    "published": "2021-02-17T13:08:45.236615",
+    "ra": "56.707",
+    "radius": "0.790",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/567065/",
+    "revisions": [
+        "/api/v1/imagerevision/274660/"
+    ],
+    "subjects": [
+        "IC 342"
+    ],
+    "title": "IC342 - The Hidden Galaxy",
+    "updated": "2021-04-24T08:13:48.925120",
+    "uploaded": "2021-02-17T13:00:22.205815",
+    "url_duckduckgo": "https://www.astrobin.com/1bpezz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1bpezz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1bpezz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1bpezz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1bpezz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1bpezz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1bpezz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/37805/2021/97445232-e9ce-4ad4-bb40-4e38d857adb9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/37805/2021/97445232-e9ce-4ad4-bb40-4e38d857adb9-1613567310.png",
+    "url_thumb": "https://www.astrobin.com/1bpezz/0/rawthumb/thumb/",
+    "user": "marcsphotography",
+    "views": 255,
+    "w": 3000
+}

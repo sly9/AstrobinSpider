@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": "47.237",
+    "description": "This image really pushed me out of my comfort zone, as I've never processed dark nebula before. Due to my light pollution, I am used to processing mostly narrow band images and a couple bright galaxies with lots of empty space around them for easy background correction.  \r\n\r\nIf I went too far with the stretch and/or amount of noise reduction, please let me know. I really have no idea what to expect given the data quality and I am open to suggestions for improvement. The data is a combination of LRGB acquired during new Moon period when the object was close to zenith, and H-alpha data which I captured before summer. A link to my FITS files can be found below the image title. \r\n\r\nOriginal: LRGB without luminance noise reduction\r\nRev. B: HaLRGB processed with Starnet++ and an extreme stretch of the background with Power of Inverted Pixels (PIP) + MLT noise reduction.\r\nRev. C/D: toned down versions of Rev. B, mixed in the original LRGB + Ha. \r\n\r\nThe large scale details seem to be correct when I compare my data to deep reference images from dark skies. I was really surprised to see that. \r\n\r\nPs.: If you look closely, a couple small background galaxies can be seen through the dust (left side, below the bright star in the middle). Thanks to Abin user <a href=\"https://www.astrobin.com/users/meeus/\">Meeus</a>",
+    "h": 3756,
+    "hash": "dt0y1w",
+    "id": 528750,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 282,
+    "link": "",
+    "link_to_fits": "https://drive.google.com/drive/folders/1yG0_uULMq2CQ5evU4DaG0e0gdImQDc5B?usp=sharing",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "1.573",
+    "pixscale": "0.978",
+    "published": "2020-10-01T08:43:13.334158",
+    "ra": "328.308",
+    "radius": "0.637",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/528750/",
+    "revisions": [
+        "/api/v1/imagerevision/252628/",
+        "/api/v1/imagerevision/252629/",
+        "/api/v1/imagerevision/252768/"
+    ],
+    "subjects": [
+        "Cocoon Nebula",
+        "IC 5146"
+    ],
+    "title": "IC 5146 - Cocoon Nebula from light polluted skies",
+    "updated": "2021-05-13T18:21:30.626139",
+    "uploaded": "2020-09-30T10:00:00.707844",
+    "url_duckduckgo": "https://www.astrobin.com/dt0y1w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dt0y1w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dt0y1w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dt0y1w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dt0y1w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dt0y1w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dt0y1w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/b0b9b5e4-acc2-4d13-bdff-3d34b38469c7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/b0b9b5e4-acc2-4d13-bdff-3d34b38469c7-1601460229.jpg",
+    "url_thumb": "https://www.astrobin.com/dt0y1w/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 1410,
+    "w": 2804
+}

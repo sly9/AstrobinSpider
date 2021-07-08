@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-18.882",
+    "description": "A visually very attractive pair of interacting galaxies in the constellation of Corvus (the Crow) approximately 45-65 Million light years from Earth. They make for an impressive pair of cosmic collaborators locked in an eternal embrace.\r\n\r\nA number of challenges presented themselves during the data capture for this object with pesky reflections caused by the light from a nearby mag 5 star and very ugly seeing. In the end I trashed all of the luminance data as the stars were too bloated though it is clear that the image didn't really need it.\r\n\r\nCapturing an object such as this with a 5\" scope and a 1.5 degree field of view requires some dedication particularly given the dynamic range spread between the core of the galaxies and the faint outer arms. To allow for this, 10 minute subs were used and at least 60 subs per colour channel were taken to improve signal to noise ratio.",
+    "h": 1727,
+    "hash": "9srmui",
+    "id": 490235,
+    "imaging_cameras": [
+        "QSI 683 ws-8"
+    ],
+    "imaging_telescopes": [
+        "Tak TSA120"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800408/"
+    ],
+    "orientation": "87.206",
+    "pixscale": "1.317",
+    "published": "2020-05-23T02:59:36.490337",
+    "ra": "180.479",
+    "radius": "0.489",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490235/",
+    "revisions": [
+        "/api/v1/imagerevision/234175/"
+    ],
+    "subjects": [
+        "Antennae",
+        "Antennae Galaxies",
+        "NGC 4038",
+        "NGC 4039",
+        "NGC4038",
+        "NGC4039"
+    ],
+    "title": "NGC4038 - Antennae Galaxies",
+    "updated": "2021-06-30T08:14:10.275472",
+    "uploaded": "2020-05-22T13:32:00.723031",
+    "url_duckduckgo": "https://www.astrobin.com/9srmui/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9srmui/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9srmui/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9srmui/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9srmui/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9srmui/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9srmui/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1551/2020/ea753b49-cd52-4ef3-89ba-6b380373e1f7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1551/2020/ea753b49-cd52-4ef3-89ba-6b380373e1f7-1590154512.png",
+    "url_thumb": "https://www.astrobin.com/9srmui/0/rawthumb/thumb/",
+    "user": "Ryderscope",
+    "views": 343,
+    "w": 2042
+}

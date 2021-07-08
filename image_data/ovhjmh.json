@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "58.818",
+    "description": "",
+    "h": 4500,
+    "hash": "ovhjmh",
+    "id": 512706,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "89.959",
+    "pixscale": "1.103",
+    "published": "2020-08-07T08:58:58.617233",
+    "ra": "335.571",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/512706/",
+    "revisions": [
+        "/api/v1/imagerevision/244625/"
+    ],
+    "subjects": [
+        "Sh2-135"
+    ],
+    "title": "SH2-135 HRGB Image",
+    "updated": "2021-03-16T23:04:14.692368",
+    "uploaded": "2020-08-07T09:58:58.960237",
+    "url_duckduckgo": "https://www.astrobin.com/ovhjmh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ovhjmh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ovhjmh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ovhjmh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ovhjmh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ovhjmh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ovhjmh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/2ff3216d-2c49-4873-b8a2-87561f8b57cc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/2ff3216d-2c49-4873-b8a2-87561f8b57cc-1596794706.jpg",
+    "url_thumb": "https://www.astrobin.com/ovhjmh/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 276,
+    "w": 3600
+}

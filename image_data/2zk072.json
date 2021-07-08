@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "62.543",
+    "description": "",
+    "h": 3520,
+    "hash": "2zk072",
+    "id": 531371,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106-EDXII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812173/"
+    ],
+    "orientation": "293.912",
+    "pixscale": "1.476",
+    "published": "2020-10-10T22:56:40.824483",
+    "ra": "344.305",
+    "radius": "1.020",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/531371/",
+    "revisions": [],
+    "subjects": [
+        "PK110+01.1",
+        "Sh2-155",
+        "VdB155"
+    ],
+    "title": "Sh2-155 (The Cave Nebula) in SHO",
+    "updated": "2021-03-16T19:22:42.522547",
+    "uploaded": "2020-10-10T23:50:48.135652",
+    "url_duckduckgo": "https://www.astrobin.com/2zk072/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2zk072/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2zk072/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2zk072/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2zk072/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2zk072/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2zk072/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9347/2020/c0ae625f-65a9-47dd-a6bd-0a0161e70bde.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9347/2020/c0ae625f-65a9-47dd-a6bd-0a0161e70bde-1602374304.png",
+    "url_thumb": "https://www.astrobin.com/2zk072/0/rawthumb/thumb/",
+    "user": "mesh83",
+    "views": 201,
+    "w": 3520
+}

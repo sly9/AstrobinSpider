@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.426",
+    "description": "ngc 7331\r\n\r\nObject : ngc 7331\r\nDate : Oct.2019-Dec.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB \r\nExposure : L:300sx24, R:300sx19,G:300sx18,B:300sx19 (6.67hr)\r\nGuiding  : OAG/ asi174 ,\r\nProcessing:  PI、PS-CC\r\n\r\nimage B\r\n\r\nngc 7331 Deer Lick Group, Stephan's Quintet ( 4 panels mosaic)\r\nObject : ngc 7331/Stephan's Quintet \r\nDate : Oct.2019-Dec.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB \r\nExposure :\r\nL:300sx24, R:300sx19,G:300sx18,B:300sx19 (ngc 7331 ,6.67hr)\r\nL:300sx21,R:300sx18,G:300sx17,B:300sx16 (Stephan's Quintet , 6hr)\r\nL:300sx24,R:300sx17,G:300sx16,B:300sx14 (upper left , 5.92hr)\r\nL:300sx21,R:300sx17,G:300sx17,B:300sx17 (lower right , 6hr)\r\n\r\nGuiding  : OAG/ asi174 ,\r\nProcessing:  PI、PS-CC",
+    "h": 1596,
+    "hash": "uvzypv",
+    "id": 524549,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 118,
+    "link": "https://astro-noodle.blogspot.com/2020/09/ngc-7331.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "88.533",
+    "pixscale": "0.668",
+    "published": "2020-09-19T05:33:54.436445",
+    "ra": "339.304",
+    "radius": "0.259",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/524549/",
+    "revisions": [
+        "/api/v1/imagerevision/250550/"
+    ],
+    "subjects": [
+        "NGC 7327",
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7336",
+        "NGC 7337",
+        "NGC 7340",
+        "NGC7331",
+        "NGC7333",
+        "NGC7335",
+        "NGC7336",
+        "NGC7337",
+        "NGC7338",
+        "NGC7340"
+    ],
+    "title": "ngc 7331",
+    "updated": "2021-05-02T10:52:48.890392",
+    "uploaded": "2020-09-19T06:33:54.662448",
+    "url_duckduckgo": "https://www.astrobin.com/uvzypv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uvzypv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uvzypv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uvzypv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uvzypv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uvzypv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uvzypv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/1f2507d7-aaa0-4376-b410-38d9a1097cd5.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/1f2507d7-aaa0-4376-b410-38d9a1097cd5-1600497615.png",
+    "url_thumb": "https://www.astrobin.com/uvzypv/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 477,
+    "w": 2292
+}

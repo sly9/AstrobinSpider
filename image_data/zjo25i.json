@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "13.586",
+    "description": "Hamburger Galaxy (LRGB, NGC 3628) – LRGB-Composite with Luminance (QHY 183M, 20x300sec, -30°C, Baader UV/IR Cut) on 26.04.2020 und RGB  (QHY 183C, 11x180 sec, -30°C) from 09.05.2020; Gain 20, Offset 30; objective: Celestron SC C14 (old US).",
+    "h": 1041,
+    "hash": "zjo25i",
+    "id": 487985,
+    "imaging_cameras": [
+        "QHYCCD QHY 183C",
+        "QHYCCD QHY 183M"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 186,
+    "link": "http://ag-astronomie.de/Deep-Sky-Galerie",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812547/"
+    ],
+    "orientation": "14.449",
+    "pixscale": "0.540",
+    "published": "2020-05-15T12:19:29.791299",
+    "ra": "170.061",
+    "radius": "0.138",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487985/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3628",
+        "NGC3628"
+    ],
+    "title": "Hamburger Galaxy (LRGB, NGC 3628)",
+    "updated": "2021-05-01T19:45:16.370315",
+    "uploaded": "2020-05-15T13:19:30.581503",
+    "url_duckduckgo": "https://www.astrobin.com/zjo25i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zjo25i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zjo25i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zjo25i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zjo25i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zjo25i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zjo25i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54232/2020/52ec7da1-b865-47a2-84cc-e2a7a2e9ad66.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54232/2020/52ec7da1-b865-47a2-84cc-e2a7a2e9ad66-1589549002.jpg",
+    "url_thumb": "https://www.astrobin.com/zjo25i/0/rawthumb/thumb/",
+    "user": "HenningSchmidt",
+    "views": 632,
+    "w": 1521
+}

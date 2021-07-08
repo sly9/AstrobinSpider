@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "58.120",
+    "description": "Procesed as HOO color combination in Pixinsight. Used Pixelmath: R:Ha; G: OIII*.5 + Ha*.5; B: OIII for color combination. Streched OIII more then normal to get extra blue color because OIII was very weak compared to the Ha. Hope you like it. CS",
+    "h": 3040,
+    "hash": "x4690u",
+    "id": 517037,
+    "imaging_cameras": [
+        "ASI183MM Pro ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON Teleskop Austria Lacerta 200/800 f4 Fotonewton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807021/"
+    ],
+    "orientation": "71.463",
+    "pixscale": "0.622",
+    "published": "2020-08-22T21:03:20.752843",
+    "ra": "341.846",
+    "radius": "0.473",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/517037/",
+    "revisions": [
+        "/api/v1/imagerevision/246783/"
+    ],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "Wizard nebula - NGC 7380",
+    "updated": "2021-05-14T19:43:05.710841",
+    "uploaded": "2020-08-22T22:03:21.047346",
+    "url_duckduckgo": "https://www.astrobin.com/x4690u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x4690u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x4690u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x4690u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x4690u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x4690u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x4690u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22656/2020/d90c78f9-1bd5-4790-9f1e-acead4423e6f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22656/2020/d90c78f9-1bd5-4790-9f1e-acead4423e6f-1598134917.jpg",
+    "url_thumb": "https://www.astrobin.com/x4690u/0/rawthumb/thumb/",
+    "user": "PeterK",
+    "views": 398,
+    "w": 4550
+}

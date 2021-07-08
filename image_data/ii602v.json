@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "35.525",
+    "description": "Exposure: 28h: Ha 35x1200s, SII 23x1200s, OIII 16x1200s and 7x1800s, binx1",
+    "h": 2160,
+    "hash": "ii602v",
+    "id": 501365,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "TEC 140/980"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.367",
+    "pixscale": "1.250",
+    "published": "2020-06-28T12:56:08.020103",
+    "ra": "300.178",
+    "radius": "0.608",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/501365/",
+    "revisions": [
+        "/api/v1/imagerevision/239407/"
+    ],
+    "subjects": [],
+    "title": "Sh2-101 Tulip Nebula in HST palette",
+    "updated": "2021-03-17T00:56:00.277546",
+    "uploaded": "2020-06-28T13:56:08.242809",
+    "url_duckduckgo": "https://www.astrobin.com/ii602v/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ii602v/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ii602v/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ii602v/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ii602v/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ii602v/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ii602v/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28284/2020/0ea4f291-f89c-4a2f-a6f6-87dbfac7fbc2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28284/2020/0ea4f291-f89c-4a2f-a6f6-87dbfac7fbc2-1593352757.jpg",
+    "url_thumb": "https://www.astrobin.com/ii602v/0/rawthumb/thumb/",
+    "user": "Astrosib250",
+    "views": 321,
+    "w": 2752
+}

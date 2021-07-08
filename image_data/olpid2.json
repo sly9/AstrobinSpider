@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is a blended image consisting of data I took of M45 from my Bortle 8/9 skies awhile back, and images I took on 4/4 of Venus mingling with the Seven Sisters. I used a homemade mask to stop down the ED80 to make Venus look better than a blown out misshapen blob, it gave me nice diffraction spikes too!\r\n\r\nM45 Details:\r\nCaptured 01/01/2020, 231x60s, 3.9 hours\r\nScope: William Optics GT81 with FLAT6AIII .8x Flattener/Reducer\r\nCamera: ZWO ASI294MC Pro\r\nMount: Rainbow Astro RST135\r\nFilter: Optolong L-eNhance LP filter\r\n\r\nVenus/M45 Details:\r\nCaptured 04/04/2020, 20x10s\r\nScope: Skywatcher Esprit 80ED Pro with Starizona APEX-S .65x reducer\r\nCamera: ZWO ASI533MC Pro\r\nMount: Rainbow Astro RST135\r\nFilter: Optolong L-Pro \r\n\r\nPre and post processing in Pixinsight. Separate images aligned with StarAlignment. GAME script was awesome in making the required masks. Blended the long exposure image of M45 with the Venus/M45 image stack using Pixelmath.",
+    "h": 2598,
+    "hash": "olpid2",
+    "id": 473621,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT81 APO",
+        "SkyWatcher Esprit 80ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802079/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-06T00:36:48.655606",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/473621/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The Goddess of Beauty and Love hangs with The Seven Sisters",
+    "updated": "2021-03-17T03:31:27.414541",
+    "uploaded": "2020-04-06T01:36:49.213417",
+    "url_duckduckgo": "https://www.astrobin.com/olpid2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/olpid2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/olpid2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/olpid2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/olpid2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/olpid2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/olpid2/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/olpid2/0/rawthumb/thumb/",
+    "user": "SparkyHT",
+    "views": 660,
+    "w": 3954
+}

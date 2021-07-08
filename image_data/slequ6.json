@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.395",
+    "description": "The data acquisition was done by my friend <a href=https://www.astrobin.com/users/tbcgeorge/>George</a>. The quality is quite good comparing to what we had that I feel obliged to try my best to get the most out of it.\r\n\r\nI used to start with RGB ChannelCombination and then add the processed Lum master to boost more details as well as noise reduction. Once I realized this would overexpose the star cores, I discontinued the approach. This could explain why my old LRGB pictures are consistently missing a lot of blue stars as blue is most susceptible to this method.\r\n\r\nTo keep the star colors, I decided to use starnet to remove stars from both Lum and RGB and then add the RGB stars back. ArcsinStretch is used to get the star colors. Comparing to HSVRepair, it appears to me the AS way is more tolerant towards the color separation issue on the stars closer to the edges.\r\n\r\nFor the galaxy, 2 layers are blended together, one with HDR of Small Scale (8) in the core area, one without. For the spiral arms, multiple times of LocalHistogramEqualization with different sizes of masks are applied along with the DarkStructureEnhance script.\r\n\r\n<br>\r\n<I>#TeamNoctuaDSNM</I>",
+    "h": 1978,
+    "hash": "slequ6",
+    "id": 577054,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814874/"
+    ],
+    "orientation": "100.132",
+    "pixscale": "1.214",
+    "published": "2021-03-26T01:46:11.803630",
+    "ra": "210.968",
+    "radius": "0.429",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/577054/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471",
+        "NGC 5477"
+    ],
+    "title": "M101 - The Pinwheel Galaxy",
+    "updated": "2021-07-06T00:40:36.780004",
+    "uploaded": "2021-03-25T21:48:49.820374",
+    "url_duckduckgo": "https://www.astrobin.com/slequ6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/slequ6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/slequ6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/slequ6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/slequ6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/slequ6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/slequ6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25460/2021/355acc30-2348-46c3-8766-fc68bc0ca453.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25460/2021/355acc30-2348-46c3-8766-fc68bc0ca453-1616712141.jpg",
+    "url_thumb": "https://www.astrobin.com/slequ6/0/rawthumb/thumb/",
+    "user": "nodustab",
+    "views": 364,
+    "w": 1600
+}

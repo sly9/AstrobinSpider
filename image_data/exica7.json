@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 7,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-29.867",
+    "description": "Report of New Features Imaged in M 83, “The Southern Pinwheel Galaxy”\r\nOTA: \t\t     TAO 150  (f/7.3)\r\nCamera:\t     FLI - ML16200 (1.13 arcseconds/pixel)\r\nObservatory:     Deep Sky West, Chile\r\nEXPOSURES:                \r\n\tRed:\t\t10 x 600 sec.\t\t\t\r\n\tBlue:\t\t12 x 600\r\n\tGreen:\t\t12 x 600\r\n\tL:\t\t        12 x 600\r\n\tH:\t\t        12 x 1800\r\nTotal exposure    13.5 hours\r\nImage Width:\t ~1 deg\r\nProcessed by Alex Woronow (2020) using PixInsight, Skylum, Topaz, SWT\r\n\r\nIMPORTANT: OPEN IMAGE B (CLICK ON IMAGE AT RIGHT) FOR THE ANNOTATED IMAGE SHOWING LOCATIONS OF THE NEWLY IDENTIFIED IN M 83\r\n\t\r\nThis image reveals five heretofore unreported and largely unrecognized features in and around the galaxy Messier 83. My detailed article provides more details as well as proposed origins for these features. Obtain it at https://www.dropbox.com/s/9vwwahjovsrv3we/M83%20Revealed.docx?dl=0 .  Here I only list and quickly describe the five features:\r\n(1)\tA hazy, Bright Halo, with smeared spiral-arm structure, surrounds, and is continuous with, the main galaxy. This halo is not entirely symmetrical, appearing wider at the right side of the galaxy (near the number ”2” in Fig B) and narrower on the left side. \r\n(2)\tA Dark Halo encircles the Bright Halo and wraps the entire galaxy. (This halo can be difficult to see. Move back from this image, relax your vision, and the dark halo becomes more clearly apparent.) A true image of M 83, which better shows all the features, is here: https://tinyurl.com/M83jpg100)\r\n(3)\tBeyond the Dark Halo, a faint bright arc appears from around 7 to 9 o’clock. It presents as if it were a portion of a spiral arm decoupled from the main galactic pinwheel.\r\n(4)\tStill farther out, spanning from about 6 to 8 o’clock lies another smear of brightness, again mimicking a disarticulated spiral arm. It may join feature 3 at around 8 o’clock. \r\n(5)\tThis feature covers the rest of the image; the background has luminosity above that expected for empty space.\r\n\r\nHow did these features arise? Given that the literature does not even describe these 5 feature, no surprise that nothing in the literature conjectures on their origin. Again, My full exposition on this can be downloaded from  https://www.dropbox.com/s/9vwwahjovsrv3we/M83%20Revealed.docx?dl=0.",
+    "h": 1540,
+    "hash": "exica7",
+    "id": 482607,
+    "imaging_cameras": [
+        "FLI MICROLINE KAF-16200"
+    ],
+    "imaging_telescopes": [
+        "TOA 150 Chile"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "https://www.dropbox.com/s/9vwwahjovsrv3we/M83%20Revealed.docx?dl=0",
+    "link_to_fits": "https://tinyurl.com/M83jpg100)",
+    "locations": [],
+    "orientation": "174.181",
+    "pixscale": "2.375",
+    "published": "2020-04-27T13:11:00.528206",
+    "ra": "204.252",
+    "radius": "0.718",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/482607/",
+    "revisions": [
+        "/api/v1/imagerevision/230019/"
+    ],
+    "subjects": [
+        "M 83",
+        "M83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy",
+        "Southern Pinwheel galaxy"
+    ],
+    "title": "Report of New Features Imaged in M 83, “The Southern Pinwheel Galaxy”",
+    "updated": "2021-03-17T02:41:04.418494",
+    "uploaded": "2020-04-27T14:01:16.986736",
+    "url_duckduckgo": "https://www.astrobin.com/exica7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/exica7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/exica7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/exica7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/exica7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/exica7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/exica7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32963/2020/924f09ca-d7a8-4df5-8ef5-ea06fb7cb58f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32963/2020/924f09ca-d7a8-4df5-8ef5-ea06fb7cb58f-1587996447.jpg",
+    "url_thumb": "https://www.astrobin.com/exica7/0/rawthumb/thumb/",
+    "user": "Alex_Woronow",
+    "views": 117,
+    "w": 1540
+}

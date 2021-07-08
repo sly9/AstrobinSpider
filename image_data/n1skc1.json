@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 25,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.604",
+    "description": "Located near the Bubble nebula, this small, but bright emission/reflection nebula is known for its star formation.  The largest known protostar, NGC 7538S, holds ~100 solar masses and has a rotating disc 300 times the size of our solar system.\r\n\r\nFor this Narrowband image I made use of a dynamic factor in Pixelmath.  The OIII data was used as the factor to determine where SII and Ha were used for the Red Channel.  Where OIII was strong, SII was used and where OIII was weak, Ha was used.  Because the main nebula is a small part of the frame I wanted to highlight the dim Ha field it resides in.  Since there is no OIII in that area, I could have that area represented with Ha data and the main nebula with the less powerful SII data. \r\n\r\nThe Pixelmath statement then was:\r\n\r\nR/K = f*S+~f*H (where f = the OIII data with a contrast curve applied)\r\nG = Mean (SII, OIII)\r\nB = OIII\r\n\r\nFor more detail on this technique, see the excellent write-up here:\r\nhttps://thecoldestnights.com/2020/06/pixinsight-dynamic-narrowband-combinations-with-pixelmath/\r\n\r\nAfter creating this color mix, I applied HDRMT to the bright core on the Ha data and used that for the Luminance channel.\r\n\r\nStarnet++ and a difference layer were used in Photoshop to create a star selection.  Content aware fill was used to produce a starless layer.  Topaz de-noise was used in low light mode to the starless image.  Opacity was set at 80%.  A large stretch was required to bring out the background nebulosity so noise was quite high.",
+    "h": 2549,
+    "hash": "n1skc1",
+    "id": 537727,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "308.587",
+    "pixscale": "0.609",
+    "published": "2020-11-06T07:33:43.331547",
+    "ra": "348.396",
+    "radius": "0.372",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/537727/",
+    "revisions": [
+        "/api/v1/imagerevision/258281/"
+    ],
+    "subjects": [
+        "NGC 7538",
+        "NGC7538",
+        "Sh2-158"
+    ],
+    "title": "NGC 7538 | Home to the Largest Known Protostar",
+    "updated": "2021-03-16T18:44:42.803888",
+    "uploaded": "2020-11-06T07:01:01.525461",
+    "url_duckduckgo": "https://www.astrobin.com/n1skc1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n1skc1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n1skc1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n1skc1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n1skc1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n1skc1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n1skc1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/cebdb773-7507-4d2a-b6c8-8bc23790ca3d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/cebdb773-7507-4d2a-b6c8-8bc23790ca3d-1604647597.jpg",
+    "url_thumb": "https://www.astrobin.com/n1skc1/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 400,
+    "w": 3587
+}

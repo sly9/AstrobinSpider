@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "42.029",
+    "description": "This is a reprocessed image of the M63 The Sunflower Galaxy of the previous post. Additional 4 hours of L data is added and the target was re-framed vertically.  R, G, and B were taken in 3 consequent nights. I have created synthetic Luminance by adding L and  RGB subs. Please comment on your framing preferences between the two images :-)",
+    "h": 2590,
+    "hash": "6j1fu9",
+    "id": 477440,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "263.898",
+    "pixscale": "0.708",
+    "published": "2020-04-15T10:00:07.356890",
+    "ra": "198.956",
+    "radius": "0.360",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/477440/",
+    "revisions": [
+        "/api/v1/imagerevision/236655/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "Sunflower Galaxy",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 The Sunflower Galaxy",
+    "updated": "2021-05-04T17:33:07.509375",
+    "uploaded": "2020-04-15T11:00:08.052774",
+    "url_duckduckgo": "https://www.astrobin.com/6j1fu9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6j1fu9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6j1fu9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6j1fu9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6j1fu9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6j1fu9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6j1fu9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2020/47a1254e-b2c3-4e80-9512-22282b7b4917.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2020/47a1254e-b2c3-4e80-9512-22282b7b4917-1586948778.png",
+    "url_thumb": "https://www.astrobin.com/6j1fu9/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 250,
+    "w": 2590
+}

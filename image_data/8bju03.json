@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "60.483",
+    "description": "Part of the bigger emission nebula complex IC 1848 (Soul Nebula) in the constelleation Cassiopeia. IC 1871 is the small nebula at the right side.\r\n\r\nASI1600mmp and TS Photoline 130/910 with 0.79x reducer\r\n\r\nHSO color palette with RGB stars:\r\n125 x 200s Ha\r\n90 x 200s SII\r\n150 x 200s OIII\r\n60 x 30 s R\r\n60 x 30 s G\r\n60 x 30 s B\r\n\r\nProcesing with Astro Pixel Processor and PS 2020",
+    "h": 3276,
+    "hash": "8bju03",
+    "id": 538099,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "179.440",
+    "pixscale": "1.061",
+    "published": "2020-11-07T15:41:06.382303",
+    "ra": "44.796",
+    "radius": "0.814",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/538099/",
+    "revisions": [],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "The Heart in IC 1848",
+    "updated": "2021-05-23T18:07:20.608552",
+    "uploaded": "2020-11-07T15:36:07.245258",
+    "url_duckduckgo": "https://www.astrobin.com/8bju03/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8bju03/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8bju03/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8bju03/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8bju03/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8bju03/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8bju03/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/95d4a77b-cc64-4d33-9435-5640c7e8c50b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/95d4a77b-cc64-4d33-9435-5640c7e8c50b-1604763843.jpg",
+    "url_thumb": "https://www.astrobin.com/8bju03/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 423,
+    "w": 4447
+}

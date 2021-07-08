@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.824",
+    "description": "",
+    "h": 1200,
+    "hash": "su41hv",
+    "id": 535183,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 208,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.581",
+    "pixscale": "1.238",
+    "published": "2020-10-25T15:43:47.601606",
+    "ra": "24.138",
+    "radius": "0.292",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/535183/",
+    "revisions": [
+        "/api/v1/imagerevision/256956/"
+    ],
+    "subjects": [
+        "M 74",
+        "NGC 628"
+    ],
+    "title": "Messier 74",
+    "updated": "2021-05-06T07:02:04.800409",
+    "uploaded": "2020-10-25T15:43:47.738379",
+    "url_duckduckgo": "https://www.astrobin.com/su41hv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/su41hv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/su41hv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/su41hv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/su41hv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/su41hv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/su41hv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/714953ee-0f32-4894-84e1-e0c5b86c84b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/714953ee-0f32-4894-84e1-e0c5b86c84b6-1603640825.jpg",
+    "url_thumb": "https://www.astrobin.com/su41hv/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 513,
+    "w": 1200
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "40.214",
+    "description": "SHO Sadr region",
+    "h": 3434,
+    "hash": "lm72x8",
+    "id": 546066,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Redcat 51"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806795/"
+    ],
+    "orientation": "183.341",
+    "pixscale": "1.993",
+    "published": "2020-11-29T18:05:09.072151",
+    "ra": "305.922",
+    "radius": "1.643",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546066/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6910",
+        "The star Sadr (γCyg)"
+    ],
+    "title": "Sadr Region SHO",
+    "updated": "2021-03-14T14:23:45.183305",
+    "uploaded": "2020-11-29T17:31:55.937855",
+    "url_duckduckgo": "https://www.astrobin.com/lm72x8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lm72x8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lm72x8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lm72x8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lm72x8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lm72x8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lm72x8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22092/2020/90756dbe-7dfb-43e3-a40d-729d68845a63.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22092/2020/90756dbe-7dfb-43e3-a40d-729d68845a63-1606671746.jpg",
+    "url_thumb": "https://www.astrobin.com/lm72x8/0/rawthumb/thumb/",
+    "user": "stannoble",
+    "views": 56,
+    "w": 4840
+}

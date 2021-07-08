@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "47.205",
+    "description": "For the 2021 version of M51 I threw in the best of all M 51 data of the past 2 years. The exposure times vary. Tha data are from my ASI1600mm pro and my ASI2600mmpro shot through the TS Photoline 130/910. The tidal streams came out nicely nad there seems to be a bit of IFN (?) around..\r\n\r\nThe image is made from \r\n\r\n28,380s lum\r\n12,000s red\r\n4,740s green\r\n15,300s blue\r\n\r\nand some Ha blended in.",
+    "h": 1618,
+    "hash": "i9cluh",
+    "id": 590885,
+    "imaging_cameras": [
+        "ZWO ASI2600mm-pro",
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 202,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "88.824",
+    "pixscale": "0.855",
+    "published": "2021-05-19T19:15:32.735791",
+    "ra": "202.458",
+    "radius": "0.392",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/590885/",
+    "revisions": [
+        "/api/v1/imagerevision/288357/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M 51 all in (2020-2021)",
+    "updated": "2021-07-04T16:58:22.544040",
+    "uploaded": "2021-05-19T19:12:05.535393",
+    "url_duckduckgo": "https://www.astrobin.com/i9cluh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i9cluh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i9cluh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i9cluh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i9cluh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i9cluh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i9cluh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2021/36709c6c-6b50-4e8d-a457-4bd7ba6666cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2021/36709c6c-6b50-4e8d-a457-4bd7ba6666cf-1621451831.jpg",
+    "url_thumb": "https://www.astrobin.com/i9cluh/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 623,
+    "w": 2876
+}

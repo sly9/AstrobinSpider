@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "69.272",
+    "description": "hyperstar + zwo asi 1600 mm pro (anciennes données)\r\nL: 210X60sec gain 30\r\nRVB: 3X30X60sec gain 30\r\nHa: 30X120sec gain 139\r\n\r\naskar FRA400 + zwo asi 294MM pro (ajout de nouvelles datas)\r\nHa:100*300 sec gain 120\r\n\r\ntraitement entièrement révisé.",
+    "h": 3148,
+    "hash": "9533fn",
+    "id": 586556,
+    "imaging_cameras": [
+        "zwo asi 294 MM pro",
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "SharpStar Askar 400/F5.6",
+        "Celestron EdgeHD 9.25"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 206,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "273.707",
+    "pixscale": "1.515",
+    "published": "2021-05-02T17:10:46.865508",
+    "ra": "149.022",
+    "radius": "1.144",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/586556/",
+    "revisions": [
+        "/api/v1/imagerevision/286236/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "Cigar Galaxy",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "M81&M82-galaxies de Bode et du cigare",
+    "updated": "2021-07-01T09:44:30.940485",
+    "uploaded": "2021-05-02T17:00:19.524168",
+    "url_duckduckgo": "https://www.astrobin.com/9533fn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9533fn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9533fn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9533fn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9533fn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9533fn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9533fn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2021/f6efad58-3990-4c3c-bf9d-37e794f4d80b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2021/f6efad58-3990-4c3c-bf9d-37e794f4d80b-1619975515.jpg",
+    "url_thumb": "https://www.astrobin.com/9533fn/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 391,
+    "w": 4434
+}

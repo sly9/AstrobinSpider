@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "68.169",
+    "description": "This is a reprocess of my prior image from September 2019.\r\n\r\nSkies were relatively dark (21.4) and steady (1.8\") during luminance capture. But with only 2 hours of luminance, denoise was a challenge.\r\n\r\nI feel this version may be a bit more natural with less noise and minimized red halos around stars from red acquisition during an unsteady period.\r\n\r\nI also cropped closer to hide the noisier dark nebulosity and rotated 180 to match some APOD reference shots. (-:",
+    "h": 2320,
+    "hash": "k93feo",
+    "id": 502496,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "358.397",
+    "pixscale": "0.468",
+    "published": "2020-07-03T03:24:40.360934",
+    "ra": "315.352",
+    "radius": "0.231",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/502496/",
+    "revisions": [
+        "/api/v1/imagerevision/239958/"
+    ],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023",
+        "NGC7023",
+        "VdB139"
+    ],
+    "title": "Iris Nebula (Reprocessed)",
+    "updated": "2021-06-16T08:18:25.292623",
+    "uploaded": "2020-07-03T04:24:41.455141",
+    "url_duckduckgo": "https://www.astrobin.com/k93feo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k93feo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k93feo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k93feo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k93feo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k93feo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k93feo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/cfd8f440-e3c0-42ce-9490-74e5d3ae7d74.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/cfd8f440-e3c0-42ce-9490-74e5d3ae7d74-1593750747.jpg",
+    "url_thumb": "https://www.astrobin.com/k93feo/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 555,
+    "w": 2686
+}

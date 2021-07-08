@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 31,
+    "data_source": "OWN_REMOTE",
+    "dec": "32.537",
+    "description": "Because of its distorted wedge shaped profile, NGC4631 (Caldwell 32)  is also known as the Whale Galaxy.  It is thought to be a barred spiral seen edge on and it sits at a distance of about 30 mly located in the constellation of the Canes Venatici.  It has an apparent magnitude of 9.8 and spans over 15 arc-minutes making it a popular target for imaging.\r\n\r\nOf particular interest are the edge details and the central starburst core, which is a region of intense star formation. The most massive stars that form in these regions fuse hydrogen for only a short period of time before eventually exploding as supernovae.  Much of the gas out of the plane of the galaxy is thought to have been blown out by supernovas and by interactions with nearby galaxies.  The core is surrounded by a corona of super wind that emits high energy radiation in the X-ray range.\r\n\r\nThe Whale has been on my \"cool objects\" list for quite some time and I finally managed to start working on it during the second half of the last lunar cycle.  This is a galaxy rich in Ha emissions, which make it an ideal target for LRGB+Ha imaging so I used \"moon-time\" to gather narrow band data.  I got lucky and managed to snag some pretty good Lum data on two consecutive nights.  Gathering the rest of the color data was hit and miss and I had to toss out about 2/3 of the color data that I gathered due to poor seeing.  The real trick to imaging galaxies, no matter how big or how bright is to gather a LOT of good data.  That's what allows aggressive processing to bring out detail.  Unfortunately, my seeing just wasn't good enough to get a LOT of RGB data, which made processing a bit more challenging.\r\n\r\nI tried something new with this data.  Normally when I gather Ha data, I simply use PixMath to add some fraction of the Ha data to the red channel.  It's the lazy man's way of doing things and it's really not right for a couple of reasons.  First, Ha data contains both the narrow band emission that you want along with a certain amount of signal from broadband sources.  Simply adding Ha to the R channel works but it's not very accurate and it screws up the overall color balance of the image.  The other reason that simply adding some fraction of Ha to the red channel isn't right is that hydrogen actually has two prominent emission lines--Alpha AND Beta.  The Beta line is about 20% less intense than the Alpha line and it's in the blue part of the spectrum.\r\n\r\nFortunately Vicent Peris and Martin Pugh have developed a nice way to handle this issue.  The basic concept is to first subtract a scaled amount of the R channel from the Ha channel in order to remove the broadband contribution.  You know it works because with the proper scaling factors, unsaturated stars in the Ha data will be removed from the data.  Then a fraction of the Pure_Ha data can be added to the R channel and 20% of that can be added to the blue channel in the LRGB result.  You can read a nice write up about this technique by Martin Pugh here:  http://www.arciereceleste.it/tutorial-pixinsight/cat-tutorial-eng/85-enhance-galaxy-ha-eng.  When you combine the Pure_Ha data with LRGB (which is what I did here,) it's necessary to multiply it by the Lum signal as well to make sure that the scaling is correct.  Once you get the scaling factors plugged in, the result nicely shows the pure Ha regions--as you can see in this image.  Rev B shows a cropped image of the pure Ha regions so that you can see what it looks like.  As you can see, there's a lot going on in Ha light!\r\n\r\nI didn't give too much thought to orientation before I uploaded this image and in hindsight, I realized that I've posted it with North pointing down.  While some of us in the Northern hemisphere might consider it to be upside down, I decided to simply dedicate this image to all of my friends in the Southern hemisphere who will see it as right side up!  :-))))\r\n\r\nAnyway, there it is.  Let me know if you have comments or questions and I'll do my best to answer them.  I always appreciate C&C so fire away.  Hopefully I didn't screw up too many things!\r\n\r\nJohn",
+    "h": 3700,
+    "hash": "x4swz0",
+    "id": 479976,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.857",
+    "pixscale": "0.474",
+    "published": "2020-04-22T15:35:53.859685",
+    "ra": "190.522",
+    "radius": "0.345",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/479976/",
+    "revisions": [
+        "/api/v1/imagerevision/227986/",
+        "/api/v1/imagerevision/227995/",
+        "/api/v1/imagerevision/228222/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC4627",
+        "NGC4631",
+        "Whale Galaxy"
+    ],
+    "title": "NGC 4631 The Amazing Whale Galaxy",
+    "updated": "2021-05-10T02:28:43.810352",
+    "uploaded": "2020-04-21T23:58:10.311938",
+    "url_duckduckgo": "https://www.astrobin.com/x4swz0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x4swz0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x4swz0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x4swz0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x4swz0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x4swz0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x4swz0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/78a55ed5-439a-45d3-a4df-cdcaddeeeb48.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/78a55ed5-439a-45d3-a4df-cdcaddeeeb48-1587515068.jpg",
+    "url_thumb": "https://www.astrobin.com/x4swz0/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 891,
+    "w": 3700
+}

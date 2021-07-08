@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "44.094",
+    "description": "Pelican Nebula in SHO palette. Continue learning PixInsight and experimenting with different processing techniques. I like the current result, but I'm sure more experienced astrophotographers can see mistakes and processing issues :) I would appreciate feedback and suggestions!\r\nMy Optolong OIII filter causing halos around bright stars, so I tried different things to remove them, and I think I was able to reduce them significantly, but still, it causing a bluish tint around a star, but without a distinctive border, it looks better.\r\nMy set of Astrodon NB filters should arrive soon. Hopefully, this will improve my images.",
+    "h": 2074,
+    "hash": "1ak800",
+    "id": 520227,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service Imaging Star 102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "268.397",
+    "pixscale": "1.784",
+    "published": "2020-09-02T15:24:14.740708",
+    "ra": "312.901",
+    "radius": "0.839",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/520227/",
+    "revisions": [
+        "/api/v1/imagerevision/248148/"
+    ],
+    "subjects": [
+        "56 Cyg",
+        "57 Cyg",
+        "IC 5070",
+        "IC5070",
+        "Pelican Nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC5070 - Pelican Nebula in SHO",
+    "updated": "2021-04-28T06:10:32.022552",
+    "uploaded": "2020-09-02T16:24:15.124224",
+    "url_duckduckgo": "https://www.astrobin.com/1ak800/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1ak800/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1ak800/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1ak800/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1ak800/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1ak800/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1ak800/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/64624/2020/017338a0-96c4-41c6-82ec-52f2cdba7632.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/64624/2020/017338a0-96c4-41c6-82ec-52f2cdba7632-1599064569.png",
+    "url_thumb": "https://www.astrobin.com/1ak800/0/rawthumb/thumb/",
+    "user": "axlns",
+    "views": 229,
+    "w": 2675
+}

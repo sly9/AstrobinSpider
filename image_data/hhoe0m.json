@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "41.293",
+    "description": "M31 was the object for my first light with the RASA 8 and ASI2600MC back in August. Now I finally got around to collect some Ha for it. Collected with a dual band filter (IDAS NBX) but I only used the red (Ha) channel. The data was added to the red channel in the RGB image as blend mode Lighten in PS. I think that the Ha clearly lifted the colours of the galaxy in a pleasing way. \r\n\r\nFor the RGB data I have tried to tame the enormous dynamic range of this object so I could both bring out the outer dust \"cloud\" (presumambly made up my stars) that is often missed (or outside the FOV) as well as the details in the very bright core that is easily blown out.",
+    "h": 3260,
+    "hash": "hhoe0m",
+    "id": 562697,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "256.283",
+    "pixscale": "2.682",
+    "published": "2021-02-01T13:47:47.626867",
+    "ra": "10.698",
+    "radius": "2.158",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/562697/",
+    "revisions": [
+        "/api/v1/imagerevision/271712/",
+        "/api/v1/imagerevision/271714/",
+        "/api/v1/imagerevision/271912/",
+        "/api/v1/imagerevision/272064/"
+    ],
+    "subjects": [
+        "Andromeda Galaxy",
+        "Andromeda galaxy",
+        "M 110",
+        "M 31",
+        "M 32",
+        "M110",
+        "M31",
+        "M32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "NGC206"
+    ],
+    "title": "M31 HaRGB with RASA 8",
+    "updated": "2021-06-27T15:45:38.907938",
+    "uploaded": "2021-02-01T13:33:18.493560",
+    "url_duckduckgo": "https://www.astrobin.com/hhoe0m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hhoe0m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hhoe0m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hhoe0m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hhoe0m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hhoe0m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hhoe0m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2021/72daa148-3aa7-4ecc-8d80-b8a7be79e68a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2021/72daa148-3aa7-4ecc-8d80-b8a7be79e68a-1612187042.jpg",
+    "url_thumb": "https://www.astrobin.com/hhoe0m/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 476,
+    "w": 4791
+}

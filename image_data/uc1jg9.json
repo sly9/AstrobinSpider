@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": null,
+    "description": "NGC 3576 is a bright emission nebula in the Sagittarius arm of the galaxy a few thousand light-years away from the Eta Carinae nebula. It is also approximately 100 light years across and 9000 light-years away from Earth.  This nebula received six different classification numbers but currently, astronomers call the entire nebula [on the right in this image] NGC 3576.  A popular nickname is \"The Statue of Liberty Nebula\" because of the distinctive shape in the middle of the nebula.  It was discovered by Herschel in 1834.  Within the nebula, episodes of star formation are thought to contribute to the complex and suggestive shapes. Powerful winds from the nebula's embedded, young, massive stars shape the looping filaments.  The adjacent nebula on the left is NGC 3603. [based on Wikipedia]\r\n\r\nThis is a 31.6 hour RGB-HOS image using data from DSW South in Chile collected in March-April 2021.  It is my first truly narrow-band image and I chose to process it here as HOS mapping with HOS-enhanced RGB and RGB stars. I think I've finally learned to appreciate the additional artistic flexibility from NB color mapping, as I've always until now preferred natural colors with only, at most, Ha enhancement.\r\n\r\nWith the HOS color mapping to RGB, the main colors in the image come from the following emission lines:\r\nYellow = Ha + SII\r\nCyan = SII + OIII\r\nMagenta = Ha + OIII",
+    "h": 1813,
+    "hash": "uc1jg9",
+    "id": 582534,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA 150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-04-16T04:25:01.613843",
+    "ra": null,
+    "radius": null,
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/582534/",
+    "revisions": [
+        "/api/v1/imagerevision/284818/",
+        "/api/v1/imagerevision/285134/"
+    ],
+    "subjects": [],
+    "title": "32h NGC3576 HOS \"The Statue of Liberty\"",
+    "updated": "2021-06-24T00:14:18.208176",
+    "uploaded": "2021-04-16T03:38:40.659146",
+    "url_duckduckgo": "https://www.astrobin.com/uc1jg9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uc1jg9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uc1jg9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uc1jg9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uc1jg9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uc1jg9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uc1jg9/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/uc1jg9/0/rawthumb/thumb/",
+    "user": "jeffweiss9",
+    "views": 192,
+    "w": 2905
+}

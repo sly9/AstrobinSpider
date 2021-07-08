@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 9,
+    "data_source": "TRAVELLER",
+    "dec": "44.171",
+    "description": "A familiar area that I had imaged quite a while ago with a OSC - I wanted to come back and do a narrowband image of it. In this case I ran only Hα and OIII filters for the NB data, with a larger number of frames collected for OIII. The stars are RGB from 23 minutes of data for each channel. I ended up with a fair number of hours of data that gave me some clean masters that were easier to work with. As a result, the processing was pretty straightforward, although I did go down the usual rabbit hole playing with different mixes - but that is the fun part :)\n\nI used a new mixing technique I saw in a wonderful tutorial at www.thecoldestnights.com, a wonderful site with impressive astro images and some informative tutorials, including one covering 'Dynamic narrowband combinations with PixelMath' exposing an approach for weighting the channels that I had not seen before.  Check out that site - truly impressive astrophotography there, as well as some very well written tutorials on a couple of topics.",
+    "h": 4539,
+    "hash": "kc8k4h",
+    "id": 600919,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ100"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "https://www.thinairphotography.com/p139620504/ea237a709",
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2813078/"
+    ],
+    "orientation": "26.627",
+    "pixscale": "1.342",
+    "published": "2021-06-30T17:27:29.653993",
+    "ra": "314.708",
+    "radius": "1.053",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600919/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6997",
+        "NGC 7000",
+        "NGC6997",
+        "NGC7000",
+        "North America Nebula",
+        "North America nebula",
+        "Sh2-117"
+    ],
+    "title": "North America Nebula Wall Detail, in NB BiColor",
+    "updated": "2021-07-05T06:34:36.621526",
+    "uploaded": "2021-06-30T16:44:43.108029",
+    "url_duckduckgo": "https://www.astrobin.com/kc8k4h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kc8k4h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kc8k4h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kc8k4h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kc8k4h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kc8k4h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kc8k4h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5374/2021/76a9bf85-0557-4039-b24f-a83adefaeafd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5374/2021/76a9bf85-0557-4039-b24f-a83adefaeafd-1625074112.jpg",
+    "url_thumb": "https://www.astrobin.com/kc8k4h/0/rawthumb/thumb/",
+    "user": "mlewis",
+    "views": 83,
+    "w": 3361
+}

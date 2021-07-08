@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "33.045",
+    "description": "Imaged through the Star Analyser diffraction grating. The direct image of M57 is the one near image centre; main spectrum is to the right. The main coloured rings are blue, Olll, and red, Ha. Very faintly there is also an orange ring right of the Olll (H beta?) and dark blue smeared ring to the left of the Olll. I am a beginner to spectroscopy so please feel free to correct any errors or provide missing information.\r\n\r\nStudying the stellar spectra I notice that the spectrum extends well beyond the red suggesting that my camera is sensitive to infra red. I would be grateful if anyone could confirm this and explain the colours allocated in the IR region.",
+    "h": 950,
+    "hash": "cbs99e",
+    "id": 530215,
+    "imaging_cameras": [
+        "Starlight Xpress SXV H9c"
+    ],
+    "imaging_telescopes": [
+        "Altair Astro Wave 115mm APO Triplet (f7)"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812641/"
+    ],
+    "orientation": "89.895",
+    "pixscale": "1.663",
+    "published": "2020-10-05T19:10:17.327978",
+    "ra": "283.473",
+    "radius": "0.381",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/530215/",
+    "revisions": [],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring Nebula"
+    ],
+    "title": "M57 Ring nebula with Star Analyser 100",
+    "updated": "2021-04-09T18:03:14.345128",
+    "uploaded": "2020-10-05T19:42:02.103857",
+    "url_duckduckgo": "https://www.astrobin.com/cbs99e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cbs99e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cbs99e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cbs99e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cbs99e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cbs99e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cbs99e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26913/2020/82c7a1a9-c1e4-433c-b970-451fa96ce30e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26913/2020/82c7a1a9-c1e4-433c-b970-451fa96ce30e-1601928581.jpg",
+    "url_thumb": "https://www.astrobin.com/cbs99e/0/rawthumb/thumb/",
+    "user": "Graham_Winstanley",
+    "views": 97,
+    "w": 1350
+}

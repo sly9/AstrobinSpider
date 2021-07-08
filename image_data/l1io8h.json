@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "56.100",
+    "description": "",
+    "h": 3248,
+    "hash": "l1io8h",
+    "id": 549853,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "OPT/TPO 10\" Imaging Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 40,
+    "link": "http://www.createdheavens.com/yoder-observing-site.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812236/"
+    ],
+    "orientation": "272.423",
+    "pixscale": "0.854",
+    "published": "2020-12-15T05:02:54.266110",
+    "ra": "334.820",
+    "radius": "0.696",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549853/",
+    "revisions": [
+        "/api/v1/imagerevision/264564/"
+    ],
+    "subjects": [],
+    "title": "LIon Nebula Sh2-132",
+    "updated": "2021-03-06T01:56:59.331873",
+    "uploaded": "2020-12-15T05:00:21.252810",
+    "url_duckduckgo": "https://www.astrobin.com/l1io8h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l1io8h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l1io8h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l1io8h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l1io8h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l1io8h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l1io8h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/46890/2020/dc7ce904-adcc-454e-af47-afcb5290d4f8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/46890/2020/dc7ce904-adcc-454e-af47-afcb5290d4f8-1608008663.jpg",
+    "url_thumb": "https://www.astrobin.com/l1io8h/0/rawthumb/thumb/",
+    "user": "Morrisayoder",
+    "views": 103,
+    "w": 4889
+}

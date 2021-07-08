@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "-19.438",
+    "description": "This target definitely needs a wider FOV. Perhaps someday.",
+    "h": 3250,
+    "hash": "ra8zga",
+    "id": 482139,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "179.954",
+    "pixscale": "1.104",
+    "published": "2020-04-26T11:50:00.421975",
+    "ra": "243.025",
+    "radius": "0.810",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/482139/",
+    "revisions": [],
+    "subjects": [
+        "13.12",
+        "14 nu. Sco",
+        "712 Boliviana",
+        "B40",
+        "IC 4592",
+        "IC4592",
+        "Jabbah",
+        "The star νSco"
+    ],
+    "title": "The Blue Horsehead (IC 4592)",
+    "updated": "2021-03-17T02:43:39.422542",
+    "uploaded": "2020-04-26T12:50:00.923395",
+    "url_duckduckgo": "https://www.astrobin.com/ra8zga/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ra8zga/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ra8zga/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ra8zga/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ra8zga/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ra8zga/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ra8zga/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/4ee0202f-cb3e-4e87-bcb2-cec0fe4e91be.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/4ee0202f-cb3e-4e87-bcb2-cec0fe4e91be-1587905613.jpg",
+    "url_thumb": "https://www.astrobin.com/ra8zga/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 307,
+    "w": 4166
+}

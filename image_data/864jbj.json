@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "-23.905",
+    "description": "The central blue-white star in this image, EZ Canis Majoris, is a Wolf-Rayet star near the end of its life. It started out as a massive O-type star which burnt its fuel hotly and rapidly. Now at the end, it is energetically ejecting material dominated by ionized oxygen. This ejected gas forms the bubble which makes up most of this image. EZ Canis Majoris will end as a supernova. This event could happen at any time; tomorrow or a half million years from now. In contrast to EZ Canis Majoris, Omicron1 Canis Major (CMa) is a red supergiant that is cooler than our sun but with a diameter 220 times larger. It is the very large orange star in this image. \r\n\r\nWhen assembling the data for this image I \"discovered\" another planetary nebula in this field (look for the transparent soap bubble, bottom-center). At first I thought this might be an artifact caused by CMa, but I managed to find the feature in APOD https://apod.nasa.gov/apod/ap200302.html. Still I could find no reference for this object. Using PixInsight I determine the coordinates for the center of the nebula and was able to look it up in a SINBAD coordinate search. It turns out this is PN G234.9-09.7 discovered in 2008.\r\n\r\nMy primary goal for this image was to capture details in the bubble of Wolf-Rayet ejecta. But I also wanted to show the color contrast between the two dominant stars described above. So, I captured this scene in HOO and RGB. After color calibration of the RGB data, I could tell the bubble was blue-green. It turns out the HOO palette for the bubble is a near match for the actual color of the ionized oxygen in the RGB data. So to the best of my abilities, this is a color accurate rendition of the subject.",
+    "h": 2764,
+    "hash": "864jbj",
+    "id": 567017,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX 130T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806605/"
+    ],
+    "orientation": "89.849",
+    "pixscale": "1.036",
+    "published": "2021-02-17T04:41:47.692620",
+    "ra": "103.631",
+    "radius": "0.643",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/567017/",
+    "revisions": [],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "Sh2-308 in HOO and RGB",
+    "updated": "2021-06-29T02:14:43.794488",
+    "uploaded": "2021-02-17T03:40:58.757769",
+    "url_duckduckgo": "https://www.astrobin.com/864jbj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/864jbj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/864jbj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/864jbj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/864jbj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/864jbj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/864jbj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15584/2021/6617af3f-388c-4912-a021-5d1c3e76ced0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15584/2021/6617af3f-388c-4912-a021-5d1c3e76ced0-1613533569.jpg",
+    "url_thumb": "https://www.astrobin.com/864jbj/0/rawthumb/thumb/",
+    "user": "andrewjbarton",
+    "views": 458,
+    "w": 3516
+}

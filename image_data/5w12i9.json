@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "54.350",
+    "description": "LPS D2 filter",
+    "h": 3287,
+    "hash": "5w12i9",
+    "id": 496112,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 8\" f/5 ONTC,  hand made mirror"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802444/"
+    ],
+    "orientation": "0.830",
+    "pixscale": "1.124",
+    "published": "2020-06-11T12:11:25.661928",
+    "ra": "210.763",
+    "radius": "0.642",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496112/",
+    "revisions": [
+        "/api/v1/imagerevision/237120/",
+        "/api/v1/imagerevision/237132/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5477"
+    ],
+    "title": "M 101",
+    "updated": "2021-03-17T01:26:54.194600",
+    "uploaded": "2020-06-10T18:51:28.227701",
+    "url_duckduckgo": "https://www.astrobin.com/5w12i9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5w12i9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5w12i9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5w12i9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5w12i9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5w12i9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5w12i9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10524/2020/d176cf66-003f-4160-95b0-b55e192015a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10524/2020/d176cf66-003f-4160-95b0-b55e192015a9-1591875806.jpg",
+    "url_thumb": "https://www.astrobin.com/5w12i9/0/rawthumb/thumb/",
+    "user": "echosud",
+    "views": 231,
+    "w": 2474
+}

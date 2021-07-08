@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "42.660",
+    "description": "Dark nebulae are interstellar clouds that contain a very high concentration of dust. This allows them to scatter and absorb all incident optical light, making them completely opaque at visible wavelengths. They are most obvious when located in front of a bright emission nebula.\r\n\r\nOften overlooked due to the proximity to its more famous neighbors, IC5068 is a HII region in the constellation Cygnus, near the North America Nebula (NGC7000) and Pelican Nebula (IC5070). The color palette in the image is a modified Hubble palette, with RGB star color. Dark clouds of cold dust form the intricate ink-black patterns in the image, blocking visible light from the hydrogen, oxygen, and sulphur emissions. \r\n\r\nPanel A is a crop of the whole region to highlight the dark nebulae. In panel B, the entire IC5068 nebula is displayed.",
+    "h": 2588,
+    "hash": "4eahmu",
+    "id": 547671,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "359.024",
+    "pixscale": "2.328",
+    "published": "2020-12-06T16:23:35.112676",
+    "ra": "313.264",
+    "radius": "1.316",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/547671/",
+    "revisions": [
+        "/api/v1/imagerevision/263329/"
+    ],
+    "subjects": [
+        "IC 5068",
+        "IC5068"
+    ],
+    "title": "Dark clouds of IC5068",
+    "updated": "2021-04-04T01:32:58.752006",
+    "uploaded": "2020-12-06T14:53:15.254028",
+    "url_duckduckgo": "https://www.astrobin.com/4eahmu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4eahmu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4eahmu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4eahmu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4eahmu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4eahmu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4eahmu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/9e33525e-ec35-4f2b-ae85-c238e2a22124.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/9e33525e-ec35-4f2b-ae85-c238e2a22124-1607271761.jpg",
+    "url_thumb": "https://www.astrobin.com/4eahmu/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 656,
+    "w": 3140
+}

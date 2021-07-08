@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.402",
+    "description": "The data was acquired by <a href=https://www.astrobin.com/users/mxcoppell/>Min Xie</a> and <a href=https://www.astrobin.com/users/yzhzhang/>Yizhou Zhang</a> from 5 nights in Jan 2021.\r\nI remember when Yizhou did the first processing, he called out the asteroids and we all got excited.\r\nWith the normal workflow, these trails would be rejected during integration. I'd like to keep them this time and see how many we've got under our class 2 sky. To do that, we need the normal masters with rejections enabled, and another set of masters without rejections. At an eye's glance, it appeared we have at least six, seven asteroids for identification. \r\n<br>\r\nWith SkySafari, it showed two asteroids in the FOV, <a href=https://en.wikipedia.org/wiki/888_Parysatis>(888) Parysatis</a> and (1375) Alfreda. They indeed have the brightest trails with mag between 13 and 15. With the default ASTAP setup, it identified another two (6361) Koppel and (9718) Gerbefremov, one at mag 16.7 and the other 17.0. \r\n<br>\r\nFor one minute, I was so naïve to believe we might make new discovery! And then I realized the default ASTAP asteroid annotation function only considers 10k entries and only those brighter than mag 17.0. \r\n<br>\r\nThen the excitement faded and the remaining job is to label the asteroid names we've got. With 21.7 hours LRGB data, we managed to acquire asteroids up to mag 19.4. In total it turned out to be 12 of them in the tighter revision and 16 in total in the full FOV. Pushing the magnitude to the maximum, in theory there could be a hundred of minor planets here but they are mostly blended behind the background noises. \r\n<br>\r\nWith the plate solve result, the asteroid trails were hand picked and integrated with the normal masters. Therefore no hot noises, satellite trails, cosmic rays snuck into the end result. Because we have a side-by-side setup, the Lum is taken while RGB is rotated. The comet-like RGB tail could be seen on (888) Parysatis as it's bright enough.\r\n\r\n<br>\r\nThe full duodecet list is here: \r\n(888) Parysatis; (13.7}\r\n(1375) Alfreda; {15.2}\r\n(6361) Koppel; {16.7}\r\n(10418) 1998 WZ23; {16.9}\r\n(9718) Gerbefremov; {17.0}\r\n(8503) Masakatsu; {17.5}\r\n(4955) Gold; {17.6}\r\n(24463) 2000 SO123; {18.7}\r\n(76656) 2000 HN36; {19.0}\r\n(28217) 1998 YO3; {19.0}\r\n(80655) 2000 BO3; {19.1}\r\n(24585) 4201 T-2; {19.1}\r\nThe numbers within the brackets are the magnitude, following the ASTAP convention. (I'd credit <a href=https://www.astrobin.com/users/caober/>Chris Ober</a> for providing support here.)\r\n\r\nIn the full FOV version, we have four more which makes it hextet in the end:\r\n(27385) Andblonsky; {18.2}\r\n(56479) 2000 GT114; {19.1}\r\n(133674) 2003 UL192; {19.3}\r\n(83175) 2001 QS285; {19.4}\r\nTja, the last discovery was in 2003, already 18 years ago. Kudos to all the discoverers!\r\n\r\nUpdate I: in revision O, I generated the stacked asteroid views by a very interesting software Tycho developed by <a href=https://www.tycho-tracker.com/>Daniel Parrott</a>. It is used mainly for the neo planets and asteroids detection. However it also provides a very eye-opening view for me to understand better about the small objects orbiting between Mars and Jupiter and even much beyond. \r\nI received tremendous support from Dan and I appreciate that very much!\r\n\r\nUpdate II: the final asteroids number, based on Tycho, is about 104 +- a few more/less depending on the date. This software is incredible and one can only be amazed by how much effort human being has been trying to see and explore!\r\n\r\nEnjoy!\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 2776,
+    "hash": "do7bz6",
+    "id": 587474,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814874/"
+    ],
+    "orientation": "40.138",
+    "pixscale": "1.285",
+    "published": "2021-05-06T17:28:48.300428",
+    "ra": "170.259",
+    "radius": "0.962",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/587474/",
+    "revisions": [
+        "/api/v1/imagerevision/286360/",
+        "/api/v1/imagerevision/286362/",
+        "/api/v1/imagerevision/287249/",
+        "/api/v1/imagerevision/288641/"
+    ],
+    "subjects": [
+        "IC 2763",
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet and Asteroids Duodecet",
+    "updated": "2021-06-13T17:41:32.274976",
+    "uploaded": "2021-05-06T04:56:13.136194",
+    "url_duckduckgo": "https://www.astrobin.com/do7bz6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/do7bz6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/do7bz6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/do7bz6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/do7bz6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/do7bz6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/do7bz6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25460/2021/60a0d698-9274-4756-a8dc-17ca05dcc12c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25460/2021/60a0d698-9274-4756-a8dc-17ca05dcc12c-1620313643.jpg",
+    "url_thumb": "https://www.astrobin.com/do7bz6/0/rawthumb/thumb/",
+    "user": "nodustab",
+    "views": 329,
+    "w": 4622
+}

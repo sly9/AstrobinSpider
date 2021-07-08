@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 74,
+    "data_source": "BACKYARD",
+    "dec": "36.445",
+    "description": "Messier 13 or M13 is the brightest and largest globular cluster visible from the Northern Hemisphere. It was discovered by Edmond Halley in 1714 and cataloged by Charles Messier in 1764. With an apparent magnitude of 5.8, M13 is barely visible to the naked eye from dark skies on clear nights. It appears as a fuzzy spot in low power binoculars and shines like a jewel box in the eyepiece on a larger telescope. It iss a favorite Spring and Summer DSO of mine to observe with the 10in Newtonian telescope. \r\n\r\nM13 is about 145 light-years in diameter and is located at a distance of roughly 25,000 light years from Earth. It contains several hundred thousand stars, which implies an average distance between stars in the Cluster of roughly 1 light-year. However, in the core, stars are much more tightly packed with distances that can be as short as the diameter of the Solar System. Collisions among stars can happen and new stars are formed in the process. These young stars are called \"blue stragglers\" and form a standalone branch off main sequence in a Hertzsprung-Russell  diagram of the stars in the cluster. The stars in the red giant branch of the cluster HR diagram are the oldest and can be used to date the beginning of the cluster formation, almost 12 billion years ago for M13. See also <a href=\"https://apod.nasa.gov/apod/ap190613.html\">Tolga Gumusayak's APOD</a> image with M13's HR diagram. \r\n\r\nWhile M13 is a bright DSO and does not require a lot of data, my intent was to resolve faint background galaxies and see how deep I could reach from my Bortle 5 suburban skies. \r\n\r\nThe annotated images show fuzzies that can be separated from background unambiguously down to magnitude 22. There are a few galaxies around mag 22.5 that can be kind of resolved but it starts being questionable. \r\n\r\nI used the excellent tutorial by <a href=\"http://www.astro-photo.nl/tutorials/detecting-and-marking-faint-galaxies-in-pixinsight\"> Andre Van der Hoeven </a> to create a custom annotation in Pixinisght.\r\n\r\nReferences: \r\n- Wikipedia\r\n-B. Carroll, D. Ostlie, An Introduction to Modern Astrophysics, 2nd edition, Cambridge U. Press",
+    "h": 3200,
+    "hash": "ydk4cz",
+    "id": 495842,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 362,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "179.118",
+    "pixscale": "0.685",
+    "published": "2020-06-09T12:37:38.225977",
+    "ra": "250.429",
+    "radius": "0.510",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495842/",
+    "revisions": [
+        "/api/v1/imagerevision/236950/",
+        "/api/v1/imagerevision/236951/",
+        "/api/v1/imagerevision/237026/"
+    ],
+    "subjects": [
+        "Hercules Globular Cluster",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "Messier 13 - Great Globular Cluster in Hercules",
+    "updated": "2021-07-07T16:27:45.920276",
+    "uploaded": "2020-06-09T13:37:38.404213",
+    "url_duckduckgo": "https://www.astrobin.com/ydk4cz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ydk4cz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ydk4cz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ydk4cz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ydk4cz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ydk4cz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ydk4cz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/381321ac-6eb0-4cf4-aeef-8e6a2106af03.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/381321ac-6eb0-4cf4-aeef-8e6a2106af03-1591757973.jpg",
+    "url_thumb": "https://www.astrobin.com/ydk4cz/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 2797,
+    "w": 4304
+}

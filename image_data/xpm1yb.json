@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 25,
+    "data_source": "OWN_REMOTE",
+    "dec": "9.226",
+    "description": "This glorious emission nebula also comprises dark nebula LDN 1594 and Barnard 35, with LBN 879 as a bright yellow nebula punching through the darker dust.  To me it resembles a longbow however I don't know if it has a colloquial name of any sort.\r\n\r\nIt is a two panel mosaic and it has sat on my PC for some weeks as I slowly caught up on processing and kept revisiting.  I have been trying various techniques of combining Ha data into RGB, experimenting with PI's scripts and also PixelMath expressions: I have not settled on anyone technique and it seems to me at the moment that non are very satisfactory.\r\n\r\nI first saw this target when imaged by Jim Thomas (http://jthommes.com/Astro/LBN878.htm) - a great image and inspiration, thank you Jim.\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 3324,
+    "hash": "xpm1yb",
+    "id": 476765,
+    "imaging_cameras": [
+        "QSI 690 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "TEC 140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 287,
+    "link": "https://barrywilson.smugmug.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "359.816",
+    "pixscale": "0.744",
+    "published": "2020-04-13T09:20:12.961996",
+    "ra": "86.461",
+    "radius": "0.589",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/476765/",
+    "revisions": [],
+    "subjects": [
+        "B35"
+    ],
+    "title": "LBN 878 & 879 at the head of Orion",
+    "updated": "2021-03-17T03:14:12.604988",
+    "uploaded": "2020-04-13T10:20:13.364549",
+    "url_duckduckgo": "https://www.astrobin.com/xpm1yb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xpm1yb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xpm1yb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xpm1yb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xpm1yb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xpm1yb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xpm1yb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2020/66c77db6-0349-4212-9c15-b46d6179cee0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5519/2020/66c77db6-0349-4212-9c15-b46d6179cee0-1586773982.jpg",
+    "url_thumb": "https://www.astrobin.com/xpm1yb/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 559,
+    "w": 4636
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "10.008",
+    "description": "Reprocess in Hubble's SHO color palette.\r\nData taken: December  2018",
+    "h": 4000,
+    "hash": "bnn2vg",
+    "id": 540226,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106N f/5 refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812841/"
+    ],
+    "orientation": "274.940",
+    "pixscale": "1.168",
+    "published": "2020-11-12T18:02:36.774472",
+    "ra": "100.175",
+    "radius": "1.224",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/540226/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree Cluster",
+        "NGC 2259",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264",
+    "updated": "2021-03-16T18:14:49.687617",
+    "uploaded": "2020-11-12T17:47:19.908422",
+    "url_duckduckgo": "https://www.astrobin.com/bnn2vg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bnn2vg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bnn2vg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bnn2vg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bnn2vg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bnn2vg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bnn2vg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28079/2020/6b0d2a94-da9f-401a-b562-70a8d0560e14.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28079/2020/6b0d2a94-da9f-401a-b562-70a8d0560e14-1605203829.jpg",
+    "url_thumb": "https://www.astrobin.com/bnn2vg/0/rawthumb/thumb/",
+    "user": "AstroGearTH",
+    "views": 115,
+    "w": 6400
+}

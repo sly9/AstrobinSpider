@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "31.445",
+    "description": "",
+    "h": 2160,
+    "hash": "jv5lt5",
+    "id": 595533,
+    "imaging_cameras": [
+        "ZWO ASI533MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Altair Astro 70ED Triplet APO Refractor",
+        "Altair Astro 70 EDT-F"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814812/"
+    ],
+    "orientation": "267.515",
+    "pixscale": "2.516",
+    "published": "2021-06-08T12:03:09.640600",
+    "ra": "313.937",
+    "radius": "1.067",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595533/",
+    "revisions": [
+        "/api/v1/imagerevision/290365/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995"
+    ],
+    "title": "NGC 6992 Eastern Veil Nebula 20210608 20160s HOO 01.4.3",
+    "updated": "2021-06-30T22:33:45.344335",
+    "uploaded": "2021-06-08T11:59:58.082663",
+    "url_duckduckgo": "https://www.astrobin.com/jv5lt5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jv5lt5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jv5lt5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jv5lt5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jv5lt5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jv5lt5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jv5lt5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/89259/2021/7b68fbd3-5c8c-47fe-a8fc-99bee84914b4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/89259/2021/7b68fbd3-5c8c-47fe-a8fc-99bee84914b4-1623153870.png",
+    "url_thumb": "https://www.astrobin.com/jv5lt5/0/rawthumb/thumb/",
+    "user": "allanalaoui",
+    "views": 147,
+    "w": 2160
+}

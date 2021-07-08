@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.290",
+    "description": "Another version (V2) with more light and centered on Berkeley 59 and the center of the nebula\r\n-----------\r\n My NGC7822 attempt with SHO colors and natural stars from RGB frames\r\n\r\n\r\nNGC 7822 is a young star forming complex in the constellation of Cepheus. The complex encompasses the emission region designated Sharpless 171, and the young cluster of stars named Berkeley 59. The complex is believed to be some 800–1000 pc distant, with the younger components aged no more than a few million years. The complex also includes one of the hottest stars discovered within 1 kpc of the Sun, namely BD+66 1673, which is an eclipsing binary system consisting of an O5V that exhibits a surface temperature of nearly 45,000 K and a luminosity about 100,000 times that of the Sun. The star is one of the primary sources illuminating the nebula and shaping the complex's famed pillars of creation-type formations\r\n\r\nBD + 66 1673 or V747 Cephei is an eclipsing binary star of the constellation Cepheus, composed of a blue star of the main sequence of spectral type O5.5V and a blue-white star of the main sequence2. It is located in the nebula NGC 7822 and is the hottest star in the open cluster Berkeley 59, which is only about 2 million years old.\r\n\r\nHave a look at the binary star system BD+66 1673 =>\r\nalpha= 00h 01m 46,86792s and delta=: 67° 30′ 25,1022″\r\nMagnituyde : 10.7\r\n\r\n50 Halpha subs @300s gain 100 and -15°C\r\n48 OIII subs @300s gain 100 and -15°C\r\n50 SII subs @300s gain 100 and -15°C\r\n\r\n20 Blue subs @180s gain 100 and -15°C\r\n20 Green subs @180s gain 100 and -15°C\r\n20 Red subs @180s gain 100 and -15°C\r\n\r\nTotal exposure = 15.5 hours",
+    "h": 4080,
+    "hash": "ikev6g",
+    "id": 557445,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "180.130",
+    "pixscale": "0.638",
+    "published": "2021-01-12T11:26:24.344515",
+    "ra": "0.929",
+    "radius": "0.614",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/557445/",
+    "revisions": [
+        "/api/v1/imagerevision/268571/"
+    ],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "Berkeley 59 and NGC7822 in Cepheus",
+    "updated": "2021-04-13T13:35:16.654070",
+    "uploaded": "2021-01-12T11:14:28.363687",
+    "url_duckduckgo": "https://www.astrobin.com/ikev6g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ikev6g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ikev6g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ikev6g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ikev6g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ikev6g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ikev6g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2021/bb1ccb1d-3bcb-43cd-b284-5eabeade31b3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2021/bb1ccb1d-3bcb-43cd-b284-5eabeade31b3-1610450352.jpg",
+    "url_thumb": "https://www.astrobin.com/ikev6g/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 194,
+    "w": 5598
+}

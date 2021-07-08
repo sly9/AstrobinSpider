@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 24,
+    "comments": 36,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "33.028",
+    "description": "<b>М 57 envelope</b>\r\n\r\nM57 halo (\"envelope\") is considered to be outer layers of the host star blown away by stellar wind during asymptotic giant branch phase just before nebula itself was born.\r\n\r\n----\r\nThe nebula image is Ha-OIII-OIII composition (200% crop of central part). Stars were overlaid from RGB image.\r\nDue to high dynamic range, some processing tweaks were used. First, two separate integrations per filter were made: best of the best based on FWHM criteria for the brightest nebula part and a full set of images for maximizing SNR in shadows. Than stretch of various degree was applied. And they all were combined later into artificial HDR.\r\n\r\n----\r\n[1] Nebula 3D model image was taken from <a href=https://arxiv.org/pdf/1301.6636.pdf#page=29>\"Studies of NGC 6720 with Calibrated HST WFC3 Emission-Line Filter Images–I: Structure and Evolution\", C. R. O’Dell, G. J. Ferland, W. J. Henney and M. Peimbert, 2013</a>\r\n\r\n----\r\nFull frame:\r\n<a href=https://www.astrobin.com/ymyc23/C/><img src=\"https://cdn.astrobin.com/thumbs/uGgFsDnKgBd8_80x80_UUPQI_hZ.png\"></a>",
+    "h": 1300,
+    "hash": "ymyc23",
+    "id": 530222,
+    "imaging_cameras": [
+        "Atik 383L+ Mono"
+    ],
+    "imaging_telescopes": [
+        "Customized Newton320/4.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 314,
+    "link": "http://astromania.info/gallery/M57_HOO/M57_HOO_3_crop200.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806860/"
+    ],
+    "orientation": "178.235",
+    "pixscale": "0.407",
+    "published": "2020-10-05T19:26:14.038362",
+    "ra": "283.396",
+    "radius": "0.121",
+    "remote_source": "AHK",
+    "resource_uri": "/api/v1/image/530222/",
+    "revisions": [
+        "/api/v1/imagerevision/253585/",
+        "/api/v1/imagerevision/253586/"
+    ],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring Nebula"
+    ],
+    "title": "M57 envelope in Ha-OIII-OIII",
+    "updated": "2021-07-03T01:26:47.226864",
+    "uploaded": "2020-10-05T20:17:48.093013",
+    "url_duckduckgo": "https://www.astrobin.com/ymyc23/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ymyc23/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ymyc23/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ymyc23/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ymyc23/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ymyc23/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ymyc23/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20728/2020/6814b3e7-63dd-4ab7-b359-7deec5fc6896.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20728/2020/6814b3e7-63dd-4ab7-b359-7deec5fc6896-1601932274.jpg",
+    "url_thumb": "https://www.astrobin.com/ymyc23/0/rawthumb/thumb/",
+    "user": "BorisE",
+    "views": 1662,
+    "w": 1700
+}

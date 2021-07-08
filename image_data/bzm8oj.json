@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "42.133",
+    "description": "Well, that escalated quickly! Three days ago NEOWISE was filling only 30% of my Sensor. This morning I was not able anymore to fit it on it! Crazy how it developed! I was able to capture >30 minutes in full darkness, followed by 20 minutes of pretty dark dawn. This stack covers the first 30 minutes, 150 lights. \r\nIt seems that I captured two different ion tails! One in blue, and one reddish. I saw similar images yesterday from Astrofalls. There are even structures in the ion tail!\r\nProcessing is hard due to all those gradients from the atmosphere. This will most probably get some new versions later today. Comet+Star Stacking failed in DSS, so this is pure comet stacking at the moment.",
+    "h": 2048,
+    "hash": "bzm8oj",
+    "id": 504137,
+    "imaging_cameras": [
+        "Sony a6300"
+    ],
+    "imaging_telescopes": [
+        "William Optics RedCat 51 Petzval APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "21.909",
+    "pixscale": "8.934",
+    "published": "2020-07-10T10:54:26.640148",
+    "ra": "96.163",
+    "radius": "3.054",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504137/",
+    "revisions": [
+        "/api/v1/imagerevision/240820/",
+        "/api/v1/imagerevision/241057/"
+    ],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet C/2020 F3 NEOWISE 2020-07-10",
+    "updated": "2021-06-11T06:56:54.907924",
+    "uploaded": "2020-07-10T11:54:27.035137",
+    "url_duckduckgo": "https://www.astrobin.com/bzm8oj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bzm8oj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bzm8oj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bzm8oj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bzm8oj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bzm8oj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bzm8oj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12876/2020/746dd0b8-e61f-45bb-9ae9-506be0b94440.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12876/2020/746dd0b8-e61f-45bb-9ae9-506be0b94440-1594382457.jpg",
+    "url_thumb": "https://www.astrobin.com/bzm8oj/0/rawthumb/thumb/",
+    "user": "BjoernH",
+    "views": 296,
+    "w": 1365
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "66.640",
+    "description": "The Cat's Eye has always been on my list of favorite targets, and I wanted to see if I could do justice to it with the new scope I just bought (Orion Optics UK AG12).  What makes this nebula so difficult is the huge dynamic range: you've got an ultra bright, tiny core surrounded by a faint gas halo.  Both capturing and processing this were a challenge. \n\nThe halo is the easier of the two by far: five minute exposures of Ha, Oiii, and Sii revealed very strong signal in Oiii, decent signal in Ha, and faint but visible signal in Sii. \n\nExposing for the core, however, was a different story.  It contains a lot of interesting structure, if you use Hubble and other images for reference: it's a series of interlocking bubbles surrounding a single central star. All that detail required careful exposure to make sure I didn't overexpose and blow it it.  I tried two minutes.  Nope: blown out.  One minute: nope.  30 seconds: negative, big bright blob. At this point I am sweating because if I went any lower and I doubted I would have enough other stars to register properly. Then in the  middle of this trial and error, my new ASI 2600MM Pro arrived: its well depth is over twice that of the ASI 1600, so 30 second exposures DID work out without blowing it all out, and retained plenty of other stars to boot.  Whew.  (No, ZWO is not paying me to write this!).  \n\nWhen it came to processing, given the massive dynamic range, I had to take a layered approach: I created Ha, Oiii, and Sii submasters for the halo, and a separate set of submasters for the core detail, which fortunately I was able to capture both the rings and the single core star, even if they were approaching the very limits of my image scale.  I then combined the core and halo submasters using masking techniques in Pixinsight and Pixelmath to create master Ha, Oii, and Sii images which were then combined into an RGB image using Pixelmath. From there it was just basic sharpening and noise reduction, a few curves adjustments to taste.  \n\nThanks for reading if you made it this far: hope you enjoy the image!",
+    "h": 2039,
+    "hash": "9v0qgc",
+    "id": 601105,
+    "imaging_cameras": [
+        "zwo optical ASI 2600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 148,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2809103/"
+    ],
+    "orientation": "168.627",
+    "pixscale": "0.700",
+    "published": "2021-07-01T14:53:55.692296",
+    "ra": "269.629",
+    "radius": "0.328",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601105/",
+    "revisions": [
+        "/api/v1/imagerevision/293535/"
+    ],
+    "subjects": [
+        "IC4677",
+        "NGC 6552",
+        "NGC6543",
+        "NGC6552",
+        "PK096+29.1"
+    ],
+    "title": "Cat's Eye Nebula",
+    "updated": "2021-07-06T23:06:23.961588",
+    "uploaded": "2021-07-01T14:19:14.851838",
+    "url_duckduckgo": "https://www.astrobin.com/9v0qgc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9v0qgc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9v0qgc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9v0qgc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9v0qgc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9v0qgc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9v0qgc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27809/2021/fd0ac269-9c20-4e70-a993-8358cf23113e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27809/2021/fd0ac269-9c20-4e70-a993-8358cf23113e-1625151571.jpg",
+    "url_thumb": "https://www.astrobin.com/9v0qgc/0/rawthumb/thumb/",
+    "user": "Tuckie",
+    "views": 268,
+    "w": 2690
+}

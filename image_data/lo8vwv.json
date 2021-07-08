@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "73.398",
+    "description": "NGC 3147 with outer halo and some nice accompanying integrated flux nebula. 150x600s subs with the QHY128Pro OSC and the EdgeHD 14. The diffraction spikes are from a spider used to route the wires from the Optec SMFS.",
+    "h": 3549,
+    "hash": "lo8vwv",
+    "id": 589734,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 14HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 86,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "91.980",
+    "pixscale": "0.318",
+    "published": "2021-05-15T02:19:31.782597",
+    "ra": "154.226",
+    "radius": "0.278",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/589734/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3147"
+    ],
+    "title": "NGC 3147 plus IFN",
+    "updated": "2021-07-01T17:47:09.057378",
+    "uploaded": "2021-05-15T02:15:42.160136",
+    "url_duckduckgo": "https://www.astrobin.com/lo8vwv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lo8vwv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lo8vwv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lo8vwv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lo8vwv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lo8vwv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lo8vwv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21879/2021/333fa17d-7e5f-437c-a300-ff5c20e80b60.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21879/2021/333fa17d-7e5f-437c-a300-ff5c20e80b60-1621050156.jpg",
+    "url_thumb": "https://www.astrobin.com/lo8vwv/0/rawthumb/thumb/",
+    "user": "spokeshave",
+    "views": 157,
+    "w": 5187
+}

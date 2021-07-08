@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Equipment:\r\n\r\nAstrofaktoria Newton 350/14000 on NEQ-6\r\nT7 camera (ASI120MM) + filters 950nm & 1000nm (stacked)\r\n\r\nExposition:\r\n600 x 4 seconds (gain 20/100, gamma 95)\r\n\r\nHere you can find all of the layers which I used to create this smooth photo (just to confirm that it's not a fake like some people said ;) ):\r\n\r\nhttps://www.astrobin.com/suxe7f/?nc=user\r\n\r\nMain picture is composition of 4 different pictures which different level of \"unsharp masing\". I put it together and removed sharpening artifacts by using masks and moving detail of surface for main layer with minimal processing. That's why picture is smooth :)\r\n\r\nSeeing was extremely good taht day and also there was no wind - that's why I was succesfull with register a lot of detail - especially \"horseshoe\" shape of Phoebe Regio :)",
+    "h": 1111,
+    "hash": "qnavgs",
+    "id": 486954,
+    "imaging_cameras": [
+        "ASI ZWO 120MM"
+    ],
+    "imaging_telescopes": [
+        "AstroFaktoria Truss Newtonian 350/1400"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 114,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-10T20:37:35.999546",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486954/",
+    "revisions": [
+        "/api/v1/imagerevision/232684/"
+    ],
+    "subjects": [],
+    "title": "Surface of Venus - thermal emission map (vs sim) - 8th of May 2020",
+    "updated": "2021-05-26T15:50:26.785876",
+    "uploaded": "2020-05-10T21:23:26.431302",
+    "url_duckduckgo": "https://www.astrobin.com/qnavgs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qnavgs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qnavgs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qnavgs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qnavgs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qnavgs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qnavgs/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/qnavgs/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 651,
+    "w": 1580
+}

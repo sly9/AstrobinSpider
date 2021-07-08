@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "42.533",
+    "description": "I had initially attempted a deep image of NGC 7662, the Blue Snowball, a planetary nebula in the constellation Andromeda in 2009. What I assumed was a filter reflection turned out to be a legitimate halo, and I initially described the extra halo \"jet\" structure at that time. I added to this image in 2012 and decided to give it one last effort presently.\r\n\r\nImaging Camera: QSI640 wsg\r\nImaging Scope: 9.25\" Celestron Edge at F/7 (Halo and starfield), Meade LX200 at F/10 (PN Core)\r\nGuide Camera: SX Lodestar x 2, PHD2\r\nMount:Avalon M Uno\r\nFilters: Astrodon 3nm OIII, LRGB\r\nExposure:\r\nHalo data and starfield: 16 hours OIII 30 min subs binx2, three hours luminance 3 minute subs, one hour each RGB 1 minute subs bin x2\r\nCore data (Data from 2012): Two hours of 20-30sec LRGB and OIII subs were combined for the core of the nebula.\r\n\r\nCapture Program: APT\r\nProcessing: CCD Stack and PS CC.\r\nDate: 9/4 - 9/21/20\r\nLocation: My front driveway. Morristown, NJ",
+    "h": 2689,
+    "hash": "zu4mm0",
+    "id": 526764,
+    "imaging_cameras": [
+        "QSI640WSG"
+    ],
+    "imaging_telescopes": [
+        "MEADE 10\" SCT  f 10 LX200R",
+        "Celestron C9.25 Edge HD Celestron C9.25 EdgeHD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 75,
+    "link": "https://pbase.com/image/171061691",
+    "link_to_fits": "https://pbase.com/image/171061691",
+    "locations": [
+        "/api/v1/location/2808843/"
+    ],
+    "orientation": "272.869",
+    "pixscale": "0.550",
+    "published": "2020-09-25T00:13:57.514609",
+    "ra": "351.469",
+    "radius": "0.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526764/",
+    "revisions": [],
+    "subjects": [],
+    "title": "NGC 7662 Blue Snowball Nebula",
+    "updated": "2021-04-23T10:34:06.263156",
+    "uploaded": "2020-09-25T01:13:57.732065",
+    "url_duckduckgo": "https://www.astrobin.com/zu4mm0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zu4mm0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zu4mm0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zu4mm0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zu4mm0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zu4mm0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zu4mm0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21875/2020/e6c47a99-2417-4880-afba-d886b437597d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21875/2020/e6c47a99-2417-4880-afba-d886b437597d-1600996856.png",
+    "url_thumb": "https://www.astrobin.com/zu4mm0/0/rawthumb/thumb/",
+    "user": "schmeah",
+    "views": 308,
+    "w": 2689
+}

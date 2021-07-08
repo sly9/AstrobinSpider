@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "73.752",
+    "description": "Optics: Sky Rover 70sa\r\nCamera: QHY695A\r\nFilters: Optolong LRGB Filters\r\nDate:   Jan-May,2019 Feb, 2020\r\nLocation:Urumqi, Xin Jiang, Observatory\r\nExposure Time: LRGB = 70:30:30:30hours\r\ntotal: 160 hours\r\nPrograms used PixInsight 1.86\r\n\r\nLast year, I spent 150 hours on this goal.\r\nThis year, I took another 10 hours to shoot\r\n the L channel,Total 160 hours",
+    "h": 2100,
+    "hash": "jtgovj",
+    "id": 488367,
+    "imaging_cameras": [
+        "QHY CCD qhy695A"
+    ],
+    "imaging_telescopes": [
+        "Sky Rover 70SA"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810394/"
+    ],
+    "orientation": "269.841",
+    "pixscale": "2.682",
+    "published": "2020-05-16T14:30:57.185679",
+    "ra": "158.600",
+    "radius": "1.277",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/488367/",
+    "revisions": [
+        "/api/v1/imagerevision/233261/"
+    ],
+    "subjects": [
+        "Other"
+    ],
+    "title": "The Angel Nebula",
+    "updated": "2021-07-05T19:55:50.117318",
+    "uploaded": "2020-05-16T15:31:03.164943",
+    "url_duckduckgo": "https://www.astrobin.com/jtgovj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jtgovj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jtgovj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jtgovj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jtgovj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jtgovj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jtgovj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30429/2020/afc9b1c5-7057-4284-8aa6-81082e1bb498.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30429/2020/afc9b1c5-7057-4284-8aa6-81082e1bb498-1589643416.jpg",
+    "url_thumb": "https://www.astrobin.com/jtgovj/0/rawthumb/thumb/",
+    "user": "yijia007love-cat",
+    "views": 265,
+    "w": 2712
+}

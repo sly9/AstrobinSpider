@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Here is my animation of AR 2781 from yesterday.  Data was suboptimal and I tossed several files. I had variable seeing and clouds.\r\n\r\nI captured 10s video every 30 s for 40 minutes\r\n\r\nProcessing flow:\r\nStacked in AS3!\r\nAligned in ImPPG\r\nTransfered to PI (batched processed with process container and image container)\r\n-Dynamic Crop (large crop)\r\n-ABE (subtract, normalize)\r\nImPPG for deconvolution and sharpening (batch processing). This could be performed in PI.  I had to realign in ImPPG since I wasnt happy with initial results.\r\nBack to PI \r\n-RGB convert (color\r\n-Color\r\n-Histogram adjustment\r\n-PIPP to make .gif (20fps)\r\n\r\nSolar equipment is pretty pricey so I decided to try and upload my data for people to  try it.  I am including a link to my master stacked calibrated frames (see link above).  If you publish please mention where you got the data.  As you will notice I had a pretty big crop for the animation.\r\n\r\nIf you have PI and want to download ImPPG (outstanding software for solar), here is a tutorial by Chuck. (This is a great tutorial).  Obviously it focuses on prom but you can use the same principles. I find ImPPG is a little easier to fine tune deconvolution and sharpening.\r\n\r\nChuck Astrophotography tutorial\r\nhttps://youtu.be/VXijbjkclMc\r\n\r\nWarren's excellent tutorial\r\nhttps://www.youtube.com/watch?v=AI2PGDVrxk0&feature=youtu.be\r\n\r\nHere is an excellent tutorial on ImPPG\r\nhttps://www.youtube.com/watch?v=0LpiVFcabbo",
+    "h": 750,
+    "hash": "cjfvk6",
+    "id": 538607,
+    "imaging_cameras": [
+        "Basler acA1920-155um"
+    ],
+    "imaging_telescopes": [
+        "Lunt Solar Systems Lunt 100 DS"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "https://www.dropbox.com/t/2NaKRxAvgCEspGVX",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-08T17:29:22.978546",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/538607/",
+    "revisions": [
+        "/api/v1/imagerevision/258675/"
+    ],
+    "subjects": [],
+    "title": "AR 2781 animation in Ha with data",
+    "updated": "2021-03-16T18:39:37.727873",
+    "uploaded": "2020-11-08T16:44:41.294770",
+    "url_duckduckgo": "https://www.astrobin.com/cjfvk6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cjfvk6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cjfvk6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cjfvk6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cjfvk6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cjfvk6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cjfvk6/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/cjfvk6/0/rawthumb/thumb/",
+    "user": "torsinadoc",
+    "views": 161,
+    "w": 672
+}

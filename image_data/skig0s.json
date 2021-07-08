@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "13.008",
+    "description": "Messier 66, part of the Leo Triplet.\r\nImaged April 2020, Star Stalker Observatory, Idaho\r\nScope: CPC800XLT @ f/6.3\r\nCamera: Atik 314L+\r\nFilters: Astrodon LRGB\r\nSub exposure details: Lum: 60 x 300s each, RGB: 30x300s each\r\nTotal Exposure time: 7.5 hrs",
+    "h": 1622,
+    "hash": "skig0s",
+    "id": 601365,
+    "imaging_cameras": [
+        "Atik Cameras 314L+"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC800XLT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "https://www.eprisephoto.com/galaxy/ee7aa1799",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2816709/"
+    ],
+    "orientation": "345.552",
+    "pixscale": "0.481",
+    "published": "2021-07-02T23:50:50.711223",
+    "ra": "170.060",
+    "radius": "0.181",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601365/",
+    "revisions": [],
+    "subjects": [
+        "Leo Triplet",
+        "M 66",
+        "M66",
+        "NGC 3627"
+    ],
+    "title": "M66",
+    "updated": "2021-07-06T16:25:39.621005",
+    "uploaded": "2021-07-02T21:18:21.846470",
+    "url_duckduckgo": "https://www.astrobin.com/skig0s/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/skig0s/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/skig0s/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/skig0s/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/skig0s/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/skig0s/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/skig0s/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/60646/2021/04453e25-1f23-4029-8b21-5c1a3375d0ec.tif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/60646/2021/04453e25-1f23-4029-8b21-5c1a3375d0ec-1625269814.tif",
+    "url_thumb": "https://www.astrobin.com/skig0s/0/rawthumb/thumb/",
+    "user": "antimorris",
+    "views": 76,
+    "w": 2172
+}

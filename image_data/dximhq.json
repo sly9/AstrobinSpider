@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 26,
+    "data_source": "TRAVELLER",
+    "dec": "34.419",
+    "description": "Deer Lick Group (NGC 7331 and Co.) imaged with the 250mm f4.0 Lacerta PhotoNewton and ZWO ASI183MM Pro camera. This image took two years to finish: the luminance data was acquired  in September-October 2019, while RGB and H-alpha taken over several nights in September 2020. This season was especially bad for imaging with unstable weather and lots of smoke from forest fires. At some point I was not sure if I will be able to finish it this year, but it still worked out somehow ...\r\n\r\nThe luminance data was taken in a series of 10s, 240s and 300s exposures. and was used to produce this B&W image from last year: https://www.astrobin.com/l9dtdl \r\nThe individual RGB exposures were 300 s long at camera gain 53, and H-alpha data was collected in a series of 600 s exposures at gain 110. The H-alpha data was blended with R band data to highlight star-forming regions in the spiral arms of NGC 7331.\r\n\r\nExposure details:\r\nL: 51x300s (Gain 0, bin 1x1)\r\nL: 7x240s (Gain 0, bin 1x1)\r\nL: 180x10s (Gain 200, bin 1x1)\r\nR: 40x300s (Gain 53, bin 1x1)\r\nG: 44x300s (Gain 53, bin 1x1)\r\nB: 26x300s (Gain 53, bin 1x1)\r\nHa: 12x600s (Gain 110, bin 1x1)\r\nTotal exposure: 16.4 hours",
+    "h": 2290,
+    "hash": "dximhq",
+    "id": 540343,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 221,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "234.425",
+    "pixscale": "0.495",
+    "published": "2020-11-13T01:50:49.849139",
+    "ra": "339.273",
+    "radius": "0.223",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/540343/",
+    "revisions": [
+        "/api/v1/imagerevision/264857/"
+    ],
+    "subjects": [
+        "NGC 7327",
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7336",
+        "NGC 7337",
+        "NGC 7340",
+        "NGC7331",
+        "NGC7333",
+        "NGC7335",
+        "NGC7336",
+        "NGC7337",
+        "NGC7338",
+        "NGC7340"
+    ],
+    "title": "NGC 7331 and Co. in LHaRGB",
+    "updated": "2021-06-04T17:14:51.816481",
+    "uploaded": "2020-11-13T00:59:42.724147",
+    "url_duckduckgo": "https://www.astrobin.com/dximhq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dximhq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dximhq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dximhq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dximhq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dximhq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dximhq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/cd0c5be8-51e0-420b-a003-5d229d0770b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/cd0c5be8-51e0-420b-a003-5d229d0770b6-1605232170.jpg",
+    "url_thumb": "https://www.astrobin.com/dximhq/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 600,
+    "w": 2290
+}

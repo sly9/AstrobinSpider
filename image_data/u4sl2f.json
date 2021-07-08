@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "57.586",
+    "description": "My first mosaic project. And the planning, shooting, and post-processing gave me a ton of learnings. \n\n* Planning: I found Telescopius (https://telescopius.com/telescope-simulator) is a good and easy tool for planning. Very intuitive UI. What I especially like it is it shows the actual image of celestial bodies even when they are dark. This helps a lot in inspiring me to find interesting targets.\n* Shooting: I used ASIAir's Plan feature. Just punch in the RAs/DECs of the targets on the phone, it will work like NINA or SGP and give you sequences. Not too hard.\n* Post-processing. First about the Mosaic processing. Here is the workflow I finally settled in:\n    1. First do regular integration for each panel. So we get S, H, O channels for 4 panels, 12 images in total. I do this in PixInsight but it can be done with other software as well.\n    2. Do regular house keeping on the images. Mainly DynamicCrop to remove the black borders and DBE to remove gradients.\n    3. Use Astro Pixel Processor or PixInsight to stitch the panels. I found Astro Pixel Processor (APP) is the easiest way of doing mosaic so far. Just throw in the 12 images and it will emit three final images, one per channel. Sometimes it also has artifacts. In this case I have to use the MosaicByCoordinates - GradientMosaicMerge workflow in PixInsight. For this image, it’s done in APP.\n    4. Now we have a huge image for each channel. Do regular processing in PixInsight.\n* Then about the SHO processing. For this specific image, I found three things are important: combine the SHO channel linearly, use masks to adjust hues locally, and do dedicated color balance in PS. If you happen to speak Chinese, I have a video showing my workflow here: https://www.bilibili.com/video/BV1Uv411V7uA. I may get an English version if there are enough interests. (Actually it's just screen recording, so I guess it's still easy to understand without subtitles)\n\nOverall, this is quite a project, but the result is rewarding as well. Hope it's useful for the community.",
+    "h": 5000,
+    "hash": "u4sl2f",
+    "id": 594972,
+    "imaging_cameras": [
+        "ZWO ASI 6200 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi E-160ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "250.955",
+    "pixscale": "2.906",
+    "published": "2021-06-06T01:36:16.487070",
+    "ra": "325.049",
+    "radius": "2.854",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594972/",
+    "revisions": [
+        "/api/v1/imagerevision/290034/"
+    ],
+    "subjects": [
+        "IC 1396",
+        "IC 417",
+        "NGC 1893",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 Elephant's Trunk Nebula",
+    "updated": "2021-07-06T12:47:59.226855",
+    "uploaded": "2021-06-06T01:21:26.404917",
+    "url_duckduckgo": "https://www.astrobin.com/u4sl2f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/u4sl2f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/u4sl2f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/u4sl2f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/u4sl2f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/u4sl2f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/u4sl2f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28702/2021/893c076c-aef4-4c95-9973-7575e0a8371b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28702/2021/893c076c-aef4-4c95-9973-7575e0a8371b-1622943667.jpg",
+    "url_thumb": "https://www.astrobin.com/u4sl2f/0/rawthumb/thumb/",
+    "user": "grapeot",
+    "views": 177,
+    "w": 5000
+}

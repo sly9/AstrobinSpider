@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 46,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.309",
+    "description": "This image has been a \"labour of love\" for both Steve and I and involved patience and also severe PixInsight bludgeoning to process the OIII to reveal the signal above the noise.  It's the second time I have attempted this wonderful pairing and while there is certainly improvement, I would still like to capture more of the delicate detail in the Squid.  Need a light-bucket;-)  StarNet helps undoubtedly but care is needed to keep some degree of relative brightness between the two nebula.\r\n\r\nSteve and I decided at the outset to create a four panel mosaic to properly give context for the Flying Bat to 'breathe' within the frame.  Our own previous independent attempts didn't have this luxury.  This meant of course many hours devoted to the target however, other than when the moon exceeded 70%, we were able to image across the monthly phases having both NB and RGB data - good job too.\r\n\r\nWhen processing images I use the PixInsight project function.  This file size crept up to 27Gb at the latter stages of processing.  The overall folder size for the lights, calibration, alignment, integration of masters, mosaic assembly and project file totals 72Gb.  This may be small in comparison to the folder sizes for CMOS imagers with many short exposure files.  For a CCD imager it is a large size.  My Mac coped admirably though as long as I was patient when opening the project file ;-)\r\n\r\nWe opted for 1800s OIII exposures to maximise on SNR per sub.  We managed 21 subs per panel - 42 would have been better - the Squid is that faint!\r\n\r\nFrom APOD: \"Very faint but also very large on planet Earth's sky, a giant Squid Nebula cataloged as Ou4, and Sh2-129 also known as the Flying Bat Nebula, are both caught in this scene toward the royal constellation Cepheus. Composed with a total of 20 hours of broadband and narrowband data, the telescopic field of view is almost 4 degrees or 8 Full Moons across. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's alluring bipolar shape is distinguished here by the telltale blue-green emission from doubly ionized oxygen atoms. Though apparently completely surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, a recent investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, Ou4 would represent a spectacular outflow driven by HR8119, a triple system of hot, massive stars seen near the center of the nebula. If so, the truly giant Squid Nebula would physically be nearly 50 light-years across.\"\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 4455,
+    "hash": "g1p81v",
+    "id": 543422,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 363,
+    "link": "https://barrywilson.smugmug.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "271.537",
+    "pixscale": "2.090",
+    "published": "2020-11-21T17:55:47.030428",
+    "ra": "317.288",
+    "radius": "2.163",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/543422/",
+    "revisions": [],
+    "subjects": [
+        "B152",
+        "Sh2-129",
+        "VdB140"
+    ],
+    "title": "The Flying Bat Sh2-129 & Squid OU4 Nebulas",
+    "updated": "2021-06-06T09:33:04.604340",
+    "uploaded": "2020-11-21T17:35:16.205928",
+    "url_duckduckgo": "https://www.astrobin.com/g1p81v/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/g1p81v/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/g1p81v/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/g1p81v/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/g1p81v/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/g1p81v/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/g1p81v/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2020/2ffbd8a3-57ea-4a84-8388-c2d1e600b75c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5519/2020/2ffbd8a3-57ea-4a84-8388-c2d1e600b75c-1605981426.jpg",
+    "url_thumb": "https://www.astrobin.com/g1p81v/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 734,
+    "w": 5975
+}

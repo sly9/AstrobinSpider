@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "60.357",
+    "description": "Soul Nebula (IC 1848) in Cassiopeia, 7500 LY away...\r\n\r\nThis image was intended to be in SHO version, but my SII filter seems to have a problem because the signal obtained was very weak... so it is an HOO version only for the moment ! :)\r\n \r\nI still used the SII layer to try to recover the color of the stars with the PCC process on Pixinsight.",
+    "h": 3564,
+    "hash": "ajols4",
+    "id": 546272,
+    "imaging_cameras": [
+        "Atik 16200M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804493/"
+    ],
+    "orientation": "358.227",
+    "pixscale": "2.021",
+    "published": "2020-11-30T08:30:12.527088",
+    "ra": "43.788",
+    "radius": "1.607",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546272/",
+    "revisions": [
+        "/api/v1/imagerevision/262624/",
+        "/api/v1/imagerevision/262628/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "\"Soul on fire\" (IC 1848 - HOO)",
+    "updated": "2021-04-22T12:44:44.350549",
+    "uploaded": "2020-11-30T07:59:18.002607",
+    "url_duckduckgo": "https://www.astrobin.com/ajols4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ajols4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ajols4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ajols4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ajols4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ajols4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ajols4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2200/2020/8f6bfec0-9266-4df0-b267-884718f4ac9f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2200/2020/8f6bfec0-9266-4df0-b267-884718f4ac9f-1606724537.png",
+    "url_thumb": "https://www.astrobin.com/ajols4/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 445,
+    "w": 4480
+}

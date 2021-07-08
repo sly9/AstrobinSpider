@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 46,
+    "comments": 67,
+    "data_source": "BACKYARD",
+    "dec": "36.249",
+    "description": "The upper portion of the Hertzsprung-Russell diagram is populated by luminous stars. Among them are Wolf-Rayet (WR) stars, very hot stars with effective temperatures of 25,000K to 100,000K. WR stars are also losing mass at rates in excess of 10^(-5) solar masses per year, creating strong and fast stellar wind in the process. Unlike their close relative, the luminous blue variable stars, WR stars are less massive, with progenitor stars that can be as low as 20 solar masses. \r\n\r\nThe first WR stars were discovered in 1867 by C.J.E. Wolf and G. Rayet while working at the Paris Observatory. While conducting a survey of the stars in Cygnus, they observed three stars in close proximity that exhibit unusually strong and very broad emission lines, rather than the absorption lines seen in other stars. One of the three stars originally identified by Wolf and Rayet was WR134 (also known by its variable star identifier as V1769 Cyg).\r\n\r\nWolf-Rayet stars are further classified depending on the composition as measured through the broad emission lines. Three classes of WR stars are recognized today: WN, WC, and WO, depending on the dominant elements displayed in the emission line (nitrogen and helium, carbon and helium, oxygen). In a scheme suggested in 1976 by Peter Conti, WR stars are part of an evolutionary scheme for massive stars that always ends in a supernova. As inner parts of the star core are exposed through mass ejection, the end of this evolution for stars of at least 20 solar masses goes through: WN -> WC -> SN. \r\n\r\nWR134 is a variable Wolf-Rayet star of type WN located roughly 6,000 light years from us. Its surface temperature approaches 63,000K and it is 400,000 times as luminous of the Sun. In the image, WR134 is the bright white star in the center of the oxygen bubble.  WR134 is surrounded by a faint expanding shell of oxygen ionized gas, powered by the intense radiation and stellar wind from the star. WR134 and WR135 are immersed in a large ionized H I shell. S.Gervais and N. St-Louis suggested that this hydrogen shell was mainly blown during the main-sequence progenitor O-star phase.\r\n\r\nReferences: \r\n- B. Carroll, D.A. Ostlie, An Introduction to Modern Astrophysics (2017)\r\n- S.Gervais and N. St-Louis, \"A LARGE H I SHELL SURROUNDING THE WOLF-RAYET STAR HD 191765\", THE ASTRONOMICAL JOURNAL, 118:2394-2408, 1999 \r\n- Wikipedia, WR134 entry",
+    "h": 2556,
+    "hash": "tiy8v8",
+    "id": 545881,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 373,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "180.390",
+    "pixscale": "0.914",
+    "published": "2020-11-29T14:07:55.707055",
+    "ra": "302.500",
+    "radius": "0.531",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/545881/",
+    "revisions": [
+        "/api/v1/imagerevision/263608/"
+    ],
+    "subjects": [],
+    "title": "WR 134 (V1769 Cyg)",
+    "updated": "2021-07-05T19:04:14.173439",
+    "uploaded": "2020-11-29T02:39:35.925094",
+    "url_duckduckgo": "https://www.astrobin.com/tiy8v8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tiy8v8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tiy8v8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tiy8v8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tiy8v8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tiy8v8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tiy8v8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/4c886b40-800d-441c-8a49-4bc9c513fc01.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/4c886b40-800d-441c-8a49-4bc9c513fc01-1606619309.jpg",
+    "url_thumb": "https://www.astrobin.com/tiy8v8/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 1925,
+    "w": 3318
+}

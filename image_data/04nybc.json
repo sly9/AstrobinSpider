@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "5000 mm focal lenght, good seeing conditions.\r\nResolution is about 0.12 arcsec or ~200 m per pixcel.",
+    "h": 1121,
+    "hash": "04nybc",
+    "id": 474608,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "TAL-250K"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804354/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-08T07:24:46.911710",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/474608/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Clavius hi-res",
+    "updated": "2021-03-17T03:25:53.800377",
+    "uploaded": "2020-04-07T16:11:06.084806",
+    "url_duckduckgo": "https://www.astrobin.com/04nybc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/04nybc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/04nybc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/04nybc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/04nybc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/04nybc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/04nybc/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/04nybc/0/rawthumb/thumb/",
+    "user": "Dzmitry_Kananovich",
+    "views": 195,
+    "w": 1909
+}

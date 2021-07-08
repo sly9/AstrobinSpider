@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "75.296",
+    "description": "ngc1530 captured and processed in LRGB. L is a mixture of a real luminance captured with my previous camera asi 174MM-cooled and a synthetic one built from RGB channels.",
+    "h": 2176,
+    "hash": "vupr2p",
+    "id": 504261,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cooled Pro",
+        "zwo ASI 174 MM-C"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8 Celestar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 13,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.807",
+    "pixscale": "0.431",
+    "published": "2020-07-10T18:54:25.079328",
+    "ra": "65.863",
+    "radius": "0.184",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504261/",
+    "revisions": [
+        "/api/v1/imagerevision/255498/"
+    ],
+    "subjects": [
+        "NGC 1530"
+    ],
+    "title": "ngc1530 (LRGB)",
+    "updated": "2021-03-17T00:39:39.371005",
+    "uploaded": "2020-07-10T19:38:21.320669",
+    "url_duckduckgo": "https://www.astrobin.com/vupr2p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vupr2p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vupr2p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vupr2p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vupr2p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vupr2p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vupr2p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32506/2020/acb7e985-60f1-4d90-918f-439a6f8fecf9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32506/2020/acb7e985-60f1-4d90-918f-439a6f8fecf9-1594410873.jpg",
+    "url_thumb": "https://www.astrobin.com/vupr2p/0/rawthumb/thumb/",
+    "user": "philippe_gilberton",
+    "views": 46,
+    "w": 2176
+}

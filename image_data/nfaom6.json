@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "After weeks of storms and rain (see Rev B) clear skies before going to bed last last made me hopeful for a break in the clouds.\r\n\r\nSure enough, when I roused myself at 2:30am the skies were still clear. Seeing looked to be quite good as well during my collimation check.\r\n\r\nUpon skewing to Jupiter, however, the histogram suggested transparency being less than optimal (as did the fact that, despite the good seeing, focus was still hard to judge). The sweat rolling down my arms also hinted at even higher than normal humidity, so there was a risk of cloud formation.\r\n\r\nSure enough this came to pass, but luckily I still managed to sneak in 4 x 120 second decent captures. The top 15% of frames was stacked from each and then de-rotated in WinJUPOS.\r\n\r\nThe final image is little blurred and washed out due to the hazy skies, but nice details are visible none-the-less. This includes several large, pale ovals in the north polar region. The NEB continues to appear extremely turbulent.",
+    "h": 541,
+    "hash": "nfaom6",
+    "id": 485725,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-06T07:07:31.714639",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/485725/",
+    "revisions": [
+        "/api/v1/imagerevision/231906/",
+        "/api/v1/imagerevision/231916/"
+    ],
+    "subjects": [],
+    "title": "Jupiter: 2020-05-05 19:30UT",
+    "updated": "2021-03-17T02:24:15.055380",
+    "uploaded": "2020-05-06T07:12:21.166688",
+    "url_duckduckgo": "https://www.astrobin.com/nfaom6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nfaom6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nfaom6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nfaom6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nfaom6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nfaom6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nfaom6/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/nfaom6/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 370,
+    "w": 649
+}

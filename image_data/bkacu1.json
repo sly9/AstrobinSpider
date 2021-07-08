@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "-7.080",
+    "description": "This one turned out to be a tough one to process.  I had some stray light from Rigel to deal with.  Also the image had to be aggressively stretched because of the low integration time.  Adam Block's Starnet blending with star halo fix technique was a real life saver here.  I did a 2 x Drizzle for debayer and then down sampled to reduce noise.",
+    "h": 4059,
+    "hash": "bkacu1",
+    "id": 559072,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX IV"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812452/"
+    ],
+    "orientation": "181.979",
+    "pixscale": "1.799",
+    "published": "2021-01-18T04:47:47.603092",
+    "ra": "76.409",
+    "radius": "1.220",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559072/",
+    "revisions": [
+        "/api/v1/imagerevision/269374/",
+        "/api/v1/imagerevision/269391/",
+        "/api/v1/imagerevision/269886/"
+    ],
+    "subjects": [
+        "NGC 1909",
+        "the Witch Head Nebula"
+    ],
+    "title": "IC 2118 - Witch Head Nebula",
+    "updated": "2021-04-16T07:23:24.460574",
+    "uploaded": "2021-01-17T22:59:58.731417",
+    "url_duckduckgo": "https://www.astrobin.com/bkacu1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bkacu1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bkacu1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bkacu1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bkacu1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bkacu1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bkacu1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13215/2021/4914f417-2790-4ebf-b9ff-837110028e77.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13215/2021/4914f417-2790-4ebf-b9ff-837110028e77-1610925269.jpg",
+    "url_thumb": "https://www.astrobin.com/bkacu1/0/rawthumb/thumb/",
+    "user": "jeff2011",
+    "views": 239,
+    "w": 2718
+}

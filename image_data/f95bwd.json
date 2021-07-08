@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 43,
+    "data_source": "BACKYARD",
+    "dec": "30.781",
+    "description": "Finally the sky was clear again and I could collect some photons.\r\nThis is a L + RGB(osc) image.\r\nLum / ASI174mm / 90 minutes no filter\r\nColour / Moravian G3-11000c / 90 minutes no filter",
+    "h": 1306,
+    "hash": "f95bwd",
+    "id": 557496,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 265,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.376",
+    "pixscale": "0.897",
+    "published": "2021-01-12T16:10:12.459993",
+    "ra": "62.334",
+    "radius": "0.277",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557496/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1514"
+    ],
+    "title": "NGC 1514 - Crystal Ball Nebula",
+    "updated": "2021-04-08T13:33:05.248457",
+    "uploaded": "2021-01-12T15:56:13.016380",
+    "url_duckduckgo": "https://www.astrobin.com/f95bwd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f95bwd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f95bwd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f95bwd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f95bwd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f95bwd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f95bwd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2021/9e0a2dd1-e5a7-4b4c-8ee5-d6e5bdf86413.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2021/9e0a2dd1-e5a7-4b4c-8ee5-d6e5bdf86413-1610467260.png",
+    "url_thumb": "https://www.astrobin.com/f95bwd/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 387,
+    "w": 1800
+}

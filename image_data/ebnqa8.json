@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-11.628",
+    "description": "M104\r\n\r\nLRGB 3,3,3,3.5 hours.",
+    "h": 2517,
+    "hash": "ebnqa8",
+    "id": 494594,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Officina Stellare RiDK 400"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808682/"
+    ],
+    "orientation": "2.970",
+    "pixscale": "0.664",
+    "published": "2020-06-04T08:08:50.239520",
+    "ra": "189.990",
+    "radius": "0.324",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/494594/",
+    "revisions": [
+        "/api/v1/imagerevision/236302/",
+        "/api/v1/imagerevision/237125/"
+    ],
+    "subjects": [
+        "M 104",
+        "NGC 4594",
+        "Sombrero Galaxy"
+    ],
+    "title": "M104",
+    "updated": "2021-04-05T22:08:25.183699",
+    "uploaded": "2020-06-04T09:08:50.506024",
+    "url_duckduckgo": "https://www.astrobin.com/ebnqa8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ebnqa8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ebnqa8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ebnqa8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ebnqa8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ebnqa8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ebnqa8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2884/2020/e6d19bbb-300e-4e27-aec0-cf5c05803a4a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2884/2020/e6d19bbb-300e-4e27-aec0-cf5c05803a4a-1591262064.jpg",
+    "url_thumb": "https://www.astrobin.com/ebnqa8/0/rawthumb/thumb/",
+    "user": "darkmatter3",
+    "views": 139,
+    "w": 2449
+}

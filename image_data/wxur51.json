@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-23.838",
+    "description": "An LRGB image of IC4685. A few different exposure lengths to experiment with stars. A little cropped to deal with some errant corners. Processed in PixInsight.",
+    "h": 3090,
+    "hash": "wxur51",
+    "id": 514371,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Quattro 200 CF (Carbon Fiber)"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807504/"
+    ],
+    "orientation": "94.288",
+    "pixscale": "0.978",
+    "published": "2020-08-13T08:36:00.464222",
+    "ra": "272.446",
+    "radius": "0.669",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514371/",
+    "revisions": [
+        "/api/v1/imagerevision/245755/",
+        "/api/v1/imagerevision/246339/"
+    ],
+    "subjects": [
+        "B302",
+        "B303",
+        "B91",
+        "IC 1274",
+        "IC 4684",
+        "IC 4685",
+        "IC1274",
+        "IC1275",
+        "IC4684",
+        "IC4685",
+        "NGC 6559",
+        "NGC6559",
+        "PK006-02.1",
+        "Sh2-29",
+        "Sh2-31",
+        "Sh2-32"
+    ],
+    "title": "Cosmic Calligraphy - IC4685",
+    "updated": "2021-03-31T15:37:13.532515",
+    "uploaded": "2020-08-13T09:36:00.772866",
+    "url_duckduckgo": "https://www.astrobin.com/wxur51/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wxur51/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wxur51/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wxur51/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wxur51/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wxur51/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wxur51/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23794/2020/11208d94-961d-4ac1-89e2-f7d12e139481.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23794/2020/11208d94-961d-4ac1-89e2-f7d12e139481-1597313008.jpeg",
+    "url_thumb": "https://www.astrobin.com/wxur51/0/rawthumb/thumb/",
+    "user": "Brasspoodle",
+    "views": 168,
+    "w": 3841
+}

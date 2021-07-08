@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "56.738",
+    "description": "Re-processed again on my previous https://www.astrobin.com/5uendy/ image.\r\nI applied Topaz DeNoise AI and Sharpen AI to my post-processed and cropped more to focus on the nebula itself.\r\n\r\nResolution ............... 0.783 arcsec/px\r\nRotation ................. -89.474 deg\r\nObservation start time ... 2020-10-04 05:39:12 UTC\r\nObservation end time ..... 2020-10-28 07:51:19 UTC\r\nFocal distance ........... 1008 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 2d 4' 58.3\" x 1d 23' 22.0\"\r\nImage center ............. RA: 0 52 28.803 Dec: +56 34 55.05\r\n\r\nFilters: Astrodon 50mm Unmounted RGB Gen2 E-Series Tru-Balance Filter Sets\r\nAstrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue FWHM 2.09 ~ 3.00(cut-off) Approved 77/91\r\n77*60\" 1 Hour 17 Minutes Bin2x2 10/9, 10/11/2020\r\nGreen FWHM 2.11 ~ 3.00(cut-off) Approved 85/91\r\n85*60\" 1 Hour 25 Minutes Bin2x2 10/9, 10/11/2020\r\nRed FWHM 2.11 ~ 3.00(cut-off) Approved 77/91\r\n77*60\" 1 Hour 17 Minutes Bin2x2 10/9, 10/11/2020\r\nHa FWHM 2.26 ~ 3.00(cut-off) Approved 108/124\r\n108*600 18 Hours Bin2x2 10/11 ~ 10/27/2020\r\nOII FWHM 2.31 ~ 3.00 (cut-off) Approved 87/108\r\n87*600 14 Hours 30 minutes Bin2x2 10/11 ~ 10/27/2020\r\nSII FWHM 2.21 ~ 3.00 (Cut-off) Approved 113/126\r\n114*600 19 Hours Bin2x2 10/11 ~ 10/28/2020",
+    "h": 4329,
+    "hash": "tuld6r",
+    "id": 544530,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 175,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "67.374",
+    "pixscale": "0.784",
+    "published": "2020-11-24T21:34:59.179781",
+    "ra": "13.102",
+    "radius": "0.735",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/544530/",
+    "revisions": [],
+    "subjects": [
+        "IC 1590",
+        "NGC 281"
+    ],
+    "title": "Pacman Nebula (SHO + RGB stars)",
+    "updated": "2021-06-29T16:54:02.904164",
+    "uploaded": "2020-11-24T21:26:27.835039",
+    "url_duckduckgo": "https://www.astrobin.com/tuld6r/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tuld6r/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tuld6r/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tuld6r/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tuld6r/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tuld6r/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tuld6r/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2020/ff7fc692-729d-4b4d-a5f2-466ba57b7ee2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2020/ff7fc692-729d-4b4d-a5f2-466ba57b7ee2-1606253785.jpg",
+    "url_thumb": "https://www.astrobin.com/tuld6r/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 344,
+    "w": 5175
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "Composite image of Uranus and its large moons, including Miranda! :-)\r\n\r\nI used 6 ms exposure for Uranus, 500 ms for the moons. In both cases I used a gain of 425.\r\n\r\nThe final image is composed of three images: I had to crank up a lot the wavelets to get the extremely faint blob of Miranda, and the other moons were totally overblown, so mixed 2 versions of that image.\r\n\r\nActually I was surprised to get Miranda, couldn't see it during the capture. The position of the moons was confirmed on WinJupos (23:31 UTC).\r\n\r\nFrom Gurnigel in the Swiss Alps.",
+    "h": 340,
+    "hash": "x2r7hv",
+    "id": 539118,
+    "imaging_cameras": [
+        "ZWO ASI224MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron Nexstar Evolution 9.25"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-09T17:42:41.374769",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/539118/",
+    "revisions": [
+        "/api/v1/imagerevision/258859/"
+    ],
+    "subjects": [],
+    "title": "Uranus and 5 moons 06.11.2020",
+    "updated": "2021-03-16T18:36:34.869665",
+    "uploaded": "2020-11-09T17:42:41.464967",
+    "url_duckduckgo": "https://www.astrobin.com/x2r7hv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x2r7hv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x2r7hv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x2r7hv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x2r7hv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x2r7hv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x2r7hv/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/x2r7hv/0/rawthumb/thumb/",
+    "user": "SwissCheese",
+    "views": 250,
+    "w": 340
+}

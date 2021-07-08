@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "55.860",
+    "description": "The Lion Nebula Captured December and January in Narrowband using the new QHY600 60 Megapixel Full Frame Monochrome CMOS camera mounted on the Takahashi 130 FSQ that we have the honor of testing for QHYCCD.  \r\nThis setup is available immediately for people wanting to subscribe to Grand Mesa Observatory's system 1.\r\n https://grandmesaobservatory.com/equipment-rentals\r\nIn this Hubble Palette version (SHO) the H-Alpha is mapped to green, SII is mapped to red and OIII is mapped to the blue channel. \r\nCaptured over 5 nights in December 2020 and January 2021 for a total acquisition time of 9.5 hours.\r\nThe Lion Nebula, otherwise known as Sharpless 132 and LBN 471 is an Emission nebula in the constellation of Cepheus named after Cepheus, king of Aethiopia in Greek mythology, lying somewhere between 10 to 12,000 light years from us.\r\n\r\nTechnical Details\r\nCaptured and processed by: Terry Hancock \r\nLocation: GrandMesaObservatory.com Purdy Mesa, Colorado \r\nDates of Capture December 8th, 21st 2020, January 1st, 7th and 19th 2021 \r\nHA 210 min 21 x 600 sec \r\nOIII 180 min 18 x 600  sec \r\nSII 180 min 18 x 600 sec  \r\nNarrowband Filters by Chroma \r\nCamera: QHY600 Monochrome CMOS Photographic version \r\nGain 60, Offset 76 in Read Mode Photographic 16 bit \r\nCalibrated with Dark, Bias and Flat Frames \r\nOptics: Walter Holloway's Takahashi FSQ 130 APO Refractor @ F5 \r\nImage Scale: 1.19 arcsec/pix \r\nFinal image cropped to 7046x4873 pixels\r\nFOV 2d 20' 52.8\" x 1d 37' 25.9\" \r\nEQ Mount: Paramount ME  \r\nImage Acquisition software Maxim DL6, Pre Processing and Starnet in Pixinsight Post Processed in Photoshop CC",
+    "h": 4873,
+    "hash": "53ajy8",
+    "id": 576884,
+    "imaging_cameras": [
+        "QHYCCD QHY600m"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.737",
+    "pixscale": "1.200",
+    "published": "2021-03-25T06:24:24.578150",
+    "ra": "334.655",
+    "radius": "1.428",
+    "remote_source": "GMO",
+    "resource_uri": "/api/v1/image/576884/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7226"
+    ],
+    "title": "\"The Lion King\" Sharpless 132",
+    "updated": "2021-06-10T23:34:29.159430",
+    "uploaded": "2021-03-25T06:21:47.658995",
+    "url_duckduckgo": "https://www.astrobin.com/53ajy8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/53ajy8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/53ajy8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/53ajy8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/53ajy8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/53ajy8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/53ajy8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1741/2021/75b586c3-27bd-4993-a336-31e6b3e6f979.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1741/2021/75b586c3-27bd-4993-a336-31e6b3e6f979-1616653537.jpg",
+    "url_thumb": "https://www.astrobin.com/53ajy8/0/rawthumb/thumb/",
+    "user": "terry.hancock",
+    "views": 212,
+    "w": 7046
+}

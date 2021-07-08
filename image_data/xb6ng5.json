@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "18.983",
+    "description": "NGC 772\r\n\r\nObject : ngc 772\r\nDate : Dec.2019- Feb. 2020\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 , Tak e-180\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure : :  R:300sx12,G:300sx12,B:300sx16,L:300sx22 (~5.17hr)    \r\nGuiding  :Borg 50/ asi174 , \r\nProcessing:  PI、PS-CC",
+    "h": 1842,
+    "hash": "xb6ng5",
+    "id": 482467,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 131,
+    "link": "https://astro-noodle.blogspot.com/2020/04/ngc-772.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "88.471",
+    "pixscale": "0.669",
+    "published": "2020-04-27T04:09:03.041492",
+    "ra": "29.829",
+    "radius": "0.275",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/482467/",
+    "revisions": [],
+    "subjects": [
+        "NGC 770",
+        "NGC 772",
+        "NGC770",
+        "NGC772"
+    ],
+    "title": "ngc 772",
+    "updated": "2021-05-18T00:03:15.398984",
+    "uploaded": "2020-04-27T05:09:03.427656",
+    "url_duckduckgo": "https://www.astrobin.com/xb6ng5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xb6ng5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xb6ng5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xb6ng5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xb6ng5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xb6ng5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xb6ng5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/fabd881d-d4d1-4493-a89d-49932489b6d9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/fabd881d-d4d1-4493-a89d-49932489b6d9-1587964623.png",
+    "url_thumb": "https://www.astrobin.com/xb6ng5/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 537,
+    "w": 2322
+}

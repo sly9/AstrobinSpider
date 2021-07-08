@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "68.068",
+    "description": "The Ghost Nebula is a reflection nebula located in Cepheus and is located near the Iris Nebula. The densest dust in the nebula may indicate areas of star formation and are call Bok globules. \n\nOne of my favorite things about this dusty region is the repeating bat / ghost shapes at different scales all pointing in the same direction.\n\nThis image was take in LRGB with the Luminance taken at bin 2 and RGB taken at bin 4. \n\nSub exposure breakdown:\nL - 53 x 300 sec, gain 120, bin 2\nR - 53 x 400 sec, gain 120, bin 4\nG - 53 x 400 sec, gain 120, bin 4\nB - 50 x 400 sec, gain 120, bin 4\n\nNights imaged 2021:\nJun 8-9\nJun 9-10\nJun 10-11\nJun 11-12\nJun 12-13",
+    "h": 2704,
+    "hash": "2exr7w",
+    "id": 599714,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX 130T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 99,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2806605/"
+    ],
+    "orientation": "270.258",
+    "pixscale": "1.035",
+    "published": "2021-06-24T06:53:47.524298",
+    "ra": "319.013",
+    "radius": "0.681",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/599714/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-136",
+        "VdB141"
+    ],
+    "title": "Ghost Nebula Sh2-136",
+    "updated": "2021-07-02T14:36:48.211093",
+    "uploaded": "2021-06-24T05:31:19.533551",
+    "url_duckduckgo": "https://www.astrobin.com/2exr7w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2exr7w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2exr7w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2exr7w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2exr7w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2exr7w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2exr7w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15584/2021/e6dd906f-7fb0-4704-a594-98df0592eb7a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15584/2021/e6dd906f-7fb0-4704-a594-98df0592eb7a-1624517550.jpg",
+    "url_thumb": "https://www.astrobin.com/2exr7w/0/rawthumb/thumb/",
+    "user": "andrewjbarton",
+    "views": 178,
+    "w": 3888
+}

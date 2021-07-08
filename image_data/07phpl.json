@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.552",
+    "description": "",
+    "h": 2630,
+    "hash": "07phpl",
+    "id": 556776,
+    "imaging_cameras": [
+        "Atik one 9.0 CCD with OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon-130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812786/"
+    ],
+    "orientation": "0.201",
+    "pixscale": "1.779",
+    "published": "2021-01-10T02:41:57.898639",
+    "ra": "344.224",
+    "radius": "1.043",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/556776/",
+    "revisions": [
+        "/api/v1/imagerevision/268222/"
+    ],
+    "subjects": [],
+    "title": "Sh2-155",
+    "updated": "2021-06-12T20:44:52.334858",
+    "uploaded": "2021-01-10T02:38:20.933034",
+    "url_duckduckgo": "https://www.astrobin.com/07phpl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/07phpl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/07phpl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/07phpl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/07phpl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/07phpl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/07phpl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26247/2021/1adf66d6-1595-45c5-ac3b-83508f99ab32.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26247/2021/1adf66d6-1595-45c5-ac3b-83508f99ab32-1610247088.jpg",
+    "url_thumb": "https://www.astrobin.com/07phpl/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 872,
+    "w": 3300
+}

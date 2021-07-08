@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "41.116",
+    "description": "It's finally starting to clear after 2 months of wind and cloudy skies. (-:\r\n\r\nThis capture was completed during two exceptionally steady and dark nights.\r\n\r\nThe first night I captured 27 900s Luminance frames and stacked the 20 best with FWHM between 1.87\" and 2.47\".\r\n\r\nThe second night was even steadier, so I was torn between taking additional luminance rather than RGB. But not knowing how the good weather might hold up, I opted for RGB between FWHM 1.4\" and 2.6\". 900s subs below 1.7\" is VERY steady for this site.\r\n\r\nA processing trick used a synthetic luminance for the core, made from the very steady RGB subs. This provided both greater core detail and a well-exposed central core that was blown out in the pure Luminance subs.\r\n\r\nFinally, 2 hours of Ha were very lightly screened over the LRGB for a subtle highlight of the star-forming regions.\r\n\r\n\r\n\"M94 is 16 million light years distant. M94 has an inner ring with a diameter of 70 arcseconds and an outer ring with a diameter of 600 arcseconds. These rings appear to form at resonance points in the disk of the galaxy. The inner ring is the site of strong star formation activity and is sometimes referred to as a starburst ring. This star formation is fueled by gas driven dynamically into the ring by the inner oval-shaped bar-like structure.\r\n\r\nA 2009 study conducted by an international team of astrophysicists revealed that the outer ring of M94 is not a closed stellar ring, as historically attributed in the literature, but a complex structure of spiral arms when viewed in mid-IR and UV. The study found that the outer disk of this galaxy is active. It contains approximately 23% of the galaxy's total stellar mass and contributes about 10% of the galaxy's new stars. In fact, the star formation rate of the outer disk is approximately two times greater than the inner disk because it is more efficient per unit of stellar mass.\r\n\r\nThere are several possible external events that could have led to the origin of M94's outer disk including the accretion of a satellite galaxy or the gravitational interaction with a nearby star system. However, further research found problems with each of these scenarios. Therefore, the report concludes that the inner disk of M94 is an oval distortion which led to the creation of this galaxy's peripheral disk.\r\n\r\nIn 2008 a study was published showing that M94 had very little or no dark matter present. The study analyzed the rotation curves of the galaxy's stars and the density of hydrogen gas and found that ordinary luminous matter appeared to account for all of the galaxy's mass. This result was unusual and somewhat controversial, as current models do not indicate how a galaxy could form without a dark matter halo or how a galaxy could lose its dark matter. Other explanations for galactic rotation curves, such as MOND, also have difficulty explaining this galaxy.\"",
+    "h": 3711,
+    "hash": "a9jzyw",
+    "id": 581132,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "179.215",
+    "pixscale": "0.468",
+    "published": "2021-04-10T21:31:14.029263",
+    "ra": "192.717",
+    "radius": "0.343",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/581132/",
+    "revisions": [
+        "/api/v1/imagerevision/282501/"
+    ],
+    "subjects": [
+        "M 94",
+        "M94",
+        "NGC 4736"
+    ],
+    "title": "A steady M94 after an unsteady winter",
+    "updated": "2021-05-17T00:35:39.240545",
+    "uploaded": "2021-04-10T21:21:17.541154",
+    "url_duckduckgo": "https://www.astrobin.com/a9jzyw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a9jzyw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a9jzyw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a9jzyw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a9jzyw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a9jzyw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a9jzyw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2021/47154ad0-c8a7-4a13-a896-6bc458822ac0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2021/47154ad0-c8a7-4a13-a896-6bc458822ac0-1618090180.jpg",
+    "url_thumb": "https://www.astrobin.com/a9jzyw/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 335,
+    "w": 3746
+}

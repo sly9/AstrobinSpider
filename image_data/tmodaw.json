@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "47.271",
+    "description": "The Cocoon Nebula\r\n\r\nAgain the L-eNhance proved its worth through suburban skies. Each subframe was incredibly weak and showed virtually no nebulosity at all. Fortunately after stacking and processing, more than sufficient data was present to achieve the desired object. This dual band filter does cut back on the small amount of light collected, so increasing the gain from the ASI071MC's standard of 90 to 125 was found to be of value.",
+    "h": 3104,
+    "hash": "tmodaw",
+    "id": 507328,
+    "imaging_cameras": [
+        "ZWO ASI071MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C9.25 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809911/"
+    ],
+    "orientation": "18.213",
+    "pixscale": "0.597",
+    "published": "2020-07-20T03:24:53.233793",
+    "ra": "328.387",
+    "radius": "0.470",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/507328/",
+    "revisions": [],
+    "subjects": [
+        "B168",
+        "Cocoon Nebula",
+        "Cocoon nebula",
+        "IC 5146",
+        "IC5146",
+        "Sh2-125",
+        "VdB147"
+    ],
+    "title": "The Cocoon Nebula through L-eNhance",
+    "updated": "2021-03-17T00:21:40.933804",
+    "uploaded": "2020-07-20T04:24:53.483804",
+    "url_duckduckgo": "https://www.astrobin.com/tmodaw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tmodaw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tmodaw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tmodaw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tmodaw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tmodaw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tmodaw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29409/2020/faf2ae01-2d8f-41d8-ac40-fd093a9ec3b4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29409/2020/faf2ae01-2d8f-41d8-ac40-fd093a9ec3b4-1595219809.jpg",
+    "url_thumb": "https://www.astrobin.com/tmodaw/0/rawthumb/thumb/",
+    "user": "JohnAdastra",
+    "views": 276,
+    "w": 4744
+}

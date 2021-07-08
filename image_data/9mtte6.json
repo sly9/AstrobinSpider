@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "68.164",
+    "description": "Procedura combinazione ed elaborazione nebulosa Iris\r\n\r\nCon PixInsight:\r\n\r\nFASE LINEARE\r\n- calibrazione e combinazione con superbias e pesatura (differenza quasi inesistente rispetto al semplice uso di DeepSkyStacker)\r\n- neutralizzazione del background con BackgroundNeutralization\r\n- bilanciamento iniziale dei colori con PhotometricColorCorrection\r\n- riduzione del rumore (“denoise”) con MultiscaleLinearTransform (MLT) (con maschere)\r\n- deconvoluzione (con maschere)\r\n- riduzione del rumore post-deconvoluzione MLT solo sul canale B \r\nFASE NON LINEARE\r\n- esaltazione (“stretching”) graduale del contrasto con MaskedStretch (MS)\r\n- stretching con HistogramTransformation (HT) (con maschera)\r\n- lieve saturazione colori con ColorSaturation (con stessa precedente maschera)\r\n- riduzione fondo e lieve esaltazione dei mezzitoni con CurvesTransformation (CRV)\r\n- compressione della dinamica delle parti troppo luminose con HDRMultiscaleTransform (con maschera)\r\n-elaborazione multilayer (stelleelettroniche.it/2013/01/tutorial-pixinsight/m42-ngc1975-elaborazione-multilayer-seconda-parte)\r\n- esaltazione del contrasto sulle parti luminose con CRV (con maschera) \r\n- denoise con MLT (con maschere)\r\n- esaltazione del contrasto e correzione colori sulla sola nebulosa luminosa con CRV (con maschera) \r\n- riduzione aloni stellari stelle piccole tramite con CRV (con maschera)\r\n- HDR (con opzione Median) (con maschera)\r\n- LHE (con stessa maschera precedente)\r\n- esaltazione visibilità della Iris con CRV (stessa maschera)\r\n- riduzione rumore nei mezzitoni della nebulosa Iris con ACDNR (con maschera)\r\n- leggerissime wavelet per esaltazione strutture fini luminose con MLT (modalità Starlet) sulla nebulosa\r\n(- annullata lieve esaltazione delle zone scure con DarkStructureEnhance)\r\n\r\nCon Adobe Photoshop:\r\n- HDR\r\n- denoise con Astronomy Tools\r\n- lieve regolazione colori con curve\r\n- miglioramento stelle luminosissime con selezione e controllo sfocatura",
+    "h": 4788,
+    "hash": "9mtte6",
+    "id": 495930,
+    "imaging_cameras": [
+        "QHYCCD QHY10 Color"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Black Diamond ED80"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807537/",
+        "/api/v1/location/2807732/"
+    ],
+    "orientation": "2.289",
+    "pixscale": "1.192",
+    "published": "2020-06-09T18:27:27.020685",
+    "ra": "317.102",
+    "radius": "1.486",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495930/",
+    "revisions": [
+        "/api/v1/imagerevision/236933/"
+    ],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023"
+    ],
+    "title": "Nebulosa Iris",
+    "updated": "2021-03-17T01:27:52.703660",
+    "uploaded": "2020-06-09T19:27:27.392578",
+    "url_duckduckgo": "https://www.astrobin.com/9mtte6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9mtte6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9mtte6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9mtte6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9mtte6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9mtte6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9mtte6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23876/2020/4a818f3f-f5c5-4610-944a-b5d65ea1b1f5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23876/2020/4a818f3f-f5c5-4610-944a-b5d65ea1b1f5-1591731486.jpg",
+    "url_thumb": "https://www.astrobin.com/9mtte6/0/rawthumb/thumb/",
+    "user": "giumar69",
+    "views": 106,
+    "w": 7588
+}

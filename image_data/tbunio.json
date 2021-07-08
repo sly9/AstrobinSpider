@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "9.917",
+    "description": "Cone Nebula\r\n4 X 350 sec for R, 4 X 300 sec for G and B respectively.\r\n10 x 1200 sec for H-alpha.\r\nR-Ha/G/B composite.",
+    "h": 1810,
+    "hash": "tbunio",
+    "id": 549590,
+    "imaging_cameras": [
+        "QSI583wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CN-212 Newton -- ASA corrector"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815033/"
+    ],
+    "orientation": "90.419",
+    "pixscale": "2.450",
+    "published": "2020-12-13T20:58:44.605985",
+    "ra": "100.199",
+    "radius": "1.023",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/549590/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree Cluster",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "Cone nebula",
+    "updated": "2020-12-26T21:34:17.741198",
+    "uploaded": "2020-12-13T20:55:15.334048",
+    "url_duckduckgo": "https://www.astrobin.com/tbunio/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tbunio/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tbunio/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tbunio/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tbunio/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tbunio/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tbunio/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/92746/2020/579e0e29-a4ee-451d-822b-7d104cca3d5c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/92746/2020/579e0e29-a4ee-451d-822b-7d104cca3d5c-1607893419.jpg",
+    "url_thumb": "https://www.astrobin.com/tbunio/0/rawthumb/thumb/",
+    "user": "Cyberpeter",
+    "views": 174,
+    "w": 2400
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "25.585",
+    "description": "",
+    "h": 2451,
+    "hash": "d0e602",
+    "id": 479891,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "359.112",
+    "pixscale": "0.938",
+    "published": "2020-04-21T16:23:23.698645",
+    "ra": "192.740",
+    "radius": "0.534",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/479891/",
+    "revisions": [
+        "/api/v1/imagerevision/227904/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725",
+        "NGC 4747"
+    ],
+    "title": "NGC 4725",
+    "updated": "2021-04-24T14:13:54.522380",
+    "uploaded": "2020-04-21T17:23:23.955476",
+    "url_duckduckgo": "https://www.astrobin.com/d0e602/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/d0e602/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/d0e602/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/d0e602/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/d0e602/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/d0e602/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/d0e602/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2020/3f4c4755-795e-4884-926f-435287d9be05.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8751/2020/3f4c4755-795e-4884-926f-435287d9be05-1587490078.jpg",
+    "url_thumb": "https://www.astrobin.com/d0e602/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 243,
+    "w": 3288
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "-22.868",
+    "description": "Sh2-313 (Abell 35) is a peculiar planetary nebula (?) due to the very unique bow shock wave near its core suggesting the nebula is plowing through the interstellar medium. It has a low surface brightness requiring long exposures in Ha and OIII to reveal more details. The bow shock only visible in OIII.\r\nLocated in Hydra, it has a diameter of around 11 arc minutes at a distance close to 1200 light years having then an aproximate size of 5 light years.\r\nAll data was captured from a Bortle 7 zone and consist of 40 hours in Ha and 21 hours in OIII, but I consider that, for my location, more capture total time is required both, on Ha and on OIII and could be a good idea to also to check what can one get with the SII filter.\r\nEquipment: 4\" SVq100 refractor, f/5.8 and camera QSI 660 mono camera with a 5 nm Ha Astrodon filter and a 3 nm OIII Astrodon filter. Did not get SII data.\r\nProcesed in Pixinsight and captured with SGP, all from my backyard at Lat -33, Long -70, Santiago, Chile.",
+    "h": 849,
+    "hash": "7ud3nn",
+    "id": 594362,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803188/"
+    ],
+    "orientation": "0.397",
+    "pixscale": "2.905",
+    "published": "2021-06-03T21:22:32.245301",
+    "ra": "193.396",
+    "radius": "0.537",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594362/",
+    "revisions": [
+        "/api/v1/imagerevision/289739/"
+    ],
+    "subjects": [],
+    "title": "Sh2-313 / Abell 35",
+    "updated": "2021-07-01T19:52:14.427823",
+    "uploaded": "2021-06-03T20:37:43.858201",
+    "url_duckduckgo": "https://www.astrobin.com/7ud3nn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7ud3nn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7ud3nn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7ud3nn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7ud3nn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7ud3nn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7ud3nn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8757/2021/7156f00b-3938-4677-8e66-c58edab9ff93.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8757/2021/7156f00b-3938-4677-8e66-c58edab9ff93-1622755323.jpg",
+    "url_thumb": "https://www.astrobin.com/7ud3nn/0/rawthumb/thumb/",
+    "user": "renan",
+    "views": 231,
+    "w": 1024
+}

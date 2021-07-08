@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "22.517",
+    "description": "IC 443 is an extended source, having an angular diameter of 50 arcmin (by comparison, the full moon is 30 arcmin across). At the estimated distance of 5,000 ly (1,500 parsec) from Earth, it corresponds to a physical size of roughly 70 light years (20 parsec).\r\n\r\nThe SNR optical and radio morphology is shell-like (e.g. a prototypical shell-like SNR is SN 1006), consisting of two connected sub-shells with different centers and radii. A third, larger sub-shell—initially attributed to IC 443—is now recognized as a different and older (100,000 years) SNR, called G189.6+3.3.[1]\r\nNotably, IC 443 X-ray morphology is centrally peaked and a very soft X-ray shell is barely visible.[2] Unlike plerion remnants, e.g. the Crab Nebula, the inner X-ray emission is not dominated by the central pulsar wind nebula. It has indeed a thermal origin.[3] IC 443 shows very similar features to the class of mixed morphology[4] SNRs. Both optical and X-ray emission are heavily absorbed by a giant molecular cloud in the foreground, crossing the whole remnant body from northwest to southeast.\r\n\r\nThe remnant's age is still uncertain. There is some agreement that the progenitor supernova happened between 3,000[3] and 30,000[5] years ago. Recent Chandra[6] and XMM-Newton[7] observations identified a plerion nebula, close to the remnant southern rim. The point source near the apex of the nebula is a neutron star, relic of a SN explosion. The location in a star forming region and the presence of a neutron star favor a Type II supernova, the ultimate fate of a massive star, as the progenitor explosion.",
+    "h": 2655,
+    "hash": "44r1h5",
+    "id": 563688,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro (cooled) ASI 294MC"
+    ],
+    "imaging_telescopes": [
+        "Homemade newtonian 8\" F4 Newton F4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814989/"
+    ],
+    "orientation": "333.399",
+    "pixscale": "1.197",
+    "published": "2021-02-06T11:52:41.033152",
+    "ra": "94.194",
+    "radius": "0.799",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/563688/",
+    "revisions": [],
+    "subjects": [
+        "Gem A",
+        "IC 443",
+        "The star Propus (ηGem)"
+    ],
+    "title": "Medusa nebula IC443",
+    "updated": "2021-04-19T20:33:41.383737",
+    "uploaded": "2021-02-06T11:40:27.972955",
+    "url_duckduckgo": "https://www.astrobin.com/44r1h5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/44r1h5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/44r1h5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/44r1h5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/44r1h5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/44r1h5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/44r1h5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27646/2021/5416e841-2a00-4340-b006-9c8374184837.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27646/2021/5416e841-2a00-4340-b006-9c8374184837-1612632545.jpg",
+    "url_thumb": "https://www.astrobin.com/44r1h5/0/rawthumb/thumb/",
+    "user": "Alessandro_ATP",
+    "views": 141,
+    "w": 4005
+}

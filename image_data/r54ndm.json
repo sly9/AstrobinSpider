@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "ISS 03.05.2021 03:00:30, height ~70 deg, brightness -3.8, distance at the climax 450 km, siing 3/5, transparency 4/5. (1-bad, 5-excellent), wind 1-2ms, high humidity. Taganrog city center.\r\n\r\nMonty EQ8 evilmode v2, self-made brains for high-precision tracking of fast objects, self-written software for tracking with the help of zwo cameras, tracking in the optical channel of the guide telescope 60/240 + asi120mm, TLE of the satellite is not used.\r\n\r\nCelestron C14 XLT Telescope + GSO 2” focuser (direct focus, focal length ~4 meters) + asi290mm + zwo EFW mini + Baader LRGB (R). 220fps 600x400, mono12, gain ~240, shutter speed 0.7 ms.\r\nSet of the best frames of the span (3 frames, slicing 280 frames, adding 20% of frames and wavelets), size 150%)",
+    "h": 840,
+    "hash": "r54ndm",
+    "id": 595414,
+    "imaging_cameras": [
+        "ZWO ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 163,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807777/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-06-07T19:05:51.401502",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595414/",
+    "revisions": [],
+    "subjects": [],
+    "title": "ISS best frames 03.05.2021",
+    "updated": "2021-06-28T15:21:59.368613",
+    "uploaded": "2021-06-07T19:01:34.161149",
+    "url_duckduckgo": "https://www.astrobin.com/r54ndm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r54ndm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r54ndm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r54ndm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r54ndm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r54ndm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r54ndm/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/r54ndm/0/rawthumb/thumb/",
+    "user": "MaxWarrior",
+    "views": 686,
+    "w": 2214
+}

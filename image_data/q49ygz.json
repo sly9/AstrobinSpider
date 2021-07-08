@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Jupiter and the GRS 2-Jun-19\r\n\r\nUsing the C14 and Astrophysics Advanced Barlow  at 2.1x\r\n\r\nThe ZWO ASI290mm\r\n\r\nFocalLength= 8600mm\r\n\r\nResolution=0.0698\r\n\r\nRGB captured separately \r\n\r\nFirecapture to Capture\r\nAS3 to Stack\r\nRegistax and Astraimage to sharpen\r\nGimp Touchps\r\n\r\nEach capture:\r\nFireCapture v2.6  Settings\r\n------------------------------------\r\nCamera=ZWO ASI290MM\r\nProfile=Jup 144\r\nDiameter=45.82\"\r\nMagnitude=-2.60\r\nCMI=115.0° CMII=337.0° CMIII=305.2°  (during mid of capture)\r\n\r\nDate=020619\r\nMid=194620.977\r\nMid(UT)=194620.977\r\nDuration=60.008s\r\n\r\nFrames captured=6521  (per clip)\r\nFile type=SER\r\nROI=504x500\r\nROI(Offset)=702x248\r\nFPS (avg.)=108\r\nShutter=9.200ms\r\nGain=301 (50%)\r\n\r\nHistogramm=86%\r\n\r\nLimit=60 Seconds\r\nSensor temperature=39.0°C\r\nFocuser position=18475",
+    "h": 1023,
+    "hash": "q49ygz",
+    "id": 599031,
+    "imaging_cameras": [
+        "ZWO ASI290M"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 c14"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 171,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-06-25T16:40:44.689139",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599031/",
+    "revisions": [
+        "/api/v1/imagerevision/292593/"
+    ],
+    "subjects": [],
+    "title": "Jupiter and the GRS 2-Jun-19",
+    "updated": "2021-07-06T23:38:59.671116",
+    "uploaded": "2021-06-20T23:21:13.204831",
+    "url_duckduckgo": "https://www.astrobin.com/q49ygz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/q49ygz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/q49ygz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/q49ygz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/q49ygz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/q49ygz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/q49ygz/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/q49ygz/0/rawthumb/thumb/",
+    "user": "Rouzbeh",
+    "views": 668,
+    "w": 1023
+}

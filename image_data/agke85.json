@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "2018hna, Type II in UGC 7534\r\nDiscovered 2018/10/22.815 by Koichi Itagaki, mag 16.3 at discovery\r\nR.A. = 12h26m12s.050, Decl. = +58°18'51&quot;.10 \r\n\r\nObserver: Cedric Raguenaud, SW France, GSNST\r\n2019-02-23.997\r\nApprox mag 16.07V ±0.01, ZP=27.901mag\r\n0.25m/f4 reflector + CCMOS, 0.5&quot;/pixel\r\n30x60s, bin 1x1",
+    "h": 1906,
+    "hash": "agke85",
+    "id": 496600,
+    "imaging_cameras": [
+        "QHYCCD 183C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 250/1000 CF Imaging Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 13,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813561/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-22T11:07:30.647946",
+    "ra": null,
+    "radius": null,
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/496600/",
+    "revisions": [],
+    "subjects": [],
+    "title": "2018hna",
+    "updated": "2021-03-17T01:23:01.154184",
+    "uploaded": "2020-06-11T12:53:42.742751",
+    "url_duckduckgo": "https://www.astrobin.com/agke85/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/agke85/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/agke85/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/agke85/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/agke85/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/agke85/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/agke85/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/agke85/0/rawthumb/thumb/",
+    "user": "cedric_r",
+    "views": 87,
+    "w": 5600
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "-23.729",
+    "description": "North is up in this image.  The large red emission nebula is part of LBN 1059 which is a part of the larger yet Sharpless 310. This field covers less than half of the LBN 1059 structure. LBN 1059 is ionized by two stars - 29 CMa and 30 CMa - both of which are off of this field to the lower right. The Sharpless 310 emission structure is one of the largest single HII regions in the Milky Way. The blue reflection nebula is van den Bergh 96 - also cataloged as LBN  1058 and CED 96 (parts a, b, c ). The small dark smudge in vdB 96 is a grouping of Herbig-Haro objects (all parts of HH 92).  There are several dark nebulae in this field - the most visually apparent is LBN 1660 just above vdB 96. This field also contains three open star clusters - Trumpler 6,  Ruprecht 17 and Milky Way Star Cluster  (MWSC) 1215.  These objects  and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/vdB96_FSQ_PS4-IP2_Crp_annotated.jpg\">annotated image</a>.  Horizontal FOV is approximately 120 arc minutes.",
+    "h": 1950,
+    "hash": "s5ikve",
+    "id": 496157,
+    "imaging_cameras": [
+        "ATIK383L+"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "http://www.jthommes.com/Astro/vdB96-LBN1059.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.375",
+    "pixscale": "2.681",
+    "published": "2020-06-10T21:36:37.495287",
+    "ra": "110.598",
+    "radius": "1.210",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/496157/",
+    "revisions": [],
+    "subjects": [],
+    "title": "vdB 96 and LBN 1059",
+    "updated": "2021-03-30T17:15:37.038098",
+    "uploaded": "2020-06-10T22:36:37.869972",
+    "url_duckduckgo": "https://www.astrobin.com/s5ikve/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s5ikve/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s5ikve/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s5ikve/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s5ikve/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s5ikve/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s5ikve/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/0471ccdd-c0a7-43b4-b912-fd0b0a48e98e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/0471ccdd-c0a7-43b4-b912-fd0b0a48e98e-1591831931.jpg",
+    "url_thumb": "https://www.astrobin.com/s5ikve/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 64,
+    "w": 2600
+}

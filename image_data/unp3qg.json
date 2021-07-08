@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "69.363",
+    "description": "Here is a picture I have put together with data from 2 different observatories.\r\nThank you very much Morten La Cour for fantastic data from your m82 HA+RGB\r\nAnd Stjernebua Observatory (Kristian Schlanbusch) for M81 OSC Imaging camera:ZWO ASI294MC Pro RGB\r\nhttps://www.astrobin.com/full/nbpowm/0/\r\n\r\nTotal Integration ca 50 hours",
+    "h": 1210,
+    "hash": "unp3qg",
+    "id": 485493,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "TS Optics APO130f6"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809906/"
+    ],
+    "orientation": "269.409",
+    "pixscale": "1.912",
+    "published": "2020-05-05T10:13:57.255464",
+    "ra": "148.977",
+    "radius": "0.576",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/485493/",
+    "revisions": [
+        "/api/v1/imagerevision/231847/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "Cigar Galaxy",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "Other"
+    ],
+    "title": "M81-82 deep",
+    "updated": "2021-05-26T12:08:40.552110",
+    "uploaded": "2020-05-05T11:13:57.544745",
+    "url_duckduckgo": "https://www.astrobin.com/unp3qg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/unp3qg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/unp3qg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/unp3qg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/unp3qg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/unp3qg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/unp3qg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2020/4ca45e0f-136e-4a2f-a52f-4cb13e1f5697.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2020/4ca45e0f-136e-4a2f-a52f-4cb13e1f5697-1588677547.png",
+    "url_thumb": "https://www.astrobin.com/unp3qg/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 485,
+    "w": 1800
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 42,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I collaborated with Luke Gulliver based in WA to produce this set from November 20th. Being based in NSW I am imaging Mars at its maximum altitude about 2 hours earlier than Luke and it was fortunate that between us we got coverage for most of the extent of the dust storm.\r\n\r\nThese images are taken ~ 2.5 hours apart and it is nice to see how well they are matched in terms of colour and general appearance. \r\n\r\nI produced a reasonable planetary map from our images, with the rest of the planet derived from images produced earlier in the apparition. Although the coverage is not complete, it does give a good idea of the extent of the dust storm. We may have missed some of the western periphery of the dust but it is fairly diffuse by then I believe.\r\n\r\nFrom the planetary map I texturised the WinJUPOS graphic and produced this .avi animation of the planet rotating, which makes it fairly easy to see the spread of the dust.\r\n\r\nhttps://www.dropbox.com/s/nyevbybpisdszvr/2020-11-22-0034.0-Mars-NR.avi?dl=0\r\n\r\nIt was great to do this project together with Luke.",
+    "h": 800,
+    "hash": "hns5u5",
+    "id": 543696,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-22T14:13:10.209503",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/543696/",
+    "revisions": [
+        "/api/v1/imagerevision/261214/"
+    ],
+    "subjects": [],
+    "title": "The Mars dust storm - a collaboration with Luke Gulliver",
+    "updated": "2021-05-05T17:05:20.037808",
+    "uploaded": "2020-11-22T13:36:33.786584",
+    "url_duckduckgo": "https://www.astrobin.com/hns5u5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hns5u5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hns5u5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hns5u5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hns5u5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hns5u5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hns5u5/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/hns5u5/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 372,
+    "w": 800
+}

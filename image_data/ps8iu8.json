@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "21.502",
+    "description": "NGC2903 L RGB\r\nL : 32 x 300s Skywatcher Quattro 10 C, ASI ZWO 183 mmc 2x2 , gain 0\r\nRGB 40 x 120s Skywatcher 130/650, ASI 294 mc\r\n-------------------------------------------------------\r\nTOTAL : 6h",
+    "h": 1298,
+    "hash": "ps8iu8",
+    "id": 571015,
+    "imaging_cameras": [
+        "ASI ZWO ASI 294MC Pro",
+        "ASI ZWO ASI 183MM-C pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 130/650 PDS",
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810357/"
+    ],
+    "orientation": "1.400",
+    "pixscale": "1.233",
+    "published": "2021-03-04T06:43:45.241529",
+    "ra": "143.041",
+    "radius": "0.376",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571015/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903",
+        "NGC2903",
+        "NGC2905"
+    ],
+    "title": "NGC2903",
+    "updated": "2021-03-11T18:31:15.110894",
+    "uploaded": "2021-03-04T06:34:38.302586",
+    "url_duckduckgo": "https://www.astrobin.com/ps8iu8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ps8iu8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ps8iu8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ps8iu8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ps8iu8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ps8iu8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ps8iu8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3620/2021/fbbe91cf-77bf-4588-af7e-c0d85a552d55.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3620/2021/fbbe91cf-77bf-4588-af7e-c0d85a552d55-1614840251.jpg",
+    "url_thumb": "https://www.astrobin.com/ps8iu8/0/rawthumb/thumb/",
+    "user": "navigator77",
+    "views": 155,
+    "w": 1774
+}

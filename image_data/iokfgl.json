@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 17,
+    "data_source": "OWN_REMOTE",
+    "dec": "-39.391",
+    "description": "I`ve found the interesting article about this nebula  https://arxiv.org/pdf/1810.01350.pdf. \r\nIn the article in Chapter 4.2 you can see a description of multiple outer faint halo rings around the nebula. I was interested with that. I decided to take this nebula with a long exposure on a 40” telescope. The rings were worked out very well, also their centers are located close to the main star, but not exactly match with it. I represent the rings and their centers in the attachment. \r\n\r\nRings scheme is shown below\r\n<a href=\"https://astrob.in/iokfgl/B/\"><img src=\"https://astrob.in/iokfgl/B/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n\r\n\r\nTechnical data:\r\n \r\nTelescope/lens: ASA 40\" Ritchey–Chretien\r\nCamera: FLI Proline 16803 CCD Camera\r\nExposure and filters: OIII H-alpha RGB 26 hours total exposure \r\nLocation: Chilescope observatory, Chile \r\nImage data acquired remotely\r\n2020\r\n\r\nProcessing diagram is shown below\r\n<a href=\"https://astrob.in/iokfgl/C/\"><img src=\"https://astrob.in/iokfgl/C/rawthumb/gallery/get.jpg?insecure\"/></a>",
+    "h": 3396,
+    "hash": "iokfgl",
+    "id": 567153,
+    "imaging_cameras": [
+        "FLI PROLINE PL16803"
+    ],
+    "imaging_telescopes": [
+        "ASA RC-1000AZ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 293,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "139.100",
+    "pixscale": "0.273",
+    "published": "2021-02-17T19:01:45.283625",
+    "ra": "329.888",
+    "radius": "0.182",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/567153/",
+    "revisions": [
+        "/api/v1/imagerevision/274082/",
+        "/api/v1/imagerevision/274083/"
+    ],
+    "subjects": [
+        "IC 5148"
+    ],
+    "title": "Planetary nebula IC5148",
+    "updated": "2021-06-08T22:30:48.357781",
+    "uploaded": "2021-02-17T18:31:41.103960",
+    "url_duckduckgo": "https://www.astrobin.com/iokfgl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iokfgl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iokfgl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iokfgl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iokfgl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iokfgl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iokfgl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33375/2021/0b3aa5cb-54e9-4c98-8775-4d36b1621fe4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33375/2021/0b3aa5cb-54e9-4c98-8775-4d36b1621fe4-1613587197.jpg",
+    "url_thumb": "https://www.astrobin.com/iokfgl/0/rawthumb/thumb/",
+    "user": "StanislavVolskiy",
+    "views": 1685,
+    "w": 3376
+}

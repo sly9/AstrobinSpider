@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This image is the result of integrating 7 RGB runs of 1 minute per colour channel. The shadow was taken from the central RGB capture, where it was hardly smeared. The moon was processed separately, aligning and integrating the separate RGB components, before a final RGB combination in Photoshop. It was then inserted to replace the slightly chromatically smeared moon from the central RGB capture. It is interesting that when the moon in transit is wavelet sharpened, along with the planet, the central darkening artefact often seen when the moon is against the black of space is avoided. I presume this is because the sharpening algorithm sees a less sharp boundary at the limbs of the moon. Despite the fact that Jupiter and its moons, like Io, are close to 100% illuminated it is still possible to see some limb darkening on the right limb in this image.\r\nDid you ever wonder how can Io's shadow be so far displaced from the moon itself in an image like this? The reason is that despite the small angles involved, Io is still 422,000 kms closer to us that Jupiter when in transit.\r\nThere is an amazingly bright break out in the NEB, that seemed like it was attached to the shadow during the transit, like a comet tail.  \r\nThere seems to still be some red material in the RSH on both the f and p sides of the GRS. Some darker structure is visible in the Oval BA.",
+    "h": 800,
+    "hash": "eb54jq",
+    "id": 487254,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-12T05:53:58.596178",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487254/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter, with the GRS, Io and Io's shadow in transit.",
+    "updated": "2021-03-17T02:15:51.066541",
+    "uploaded": "2020-05-12T06:44:08.155876",
+    "url_duckduckgo": "https://www.astrobin.com/eb54jq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eb54jq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eb54jq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eb54jq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eb54jq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eb54jq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eb54jq/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/eb54jq/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 298,
+    "w": 800
+}

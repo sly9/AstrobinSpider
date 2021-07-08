@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "26.228",
+    "description": "This is my first light image with DSNM observatory. Deeply impressed by the results!\r\n\r\nWe have a side by side setup, FSQ106 and TOA130, each with a ASI6200mm-p. For this image, I used TOA130 for the Lum channel and FSQ106 for RGB, their focal length is almost 2:1, so it's more like a \"natural BIN2\".\r\n\r\nOh, btw, the new capturing software Voyage is also amazing, it runs 2 scopes flawlessly. Auto-focusing/dithering all in sync. I love the robostar focus method 100%.\r\n\r\nHope you like it!\r\n<I>#TeamNoctuaDSNM</I>",
+    "h": 6369,
+    "hash": "cs2eth",
+    "id": 542470,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106EDX",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "163.077",
+    "pixscale": "0.772",
+    "published": "2020-11-18T20:07:10.695920",
+    "ra": "61.333",
+    "radius": "1.230",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/542470/",
+    "revisions": [],
+    "subjects": [
+        "IC 360"
+    ],
+    "title": "LBN777 Baby Eagle Nebula",
+    "updated": "2021-06-11T07:05:51.698439",
+    "uploaded": "2020-11-18T19:42:53.690762",
+    "url_duckduckgo": "https://www.astrobin.com/cs2eth/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cs2eth/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cs2eth/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cs2eth/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cs2eth/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cs2eth/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cs2eth/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25144/2020/b04e4932-4110-474c-811a-f4b452b42c23.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25144/2020/b04e4932-4110-474c-811a-f4b452b42c23-1605730494.png",
+    "url_thumb": "https://www.astrobin.com/cs2eth/0/rawthumb/thumb/",
+    "user": "tbcgeorge",
+    "views": 199,
+    "w": 9546
+}

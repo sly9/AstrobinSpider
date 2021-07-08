@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "On October 1st, 6 days before closest approach I imaged Mars from 11:45pm to 3:15am with the aim of producing an animation showing a decent amount of the planet's rotation. With the 3.5 hours of data I was able to produce this animation with a duration of 3 hours, taking into account the derotation and integration of data with WinJUPOS.\r\nAs you can see the seeing was mediocre at the beginning when the planet had an altitude of 47 degrees but improved dramatically as the planet reached its zenith at 50 degrees. The seeing fell away again by the end and the final altitude of the planet was ~ 39 degrees. Nevertheless the quality of the images for most of the run was excellent, thanks to the seeing.\r\nAt the beginning Olympus Mons is at the Central Meridian and Solis Lacus and the Vallis Marineris were on the p limb and about to rotate out of view. The orographic clouds over Arsia Mons and Pavonis Mons, as well as small pockets over the Vallis Marineris become much more prominent as they rotate towards the limb as the Sun strikes them at a more oblique angle. It is interesting to observe Ascraeus Mons further to the north, which was clear of clouds. Initially, with the Sun overhead there is no shadow, but as it rotates towards the p limb the p side flank falls into shadow.\r\nOlympus Mons shows its oppositional brightening very well and the peak itself is well resolved. \r\nMare Sirenum is the large albedo area to the south at the same longitude as Olympus Mons. Later Mare Cimmerium and Sinus Gomer to the south and Elysium Mons to the north, rotate into view from the f limb.\r\nFinally the asymmetric positioning of the SPC remnant can be seen as it orbits the true polar position.",
+    "h": 800,
+    "hash": "om2qnz",
+    "id": 531769,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-12T12:07:33.663627",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/531769/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The rotation of Mars over 3 hours on October 1st 2020",
+    "updated": "2021-03-16T19:20:00.302428",
+    "uploaded": "2020-10-12T13:02:29.873806",
+    "url_duckduckgo": "https://www.astrobin.com/om2qnz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/om2qnz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/om2qnz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/om2qnz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/om2qnz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/om2qnz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/om2qnz/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/om2qnz/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 322,
+    "w": 800
+}

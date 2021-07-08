@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 36,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.646",
+    "description": "NGC 660 displays an interesting \"polar\" ring that is inclined 45 degrees rather then circumpolar.  It's morphology is believed to a due to a billion year old collision, but it remains active today.  Just 8 years ago it emitted an outburst some 10 times that of a supernova.  This may have emanated from its central black hole.  I do which I was imaging in 2012!\r\n\r\nThe data here was captured with the STX 16803 CCD but I needed to augment that with additional data from this month.  That was captured with the QHY600m.  \r\n\r\nI registered the data in PI to one of the QHY subs.  Channel masters were created in PI and the RGB data was combined in CCDStack.  The galaxy core was sharpened in CCDstack.  Noise reduction via Topaz Denoise AI and PS reduce noise.",
+    "h": 2382,
+    "hash": "manny2",
+    "id": 518031,
+    "imaging_cameras": [
+        "QHYCCD QHY600M",
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 229,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "47.042",
+    "pixscale": "0.609",
+    "published": "2020-08-26T00:34:27.541103",
+    "ra": "25.759",
+    "radius": "0.298",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/518031/",
+    "revisions": [
+        "/api/v1/imagerevision/247101/"
+    ],
+    "subjects": [
+        "NGC 660",
+        "NGC660"
+    ],
+    "title": "NGC 660 | A Hostile Merger",
+    "updated": "2021-03-16T22:34:28.249510",
+    "uploaded": "2020-08-25T22:47:10.301002",
+    "url_duckduckgo": "https://www.astrobin.com/manny2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/manny2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/manny2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/manny2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/manny2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/manny2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/manny2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/49f38706-ced7-42f4-a749-26961cf859f5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/49f38706-ced7-42f4-a749-26961cf859f5-1598405330.jpg",
+    "url_thumb": "https://www.astrobin.com/manny2/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 642,
+    "w": 2590
+}

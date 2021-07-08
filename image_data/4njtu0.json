@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "45.024",
+    "description": "C2020 F3 Neowise 2020.07.12\r\n\r\nSharpstar 61EDPH\r\n\r\n10Micron GM2000 HPSII\r\n\r\nASI2600MC pro\r\n\r\n5x60sec",
+    "h": 3341,
+    "hash": "4njtu0",
+    "id": 504922,
+    "imaging_cameras": [
+        "ZWO ASI2600 ASI2600MC pro"
+    ],
+    "imaging_telescopes": [
+        "Sharpstar 61EDPH"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 59,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798883/"
+    ],
+    "orientation": "121.378",
+    "pixscale": "2.847",
+    "published": "2020-07-12T14:06:24.936090",
+    "ra": "102.884",
+    "radius": "2.455",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504922/",
+    "revisions": [
+        "/api/v1/imagerevision/241405/"
+    ],
+    "subjects": [
+        "16 Lyn",
+        "NGC2303",
+        "NGC2308",
+        "The star 16Lyn",
+        "Comet"
+    ],
+    "title": "C/2020 F3 Neowise 2020.07.12",
+    "updated": "2021-03-17T00:35:37.435970",
+    "uploaded": "2020-07-12T15:06:25.345810",
+    "url_duckduckgo": "https://www.astrobin.com/4njtu0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4njtu0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4njtu0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4njtu0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4njtu0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4njtu0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4njtu0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/305/2020/5efd3077-de88-49aa-9732-41dda17220ed.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/305/2020/5efd3077-de88-49aa-9732-41dda17220ed-1594566692.png",
+    "url_thumb": "https://www.astrobin.com/4njtu0/0/rawthumb/thumb/",
+    "user": "sulcis2000",
+    "views": 300,
+    "w": 5232
+}

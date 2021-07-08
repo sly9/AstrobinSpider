@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "TRAVELLER",
+    "dec": "42.035",
+    "description": "After a long time with the 10 inch newtonian and the first time with off axis guiding. This turned out to be far more easier for me to produce round stars.\r\n\r\nNot so nice was that I found so many satellite trails on my frames. I tryed a lot with rejection algorithmus but I cannot remove them.",
+    "h": 2737,
+    "hash": "bv9aui",
+    "id": 490016,
+    "imaging_cameras": [
+        "ASI ZWO 1600MM PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 250/1200 PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812250/"
+    ],
+    "orientation": "357.022",
+    "pixscale": "0.653",
+    "published": "2020-05-21T17:10:07.839726",
+    "ra": "198.959",
+    "radius": "0.387",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490016/",
+    "revisions": [
+        "/api/v1/imagerevision/233975/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower Galaxy"
+    ],
+    "title": "M63 Sunflower Galaxy",
+    "updated": "2021-05-10T17:03:25.409720",
+    "uploaded": "2020-05-21T18:10:08.529696",
+    "url_duckduckgo": "https://www.astrobin.com/bv9aui/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bv9aui/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bv9aui/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bv9aui/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bv9aui/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bv9aui/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bv9aui/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/49440/2020/9c3808d3-627d-4f1f-bd64-c9d7c21ca33d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/49440/2020/9c3808d3-627d-4f1f-bd64-c9d7c21ca33d-1590085157.jpg",
+    "url_thumb": "https://www.astrobin.com/bv9aui/0/rawthumb/thumb/",
+    "user": "Lukas_TW",
+    "views": 332,
+    "w": 3269
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "20.555",
+    "description": "Original = SHO color mapping with Ha mixed in luminance\r\nRev. B = Tonemapped version\r\n\r\nData was 2x downsampled because I wasn't too happy with the star shape and sharpness at 1x1 bin.  \r\n\r\nUser <a href=\"https://www.astrobin.com/users/Arvid78/\">@Arvid Emtegren</a> imaged the same region 2 days after I shot these frames and he found minor planets 52 Europa and 150 Nuwa cruising past this DSO. I confirmed their position in Stellarium, they corresponded to 2 streaks in my data that were not fully removed by sigma clipping. \r\n\r\nRev. C shows the minor planets moving down in the H-alpha frames, hot pixels are moving up (due to dithering).",
+    "h": 1980,
+    "hash": "gu8tue",
+    "id": 573630,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "182.205",
+    "pixscale": "1.959",
+    "published": "2021-03-13T00:10:31.402340",
+    "ra": "92.455",
+    "radius": "0.686",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573630/",
+    "revisions": [
+        "/api/v1/imagerevision/277687/",
+        "/api/v1/imagerevision/277690/"
+    ],
+    "subjects": [
+        "Monkey Head Nebula",
+        "NGC 2174",
+        "NGC 2175"
+    ],
+    "title": "NGC 2174 - Monkey Head Nebula",
+    "updated": "2021-05-27T15:27:19.370233",
+    "uploaded": "2021-03-12T23:23:27.520629",
+    "url_duckduckgo": "https://www.astrobin.com/gu8tue/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gu8tue/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gu8tue/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gu8tue/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gu8tue/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gu8tue/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gu8tue/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2021/dc563784-fc44-4a76-b443-cc91d788a2e1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2021/dc563784-fc44-4a76-b443-cc91d788a2e1-1615591634.jpg",
+    "url_thumb": "https://www.astrobin.com/gu8tue/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 273,
+    "w": 1560
+}

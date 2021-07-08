@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "38.049",
+    "description": "I have wanted to image this planetary nebula since it was first discovered in 2008. The field of view is only 12 arc minutes wide, no cropping. It’s a total of 44.5 hours of data that I captured from 23 nights of imaging from August 11-Oct. 22, 2020. Oh and I threw out about 25 hours of data. This image scale is a big challenge. I used my processing technique which I call ‘Spectral Palette’ using Ha in red close to its wavelength, OIII as a green/blue close to its wavelength and Hb as blue close to its wavelength. The stars are from regular RGB filters. The colour of the gold bubble is a combination of Ha and OIII, which is correct as when you add red and green light, you get yellow. There was a lot of OIII in the bubble. The Hb adds blue to the red nebulosity giving a more fuchsia richer colour. Hb shines through when there is little dust to attenuate it. I think it looks like a Christmas tree ornament in front of a lit-up Christmas tree. It's such a perfect sphere.\r\nR:G:B:Ha:OIII:Hb  3.5: 3.0: 3.5: 15: 9: 10 hours",
+    "h": 2430,
+    "hash": "xoai2w",
+    "id": 547830,
+    "imaging_cameras": [
+        "SBIG Aluma 694"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo CDK dual config. 300mm  f/9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 173,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812881/"
+    ],
+    "orientation": "359.539",
+    "pixscale": "0.296",
+    "published": "2020-12-06T23:26:33.543623",
+    "ra": "303.839",
+    "radius": "0.159",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/547830/",
+    "revisions": [
+        "/api/v1/imagerevision/264637/"
+    ],
+    "subjects": [],
+    "title": "Soap Bubble Nebula",
+    "updated": "2021-06-26T02:18:20.614588",
+    "uploaded": "2020-12-06T23:09:14.460413",
+    "url_duckduckgo": "https://www.astrobin.com/xoai2w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xoai2w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xoai2w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xoai2w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xoai2w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xoai2w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xoai2w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/55711/2020/013346d0-d283-4609-afdf-38b142863905.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/55711/2020/013346d0-d283-4609-afdf-38b142863905-1607296852.jpg",
+    "url_thumb": "https://www.astrobin.com/xoai2w/0/rawthumb/thumb/",
+    "user": "debraceravolo",
+    "views": 491,
+    "w": 3000
+}

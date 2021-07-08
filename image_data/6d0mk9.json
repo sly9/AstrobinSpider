@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "-15.606",
+    "description": "Imaged on nights of:  11/18/2020, 11/19/2020, 11/20/2020, 12/5/2020, 12/6/2020, 12/7/2020, 12/8/2020, 12/9/2020, 12/10/2020. \r\nOn these scopes:\r\nPlanewave CDK14/ASI6200MM:  RGBHaOiii  (.6 arcsec/pixel, bin 2x2)\r\nTelevue NP127is/ASI6200MM:  HaOiii  (1.18 arcsec/pixel, bin 1x1)\r\nNo dithering.\r\nNo guiding.\r\n\r\nMy Abell Collection is here:\r\n<a href=\"https://www.astrobin.com/users/jmacon/collections/2482/\" target=\"_new\">Abell Planetary Nebulae</a>\r\nCurrently 60+, and soon to be complete.\r\n\r\nNormally I would not spend nearly this must time on most targets.  However Abell 7 has a very detailed and interesting structure, so well worth the time.  Plus I was mostly concentrating on getting my new CDK14 operational, so I just kept taking the same 3 targets (Abell24 and Sh2-129 will show up here eventually) every night for 2 weeks.  \r\n\r\nThis is my first image using the new Planewave CDK14\".  I was a little handicapped with these subs due to the fact that the electronic focuser that came with it was defective, as was the second they sent me.  So this entire series of subs on the CDK14 were taken with the focuser in the same position.  I did a manual focus as best I could and that is where I had to leave it.  With nightly temp range of 10C it is quite a testament to this scope's focus stability over large temperature changes.  All the filters gave reasonable focus at this fixed setting except the Oiii, which needed a different position.  It is the only Astrodon filter, the rest are Antlia filters.  For Oiii filters, only Chroma (Astrodon) produce an Oiii filter that does not have severe haloes around bright stars.  I tried 2 other brands.\r\nAnd I might add, the scope arrived in perfect collimation in it's giant crate, a whopping 250 pounds, mostly box.\r\n\r\nAbell 7 (PNG 215.5-30.8, PK 215-30.1) is a large, faint, ancient planetary nebula (PN) in the southern constellation of Lepus. According to Tweedy and Kwitter (Astron. J. Supp. Series, 107, 255-262, 1996) Abell 7 is the largest PN that is not interacting with the interstellar medium (ISM). Phillips (ibid, 139, 199-217, 2002) gives a distance of about 1,800 light years. In the deep image presented above, the field is 30′ x 30′. The size of the object in the image is 15′ x 13′. The central blue star is designated as WD 0500-156. This star may be part of a binary pair (De Marco, et al., 2012) based upon a Hubble image showing a red dwarf companion 0.91″ away.\r\nNarrowband filters were used to enhance contrast and bring out the amazingly complex and beautiful structrure of Abell 7. The image was processed in “natural color” where Ha+[NII] was mapped to red/magenta and OIII was mapped to ~ blue = green. A 3 nm H-a filter was used to capture both hydrogen-alpha emission and nitrogen. Tweedy and Kwitter show this object to have a significant NII emission.\r\nThe small galaxy to the right of Abell 7 is mag 15 PGC 16611. The tiny edge-on galaxy toward the lower left near the edge of the field is mag 15.2 IC400.  These two galaxies are noteworthy because they barely show up on the RGB image, but both have significant Ha and Oiii components and show up strongly in this image with the Ha and Oiii enhancement.",
+    "h": 3194,
+    "hash": "6d0mk9",
+    "id": 549297,
+    "imaging_cameras": [
+        "ZWO ASI6200MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK14",
+        "Tele Vue NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 198,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "89.825",
+    "pixscale": "0.603",
+    "published": "2020-12-12T20:58:25.159507",
+    "ra": "75.783",
+    "radius": "0.482",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/549297/",
+    "revisions": [],
+    "subjects": [
+        "PGC16611",
+        "PGC904647",
+        "PGC905996",
+        "PGC913021",
+        "PGC913609",
+        "PK215-30.1"
+    ],
+    "title": "Abell 7 Planetary Nebula",
+    "updated": "2021-06-15T09:19:16.411750",
+    "uploaded": "2020-12-12T19:58:08.265935",
+    "url_duckduckgo": "https://www.astrobin.com/6d0mk9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6d0mk9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6d0mk9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6d0mk9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6d0mk9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6d0mk9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6d0mk9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2020/ce76a433-35c5-4d01-998c-38941f490d0f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2020/ce76a433-35c5-4d01-998c-38941f490d0f-1607803309.jpg",
+    "url_thumb": "https://www.astrobin.com/6d0mk9/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 551,
+    "w": 4784
+}

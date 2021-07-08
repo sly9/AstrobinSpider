@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "36.474",
+    "description": "LPS D2 filter",
+    "h": 2496,
+    "hash": "hrfou2",
+    "id": 498281,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 8\" f/5 ONTC,  hand made mirror"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802444/"
+    ],
+    "orientation": "271.019",
+    "pixscale": "1.125",
+    "published": "2020-06-18T17:48:49.391919",
+    "ra": "250.406",
+    "radius": "0.649",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498281/",
+    "revisions": [],
+    "subjects": [
+        "Hercules Globular Cluster",
+        "M 13",
+        "NGC 6205",
+        "NGC 6207"
+    ],
+    "title": "M 13",
+    "updated": "2021-03-21T10:24:20.685261",
+    "uploaded": "2020-06-17T19:53:26.406408",
+    "url_duckduckgo": "https://www.astrobin.com/hrfou2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hrfou2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hrfou2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hrfou2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hrfou2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hrfou2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hrfou2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10524/2020/f5f674c0-cf2e-4936-ba78-00044d826a9e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10524/2020/f5f674c0-cf2e-4936-ba78-00044d826a9e-1592506387.jpg",
+    "url_thumb": "https://www.astrobin.com/hrfou2/0/rawthumb/thumb/",
+    "user": "echosud",
+    "views": 110,
+    "w": 3323
+}

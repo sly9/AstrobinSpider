@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.071",
+    "description": "",
+    "h": 3495,
+    "hash": "6174kg",
+    "id": 533216,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808565/"
+    ],
+    "orientation": "267.965",
+    "pixscale": "2.337",
+    "published": "2020-10-18T01:12:33.661939",
+    "ra": "305.873",
+    "radius": "1.828",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/533216/",
+    "revisions": [
+        "/api/v1/imagerevision/255567/",
+        "/api/v1/imagerevision/255614/"
+    ],
+    "subjects": [
+        "NGC 6910",
+        "NGC 6914",
+        "NGC6910",
+        "NGC6914",
+        "VdB131",
+        "VdB132"
+    ],
+    "title": "NGC6914",
+    "updated": "2021-06-07T08:31:33.660674",
+    "uploaded": "2020-10-18T02:09:22.296936",
+    "url_duckduckgo": "https://www.astrobin.com/6174kg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6174kg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6174kg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6174kg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6174kg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6174kg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6174kg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26610/2020/bd99ffc5-f4d0-4022-9150-8916d63936db.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26610/2020/bd99ffc5-f4d0-4022-9150-8916d63936db-1602987244.jpg",
+    "url_thumb": "https://www.astrobin.com/6174kg/0/rawthumb/thumb/",
+    "user": "Laubing1987",
+    "views": 182,
+    "w": 4415
+}

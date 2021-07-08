@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "55.021",
+    "description": "",
+    "h": 900,
+    "hash": "jemb1u",
+    "id": 476631,
+    "imaging_cameras": [
+        "Andor LucaR (DL604M EMCCD)"
+    ],
+    "imaging_telescopes": [
+        "C9.25"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.883",
+    "pixscale": "0.732",
+    "published": "2020-04-12T23:27:03.643225",
+    "ra": "168.704",
+    "radius": "0.129",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476631/",
+    "revisions": [
+        "/api/v1/imagerevision/226040/",
+        "/api/v1/imagerevision/226265/"
+    ],
+    "subjects": [
+        "M 97",
+        "NGC 3587",
+        "Owl Nebula"
+    ],
+    "title": "M97",
+    "updated": "2021-06-14T15:36:34.462494",
+    "uploaded": "2020-04-13T00:27:03.744123",
+    "url_duckduckgo": "https://www.astrobin.com/jemb1u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jemb1u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jemb1u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jemb1u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jemb1u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jemb1u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jemb1u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8185/2020/720a9387-b387-493e-8d00-3501d2104b54.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8185/2020/720a9387-b387-493e-8d00-3501d2104b54-1586737980.jpg",
+    "url_thumb": "https://www.astrobin.com/jemb1u/0/rawthumb/thumb/",
+    "user": "Junior-CCD",
+    "views": 448,
+    "w": 900
+}

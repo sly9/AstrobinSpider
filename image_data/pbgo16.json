@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 33,
+    "data_source": "BACKYARD",
+    "dec": "21.820",
+    "description": "Imaged on February 18th. and March 2nd.",
+    "h": 1185,
+    "hash": "pbgo16",
+    "id": 571635,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 269,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.663",
+    "pixscale": "1.210",
+    "published": "2021-03-06T15:58:57.253900",
+    "ra": "154.511",
+    "radius": "0.370",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571635/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3193"
+    ],
+    "title": "Hickson 44",
+    "updated": "2021-05-26T16:55:46.453522",
+    "uploaded": "2021-03-06T15:49:19.751585",
+    "url_duckduckgo": "https://www.astrobin.com/pbgo16/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pbgo16/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pbgo16/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pbgo16/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pbgo16/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pbgo16/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pbgo16/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2021/9c4cc0e0-a276-4a97-956e-022b75825cfd.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2021/9c4cc0e0-a276-4a97-956e-022b75825cfd-1615046099.png",
+    "url_thumb": "https://www.astrobin.com/pbgo16/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 442,
+    "w": 1853
+}

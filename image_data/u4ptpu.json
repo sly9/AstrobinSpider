@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "55.469",
+    "description": "",
+    "h": 2441,
+    "hash": "u4ptpu",
+    "id": 487880,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "275.335",
+    "pixscale": "0.939",
+    "published": "2020-05-15T01:15:17.168485",
+    "ra": "229.018",
+    "radius": "0.536",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487880/",
+    "revisions": [
+        "/api/v1/imagerevision/233123/"
+    ],
+    "subjects": [
+        "NGC 5905",
+        "NGC 5908"
+    ],
+    "title": "NGC 5905 & NGC 5908",
+    "updated": "2021-03-17T02:12:19.140156",
+    "uploaded": "2020-05-15T02:15:17.453555",
+    "url_duckduckgo": "https://www.astrobin.com/u4ptpu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/u4ptpu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/u4ptpu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/u4ptpu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/u4ptpu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/u4ptpu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/u4ptpu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2020/02b806e0-26e3-4e5e-b3a4-9dbacf861c42.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8751/2020/02b806e0-26e3-4e5e-b3a4-9dbacf861c42-1589509155.jpg",
+    "url_thumb": "https://www.astrobin.com/u4ptpu/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 279,
+    "w": 3303
+}

@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 32,
+    "data_source": "MIX",
+    "dec": "39.641",
+    "description": "This is the result of a cooperation of six astrophotographers from different areas of Germany. I am very proud to have been part of this team! :-)\r\n\r\nAfter many weeks of bad weather, a stable weather situation was announced shortly before new moon, which enabled us to take raw data for a few nights in a row. Enthusiastic about taking a deep and detailed picture of a not so often shown region in the constellation Canes Venatici, the group of photographers spontaneously got together. \r\n\r\n\r\nIn the technical card I could only store the information of the exposures I made. Here is the complete overview:\r\n\r\n* Image Acquisition\r\n\r\nMatthias Steiner\r\n1) Luminance 830x60s / -10 Degree / Gain 75 / Offset 50 / ASI 1600MMP / ZWO Luminance Filter / Lacerta Newtonian with 800mm focal length\r\n2) RGB 270x60s / -10 Degree / Gain 75 / Offset 50 / ASI 1600MMP / ZWO Red, Green, Blue Filter / Lacerta Newtonian with 800mm focal length\r\n\r\nBernd Steiner\r\n1) Luminance 962x60s / -10 Degree / Gain 75 / Offset 50 / ASI 1600MMP / Baader Luminance Filter / Lacerta Newtonian with 800mm focal length\r\n2) RGB 134x60s / -10 Degree / Gain 75 / Offset 50 / ASI 1600MMP /Baader Red, Green, Blue Filter / Lacerta Newtonian with 800mm focal length\r\n\r\nDaniel Höhl\r\n1) RGB 29x180s / -10 Degree / Gain 40 / Omegon veTEC 16000c / Skywatcher PDS 130 with 650mm focal length\r\n\r\nTony Poetz\r\n1) H-Alpha 263x480s / -20 Degree / Gain 139 / Offset 21 / ASI 1600MMP / ZWO H-Alpha 7nm Filter / GSO Newtonian with 600mm focal length\r\n\r\nUwe Ueberrhein\r\n1) RGB 336 x 120s / Canon 600Da / GSO Newtonian with 800mm focal length\r\n\r\nFrank Breslawski\r\n1) Luminance 226x300s / -20 Degree / Astrel AST16200B / Astronomik Luminance Filter / Lacerta Newtonian with 1200mm focal length\r\n2) RGB 61x300s / -20 Degree / Astrel AST16200B / Astronomik Red, Green, Blue Filter / Lacerta Newtonian with 1200mm focal length\r\n\r\n* Image Processing by Frank Breslawski\r\n\r\n* Overall Integration Time\r\nTotal: 108.2 hrs\r\nLuminance: 48.7 hrs\r\nRGB: 24.5 hrs\r\nH-Alpha: 35 hrs\r\n\r\nWe would like to thank Frank Schmitz, Ronny May, Markus Wirth, and Sven Kreiensen for their advice, support and good mood! Maybe you will be part of the next joint project. \r\n\r\nHere are some interesting informations about NGC 4151 (Wikipedia):\r\nNGC 4151 is an intermediate spiral seyfert galaxy with weak inner ring structure located 19 megaparsecs (62 million light-years) from Earth in the constellation Canes Venatici. The galaxy was first mentioned by William Herschel on March 17, 1787; it was one of the two Seyfert galaxies described in the paper which defined the term. It is one of the nearest galaxies to Earth to contain an actively growing supermassive black hole; it was speculated that the nucleus may host a binary black hole, with about 40 million and about 10 million solar masses respectively, orbiting with a 15.8-year period. This is, however, still a matter of active debate. Some astronomers nickname it the \"Eye of Sauron\" from its appearance.\r\n\r\nInteresting are the numerous (interacting) galaxies, tidal tails and also background galaxies. I think the cooperation was worth it and we will hopefully repeat it sometime. :-)",
+    "h": 2225,
+    "hash": "z2vojq",
+    "id": 470461,
+    "imaging_cameras": [
+        "Astrel Instruments AST16200B"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 250/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 273,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "274.230",
+    "pixscale": "1.034",
+    "published": "2020-03-30T09:54:26.348783",
+    "ra": "182.566",
+    "radius": "0.529",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/470461/",
+    "revisions": [
+        "/api/v1/imagerevision/222542/",
+        "/api/v1/imagerevision/222544/",
+        "/api/v1/imagerevision/222545/",
+        "/api/v1/imagerevision/222630/"
+    ],
+    "subjects": [
+        "NGC 4145",
+        "NGC 4151",
+        "NGC 4156",
+        "NGC4145",
+        "NGC4151",
+        "NGC4156"
+    ],
+    "title": "NGC 4151 and Friends (HaLRGB with 108 hrs integration time)",
+    "updated": "2021-05-26T20:03:10.418457",
+    "uploaded": "2020-03-29T21:19:22.621532",
+    "url_duckduckgo": "https://www.astrobin.com/z2vojq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z2vojq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z2vojq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z2vojq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z2vojq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z2vojq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z2vojq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2020/23256036-3252-4d11-bae5-59faab54f9f7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2020/23256036-3252-4d11-bae5-59faab54f9f7-1585523273.png",
+    "url_thumb": "https://www.astrobin.com/z2vojq/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 1067,
+    "w": 2935
+}

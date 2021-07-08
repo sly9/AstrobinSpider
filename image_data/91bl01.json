@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 89,
+    "data_source": "BACKYARD",
+    "dec": "-23.732",
+    "description": "I could not resist to process the last images that I obtained with the 6200 before I went on vacation. Even if it was not the more typical amount of integration time, And this processing was an adventure! I installed the new PI version with the hope that the new weighted batch processing would make the stacked images even better than the previous version. Well ... it had some problems, to say it friendly. I tried it 3 times and all 3 times PI hung up at the image analysis of the Hα data. It was so bad that I needed to hard reset the desktop computer in order to stop the PI process, not even a Task End in the task manager was helping. I reverted back to the previous version and it worked well, so something is in the new WBPP that is not quite cocher. I passed the info already to the PI team and they started analyzing, so far the answer is that it does not happen on their Linux machine, which potentially makes sense since I use a Windows machine. \r\nSince it was not working well in PI I also created the stacked images with DSS (no problems there!), but the resulting images were this time very different from the PI stacked images (previous version), by far not as good, which I found out in processing, so many hours for pretty much nothing.\r\nThe final result made me happier, it came out very nicely, always the way I wanted to see these 2 wonderful nebulae. The details in the core of M8 are very nice (Version C). The 6200 is with its size and at 925mm just a great combination!",
+    "h": 6158,
+    "hash": "91bl01",
+    "id": 595460,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics New Fluorostar 132"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808433/"
+    ],
+    "orientation": "271.885",
+    "pixscale": "0.856",
+    "published": "2021-06-08T01:03:16.942723",
+    "ra": "270.917",
+    "radius": "1.315",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595460/",
+    "revisions": [
+        "/api/v1/imagerevision/290326/",
+        "/api/v1/imagerevision/290327/",
+        "/api/v1/imagerevision/290449/",
+        "/api/v1/imagerevision/290568/",
+        "/api/v1/imagerevision/290571/"
+    ],
+    "subjects": [
+        "Lagoon Nebula",
+        "M 20",
+        "M 8",
+        "NGC 6514",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr",
+        "Trifid Nebula"
+    ],
+    "title": "M8 and M20 in SHO and individual versions in HOO",
+    "updated": "2021-07-05T13:01:12.720874",
+    "uploaded": "2021-06-08T00:31:26.717024",
+    "url_duckduckgo": "https://www.astrobin.com/91bl01/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/91bl01/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/91bl01/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/91bl01/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/91bl01/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/91bl01/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/91bl01/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26231/2021/d9c277ac-cad8-4a3c-a516-31f8552da721.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26231/2021/d9c277ac-cad8-4a3c-a516-31f8552da721-1623113718.jpg",
+    "url_thumb": "https://www.astrobin.com/91bl01/0/rawthumb/thumb/",
+    "user": "udeuterm",
+    "views": 428,
+    "w": 9196
+}

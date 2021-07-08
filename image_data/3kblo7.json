@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I was interested in how long the perceived brightening of the rings due to the Seeliger Effect would last, and what was the shape of the brightening curve.   I found references to its lasting just a few days around opposition.   The effect is attributed to the make-up of the rings – lots of large chunks of material which show bright and shadowed portions for much of the time, until opposition, when the amount of shadow seen falls close to zero, with the sun shining on the rings from directly behind us – a bit like looking at the full moon rather than the terminator.\r\n\r\nSo far in 2020 I have 15 images dating back to 12 March 2020 that would allow image measurements. \r\n\r\nYou can see the apparent brightening of the rings around opposition. You can also see, however, a lot of variability between images, due to seeing, processing and equipment variations, plus the well-known “klutz factor”, that might delude one into seeing what is not there. So I decided to try and use ratios to remove some of this variation from the picture, by comparing ring brightness to the brightness of the yellowish equatorial zone (EZ) of Saturn in each image.   My images generally show the A ring and the B ring separately, so I measured the trends in brightness for the two rings.  I downloaded and taught myself the basics of ImageJ software (free!) from the NIH (generally used for measuring images of tissue samples, but with wider applications, including in astronomy – we have also been using it in a school project to measure the position of the terminator on Venus).  I used the software to measure average grey value in the EZ, and the A and B rings, for the 15 images above.  I then expressed the values of brightness in A and B as a proportion of the value for the EZ, to reduce the uncontrolled variation between images.\r\nI graphed the results (A), together with an image to show the areas I was sampling for the three grey values per image.\r\n\r\nYou can see that the values for both A and B rings  reach a sharp peak around opposition and it does seem that the effect is very short-lived.  However, for the B ring, there does seem to be a slow trend upwards as opposition approaches. For the A ring, this is also apparent, though there is much more variation in the trend, probably because of the smaller measurement area.   For the B ring, the peak value is reached at 112% brightness compared to the EZ, and for the generally dimmer A ring it is 60%. The values fall precipitously just 2 days after opposition.",
+    "h": 605,
+    "hash": "3kblo7",
+    "id": 512686,
+    "imaging_cameras": [
+        "ZWO ASI 290MM",
+        "ZWO ASI 462MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge HD",
+        "C11"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806707/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-07T07:25:33.608858",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/512686/",
+    "revisions": [
+        "/api/v1/imagerevision/244511/",
+        "/api/v1/imagerevision/244512/"
+    ],
+    "subjects": [],
+    "title": "Quantifying the Seeliger Effect 2020",
+    "updated": "2021-04-23T10:35:27.206493",
+    "uploaded": "2020-08-07T08:25:33.717968",
+    "url_duckduckgo": "https://www.astrobin.com/3kblo7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3kblo7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3kblo7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3kblo7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3kblo7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3kblo7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3kblo7/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/3kblo7/0/rawthumb/thumb/",
+    "user": "LacailleOz",
+    "views": 174,
+    "w": 1075
+}

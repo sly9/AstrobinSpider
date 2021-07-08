@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-11.073",
+    "description": "It is difficult to find much information on this cluster. The redshifts of 1723, 1725 and 1728 are all quite similar (0.01248, 0.01296 and 0.01255) corresponding to distances of 53-58 Mpc. NGC 1721 has a slightly greater redshift of 0.01501, corresponding to a distance of 64 Mpc. However, these galaxies do appear to be interacting, so the differences in redshift could be explained by local velocities within the group and may not be indicative of actual distance variation",
+    "h": 1200,
+    "hash": "ktv8f5",
+    "id": 559432,
+    "imaging_cameras": [
+        "Finger Lakes Instruments Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Plane Wave Instruments CDK 12.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 118,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799022/"
+    ],
+    "orientation": "232.378",
+    "pixscale": "1.451",
+    "published": "2021-01-20T03:15:07.670806",
+    "ra": "74.892",
+    "radius": "0.342",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559432/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1721",
+        "NGC 1723",
+        "NGC 1725",
+        "NGC 1728",
+        "NGC1721",
+        "NGC1723",
+        "NGC1725",
+        "NGC1728"
+    ],
+    "title": "Galaxy group in Eridanus",
+    "updated": "2021-06-03T03:45:16.996524",
+    "uploaded": "2021-01-19T05:29:25.280343",
+    "url_duckduckgo": "https://www.astrobin.com/ktv8f5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ktv8f5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ktv8f5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ktv8f5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ktv8f5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ktv8f5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ktv8f5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1770/2021/0841d46b-c9e9-4d14-909e-30ec5c6b90af.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1770/2021/0841d46b-c9e9-4d14-909e-30ec5c6b90af-1611100725.jpg",
+    "url_thumb": "https://www.astrobin.com/ktv8f5/0/rawthumb/thumb/",
+    "user": "Geoff",
+    "views": 580,
+    "w": 1200
+}

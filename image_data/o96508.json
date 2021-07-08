@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "78.337",
+    "description": "Finally a little clear sky here at home in Norway.\r\nFirst real test with new observatory and camera\r\n\r\nStruggling a bit with tilt, but hope to get this correct soon",
+    "h": 3582,
+    "hash": "o96508",
+    "id": 532615,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "269.676",
+    "pixscale": "2.439",
+    "published": "2020-10-15T19:57:39.261988",
+    "ra": "313.852",
+    "radius": "2.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532615/",
+    "revisions": [
+        "/api/v1/imagerevision/255199/",
+        "/api/v1/imagerevision/255279/"
+    ],
+    "subjects": [
+        "77 Dra",
+        "Other"
+    ],
+    "title": "LBN 552",
+    "updated": "2021-04-29T16:45:25.955468",
+    "uploaded": "2020-10-15T20:57:39.929577",
+    "url_duckduckgo": "https://www.astrobin.com/o96508/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/o96508/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/o96508/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/o96508/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/o96508/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/o96508/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/o96508/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2020/87be6902-110e-47a0-adeb-a7e35fd02139.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2020/87be6902-110e-47a0-adeb-a7e35fd02139-1602856088.png",
+    "url_thumb": "https://www.astrobin.com/o96508/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 166,
+    "w": 5586
+}

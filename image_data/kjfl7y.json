@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Tough conditions.  Seeing was poor and had to mask scope to 60.  \r\n\r\nAR 2778 and 2779\r\n\r\nProcessed in AS3, ImPPG and PS\r\n\r\nCalcium and continuum:zwo 290\r\nHa: 2.5 powermate 174 sensor\r\n\r\nI was not able to get more than 30fps in firecapture and switched to Genika Astro which solved it. I tried the most up to date FC beta version. I’ll need to recheck settings",
+    "h": 3131,
+    "hash": "kjfl7y",
+    "id": 536445,
+    "imaging_cameras": [
+        "ASI ZWO 290MM",
+        "Basler acA1920-155um"
+    ],
+    "imaging_telescopes": [
+        "Canadian Telescopes (Long-Perng) Canadian Telescopes 102 F/11"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 114,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-31T14:27:07.750656",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/536445/",
+    "revisions": [
+        "/api/v1/imagerevision/257602/"
+    ],
+    "subjects": [],
+    "title": "AR 2778, 2779 in various wavelengths",
+    "updated": "2021-03-16T18:52:11.409392",
+    "uploaded": "2020-10-31T14:03:44.089776",
+    "url_duckduckgo": "https://www.astrobin.com/kjfl7y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kjfl7y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kjfl7y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kjfl7y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kjfl7y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kjfl7y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kjfl7y/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/kjfl7y/0/rawthumb/thumb/",
+    "user": "torsinadoc",
+    "views": 218,
+    "w": 811
+}

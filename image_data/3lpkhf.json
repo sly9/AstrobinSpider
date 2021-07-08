@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "65.111",
+    "description": "The  red emission nebula in the center is Sharpless 150 - it is also known as LBN 520.  Sharpless 150  is ionized by two stars - HD 213087 and HD 213405 - the largest bright blue stars on the right.  The faint blue reflection nebula above Sharpless 150 is vdB154 (also known as LBN 523). Another Sharpless object (Sh2-145) is partially in this field in the lower right. There are several dark nebulae in this field - LDB 1206, 1207, 1208, 1209, 1214. There is a small galactic nebula (RNO 142) just to the right of Sharpless 150.  These objects  and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/SH2-150_FSQ_PS2_annotated.jpg\">annotated image</a>.  Horizontal FOV is approximately 120 arc minutes. Full size image scale is 2.77 arcsec/pix.",
+    "h": 2600,
+    "hash": "3lpkhf",
+    "id": 513144,
+    "imaging_cameras": [
+        "ATIK383L+"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "http://www.jthommes.com/Astro/SH2-150_vdB154.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.999",
+    "pixscale": "2.679",
+    "published": "2020-08-08T23:29:50.909701",
+    "ra": "337.872",
+    "radius": "1.209",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/513144/",
+    "revisions": [],
+    "subjects": [
+        "The star 26Cep"
+    ],
+    "title": "Sharpless 150 and vdB 154",
+    "updated": "2021-03-16T23:01:42.488496",
+    "uploaded": "2020-08-09T00:29:51.125632",
+    "url_duckduckgo": "https://www.astrobin.com/3lpkhf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3lpkhf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3lpkhf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3lpkhf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3lpkhf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3lpkhf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3lpkhf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/cd2b538b-7a5a-4623-b0fb-0be008d5ed0a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/cd2b538b-7a5a-4623-b0fb-0be008d5ed0a-1596934030.jpg",
+    "url_thumb": "https://www.astrobin.com/3lpkhf/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 301,
+    "w": 1950
+}

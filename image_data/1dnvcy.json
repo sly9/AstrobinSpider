@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "-3.826",
+    "description": "Data Acquisition from 2020-10-17 until 2021-01-13\r\nDSO Color Mapping: SH-HO-O with RGB stars\r\nOriginal Image (Pix) Scale: 4.00\r\n----------------------------------------------------------------------------------------------------------------------------\r\n\r\nI believe this is the first successful color image of the nebulae Sivan 5 and Sivan 6. Siv 5 is the larger one at the top. Siv 6 lies beneath it and includes Sh2-287, the bright section bottom center. The swooping HII wisp that stretches from left to right and looks like a ship’s hull isn’t officially part of either nebula, and is probably just part of the interstellar medium. \r\n\r\nAstronomer J.P. Sivan and his associates identified these nebulae in 1974 from an Hα survey of the Milky Way in which they appeared as a couple of tiny, irregular blots. Apparently, no one has bothered with them since.\r\n\r\nSivan Nebulae are large and exceedingly faint: this image spans over 5° of the constellation Monoceros and uses 74 hours of narrowband data. For 74 hours I got good Hα, adequate SII, and faint but usable OIII. The shorter exposures I’ve seen of this region scarcely reveal these Sivan objects at all. Even the three Sharpless objects here barely appear. If you find any images that clearly show these Sivan nebulae, please let me know and I will update this page.\r\n\r\nAs this is a potential first, I wanted to keep the colors close to true. This is an SH-HO-O treatment with only a little of the Hα in the green channel. The stars are RGB.\r\n\r\n...Speaking of blots, in the cosmic Rorschach ink blot test that is interstellar space, to me this looks like a dog (or seal) sitting in a boat with a single sail. So, I call this the Seadog Nebula.",
+    "h": 2556,
+    "hash": "1dnvcy",
+    "id": 570862,
+    "imaging_cameras": [
+        "FLI ML-16070M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106 EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "https://www.jklovelacephotography.com/portfolio/G0000iMp5HN.FsAc",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814270/"
+    ],
+    "orientation": "359.776",
+    "pixscale": "4.889",
+    "published": "2021-03-03T21:17:47.913585",
+    "ra": "105.172",
+    "radius": "3.132",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/570862/",
+    "revisions": [],
+    "subjects": [
+        "19 Mon",
+        "20 Mon",
+        "IC466",
+        "NGC 2311",
+        "NGC2311",
+        "Sh2-286",
+        "Sh2-287",
+        "Sh2-288",
+        "The star 19Mon",
+        "The star 20Mon"
+    ],
+    "title": "Sivan 5 and 6: First Time Ever Imaged?",
+    "updated": "2021-07-02T13:06:09.580534",
+    "uploaded": "2021-03-03T18:59:56.093351",
+    "url_duckduckgo": "https://www.astrobin.com/1dnvcy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1dnvcy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1dnvcy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1dnvcy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1dnvcy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1dnvcy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1dnvcy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/74632/2021/1f56dfae-5b38-4c9b-ac49-f71f40c134cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/74632/2021/1f56dfae-5b38-4c9b-ac49-f71f40c134cf-1614798907.jpg",
+    "url_thumb": "https://www.astrobin.com/1dnvcy/0/rawthumb/thumb/",
+    "user": "jklovelacephotography",
+    "views": 275,
+    "w": 3840
+}

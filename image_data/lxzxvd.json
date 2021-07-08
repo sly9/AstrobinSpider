@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 13,
+    "data_source": "TRAVELLER",
+    "dec": "13.280",
+    "description": "This is a bicolor of the Medusa Nebula aka Sh2-274, plus star color by RGB. This is also my first image with my new ASI 2600MMPro. I think that I will be quite happy with this new camera. The 16bit ADC, increased full well capacity and efficiency seem to make it a better camera than the 1600 which was already a really good camera. I am eager to explore more ...\r\n\r\nWorkflow has changed recently as I have found the star less approach to cause some artefacts that I did not like. Now I work on the original narrowband images and use Starnet only to obtain a good star mask. Star color is blended in a later stage - still experimenting here.\r\n\r\nI hope for a few more clear nights soon ...\r\n\r\nCS\r\nVolker",
+    "h": 2079,
+    "hash": "lxzxvd",
+    "id": 571111,
+    "imaging_cameras": [
+        "ZWO ASI 2600 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "8 Inch f4 Carbon Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805971/"
+    ],
+    "orientation": "125.880",
+    "pixscale": "1.351",
+    "published": "2021-03-04T17:34:36.954136",
+    "ra": "112.213",
+    "radius": "0.685",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571111/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2395"
+    ],
+    "title": "Sh2-274 - Abell 21 - Medusa Nebula",
+    "updated": "2021-06-19T09:45:23.961684",
+    "uploaded": "2021-03-04T17:13:18.897288",
+    "url_duckduckgo": "https://www.astrobin.com/lxzxvd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lxzxvd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lxzxvd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lxzxvd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lxzxvd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lxzxvd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lxzxvd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19681/2021/d62532b6-2b62-4d47-97a5-6f2a6629d84e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19681/2021/d62532b6-2b62-4d47-97a5-6f2a6629d84e-1614878122.jpg",
+    "url_thumb": "https://www.astrobin.com/lxzxvd/0/rawthumb/thumb/",
+    "user": "vgutsmann",
+    "views": 126,
+    "w": 3000
+}

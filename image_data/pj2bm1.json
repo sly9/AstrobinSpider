@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "46.287",
+    "description": "NGC 7048 is a small planetary nebula in the constellation of Cygnus.\r\n\r\nFinal image is a 2x drizzle and 100% crop of the ASI174 fov\r\nRev B is 100% crop of the full frame image (Moravian G3-11000c  4032 x 2688)",
+    "h": 1228,
+    "hash": "pj2bm1",
+    "id": 513312,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 236,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.123",
+    "pixscale": "0.604",
+    "published": "2020-08-09T14:34:47.415256",
+    "ra": "318.564",
+    "radius": "0.172",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513312/",
+    "revisions": [
+        "/api/v1/imagerevision/244817/"
+    ],
+    "subjects": [
+        "NGC 7048"
+    ],
+    "title": "NGC 7048",
+    "updated": "2021-03-16T23:00:45.613149",
+    "uploaded": "2020-08-09T15:06:49.837549",
+    "url_duckduckgo": "https://www.astrobin.com/pj2bm1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pj2bm1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pj2bm1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pj2bm1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pj2bm1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pj2bm1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pj2bm1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/6bc4df8d-3c2f-41d4-8c62-9365ae7b90d3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/6bc4df8d-3c2f-41d4-8c62-9365ae7b90d3-1596985939.jpg",
+    "url_thumb": "https://www.astrobin.com/pj2bm1/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 558,
+    "w": 1644
+}

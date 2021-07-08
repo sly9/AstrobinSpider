@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Yes, I'm dragging out some old data again - apologies! But hopefully I can compensate you for that ... read on.  ;)\r\n\r\nThe data used to create these images is highest quality data I have managed to capture so far, collected during a night of exceptionally good seeing during the early hours of 27th May, 2019 ... one year ago today. So this is an anniversary celebration of sorts!\r\n\r\nUnfortunately, the session was cut short by cloud cover rolling in (which you will see manifest as dips in image quality in the latter files). Still, I count myself fortunate to have experienced such conditions, if only for a short time.\r\n\r\nThe various flavours of my attempts at processing (which I have been obsessing over slightly ... I blame the lock-down lol):\r\n\r\n<strong><a href=\"https://www.astrobin.com/1xff2x/0/\">Rev A/original:</a></strong> including the moons Io (top left), Callisto (bottom left) and Europa (middle right).\r\n\r\n<strong><a href=\"https://www.astrobin.com/1xff2x/B/\">Rev B:</a></strong> as above, but with annotation of the moon names. (Mouse over the original image to see the annotations.)\r\n\r\n<strong><a href=\"https://www.astrobin.com/1xff2x/C/\">Rev C:</a></strong> Jupiter only image. Details are visible pole-to-pole, e.g. a white oval just above the southern polar region.\r\n\r\n<strong><a href=\"https://www.astrobin.com/1xff2x/D/\">Rev D (my favourite):</a></strong> a \"cross-eyed\" 3D stereo pair ... there was *just* enough data to create this with an 8 minute time separation. You may need to sit back from your monitor in order to view this comfortably.\r\n\r\nViewing the data in \"3D\", the brain seems to \"fill in the gaps\" and make the details pop. If you look carefully, you will see details all the way down to the south polar region itself.\r\n\r\nGood things should be shared, so please feel free to download and play with this data yourself!\r\n\r\nTo whet your appetite:\r\n\r\n<strong><a href=\"https://www.astrobin.com/1xff2x/E/\">Rev E:</a></strong> an example of one of the 20 percent stacks.\r\n\r\n<strong><a href=\"https://www.astrobin.com/1xff2x/F/\">Rev F:</a></strong> an animated GIF of the first 40 frames of raw data from the capture above.\r\n<p>&nbsp;</p><p>&nbsp;</p>\r\nThere are two ways to download and use the data:\r\n\r\n========================================================================\r\n<strong>If you would like to process the raw video data from scratch</strong>\r\n========================================================================\r\n<strong>WARNING: the raw SER files are *very* large</strong> (around <strong>3Gb each</strong> for the \"Jupiter only\" captures, and a whopping <strong>10Gb each</strong> for the wide-field captures including the moons).\r\n\r\nThe raw SER videos can be found in the “SER Flies” folder.  <strong>UPDATE:</strong> I have also uploaded <strong>compressed (ZIP) versions</strong> of the SER files in <strong>a folder labelled \"ZIP Files\"</strong> - recommend you download these instead.\r\n\r\nThere are two types of captures:\r\n\r\n•\t“With moons” are wider-field captures including the moons Io (top left), Callisto (bottom left) and Europa (middle right). NOTE: due to its low albedo (reflectivity of sunlight) Callisto is quite dim. You may want to boost the brightness in AutoStakkert to help when placing your alignment point.\r\n\r\n•\t“Jupiter only” are captures of the planet with a smaller region of interest (ROI). The intent here was to capture enough sequential data to allow an animation to be created … but clouds soon arrived to spoil that party. Oh well.\r\n<p>&nbsp;</p><p>&nbsp;</p>\r\n========================================================================\r\n<strong>If the SER files are too large, you may prefer to download the pre-stacked TIFF files</strong>\r\n========================================================================\r\nThese can be found in the “AS3 Stacked TIFFs” folder and have been stacked using AutoStakkert! 3.\r\n\r\nPLEASE NOTE: I routinely stack <strong>with 3x drizzle turned on</strong>, as I find this gives me more control over the sharpening process. I would usually scale to original size (33%) or smaller during final export, depending on the quality of the data.\r\n\r\nYou have three options to choose from here:\r\n•\tWith only the best 15 percent of frames stacked.\r\n•\tBest 20 percent stacked.\r\n•\tBest 30 percent stacked.\r\n\r\nExperiment and see which gives you the best results!\r\n========================================================================\r\n<p>&nbsp;</p><p>&nbsp;</p>\r\nThe data can be found here:\r\n\r\n<a href=\"https://1drv.ms/u/s!AiC9xWKggf6UbONE24jGJjVggx4?e=fLjbuZ\" target=\"_blank\">https://1drv.ms/u/s!AiC9xWKggf6UbONE24jGJjVggx4?e=fLjbuZ</a>\r\n<p>&nbsp;</p><p>&nbsp;</p>\r\n<strong><u>My only request</u></strong> is that you attribute/credit the data capture to me should you publish your images, and that you don't use the data or image for commercial purposes - see the ReadMe file for more info.\r\n\r\nAnd please do share your processed results with me, it's always interesting to see different takes on the same data!\r\n<p>&nbsp;</p><p>&nbsp;</p>\r\nEnjoy!",
+    "h": 683,
+    "hash": "1xff2x",
+    "id": 492010,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-27T10:46:36.574650",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/492010/",
+    "revisions": [
+        "/api/v1/imagerevision/234872/",
+        "/api/v1/imagerevision/234873/",
+        "/api/v1/imagerevision/234875/",
+        "/api/v1/imagerevision/234877/",
+        "/api/v1/imagerevision/234878/"
+    ],
+    "subjects": [],
+    "title": "Jupiter data: free to a good home :)",
+    "updated": "2021-03-29T03:54:55.673418",
+    "uploaded": "2020-05-27T10:21:05.305612",
+    "url_duckduckgo": "https://www.astrobin.com/1xff2x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1xff2x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1xff2x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1xff2x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1xff2x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1xff2x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1xff2x/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/1xff2x/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 426,
+    "w": 1831
+}

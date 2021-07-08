@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "First time I converted an IR image and a UV image to a false coulour one. \r\nRemoved the AR glass of the ASI178MM because the QE drops down below 400nm. \r\nBoth the AVi's were 15 minutes long.",
+    "h": 770,
+    "hash": "mn7g3t",
+    "id": 478631,
+    "imaging_cameras": [
+        "ZWO ASI 178 MM"
+    ],
+    "imaging_telescopes": [
+        "Intes MK-91"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 183,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-18T12:17:07.963724",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478631/",
+    "revisions": [
+        "/api/v1/imagerevision/227595/"
+    ],
+    "subjects": [],
+    "title": "Venus false coulours (UV + IR), 17042020",
+    "updated": "2021-03-17T03:04:05.531889",
+    "uploaded": "2020-04-18T13:09:32.893333",
+    "url_duckduckgo": "https://www.astrobin.com/mn7g3t/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mn7g3t/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mn7g3t/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mn7g3t/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mn7g3t/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mn7g3t/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mn7g3t/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/mn7g3t/0/rawthumb/thumb/",
+    "user": "BartM",
+    "views": 1140,
+    "w": 1002
+}

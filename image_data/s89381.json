@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "60.357",
+    "description": "Soul Nebula (IC 1848) in Cassiopeia, 7500 LY away...\r\n\r\nMy SII filter seems to have a problem because the signal obtained was very weak... so I first made <a href=\"https://astrob.in/ajols4/C/\"target=\"_blank\"> an HOO version </a>.\r\n\r\nBernard Michaud (<a href=\"https://www.astrobin.com/users/litobrit/\"target=\"_blank\">Litobrit</a>) kindly provided me his SII layer so that I could mix it with my own SII layer in order to finally make this SHO version ! Thanks Bernard ! :) \r\n\r\nAs for the HOO version, I still used my own SII layer to recover the color of the stars with the PCC process on Pixinsight.\r\n\r\nJB",
+    "h": 3564,
+    "hash": "s89381",
+    "id": 578081,
+    "imaging_cameras": [
+        "Atik 16200M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 102"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804493/"
+    ],
+    "orientation": "358.221",
+    "pixscale": "2.021",
+    "published": "2021-03-30T11:03:44.253656",
+    "ra": "43.788",
+    "radius": "1.607",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/578081/",
+    "revisions": [
+        "/api/v1/imagerevision/280747/",
+        "/api/v1/imagerevision/286793/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "IC 1848 (SHO)",
+    "updated": "2021-07-04T11:38:25.386729",
+    "uploaded": "2021-03-30T11:37:59.212940",
+    "url_duckduckgo": "https://www.astrobin.com/s89381/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s89381/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s89381/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s89381/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s89381/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s89381/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s89381/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2200/2021/c8b8998f-0107-47ff-bea2-006508c5d67b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2200/2021/c8b8998f-0107-47ff-bea2-006508c5d67b-1617175545.png",
+    "url_thumb": "https://www.astrobin.com/s89381/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 437,
+    "w": 4480
+}

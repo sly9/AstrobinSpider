@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-13.829",
+    "description": "",
+    "h": 1342,
+    "hash": "v94xg9",
+    "id": 506693,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/"
+    ],
+    "orientation": "18.026",
+    "pixscale": "0.615",
+    "published": "2020-07-18T08:48:56.448247",
+    "ra": "274.725",
+    "radius": "0.197",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/506693/",
+    "revisions": [
+        "/api/v1/imagerevision/242247/",
+        "/api/v1/imagerevision/242348/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "IC 4703",
+        "M 16",
+        "NGC 6611",
+        "Star Queen"
+    ],
+    "title": "The Pillars of Creation",
+    "updated": "2021-03-17T00:25:28.294335",
+    "uploaded": "2020-07-18T09:35:26.999553",
+    "url_duckduckgo": "https://www.astrobin.com/v94xg9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/v94xg9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/v94xg9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/v94xg9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/v94xg9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/v94xg9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/v94xg9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2020/666e43f1-043e-4472-bd64-58fa3b2cbb02.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2020/666e43f1-043e-4472-bd64-58fa3b2cbb02-1595065429.jpg",
+    "url_thumb": "https://www.astrobin.com/v94xg9/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 588,
+    "w": 1875
+}

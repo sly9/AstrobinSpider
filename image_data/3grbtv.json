@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "Thanks to the good seeing last night, it was possible to prepare this mosaic.\r\nIt was made using the Classic Cassegrain 8\" from my remote observatory and a IMX174 camera.\r\nIt could be one of the latest images with the QHY5III174 at native f12 2400mm because I will change it soon to fire at f19 3800 again.\r\nAlso at the same time I will use a new ASI183M at f12  to obtain better spectrophotography.\r\n\r\nDetails about this installation using a dual camera setup for planetary imaging on a remote location at \r\nhttps://astro.carballada.com/new-dual-camera-set-up-on-cc8/\r\n\r\nAnyway, it's another opportunity to try moon processing.",
+    "h": 1251,
+    "hash": "3grbtv",
+    "id": 583458,
+    "imaging_cameras": [
+        "QHYCCD QHY5III174"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f12 Classical Cassegrain"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 65,
+    "link": "https://astro.carballada.com/moon-18th-of-april-21-mosaic/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-04-19T17:25:08.945681",
+    "ra": null,
+    "radius": null,
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/583458/",
+    "revisions": [
+        "/api/v1/imagerevision/283995/"
+    ],
+    "subjects": [],
+    "title": "Moon 18th of April 21 mosaic",
+    "updated": "2021-06-16T10:28:07.330457",
+    "uploaded": "2021-04-19T12:37:29.340157",
+    "url_duckduckgo": "https://www.astrobin.com/3grbtv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3grbtv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3grbtv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3grbtv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3grbtv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3grbtv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3grbtv/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/3grbtv/0/rawthumb/thumb/",
+    "user": "Carballada",
+    "views": 178,
+    "w": 1546
+}

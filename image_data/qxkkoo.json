@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "30.130",
+    "description": "Here is a bunch of Barnard and VdB nebulae in Auriga taken under rather poor seeing conditions, making the processing challenging. I throw out half of the subs and let the image rest for a while, but fighting an uncomfortable -16°C during the data acquisition while watching a miserable guide curve convinced me that I should try to do my best to get a presentable image out of the data.",
+    "h": 2466,
+    "hash": "qxkkoo",
+    "id": 568411,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "351.714",
+    "pixscale": "3.661",
+    "published": "2021-02-21T12:22:27.943471",
+    "ra": "72.557",
+    "radius": "2.207",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/568411/",
+    "revisions": [
+        "/api/v1/imagerevision/280161/"
+    ],
+    "subjects": [
+        "B24",
+        "B26",
+        "B27",
+        "B28",
+        "VdB29",
+        "VdB31"
+    ],
+    "title": "From VdB 31 to Barnard 24 in Auriga",
+    "updated": "2021-06-24T14:59:38.199059",
+    "uploaded": "2021-02-21T12:06:21.221909",
+    "url_duckduckgo": "https://www.astrobin.com/qxkkoo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qxkkoo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qxkkoo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qxkkoo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qxkkoo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qxkkoo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qxkkoo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2021/113ea14a-a651-46a8-8a5c-f27c71cbba7e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2021/113ea14a-a651-46a8-8a5c-f27c71cbba7e-1613909912.jpg",
+    "url_thumb": "https://www.astrobin.com/qxkkoo/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 125,
+    "w": 3572
+}

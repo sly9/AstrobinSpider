@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 38,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Over the past month or so as we have been getting much closer to Mars, I had some good seeing for these 4 captures which encompass almost the full 360 degrees of the planet and these views are almost 90 degrees apart.\r\nThe respective captures were made on the following dates & times (UT) and all are north up. The varying position of the south polar cap (SPC) reflects its asymmetry.\r\nTop Left: 2020-08-28-1738.0\r\nTop Right: 2020-09-05-1711.5\r\nBottom Right: 2020-09-15-1703.9\r\nBottom Left: 2020-09-23-1607.6\r\nFrom these I made a planetary map (version B), which is in fact a planetographic, Lambert cylindrical equal area projection. It shows the features projected as if onto a cylinder and then rolled out. \r\nI also made South polar projections normal (version C) and stereographic (version E). The normal polar projection shows what the planet would look like if approached from the south where the stereographic projection shows more of the equatorial regions\r\nThe south polar projections beautifully shows the asymmetric orientation of the SPC remnant. Thus the polar cap \"orbits\" the true south pole.  \r\n\r\nThe last two versions F & G show the respective normal and stereographic polar projections for the north pole. .Of course the north polar projection is limited because the planet's north pole is tilted away from the Earth, but shows the widespread blue-white water vapour clouds that are perennially present around the pole at this time.",
+    "h": 1450,
+    "hash": "r0rz5z",
+    "id": 529076,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-01T14:21:26.001663",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/529076/",
+    "revisions": [
+        "/api/v1/imagerevision/252795/",
+        "/api/v1/imagerevision/252796/",
+        "/api/v1/imagerevision/252799/",
+        "/api/v1/imagerevision/252802/",
+        "/api/v1/imagerevision/252805/"
+    ],
+    "subjects": [],
+    "title": "The 4 corners of Mars 2020",
+    "updated": "2021-03-16T19:36:17.988009",
+    "uploaded": "2020-10-01T14:42:55.899054",
+    "url_duckduckgo": "https://www.astrobin.com/r0rz5z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r0rz5z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r0rz5z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r0rz5z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r0rz5z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r0rz5z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r0rz5z/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/r0rz5z/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 316,
+    "w": 1450
+}

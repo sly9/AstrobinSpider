@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "4.374",
+    "description": "Supernova 2020jfo in M61, before and after.\r\n\r\nRC8 + CCDT67 + AtikOne\r\nLRGB about 2 hours in total.",
+    "h": 1420,
+    "hash": "mudt59",
+    "id": 487018,
+    "imaging_cameras": [
+        "Atik One 6.0"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808835/"
+    ],
+    "orientation": "269.986",
+    "pixscale": "0.858",
+    "published": "2020-05-11T02:12:14.831178",
+    "ra": "185.472",
+    "radius": "0.263",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/487018/",
+    "revisions": [],
+    "subjects": [
+        "M 61",
+        "NGC 4301",
+        "NGC 4303"
+    ],
+    "title": "Supernova 2020jfo in M61",
+    "updated": "2021-03-17T02:17:09.129760",
+    "uploaded": "2020-05-11T03:12:15.015790",
+    "url_duckduckgo": "https://www.astrobin.com/mudt59/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mudt59/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mudt59/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mudt59/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mudt59/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mudt59/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mudt59/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20389/2020/114ea2a7-28e3-4c4d-9802-a8cc8bef6b59.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20389/2020/114ea2a7-28e3-4c4d-9802-a8cc8bef6b59-1589167077.jpg",
+    "url_thumb": "https://www.astrobin.com/mudt59/0/rawthumb/thumb/",
+    "user": "rayliao",
+    "views": 488,
+    "w": 1690
+}

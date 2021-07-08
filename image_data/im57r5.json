@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "13.335",
+    "description": null,
+    "h": 3228,
+    "hash": "im57r5",
+    "id": 601406,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "OPT/TPO 10\" Imaging Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 74,
+    "link": "https://www.createdheavens.com/yoder-observing-site.html",
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2812236/"
+    ],
+    "orientation": "270.243",
+    "pixscale": "0.853",
+    "published": "2021-07-03T03:28:56.018190",
+    "ra": "169.977",
+    "radius": "0.695",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601406/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet",
+    "updated": "2021-07-06T10:49:34.243795",
+    "uploaded": "2021-07-03T03:26:44.410131",
+    "url_duckduckgo": "https://www.astrobin.com/im57r5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/im57r5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/im57r5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/im57r5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/im57r5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/im57r5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/im57r5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/46890/2021/8c2d55fd-0c31-4ed5-8b35-ada6d4a6a469.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/46890/2021/8c2d55fd-0c31-4ed5-8b35-ada6d4a6a469-1625283816.jpg",
+    "url_thumb": "https://www.astrobin.com/im57r5/0/rawthumb/thumb/",
+    "user": "Morrisayoder",
+    "views": 87,
+    "w": 4900
+}

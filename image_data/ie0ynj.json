@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-47.487",
+    "description": "",
+    "h": 2286,
+    "hash": "ie0ynj",
+    "id": 562806,
+    "imaging_cameras": [
+        "SBIG ST-2000XCM",
+        "SBIG ST-10XME"
+    ],
+    "imaging_telescopes": [
+        "C9.25"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808397/"
+    ],
+    "orientation": "358.525",
+    "pixscale": "0.574",
+    "published": "2021-02-01T21:11:25.985940",
+    "ra": "201.717",
+    "radius": "0.301",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/562806/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "Omega Centauri"
+    ],
+    "title": "Omega Centauri",
+    "updated": "2021-06-03T05:39:30.795197",
+    "uploaded": "2021-02-01T21:05:00.047526",
+    "url_duckduckgo": "https://www.astrobin.com/ie0ynj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ie0ynj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ie0ynj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ie0ynj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ie0ynj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ie0ynj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ie0ynj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20427/2021/ec98daf6-e5ad-4d7c-becc-0dddab5a6e81.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20427/2021/ec98daf6-e5ad-4d7c-becc-0dddab5a6e81-1612214295.jpg",
+    "url_thumb": "https://www.astrobin.com/ie0ynj/0/rawthumb/thumb/",
+    "user": "Daniele.Gasparri",
+    "views": 132,
+    "w": 3000
+}

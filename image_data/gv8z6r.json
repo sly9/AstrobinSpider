@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": "25.601",
+    "description": "It's galaxy season again! Orion is setting in the west early and we get a view of the many distant worlds outside of our own Milky Way galaxy here in the springtime.  Here we see a group of interacting galaxies that was shot over five nights in April, pointing at the constellation of Coma Berenices.  The main galaxies here are designated NGC4725 (The largest here), NGC4747 (The one in the upper left with the extended arms formed by tidal interactions with NGC4725) and the more distant NGC4712 (Smaller one to the right of NGC4747.)\r\n\r\nI decided to experiment a little more with shooting IR742 with the newt for this image.  Although I've kept it's impact very subtle I was happy with the end result.  This particular camera has some issues with microlensing in the infrared spectrum so I ended up using only the smaller-scale data to enhance some of the more distant red-shifted galaxies and stars that emit stronger in the IR wavelengths.\r\n\r\n\r\nAn interactive deep-zoom of this image in it's full resolution can be found [here](https://www.darkflats.com/DZI/NGC4725.html)\r\n\r\n\r\nFull Acquisition and Processing Details can be found [Here](https://www.darkflats.com/Deep-Sky/NGC4725/index.html)\r\n\r\n\r\nData was acquired across five consecutive nights between 2021-04-02 and 2021-04-06\r\n| R=  3hr14m\r\n| G=  3hr11m\r\n| B=  3hr07m\r\n| RGB Total= 9hr32m\r\n\r\n| IR742= 1hr36m\r\n| L3= 4hr04m\r\n| Grant Total= 15hr12m",
+    "h": 2000,
+    "hash": "gv8z6r",
+    "id": 585053,
+    "imaging_cameras": [
+        "QHY268M"
+    ],
+    "imaging_telescopes": [
+        "Orion 203/1000 f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 273,
+    "link": "https://www.darkflats.com/Deep-Sky/NGC4725/index.html",
+    "link_to_fits": "https://www.darkflats.com/Deep-Sky/NGC4725/NGC4725.Draft5c.png",
+    "locations": [],
+    "orientation": "2.307",
+    "pixscale": "1.159",
+    "published": "2021-04-25T18:45:56.513083",
+    "ra": "192.727",
+    "radius": "0.626",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/585053/",
+    "revisions": [
+        "/api/v1/imagerevision/284944/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725",
+        "NGC 4747",
+        "NGC4712",
+        "NGC4725",
+        "NGC4747"
+    ],
+    "title": "NGC 4725, NGC4747, NGC4712 and more (LIrRGB)",
+    "updated": "2021-07-01T16:50:14.914343",
+    "uploaded": "2021-04-25T16:54:40.270195",
+    "url_duckduckgo": "https://www.astrobin.com/gv8z6r/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gv8z6r/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gv8z6r/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gv8z6r/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gv8z6r/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gv8z6r/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gv8z6r/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25575/2021/c656cbd1-10d9-4c37-8c97-6257265b99f3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25575/2021/c656cbd1-10d9-4c37-8c97-6257265b99f3-1619371426.png",
+    "url_thumb": "https://www.astrobin.com/gv8z6r/0/rawthumb/thumb/",
+    "user": "eigenVector",
+    "views": 1207,
+    "w": 3333
+}

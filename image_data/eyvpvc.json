@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "60.470",
+    "description": "Same data set as my previous <a href=\"https://www.astrobin.com/iefad9\">Inside the Soul Nebula</a>, this image takes on a more natural look.\r\n\r\nBelow are the expressions to get this look for those who want to give it a try:\r\nR: SII*0.33 + HA*1.00\r\nG: OIII*1.00\r\nB: HA*0.33 + OIII*1.00\r\n\r\n<a href=\"https://www.astrobin.com/iefad9\">SHO Version</a>",
+    "h": 2252,
+    "hash": "eyvpvc",
+    "id": 483223,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 172,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806503/"
+    ],
+    "orientation": "90.188",
+    "pixscale": "1.711",
+    "published": "2020-04-28T23:08:37.584169",
+    "ra": "44.000",
+    "radius": "0.891",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483223/",
+    "revisions": [
+        "/api/v1/imagerevision/230433/"
+    ],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "Inside the Soul Nebula \"Natural\" Version",
+    "updated": "2021-04-19T11:32:35.258523",
+    "uploaded": "2020-04-28T23:36:00.404882",
+    "url_duckduckgo": "https://www.astrobin.com/eyvpvc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eyvpvc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eyvpvc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eyvpvc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eyvpvc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eyvpvc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eyvpvc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20633/2020/7cd5f530-0175-43cd-aa4c-8dfeec89e917.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20633/2020/7cd5f530-0175-43cd-aa4c-8dfeec89e917-1588117795.jpg",
+    "url_thumb": "https://www.astrobin.com/eyvpvc/0/rawthumb/thumb/",
+    "user": "PlanetOrion",
+    "views": 751,
+    "w": 3000
+}

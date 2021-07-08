@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "61.417",
+    "description": "Setup:\r\nT: TS Super APO 80/500\r\nM: Celestron CGEM guided ASI120MM\r\nC: QHY163M\r\nFilters: Baader Ha 7nm | OIII 8.5nm\r\nFrames:\r\nHa: 24x300s - bin1x1 | G120/Off60 | -10ºC\r\nOIII: 40x300s - bin1x1 | G120/Off60 | -10ºC\r\nTotal exposure: 320min\r\n\r\nAcquisition: APT\r\nEdition: PixInsight Core + PS\r\n20/09/2018; 25/09/2018\r\nSabugo - Portugal",
+    "h": 1826,
+    "hash": "61v2n0",
+    "id": 540243,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "TS 80/500 Super APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802219/"
+    ],
+    "orientation": "343.745",
+    "pixscale": "1.578",
+    "published": "2020-11-12T18:25:47.438276",
+    "ra": "38.403",
+    "radius": "0.722",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/540243/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Heart of the Heart Nebula (IC 1805) - Melotte 15",
+    "updated": "2021-06-08T15:36:02.521969",
+    "uploaded": "2020-11-12T18:24:34.658310",
+    "url_duckduckgo": "https://www.astrobin.com/61v2n0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/61v2n0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/61v2n0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/61v2n0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/61v2n0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/61v2n0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/61v2n0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10378/2020/166f9d7d-9da4-4c74-be49-c4098513517a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10378/2020/166f9d7d-9da4-4c74-be49-c4098513517a-1605205870.jpg",
+    "url_thumb": "https://www.astrobin.com/61v2n0/0/rawthumb/thumb/",
+    "user": "Henrique_Silva",
+    "views": 139,
+    "w": 2739
+}

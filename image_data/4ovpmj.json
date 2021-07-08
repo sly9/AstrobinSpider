@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "24.926",
+    "description": "NGC 3344 is a weakly barred spiral galaxy with loosely bound outer ring.  It is located in Leo Minor constellation, and is approximately 23 million light years away.",
+    "h": 2618,
+    "hash": "4ovpmj",
+    "id": 575731,
+    "imaging_cameras": [
+        "QHYCCD QHY294M-Pro"
+    ],
+    "imaging_telescopes": [
+        "TPO 8\" Ritchey–Chrétien "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2797744/"
+    ],
+    "orientation": "268.351",
+    "pixscale": "0.591",
+    "published": "2021-03-21T00:44:14.203986",
+    "ra": "160.890",
+    "radius": "0.393",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575731/",
+    "revisions": [
+        "/api/v1/imagerevision/279767/"
+    ],
+    "subjects": [
+        "NGC 3344"
+    ],
+    "title": "NGC 3344",
+    "updated": "2021-04-25T03:58:20.278961",
+    "uploaded": "2021-03-21T00:32:25.843495",
+    "url_duckduckgo": "https://www.astrobin.com/4ovpmj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4ovpmj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4ovpmj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4ovpmj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4ovpmj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4ovpmj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4ovpmj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/282/2021/7e5cc4fb-46d4-4e7e-8670-44dbdc8de205.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/282/2021/7e5cc4fb-46d4-4e7e-8670-44dbdc8de205-1616287260.jpg",
+    "url_thumb": "https://www.astrobin.com/4ovpmj/0/rawthumb/thumb/",
+    "user": "mcarroll",
+    "views": 187,
+    "w": 4008
+}

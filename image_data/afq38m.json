@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-12.716",
+    "description": "Managed to measure my first exoplanet! So happy I was able to measure it\r\n\r\nI  used Muniwin to process the light curve for those wondering\r\n\r\n106x60s with R filter",
+    "h": 542,
+    "hash": "afq38m",
+    "id": 504515,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 130PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "http://var2.astro.cz/tresca/transit-detail.php?id=1594475067&lang=en",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813689/"
+    ],
+    "orientation": "179.457",
+    "pixscale": "0.738",
+    "published": "2020-07-11T13:10:33.878744",
+    "ra": "28.650",
+    "radius": "0.079",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504515/",
+    "revisions": [],
+    "subjects": [],
+    "title": "First Transiting Exoplanet Qatar 1b",
+    "updated": "2021-04-17T18:43:54.238747",
+    "uploaded": "2020-07-11T14:10:33.995394",
+    "url_duckduckgo": "https://www.astrobin.com/afq38m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/afq38m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/afq38m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/afq38m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/afq38m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/afq38m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/afq38m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27154/2020/b0f11b5d-4ef1-4f28-93f0-d92cb98c820b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27154/2020/b0f11b5d-4ef1-4f28-93f0-d92cb98c820b-1594477782.png",
+    "url_thumb": "https://www.astrobin.com/afq38m/0/rawthumb/thumb/",
+    "user": "matt_baker",
+    "views": 150,
+    "w": 544
+}

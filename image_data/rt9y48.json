@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "captured a ~45 minute timelapes, 10s video and wait 20s.  85 frames total",
+    "h": 1920,
+    "hash": "rt9y48",
+    "id": 504276,
+    "imaging_cameras": [
+        "ZWO ASI 174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Pro 100ED APO Telescope"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812210/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-07-10T19:45:03.779088",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504276/",
+    "revisions": [
+        "/api/v1/imagerevision/241307/"
+    ],
+    "subjects": [],
+    "title": "Solar Prominence July 3rd 2020",
+    "updated": "2021-03-17T00:39:34.217827",
+    "uploaded": "2020-07-10T20:42:12.099226",
+    "url_duckduckgo": "https://www.astrobin.com/rt9y48/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rt9y48/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rt9y48/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rt9y48/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rt9y48/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rt9y48/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rt9y48/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/rt9y48/0/rawthumb/thumb/",
+    "user": "arjanb",
+    "views": 173,
+    "w": 1080
+}

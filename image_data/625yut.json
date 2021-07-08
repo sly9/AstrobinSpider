@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "44.269",
+    "description": "A two panel Hubble palette mosaic of the North American and Pelican Nebula captured from my back yard in upstate New York USA.  Captured with N.I.N.A., stacked in AstroPixelProcessor, and processed in Pixinsight.  It's not quite as wide of fov as I originally had planned.  I forgot to save the coordinates of the second panel in NINA so I had to do my best to frame panel 2 after the fact.  Oops! \r\n\r\nThe frames for some unknown reason are showing as Ha but they were:\r\nSii 30 x 8 minutes\r\nHa 31 x 8 minutes\r\nOiii 30 x 8 minutes",
+    "h": 2706,
+    "hash": "625yut",
+    "id": 600742,
+    "imaging_cameras": [
+        "ZWO ASI1600 cooled mono"
+    ],
+    "imaging_telescopes": [
+        "William Optics Zenithstar 73 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2816214/"
+    ],
+    "orientation": "359.653",
+    "pixscale": "2.941",
+    "published": "2021-06-29T19:29:52.255750",
+    "ra": "314.224",
+    "radius": "1.873",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600742/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "NGC 6989",
+        "NGC 6997",
+        "NGC 7000",
+        "North America Nebula",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star ξCyg"
+    ],
+    "title": "North America Nebula and Pelican Nebula 2 Panel Mosaic in SHO",
+    "updated": "2021-06-30T09:11:17.138131",
+    "uploaded": "2021-06-29T19:14:35.248918",
+    "url_duckduckgo": "https://www.astrobin.com/625yut/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/625yut/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/625yut/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/625yut/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/625yut/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/625yut/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/625yut/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/93110/2021/1f8f15a7-7b3e-489f-a709-521154baaf64.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/93110/2021/1f8f15a7-7b3e-489f-a709-521154baaf64-1624995054.png",
+    "url_thumb": "https://www.astrobin.com/625yut/0/rawthumb/thumb/",
+    "user": "JMW845",
+    "views": 24,
+    "w": 3702
+}

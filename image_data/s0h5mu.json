@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "41.147",
+    "description": "Croc's Eye (Messier 94) is also known as the Cat's Eye Galaxy. It is situated in the constellation Canes Venatici and is about 15 mio. lightyears from earth. Visible light images can only reveal a bright inner core with a smooth ring outside. Multi-wavelength investigations have proved that the inner spiral arms also reach into the outskirts of the galaxy.\r\nAn H-alpha filter (7nm Baader)  was used to enhance the presence of ionized regions and reveal the structures in the galaxy center region.\r\n\r\nASI1600mmp and TS 130/910 mm Apo.\r\n\r\n100 x 60 s red\r\n133 x 60 s green\r\n132 x 60 s blue\r\n44 x 200 s H-alpha.",
+    "h": 2486,
+    "hash": "s0h5mu",
+    "id": 480153,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "219.572",
+    "pixscale": "0.864",
+    "published": "2020-04-22T15:13:02.082181",
+    "ra": "192.714",
+    "radius": "0.515",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/480153/",
+    "revisions": [],
+    "subjects": [
+        "M 94",
+        "NGC 4736"
+    ],
+    "title": "Croc's Eye (M94)",
+    "updated": "2021-05-02T22:34:41.820145",
+    "uploaded": "2020-04-22T16:07:06.180667",
+    "url_duckduckgo": "https://www.astrobin.com/s0h5mu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s0h5mu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s0h5mu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s0h5mu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s0h5mu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s0h5mu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s0h5mu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/b8cf8473-4b3b-49cd-bcdd-b911d9705fbf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/b8cf8473-4b3b-49cd-bcdd-b911d9705fbf-1587572038.jpg",
+    "url_thumb": "https://www.astrobin.com/s0h5mu/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 767,
+    "w": 3497
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 20,
+    "data_source": "OTHER",
+    "dec": "13.580",
+    "description": "First light from AG Optical Systems observatory\r\nThe Hamburger Galaxy based on LRGB 14.5\"iDK data provided by AG Optical Systems.\r\nThese were taken in northern Alabama in the US at the AG Optical Systems observatory\r\nAG Optical Systems 14.5\" iDK F6.7 quartz astrograph\r\nZWO ASI6200  (2 bin) (Thanks Oceanside Photo & Telescope)\r\nZWO ASI120mm guider with Borg 50mm piggyback guide scope\r\nVoyager Astrophotography Automation Software\r\nSoftware Bisque MEII mount\r\n\r\nLight frames:\r\nL 190*300s\r\nR 17*300s\r\nG 18*300s\r\nB 17*300s\r\n\r\nEdit: Skarpen_Ødegård",
+    "h": 2421,
+    "hash": "iw76li",
+    "id": 580111,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 14.5\" iDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 180,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "268.484",
+    "pixscale": "0.782",
+    "published": "2021-04-06T21:05:21.460273",
+    "ra": "170.072",
+    "radius": "0.378",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/580111/",
+    "revisions": [
+        "/api/v1/imagerevision/281811/"
+    ],
+    "subjects": [
+        "NGC 3628",
+        "NGC3628",
+        "Other"
+    ],
+    "title": "NGC 3628 First light AG Optical Systems Observatory",
+    "updated": "2021-06-30T07:05:17.511865",
+    "uploaded": "2021-04-06T20:34:11.606906",
+    "url_duckduckgo": "https://www.astrobin.com/iw76li/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iw76li/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iw76li/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iw76li/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iw76li/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iw76li/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iw76li/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2021/6290dfbf-34ab-4de3-864a-42a1ec2e4238.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2021/6290dfbf-34ab-4de3-864a-42a1ec2e4238-1617742305.png",
+    "url_thumb": "https://www.astrobin.com/iw76li/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 403,
+    "w": 2498
+}

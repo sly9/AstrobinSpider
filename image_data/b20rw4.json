@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "69.458",
+    "description": "NGC 4236  is a barred spiral galaxy located in the constellation Draco.\r\nLum : 50 x 3 minutes (2,5h) / ASI174mm\r\nColour : 20 x 5 minutes (1,7h) / Moravian G3-11000c",
+    "h": 1198,
+    "hash": "b20rw4",
+    "id": 480103,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 222,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "358.952",
+    "pixscale": "1.095",
+    "published": "2020-04-22T11:32:06.555197",
+    "ra": "184.159",
+    "radius": "0.328",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/480103/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4236"
+    ],
+    "title": "NGC 4236",
+    "updated": "2021-05-09T06:36:20.740799",
+    "uploaded": "2020-04-22T12:20:23.429576",
+    "url_duckduckgo": "https://www.astrobin.com/b20rw4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b20rw4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b20rw4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b20rw4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b20rw4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b20rw4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b20rw4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/4bd9e931-0d1d-4f62-a1f5-c02a98294ae3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/4bd9e931-0d1d-4f62-a1f5-c02a98294ae3-1587558277.jpg",
+    "url_thumb": "https://www.astrobin.com/b20rw4/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 505,
+    "w": 1792
+}

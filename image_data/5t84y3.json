@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 141,
+    "data_source": "BACKYARD",
+    "dec": "12.997",
+    "description": "Here we have a first-light image using a new camera.  I had been thinking a lot about imaging at longer focal lengths for galaxy season.  I was particularly interested in getting better sampling than what I could do with my current cameras which have pretty small pixels.  I looked at a lot of cameras in the CMOS category but found none with larger pixels, except for the ASI174.  This camera, I came to believe, was much better suited to planetary work as a few folks who have experience with the camera noted very significant amp glow.  \r\n\r\nI happened upon this Omegon camera that has 9um pixel that is sold in Europe.  After some careful consideration, I purchased it.  I am fairly pleased with it so far although I will say those of us who use ZWO cameras are a little spoiled by the great documentation they provide for their products.  This was not the case with this camera and I am still waiting for an answer to a couple of questions from Omegon.  \r\n\r\nI do believe the camera is actually a rebranded Touptek camera and Mallincam also offers one that looks virtually identical to mine.\r\n\r\nIn any case, this is a first-light and as such, not the best work I've done.  But as with everything, there is a learning curve and hopefully my next image will be a bit better.  In this one I think I'm a little undersampled and I did have some issues with my automatic focuser, since sorted.\r\n\r\nI did use my ASI183mc OSC for the RGB binned 3x.  the HA and L were done with the veTEC.\r\n\r\nSo this is an image of M66, one of the Leo Triplet.\r\n\r\nI hope you like it and as always, comments / criticism is welcome.\r\n\r\nCS and good health!",
+    "h": 1683,
+    "hash": "5t84y3",
+    "id": 564069,
+    "imaging_cameras": [
+        "Omegon veTEC 432m",
+        "ZWO ASI 183MC Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 266,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "324.179",
+    "pixscale": "0.548",
+    "published": "2021-02-21T04:31:00.386369",
+    "ra": "170.066",
+    "radius": "0.219",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/564069/",
+    "revisions": [
+        "/api/v1/imagerevision/274767/"
+    ],
+    "subjects": [
+        "Leo Triplet",
+        "M 66",
+        "M66",
+        "NGC 3627"
+    ],
+    "title": "Messier 66 in Leo",
+    "updated": "2021-05-10T09:20:52.970422",
+    "uploaded": "2021-02-07T17:52:22.337555",
+    "url_duckduckgo": "https://www.astrobin.com/5t84y3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5t84y3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5t84y3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5t84y3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5t84y3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5t84y3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5t84y3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2021/49aeb57b-89ee-4b10-9a6d-53a4688c7ad8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2021/49aeb57b-89ee-4b10-9a6d-53a4688c7ad8-1613880875.png",
+    "url_thumb": "https://www.astrobin.com/5t84y3/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 618,
+    "w": 2333
+}

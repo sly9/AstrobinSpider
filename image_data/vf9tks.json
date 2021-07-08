@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "33.026",
+    "description": "This image is comprised  of 17.4 hours of integration time from  my Bortle 5 back yard.   11.5 hours integration was devoted to Hydrogen-alpha to image the halo, while the rest was RGB exposures.  The image is actually a 3-panel mosaic, with 85 % overlap of panels, just to make the image approximately square.\r\n\r\nThe sky background, the galaxy IC 1296, and the core of the nebula were processed in RGB mode with synthetic luminance made from RGB subs.  The halo and the star shapes (and star colors) were all derived from H-alpha (as luminance) with HGB for color channels.\r\n\r\nIt is rare that I can get 17 hours of integration on any object here in upstate NY, but there was an exceptional run of clear nights, and I was able to leave my imaging equipment outside without fear of rain for one week.  It was great to image for so many nights in a row without setting up  and aligning the 'scope every time.\r\n\r\nThe \"A\" revision is for those who like brighter / more saturated colors.",
+    "h": 2811,
+    "hash": "vf9tks",
+    "id": 499609,
+    "imaging_cameras": [
+        "QSI 660 WS"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812791/"
+    ],
+    "orientation": "0.133",
+    "pixscale": "0.464",
+    "published": "2020-06-22T10:39:54.694392",
+    "ra": "283.396",
+    "radius": "0.252",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/499609/",
+    "revisions": [
+        "/api/v1/imagerevision/238405/"
+    ],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring Nebula"
+    ],
+    "title": "M57 - Ring nebula in Lyra",
+    "updated": "2021-06-24T08:17:23.822701",
+    "uploaded": "2020-06-22T11:15:09.024551",
+    "url_duckduckgo": "https://www.astrobin.com/vf9tks/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vf9tks/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vf9tks/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vf9tks/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vf9tks/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vf9tks/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vf9tks/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4253/2020/c5604384-b7b7-4f34-b1a4-213e51c6d384.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4253/2020/c5604384-b7b7-4f34-b1a4-213e51c6d384-1592825683.jpg",
+    "url_thumb": "https://www.astrobin.com/vf9tks/0/rawthumb/thumb/",
+    "user": "rhedden",
+    "views": 579,
+    "w": 2724
+}

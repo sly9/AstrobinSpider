@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "67.296",
+    "description": "My next NB work. That was first light for my 3nm Astrodon NB filters. Oh my, they are so much better than Optolong!\r\n\r\nUsed drizzle integration for the first time, the files are larger and processing takes significantly more CPU power (and thus slower), but I like better resolution drizzle can give. When you zoom resolution increase is obvious, you can see more details and the resulting images are less noiser.\r\n\r\nAlso, I will be trying something new for me with this target, I will be replacing stars with their RGB version. Collecting RGB data as I'm writing this... \r\n\r\nAs usual feedback and suggestions appreciated :)",
+    "h": 4186,
+    "hash": "ngw0kz",
+    "id": 523546,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service Imaging Star 102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "88.903",
+    "pixscale": "0.890",
+    "published": "2020-09-15T13:16:19.323100",
+    "ra": "0.999",
+    "radius": "0.845",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/523546/",
+    "revisions": [
+        "/api/v1/imagerevision/249764/"
+    ],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "NGC7822 - SHO",
+    "updated": "2021-06-11T11:01:55.306876",
+    "uploaded": "2020-09-15T14:16:19.916045",
+    "url_duckduckgo": "https://www.astrobin.com/ngw0kz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ngw0kz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ngw0kz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ngw0kz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ngw0kz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ngw0kz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ngw0kz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/64624/2020/381039b8-70e8-4ef7-a5a9-9f8ebcbc5f78.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/64624/2020/381039b8-70e8-4ef7-a5a9-9f8ebcbc5f78-1600180018.png",
+    "url_thumb": "https://www.astrobin.com/ngw0kz/0/rawthumb/thumb/",
+    "user": "axlns",
+    "views": 100,
+    "w": 5402
+}

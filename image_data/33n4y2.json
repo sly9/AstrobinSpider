@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 19,
+    "data_source": "OWN_REMOTE",
+    "dec": "-16.133",
+    "description": "With this image my challenge was to deal with a very bright core while still presenting the dimmer, outer gasses and how to blend the SHO data to get representation for all of the colors.  \r\n\r\nI pre-stretched each channel master leaving the background quite bright and the highlights at .95.  Then combined the now non-linear masters using the excellent dynamic NB combination method described here: https://thecoldestnights.com/2020/06/pixinsight-dynamic-narrowband-combinations-with-pixelmath/\r\n\r\nThis method uses the OIII channel to determine how much Ha, SII, and OIII to blend for Red and Green at a pixel level.  The basic formula the author describes worked well for me.  That is:\r\n\r\nWhere f = OIII\r\nRed:       f*SII + ~f*Ha\r\nGreen:   f*(.7*SII+.3*Ha) + ~ f*OIII\r\nBlue:      OIII\r\n\r\nAfter that combination was used, I ran a fairly light application of HDRMT to tame the core.  This was followed with Starnet++ and PS clean-up to produce a starless. \r\n\r\nNoise reduction was applied to the starless image with the PS reduce Noise for the mid-tones and shadows.  Highlights received Topaz noise reduction with sharpening turned off and opacity at 85%.  \r\n\r\nUnsharp masking was use to add sharpening at a 4 pixel span and contrast at a 48 pixel span.\r\n\r\nStars were then added back in and a minimum filter used to reduce them a bit.  \r\n\r\nColors were enhanced with the PS vibrance tool, curves in the LAB mode and the final touch of color balance.",
+    "h": 3211,
+    "hash": "33n4y2",
+    "id": 541947,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 199,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "302.490",
+    "pixscale": "0.608",
+    "published": "2020-11-17T01:57:35.376499",
+    "ra": "275.203",
+    "radius": "0.488",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/541947/",
+    "revisions": [
+        "/api/v1/imagerevision/260370/"
+    ],
+    "subjects": [
+        "Checkmark Nebula",
+        "IC 4706",
+        "IC 4707",
+        "Lobster Nebula",
+        "M 17",
+        "M17",
+        "NGC 6618",
+        "Omega nebula",
+        "Sh2-45",
+        "Swan Nebula",
+        "omega Nebula"
+    ],
+    "title": "M17 | The Swan",
+    "updated": "2021-06-16T16:48:58.295772",
+    "uploaded": "2020-11-17T01:23:38.901249",
+    "url_duckduckgo": "https://www.astrobin.com/33n4y2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/33n4y2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/33n4y2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/33n4y2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/33n4y2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/33n4y2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/33n4y2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/05f953be-e1cf-4607-9c48-0d85e1282588.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/05f953be-e1cf-4607-9c48-0d85e1282588-1605577544.jpg",
+    "url_thumb": "https://www.astrobin.com/33n4y2/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 431,
+    "w": 4800
+}

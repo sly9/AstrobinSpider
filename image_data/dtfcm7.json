@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "-10.918",
+    "description": "IC 2177 is fairly bright. It's a great target for collecting all-channel data set. This is probably my first effort to truly blend all seven channels (Lum, Red, Green, Blue, Ha, S-II and O-III). I didn't want it to be another image dominated by red and blue colors. The brownish color of the thin dust clouds floating in this region is way more precious that I intended to protect. \r\n\r\nLRGB color tone is the base of this image. Narrowband data is mainly used in two areas: Enhancing the presentation of the details where they should be, and fill in the colors where broadband data channels are weak to make the image more fulfilled and balanced. One example is the area <I>\"Under the wings\"</I>. The blue color is quite weak there. Strong O-III signals filled in seamlessly. If you look closely, you can see the strongest part of the O-III region is actually not flat, there are some dust cloud structures right underneath it. I love it a lot.\r\n\r\nGot to give a lot of credit to the fabulous TOA-130NS. Such a wonderful instrument. I was amazed by its power in showing the layers of the bow shock front of FN CMa (HD 53974)!\r\n\r\nHope you folks like it and comments are welcome!\r\n\r\nAgain, appreciation goes to my teammates <a href=\"https://www.astrobin.com/users/tbcgeorge/\">TBC George</a>, <a href=\"https://www.astrobin.com/users/nodustab/\">Chen Wu</a>, and <a href=\"https://www.astrobin.com/users/yzhzhang/\">Yizhou Zhang</a> for helping me complete the data acquisition even I was away on my Reflection Canyon hiking trip.\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 3231,
+    "hash": "dtfcm7",
+    "id": 584131,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 206,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "13.561",
+    "pixscale": "2.173",
+    "published": "2021-04-21T23:51:21.319508",
+    "ra": "106.362",
+    "radius": "1.173",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/584131/",
+    "revisions": [
+        "/api/v1/imagerevision/284367/",
+        "/api/v1/imagerevision/284368/"
+    ],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335"
+    ],
+    "title": "IC 2177 Region - The Seagull Nebula",
+    "updated": "2021-06-21T16:51:35.593026",
+    "uploaded": "2021-04-21T23:17:08.673515",
+    "url_duckduckgo": "https://www.astrobin.com/dtfcm7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dtfcm7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dtfcm7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dtfcm7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dtfcm7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dtfcm7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dtfcm7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2021/e9a853b1-bdf3-4f1e-bd97-ca6549e78dec.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2021/e9a853b1-bdf3-4f1e-bd97-ca6549e78dec-1619239700.png",
+    "url_thumb": "https://www.astrobin.com/dtfcm7/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 359,
+    "w": 2160
+}

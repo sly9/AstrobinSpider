@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "78.131",
+    "description": "Mein versuch an NGC 2655. \r\nLeider gabs einiges an Problemen mit der Hardware:\r\nNewton dejustiert, beschlagene spiegel, falsche Flats usw.\r\nDas ist nun der Versuch aus den Daten irgendetwas zu machen.",
+    "h": 3264,
+    "hash": "mbe711",
+    "id": 477400,
+    "imaging_cameras": [
+        "QHYCCD 163m"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 150/750 PDS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "28.663",
+    "pixscale": "1.036",
+    "published": "2020-05-01T09:44:06.866184",
+    "ra": "134.579",
+    "radius": "0.789",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/477400/",
+    "revisions": [
+        "/api/v1/imagerevision/230252/",
+        "/api/v1/imagerevision/230951/",
+        "/api/v1/imagerevision/230954/"
+    ],
+    "subjects": [
+        "NGC 2655",
+        "NGC 2715"
+    ],
+    "title": "NGC 2655",
+    "updated": "2021-03-17T03:10:44.667711",
+    "uploaded": "2020-04-15T08:04:51.139773",
+    "url_duckduckgo": "https://www.astrobin.com/mbe711/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mbe711/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mbe711/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mbe711/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mbe711/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mbe711/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mbe711/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31709/2020/d26e6214-ed84-4a8f-91ac-0287df9a513d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31709/2020/d26e6214-ed84-4a8f-91ac-0287df9a513d-1586938112.jpg",
+    "url_thumb": "https://www.astrobin.com/mbe711/0/rawthumb/thumb/",
+    "user": "Bertl83",
+    "views": 84,
+    "w": 4404
+}

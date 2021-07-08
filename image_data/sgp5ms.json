@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "31.591",
+    "description": "A project from last year, this ended up being a disaster due to a rotational shift in my imaging train at an unknown time, resulting in bad flats. I finally decided to revisit the data, and see if I could acquire some flats that would work. While not perfect, and many subs were lost, I did manage to salvaged the image. Not quite as deep as I was hoping for...the intricate and delicate twists and filaments of structure in this object are truly amazing. \r\n\r\nFull SHO, from 4 hours Ha, 5h10m OIII and 7h20m of SII (out of around 10 hours of data actually acquired for each). Minimal processing...simply integrated, combined with PixelMath, slight sharpening and extremely minimal background denoise with MMT, and a simple stretch.",
+    "h": 1816,
+    "hash": "sgp5ms",
+    "id": 493633,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106 EDX IV @ f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802418/"
+    ],
+    "orientation": "89.996",
+    "pixscale": "1.866",
+    "published": "2020-05-31T23:45:05.707163",
+    "ra": "312.174",
+    "radius": "0.852",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/493633/",
+    "revisions": [
+        "/api/v1/imagerevision/235666/",
+        "/api/v1/imagerevision/235987/"
+    ],
+    "subjects": [
+        "NGC 6979"
+    ],
+    "title": "Pickering's Triangle",
+    "updated": "2021-06-14T20:20:38.484965",
+    "uploaded": "2020-06-01T00:23:54.977074",
+    "url_duckduckgo": "https://www.astrobin.com/sgp5ms/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sgp5ms/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sgp5ms/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sgp5ms/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sgp5ms/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sgp5ms/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sgp5ms/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7253/2020/687f58ba-2d3c-4516-833c-22df6ee15f3a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7253/2020/687f58ba-2d3c-4516-833c-22df6ee15f3a-1590971708.jpg",
+    "url_thumb": "https://www.astrobin.com/sgp5ms/0/rawthumb/thumb/",
+    "user": "jrista",
+    "views": 1038,
+    "w": 2739
+}

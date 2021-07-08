@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 16,
+    "data_source": "TRAVELLER",
+    "dec": "59.355",
+    "description": "A photogenic Draco Trio (NGC 5981, NGC 5982 and NGC 5985) imaged over several nights in April-May 2020 with the 250 mm f4.0 Lacerta PhotoNewton and ZWO ASI183MM Pro camera. The elliptical galaxy NGC 5982 (center) is exhibiting a well-defined shell structure presumed to be a result of multiple mergers with smaller galaxies. The spiral galaxy NGC 5985 (left) is located at the distance close to that of NGC 5982 (135~137 Mly). The recessional velocity of the third member of the \"trio\", the edge-on spiral NGC 5981 (right) puts it at a much closer distance of ~86 Mly.\r\n\r\nThe luminance exposures were taken at camera gain 0 and RGB at gain 53:\r\n\r\nL: 76x300s (Gain 0, bin 1x1)\r\nR: 44x300s (Gain 53, bin 1x1)\r\nG: 23x300s (Gain 53, bin 1x1)\r\nB: 26x300s (Gain 53, bin 1x1)\r\n\r\nTotal exposure: 14.1 hours",
+    "h": 2790,
+    "hash": "dgvpds",
+    "id": 493956,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 213,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "359.052",
+    "pixscale": "0.495",
+    "published": "2020-06-01T20:33:57.949151",
+    "ra": "234.669",
+    "radius": "0.324",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/493956/",
+    "revisions": [
+        "/api/v1/imagerevision/235820/",
+        "/api/v1/imagerevision/266025/",
+        "/api/v1/imagerevision/268500/"
+    ],
+    "subjects": [
+        "NGC 5976",
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985",
+        "NGC5976",
+        "NGC5981",
+        "NGC5982",
+        "NGC5985"
+    ],
+    "title": "The Draco Trio: NGC 5981, NGC 5982 and NGC5985",
+    "updated": "2021-04-13T05:27:23.753089",
+    "uploaded": "2020-06-01T20:42:49.848559",
+    "url_duckduckgo": "https://www.astrobin.com/dgvpds/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dgvpds/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dgvpds/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dgvpds/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dgvpds/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dgvpds/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dgvpds/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/2e7a1aec-6ecb-4d51-8c2e-8d3c4661954e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/2e7a1aec-6ecb-4d51-8c2e-8d3c4661954e-1591047581.jpg",
+    "url_thumb": "https://www.astrobin.com/dgvpds/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 565,
+    "w": 3801
+}

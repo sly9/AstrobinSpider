@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "22.019",
+    "description": "I have been collecting data (Ha, O3, RGB) for this target for the last two months, when the sky was clear of clouds and rain :-) \r\nFor this image I used the RGB data collected over two nights in January, total 6 hours.\r\n\r\nRevision C  Image combines optical data from Hubble (in red) and X-ray images from Chandra (in blue). Mouse over to compare the Crab Pulsar position.\r\n\r\nRevision C is a cropped image of the Crab Nebula RGB rendition. Mouse over to compare the Crab Pulsar position with the Chandra image :-)",
+    "h": 2000,
+    "hash": "qif324",
+    "id": 558613,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "269.463",
+    "pixscale": "0.709",
+    "published": "2021-01-16T18:16:22.437649",
+    "ra": "83.629",
+    "radius": "0.331",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558613/",
+    "revisions": [
+        "/api/v1/imagerevision/269202/",
+        "/api/v1/imagerevision/269208/",
+        "/api/v1/imagerevision/269209/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "M1 The Crab Nebula (RGB)",
+    "updated": "2021-04-08T11:46:10.323974",
+    "uploaded": "2021-01-16T17:39:53.992867",
+    "url_duckduckgo": "https://www.astrobin.com/qif324/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qif324/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qif324/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qif324/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qif324/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qif324/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qif324/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2021/b4df9385-e191-455c-8a46-87f3073f665e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2021/b4df9385-e191-455c-8a46-87f3073f665e-1610819939.png",
+    "url_thumb": "https://www.astrobin.com/qif324/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 194,
+    "w": 2700
+}

@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "23.372",
+    "description": "The image shows a variety of dark nebulae from the LDN catalogue. The complex at the top consists, among others, of LDN 778, the lower one of LDN 767, 768 and 769 as well as vdB 126.\r\n\r\n144x5 min, gain 25, offset 50",
+    "h": 2564,
+    "hash": "jzdra1",
+    "id": 558009,
+    "imaging_cameras": [
+        "QHYCCD QHY 163C"
+    ],
+    "imaging_telescopes": [
+        "Vixen FL55SS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "http://deeplook.astronomie.at/ldn%20778.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813232/"
+    ],
+    "orientation": "359.223",
+    "pixscale": "4.344",
+    "published": "2021-01-14T12:48:39.588666",
+    "ra": "291.819",
+    "radius": "2.553",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/558009/",
+    "revisions": [
+        "/api/v1/imagerevision/268867/"
+    ],
+    "subjects": [
+        "6 alf Vul",
+        "8 Vul",
+        "Anser",
+        "NGC 6793",
+        "NGC6793",
+        "PK056+04.1",
+        "PK057+01.1",
+        "PK057+02.1",
+        "PK059+02.1",
+        "The star 8Vul",
+        "The star αVul",
+        "VdB126"
+    ],
+    "title": "LDN 778 & vdB 126 and many more LDN nebulae",
+    "updated": "2021-06-05T12:23:38.339192",
+    "uploaded": "2021-01-14T12:45:43.337615",
+    "url_duckduckgo": "https://www.astrobin.com/jzdra1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jzdra1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jzdra1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jzdra1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jzdra1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jzdra1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jzdra1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/62588/2021/8ab40a56-09ce-4969-8c94-3e5dda638b8f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/62588/2021/8ab40a56-09ce-4969-8c94-3e5dda638b8f-1610628598.jpg",
+    "url_thumb": "https://www.astrobin.com/jzdra1/0/rawthumb/thumb/",
+    "user": "Markus_Blauensteiner",
+    "views": 236,
+    "w": 3366
+}

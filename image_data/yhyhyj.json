@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-40.403",
+    "description": "Prawn Nebula \r\n4 hrs Narrowband.\r\nAll data taken at Bin1",
+    "h": 2048,
+    "hash": "yhyhyj",
+    "id": 481948,
+    "imaging_cameras": [
+        "QSI 583 ws"
+    ],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "89.633",
+    "pixscale": "1.515",
+    "published": "2020-04-26T00:55:14.261164",
+    "ra": "254.371",
+    "radius": "0.567",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481948/",
+    "revisions": [
+        "/api/v1/imagerevision/229434/"
+    ],
+    "subjects": [
+        "IC 4628"
+    ],
+    "title": "Prawn Nebula",
+    "updated": "2021-03-17T02:44:40.123582",
+    "uploaded": "2020-04-26T01:55:14.409246",
+    "url_duckduckgo": "https://www.astrobin.com/yhyhyj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yhyhyj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yhyhyj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yhyhyj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yhyhyj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yhyhyj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yhyhyj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3831/2020/b0460381-a365-42a4-856c-03ab67261323.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3831/2020/b0460381-a365-42a4-856c-03ab67261323-1587867225.JPG",
+    "url_thumb": "https://www.astrobin.com/yhyhyj/0/rawthumb/thumb/",
+    "user": "DaveMoulton",
+    "views": 160,
+    "w": 1752
+}

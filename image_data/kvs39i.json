@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.210",
+    "description": "Perseus double cluster. NGC 884, 869. RGB 2.5,2,3 hours",
+    "h": 4950,
+    "hash": "kvs39i",
+    "id": 562221,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808682/"
+    ],
+    "orientation": "285.839",
+    "pixscale": "1.237",
+    "published": "2021-01-30T14:39:09.716223",
+    "ra": "35.187",
+    "radius": "1.278",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/562221/",
+    "revisions": [],
+    "subjects": [
+        "NGC 869",
+        "NGC 884",
+        "The star 7Per",
+        "The star 8Per",
+        "chi Persei Cluster",
+        "h Persei Cluster"
+    ],
+    "title": "Perseus double cluster",
+    "updated": "2021-06-22T03:18:56.388990",
+    "uploaded": "2021-01-30T14:22:09.439730",
+    "url_duckduckgo": "https://www.astrobin.com/kvs39i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kvs39i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kvs39i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kvs39i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kvs39i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kvs39i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kvs39i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2884/2021/fc1d4a33-fe36-4f3a-827b-078a964431fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2884/2021/fc1d4a33-fe36-4f3a-827b-078a964431fd-1612017637.jpg",
+    "url_thumb": "https://www.astrobin.com/kvs39i/0/rawthumb/thumb/",
+    "user": "darkmatter3",
+    "views": 162,
+    "w": 5553
+}

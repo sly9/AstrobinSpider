@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "38.332",
+    "description": "Astrodon 3nm Ha: 180x600\" (gain: 139.00) -15C\r\nAstrodon 3nm OIII: 180x600\" (gain: 139.00) -19C\r\nAstrodon L, R, G, B: 300x30\" (gain: 139.00) -15C \r\n\r\nIntegration: 62.5 hours\r\nDarks: ~50\r\nBias: ~100\r\nBortle Dark-Sky Scale: 4.00",
+    "h": 5921,
+    "hash": "gah2as",
+    "id": 509375,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "87.518",
+    "pixscale": "0.244",
+    "published": "2020-07-26T03:50:00.188516",
+    "ra": "303.057",
+    "radius": "0.332",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/509375/",
+    "revisions": [
+        "/api/v1/imagerevision/243129/",
+        "/api/v1/imagerevision/243191/",
+        "/api/v1/imagerevision/243192/"
+    ],
+    "subjects": [
+        "Crescent Nebula",
+        "NGC 6888"
+    ],
+    "title": "The Crescent Nebula (Ha / Oiii / RGB)",
+    "updated": "2021-06-21T09:16:06.686333",
+    "uploaded": "2020-07-26T04:50:00.625816",
+    "url_duckduckgo": "https://www.astrobin.com/gah2as/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gah2as/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gah2as/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gah2as/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gah2as/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gah2as/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gah2as/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22314/2020/9b028051-0630-4d46-b110-ad8f4a1bb7a0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22314/2020/9b028051-0630-4d46-b110-ad8f4a1bb7a0-1595739380.jpg",
+    "url_thumb": "https://www.astrobin.com/gah2as/0/rawthumb/thumb/",
+    "user": "Mr_42tr0nomy",
+    "views": 496,
+    "w": 7813
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 25,
+    "data_source": "TRAVELLER",
+    "dec": "30.473",
+    "description": "Discovered by Rebecca Jones, 1941",
+    "h": 3193,
+    "hash": "ztmddu",
+    "id": 526933,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro (Mono)"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 291,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814414/"
+    ],
+    "orientation": "182.231",
+    "pixscale": "0.979",
+    "published": "2020-09-25T15:09:14.420181",
+    "ra": "353.971",
+    "radius": "0.742",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526933/",
+    "revisions": [
+        "/api/v1/imagerevision/251694/"
+    ],
+    "subjects": [
+        "PK111+11.1"
+    ],
+    "title": "Jones 1",
+    "updated": "2021-04-23T05:09:36.787745",
+    "uploaded": "2020-09-25T15:58:56.968100",
+    "url_duckduckgo": "https://www.astrobin.com/ztmddu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ztmddu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ztmddu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ztmddu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ztmddu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ztmddu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ztmddu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6542/2020/9938bab1-8ee5-40f9-b360-db9c6f16a08d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6542/2020/9938bab1-8ee5-40f9-b360-db9c6f16a08d-1601050536.jpg",
+    "url_thumb": "https://www.astrobin.com/ztmddu/0/rawthumb/thumb/",
+    "user": "Magellen",
+    "views": 571,
+    "w": 4426
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "56.327",
+    "description": "Tried to capture the stellar stream of this galaxy, but even after 12 hours, it was a little bit too faint for my Bortle 3/4 sky. Only the brightest part of the stream is barely visible.",
+    "h": 2971,
+    "hash": "forrop",
+    "id": 482762,
+    "imaging_cameras": [
+        "ZWO ASI183MC Pro",
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TS PHOTON 150/750"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810001/"
+    ],
+    "orientation": "179.824",
+    "pixscale": "0.660",
+    "published": "2020-04-27T19:50:59.144261",
+    "ra": "228.963",
+    "radius": "0.461",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482762/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5907",
+        "NGC5906",
+        "NGC5907"
+    ],
+    "title": "The Splinter Galaxy (NGC 5907)",
+    "updated": "2021-04-11T22:06:20.922810",
+    "uploaded": "2020-04-27T20:50:59.304406",
+    "url_duckduckgo": "https://www.astrobin.com/forrop/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/forrop/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/forrop/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/forrop/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/forrop/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/forrop/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/forrop/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30263/2020/494674ca-e750-4b8d-95cf-74f425267ba3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30263/2020/494674ca-e750-4b8d-95cf-74f425267ba3-1588021146.jpg",
+    "url_thumb": "https://www.astrobin.com/forrop/0/rawthumb/thumb/",
+    "user": "CosmoNowa",
+    "views": 381,
+    "w": 4057
+}

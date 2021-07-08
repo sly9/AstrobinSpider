@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 7,
+    "data_source": "MIX",
+    "dec": "42.026",
+    "description": "This image is a combination of my own data take with an Esprit150 and an OSC (15 hours) from my balcony in Limassol Cyprus and 2 hours data (applied as L) from telescope T18 (Planewave CDK 318mm) from AstroCamp (itelescope.net) in Spain. Although the pixel scale is almost identical, due to the different orientation of the cameras, there is no colour in the four corners of the final image :-)\r\nThe amount of details in just 2 hours Luminance exposure from a dark sky, wins over the 15hours data from my Bortle 6/7 skies!\r\n\r\nRevision A: The final, cropped L(RGB)  image (cropped to avoid colourless stars).\r\nRevision B: The original image, cropped, used as RGB (mouse over to compare).\r\nRevision C: The actual processed, uncropped L data from the T8 (Planewave CDK 318mm) from AstroCamp (itelescope.net) in Spain (mouse over to compare).\r\nRevision D: The original image, aligned, used as RGB (mouse over to compare).\r\nRevision E: The final, uncropped image L(RGB), with uncoloured stars at the four corners.\r\n\r\nThis was a very interesting experiment in order to evaluate the effects of the light pollution in capturing the faint halo/structure around the galaxies and how the data acquired from telescopes in dark skies can be used to enhance the images taken from our back yards in light polluted cities.  \r\n\r\nI hope you like this, I had a great time working on this project!",
+    "h": 1969,
+    "hash": "avqous",
+    "id": 574754,
+    "imaging_cameras": [
+        "ZWO asi 2600 MC"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 166,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "344.846",
+    "pixscale": "0.720",
+    "published": "2021-03-17T21:03:41.664500",
+    "ra": "198.953",
+    "radius": "0.272",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/574754/",
+    "revisions": [
+        "/api/v1/imagerevision/278372/",
+        "/api/v1/imagerevision/278516/",
+        "/api/v1/imagerevision/278517/",
+        "/api/v1/imagerevision/278518/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "Sunflower Galaxy",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 The Sunflower Galaxy - an experimental project in combining data from two different telescopes",
+    "updated": "2021-05-18T02:18:13.498915",
+    "uploaded": "2021-03-16T21:51:59.886066",
+    "url_duckduckgo": "https://www.astrobin.com/avqous/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/avqous/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/avqous/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/avqous/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/avqous/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/avqous/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/avqous/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2021/46fb1272-9d00-496f-aa16-91b1de3fb649.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2021/46fb1272-9d00-496f-aa16-91b1de3fb649-1615931999.png",
+    "url_thumb": "https://www.astrobin.com/avqous/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 357,
+    "w": 1876
+}

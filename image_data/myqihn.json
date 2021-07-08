@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 32,
+    "data_source": "OWN_REMOTE",
+    "dec": "50.348",
+    "description": "Well, I called this the \"Almost Nothing\" Nebula because every reference I ran across states that there is \"Almost Nothing\" written about SH2-124.   It has been imaged here on AB about 25 times but none has received a Top Pick or IOTD, so its profile is pretty low.\r\n\r\nAlmost Nothing is located in Cygnus where it seems is almost everything during the Summer!  This resembles the Trifid a bit and that's what caught my eye.  \r\n\r\nThe color mix here is SHO and the Luminance is Ha.   I ran Photometric Color Correction prior to stretching with Arc Sinh stretch.  I stretched both the SHO mix and the Ha with Arc Sinh.  I don't normally stretch the Luminance channel with Arc Sinh, but I needed to reduce the stars and Arc Sinh is good at that.  This is a rich star field and and the stars were hiding the nebulosity.  \r\n\r\nStars were removed using the PS fill command on a star selection I created using StarNet++ and a difference layer.  That allowed me to be more aggressive with Saturation, High Pass Filtering, Unsharp Masking, and curves.  Stars were added back at the end.  Star color is the calibrated Narrowband data.",
+    "h": 2958,
+    "hash": "myqihn",
+    "id": 515508,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 215,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "15.226",
+    "pixscale": "0.609",
+    "published": "2020-08-17T06:17:15.918477",
+    "ra": "324.742",
+    "radius": "0.455",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/515508/",
+    "revisions": [
+        "/api/v1/imagerevision/245881/"
+    ],
+    "subjects": [
+        "Sh2-124"
+    ],
+    "title": "SH2-124 | The Almost Nothing Nebula",
+    "updated": "2021-04-11T16:53:08.694306",
+    "uploaded": "2020-08-17T06:55:26.494153",
+    "url_duckduckgo": "https://www.astrobin.com/myqihn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/myqihn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/myqihn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/myqihn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/myqihn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/myqihn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/myqihn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/3e343a69-ad67-49d1-9bb8-16ae279b3d53.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/3e343a69-ad67-49d1-9bb8-16ae279b3d53-1597648586.jpg",
+    "url_thumb": "https://www.astrobin.com/myqihn/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 743,
+    "w": 4494
+}

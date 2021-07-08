@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "72.524",
+    "description": "Another tiny (56 arc sec), bright planetary nebula in Cepheus that I can capture during full moon.  The Ha signal is much stronger than OIII, so the OIII emission appears as pink rather than blue-green.",
+    "h": 1443,
+    "hash": "e5xijw",
+    "id": 555839,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 131,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "3.366",
+    "pixscale": "0.267",
+    "published": "2021-01-06T14:47:00.496646",
+    "ra": "3.250",
+    "radius": "0.077",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/555839/",
+    "revisions": [
+        "/api/v1/imagerevision/267807/"
+    ],
+    "subjects": [
+        "Bow-Tie nebula",
+        "NGC 40",
+        "NGC40",
+        "PK120+09.1"
+    ],
+    "title": "NGC 40",
+    "updated": "2021-04-22T18:10:31.190673",
+    "uploaded": "2021-01-06T14:13:21.744700",
+    "url_duckduckgo": "https://www.astrobin.com/e5xijw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/e5xijw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/e5xijw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/e5xijw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/e5xijw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/e5xijw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/e5xijw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2021/aef41963-1d1c-44b2-b794-c58c1a1939e4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2021/aef41963-1d1c-44b2-b794-c58c1a1939e4-1609942596.jpg",
+    "url_thumb": "https://www.astrobin.com/e5xijw/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 393,
+    "w": 1486
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 50,
+    "data_source": "BACKYARD",
+    "dec": "-43.028",
+    "description": "I imaged the fantastic galaxy, Centaurus A - NGC 5128 in April. Such an iconic and famous galaxy that graces our southern skies had to be one of my first targets with my new deep sky set up when it came around. I have imaged it once before with my ASI 1600MC at Prime Focus on the C14 Edge HD, which gave me an inkling of its interesting complexity. This size of galaxy is perfect for my set up with the 0.5 degree square FOV and 0.47\"/pxl image scale. \r\nAcquisition details:\r\n23 hours total image integration:\r\nLights:\r\nLuminance 28 x 600 secs\r\nRed 20 x 600 secs\r\nGreen 21 x 600 secs\r\nBlue 21 x 600 secs\r\nHa 16 x 1800 secs\r\nBias: 35\r\nDarks: 35\r\nFlats: 20 per colour channel per camera change\r\nI was in some doubt as to whether it was worthwhile capturing Ha, but was pleasantly surprised at just how much came through in the image. The central dust lane has a large number of knots of Ha and there is a most interesting line of intense Ha emission to the north (towards 10 o'clock). Further away, again to the north but more towards 11 o'clock, in the top left corner of the image, there is a distinct, but more diffuse Ha area. This is consistent with other images I have seen, such as the lovely wider field image by Terry Robison:\r\nhttps://www.astrobin.com/jiaxxh/?nc=user\r\nThese Ha emission areas seem to be roughly co-linear with the relativistic jets that are pouring out from the central black hole of 55 million solar masses and are mostly perpendicular to the plane of the dust lane. Perhaps hydrogen gas in these regions is being stimulated into emission by the stream of radiation and energetic particles.\r\nI am pleased to have picked up the hugely wide envelope of the galaxy and the extent seen above and below the plane of the galaxy corresponds well with images of the galaxy at differing wavelengths.\r\nThe dust lane is amazing and seems to be like smoke blowing in the wind as it is apparently being ripped apart as a consequence of the merger of two galaxies. Little black knots of dust can be seen north and south of the galactic plane and quite widely separated from the main dust lane.\r\nAt the northern edge of the dust lane (upper right), and to a lesser extent to the south (lower left), there seems to be a condensation of stars and this has more of the form we would expect to see in the spiral arms of a galaxy. Perhaps these are remnants of the spiral arms of one of the galaxies that was involved in this collision. It is assumed that Centaurus A will eventual evolve into a giant lenticular  or elliptical galaxy.\r\nAccording to Wikipedia the relativistic jet \"is responsible for emissions in the X-ray and radio wavelengths. By taking radio observations of the jet separated by a decade, astronomers have determined that the inner parts of the jet are moving at about half of the speed of light. X-rays are produced farther out as the jet collides with surrounding gases, resulting in the creation of highly energetic particles. The X-ray jets of Centaurus A are thousands of light-years long, while the radio jets are over a million light-years long.\"\r\nCentaurus A is one of the brightest galaxies in visible light, X-ray and radio. It is about 2/3s the diameter of the Milky Way and 10-16 million light years away.\r\nWhat a thing!\r\nA zoomed in view of the central dust lane is shown in Version D.",
+    "h": 3956,
+    "hash": "kc5hva",
+    "id": 589460,
+    "imaging_cameras": [
+        "SBIG 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 190,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.399",
+    "pixscale": "0.476",
+    "published": "2021-05-14T03:03:37.512759",
+    "ra": "201.361",
+    "radius": "0.363",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/589460/",
+    "revisions": [
+        "/api/v1/imagerevision/287308/",
+        "/api/v1/imagerevision/287310/"
+    ],
+    "subjects": [
+        "Centaurus A",
+        "NGC 5128",
+        "NGC5128"
+    ],
+    "title": "Centaurus A - NGC 5128",
+    "updated": "2021-07-05T18:37:59.453922",
+    "uploaded": "2021-05-14T02:05:56.330084",
+    "url_duckduckgo": "https://www.astrobin.com/kc5hva/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kc5hva/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kc5hva/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kc5hva/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kc5hva/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kc5hva/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kc5hva/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20830/2021/7e374ad9-d74e-49ce-b177-27dd78119dcf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20830/2021/7e374ad9-d74e-49ce-b177-27dd78119dcf-1620961162.jpg",
+    "url_thumb": "https://www.astrobin.com/kc5hva/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 333,
+    "w": 3799
+}

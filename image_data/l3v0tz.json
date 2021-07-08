@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "1.959",
+    "description": "My observatory is located in the Patagonia Mountains in Southern Arizona about 5 miles from the US, Mexico boarder. I broke ground on this project April, 2018 and have continued to work on it over weekends and occasional vacations. I moved my gear into the observatory Jan 16, 2021. This image represents the first two nights of remote operation. The first night I operated the observatory from the house next to the observatory, and the second night from my home in Tucson, 90 miles and 2 hours away by car. I'll post more details on my observatory in the future.\r\n\r\nLDN 1622 is a dark nebula located in the constellation Orion near the figure's sword belt. It obscures the red emission nebula behind it creating the silhouette of an ominous figure. \r\n\r\nAfter acquiring this data, I realize I made a mistake in acquisition. The ASI294mm has a high conversion gain mode that kicks in at a gain 120. This mode reduces the read noise from ~5.8e to ~1.7e resulting in increased dynamic range. It looks like I lost 1 stop of dynamic range. I am looking forward to correcting this in my next imaging session.\r\n\r\nAcquisition Details:\r\nDates: 1/16/2021 - 1/17/2021\r\nGain 110, temp -20C, 2x2 binning\r\nR: 80 x 180 sec\r\nG: 79 x 180 sec\r\nB: 79 x 180 sec\r\nTotal integration time: 11.9 hours",
+    "h": 2640,
+    "hash": "l3v0tz",
+    "id": 560938,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX 130T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806605/"
+    ],
+    "orientation": "65.973",
+    "pixscale": "1.036",
+    "published": "2021-01-24T18:39:37.219027",
+    "ra": "88.735",
+    "radius": "0.685",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/560938/",
+    "revisions": [
+        "/api/v1/imagerevision/270492/",
+        "/api/v1/imagerevision/270494/",
+        "/api/v1/imagerevision/270495/",
+        "/api/v1/imagerevision/270568/"
+    ],
+    "subjects": [
+        "VdB62",
+        "VdB63"
+    ],
+    "title": "Boogie Man Nebula (LDN 1622) and First Light from Homebuilt Remote Observatory",
+    "updated": "2021-06-26T11:04:45.983270",
+    "uploaded": "2021-01-24T18:25:47.061972",
+    "url_duckduckgo": "https://www.astrobin.com/l3v0tz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l3v0tz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l3v0tz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l3v0tz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l3v0tz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l3v0tz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l3v0tz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15584/2021/da4e825c-53ed-41ba-b663-2046fb46c214.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15584/2021/da4e825c-53ed-41ba-b663-2046fb46c214-1611513160.jpg",
+    "url_thumb": "https://www.astrobin.com/l3v0tz/0/rawthumb/thumb/",
+    "user": "andrewjbarton",
+    "views": 254,
+    "w": 3964
+}

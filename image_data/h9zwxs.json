@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "46.813",
+    "description": "Cygnus is a rich field of objects for we Northern imagers.  I wanted to try and target one of the less often seen nebulae, but also gain some long FL data that I could also use for blending with a wide-field image I'm shooting from the backyard.  \r\n\r\nI shot this with SHO filters, however the blend is Ha as luminance and an S-O bi-color for the color.  The Ha is very strong here while the OIII is weak so the SII was a better match for the color channel.\r\n\r\nNebula processing was done starlessly with the narrowband stars added back later.  Star removal used Starnet++ to identify the stars and Photoshop's fill function to replace them.   Noise reduction with Topaz De-Noise AI.   Sharpening and contrast adjustments via High Pass and Unsharp filters.",
+    "h": 3004,
+    "hash": "h9zwxs",
+    "id": 508921,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "243.147",
+    "pixscale": "0.609",
+    "published": "2020-07-24T17:17:36.921364",
+    "ra": "308.681",
+    "radius": "0.423",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/508921/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-115"
+    ],
+    "title": "SH2-115 | A Lesser Cygnus Nebula",
+    "updated": "2021-03-16T23:26:35.662771",
+    "uploaded": "2020-07-24T18:00:59.052894",
+    "url_duckduckgo": "https://www.astrobin.com/h9zwxs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h9zwxs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h9zwxs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h9zwxs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h9zwxs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h9zwxs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h9zwxs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/3877da93-2acb-4584-a6cd-c18dbb49b525.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/3877da93-2acb-4584-a6cd-c18dbb49b525-1595614677.jpg",
+    "url_thumb": "https://www.astrobin.com/h9zwxs/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 308,
+    "w": 3995
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "31.601",
+    "description": "This part of the Cirrus Nebula complex is called Pickerings Trangle (NGC 6979). Shot in a windy night with imaging time limited by clouds and rain.\r\n\r\nTS Photoline 130/910 with TSRED379 reducer and ASI294mcp.\r\n\r\n34 x 200s Ha\r\n20 x 200s OIII",
+    "h": 4639,
+    "hash": "79wqmc",
+    "id": 519069,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "359.683",
+    "pixscale": "1.060",
+    "published": "2020-08-29T12:56:58.873879",
+    "ra": "312.197",
+    "radius": "0.854",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/519069/",
+    "revisions": [
+        "/api/v1/imagerevision/247642/",
+        "/api/v1/imagerevision/247676/"
+    ],
+    "subjects": [
+        "NGC 6979"
+    ],
+    "title": "Pickering's Triangle NGC 6979",
+    "updated": "2021-05-31T06:32:56.994929",
+    "uploaded": "2020-08-29T13:51:59.709816",
+    "url_duckduckgo": "https://www.astrobin.com/79wqmc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/79wqmc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/79wqmc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/79wqmc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/79wqmc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/79wqmc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/79wqmc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/201380a6-70a2-4252-8306-1fd62ac623f9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/201380a6-70a2-4252-8306-1fd62ac623f9-1598709494.jpg",
+    "url_thumb": "https://www.astrobin.com/79wqmc/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 690,
+    "w": 3489
+}

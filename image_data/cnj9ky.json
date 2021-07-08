@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "61.922",
+    "description": "There is a nice collection of objects in this region of the constellation Cepheus. On the lower left of this image is The Cave Nebula (Sh2-155, Caldwell 9) with a bright rim of glowing gases ionized by the hot blue-white stars in the vicinity. The crescent-shaped cave structure is 10 light years across and a fan of atomic oxygen stretches out from the ridge, perforated by channels and Bok globules. At the left center of the image is a blue reflection nebula, vdB 155, and the diffuse red object in the upper right is the emission nebula, Sh2-154. Finally, the kingdom is graced by a beautiful golden, pear-shaped open star cluster in the right center cataloged at NGC7419.\r\n\r\nThe data for this image were collected in a week-long stretch of clear night skies in October. The data quality was excellent and the light subs used in this image had HFR ranging from 1.5-1.9. The processing approach was an SHO build with Hubble standard color assignments, an Ha luminance mask, and RGB star color.",
+    "h": 3413,
+    "hash": "cnj9ky",
+    "id": 535819,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "96.365",
+    "pixscale": "2.303",
+    "published": "2020-10-28T04:29:45.256418",
+    "ra": "343.590",
+    "radius": "1.810",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535819/",
+    "revisions": [
+        "/api/v1/imagerevision/257232/"
+    ],
+    "subjects": [
+        "NGC 7419",
+        "NGC7419",
+        "PK110+01.1",
+        "Sh2-154",
+        "Sh2-155",
+        "VdB155"
+    ],
+    "title": "The Beautiful Objects in the Kingdom of Athiopia",
+    "updated": "2021-07-04T17:34:20.553168",
+    "uploaded": "2020-10-28T04:29:45.817945",
+    "url_duckduckgo": "https://www.astrobin.com/cnj9ky/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cnj9ky/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cnj9ky/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cnj9ky/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cnj9ky/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cnj9ky/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cnj9ky/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/4d74cc03-9479-4ac1-88f7-6082929c1302.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/4d74cc03-9479-4ac1-88f7-6082929c1302-1603859614.jpg",
+    "url_thumb": "https://www.astrobin.com/cnj9ky/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 231,
+    "w": 4514
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "68.118",
+    "description": "Iris Nebula Widefield in LRGB\r\n\r\nIncludes the region of the Ghost Nebula (vdb141) on the left, and LBN468 with its dusty knots and Herbig-Haro objects on the right. \r\n\r\nImaged at 2x2 binning then drizzle integrated at 2x before cropping and post-processing. Later downscaled to FWHM=3 (from 4.5) pixels in final versions.\r\n\r\nSky brightness SQM 20.51 with minor occasional smoke and haze.\r\n\r\n---\r\n\r\nUpdate: I decided about a week after posting this photo repeat the imaging of this region, instead with my RASA.  It produced the better result: https://www.astrobin.com/v30sgb/",
+    "h": 3240,
+    "hash": "at6y9a",
+    "id": 530227,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star71-II"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814650/"
+    ],
+    "orientation": "6.331",
+    "pixscale": "3.387",
+    "published": "2020-10-05T19:37:41.236829",
+    "ra": "314.024",
+    "radius": "3.109",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/530227/",
+    "revisions": [
+        "/api/v1/imagerevision/254610/"
+    ],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023",
+        "The star 4Cep"
+    ],
+    "title": "Iris Nebula Widefield in LRGB",
+    "updated": "2021-07-07T19:57:25.758836",
+    "uploaded": "2020-10-05T20:23:31.276356",
+    "url_duckduckgo": "https://www.astrobin.com/at6y9a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/at6y9a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/at6y9a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/at6y9a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/at6y9a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/at6y9a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/at6y9a/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/69001/2020/74f9fbbe-e6cd-4d44-bf1d-b1ec743293a2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/69001/2020/74f9fbbe-e6cd-4d44-bf1d-b1ec743293a2-1601930590.jpg",
+    "url_thumb": "https://www.astrobin.com/at6y9a/0/rawthumb/thumb/",
+    "user": "JimLindelien",
+    "views": 225,
+    "w": 5760
+}

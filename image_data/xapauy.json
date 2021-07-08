@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "59.154",
+    "description": "Barnard 174 / LDN1164\r\n\r\n\r\nObject : Barnard 174 / LDN1164\r\nDate :  Oct.2018 -Oct.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope  : GSO RC10 ,\r\nMount : Skywatcher EQ8\r\nCamera : SX-H694(-10ºC) ,\r\nFilters : Astrodon LRGB \r\nExposure : L:300sx36,R:300sx27,G:300sx26,B:300sx27 ( ~9.7hr)\r\nGuiding : OAG/ asi174 , \r\nImage Processing : PI ,PS-CC",
+    "h": 2143,
+    "hash": "xapauy",
+    "id": 550019,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "https://astro-noodle.blogspot.com/2020/12/b174.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "88.761",
+    "pixscale": "0.669",
+    "published": "2020-12-16T03:35:51.203475",
+    "ra": "331.811",
+    "radius": "0.319",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/550019/",
+    "revisions": [],
+    "subjects": [
+        "B174"
+    ],
+    "title": "Barnard 174",
+    "updated": "2021-06-07T05:04:35.876141",
+    "uploaded": "2020-12-16T03:30:56.148054",
+    "url_duckduckgo": "https://www.astrobin.com/xapauy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xapauy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xapauy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xapauy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xapauy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xapauy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xapauy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/cbdd12de-7b7b-4cd4-b12b-325169fdf1e3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/cbdd12de-7b7b-4cd4-b12b-325169fdf1e3-1608089747.png",
+    "url_thumb": "https://www.astrobin.com/xapauy/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 393,
+    "w": 2680
+}

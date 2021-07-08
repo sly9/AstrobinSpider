@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 54,
+    "data_source": "BACKYARD",
+    "dec": "68.278",
+    "description": "This ghost gave me a lot of work. The signal was very diffcult to extract from the background as the flats were not good. My friend Philippe Lamothe sent me the data to see what surgery was possible. I made a synthetic flat with CS and tried to adjust it the best way. I also used localised masks and Density Tools to get the signal out of the background and correct some donuts.\r\n\r\nThe image is taken with an Moravian G2-4000 ( 85 x 300s) and the ASI 294 Pro (185 x 300s).\r\n\r\nAs a result, there are still some regions with noise and a few signal issues in the low lights, but I like it anyway. We saved these 20 hours data :)\r\n\r\n\r\nJF",
+    "h": 1465,
+    "hash": "oute5w",
+    "id": 535652,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro",
+        "Moravian G2-4000"
+    ],
+    "imaging_telescopes": [
+        "TS Optics RC 14\" Ritchey Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 399,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814698/"
+    ],
+    "orientation": "214.908",
+    "pixscale": "0.539",
+    "published": "2020-10-27T11:58:23.002423",
+    "ra": "319.063",
+    "radius": "0.182",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535652/",
+    "revisions": [
+        "/api/v1/imagerevision/258595/"
+    ],
+    "subjects": [],
+    "title": "Fantôme de Céphée",
+    "updated": "2021-06-28T15:23:16.539141",
+    "uploaded": "2020-10-27T11:42:03.889594",
+    "url_duckduckgo": "https://www.astrobin.com/oute5w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/oute5w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/oute5w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/oute5w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/oute5w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/oute5w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/oute5w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2020/91bbd470-1958-4075-b6f8-a9265709b09d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2020/91bbd470-1958-4075-b6f8-a9265709b09d-1603800432.jpg",
+    "url_thumb": "https://www.astrobin.com/oute5w/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 1051,
+    "w": 1944
+}

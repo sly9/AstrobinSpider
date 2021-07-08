@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "38.046",
+    "description": "PN G75.5+1.7 (Soap Bubble nebula)\r\nTelescope SW300/1500\r\nMount EQ6 Pro SynScan\r\nCamera ZWO ASI 1600MM-Cool\r\nFilter Wheel ZWO\r\nZWO Halfa filter 17x240 sec (gain: 139.00) -15C bin 1x1\r\nZWO OIII filter 20x240 sec (gain: 139.00) -15C bin 1x1\r\nSize 40%\r\nCrop\r\nMaximDL, Fitstacker, Fitswork, PS",
+    "h": 754,
+    "hash": "0pyzec",
+    "id": 498400,
+    "imaging_cameras": [
+        "ASI ZWO 1600 MM Cool"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher SW300/1500"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804162/"
+    ],
+    "orientation": "6.483",
+    "pixscale": "1.312",
+    "published": "2020-06-18T08:12:31.208978",
+    "ra": "303.840",
+    "radius": "0.228",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498400/",
+    "revisions": [],
+    "subjects": [],
+    "title": "PN G75.5+1.7 (Soap Bubble nebula)",
+    "updated": "2021-03-17T01:12:43.719181",
+    "uploaded": "2020-06-18T09:12:31.450524",
+    "url_duckduckgo": "https://www.astrobin.com/0pyzec/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0pyzec/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0pyzec/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0pyzec/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0pyzec/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0pyzec/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0pyzec/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14505/2020/899d902f-b169-43fa-aa1b-59d8cf3b1326.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14505/2020/899d902f-b169-43fa-aa1b-59d8cf3b1326-1592471926.jpg",
+    "url_thumb": "https://www.astrobin.com/0pyzec/0/rawthumb/thumb/",
+    "user": "anz",
+    "views": 131,
+    "w": 1000
+}

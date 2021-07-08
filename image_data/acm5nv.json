@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "60.353",
+    "description": "Soul nebula in SHO with Ha Stars\r\nMosaic 2x1 taken over a few nights in january 2021\r\nVery poor seeing for Oiii and Sii",
+    "h": 3819,
+    "hash": "acm5nv",
+    "id": 557318,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics Zenithstar 103"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811992/"
+    ],
+    "orientation": "187.109",
+    "pixscale": "1.360",
+    "published": "2021-01-11T23:13:11.307000",
+    "ra": "43.756",
+    "radius": "1.283",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557318/",
+    "revisions": [
+        "/api/v1/imagerevision/268546/",
+        "/api/v1/imagerevision/268643/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "Soul Nebula (SHO)",
+    "updated": "2021-07-05T19:14:34.124532",
+    "uploaded": "2021-01-11T22:44:29.702167",
+    "url_duckduckgo": "https://www.astrobin.com/acm5nv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/acm5nv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/acm5nv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/acm5nv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/acm5nv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/acm5nv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/acm5nv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/44337/2021/c06fa870-4d4c-42dc-aa0a-e6038b2172b8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/44337/2021/c06fa870-4d4c-42dc-aa0a-e6038b2172b8-1610407049.png",
+    "url_thumb": "https://www.astrobin.com/acm5nv/0/rawthumb/thumb/",
+    "user": "gdornier",
+    "views": 228,
+    "w": 5613
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "10.499",
+    "description": "Telescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803\r\nMount : RainbowAstro RST-135\r\nFilters : Astrodon 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI120mm mini\r\nExposure : L 600s x41(1bin), RGB each 600s x 16(2bin) Total 14.83 hours\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 4000,
+    "hash": "osp73p",
+    "id": 554029,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "357.943",
+    "pixscale": "3.495",
+    "published": "2020-12-30T04:14:43.832792",
+    "ra": "99.122",
+    "radius": "2.746",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/554029/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree Cluster",
+        "IC 446",
+        "IC 447",
+        "NGC 2259",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "NGC2264 wide field",
+    "updated": "2021-04-13T04:28:10.287719",
+    "uploaded": "2020-12-30T04:14:44.038535",
+    "url_duckduckgo": "https://www.astrobin.com/osp73p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/osp73p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/osp73p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/osp73p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/osp73p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/osp73p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/osp73p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/dd59a31e-492c-44f8-9f25-340f65f47ebb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/dd59a31e-492c-44f8-9f25-340f65f47ebb-1609301980.jpg",
+    "url_thumb": "https://www.astrobin.com/osp73p/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 259,
+    "w": 4000
+}

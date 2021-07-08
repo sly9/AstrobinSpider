@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Continuing my imaging of Venus during the 2019-2020 evening apparition. \r\n\r\nThese images were captured on the night of April 18, 2020 (April 19 in UTC). Venus was ~35% illuminated in this image. The red channel uses data from an IR pass filter and the Blue channel uses data from a combined W47 Violet and BG-39 filter to capture some near-UV. The seeing was below average to average this night.  Was hoping to pick up some hint of cloud structure with the near-UV filter combo with the seeing a bit improved, but still hard to detect much in there...\r\n\r\nImaged with a C8 Evo, ZWO ADC, Baader IR 685nm pass and W47+UG39 filters, and ZWO ASI290MM. Imaging train was configured to give me ~F/20. Image capture using Firecapture (see below for exposure settings). Stacking in AutoStakkert3 (best 10% of ~50000 frames captured over 180 seconds). Color balancing and Wavelet sharpening in Registax6. Derotated and combined three images in WinJUPOS for both the W47+UG39 and IRpass filters.",
+    "h": 500,
+    "hash": "53iaca",
+    "id": 481442,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron Nextstar Evolution C8"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806888/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-24T23:11:33.435710",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481442/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Venus on 2020-04-18 (Near-UV and IR)",
+    "updated": "2021-03-17T02:47:28.130502",
+    "uploaded": "2020-04-25T00:11:34.380051",
+    "url_duckduckgo": "https://www.astrobin.com/53iaca/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/53iaca/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/53iaca/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/53iaca/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/53iaca/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/53iaca/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/53iaca/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/53iaca/0/rawthumb/thumb/",
+    "user": "JDJ",
+    "views": 60,
+    "w": 900
+}

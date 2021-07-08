@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "67.599",
+    "description": "First try did not preserve details and had star halos. Hopefylly better here.",
+    "h": 1319,
+    "hash": "wmlobh",
+    "id": 485217,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM Pro Cooled"
+    ],
+    "imaging_telescopes": [
+        "William Optics SpaceCat 51"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802959/"
+    ],
+    "orientation": "57.715",
+    "pixscale": "7.128",
+    "published": "2020-05-04T09:42:11.282407",
+    "ra": "359.741",
+    "radius": "2.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/485217/",
+    "revisions": [
+        "/api/v1/imagerevision/231761/",
+        "/api/v1/imagerevision/231762/",
+        "/api/v1/imagerevision/248351/"
+    ],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822",
+        "NGC7762",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "NGC7822 Wide reprocessed",
+    "updated": "2021-03-17T02:26:56.193472",
+    "uploaded": "2020-05-04T10:38:29.262551",
+    "url_duckduckgo": "https://www.astrobin.com/wmlobh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wmlobh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wmlobh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wmlobh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wmlobh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wmlobh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wmlobh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2391/2020/6eeca0ec-b8c2-4ea4-af93-69e8fe046a0c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2391/2020/6eeca0ec-b8c2-4ea4-af93-69e8fe046a0c-1588588912.jpg",
+    "url_thumb": "https://www.astrobin.com/wmlobh/0/rawthumb/thumb/",
+    "user": "erikgu",
+    "views": 142,
+    "w": 1900
+}

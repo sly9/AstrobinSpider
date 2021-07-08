@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 29,
+    "data_source": "BACKYARD",
+    "dec": "36.156",
+    "description": "Voici la nébuleuse WR 134, dans la constellation du Cygne.\r\n\r\nIl s'agit d'une étoile variable en fin de vie, environ 400 000 fois plus lumineuse que le Soleil et qui éjecte périodiquement de grandes quantités de matière sous forme de vent stellaire à haute vélocité.\r\n\r\nA ce stade, le vent stellaire et le rayonnement génèrent et illuminent des structures dans l'environnement proche de l'étoile, matérialisées ici par la \"boucle\" bleue, qui n'est en réalité que la partie la plus visible d'une sorte de \"bulle\" plus ténue et difficile à mettre en évidence. Cette activité dure environ 1 million d'années avant que l'étoile n'explose en supernova.\r\n\r\nPhoto réalisée au cours de l'été dernier, en HOO + RGB pour les étoiles, Environ 17h de pose en Ha 3,5nm et 15h en OIII (4,5nm). 35h de pose au total.",
+    "h": 3586,
+    "hash": "qn3ucj",
+    "id": 487389,
+    "imaging_cameras": [
+        "Atik 16200M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 214,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804493/",
+        "/api/v1/location/2813405/"
+    ],
+    "orientation": "268.347",
+    "pixscale": "2.020",
+    "published": "2020-05-12T21:41:05.894558",
+    "ra": "301.872",
+    "radius": "1.610",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487389/",
+    "revisions": [
+        "/api/v1/imagerevision/232817/",
+        "/api/v1/imagerevision/232860/",
+        "/api/v1/imagerevision/233028/",
+        "/api/v1/imagerevision/233029/"
+    ],
+    "subjects": [
+        "27 b01 Cyg",
+        "28 b02 Cyg",
+        "B146",
+        "B147",
+        "IC 1310",
+        "NGC 6871",
+        "NGC 6883",
+        "NGC6871",
+        "NGC6883",
+        "The star 27Cyg",
+        "The star 28Cyg"
+    ],
+    "title": "WR 134 Nebula (HOO-RGB)",
+    "updated": "2021-06-16T12:49:20.853078",
+    "uploaded": "2020-05-12T21:05:47.983363",
+    "url_duckduckgo": "https://www.astrobin.com/qn3ucj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qn3ucj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qn3ucj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qn3ucj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qn3ucj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qn3ucj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qn3ucj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2200/2020/ee1ec6a7-67cb-4916-a618-2c64e0078198.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2200/2020/ee1ec6a7-67cb-4916-a618-2c64e0078198-1589502974.png",
+    "url_thumb": "https://www.astrobin.com/qn3ucj/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 751,
+    "w": 4479
+}

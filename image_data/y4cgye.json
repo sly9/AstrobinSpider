@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "47.248",
+    "description": "Closer view of the Cocoon Nebula\r\n\r\nLum : ASI174mm / 3,5h (70 x 3min)\r\nColour : Moravian G3-11000c / 1h (12 x 5min)",
+    "h": 1232,
+    "hash": "y4cgye",
+    "id": 525780,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 251,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.346",
+    "pixscale": "1.210",
+    "published": "2020-09-22T08:02:37.040995",
+    "ra": "328.386",
+    "radius": "0.388",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/525780/",
+    "revisions": [],
+    "subjects": [
+        "Cocoon Nebula",
+        "IC 5146"
+    ],
+    "title": "Cocoon Nebula",
+    "updated": "2021-03-16T19:58:41.632386",
+    "uploaded": "2020-09-22T08:52:02.492010",
+    "url_duckduckgo": "https://www.astrobin.com/y4cgye/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/y4cgye/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/y4cgye/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/y4cgye/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/y4cgye/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/y4cgye/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/y4cgye/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/1b0d4ecc-1bb7-4c91-91cd-2286d9136082.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/1b0d4ecc-1bb7-4c91-91cd-2286d9136082-1600765022.png",
+    "url_thumb": "https://www.astrobin.com/y4cgye/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 461,
+    "w": 1952
+}

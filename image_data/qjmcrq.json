@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 32,
+    "comments": 102,
+    "data_source": "BACKYARD",
+    "dec": "69.682",
+    "description": "This is a combination of older and new data. H alpha and colors I took last year with my newtonian CT 10. So only new luminance data was necessary, which I took over two nights, when this galaxy stood in my quite dark northwest sky. It was necessary to blend out the totally burned out core of the galaxy in the pushed h alpha image. The combination of course was a little tricky and I managed this in PS CR 2 with layer masks. So I hope I finished a quite natural looking deep M 82 with deep h alpha information. When you look closer, you can see even a h alpha field on the top of the pic. I remember that I was astonished about that during livestack when imaging h alpha last year, but after investigating this, I found out that it is real. Luminance subs were taken with my edge 11 HD with CCD/ CLS filter. The spikes come from my cable holder cross for hyperstar in my dew cap.\r\n\r\nHa  55x400sec gain 450    CT 10  f 4.8  ASI  1600 mm pro   Baader h alpha enforced 3,5 nm\r\nR,G,B each 30x300 sec gain 300    CT 10 f 4.8    ASI 1600 mm pro\r\nL 50x 350 gain 250    edge 11 HD    ASI 6200 mm pro  Astromomic CLS CCD\r\nTotal 18,45 h",
+    "h": 3176,
+    "hash": "qjmcrq",
+    "id": 476927,
+    "imaging_cameras": [
+        "Zwo Asi 6200 mm pro",
+        "ZWO ASI 1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK CT10 F4.8",
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 461,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811130/"
+    ],
+    "orientation": "12.608",
+    "pixscale": "0.397",
+    "published": "2020-04-13T16:43:58.849430",
+    "ra": "148.964",
+    "radius": "0.272",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476927/",
+    "revisions": [
+        "/api/v1/imagerevision/226756/",
+        "/api/v1/imagerevision/286179/"
+    ],
+    "subjects": [
+        "Cigar Galaxy",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034"
+    ],
+    "title": "M 82 with deep H alpha",
+    "updated": "2021-05-25T11:37:06.666658",
+    "uploaded": "2020-04-13T17:43:59.092236",
+    "url_duckduckgo": "https://www.astrobin.com/qjmcrq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qjmcrq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qjmcrq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qjmcrq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qjmcrq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qjmcrq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qjmcrq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28392/2020/f75c93b1-3316-40bc-89e9-a278ae4f61da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28392/2020/f75c93b1-3316-40bc-89e9-a278ae4f61da-1586801456.jpg",
+    "url_thumb": "https://www.astrobin.com/qjmcrq/0/rawthumb/thumb/",
+    "user": "Christophorus",
+    "views": 1478,
+    "w": 3784
+}

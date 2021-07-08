@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.703",
+    "description": "Iris nebula, oct 2014\r\nsierra remote observatories\r\n\r\nFSQ-106D on paramountMX\r\nQSI + astrodon g2v LRGB filters\r\n\r\ndrizzle 2x\r\n\r\nL: 33x900' = 8h15m\r\nR: 15x900' = 3h45m\r\nG: 11x900' = 2h45m\r\nB: 12x900' = 3h\r\n\r\ntotal: 17h45m\r\n\r\nprocessing: pixinsight 1.8.8-5",
+    "h": 4908,
+    "hash": "eeejbf",
+    "id": 494883,
+    "imaging_cameras": [
+        "QSI 683WSG"
+    ],
+    "imaging_telescopes": [
+        "FSQ-106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801238/"
+    ],
+    "orientation": "269.718",
+    "pixscale": "1.048",
+    "published": "2020-06-05T14:34:10.523534",
+    "ra": "315.186",
+    "radius": "1.203",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/494883/",
+    "revisions": [],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023",
+        "NGC7023",
+        "VdB139"
+    ],
+    "title": "iris 2014",
+    "updated": "2021-06-21T04:59:19.184753",
+    "uploaded": "2020-06-05T15:04:23.226597",
+    "url_duckduckgo": "https://www.astrobin.com/eeejbf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eeejbf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eeejbf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eeejbf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eeejbf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eeejbf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eeejbf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/2793e92f-a505-4997-a992-b5ea3f132083.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/2793e92f-a505-4997-a992-b5ea3f132083-1591370194.jpg",
+    "url_thumb": "https://www.astrobin.com/eeejbf/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 256,
+    "w": 6652
+}

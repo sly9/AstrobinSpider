@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "TRAVELLER",
+    "dec": "21.704",
+    "description": "Sh2-73 is a visible reflection nebula in the constellation of Hercules.  It was mistakenly included in the Sharpless catalog as an emission nebula. We now know that the nebula is simply a molecular cloud. With its relatively high galactic latitude, about 45°, the integrated light of the galaxy illuminates the nebula. Therefore, we can refer to Sh 2-73 as an integrated flux nebula, as defined by Steve Mandel.\r\n\r\nSh2-73 is one of the closest clouds to the solar system, being just 200 parsecs away (about 650 light-years); it is located at a very high galactic latitude and does not appear associated with any bright star, nor are star-forming phenomena active in it.",
+    "h": 4107,
+    "hash": "64m18j",
+    "id": 486833,
+    "imaging_cameras": [
+        "QHYCCD QHY268C"
+    ],
+    "imaging_telescopes": [
+        "SharpStar 15028HNT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 99,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812969/"
+    ],
+    "orientation": "359.996",
+    "pixscale": "1.854",
+    "published": "2020-05-10T13:29:10.132312",
+    "ra": "242.412",
+    "radius": "1.912",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486833/",
+    "revisions": [],
+    "subjects": [
+        "NGC6032",
+        "NGC6035",
+        "NGC6060",
+        "Sh2-73"
+    ],
+    "title": "Sh2-73",
+    "updated": "2021-06-01T05:56:27.096503",
+    "uploaded": "2020-05-10T14:29:10.375716",
+    "url_duckduckgo": "https://www.astrobin.com/64m18j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/64m18j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/64m18j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/64m18j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/64m18j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/64m18j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/64m18j/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30546/2020/bcb28589-adc5-4fb8-8bd8-1933349a111c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30546/2020/bcb28589-adc5-4fb8-8bd8-1933349a111c-1589121795.jpg",
+    "url_thumb": "https://www.astrobin.com/64m18j/0/rawthumb/thumb/",
+    "user": "Steed",
+    "views": 588,
+    "w": 6183
+}

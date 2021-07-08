@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "0.446",
+    "description": "55,000,000 light years distant, NGC 1055 is seen edge on.  There is some evidence of warping in the disk, as well as a rather boxy halo, suggesting a prior encounter with a neighboring galaxy.  NGC 1055 is about 15% larger than the Milky Way and is considered a starburst galaxy.\r\n\r\nImage acquisition info:\r\n\r\nDate: November 2019 and 2020\r\nLocation:  Starlodge Observatory, Fairview UT\r\nTelescope:  AT 16 Ritchey Chretien\r\nCamera: Atik 16200\r\nLRGB: 63:29:32:28. (25 hr)",
+    "h": 1191,
+    "hash": "owfhm1",
+    "id": 549331,
+    "imaging_cameras": [
+        "Atik 16200"
+    ],
+    "imaging_telescopes": [
+        "ASTRO- TECH AT 16 RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807332/"
+    ],
+    "orientation": "160.081",
+    "pixscale": "1.022",
+    "published": "2020-12-12T22:29:23.318385",
+    "ra": "40.443",
+    "radius": "0.271",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/549331/",
+    "revisions": [
+        "/api/v1/imagerevision/264263/"
+    ],
+    "subjects": [
+        "NGC 1055"
+    ],
+    "title": "NGC 1055",
+    "updated": "2021-03-02T02:54:55.704892",
+    "uploaded": "2020-12-12T21:20:55.431043",
+    "url_duckduckgo": "https://www.astrobin.com/owfhm1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/owfhm1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/owfhm1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/owfhm1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/owfhm1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/owfhm1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/owfhm1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20894/2020/a861db86-c74d-4083-963c-a766076139e5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20894/2020/a861db86-c74d-4083-963c-a766076139e5-1607808448.jpg",
+    "url_thumb": "https://www.astrobin.com/owfhm1/0/rawthumb/thumb/",
+    "user": "kvwood",
+    "views": 373,
+    "w": 1489
+}

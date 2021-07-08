@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 83,
+    "data_source": "BACKYARD",
+    "dec": "-14.766",
+    "description": "Here is an image of NGC6822 Barnard's Galaxy.  This is a barred irregular galaxy located about 1.6 million light years away in Sagittarius.  It is a member of the local group.\r\n\r\nThe galaxy spans about 7,000 light years.  The galaxy contains roughly 10 million stars along with a large number of active star formation regions as evidenced by the Hii regions.\r\n\r\ninformation from \"redshift-live.com\" and \"wikipedia\".\r\n\r\nI have been working on this for some weeks now after doing the capture in June.  I decided to try to do the HA and Luminance with a monochrome camera and do RGB with a color camera to see how that would work out.   I think this might be a good way to do things as long as one makes certain the cameras are aligned the same way.  I learned this the hard way as the orientation of the sensors in these cameras are 90 degrees apart.  So this resulted in the image being cropped a lot more than I would have liked.  But a good learning experience.\r\n\r\nThis was somewhat difficult for me to process as I just could not seem to get the color right.  I reviewed a lot of images of this and with the understanding of the morphology of the galaxy, I think I am pretty close to how the color should appear.  Or at least in the ballpark.\r\n\r\nI also wanted to be quite careful with the background with this image.  There does appear to be some galactic cirrus or some dust clouds between us and this galaxy and I did not want to kill that by being too aggressive with the background.\r\n\r\nAnyway, it was an interesting project and yet another learning experience.  I hope you like it and clear skies and good health to everyone...",
+    "h": 2592,
+    "hash": "kvr6zi",
+    "id": 497383,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro",
+        "ZWO ASI 183MC Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 152,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "82.740",
+    "pixscale": "0.921",
+    "published": "2020-07-18T18:20:22.560526",
+    "ra": "296.262",
+    "radius": "0.568",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497383/",
+    "revisions": [
+        "/api/v1/imagerevision/241997/",
+        "/api/v1/imagerevision/242000/",
+        "/api/v1/imagerevision/242001/"
+    ],
+    "subjects": [
+        "Barnard's Galaxy",
+        "Barnard's galaxy",
+        "IC 31",
+        "NGC 6822",
+        "NGC6822"
+    ],
+    "title": "NGC6822 Barnard's Galaxy",
+    "updated": "2021-07-02T01:34:00.913966",
+    "uploaded": "2020-06-14T10:26:07.111809",
+    "url_duckduckgo": "https://www.astrobin.com/kvr6zi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kvr6zi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kvr6zi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kvr6zi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kvr6zi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kvr6zi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kvr6zi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2020/78776ccd-d054-4d55-84fb-2814ad8816d0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2020/78776ccd-d054-4d55-84fb-2814ad8816d0-1595096185.png",
+    "url_thumb": "https://www.astrobin.com/kvr6zi/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 280,
+    "w": 3608
+}

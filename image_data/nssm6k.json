@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.504",
+    "description": "23 x 300 sec binned 2 for L.\r\n11 x 300 sec binned 2 for R, G and B.\r\nLLRGB composite.",
+    "h": 1801,
+    "hash": "nssm6k",
+    "id": 578020,
+    "imaging_cameras": [
+        "QSI583wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CN-212 Classical Cassegrain"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815033/"
+    ],
+    "orientation": "181.213",
+    "pixscale": "0.784",
+    "published": "2021-03-29T23:32:09.708400",
+    "ra": "143.036",
+    "radius": "0.327",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/578020/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903"
+    ],
+    "title": "NGC 2903",
+    "updated": "2021-04-03T13:05:26.004503",
+    "uploaded": "2021-03-30T00:29:56.191330",
+    "url_duckduckgo": "https://www.astrobin.com/nssm6k/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nssm6k/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nssm6k/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nssm6k/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nssm6k/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nssm6k/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nssm6k/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/92746/2021/9397660f-56c4-4be2-9dc1-e7355ec4a922.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/92746/2021/9397660f-56c4-4be2-9dc1-e7355ec4a922-1617079748.jpg",
+    "url_thumb": "https://www.astrobin.com/nssm6k/0/rawthumb/thumb/",
+    "user": "Cyberpeter",
+    "views": 55,
+    "w": 2400
+}

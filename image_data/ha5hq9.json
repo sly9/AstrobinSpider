@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.500",
+    "description": "Version2 : enhancement of the HII modules !\r\n------------------------\r\nMy version of this great galaxy NGC2903 in classical LRGB but also with Halpha .\r\nHalpha really adds a good balance of the colors with its HII nodules well defined , without tweaking the cursor ...\r\n\r\nNGC 2903 is a field barred spiral galaxy about 30 million light-years away in the constellation Leo. It was discovered by William Herschel who cataloged it on November 16, 1784. NGC 2903 has a very high rate of star formation in its central region. NGC 2905 is a bright star cloud within this galaxy\r\n\r\n----------------------\r\n3 nights : 23/24, 24/25 february and 11 march\r\n\r\n71 Light subs @180s gain zero and -20°C and\r\n\r\n35 Halpha subs @300s gain 139 and -20°C and\r\n20 Blue subs @180s gain zero and -20°C\r\n20 Green subs @180s gain zero and -20°C\r\n20 Red subs @180s gain zero and -20°C",
+    "h": 3448,
+    "hash": "ha5hq9",
+    "id": 470644,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "90.444",
+    "pixscale": "0.651",
+    "published": "2020-03-30T08:14:21.982594",
+    "ra": "143.041",
+    "radius": "0.448",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/470644/",
+    "revisions": [
+        "/api/v1/imagerevision/222618/"
+    ],
+    "subjects": [
+        "NGC 2903",
+        "NGC2903",
+        "NGC2905"
+    ],
+    "title": "NGC2903 in Leo  Version 2",
+    "updated": "2021-04-23T12:37:55.739807",
+    "uploaded": "2020-03-30T08:57:34.880884",
+    "url_duckduckgo": "https://www.astrobin.com/ha5hq9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ha5hq9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ha5hq9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ha5hq9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ha5hq9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ha5hq9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ha5hq9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/84a18c91-cb7f-4496-8320-19ef17456143.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/84a18c91-cb7f-4496-8320-19ef17456143-1585559470.jpg",
+    "url_thumb": "https://www.astrobin.com/ha5hq9/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 274,
+    "w": 3560
+}

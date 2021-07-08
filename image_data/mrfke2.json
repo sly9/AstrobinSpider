@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 35,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.008",
+    "description": "The challenge of NGC 2359 is not about the O-III - the O-III signal is surprisingly strong. The hard part is the background H-II regions. I am still not sure if I captured enough. Well, there were many chances when the moon was out and bright.  :-)\r\n\r\nStill, I should've captured the S-II channel. But I didn't. During the processing, it's obvious that one color layer is missing - the \"golden touch\" of the bright edges. \r\n\r\nDeconvolution had an obvious boost on both Ha and O-III masters. I did a test drive on Topaz DeNoise AI to see how much more detail enhancement could be done. Possibly the deconvolution did most of the job already, or I just don't like the artifacts introduced by Topaz DeNoise AI's algorithm, I stayed with the result from the deconvolution.  \r\n\r\nMaybe there is still time for the S-II channel. Maybe at the end of the year.\r\n\r\n<B><I><u>Update:</u></I></B>\r\n\r\nThe little ball shape object at the lower-left corner is a PN. \r\n\r\n<a href=\"http://simbad.u-strasbg.fr/simbad/sim-id?Ident=PN%20G227.1%2B00.5\"><B>PHR J0719-1222</B> -- Planetary Nebula</a>\r\n\r\n<B><I><u>Update:</u></I></B>\r\n\r\nAdded 3.83 hours of S-II to the blend. Can't wait for the winter of 2021! :-)\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 2560,
+    "hash": "mrfke2",
+    "id": 559424,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 218,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "99.574",
+    "pixscale": "1.310",
+    "published": "2021-01-19T05:45:55.895584",
+    "ra": "109.721",
+    "radius": "0.839",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/559424/",
+    "revisions": [
+        "/api/v1/imagerevision/269551/",
+        "/api/v1/imagerevision/270566/"
+    ],
+    "subjects": [
+        "NGC 2359"
+    ],
+    "title": "Helmet on the Red Curtain - NGC 2359 - Thor's Helmet",
+    "updated": "2021-05-10T03:37:07.209347",
+    "uploaded": "2021-01-19T04:59:44.201769",
+    "url_duckduckgo": "https://www.astrobin.com/mrfke2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mrfke2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mrfke2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mrfke2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mrfke2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mrfke2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mrfke2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2021/635c549d-6df5-4bfe-af8a-a0469fd56963.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2021/635c549d-6df5-4bfe-af8a-a0469fd56963-1611210387.png",
+    "url_thumb": "https://www.astrobin.com/mrfke2/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 713,
+    "w": 3840
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 19,
+    "data_source": "OWN_REMOTE",
+    "dec": "27.969",
+    "description": "Finally Sh2-240 in the bag!\r\n\r\nI have been trying to shoot this almost every year and never had the FOV to complete it. I have attempted 6 panel mosaic with the QSI690! Naively thinking I will get enough time to actually complete all those panels. I also have attempted 4 panel mosaic with QSI683. I could never get enough time to complete it. This time, with the QHY600, I have large enough FOV to do this in 2 panel (I could have fit this in a single panel if I had the reducer attached).\r\n\r\nMy original plan was to shoot SHO (at least for the stars) and it was pretty clear that most time had to be spent on Ha to eke out the details. I did 25 hours for Ha for both panel and 8 hours of OIII and SII for each of the panel.\r\n\r\nHowever, when I processed it, the SHO simply wasn't looking good and I just used Ha and OIII for this image.\r\n\r\nTotal integration time is 50 hours of Ha and 16 hours of OIII and 16 hours of SII . However, the \"depth\" of data is only  4``1  hours . It has been tough to process it.  I \r\n\r\nPer panel:\r\nHa - 100x15 minutes\r\nOIII - 16 x15 minutes\r\nSII - 16 x 15 minutes",
+    "h": 3313,
+    "hash": "rsqvww",
+    "id": 565030,
+    "imaging_cameras": [
+        "QHYCCD QHY600m"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 207,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "181.557",
+    "pixscale": "3.976",
+    "published": "2021-02-10T20:35:22.217664",
+    "ra": "85.180",
+    "radius": "2.868",
+    "remote_source": "SSLLC",
+    "resource_uri": "/api/v1/image/565030/",
+    "revisions": [
+        "/api/v1/imagerevision/273005/",
+        "/api/v1/imagerevision/273097/"
+    ],
+    "subjects": [
+        "PK178-02.1",
+        "Sh2-240"
+    ],
+    "title": "Spaghetti Nebula - Sh2-240 - SHO",
+    "updated": "2021-07-07T01:49:24.450086",
+    "uploaded": "2021-02-10T20:15:02.968264",
+    "url_duckduckgo": "https://www.astrobin.com/rsqvww/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rsqvww/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rsqvww/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rsqvww/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rsqvww/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rsqvww/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rsqvww/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2021/1ee50da8-8e52-4cff-94e5-36604bc2ee17.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2021/1ee50da8-8e52-4cff-94e5-36604bc2ee17-1613048117.png",
+    "url_thumb": "https://www.astrobin.com/rsqvww/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 506,
+    "w": 4000
+}

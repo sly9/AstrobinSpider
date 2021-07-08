@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "31.536",
+    "description": "Narrowband data captured with mono cooled DSLR, stars replaced with broadband color data captured with ASI071MCpro.",
+    "h": 2049,
+    "hash": "5253li",
+    "id": 522962,
+    "imaging_cameras": [
+        "ZWO ASI 071 MC Pro",
+        "Canon 600Da monochrome cooled"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 150/750 Explorer - 150PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807292/"
+    ],
+    "orientation": "270.028",
+    "pixscale": "1.881",
+    "published": "2020-09-13T19:44:43.390107",
+    "ra": "312.279",
+    "radius": "0.933",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/522962/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6979",
+        "NGC6974",
+        "NGC6979",
+        "Sh2-103"
+    ],
+    "title": "NGC 6979 Pickering Triangle",
+    "updated": "2021-04-28T15:38:31.662234",
+    "uploaded": "2020-09-13T20:30:04.901649",
+    "url_duckduckgo": "https://www.astrobin.com/5253li/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5253li/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5253li/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5253li/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5253li/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5253li/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5253li/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23243/2020/39d40fc9-6475-46ff-9b51-b8e1b5dd20cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23243/2020/39d40fc9-6475-46ff-9b51-b8e1b5dd20cf-1600029497.jpg",
+    "url_thumb": "https://www.astrobin.com/5253li/0/rawthumb/thumb/",
+    "user": "Jenafan",
+    "views": 239,
+    "w": 2925
+}

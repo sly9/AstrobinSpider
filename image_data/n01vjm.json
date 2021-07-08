@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-29.876",
+    "description": "LRGB combined\r\nLuminance: AP130 + TSA120 + TS130\r\nRed: TS130\r\nGreen: AP130\r\nBlue: TSA120",
+    "h": 2299,
+    "hash": "n01vjm",
+    "id": 545649,
+    "imaging_cameras": [
+        "Moravian Instrument G2-8300",
+        "Moravian Instrument G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics AP130GTX",
+        "Takahashi TSA 120",
+        "Teleskop-Service TS130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812841/"
+    ],
+    "orientation": "269.835",
+    "pixscale": "1.289",
+    "published": "2020-11-28T12:57:34.805279",
+    "ra": "204.246",
+    "radius": "0.695",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/545649/",
+    "revisions": [],
+    "subjects": [
+        "M 83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy"
+    ],
+    "title": "M 83",
+    "updated": "2021-03-05T16:11:26.029911",
+    "uploaded": "2020-11-28T12:49:53.240604",
+    "url_duckduckgo": "https://www.astrobin.com/n01vjm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n01vjm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n01vjm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n01vjm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n01vjm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n01vjm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n01vjm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28079/2020/e74295dc-4fff-4bf9-a3b8-9f2b82429001.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28079/2020/e74295dc-4fff-4bf9-a3b8-9f2b82429001-1606568343.jpg",
+    "url_thumb": "https://www.astrobin.com/n01vjm/0/rawthumb/thumb/",
+    "user": "AstroGearTH",
+    "views": 112,
+    "w": 3133
+}

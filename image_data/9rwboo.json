@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "47.357",
+    "description": "Abell 71 with 10 inch iDK. O3 and Ha nebulae with RGB stars.",
+    "h": 2492,
+    "hash": "9rwboo",
+    "id": 506119,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10 inch Truss iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808428/"
+    ],
+    "orientation": "179.335",
+    "pixscale": "0.376",
+    "published": "2020-07-16T03:42:34.059770",
+    "ra": "308.118",
+    "radius": "0.224",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/506119/",
+    "revisions": [],
+    "subjects": [
+        "PK085+04.1",
+        "Sh2-116"
+    ],
+    "title": "Abell 71 Ha-O3-RGB",
+    "updated": "2021-03-17T00:28:42.359340",
+    "uploaded": "2020-07-16T04:42:34.208567",
+    "url_duckduckgo": "https://www.astrobin.com/9rwboo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9rwboo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9rwboo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9rwboo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9rwboo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9rwboo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9rwboo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16237/2020/e2c844d7-af03-4584-96d7-117415d734fe.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16237/2020/e2c844d7-af03-4584-96d7-117415d734fe-1594875133.jpg",
+    "url_thumb": "https://www.astrobin.com/9rwboo/0/rawthumb/thumb/",
+    "user": "CCDnOES",
+    "views": 80,
+    "w": 3496
+}

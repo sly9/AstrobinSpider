@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-23.999",
+    "description": "The great bubble in Canis Major, Sh2-308 is also known as the Dolphin nebula.  It's a very popular target for imagers in southern locations as it lies in the southern sky.  Sh2-308 is mainly made up of doubly ionized oxygen (OIII) with a bit of hydrogen alpha (HII) mixed in.   It was produced by strong stellar winds from the Wolf-Rayet star HD 50896, near center, which blew stellar material into the shape you see.   HD 50896 is 20 times the mass of our sun.  Sh2-308 lies 5200 light years distant and is 60 light year in diameter.  This object is very low for me so I only had about 2hrs per session to gather data.  I started in Nov 2020 and finished up a week ago in March 2021.  The image is a HOO image with RGB stars added.  9hrs of Ha, 9hrs 40min of OIII and 125min each RGB channel.  The image is a crop of a larger FOV.",
+    "h": 2877,
+    "hash": "cqt6pm",
+    "id": 575366,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX152T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "http://www.starscapeimaging.com/Sh2-308/Sh2-308.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803139/"
+    ],
+    "orientation": "89.699",
+    "pixscale": "1.277",
+    "published": "2021-03-19T18:56:40.928759",
+    "ra": "103.608",
+    "radius": "0.753",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575366/",
+    "revisions": [],
+    "subjects": [
+        "The star ο1CMa"
+    ],
+    "title": "A great bubble in Canis Major - Sh2-308",
+    "updated": "2021-06-26T20:15:39.409286",
+    "uploaded": "2021-03-19T18:39:56.965480",
+    "url_duckduckgo": "https://www.astrobin.com/cqt6pm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cqt6pm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cqt6pm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cqt6pm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cqt6pm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cqt6pm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cqt6pm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4487/2021/a53f5757-710e-4603-8a5e-7ec318a6a6db.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4487/2021/a53f5757-710e-4603-8a5e-7ec318a6a6db-1616180111.jpg",
+    "url_thumb": "https://www.astrobin.com/cqt6pm/0/rawthumb/thumb/",
+    "user": "talbotj",
+    "views": 142,
+    "w": 3123
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "-8.497",
+    "description": "he image is a LRGB image plus some hours of Ha data.\r\n\r\nTwo panel mosaic made with 47h of data. Takahashi FSQ106 f3.7 + Moravian  G3-16200\r\n\r\nTaken from @deepskychile\r\n\r\nhttps://www.imagingtheuniverse.com/chile/la-cabeza-de-la-bruja/",
+    "h": 6531,
+    "hash": "9tskuc",
+    "id": 556992,
+    "imaging_cameras": [
+        "Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TAKAHASHI FSQ 106 EDX III"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 67,
+    "link": "https://www.imagingtheuniverse.com/chile/la-cabeza-de-la-bruja/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814493/"
+    ],
+    "orientation": "180.792",
+    "pixscale": "3.164",
+    "published": "2021-01-10T21:36:13.109855",
+    "ra": "75.613",
+    "radius": "3.392",
+    "remote_source": "DSC",
+    "resource_uri": "/api/v1/image/556992/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1909",
+        "The star 63Eri",
+        "The star λEri",
+        "The star ψEri",
+        "the Witch Head Nebula"
+    ],
+    "title": "IC 2118-Witch Head nebula",
+    "updated": "2021-02-09T21:25:17.364917",
+    "uploaded": "2021-01-10T21:25:39.661973",
+    "url_duckduckgo": "https://www.astrobin.com/9tskuc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9tskuc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9tskuc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9tskuc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9tskuc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9tskuc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9tskuc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/313/2021/a5ff1716-aea1-4242-953e-f4c247654647.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/313/2021/a5ff1716-aea1-4242-953e-f4c247654647-1610316397.jpg",
+    "url_thumb": "https://www.astrobin.com/9tskuc/0/rawthumb/thumb/",
+    "user": "lizarranet",
+    "views": 138,
+    "w": 4116
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 38,
+    "comments": 69,
+    "data_source": "BACKYARD",
+    "dec": "64.956",
+    "description": "Heckathorn-Fesen-Gull 1 (HFG1, PK136+05) is a very old (~100,000 year old) and extremely faint planetary nebula in the constellation Cassiopeia. It was discovered in deep OIII images by Heckathorn, Fesen, and Gull in 1982 using the emission line survey of Parker et al (1979). The central star is a binary variable pair V664 Cas (13.7 magnitude). HFG1 is the first well observed PN, which reveals a cometary-like structure. As HFG1 moves through the interstellar medium and V664 ejects material, a bluish bow shock is formed and a red long trail of emissions is left in its wake.  \r\n\r\nThis was the most challenging deep sky object I have imaged so far. It is an HOO palette with RGB stars. I collected 100 hours of exposures altogether and was able to use 82 of those, after eliminating unusable exposures due to clouds or poor seeing. The Ha signal in particular is very faint and requires extreme care to stretch. For this reason, I decided to downsample the linear images by a factor of 2 to boost SNR. There is very little high-frequency detail in this nebula and high-SNR is of paramount importance. \r\n\r\nThis was also the first image with my new ZWO ASI294M Pro camera. Most of the data was collected with the ASI1600MM Pro (gain=139) but 11 hours of data out of 82 were acquired with the ASI294MM Pro (gain=120, 11M mode or 2x2). \r\n\r\nUnlike my usual workflow for HOO images, which relies heavily on post-processing in Photoshop, this image was processed primarily in Pixinsight. I only exported the final starless HOO image to Photoshop for final contrast and color adjustment and merge with RGB stars. \r\n\r\nReferences\r\nBoumis, Meaburn, Lloyd, Akras, arXiv:0903.2852v1  [astro-ph.GA]  16 Mar 2009, Mon. Not. R. Astron. Soc. (2009)\r\nHeckathorn J. N., Fesen R. A., Gull T. R., 1982, A&A, 114, 414\r\nParker R. A. R., Gull T. R., Kirshner R. P., 1979, An emission-line survey of the Milky Way",
+    "h": 1556,
+    "hash": "tbilkr",
+    "id": 560624,
+    "imaging_cameras": [
+        "ZWO ASI294MM Pro",
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 342,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "89.476",
+    "pixscale": "1.370",
+    "published": "2021-01-23T21:48:07.688362",
+    "ra": "45.758",
+    "radius": "0.497",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/560624/",
+    "revisions": [
+        "/api/v1/imagerevision/270668/"
+    ],
+    "subjects": [
+        "PK136+05.1"
+    ],
+    "title": "Heckathorn-Fesen-Gull 1 (HFG1)",
+    "updated": "2021-07-05T21:15:40.130458",
+    "uploaded": "2021-01-23T20:59:39.113254",
+    "url_duckduckgo": "https://www.astrobin.com/tbilkr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tbilkr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tbilkr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tbilkr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tbilkr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tbilkr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tbilkr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2021/bc611ab1-7531-41b8-83a8-ebc2ffe4f449.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2021/bc611ab1-7531-41b8-83a8-ebc2ffe4f449-1611435972.jpg",
+    "url_thumb": "https://www.astrobin.com/tbilkr/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 1737,
+    "w": 2100
+}

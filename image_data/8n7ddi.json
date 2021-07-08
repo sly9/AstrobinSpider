@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 37,
+    "data_source": "BACKYARD",
+    "dec": "25.967",
+    "description": "My favourite galaxy. It seems to me that it does not matter how you image it, it looks magnificent everytime.\r\n\r\nIt was the first galaxy I've tried to image with the EdgeHD almost two years ago (only 2 hours exposure and seriously out of focus). I still use this first image as my avatar.\r\n\r\nApparently the Needle is very similar to the Milky Way in size and appearance and our galaxy would look like this if seen from the same angle.\r\n\r\nI've tried to show both the bright core, which shines through the central bulge, and the dim halo above and below the galaxy disc.\r\n\r\nThis image consists of 984 unguided exposures 120 seconds each. I've gathered the data during the last two new moon periods in March and April.\r\n\r\nI have to take a lot of images because the light pollution is rather strong here (center of a small town). I would estimate the sky conditions between Bortle 6 and 5.\r\n\r\nPixinsight Photometric Color Calibration process has been used for this image. Sharpening was done with Multiscale Linear Transfer.\r\n\r\nRevision B is the same image without any sharpening or noise reduction. Only stretch and color saturation has been applied.\r\n\r\nThanks for looking!\r\nVitali\r\n\r\nLinks:\r\n<a href=\"https://cseligman.com/text/atlas/ngc45a.htm#4565\">NGC4565 in the Celestial Atlas by C. Seligman</a>",
+    "h": 2900,
+    "hash": "8n7ddi",
+    "id": 482186,
+    "imaging_cameras": [
+        "ZWO ASI071MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 221,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811031/"
+    ],
+    "orientation": "1.319",
+    "pixscale": "0.352",
+    "published": "2020-04-26T15:00:13.414678",
+    "ra": "189.080",
+    "radius": "0.261",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482186/",
+    "revisions": [
+        "/api/v1/imagerevision/229671/",
+        "/api/v1/imagerevision/231928/",
+        "/api/v1/imagerevision/232173/",
+        "/api/v1/imagerevision/234091/"
+    ],
+    "subjects": [
+        "IC 3571",
+        "IC3571",
+        "NGC 4562",
+        "NGC 4565",
+        "NGC4562",
+        "NGC4565",
+        "Needle Galaxy",
+        "PGC1760893",
+        "PGC1762205",
+        "PGC2793674",
+        "PGC3096166",
+        "PGC42038"
+    ],
+    "title": "NGC4565 The Needle. Beautiful as always",
+    "updated": "2021-06-17T09:15:50.812381",
+    "uploaded": "2020-04-26T14:40:42.737316",
+    "url_duckduckgo": "https://www.astrobin.com/8n7ddi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8n7ddi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8n7ddi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8n7ddi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8n7ddi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8n7ddi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8n7ddi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33583/2020/dd0a82e0-a523-40e1-b611-dae9cc01ef64.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33583/2020/dd0a82e0-a523-40e1-b611-dae9cc01ef64-1587912494.png",
+    "url_thumb": "https://www.astrobin.com/8n7ddi/0/rawthumb/thumb/",
+    "user": "sunlover",
+    "views": 939,
+    "w": 4500
+}

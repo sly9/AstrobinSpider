@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 33,
+    "data_source": "OWN_REMOTE",
+    "dec": "8.874",
+    "description": "One of the largest Planetary Nebulae in the sky, Abell 31 is also quite dim.  Age expands and dims these objects  and this is described as \"ancient\" though I found no absolute age.\r\n\r\nThis image an HOO in color but luminance is HO 50/50.  Without adding a separate Luminance I find that the O channel is to over represented.  This leads to excess noise as the O is usually the weakest.  \r\n\r\nThere's really not much that processing adds to this object.  It's quite diffused and seems to lack sharp features - which was a good fit for turbulent Winter skies.  The big challenge is noise reduction and dealing with banding artifacts since the signal is so close to the noise floor everywhere except the primary nebulosity.",
+    "h": 2923,
+    "hash": "ndec13",
+    "id": 562316,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "309.296",
+    "pixscale": "0.609",
+    "published": "2021-01-30T21:14:59.387713",
+    "ra": "133.561",
+    "radius": "0.425",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/562316/",
+    "revisions": [
+        "/api/v1/imagerevision/271543/"
+    ],
+    "subjects": [
+        "NGC 5158",
+        "PK219+31.1",
+        "Sh2-290"
+    ],
+    "title": "Abell 31 | SH2-290",
+    "updated": "2021-06-14T10:09:45.643377",
+    "uploaded": "2021-01-30T21:02:11.335286",
+    "url_duckduckgo": "https://www.astrobin.com/ndec13/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ndec13/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ndec13/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ndec13/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ndec13/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ndec13/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ndec13/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2021/57b218d7-ff57-4217-9a7c-5c8b2c25cb4c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2021/57b218d7-ff57-4217-9a7c-5c8b2c25cb4c-1612041130.jpg",
+    "url_thumb": "https://www.astrobin.com/ndec13/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 503,
+    "w": 4097
+}

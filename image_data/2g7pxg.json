@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-24.480",
+    "description": "Two reflection nebulae, IC4603 in centre of image and Rho Ophiuchi at lower right.  Tried cropping out the partial reflection nubulae at left and bottom of image but judged the widefield image looked better.  Frames acquired in Queenstown, New Zealand on nights with thin high altitude hazy clouds and was surprised how these conditions seemed not to affect the final image.  The yellow colours seem real and are noted in Bracken's Astrophotography Sky Atlas.  Image scale shown 2.214 arcsec/pixel.  Image field of view 2deg 50' by 2deg 7'\r\n\r\nTotal integration time 5.6 hours of 67 5 min subframes L:21, R:16. G:14. B:16.  Camera gain 100 (0.095 e-/ADU), camera temperature -16degC.  Subframes calibrated with flat & bias frames, flats were cailbrated with dark frames only.  Integration with Pixinsight WeightedBatchPreprocessing.\r\n\r\nLinear processing in Pixinsight:\r\nMureDemoise \r\nDynamic Crop to remove overlaps at edges\r\nDynamic Background Extraction\r\nDeconvolution\r\n\r\nRGB combination\r\nBackground Neutralisation\r\nPhotometric Colour Calibration\r\nArcSine Stretch\r\nHistogram Stretch, Curves Transformation on RGB master\r\n\r\nLRGB Combination\r\nTGV Denoise\r\nMultistage Linear Transform to sharpen image\r\nExponential Smooth to sharpen nebulae\r\nGradientHDR for subtle sharpening of nebula\r\nSoft CT and saturation boost",
+    "h": 3442,
+    "hash": "2g7pxg",
+    "id": 485699,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX80-3SV"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 17,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805435/"
+    ],
+    "orientation": "237.337",
+    "pixscale": "2.215",
+    "published": "2020-05-06T04:20:16.766027",
+    "ra": "246.398",
+    "radius": "1.768",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/485699/",
+    "revisions": [],
+    "subjects": [
+        "IC 4603",
+        "IC 4604",
+        "The star ρOph",
+        "rho Oph Nebula"
+    ],
+    "title": "IC 4603, Rho Ophiuchi Nebula",
+    "updated": "2021-03-17T02:24:23.721701",
+    "uploaded": "2020-05-06T04:51:00.983195",
+    "url_duckduckgo": "https://www.astrobin.com/2g7pxg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2g7pxg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2g7pxg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2g7pxg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2g7pxg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2g7pxg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2g7pxg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16777/2020/290a7070-c1f1-4ec6-ac12-937b4d1c45c6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16777/2020/290a7070-c1f1-4ec6-ac12-937b4d1c45c6-1588742423.jpg",
+    "url_thumb": "https://www.astrobin.com/2g7pxg/0/rawthumb/thumb/",
+    "user": "Alastairmk",
+    "views": 102,
+    "w": 4602
+}

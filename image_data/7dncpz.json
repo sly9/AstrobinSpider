@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-58.446",
+    "description": "Through several nights I collected almost 30 hours of narrowband data. To avoid star staturation in the cluster I used 5-minute subs, which then made me struggle when dealing with background noise (used a CCD with pretty high RN). Also, had a hard time calibrating the frames.",
+    "h": 2504,
+    "hash": "7dncpz",
+    "id": 481855,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "266.571",
+    "pixscale": "0.889",
+    "published": "2020-04-25T20:28:35.009613",
+    "ra": "159.160",
+    "radius": "0.505",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481855/",
+    "revisions": [
+        "/api/v1/imagerevision/229752/",
+        "/api/v1/imagerevision/230328/"
+    ],
+    "subjects": [
+        "IC 2599",
+        "NGC 3293",
+        "NGC 3324"
+    ],
+    "title": "Mistral Nebula  & Gems Cluster in SHO",
+    "updated": "2021-03-17T02:45:12.207865",
+    "uploaded": "2020-04-25T21:28:36.614735",
+    "url_duckduckgo": "https://www.astrobin.com/7dncpz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7dncpz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7dncpz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7dncpz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7dncpz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7dncpz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7dncpz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2020/46825a71-35f2-4a59-8ae9-d269aec5647d.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2020/46825a71-35f2-4a59-8ae9-d269aec5647d-1587850619.JPG",
+    "url_thumb": "https://www.astrobin.com/7dncpz/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 235,
+    "w": 3236
+}

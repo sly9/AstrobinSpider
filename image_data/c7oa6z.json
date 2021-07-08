@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "42.502",
+    "description": "NGC 6914 is a blue reflection nebula surrounded by a vast area of H-alpha nebulosity. About 6,000 light-years away in the constellation of Cygnus.\r\n\r\nThis is first light with my ASI6200MM. It was collecting lum data (230 x 2 min gain 100) with the Esprit 150 on a double rig next to the Esprit 100 with an ASI071 for RGB (58 x 5 min gain 200).",
+    "h": 2920,
+    "hash": "c7oa6z",
+    "id": 532458,
+    "imaging_cameras": [
+        "ZWO ASI 6200MM PRO",
+        "ZWO ASI 071 MC Pro Color Cool"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100ED Super APO Triplet",
+        "SkyWatcher Esprit 150 ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "91.996",
+    "pixscale": "1.727",
+    "published": "2020-10-15T08:24:46.701868",
+    "ra": "306.246",
+    "radius": "1.243",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532458/",
+    "revisions": [
+        "/api/v1/imagerevision/255119/",
+        "/api/v1/imagerevision/255259/"
+    ],
+    "subjects": [
+        "NGC 6914",
+        "NGC6914",
+        "VdB131",
+        "VdB132"
+    ],
+    "title": "NGC6914 Running Man in Cygnus",
+    "updated": "2021-03-16T19:15:50.921142",
+    "uploaded": "2020-10-15T09:10:01.279759",
+    "url_duckduckgo": "https://www.astrobin.com/c7oa6z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c7oa6z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c7oa6z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c7oa6z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c7oa6z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c7oa6z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c7oa6z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2020/b956f9a5-9af2-468d-bc42-981befc9cdb6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2020/b956f9a5-9af2-468d-bc42-981befc9cdb6-1602753861.jpg",
+    "url_thumb": "https://www.astrobin.com/c7oa6z/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 173,
+    "w": 4280
+}

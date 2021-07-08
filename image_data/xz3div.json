@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.384",
+    "description": "This is a reprocess of data I have captured back in October 2020. \r\nWith more learning and understanding of pixinsight and how to process data I thought I would give it another go and thank god I did.",
+    "h": 3072,
+    "hash": "xz3div",
+    "id": 593680,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro (Mono) ZWO ASI 1600MM PRO -Cooled"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 100ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814689/"
+    ],
+    "orientation": "289.093",
+    "pixscale": "2.178",
+    "published": "2021-06-01T08:49:19.819270",
+    "ra": "38.227",
+    "radius": "1.576",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/593680/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC1795",
+        "IC1805",
+        "NGC 896",
+        "NGC896",
+        "Sh2-190"
+    ],
+    "title": "IC 1805 - Heart nebula سديم القلب",
+    "updated": "2021-06-16T03:58:48.212201",
+    "uploaded": "2021-06-01T08:49:20.039454",
+    "url_duckduckgo": "https://www.astrobin.com/xz3div/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xz3div/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xz3div/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xz3div/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xz3div/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xz3div/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xz3div/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/37663/2021/0897c442-3041-47f0-bfa5-7170365489cc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/37663/2021/0897c442-3041-47f0-bfa5-7170365489cc-1622537937.jpg",
+    "url_thumb": "https://www.astrobin.com/xz3div/0/rawthumb/thumb/",
+    "user": "mutairy",
+    "views": 103,
+    "w": 4208
+}

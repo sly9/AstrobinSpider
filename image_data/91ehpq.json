@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 40,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.592",
+    "description": "NGC 5033 is a 10.8 magnitude Seyfert type galaxy located at a distance of about 40 million light-years.  It has a diameter of about 100,000 ly (about the same size as the Milky Way) with an apparent size of 10.7' so it's a pretty good target for my C14 system.  Seyfert galaxies have an active core with a super-massive black hole but it's the location of the black hole that makes this galaxy particularly unusual.  The black hole is displaced from the center of rotation of NGC 5033.  The reason for this is not well understood but it's been suggested that it might be due to a possible collision or close interaction with another galaxy.  This off-center position may cause the black hole to devour stars, dust, and other matter at a particularly high rate, which may be why the core of the galaxy is so bright.  The deep blue spiral arms contain hot, young stars and this is where star formation is particularly active.  Another interesting thing about this galaxy is that it lies in a part of the sky loaded with distant galaxies and galaxy clusters.  If you zoom in and take a tour of the faint background, you'll find a LOT of small/distant, red galaxies along with at least two galaxy clusters.  You can also spot a beautiful blue and gold double star that probably sits along our line of sight toward this galaxy.\r\n\r\nI first started to gather images of NGC 5033 in February, 2019 so this turned out to be a two year project.  This time around, I started bit earlier in the season but it still required a couple of lunar cycles before I hit my limit on a single object.  I actually gathered a fair amount of Ha data as well, but most of it was garbage so I had to give up on the idea of enhancing the Ha regions.\r\n\r\nI always know when the data is challenging because I have to take a lot of runs to finally get the processing to where I want it.  In this case, nearby bright stars created two moderately bright strays around the edges and the data seemed to be loaded with minor gradients.  I also picked this set of data to try something new (for me anyway).  I've never had much luck with the masked histogram stretch tool in PI and I've never been very happy with the star profiles in my galaxy images so I resolved to beat my head against this problem until I either got it working or I understood why it didn't work.  It took a lot of fiddling with all the parameters but I finally achieved a result that I thought was pretty good.  I'm probably the last PI user to learn how to use this tool but hey, better late than never and I really like how it handled the overexposed stars and the colors. \r\n\r\nThe other thing that drove me a little crazy was getting the color calibration to come out \"right.\"  Once again, I tried the PhotometricColorCalibration tool in PI and once again I didn't like the result.  It produced a VERY red core that simply didn't correlate with any other image of this galaxy that I've ever seen.  It did highlight the Ha regions quite nicely but the colors were just not right!  I fooled with the parameters quite a bit to see if I could understand it but I just couldn't figure it out.  I really like the whole idea of PCC and the way that it works; but, I just have never achieved a result that appears even close to correct.  Maybe someday I'll figure it out, but I ultimately went back to color calibration using the galaxy and surrounding stars for the white reference for this result.\r\n\r\nBy the time it was all over, I had to taken five full runs from scratch before I reached this result.  One issue this time around is that I'm working on a brand new MacBook Pro and that caused a couple of unexpected problems.  First, the new display is a lot brighter than on my last Mac so I had to fight off the urge not to overly darken the background.  Second, I had some weird crashes and one was with PI.  Juan helped me to analyze what happened and he convinced me that it was simply due a (very rare) OS related glitch--so, it wasn't a PI problem.  Another cash occurred when my Mac suddenly black screened right as I was trying to save things.  It took some detective work to understand the problem but it was caused by a third party power brick that couldn't quite keep up with the power demands of this new Mac running an I9 processor with a lot of RAM.  That caused the battery to slowly drain unnoticed eventually causing the Mac to suddenly shut down, losing all of my work.  For some reason, Apple decided to ditch the \"low battery\" warnings in the latest OS so the \"crash\" took me completely by surprise.  Anyway all this stuff meant that I had to re-start numerous times to get this image done!  And on top of that, I sometimes think that I just have to learn everything all over again for some images so I have to tell myself to \"sleep on it\" whenever I think that I might be finished.  I've got four versions of this image that looked like junk the next morning so this image was a battle.  Nothing is ever easy!\r\n\r\nHopefully, I got it right in the end.  As always, C&C are welcome so let know what you think.\r\n\r\nJohn\r\n\r\nPS...  After your comments about PCC, I went back for another try...and this time I got a believable result.  It may be because I started with the background already calibrated.  (I thought that I did this the first time around...but maybe not!)  I did subtract just a little green signal, which made the core appear a little bit more red than where it started.  As you can see, PCC pulled the colors more toward red/yellow hues.  Thanks for your feedback!  I can't tell for sure what's more accurate but at least PCC has some math behind it to justify going with this version--assuming that I've applied it correctly!",
+    "h": 3400,
+    "hash": "91ehpq",
+    "id": 500439,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "259.822",
+    "pixscale": "0.478",
+    "published": "2020-06-27T15:13:53.554893",
+    "ra": "198.368",
+    "radius": "0.320",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/500439/",
+    "revisions": [
+        "/api/v1/imagerevision/239098/",
+        "/api/v1/imagerevision/239164/",
+        "/api/v1/imagerevision/239175/"
+    ],
+    "subjects": [
+        "NGC 5033",
+        "NGC5033"
+    ],
+    "title": "NGC 5033 A Beautiful Seyfert Galaxy in Canes Venatici",
+    "updated": "2021-06-26T02:19:11.109549",
+    "uploaded": "2020-06-25T05:01:47.946322",
+    "url_duckduckgo": "https://www.astrobin.com/91ehpq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/91ehpq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/91ehpq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/91ehpq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/91ehpq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/91ehpq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/91ehpq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/9595504a-cfd9-4bfc-91fc-125b48576d0e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/9595504a-cfd9-4bfc-91fc-125b48576d0e-1593236390.jpg",
+    "url_thumb": "https://www.astrobin.com/91ehpq/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 807,
+    "w": 3400
+}

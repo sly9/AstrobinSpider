@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "There is some confusion about the naming of this object. Some sources name it Sh 2-171 with NGC 7822 reserved for fainter nebulosity to its north. However, John Herschel, compiler of the New General Catalogue, who discovered it in 1829, described it terms which match this object.\r\n\r\nThe area is teeming with hot and young stars, whose outflowing energy has shaped the region, sweeping out gas and dust from the central region, leaving pillars and globules of denser material behind. There is also a tracery of darker dust across the central part of the image, like high-altitude clouds on Earth.\r\n\r\nThe data for this image were taken over 14 nights spread from 28 Sep 2020 to 15 Dec 2020. In total:\r\n47x 600s SII\r\n39x 600s Ha\r\n30x 600s OIII\r\n\r\nNote that Revision B is the same as the original. For some reason the original image did not show up so I reloaded it.",
+    "h": 4092,
+    "hash": "mvobbj",
+    "id": 598537,
+    "imaging_cameras": [
+        "FLI Kepler KL4040"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare UltraCRC360"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799994/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-06-19T13:05:18.748349",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/598537/",
+    "revisions": [
+        "/api/v1/imagerevision/291982/"
+    ],
+    "subjects": [],
+    "title": "NGC 7822",
+    "updated": "2021-06-22T20:22:08.241445",
+    "uploaded": "2021-06-19T12:50:10.498845",
+    "url_duckduckgo": "https://www.astrobin.com/mvobbj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mvobbj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mvobbj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mvobbj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mvobbj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mvobbj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mvobbj/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/mvobbj/0/rawthumb/thumb/",
+    "user": "crfrancis",
+    "views": 43,
+    "w": 4087
+}

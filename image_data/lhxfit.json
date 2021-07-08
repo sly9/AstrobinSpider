@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "61.736",
+    "description": "Shot in RGB from a very dark sky and HA from the opposite: a very light polluted region. This little bastard is hard and RGB was half a failure.\r\nLuckly narrowband version gave me enough light to complete the picture.",
+    "h": 2700,
+    "hash": "lhxfit",
+    "id": 535336,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 200/1000 PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810673/",
+        "/api/v1/location/2812105/"
+    ],
+    "orientation": "6.329",
+    "pixscale": "0.946",
+    "published": "2020-10-26T08:10:44.417736",
+    "ra": "5.602",
+    "radius": "0.642",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535336/",
+    "revisions": [
+        "/api/v1/imagerevision/256945/"
+    ],
+    "subjects": [
+        "The star 12Cas"
+    ],
+    "title": "Sh2-173 | Phantom of the Opera",
+    "updated": "2021-06-24T20:20:45.255405",
+    "uploaded": "2020-10-25T22:59:01.139845",
+    "url_duckduckgo": "https://www.astrobin.com/lhxfit/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lhxfit/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lhxfit/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lhxfit/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lhxfit/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lhxfit/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lhxfit/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31935/2020/9d65036a-b004-4bc3-95af-7822142a3ac7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31935/2020/9d65036a-b004-4bc3-95af-7822142a3ac7-1603697605.jpg",
+    "url_thumb": "https://www.astrobin.com/lhxfit/0/rawthumb/thumb/",
+    "user": "gorante",
+    "views": 83,
+    "w": 4070
+}

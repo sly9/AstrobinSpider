@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 26,
+    "comments": 75,
+    "data_source": "BACKYARD",
+    "dec": "25.987",
+    "description": "We had 4 good nights here this Week, with quite good seeing. So I decided to image this large galaxy in Coma Berenices, which I wasn't abble to do last year.\r\n\r\nI used my usual appraoch for these bright galaxies : short exposures to get the details in the brightest parts and long exposures to get the field and extensions.\r\n\r\nI share Version A : short exposures 9000 x 1s with ASI 290 MMC, stretched with deconvolution. Some goobular clusters are already visible on the galaxy !\r\n\r\nVersion B : color layer with ASI 294 MC Pro, juste afetr stacking, gradient and color correction, slightly stretched.\r\n\r\nOther versions : final mix.\r\n\r\nHope you enjoy, I've loved imaging and processing this beautifull object. clear sky.\r\n\r\nJF",
+    "h": 1236,
+    "hash": "1ts3gh",
+    "id": 489948,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro",
+        "ZWO ASI290MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 480,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": "342.926",
+    "pixscale": "0.390",
+    "published": "2020-05-21T13:29:47.388849",
+    "ra": "189.079",
+    "radius": "0.137",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/489948/",
+    "revisions": [
+        "/api/v1/imagerevision/233946/",
+        "/api/v1/imagerevision/233947/",
+        "/api/v1/imagerevision/234069/",
+        "/api/v1/imagerevision/234078/",
+        "/api/v1/imagerevision/234082/",
+        "/api/v1/imagerevision/234252/",
+        "/api/v1/imagerevision/235356/",
+        "/api/v1/imagerevision/266699/"
+    ],
+    "subjects": [
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "NGC 4565 in Coma Berenices - high resolution and deep field",
+    "updated": "2021-06-28T17:58:30.144899",
+    "uploaded": "2020-05-21T13:59:58.011885",
+    "url_duckduckgo": "https://www.astrobin.com/1ts3gh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1ts3gh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1ts3gh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1ts3gh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1ts3gh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1ts3gh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1ts3gh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2020/90b2542a-6d51-45e9-9752-41c37de7ddeb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2020/90b2542a-6d51-45e9-9752-41c37de7ddeb-1590070366.jpg",
+    "url_thumb": "https://www.astrobin.com/1ts3gh/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 1754,
+    "w": 2200
+}

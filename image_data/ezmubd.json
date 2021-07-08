@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "53.370",
+    "description": "Luminance data acquired  on the following dates..\napr1st,2016\napr 2nd,2018\nmar26th,2020\nApr12th,2021\napr13th,2021\nRGB data acquired on the following date.\napr3rd,2016",
+    "h": 968,
+    "hash": "ezmubd",
+    "id": 595491,
+    "imaging_cameras": [
+        "Atik 314L+ Mono",
+        "Atik 428EX"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BKP P200 DS",
+        "Skywatcher BKP 150 DS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2799422/"
+    ],
+    "orientation": "358.075",
+    "pixscale": "1.329",
+    "published": "2021-06-08T04:44:23.966312",
+    "ra": "179.392",
+    "radius": "0.301",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595491/",
+    "revisions": [],
+    "subjects": [
+        "M 109",
+        "NGC 3992"
+    ],
+    "title": "M -109",
+    "updated": "2021-06-18T11:43:48.471430",
+    "uploaded": "2021-06-08T04:36:04.024363",
+    "url_duckduckgo": "https://www.astrobin.com/ezmubd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ezmubd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ezmubd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ezmubd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ezmubd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ezmubd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ezmubd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2545/2021/5c45c654-cead-41d3-91e0-45bf370b3ac6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2545/2021/5c45c654-cead-41d3-91e0-45bf370b3ac6-1623127530.png",
+    "url_thumb": "https://www.astrobin.com/ezmubd/0/rawthumb/thumb/",
+    "user": "northisup2",
+    "views": 114,
+    "w": 1315
+}

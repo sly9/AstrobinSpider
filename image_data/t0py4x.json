@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 27,
+    "data_source": "MIX",
+    "dec": "22.006",
+    "description": "This version of the Crab nebula is a mix between an image taken by S.Brunier at C2PU observatory (1m Newton focus) using a Nikon 810A DSLR and another image taken with my backyard Newton 350mm using an ASI 224MC. The details in the center come mainly from the 1m image and show a great resolution. The low light régions come from both to lower the noise. The Newton 350 also equilibrates the blue layer, as the Nikon is very \"red sensitive\".\r\n\r\nHope you like this mix.\r\n\r\nJF",
+    "h": 2571,
+    "hash": "t0py4x",
+    "id": 547439,
+    "imaging_cameras": [
+        "nikon D 810 A",
+        "ZWO ASI 224MC"
+    ],
+    "imaging_telescopes": [
+        "C2PU T 1000",
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 367,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/",
+        "/api/v1/location/2814912/"
+    ],
+    "orientation": "43.509",
+    "pixscale": "0.307",
+    "published": "2020-12-05T17:37:41.345452",
+    "ra": "83.640",
+    "radius": "0.190",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/547439/",
+    "revisions": [
+        "/api/v1/imagerevision/263241/",
+        "/api/v1/imagerevision/263292/",
+        "/api/v1/imagerevision/263305/",
+        "/api/v1/imagerevision/270222/"
+    ],
+    "subjects": [
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "Nébuleuse du crabe - Mix T 1000 / T 350",
+    "updated": "2021-06-28T15:25:11.185333",
+    "uploaded": "2020-12-05T17:15:31.076475",
+    "url_duckduckgo": "https://www.astrobin.com/t0py4x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t0py4x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t0py4x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t0py4x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t0py4x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t0py4x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t0py4x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2020/ac7735ba-a921-452c-901d-4e457d24c0fa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2020/ac7735ba-a921-452c-901d-4e457d24c0fa-1607190075.jpg",
+    "url_thumb": "https://www.astrobin.com/t0py4x/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 896,
+    "w": 3652
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Clouds have been the norm here lately, severely limiting imaging opportunities. I'm really hoping for opportunities to image as Oval BA and the GRS pass by each other, which (from what I've heard around the forums) will likely occur towards the end of August.\r\n\r\nI had completely clear skies for the first time in nearly 3 weeks the evening of the 8th, although seeing was not great upon initial inspection. This was the \"slow\"/large scale type of seeing effect where the entire planet completely blurs out of focus for extended periods, making it tricky to judge focus and limiting the number of usable frames.\r\n\r\nThe amount of time Jupiter spent in focus improved as the session wore on, however, which presented an opportunity to create an animation which demonstrates the extra detail that becomes available as seeing improves. You'll see additional detail appear in the Equatorial Zone (EZ) and north polar region, for example.\r\n\r\nThe animation spans a 36 minute period with 16 individual images. Each image was created by de-rotating 4 separate stacks, in which the top 15% of frames were used. \r\n\r\nThe still image (Rev A) is what I believe to be the highest quality image from the animation (timestamp 14:11UT). The capture parameters quoted refer to this single still image.\r\n\r\nI thought to also create short videos illustrating what the raw data/seeing looked like at the start, mid and end of the session ... before realising I had already deleted the SER files after stacking! (I'm routinely doing this for all but the best data sets lately, as I'm running low on storage space.) Oh well, next time perhaps.\r\n\r\nThanks for looking!",
+    "h": 646,
+    "hash": "fuw6vt",
+    "id": 514323,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-13T03:43:36.395713",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514323/",
+    "revisions": [
+        "/api/v1/imagerevision/245255/"
+    ],
+    "subjects": [],
+    "title": "Jupiter animation 2020-08-08: seeing evolution",
+    "updated": "2021-03-16T22:55:06.745836",
+    "uploaded": "2020-08-13T03:18:22.518579",
+    "url_duckduckgo": "https://www.astrobin.com/fuw6vt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fuw6vt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fuw6vt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fuw6vt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fuw6vt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fuw6vt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fuw6vt/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/fuw6vt/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 296,
+    "w": 729
+}

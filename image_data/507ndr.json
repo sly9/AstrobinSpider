@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "45 minute animation taken this morning. I captured 10 sec video every 30 seconds.   I made errors during capture. My flats were wrong and I didnt set the histogram correctly. I THOUGHT I set it correctly but didnt notice the high clouds. When they left the area, the histogram became over exposed. Normally I use autohistogram in Firecapture and set to 75-80 and it will adjust the gain to keep the histogram stable.\r\n\r\n\r\nProcessed\r\nAS3\r\nIMPPG for deconvolution, sharpening and tone curves\r\nPixinsight : image container and process container to process all 90 frames with crop and image rotation\r\nPIPP to make .gif",
+    "h": 417,
+    "hash": "507ndr",
+    "id": 515423,
+    "imaging_cameras": [
+        "Basler acA1920-155um"
+    ],
+    "imaging_telescopes": [
+        "Lunt 100tha/b18 Lunt 100"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-16T22:15:00.582541",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/515423/",
+    "revisions": [
+        "/api/v1/imagerevision/245735/"
+    ],
+    "subjects": [],
+    "title": "8_16_20 Animation",
+    "updated": "2021-03-16T22:49:09.433435",
+    "uploaded": "2020-08-16T22:53:19.424525",
+    "url_duckduckgo": "https://www.astrobin.com/507ndr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/507ndr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/507ndr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/507ndr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/507ndr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/507ndr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/507ndr/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/507ndr/0/rawthumb/thumb/",
+    "user": "torsinadoc",
+    "views": 135,
+    "w": 1004
+}

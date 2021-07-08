@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "61.880",
+    "description": "To seen is the open cluster NGC 225 imaged in two sessions on 15 and 18 September.\r\nThere is also to seen the Photometry of the star 2MASS 00414818+6142286 that is identified as\r\nCzeV1582  (W-Ursa Majoris Typ. Periode 0.244407 d  (5.8658 h), mag 15.15 - 15.58.)\r\nThanks to Big_Dipper (Manfred)",
+    "h": 1216,
+    "hash": "mg5pgq",
+    "id": 527311,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.396",
+    "pixscale": "1.210",
+    "published": "2020-09-26T17:48:02.889631",
+    "ra": "10.747",
+    "radius": "0.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/527311/",
+    "revisions": [
+        "/api/v1/imagerevision/251915/"
+    ],
+    "subjects": [
+        "NGC 225"
+    ],
+    "title": "The Sailboat Cluster (NGC225)",
+    "updated": "2021-05-05T15:36:01.052145",
+    "uploaded": "2020-09-26T18:19:40.785878",
+    "url_duckduckgo": "https://www.astrobin.com/mg5pgq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mg5pgq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mg5pgq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mg5pgq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mg5pgq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mg5pgq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mg5pgq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/01bead0d-0212-4514-9e46-e40ac486232c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/01bead0d-0212-4514-9e46-e40ac486232c-1601144756.png",
+    "url_thumb": "https://www.astrobin.com/mg5pgq/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 403,
+    "w": 1936
+}

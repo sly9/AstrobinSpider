@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 62,
+    "comments": 106,
+    "data_source": "BACKYARD",
+    "dec": "61.726",
+    "description": "This is my try on the Phantom of the Opera. I selected first 5 minutes exposures, just to find out that this is for this target not enough, there was not enough depth in the image to really make it pop. So I decided to scrub the 5 minute trials and went for 10 minutes, and it was definitely worth it, hence to everybody who wants to take an image of Sh2-173 in suburban skies, 10 minutes with a 6\" refractor seems to be more appropriate. I use my \"standard\" assignment of the 3 narrowband channels to Pseudo RGB. The 2 bright stars in this area do not make life easier either. Still, I am happy with the result. Once my APO (yes, I decided for a refractor to come in 2021) is here I want to do this object again with real RGB data.\r\nPRGB assignment of the narrowband channels:\r\nR = 45% Ha + 55% SII\r\nG = 10% SII + 20% Ha + 70% OIII\r\nB = 10% Ha + 90% OIII",
+    "h": 3323,
+    "hash": "ele8sg",
+    "id": 550584,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron ADVANCED VX 6\" REFRACTOR TELESCOPE"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 281,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808433/"
+    ],
+    "orientation": "44.261",
+    "pixscale": "0.653",
+    "published": "2020-12-18T21:14:47.170448",
+    "ra": "5.489",
+    "radius": "0.507",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/550584/",
+    "revisions": [],
+    "subjects": [
+        "12 Cas",
+        "Sh2-173",
+        "The star 12Cas"
+    ],
+    "title": "Sh2-173 - The Mask in HSO --> PRGB",
+    "updated": "2021-07-05T20:10:47.068721",
+    "uploaded": "2020-12-18T20:57:49.965050",
+    "url_duckduckgo": "https://www.astrobin.com/ele8sg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ele8sg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ele8sg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ele8sg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ele8sg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ele8sg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ele8sg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26231/2020/7054749d-877e-4ed0-be01-1c49f83009d3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26231/2020/7054749d-877e-4ed0-be01-1c49f83009d3-1608325632.jpg",
+    "url_thumb": "https://www.astrobin.com/ele8sg/0/rawthumb/thumb/",
+    "user": "udeuterm",
+    "views": 1477,
+    "w": 4500
+}

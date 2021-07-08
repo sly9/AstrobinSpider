@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is a narrow band composition with Ha and OIII data using Ha as Red, OIII as Blue and (0.4*HA)+(0.6*OIII) as a synthetic green channel. The image consists of 23 x 300s Ha and 19 x 300s OIII.",
+    "h": 2024,
+    "hash": "nbhfvo",
+    "id": 561726,
+    "imaging_cameras": [
+        "Atik 314L+ Mono"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech 8\" RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804829/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-01-27T23:53:36.629833",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/561726/",
+    "revisions": [
+        "/api/v1/imagerevision/272350/"
+    ],
+    "subjects": [],
+    "title": "The Heart and Soul of the Tarantula",
+    "updated": "2021-03-26T17:51:24.304505",
+    "uploaded": "2021-01-27T23:53:37.302237",
+    "url_duckduckgo": "https://www.astrobin.com/nbhfvo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nbhfvo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nbhfvo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nbhfvo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nbhfvo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nbhfvo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nbhfvo/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/nbhfvo/0/rawthumb/thumb/",
+    "user": "eoliveira",
+    "views": 107,
+    "w": 2728
+}

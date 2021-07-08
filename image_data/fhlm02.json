@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "33.407",
+    "description": "This is a new edit with slightly different coloring. Here are the acquisition details:\r\n\r\nAntlia Ha ~ 5 hours\r\nAntlia Oiii ~ 6 hours\r\nAntlia SII ~ 4.5 hours\r\nTotal: 15.5 hours integration\r\n300s subs, 200 gain, - 10C",
+    "h": 2745,
+    "hash": "fhlm02",
+    "id": 571378,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro monochrome"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 8 HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813841/"
+    ],
+    "orientation": "151.497",
+    "pixscale": "0.648",
+    "published": "2021-03-05T17:47:37.943403",
+    "ra": "80.695",
+    "radius": "0.426",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/571378/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1893"
+    ],
+    "title": "IC 410 The Tadpoles (reprocess)",
+    "updated": "2021-07-06T08:26:40.035243",
+    "uploaded": "2021-03-05T17:41:05.731739",
+    "url_duckduckgo": "https://www.astrobin.com/fhlm02/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fhlm02/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fhlm02/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fhlm02/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fhlm02/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fhlm02/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fhlm02/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/68818/2021/4d3230fe-6953-4b41-8fe4-7aaac7afbda6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/68818/2021/4d3230fe-6953-4b41-8fe4-7aaac7afbda6-1614966416.jpg",
+    "url_thumb": "https://www.astrobin.com/fhlm02/0/rawthumb/thumb/",
+    "user": "chadleader",
+    "views": 151,
+    "w": 3863
+}

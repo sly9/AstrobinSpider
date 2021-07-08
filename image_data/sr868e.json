@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.587",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803\r\nMount : RainbowAstro RST-400\r\nFilters : Astrodon 50mm square true balance gen2 LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposure : L 600s x 52(1x1bin), RGB each 600 x 19(2x2bin) total 18h 10m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)",
+    "h": 3900,
+    "hash": "sr868e",
+    "id": 486758,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "0.864",
+    "pixscale": "0.730",
+    "published": "2020-05-10T09:59:11.635784",
+    "ra": "170.069",
+    "radius": "0.559",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/486758/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "NGC3628 The Hamburger Galaxy",
+    "updated": "2021-04-23T12:36:39.630860",
+    "uploaded": "2020-05-10T10:59:11.851198",
+    "url_duckduckgo": "https://www.astrobin.com/sr868e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sr868e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sr868e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sr868e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sr868e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sr868e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sr868e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/d5d56482-b2be-4af8-b156-db324bf666bb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/d5d56482-b2be-4af8-b156-db324bf666bb-1589108740.jpg",
+    "url_thumb": "https://www.astrobin.com/sr868e/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 302,
+    "w": 3900
+}

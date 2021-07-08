@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "68.160",
+    "description": "Red 104x120s\r\nGreen 104x120s\r\nBlue 104x120s\r\nLum 168x120s",
+    "h": 3744,
+    "hash": "mi5lw5",
+    "id": 597115,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro Cooled (Mono) ZWO ASI1600-MM"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 102mm Triplet APO CF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810170/"
+    ],
+    "orientation": "283.641",
+    "pixscale": "1.714",
+    "published": "2021-06-14T21:47:12.851449",
+    "ra": "315.388",
+    "radius": "1.205",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/597115/",
+    "revisions": [],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023"
+    ],
+    "title": "NGC 7023 Iris Nebula",
+    "updated": "2021-06-28T10:08:27.235715",
+    "uploaded": "2021-06-14T20:44:54.592403",
+    "url_duckduckgo": "https://www.astrobin.com/mi5lw5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mi5lw5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mi5lw5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mi5lw5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mi5lw5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mi5lw5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mi5lw5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30660/2021/888d4833-683d-4bca-8c4e-f4e2d1624100.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30660/2021/888d4833-683d-4bca-8c4e-f4e2d1624100-1623707840.jpeg",
+    "url_thumb": "https://www.astrobin.com/mi5lw5/0/rawthumb/thumb/",
+    "user": "kpdvm",
+    "views": 49,
+    "w": 3411
+}

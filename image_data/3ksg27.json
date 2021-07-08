@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "47.199",
+    "description": "Turned out a little more purple than I would've liked, but I got tired of messing with saturation.\r\n\r\nBackground Neutralization\r\nMLT noise reduction\r\nHistogram Transform x2\r\nSCNR\r\nACDNR (noise reduction)\r\nUnsharp Mask\r\nHDRMT\r\nSaturation (with mask)",
+    "h": 2756,
+    "hash": "3ksg27",
+    "id": 482412,
+    "imaging_cameras": [
+        "ZWO ASI 178MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue 80mm Triplet APO SV080ST-25FT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 20,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804080/"
+    ],
+    "orientation": "179.339",
+    "pixscale": "0.515",
+    "published": "2020-04-27T00:33:00.828868",
+    "ra": "202.467",
+    "radius": "0.320",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482412/",
+    "revisions": [
+        "/api/v1/imagerevision/229850/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M51 The Whirlpool Galaxy",
+    "updated": "2021-03-17T02:42:07.944497",
+    "uploaded": "2020-04-26T23:49:45.384504",
+    "url_duckduckgo": "https://www.astrobin.com/3ksg27/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3ksg27/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3ksg27/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3ksg27/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3ksg27/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3ksg27/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3ksg27/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13837/2020/d0d41203-7b4b-48cf-b81e-3fedcd3e4035.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13837/2020/d0d41203-7b4b-48cf-b81e-3fedcd3e4035-1587945772.png",
+    "url_thumb": "https://www.astrobin.com/3ksg27/0/rawthumb/thumb/",
+    "user": "Don",
+    "views": 87,
+    "w": 3528
+}

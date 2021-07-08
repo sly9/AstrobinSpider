@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-6.276",
+    "description": "Using ASI1600 with roughly half the pixelpitch of Eos6d, M11 stands out more close. Its interesting to see the effect of just using another camera on the same scope - compare to the picture before.",
+    "h": 2347,
+    "hash": "dz0vu6",
+    "id": 565073,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 148,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810093/"
+    ],
+    "orientation": "359.761",
+    "pixscale": "2.739",
+    "published": "2021-02-11T01:06:09.050041",
+    "ra": "282.775",
+    "radius": "1.480",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/565073/",
+    "revisions": [
+        "/api/v1/imagerevision/273032/"
+    ],
+    "subjects": [
+        "Amas de l'Ecu de Sobieski",
+        "M 11",
+        "NGC 6705",
+        "Wild Duck Cluster"
+    ],
+    "title": "M11 more close",
+    "updated": "2021-06-28T08:02:14.988694",
+    "uploaded": "2021-02-11T00:47:39.904318",
+    "url_duckduckgo": "https://www.astrobin.com/dz0vu6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dz0vu6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dz0vu6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dz0vu6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dz0vu6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dz0vu6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dz0vu6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2021/d6589210-7bb3-481f-9c4c-b2224ce6296b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2021/d6589210-7bb3-481f-9c4c-b2224ce6296b-1613045176.png",
+    "url_thumb": "https://www.astrobin.com/dz0vu6/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 519,
+    "w": 3104
+}

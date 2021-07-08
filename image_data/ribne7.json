@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Time is given in UTC!\r\n\r\n\r\nSo... what is this?? :o\r\n\r\nThis is a nice meteor entering earth's atmosphere and while doing so it creates a lot of plasma and a nice meteor trail. Actually multiple as it disintegrated which is why you see that funny pretzel-like shape. The dual view is because I recorded the event using 2 different antennas.\r\n\r\nAnd, it is a reason why it is fun to have a radio astronomy station running in the garden as it is sooooo independent from any weather condition! :-) For weeeeks I havent seen enough clear skies beeing worth-it to rush up the hill and install some optical instrument... \r\n\r\n\r\nBut, meanwhile I could finish my meteor radar scatter obseration (MRSO) installation in the garden, consisting of 2 antennas where each looks under a different angle at the target-field of the french GRAVES radar observation facility, furthermore two receivers and one PC, where both are connected to. Using a specialised software (SpectrumLab) any event scattering back the radar beam to earth, will be captured by the antennas and recorded automatically, as soon as their signal strength exceeds the trigger threshold. This allows me to look through the \"harvest\" when I have time to, e.g. once per day or whenever I want to.\r\n\r\n\r\nWhy does it look so different from what we use to see of a meteor with our naked eye? \r\n\r\nSimply because this is a radar image and what we see is basically the Doppler effect. A meteor entering earth's atmosphere is so fast that its collision with the molecules in the upper atmosphere ionizes them and forms a plasma. At least it forms a plasma shock-bow in front of the meteor's nucleus and, when big/fast enough, also leaves behind a plasma trail in the atmosphere which can persist even up to minutes! This is also true for stuff wayyy below the size the recent Tcheljabinsk-meteorite. That one had the size of a schoolbus! Here, in this example we have a few seconds and the size of a sugar cube or so. Still, this sugar cube can easily carry an energy of 500000 J when travelling at speeds of 20km/s - usually it's more...\r\n\r\nSo, radar-light scattered back from the fast moving nucleus' plasma shock-bow will show a Doppler shift compared to the source frequency. The plasma trail left behind will not show a significant proper movement and thus, creates no Doppler shift. The trail's scattered-back signal will match pretty much the transmitter's frequency. This is what we see right at 143.05MHz - the emitter's frequency.\r\n\r\nInterpreting these captures can be challenging and often will not answer all questions arising from them. This is where other observers in different locations seeing different angles enter the game. Precondition to throwing our data together is an accurate time stamp. GPS does help. Or an internet based time server is fine aswell (there are a couple). \r\n\r\nHowever, already from one image a variety of facts can be drawn. We see, most obvious,  that the meteor disintegrated in multiple pieces which follow their own paths after separation, where they also experience a different amount of friction, the smaller the more. The more the signal's frequency differs from the TX's frequency the higher is the speed relative to the sender, but also to the receiver. If it's beyond the emitter's frequency, the fragment rushes towards the transmitter, if it's below that frequency it move away from the transmitter.\r\n\r\nTime elapses from top to bottom so, the event starts with an incoming streak from the right (lowest point of the signal). This is still the meteor being in one piece. Suddenly reentry-stress becomes too strong and the formally single object litterally explodes into several fragments. The \"puff\" of the explosion remains mainly at the position where it happened which is why we see it basically exactly on the TX's frequency. Fragments moving relative to TX and/or RX will show an offset.  However, the interpretation of this shot is not finished, yet and some questions will remain unanswered. At least for now, as I lack more data from other observers.......\r\n\r\nDuring a meteor stream like the Perseids in mid-august events can become far stronger and longer. They are the most energetic meteors we have available on a regular basis. But, meteors keep falling at us each and every day. Typically an off-season day easily reaches a meteor count beyond 100, and this is only for the area covered by GRAVES, which is Switzerland, Italy, western Mediterranian See, southern France, Spain, Portugal and southwestern France - a small piece of the sky only... ;-)\r\n\r\nI'd be happy for an opportunity to using my optical instruments again, but, as these cannot look through clouds like the antennas....\r\n\r\nClear skies!\r\nOkke",
+    "h": 866,
+    "hash": "ribne7",
+    "id": 533334,
+    "imaging_cameras": [
+        "NooElec NeSDR R820T2 usb dongle"
+    ],
+    "imaging_telescopes": [
+        "Diamond A-144S5R 5-element Yagi"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814631/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-18T15:19:33.306559",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533334/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Bright meteor on Oct.11th, 2020",
+    "updated": "2021-04-27T14:13:22.103364",
+    "uploaded": "2020-10-18T14:29:35.349922",
+    "url_duckduckgo": "https://www.astrobin.com/ribne7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ribne7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ribne7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ribne7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ribne7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ribne7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ribne7/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/ribne7/0/rawthumb/thumb/",
+    "user": "Okke_Dillen",
+    "views": 98,
+    "w": 1747
+}

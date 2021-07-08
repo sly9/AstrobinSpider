@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "TRAVELLER",
+    "dec": "68.097",
+    "description": "The colorful \"Hidden Galaxy\" (IC 342) imaged over November-December 2020 with my mobile setup, the 250 mm f/4 Lacerta PhotoNewton and ZWO ASI183MM Pro camera on the Orion HDX-110 EQ-G mount. IC 342, the largest galaxy of the Maffei/IC 342 Group, is roughly 10 Mly from us. Due to the proximity to the Galactic plane , it is obscured by intervening dust and gas and appears dim and highly reddened. IC 342 has a prominent bar in the center and a well-developed spiral structure with lots of regions of recent and ongoing star formation.\r\n\r\nThis image was produced using both broadband (LRGB) and narrowband (H-alpha) data. The R channel is a combination of R data and H-alpha data. The luminance image is composed of the three different sets of exposures 90s, 180s and 300s duration taken at different camera gain settings (0 and 110).\r\n\r\nExposure Information:\r\nL: 28x300s (Gain 0 bin 1x1)\r\nL: 30x180s (Gain 0, bin 1x1)\r\nL: 24x90s (Gain 110, bin 1x1)\r\nR: 47x180s (Gain 110, bin 1x1)\r\nG: 31x180s (Gain 110, bin 1x1)\r\nB: 38x180s (Gain 110, bin 1x1)\r\nHa: 28x600s (Gain 200, bin 1x1)\r\n\r\nTotal exposure: 14.9 hours",
+    "h": 3408,
+    "hash": "3fwi3l",
+    "id": 549654,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 171,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "180.309",
+    "pixscale": "0.495",
+    "published": "2020-12-14T03:55:53.800969",
+    "ra": "56.702",
+    "radius": "0.411",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549654/",
+    "revisions": [
+        "/api/v1/imagerevision/264443/",
+        "/api/v1/imagerevision/264444/"
+    ],
+    "subjects": [
+        "IC 342",
+        "IC342"
+    ],
+    "title": "IC 342, The Hidden Galaxy",
+    "updated": "2021-06-24T21:30:01.200102",
+    "uploaded": "2020-12-14T03:16:46.408810",
+    "url_duckduckgo": "https://www.astrobin.com/3fwi3l/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3fwi3l/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3fwi3l/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3fwi3l/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3fwi3l/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3fwi3l/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3fwi3l/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/e055d76e-a846-4102-b0f9-a8bc770aadf1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/e055d76e-a846-4102-b0f9-a8bc770aadf1-1607917572.jpg",
+    "url_thumb": "https://www.astrobin.com/3fwi3l/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 403,
+    "w": 4920
+}

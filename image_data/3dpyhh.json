@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 35,
+    "comments": 67,
+    "data_source": "OWN_REMOTE",
+    "dec": "38.340",
+    "description": "A deep view of the Crescent Nebula reveals not a crescent, but the full Wolf-Rayet bubble system of WR 136.\r\n\r\nThis is the first data I've captured after spending three days installing a Planewave L-350 mount to carry the CDK14.   Balance issues are critical with this mount, and I'm likely to go back to completely reconfigure the setup and improve balance and polar alignment. \r\n\r\nWhile I cannot shoot unguided at this time, with guiding I've gotten some of the sharpest subs in years here.  Luckily our sharp Summer nights promptly started the night I turned the new mount on!\r\n\r\nHa and OIII where combined (Ha) / (Ha*.1+OIII*.9) / (OIII - Ha/10) for a roughly HOO mix.  I shoot RGB stars but decided I liked these NB stars more.\r\n\r\nCalibration in CCDStack, Alignment and Image integration in PI, Sharpening in and Deconvolution in CCDStack, Topaz Denoise AI, Photoshop CC for curves, Unsharp masking, Color enhancements.",
+    "h": 1909,
+    "hash": "3dpyhh",
+    "id": 497505,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 280,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "51.270",
+    "pixscale": "0.609",
+    "published": "2020-06-14T20:29:21.430614",
+    "ra": "303.040",
+    "radius": "0.245",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/497505/",
+    "revisions": [
+        "/api/v1/imagerevision/237548/"
+    ],
+    "subjects": [
+        "Crescent Nebula",
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "NGC 6888 | The Crescent",
+    "updated": "2021-06-14T13:08:16.086149",
+    "uploaded": "2020-06-14T18:52:10.196206",
+    "url_duckduckgo": "https://www.astrobin.com/3dpyhh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3dpyhh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3dpyhh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3dpyhh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3dpyhh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3dpyhh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3dpyhh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/c34176aa-42a4-45e6-afc6-703af99afb17.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/c34176aa-42a4-45e6-afc6-703af99afb17-1592162080.jpg",
+    "url_thumb": "https://www.astrobin.com/3dpyhh/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1298,
+    "w": 2182
+}

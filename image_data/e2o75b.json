@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-29.869",
+    "description": "Another nice project made with Olivier Désormières from the SADR Team\r\nSo  thanks a lot to Olivier for the acquisition of a great Luminance and RGB with the Sadr association setup , Newton 14'' in Chile. \r\nI select the best FWHM subs for the luminance. \r\n60s subs were made not to burn the center of the galaxy.\r\n\r\nThe objective was to show the kind of black ring around M83\r\n\r\nRed 10 subs@120s -20°C bin 2 gain high\r\nBlue 10 subs@120s -20°C bin 2 gain high\r\nGreen 10 subs@120s -20°C bin 2 gain high\r\n\r\nLight  30 subs@60s -20°C, gain high\r\nLight  39 subs@300s -20°C, gain high\r\nLight 81 subs@600s -20°C, gain high\r\nHalpha 45 subs@300s -20°C, gain high",
+    "h": 2839,
+    "hash": "e2o75b",
+    "id": 493948,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "93.137",
+    "pixscale": "0.696",
+    "published": "2020-06-01T19:49:58.636659",
+    "ra": "204.252",
+    "radius": "0.388",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/493948/",
+    "revisions": [
+        "/api/v1/imagerevision/235797/"
+    ],
+    "subjects": [
+        "M 83",
+        "M83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy",
+        "Southern Pinwheel galaxy"
+    ],
+    "title": "M83 the Southern Pinwheel with SADR Chili",
+    "updated": "2021-03-21T10:15:13.876438",
+    "uploaded": "2020-06-01T20:10:03.949100",
+    "url_duckduckgo": "https://www.astrobin.com/e2o75b/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/e2o75b/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/e2o75b/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/e2o75b/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/e2o75b/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/e2o75b/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/e2o75b/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/7a18de7b-e3e3-40f2-977e-d404420eb565.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/7a18de7b-e3e3-40f2-977e-d404420eb565-1591043351.jpg",
+    "url_thumb": "https://www.astrobin.com/e2o75b/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 266,
+    "w": 2839
+}

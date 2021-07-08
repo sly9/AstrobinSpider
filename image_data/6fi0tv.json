@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "85.311",
+    "description": "NGC 188 is a nice cluster near Polaris.  Certainly its position challenged my guiding since PHD did not even allow me to calibrate at this elevation.\r\n\r\nI include a simple PI low autostretched (equivalent) version of the stacked file for those who are interested in what the early stacked data look like.  This may be particularly useful for those who use the same telescope and similar camera as I, or who are interested in acquiring that gear for their rig.  I am not sure that this is the best subject for that though.  IN any case, I welcome any feedback on what I could do better, be it different sub exposure, etc.\r\n\r\nI like the subject looking through a hole in the IFN towards us.  My camera uses a C-sized sensor, and from this field of view, I wish I had a full-frame camera.\r\n\r\nI created (or botched) an attempt to reduce the halos that came through on the brightest stars, of which there are a good deal in this view.  Several methods I found online were applied here, but many of the halos are within IFN, overlap IFN or are on some sort of gradient, which appears to challenge any method.  So I include as the final version the one where I just caved and left the halos.",
+    "h": 3279,
+    "hash": "6fi0tv",
+    "id": 526473,
+    "imaging_cameras": [
+        "ZWO ASI071MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 11"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "133.014",
+    "pixscale": "1.596",
+    "published": "2020-09-24T05:15:18.548529",
+    "ra": "12.302",
+    "radius": "1.313",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526473/",
+    "revisions": [
+        "/api/v1/imagerevision/251470/",
+        "/api/v1/imagerevision/251471/",
+        "/api/v1/imagerevision/251476/"
+    ],
+    "subjects": [
+        "NGC 188",
+        "NGC188"
+    ],
+    "title": "NGC 188  Several Versions",
+    "updated": "2021-06-08T22:10:42.269733",
+    "uploaded": "2020-09-24T05:54:01.112658",
+    "url_duckduckgo": "https://www.astrobin.com/6fi0tv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6fi0tv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6fi0tv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6fi0tv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6fi0tv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6fi0tv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6fi0tv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/53640/2020/c7b8ce9c-88bd-4c53-ad88-6e75424d8f46.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/53640/2020/c7b8ce9c-88bd-4c53-ad88-6e75424d8f46-1600927829.jpg",
+    "url_thumb": "https://www.astrobin.com/6fi0tv/0/rawthumb/thumb/",
+    "user": "Alan_Brunelle",
+    "views": 154,
+    "w": 4934
+}

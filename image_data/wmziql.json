@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "35.326",
+    "description": "Object : ngc 1579\r\nDate : Dec.2018-Feb.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 , \r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGBHa\r\nExposure : L:300sx71 ,R:300sx30,G:300sx29,B:300sx27,H:1200sx3 (~14.1hr)    \r\nGuiding  :Borg 50/ asi174 , \r\nProcessing:  PI、PS-CC",
+    "h": 2092,
+    "hash": "wmziql",
+    "id": 494838,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "https://astro-noodle.blogspot.com/2020/06/ngc-1579.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "87.474",
+    "pixscale": "0.669",
+    "published": "2020-06-05T06:16:17.825348",
+    "ra": "67.537",
+    "radius": "0.313",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/494838/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1579",
+        "NGC1579",
+        "Sh2-222"
+    ],
+    "title": "ngc 1579",
+    "updated": "2021-03-17T01:33:53.189081",
+    "uploaded": "2020-06-05T07:16:18.216765",
+    "url_duckduckgo": "https://www.astrobin.com/wmziql/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wmziql/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wmziql/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wmziql/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wmziql/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wmziql/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wmziql/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/a39c2fcb-78c5-4674-ba86-e25395323a9d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/a39c2fcb-78c5-4674-ba86-e25395323a9d-1591341767.png",
+    "url_thumb": "https://www.astrobin.com/wmziql/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 324,
+    "w": 2640
+}

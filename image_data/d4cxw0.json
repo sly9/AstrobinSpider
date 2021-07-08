@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is an experiment I wanted to try for a long time. The Lucky imaging method for some of these DSO targets.\r\n\r\nWith ASI174MM (uncooled) loaded on C14, I figured I will give it a go after Venus set.  I let it run for 2 hours and ended up with roughly 600x10s subs\r\n\r\n\r\nThis has a different set of challenge\r\n1. Locating the target (No other stars or plate-solve possible)\r\n2. Focus. This one is really really hard to figure out\r\n3. Exposure length. I had no idea what to use. I started with 10s and went for about 2 hours. \r\n4. Guiding. Since there is no way correct the framing, the target will slowly drift out of the FOV and there is no way to GUIDE it (so unattended imaging is not possible)\r\n5. Processing - This one is even harder.. I have to thank Autostakkert dev for this. There is surprisingly a specific mode for ASI174! for getting rid of horizontal lines. I also shot a 10 minute (10s sub) video for dark and loaded that. I stretched it and applied a bit of de-convolution (which resulted in speckled look and I need experiment and find the right settings.\r\n\r\n\r\nOverall, this is very exciting :)",
+    "h": 727,
+    "hash": "d4cxw0",
+    "id": 477191,
+    "imaging_cameras": [
+        "ZWO ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 XLT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-14T14:17:17.363577",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/477191/",
+    "revisions": [
+        "/api/v1/imagerevision/226305/",
+        "/api/v1/imagerevision/226312/",
+        "/api/v1/imagerevision/226345/",
+        "/api/v1/imagerevision/226787/"
+    ],
+    "subjects": [],
+    "title": "Black Eye Galaxy - Lucky Imaging",
+    "updated": "2021-07-03T15:57:34.348327",
+    "uploaded": "2020-04-14T15:03:03.413276",
+    "url_duckduckgo": "https://www.astrobin.com/d4cxw0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/d4cxw0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/d4cxw0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/d4cxw0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/d4cxw0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/d4cxw0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/d4cxw0/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/d4cxw0/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 562,
+    "w": 1024
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "62.467",
+    "description": "In the constellation Cepheus, 2400 light years from Earth, is the Cave Nebula. It is a complex region with a collection of emission, reflection, and dark nebulosity. The crescent-shaped cave is rich in Ha and is a region of active star formation. Also in this image is the VdB155, a soft-blue reflection nebula.\r\n\r\nThis was my most integration-intense project. Over a five-week period I collected more than 50 hours of data, and used just over 38 hours for this image. About half of the data were collected with a WO GT71 (FL 336) and the other half with a WO FLT 132 (FL 925). For the GT71 data, only subs with an HFR ranging 1.5-1.9 were used, and for the FLT132, subs ranging from 2.3-2.9 were used. In the processing of this image, I used the wide angle data for the color mapping and the narrow angle data in the creation of a master luminance mask. This image uses SHO with standard Hubble color assignments and star color provided by RGB data.",
+    "h": 3337,
+    "hash": "83ihov",
+    "id": 537223,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 132,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "76.245",
+    "pixscale": "0.862",
+    "published": "2020-11-04T05:02:40.349992",
+    "ra": "344.105",
+    "radius": "0.662",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/537223/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-155",
+        "VdB155"
+    ],
+    "title": "The Cave (Sh2-155, C9)",
+    "updated": "2021-07-04T17:33:59.553675",
+    "uploaded": "2020-11-04T05:02:40.722555",
+    "url_duckduckgo": "https://www.astrobin.com/83ihov/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/83ihov/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/83ihov/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/83ihov/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/83ihov/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/83ihov/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/83ihov/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/385e7918-80b0-431b-8956-a27cd4e6bdc7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/385e7918-80b0-431b-8956-a27cd4e6bdc7-1604466421.jpg",
+    "url_thumb": "https://www.astrobin.com/83ihov/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 340,
+    "w": 4414
+}

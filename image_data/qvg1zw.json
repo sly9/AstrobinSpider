@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "45.426",
+    "description": "SII 30x900s\r\nHA 50x900s\r\nOIII 50x1200s",
+    "h": 1500,
+    "hash": "qvg1zw",
+    "id": 601752,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "William Optics RedCat 51 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811638/"
+    ],
+    "orientation": "0.147",
+    "pixscale": "5.361",
+    "published": "2021-07-04T19:17:35.424307",
+    "ra": "304.483",
+    "radius": "1.814",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601752/",
+    "revisions": [
+        "/api/v1/imagerevision/293919/",
+        "/api/v1/imagerevision/293920/",
+        "/api/v1/imagerevision/293928/",
+        "/api/v1/imagerevision/294150/"
+    ],
+    "subjects": [],
+    "title": "W63 / SNR G082.2+05.3",
+    "updated": "2021-07-07T04:34:40.556815",
+    "uploaded": "2021-07-04T19:09:47.827853",
+    "url_duckduckgo": "https://www.astrobin.com/qvg1zw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qvg1zw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qvg1zw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qvg1zw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qvg1zw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qvg1zw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qvg1zw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41770/2021/ae67fa02-04f0-4106-83bc-6ae875944bb1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41770/2021/ae67fa02-04f0-4106-83bc-6ae875944bb1-1625426071.jpg",
+    "url_thumb": "https://www.astrobin.com/qvg1zw/0/rawthumb/thumb/",
+    "user": "Tayson",
+    "views": 115,
+    "w": 1920
+}

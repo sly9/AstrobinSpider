@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "67.301",
+    "description": "CED 214 is an emission nebula in the constellation Cepheus. It is part of the surrounding bigger structure NGC 7822 which is not in this field of view, The brighter part of the nebula is also listed as Sh2-171. Last but not least there is an open star cluster Berkley 59 within the central part.\r\n\r\nThe image is an SHO-RGB rendition with SII showing in orange color, Ha in yellow and OIII represented by blue tones. The stars show in their real colors shot in RGB exposures.\r\n\r\nASI1600mmp and TS Photoline 130/910 with 0.79x reducer.\r\n\r\n13 x 200s SII (8nm)\r\n34 x 200s Ha (7.5 nm)\r\n18 x 200s OIII (3nm)\r\n30 x 30s R/G/B each",
+    "h": 3320,
+    "hash": "6c8159",
+    "id": 519745,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 157,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.785",
+    "pixscale": "1.061",
+    "published": "2020-08-31T15:25:52.598470",
+    "ra": "0.986",
+    "radius": "0.818",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/519745/",
+    "revisions": [
+        "/api/v1/imagerevision/247918/"
+    ],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "CED 214 / Sh2-171in Cepheus",
+    "updated": "2021-06-19T22:19:58.920494",
+    "uploaded": "2020-08-31T16:20:22.261294",
+    "url_duckduckgo": "https://www.astrobin.com/6c8159/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6c8159/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6c8159/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6c8159/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6c8159/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6c8159/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6c8159/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/1dea1c55-310a-4c59-ad2a-27fa2e9b45bc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/1dea1c55-310a-4c59-ad2a-27fa2e9b45bc-1598891246.jpg",
+    "url_thumb": "https://www.astrobin.com/6c8159/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 522,
+    "w": 4454
+}

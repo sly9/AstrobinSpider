@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "28.378",
+    "description": "This is a test to see how good the Signal/Noise can be using dithered 90s subs on my new Aluma AC4040 camera and using an SBIG AO-X. Using the Pixinsight Signal to noise routine to quantify the images, I first stacked the RGB Subs (30,40,36 frames) using WBPP with weighting set on Cluster. I then drizzle integrated each color master. A Synthetic Luminance was formed by integrating the R,G,B drizzled masters with noise weighting, no rejection. The Synthetic Luminance was then deconvoluted, and then MLT linear noise reduction was applied. Here are the results.\n\nWBPP Automatically picked 90s Reference Frame SNR: 3290\nSynthetic Luminance Frame SNR: 25320\nAfter Deconvolution SNR: 40910\nAfter MLT Linear Noise Reduction with Linear Mask SNR: 95890\n\nOK, the camera can produce details at short exposure for broadband frames.",
+    "h": 3500,
+    "hash": "djohqo",
+    "id": 599430,
+    "imaging_cameras": [
+        "Diffraction Limited Aluma AC4040"
+    ],
+    "imaging_telescopes": [
+        "Planewave 20\" CDK CDK 20"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2815370/"
+    ],
+    "orientation": "1.005",
+    "pixscale": "0.539",
+    "published": "2021-06-22T20:00:31.157312",
+    "ra": "205.548",
+    "radius": "0.371",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599430/",
+    "revisions": [],
+    "subjects": [
+        "M 3",
+        "NGC 4006",
+        "NGC 5272"
+    ],
+    "title": "M3 Globular Cluster",
+    "updated": "2021-07-06T20:39:35.501973",
+    "uploaded": "2021-06-22T19:33:57.217768",
+    "url_duckduckgo": "https://www.astrobin.com/djohqo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/djohqo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/djohqo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/djohqo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/djohqo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/djohqo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/djohqo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17213/2021/a596cbaf-44bc-4d79-b84d-10fe76601da9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17213/2021/a596cbaf-44bc-4d79-b84d-10fe76601da9-1624391983.jpg",
+    "url_thumb": "https://www.astrobin.com/djohqo/0/rawthumb/thumb/",
+    "user": "gwnelson1962",
+    "views": 79,
+    "w": 3500
+}

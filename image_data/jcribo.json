@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 36,
+    "comments": 73,
+    "data_source": "BACKYARD",
+    "dec": "4.950",
+    "description": "Rosette Nebula is always my favorite object during the winter.  I just can't stop myself to slew the telescope to this Rose. We got about 8 days of the OK night sky during the first two weeks of January in the SF bay area. I was able to collect a reasonable amount of data.\r\nHa, OIII, and SII narrowband filters presented in the Hubble color palette plus the natural star color using R, G, and B filters.\r\nTechnical details:\r\nTelescope: TEC 160FL + Astro-Physics 0.72x Quad Telecompressor Corrector\r\nMount: Astro-Physics Mach 2 GTO\r\nImaging cameras:ZWO ASI6200MM \r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\nPhotometricColorCalibration data:\r\nResolution ............... 0.958 arcsec/px\r\nRotation ................. -179.230 deg\r\nObservation start time ... 2021-01-14 03:32:19 UTC\r\nObservation end time ..... 2021-01-21 10:27:35 UTC\r\nFocal distance ........... 809.31 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 2d 30' 7.9\" x 1d 39' 2.4\"\r\nImage center ............. RA:  6 32 34.293  Dec:  +4 56 00.63\r\nImage bounds:\r\n   top-left .............. RA:  6 27 30.708  Dec:  +4 07 27.16\r\n   top-right ............. RA:  6 37 32.424  Dec:  +4 05 24.24\r\n   bottom-left ........... RA:  6 27 35.404  Dec:  +5 46 28.70\r\n   bottom-right .......... RA:  6 37 38.619  Dec:  +5 44 25.47\r\n\r\nFilters: Astrodon 50mm Unmounted LRGB Gen2 E-Series Filter Sets\r\n         Astrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue   31x60\" 11x120\"   53 Minutes  Bin1x1 1/14/2021, 1/20/2021\r\nGreen  31x60\" 11x120\"   53 Minutes  Bin1x1 1/14/2021, 1/20/2021  \r\nRed    31x60\" 11x120\"   53 Minutes  Bin1x1 1/14/2021, 1/20/2021\r\nHa     43x900\" 6x1200\"  12.75 Hours Bin1x1 1/14/2021 ~ 01/21/2022\r\nOIII   45x900\" 5x1200\"  12.9 Hours  Bin1x1 1/14/2021 ~ 01/21/2022\r\nSII    42x900\" 6x1200\"  12.5 Hours  Bin1x1 1/14/2021 ~ 01/21/2022",
+    "h": 5883,
+    "hash": "jcribo",
+    "id": 561956,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 431,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "179.229",
+    "pixscale": "0.958",
+    "published": "2021-01-29T08:27:52.614431",
+    "ra": "98.030",
+    "radius": "1.129",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/561956/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "NGC 2252",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula  (Caldwell 49) SHO + RGB stars",
+    "updated": "2021-07-07T08:04:39.940692",
+    "uploaded": "2021-01-29T08:07:45.736329",
+    "url_duckduckgo": "https://www.astrobin.com/jcribo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jcribo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jcribo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jcribo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jcribo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jcribo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jcribo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/88909bcb-448f-44bc-a387-b1d99ab287b6.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/88909bcb-448f-44bc-a387-b1d99ab287b6-1611908113.JPG",
+    "url_thumb": "https://www.astrobin.com/jcribo/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 2185,
+    "w": 6112
+}

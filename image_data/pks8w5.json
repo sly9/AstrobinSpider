@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "47.207",
+    "description": "Bonjour\r\nNouvelle image de M51 en zoom légèrement retravaillé avec Pixinsight et RawTherapee . J'ai aussi changer la position de la galaxie poour la rendre plus dynamique .... Du moins je crois ..\r\nTous les commentaires sont les bienvenus..\r\nL:236x300s + 64x600s en bin1\r\nR,V,B,Ha:40x180s en bin2 pour chaque\r\nTotal ~ 38H\r\n\r\nHi\r\nNew image of M51 in zoom slightly reworked with Pixinsight and RawTherapee. I also changed the position of the galaxy to make it more dynamic .... At least I think ...\r\nAll your comments are welcome..\r\n\r\nL: 236x300s + 64x600s in bin1\r\nR, G, B, Ha: 40x180s in bin2 for each\r\nTotal ~ 38H",
+    "h": 2028,
+    "hash": "pks8w5",
+    "id": 507782,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher PRO 120ED APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 218,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805429/"
+    ],
+    "orientation": "35.698",
+    "pixscale": "0.840",
+    "published": "2020-07-21T08:58:41.836098",
+    "ra": "202.467",
+    "radius": "0.307",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/507782/",
+    "revisions": [
+        "/api/v1/imagerevision/242367/",
+        "/api/v1/imagerevision/242368/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "Messier 51 en LHaRVB zoom & new process",
+    "updated": "2021-03-17T11:07:06.503638",
+    "uploaded": "2020-07-21T09:58:42.056936",
+    "url_duckduckgo": "https://www.astrobin.com/pks8w5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pks8w5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pks8w5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pks8w5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pks8w5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pks8w5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pks8w5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/698ed6c6-a7f6-44cb-88b8-7b4b281cc138.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/698ed6c6-a7f6-44cb-88b8-7b4b281cc138-1595325803.jpg",
+    "url_thumb": "https://www.astrobin.com/pks8w5/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 407,
+    "w": 1677
+}

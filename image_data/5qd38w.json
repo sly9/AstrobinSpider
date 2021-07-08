@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "27.910",
+    "description": "<b>Abell 39</b> is a planetary nebula of low surface brightness in the constellation of Hercules. It is estimated to be about 6,800 light-years from earth and approximately 4600 light-years above the galactic plane. It is almost perfectly spherical and also one of the largest known spheres with a radius of about 2.5 light-years. It is the 39th entry in George Abell's 1966 Abell Catalog of <a href=\"https://en.wikipedia.org/wiki/Abell_Catalog_of_Planetary_Nebulae\">Planetary Nebulae</a>. \r\n\r\nIts central star is slightly west of centre by about 2 arc-seconds or 0.1 light-years. This offset does not appear to be due to interaction with the interstellar medium, but instead, it is hypothesized that a small asymmetric mass ejection has accelerated the central star. The mass of the central star is estimated to be about 0.61 solar mass with the material in the planetary nebula comprising an additional 0.6 solar mass. The central star is classified as a subdwarf O star.\r\n\r\nThis planetary nebula has a nearly uniform spherical shell. However, the eastern limb of the nebula is 50% more luminous than the western limb. Additionally, irregularities in the surface brightness are seen across the face of the shell. The source of the east-west asymmetry is not known but it could be related to the 2 arc-second offset of the central star mentioned above.\r\n\r\nThe bright rim of the planetary nebula has an average thickness of about 10.1 arc-seconds or about 0.34 light-years. There is a faint halo that extends about 18 arc-seconds beyond the bright rim giving a complete diameter of around 190 arc-seconds under the assumption that this emission is uniform around the planetary nebula.\r\n\r\nThis planetary nebula has been expanding for an estimated 22,100 (+1700−1500) years, based on an assumed expansion velocity of between 32 and 37 km/s and a 0.78 parsec radius.\r\n\r\n(c) <a href=\"https://en.wikipedia.org/wiki/Abell_39\">Wikipedia</a> and other sources\r\n\r\n<p>\r\n<b>A word on processing</b>\r\n\r\nAs the saying goes: there is more than one way to cook an egg (let's leave cats out of this ^^). I had a couple of decisions to make regarding how to combine the various image masters:\r\n\r\n(1) how to combine the 0.28 arc-sec/pixel EdgeHD narrowband data with the 0.19 arc-sec/pixel Meade 16 data, i.e., fit the high-res data to the low-res data, or visa-versa, and\r\n(2) how to combine the resulting narrowband data with the RGB data\r\n\r\nI had previously combined the EdgeHD and Meade 16 narrowband data by reducing the resolution of the (higher-res) Meade 16 data to fit the lower-res EdgeHD data (see my Bow-Tie nebula entry). This effectively shrinks the Meade 16 master images and increases their signal-to-noise ratio, but when combined with the EdgeHD masters it leaves frame edge artefacts well within the  FOV of the combined masters, which then need to be trimmed out. For Abell 39 I decided to increase the resolution of the EdgeHD narrowband master to fit the higher-res Meade 16 data. I suffer a slight SNR reduction in the EdgeHD master, but retain the higher resolution (smaller pixel scale) of the Meade 16 data, and avoid having to trim out a large amount of the image by avoiding any image edge artefacts corrupting the FOV.\r\n\r\nFor combining RGB and narrowband images (like HOO or HSO) I know of two general approaches:\r\n(1) add individual narrowband channels to individual RGB channels (i.e, Ha to Red, OIII to Green, etc.), or\r\n(2) create a synthetic RGB image vis-a-vis HOO and replace the resulting white stars with RGB stars.\r\n\r\nAs I only had OIII narrowband data (there are little to no Ha or SII emissions from Abell 39), it would have been straightforward to simply add the OIII data to the Blue channel (or to both the Blue and Green channels to obtain the teal hue). However, would that be the best use of the data in terms of the overall signal-to-noise of the resulting image? And how about in terms of star size (stars tend to be huge at 4 metres focal length)? I had less than 6 hours of RGB data, and close to 50 hours of OIII data, so the narrowband data should be less noisy. Also, the narrowband data provides much tighter star profiles than the RGB data, so surely it would be better to \"colour\" the narrowband stars with the RGB star colour data, rather than keep the fatter RGB stars. Rightly or wrongly, I considered the RGB image was most likely noisier overall, and therefore creating a synthetic RGB image from the narrowband data, and then simply colouring the resulting white stars with those from the RGB image, should produce a final image with lower overall SNR and tighter star profiles.\r\n\r\nThe big problem here is that I only have OIII data, so I cannot produce a narrowband combination like HOO or HOS directly. How can I produce a synthetic RGB image with only OIII data? After careful thought, my plan of action was to create a starless version of the OIII data via StarNet++. I then used that image to remove the DSO from a copy of the OIII master. This essentially provided me with a \"DSO-less\" master, which I then used as a \"synthetic\" Ha master. Subsequently, I produced an HOO composition, and replaced the white stars with their RGB counterparts using a very tight star mark and pixel-math.\r\n\r\nI doubt the above procedures are ideal or optimal in any way (in fact, this was more of an experiment, with failure as the most likely outcome, than a well-honed technique), but in the end the result was worth the effort IMHO, and in addition I was able to add a few more tools, and a little more experience, to my image processing toolbox.\r\n\r\nImaged March 21st to April 5th. Over 61 hours of data reduced to 55 hours via subframe selector.",
+    "h": 3252,
+    "hash": "5qd38w",
+    "id": 496195,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro (Mono)"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 1100",
+        "Meade LX 200 ACF 16\" f/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809526/"
+    ],
+    "orientation": "90.392",
+    "pixscale": "0.193",
+    "published": "2020-06-11T04:05:51.703863",
+    "ra": "246.890",
+    "radius": "0.146",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496195/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Abell 39",
+    "updated": "2021-05-28T03:13:16.887737",
+    "uploaded": "2020-06-11T02:03:35.379638",
+    "url_duckduckgo": "https://www.astrobin.com/5qd38w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5qd38w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5qd38w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5qd38w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5qd38w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5qd38w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5qd38w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28686/2020/c394683b-9b2a-47aa-bbc1-a1f28382848d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28686/2020/c394683b-9b2a-47aa-bbc1-a1f28382848d-1591879586.png",
+    "url_thumb": "https://www.astrobin.com/5qd38w/0/rawthumb/thumb/",
+    "user": "RossJapan",
+    "views": 650,
+    "w": 4380
+}

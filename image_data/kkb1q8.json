@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.133",
+    "description": "LBN 581, also known as NGC 7822 and Cederblad 214, is an emission nebula in Cepheus. It's not one of the most popular targets but it is large, and especially in hydrogen alpha, very interesting. \r\n\r\nThe OIII and SII are very faint compared to the hydrogen alpha but still present.\r\n\r\nProcessing was straightforward:\r\nOn the h-a, oIII and sII masters:\r\ndynamic crop\r\nDBE\r\nMLT (noise reduction)\r\nLinear fit to h-a\r\n\r\ncombined:\r\nchannel combination (HSO)\r\nhistogram transformation\r\nlocal histogram equalization (2 scales)\r\ncurves (contrast & color)\r\nadv sharpening script\r\n\r\nThe biggest challenge was DBE since the field is full of nebulosity. I used only about 6 points and scrutinized the background model to make sure it looked like gradient. Actually the only significant gradient was in SII where about half the subs were captured during fairly bright moonlight.\r\n\r\nOverall, this was a fun project and I enjoyed getting to know one off the lesser known jewels of the night sky!",
+    "h": 3516,
+    "hash": "kkb1q8",
+    "id": 549476,
+    "imaging_cameras": [
+        "Finger Lakes Instruments ML16200"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics Riccardi-Honders 305mm"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 124,
+    "link": "https://lindasastronomyadventures.space/2020/12/13/lbn-581-hso/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814796/"
+    ],
+    "orientation": "181.194",
+    "pixscale": "1.103",
+    "published": "2020-12-13T14:44:12.022183",
+    "ra": "0.906",
+    "radius": "0.864",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/549476/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "LBN 581 - HSO",
+    "updated": "2021-06-30T22:52:31.691214",
+    "uploaded": "2020-12-13T14:05:27.402785",
+    "url_duckduckgo": "https://www.astrobin.com/kkb1q8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kkb1q8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kkb1q8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kkb1q8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kkb1q8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kkb1q8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kkb1q8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26936/2020/da49cd22-2428-4200-aa59-fb88513cf2a7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26936/2020/da49cd22-2428-4200-aa59-fb88513cf2a7-1607869854.jpg",
+    "url_thumb": "https://www.astrobin.com/kkb1q8/0/rawthumb/thumb/",
+    "user": "ac4lt",
+    "views": 401,
+    "w": 4404
+}

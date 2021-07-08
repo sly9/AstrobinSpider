@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "9.863",
+    "description": "Christmas Tree Cluster region with Sh2-273 (Fox Fur Nebula).\r\n\r\n34 x 300 s Ha gain 100\r\n30 x 90 s each R/G/B gain 0\r\n\r\nTS Photoline 130/910 and ASI2600mm-pro (First Light)",
+    "h": 4023,
+    "hash": "jctajd",
+    "id": 568850,
+    "imaging_cameras": [
+        "ZWO ASI2600mm-pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "270.656",
+    "pixscale": "0.857",
+    "published": "2021-02-22T20:53:31.935117",
+    "ra": "100.288",
+    "radius": "0.870",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/568850/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree Cluster",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264 and Sh2-273",
+    "updated": "2021-06-22T12:24:57.626148",
+    "uploaded": "2021-02-22T20:40:47.234354",
+    "url_duckduckgo": "https://www.astrobin.com/jctajd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jctajd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jctajd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jctajd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jctajd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jctajd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jctajd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2021/2656af5f-4e9b-4b39-b0d8-49379e01d362.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2021/2656af5f-4e9b-4b39-b0d8-49379e01d362-1614026935.jpg",
+    "url_thumb": "https://www.astrobin.com/jctajd/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 501,
+    "w": 6109
+}

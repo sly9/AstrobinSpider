@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 33,
+    "data_source": "TRAVELLER",
+    "dec": "47.311",
+    "description": "A spectacular nearby spiral galaxy, M 106 (NGC 4258), harboring a Seyfert 2 type active nucleus. The image is a combination of LHaRGB exposures obtained with the 250 mm f/4 Lacerta PhotoNewton and ASI183MM Pro camera over several nights in February-April 2020. Also seen in the wider field image is a small interacting companion NGC 4248, presumably responsible for the tidal distortion of the M 106 outer disk. \r\n\r\nThe luminance data was captured with camera gain 0, while the RGB and H-alpha exposures were taken at gain 53 and 200:\r\n\r\nL: 52x300s (Gain 0, bin 1x1)\r\nR: 30x300s (Gain 53, bin 1x1)\r\nG: 29x300s (Gain 53, bin 1x1)\r\nB: 25x300s (Gain 53, bin 1x1)\r\nHa: 26x600s (Gain 200, bin 1x1)\r\n\r\nTotal exposure: 15.7 hours",
+    "h": 2601,
+    "hash": "f1ejdp",
+    "id": 479683,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 279,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "254.419",
+    "pixscale": "0.495",
+    "published": "2020-04-21T03:07:19.331692",
+    "ra": "184.741",
+    "radius": "0.252",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/479683/",
+    "revisions": [
+        "/api/v1/imagerevision/227701/",
+        "/api/v1/imagerevision/227998/"
+    ],
+    "subjects": [
+        "M 106",
+        "M106",
+        "NGC 4258"
+    ],
+    "title": "M 106",
+    "updated": "2021-05-31T10:37:16.634132",
+    "uploaded": "2020-04-21T03:30:36.349149",
+    "url_duckduckgo": "https://www.astrobin.com/f1ejdp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f1ejdp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f1ejdp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f1ejdp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f1ejdp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f1ejdp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f1ejdp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/0a14674e-0563-40d5-8d68-f53c7132aeff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/0a14674e-0563-40d5-8d68-f53c7132aeff-1587490664.jpg",
+    "url_thumb": "https://www.astrobin.com/f1ejdp/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 1028,
+    "w": 2548
+}

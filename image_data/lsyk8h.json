@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.215",
+    "description": "rework of old data \n\nDate: Jan.-Mar. 2018\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\nTelescope : GSO RC10 /AP CCDT67\nMount : SkyWatcher EQ8\nCamera : SX-H694(-20ºC)\nFilter : Astrodon LRGB ,Ha(6nm) \nExposure : : L:300x128 , R:300sx47  ,G:300sx47, B:300sx47 ,Ha:1200sx22   ( ~29.75hr)\nGuiding: OAG ASI174, \nProcessing: PI、PS-CC",
+    "h": 1678,
+    "hash": "lsyk8h",
+    "id": 594760,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "https://astro-noodle.blogspot.com/2021/06/m51.html",
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "90.981",
+    "pixscale": "0.668",
+    "published": "2021-06-05T09:17:22.263355",
+    "ra": "202.468",
+    "radius": "0.258",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/594760/",
+    "revisions": [
+        "/api/v1/imagerevision/291017/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "IC 4278",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool Galaxy",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51",
+    "updated": "2021-06-23T11:35:59.154236",
+    "uploaded": "2021-06-05T09:15:46.886420",
+    "url_duckduckgo": "https://www.astrobin.com/lsyk8h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lsyk8h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lsyk8h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lsyk8h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lsyk8h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lsyk8h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lsyk8h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2021/ee21080a-d62f-4112-acee-f38b1d79f3ba.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2021/ee21080a-d62f-4112-acee-f38b1d79f3ba-1622884740.png",
+    "url_thumb": "https://www.astrobin.com/lsyk8h/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 453,
+    "w": 2218
+}

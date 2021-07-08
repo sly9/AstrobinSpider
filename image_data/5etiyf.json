@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "41.672",
+    "description": "First light with my new backyard obsy (half of the Sii subs)!\r\nThe luminance channel is pure Ha, while Sii and Oiii are primarily used for color in this image with just a hint of Ha in the green channel.\r\nR = Sii\r\nG = 0.3*Sii + 0.6*Oiii + 0.1*Ha\r\nB = Oiii",
+    "h": 3520,
+    "hash": "5etiyf",
+    "id": 510442,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106-EDXII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812173/"
+    ],
+    "orientation": "101.129",
+    "pixscale": "1.475",
+    "published": "2020-07-29T17:01:41.962470",
+    "ra": "304.096",
+    "radius": "1.196",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/510442/",
+    "revisions": [
+        "/api/v1/imagerevision/243547/",
+        "/api/v1/imagerevision/246455/"
+    ],
+    "subjects": [],
+    "title": "IC1318A in H-SOO",
+    "updated": "2021-03-16T23:17:31.438644",
+    "uploaded": "2020-07-29T18:01:41.970207",
+    "url_duckduckgo": "https://www.astrobin.com/5etiyf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5etiyf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5etiyf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5etiyf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5etiyf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5etiyf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5etiyf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9347/2020/085e4ac7-9b74-4470-a9ee-b4eaa6e12e87.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9347/2020/085e4ac7-9b74-4470-a9ee-b4eaa6e12e87-1596046107.png",
+    "url_thumb": "https://www.astrobin.com/5etiyf/0/rawthumb/thumb/",
+    "user": "mesh83",
+    "views": 86,
+    "w": 4656
+}

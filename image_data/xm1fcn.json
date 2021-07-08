@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 34,
+    "comments": 47,
+    "data_source": "BACKYARD",
+    "dec": "31.658",
+    "description": "The chaotic filamentary structure of the Cygnus Loop or Veil Nebula, a supernova remnant in the constellation Cygnus (SH2-103, SNR G074.0-08.6), is in full display in Pickering's Triangle (NGC 6979). The bubble of expanding glowing gas is what is left of a powerful explosion of a progenitor star estimated to be  12-15 times as massive as our Sun. Distance from Earth and the age of this supernova remnant has gone through several refinements over the years and the most recent estimate  (<a href=\"https://arxiv.org/abs/1809.01713\">Fesen et al. 2018</a>) puts the Cygnus Loop at roughly 2,400 light years from Earth, with a diameter of 130 light years, and an age of roughly 21,000 years. \r\n\r\nPickering's Triangle was discovered in 1904 by Williamina Fleming, one of the founding members of the Harvard Computers, an all female team hired by the Harvard College Observartory director Edward Charles Pickering. The discovery was made through analysis of photographic plates. While Pickering's Triangle is the most common name for this deep sky object, following the custom at the time to name the object after the senior member of the discovery team, it is also referred to as Fleming's Triangular Wisp. Williamina Fleming is also credited with having discovered the Horsehead Nebula in 1888 from a photographic plate made by astronomer W.H. Pickering, brother of E.C. Pickering.\r\n\r\nData was processed with Pixinsight (calibration, stacking, and linear processing), Starnet (as a PI plugin), Photoshop (non-linear processing) with Topaz Denoise AI  for noise reduction.",
+    "h": 4488,
+    "hash": "xm1fcn",
+    "id": 542303,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 360,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "2.746",
+    "pixscale": "0.685",
+    "published": "2020-11-18T03:52:54.101528",
+    "ra": "312.047",
+    "radius": "0.529",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542303/",
+    "revisions": [
+        "/api/v1/imagerevision/263863/"
+    ],
+    "subjects": [],
+    "title": "Pickering's Triangle (NGC 6979)",
+    "updated": "2021-06-27T11:03:00.192296",
+    "uploaded": "2020-11-18T02:33:01.482396",
+    "url_duckduckgo": "https://www.astrobin.com/xm1fcn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xm1fcn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xm1fcn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xm1fcn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xm1fcn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xm1fcn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xm1fcn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/86728c58-8961-4451-a3fa-ab5969385358.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/86728c58-8961-4451-a3fa-ab5969385358-1605671572.jpg",
+    "url_thumb": "https://www.astrobin.com/xm1fcn/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 2204,
+    "w": 3276
+}

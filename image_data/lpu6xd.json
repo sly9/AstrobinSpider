@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I had a short session last night imaging clouds on Mars before the clouds rolled over Canberra!  The conditions were breezy but the seeing was fairly good.  \r\n\r\nMorning clouds are visible over the northern winter landscape.  Olympus gleams in the slanting morning sun.\r\n\r\nOn advice from a friend (thanks Niall!), I discontinued using the ADC for RGB imaging.  It was not adding any obvious value  - its main benefit comes in fine-tuning the blue channel,  and my blue channels are generally too mediocre to show any benefit.  In addition it necessitated frequent careful checking for adjustment (by swopping the mono for the colour camera in the imaging train) and re-levelling, which made derotation more difficult by introducing shifts of orientation in the planet that have to be corrected manually when measuring in WinJUPOS.",
+    "h": 413,
+    "hash": "lpu6xd",
+    "id": 538914,
+    "imaging_cameras": [
+        "ZWO ASI 290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge HD",
+        "Siebert 1.5X Barlow"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806707/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-09T00:53:01.238339",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/538914/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Morning clouds in the Martian northern winter 8 Nov 2020",
+    "updated": "2021-04-17T23:28:23.759289",
+    "uploaded": "2020-11-09T00:49:08.528535",
+    "url_duckduckgo": "https://www.astrobin.com/lpu6xd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lpu6xd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lpu6xd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lpu6xd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lpu6xd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lpu6xd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lpu6xd/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/lpu6xd/0/rawthumb/thumb/",
+    "user": "LacailleOz",
+    "views": 92,
+    "w": 413
+}

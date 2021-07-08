@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-18.880",
+    "description": "Arp 244 is the combination of NGC 4038 and NGC 4039, aka The Antennae.  These objects appear quite small at around 1100mm focal length. I used DrizzleIntegration at scale 3 to produce a larger image from a smaller preview/crop of the full field of view.",
+    "h": 3480,
+    "hash": "31h6zm",
+    "id": 488795,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Apochromatic"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811616/"
+    ],
+    "orientation": "264.665",
+    "pixscale": "0.377",
+    "published": "2020-05-17T20:02:30.034305",
+    "ra": "180.439",
+    "radius": "0.306",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/488795/",
+    "revisions": [
+        "/api/v1/imagerevision/233490/",
+        "/api/v1/imagerevision/233764/"
+    ],
+    "subjects": [
+        "Antennae",
+        "Antennae Galaxies",
+        "NGC 4038",
+        "NGC 4039",
+        "NGC4038",
+        "NGC4039"
+    ],
+    "title": "Arp 244",
+    "updated": "2021-07-01T20:31:03.393053",
+    "uploaded": "2020-05-17T16:03:01.979455",
+    "url_duckduckgo": "https://www.astrobin.com/31h6zm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/31h6zm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/31h6zm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/31h6zm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/31h6zm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/31h6zm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/31h6zm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2020/60b4dc6f-c39a-4552-bfd5-0a207c36b69b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2020/60b4dc6f-c39a-4552-bfd5-0a207c36b69b-1589747914.jpg",
+    "url_thumb": "https://www.astrobin.com/31h6zm/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 233,
+    "w": 4692
+}

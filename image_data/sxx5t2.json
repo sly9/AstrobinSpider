@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.327",
+    "description": "",
+    "h": 2100,
+    "hash": "sxx5t2",
+    "id": 527011,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.781",
+    "pixscale": "1.238",
+    "published": "2020-09-25T20:03:05.845135",
+    "ra": "28.111",
+    "radius": "0.602",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/527011/",
+    "revisions": [
+        "/api/v1/imagerevision/251862/",
+        "/api/v1/imagerevision/251870/"
+    ],
+    "subjects": [
+        "NGC 687",
+        "NGC 703",
+        "NGC 705",
+        "NGC 708",
+        "NGC 710",
+        "NGC 714",
+        "NGC 717"
+    ],
+    "title": "Abell 262",
+    "updated": "2021-03-16T19:49:06.810875",
+    "uploaded": "2020-09-25T21:03:06.793766",
+    "url_duckduckgo": "https://www.astrobin.com/sxx5t2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sxx5t2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sxx5t2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sxx5t2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sxx5t2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sxx5t2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sxx5t2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/baee747a-4cfa-4266-9d96-62bc9fa21501.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/baee747a-4cfa-4266-9d96-62bc9fa21501-1601127868.jpg",
+    "url_thumb": "https://www.astrobin.com/sxx5t2/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 341,
+    "w": 2800
+}

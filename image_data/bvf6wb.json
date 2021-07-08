@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "42.033",
+    "description": "",
+    "h": 2000,
+    "hash": "bvf6wb",
+    "id": 474100,
+    "imaging_cameras": [
+        "ZWO ASI071MC Cooled"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811285/"
+    ],
+    "orientation": "0.630",
+    "pixscale": "0.660",
+    "published": "2020-04-12T00:55:24.029089",
+    "ra": "198.960",
+    "radius": "0.294",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/474100/",
+    "revisions": [
+        "/api/v1/imagerevision/225570/",
+        "/api/v1/imagerevision/226285/",
+        "/api/v1/imagerevision/226771/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower Galaxy"
+    ],
+    "title": "M63 - Sunflower Galaxy",
+    "updated": "2021-03-17T03:28:54.296027",
+    "uploaded": "2020-04-07T02:17:40.781277",
+    "url_duckduckgo": "https://www.astrobin.com/bvf6wb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bvf6wb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bvf6wb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bvf6wb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bvf6wb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bvf6wb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bvf6wb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30680/2020/5dd38943-1c33-4445-94ca-0739882778c4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30680/2020/5dd38943-1c33-4445-94ca-0739882778c4-1586648473.png",
+    "url_thumb": "https://www.astrobin.com/bvf6wb/0/rawthumb/thumb/",
+    "user": "phsxtchr",
+    "views": 191,
+    "w": 2501
+}

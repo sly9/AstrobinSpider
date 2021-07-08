@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.139",
+    "description": "Reprocessed first light of my remote controlled setup",
+    "h": 4000,
+    "hash": "btcr0u",
+    "id": 483159,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 152,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.518",
+    "pixscale": "1.236",
+    "published": "2020-04-28T20:09:25.834630",
+    "ra": "210.881",
+    "radius": "0.971",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/483159/",
+    "revisions": [
+        "/api/v1/imagerevision/230373/",
+        "/api/v1/imagerevision/230580/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5474"
+    ],
+    "title": "Messier 101",
+    "updated": "2021-03-17T02:38:01.866449",
+    "uploaded": "2020-04-28T21:09:25.993739",
+    "url_duckduckgo": "https://www.astrobin.com/btcr0u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/btcr0u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/btcr0u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/btcr0u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/btcr0u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/btcr0u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/btcr0u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/9da4a90e-d74b-4412-b4d2-219d05354556.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/9da4a90e-d74b-4412-b4d2-219d05354556-1588108412.jpg",
+    "url_thumb": "https://www.astrobin.com/btcr0u/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 483,
+    "w": 4000
+}

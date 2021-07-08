@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "59.970",
+    "description": "Lunette TS 86/464 Quadruplet APO astrographe\r\nRéducteur Televue x0.80\r\nFocale 371mm à F 4.3\r\nMonture EQ6 Pro\r\nAutoguidage Lunette Orion 50mm Guide Scope 163mm\r\nCamera Starshoot Autoguider\r\nImageur SBIG STF-8300 Mono\r\nRoue à Filtre SBIG RAF-FW8\r\nFiltre Baader L, R, V, B ,S2, Ha et O3\r\n\r\nSky Quality 19.95\r\nMagnitude CLASS 5 Bortle\r\n\r\n\r\nSGP SEQUENCE GENERATOR PRO, SIRIL et UWE ASTRO TOOLS\r\n\r\nJ'ai pu ajouter 10 poses de 1800 secondes , et j'ai traité la totalité des fichiers avec SIRIL !\r\nPour un total de 55H30 min\r\n39H30 de O3, 30 min de RVB pour les étoiles et 15H30 de Ha par poses de 10 minutes.",
+    "h": 2396,
+    "hash": "q3aare",
+    "id": 521307,
+    "imaging_cameras": [
+        "SBIG STF8300M SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TS 86/464 Quadruplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810598/"
+    ],
+    "orientation": "1.982",
+    "pixscale": "3.041",
+    "published": "2020-09-07T14:17:28.482779",
+    "ra": "317.343",
+    "radius": "1.713",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521307/",
+    "revisions": [],
+    "subjects": [],
+    "title": "OU4 55H30 FINALE",
+    "updated": "2021-05-31T10:52:40.066217",
+    "uploaded": "2020-09-07T15:17:28.657806",
+    "url_duckduckgo": "https://www.astrobin.com/q3aare/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/q3aare/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/q3aare/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/q3aare/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/q3aare/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/q3aare/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/q3aare/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20240/2020/62948958-b02a-482f-a212-783d4b225a7c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20240/2020/62948958-b02a-482f-a212-783d4b225a7c-1599492191.jpg",
+    "url_thumb": "https://www.astrobin.com/q3aare/0/rawthumb/thumb/",
+    "user": "UweK",
+    "views": 220,
+    "w": 3273
+}

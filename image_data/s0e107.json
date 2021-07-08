@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "20.103",
+    "description": "A bright planetary nebula in the constellation Delphinus. It is estimated to be around 7,500 light years from Earth.",
+    "h": 561,
+    "hash": "s0e107",
+    "id": 524010,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "3.659",
+    "pixscale": "0.534",
+    "published": "2020-09-17T07:04:13.511850",
+    "ra": "305.595",
+    "radius": "0.074",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/524010/",
+    "revisions": [
+        "/api/v1/imagerevision/250066/"
+    ],
+    "subjects": [
+        "Blue Flash Nebula",
+        "NGC 6905",
+        "NGC6905",
+        "PK061-09.1"
+    ],
+    "title": "NGC 6905 The Blue Flash Nebula",
+    "updated": "2021-03-16T20:11:25.579166",
+    "uploaded": "2020-09-17T07:38:31.565113",
+    "url_duckduckgo": "https://www.astrobin.com/s0e107/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s0e107/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s0e107/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s0e107/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s0e107/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s0e107/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s0e107/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2020/c638a838-9ba4-4b1c-9e2e-3d5fa25124a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2020/c638a838-9ba4-4b1c-9e2e-3d5fa25124a3-1600329795.jpg",
+    "url_thumb": "https://www.astrobin.com/s0e107/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 345,
+    "w": 832
+}

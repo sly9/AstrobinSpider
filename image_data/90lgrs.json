@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "-59.889",
+    "description": "Nearly 8 hours integration over two nights. 42 x 240s plus 150 x 120s. L extreme filter. Stacked in APP in to a Luminance extract (Ha-OIII), Ha extract and OIII extract and recombined and processed in Startools using Bi-colour filter mode.",
+    "h": 4088,
+    "hash": "90lgrs",
+    "id": 564950,
+    "imaging_cameras": [
+        "QHYCCD QHY268c"
+    ],
+    "imaging_telescopes": [
+        "ASKAR FRA400 F5.6 Quintuplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815326/"
+    ],
+    "orientation": "178.338",
+    "pixscale": "1.925",
+    "published": "2021-02-10T09:45:38.022338",
+    "ra": "161.104",
+    "radius": "1.961",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/564950/",
+    "revisions": [],
+    "subjects": [
+        "Carina Nebula",
+        "NGC 3372",
+        "Part of the constellation Carina (Car)",
+        "eta Car Nebula"
+    ],
+    "title": "Eta Carina and the Keyhole Nebula with Askar 400",
+    "updated": "2021-06-16T14:07:10.553989",
+    "uploaded": "2021-02-10T09:34:54.042989",
+    "url_duckduckgo": "https://www.astrobin.com/90lgrs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/90lgrs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/90lgrs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/90lgrs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/90lgrs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/90lgrs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/90lgrs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/81299/2021/44e1a941-66d9-45de-b359-c257c078832a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/81299/2021/44e1a941-66d9-45de-b359-c257c078832a-1613015144.jpg",
+    "url_thumb": "https://www.astrobin.com/90lgrs/0/rawthumb/thumb/",
+    "user": "robonrome",
+    "views": 381,
+    "w": 6089
+}

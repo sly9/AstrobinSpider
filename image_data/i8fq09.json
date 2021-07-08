@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "66.767",
+    "description": "This is Comet C/2019 Y4 (ATLAS), captured on April 12, 2020.\r\n\r\nThis is my first attempt at imaging a comet using mono CCD.\r\nI captured 8  300\" images per channel in interleaving fashion - i.e. RGB RGB RGB etc.\r\nI normally use Kstars for imaging, but it does not look like it supports capturing images in this fashion easily, so I used CCDCiel.\r\n\r\nAll processing was done with Pixinsight. \r\n\r\nI registered and integrated the images using two methods:\r\n1. regular star registration\r\n2. comet registration\r\n\r\nOnce both of the images were processed, I combined them using PixelMath.\r\n\r\nEven though there are some challenges with using mono CCD, it seems to be better than using RGB camera.  Due to channel interleaving, the stars on comet registered channels are nicely separated and thus are easier to remove using pixel rejection algorithms.",
+    "h": 2055,
+    "hash": "i8fq09",
+    "id": 476630,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f8 RC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2797904/"
+    ],
+    "orientation": "53.222",
+    "pixscale": "0.560",
+    "published": "2020-04-12T23:21:19.079139",
+    "ra": "100.846",
+    "radius": "0.274",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476630/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet Atlas at 0.5\"/pixel",
+    "updated": "2021-03-17T03:14:56.367803",
+    "uploaded": "2020-04-13T00:21:19.238802",
+    "url_duckduckgo": "https://www.astrobin.com/i8fq09/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i8fq09/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i8fq09/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i8fq09/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i8fq09/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i8fq09/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i8fq09/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/162/2020/cbe873b2-1be1-4cb5-8d9b-cb9a9e032b6e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/162/2020/cbe873b2-1be1-4cb5-8d9b-cb9a9e032b6e-1586738698.jpg",
+    "url_thumb": "https://www.astrobin.com/i8fq09/0/rawthumb/thumb/",
+    "user": "avarakin",
+    "views": 146,
+    "w": 2864
+}

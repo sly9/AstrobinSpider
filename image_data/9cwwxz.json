@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 29,
+    "comments": 34,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.400",
+    "description": "reprocessed data from 2017",
+    "h": 4000,
+    "hash": "9cwwxz",
+    "id": 531880,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 194,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.853",
+    "pixscale": "1.235",
+    "published": "2020-10-12T19:05:48.192925",
+    "ra": "52.283",
+    "radius": "0.970",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/531880/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "NGC 1333",
+    "updated": "2021-04-13T19:32:45.229130",
+    "uploaded": "2020-10-12T20:05:48.450994",
+    "url_duckduckgo": "https://www.astrobin.com/9cwwxz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9cwwxz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9cwwxz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9cwwxz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9cwwxz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9cwwxz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9cwwxz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/572253fa-b3d4-4f25-87d8-d606c97ef446.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/572253fa-b3d4-4f25-87d8-d606c97ef446-1602533377.jpg",
+    "url_thumb": "https://www.astrobin.com/9cwwxz/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 542,
+    "w": 4000
+}

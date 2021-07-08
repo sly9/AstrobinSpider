@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Continuing on from the same session as <a href=\"https://www.astrobin.com/flbi9v/\" target=\"_blank\">my last Jupiter image</a> ... \r\n\r\nIt was nice to finally have some \"quality time\" with Saturn again - during most of my sessions this season, conditions had deteriorated too much by the time I turned the OTA in this direction (sometimes, admittedly, due to my preoccupation with Jupiter).\r\n\r\nThankfully the conditions held up this time and the clouds stayed away, allowing me to complete 10 x 180s captures. Seeing stayed pretty constant, so I was able to stack the top 10% of frames for each and then de-rotate all 10 stacks in WinJUPOS. This image is the result.\r\n\r\n<a href=\"https://www.astrobin.com/axflbz/B/\">Rev B</a> shows an animation at 1 min intervals (16 mins total) to confirm the presence of a storm along the southern edge of the north polar region.\r\n\r\nThanks for looking!",
+    "h": 530,
+    "hash": "axflbz",
+    "id": 493281,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-31T07:06:10.528549",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/493281/",
+    "revisions": [
+        "/api/v1/imagerevision/235485/",
+        "/api/v1/imagerevision/235554/"
+    ],
+    "subjects": [],
+    "title": "Saturn 2020-05-28 19:34 UT",
+    "updated": "2021-03-17T01:42:32.422311",
+    "uploaded": "2020-05-31T07:49:08.050615",
+    "url_duckduckgo": "https://www.astrobin.com/axflbz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/axflbz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/axflbz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/axflbz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/axflbz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/axflbz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/axflbz/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/axflbz/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 255,
+    "w": 775
+}

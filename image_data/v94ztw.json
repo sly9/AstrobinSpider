@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "56.116",
+    "description": "I reworked completly the image and ShO mix, with RGB stars, and try to focus on the head of the lion where all nice details can be seen in the nodules and clouds? \r\nHope you like it better!\r\n\r\n-------------------------\r\nI had this project in mind for a long time (like the the Veil nebula) this lion Nebula is a large one , it really needs a wide field setup.\r\nWith the new 24x26 CMOS, I thought it was a good time to have a try !\r\n\r\nNewton 300mm F4 with the ZWO ASI6200.\r\n\r\n50 Halpha subs @300s gain 100 and -15°C\r\n50 OIII subs @300s gain 100 and -15°C\r\n80 SII subs @300s gain 100 and -15°C\r\n\r\n20 Blue subs @60s gain 100 and -15°C\r\n20 Green subs @60s gain 100 and -15°C\r\n20 Red subs @60s gain 100 and -15°C\r\n\r\nTotal exposure more than 15 hours",
+    "h": 3884,
+    "hash": "v94ztw",
+    "id": 528718,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "0.165",
+    "pixscale": "0.638",
+    "published": "2020-09-30T05:32:46.604459",
+    "ra": "334.934",
+    "radius": "0.646",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/528718/",
+    "revisions": [
+        "/api/v1/imagerevision/252598/",
+        "/api/v1/imagerevision/252599/",
+        "/api/v1/imagerevision/252602/"
+    ],
+    "subjects": [
+        "B369",
+        "RW Cep",
+        "Sh2-132"
+    ],
+    "title": "Lion 's Head  SH2-132 - SHO and RGB",
+    "updated": "2021-06-27T16:16:13.065357",
+    "uploaded": "2020-09-30T06:27:20.157988",
+    "url_duckduckgo": "https://www.astrobin.com/v94ztw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/v94ztw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/v94ztw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/v94ztw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/v94ztw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/v94ztw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/v94ztw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/c062e229-a59d-413a-ba5f-e636e5f7e42e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/c062e229-a59d-413a-ba5f-e636e5f7e42e-1601447534.jpg",
+    "url_thumb": "https://www.astrobin.com/v94ztw/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 432,
+    "w": 6158
+}

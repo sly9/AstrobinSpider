@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "38.350",
+    "description": "Bortle 8/9, Washington, DC\r\nHa = 60 x 300s = 5 hours\r\nOiii = 111 x 300s = 9.25 hours",
+    "h": 2636,
+    "hash": "k4dfge",
+    "id": 600733,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro monochrome"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 8 HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813841/"
+    ],
+    "orientation": "266.333",
+    "pixscale": "0.647",
+    "published": "2021-06-30T18:24:56.539802",
+    "ra": "303.032",
+    "radius": "0.431",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600733/",
+    "revisions": [],
+    "subjects": [
+        "Crescent Nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 The Crescent Nebula in HOO",
+    "updated": "2021-07-06T11:07:28.796266",
+    "uploaded": "2021-06-29T18:17:31.639940",
+    "url_duckduckgo": "https://www.astrobin.com/k4dfge/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k4dfge/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k4dfge/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k4dfge/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k4dfge/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k4dfge/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k4dfge/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/68818/2021/f39ff411-1a37-4aa5-9e3e-a6f80a034436.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/68818/2021/f39ff411-1a37-4aa5-9e3e-a6f80a034436-1625077492.png",
+    "url_thumb": "https://www.astrobin.com/k4dfge/0/rawthumb/thumb/",
+    "user": "chadleader",
+    "views": 357,
+    "w": 4000
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "30.574",
+    "description": "",
+    "h": 2082,
+    "hash": "co9pn7",
+    "id": 551205,
+    "imaging_cameras": [
+        "QHYCCD QHY9 Mono"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC 12\" f 4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813498/"
+    ],
+    "orientation": "11.308",
+    "pixscale": "0.606",
+    "published": "2020-12-20T22:27:17.672736",
+    "ra": "304.091",
+    "radius": "0.269",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/551205/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6894",
+        "NGC6894",
+        "PK069-02.1"
+    ],
+    "title": "NGC6894",
+    "updated": "2021-05-19T22:44:28.683980",
+    "uploaded": "2020-12-20T22:23:29.639998",
+    "url_duckduckgo": "https://www.astrobin.com/co9pn7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/co9pn7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/co9pn7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/co9pn7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/co9pn7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/co9pn7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/co9pn7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/67049/2020/9d4f403d-c9a7-44f0-b2f1-2b30b943205e.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/67049/2020/9d4f403d-c9a7-44f0-b2f1-2b30b943205e-1608503333.jpeg",
+    "url_thumb": "https://www.astrobin.com/co9pn7/0/rawthumb/thumb/",
+    "user": "StHz",
+    "views": 79,
+    "w": 2433
+}

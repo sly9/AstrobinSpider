@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Almost three months without posting any new image....as a result of a combination of lots of work and not being able to match my spare moments with viable weather windows. Nevertheless I have managed to capture some images during this spell (although not processing them) moon captures (many of them during daylight) and some deep stuff (although from my red zone as i cannot go to any dark place because of the covid restrictions).  Besides, I have decided to take a step back on my processing learning curve, and relearn things... two books that I have been using quite lot are being key for this (Mastering Pixinsight from Rogelio Bernal and \"Fotografiar lo invisible\" from Vicent Peris, I do recommend both of them). \r\n\r\nIn relation to the image I am sharing, I believe it is impossible that I could add any useful nor new information on this area to any of you, fellow astrobiners.....  It is such a jewel area of the Moon. I was very happy to catch it in this lightning moment, as it can show the darker vulcanic areas, the craters from ejected material from Copernicus, the beauty of Stadius and the structure of Erathostenes. I was very careful with the exposure to keep everything in balance, overall having Copernicus in the terminador, and its bright rims illuminated... I want to believe that Ansel Adams would approve the tonal range of the image...ha ha. The resulting image is larger than this final one but I cropped it to the areas with most quality and also to convey a \"dramatic\" distribution and framing with different zones. \r\n\r\nThe image was captured at dusk with seeing from very good to good. However, wind was pain in the ass, and did ruin some takes. Changes in quality in the image are due to the wind effect in the alignment and integration of the takes. \r\n\r\nOn the technical side of the image: it is a mosaic of 6 panels with large overlapping ( I have grown used to large overlappings in order to keep the central part of the images, where my tube focuses better, and the integration software performs better too). Each panel consisted of around 40000-45000 exposures, of which I kept between 3% and 5% of them. \r\n\r\nFrom the software point of view: Sharpcap => PIPP (because of the wind , I think it stabilizes better that Autostakert with shaky images) => Autostakkert => Registax (only wavelets not sharpening) => Lightroom (mosaic building, levels adjustment) => very slight sharpening (5% out of 100%) sharpening with Topaz => Pixinsight to remove high frequency noise (masks+MMTs) and to selective layer sharpening (MMT) => Lightroom for final cropping and final B&W levels. \r\n\r\nI am attaching a process description in version G. I want to produce a chart of each image for my personal record and learning purposes. And I am very happy to share it and of course open to comments, suggestions, objections and feedback on the steps followed. \r\n\r\nSorry for the long text, I hope that you like the image, I am happy with the result.... but lately I have seen so many great images in Astrobin that it is starting to feel a bit intimidating to share one's cosmic adventures.... \r\n\r\nTake care and enjoy the (this?) Universe! Guillermo",
+    "h": 1907,
+    "hash": "s115m2",
+    "id": 578637,
+    "imaging_cameras": [
+        "ZWO ASI 224mc"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806321/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-04-02T20:44:13.378763",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/578637/",
+    "revisions": [
+        "/api/v1/imagerevision/281066/"
+    ],
+    "subjects": [],
+    "title": "Moon Contrast. Copernicus, Stadius and Eratosthenes",
+    "updated": "2021-05-22T16:33:38.991893",
+    "uploaded": "2021-04-01T19:28:20.837172",
+    "url_duckduckgo": "https://www.astrobin.com/s115m2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s115m2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s115m2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s115m2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s115m2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s115m2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s115m2/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/s115m2/0/rawthumb/thumb/",
+    "user": "lapinilla",
+    "views": 260,
+    "w": 1514
+}

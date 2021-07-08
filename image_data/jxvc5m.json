@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.290",
+    "description": "Object : NGC  7822\r\nDate :  20 Nov.2020 - 25Dec.2020 \r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope  : GSO RC10 ,\r\nMount : Skywatcher EQ8\r\nCamera : SX-H694(-10ºC) ,\r\nFilters : Astrodon LRGB \r\n\r\nExposure : \r\nLBN580  (upper half)\r\nL:300sx10,R:300sx12,G:300sx11,B:300sx13 ( 3.8hr)\r\nLBN 588 (lower half)\r\nL:300sx14,R:300sx17,G:300sx17,B:300sx18 ( 5.5hr)\r\n\r\nGuiding : OAG/ asi174 , \r\nImage Processing : PI ,PS-CC",
+    "h": 3852,
+    "hash": "jxvc5m",
+    "id": 555790,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "https://astro-noodle.blogspot.com/2021/01/ngc-7822-2-panels-mosaic.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "88.776",
+    "pixscale": "0.669",
+    "published": "2021-01-06T06:57:54.814081",
+    "ra": "0.712",
+    "radius": "0.429",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/555790/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "NGC 7822 :  2 panels mosaic",
+    "updated": "2021-07-04T15:29:27.969708",
+    "uploaded": "2021-01-06T06:55:13.371119",
+    "url_duckduckgo": "https://www.astrobin.com/jxvc5m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jxvc5m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jxvc5m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jxvc5m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jxvc5m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jxvc5m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jxvc5m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2021/44727d21-1539-408f-9a43-9e1f05332e3c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2021/44727d21-1539-408f-9a43-9e1f05332e3c-1609916426.png",
+    "url_thumb": "https://www.astrobin.com/jxvc5m/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 180,
+    "w": 2553
+}

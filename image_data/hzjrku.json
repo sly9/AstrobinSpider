@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 33,
+    "data_source": "BACKYARD",
+    "dec": "60.555",
+    "description": "The Soul Nebula is an large star-forming region about 6,500 light years away found in the region of the constellation Cassiopeia. The nebula is decorated with open clusters of hot stars that twist and carve the clouds of dust and gas, creating wondrous shape such as this swirling tornado dancing in space.\r\n\r\nThe data for this image were collect in two different years using two different telescopes. The 2018 data were collected with a SW Esprit 100, while the 2020 data were collected using a WO FLT132. The 2018 data were used for color mapping and the 2020 data were used for making structure and composition via a luminance mask. Steve Milne’s natural narrowband Pixel Math formula was used to create more “natural” colors.",
+    "h": 3021,
+    "hash": "hzjrku",
+    "id": 539678,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "25.493",
+    "pixscale": "0.863",
+    "published": "2020-11-11T04:56:16.493904",
+    "ra": "44.296",
+    "radius": "0.453",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/539678/",
+    "revisions": [],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "Stormy Soul (IC1871, Sh2-199)",
+    "updated": "2021-07-04T17:33:33.795212",
+    "uploaded": "2020-11-11T04:56:16.691479",
+    "url_duckduckgo": "https://www.astrobin.com/hzjrku/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hzjrku/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hzjrku/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hzjrku/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hzjrku/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hzjrku/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hzjrku/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/497b929f-2392-46f4-84cc-2bf2b756a3f9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/497b929f-2392-46f4-84cc-2bf2b756a3f9-1605070893.jpg",
+    "url_thumb": "https://www.astrobin.com/hzjrku/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 430,
+    "w": 2266
+}

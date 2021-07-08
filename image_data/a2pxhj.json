@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "70.458",
+    "description": "Used Bayer drizzle. Extracted RGB from Ha image in correct proportions, blended into R channel of RGB Image\r\n\r\n\r\nWhen I started, I wanted to create a reference image of this object, with defined dust lanes and Ha regions. Though I don't think it is there (yet), I think I captured a decent amount :). Hope you enjoy!",
+    "h": 4359,
+    "hash": "a2pxhj",
+    "id": 521694,
+    "imaging_cameras": [
+        "ZWO ASI183MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV80 Access ED Apo",
+        "Astro-Tech AT115EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "176.847",
+    "pixscale": "1.217",
+    "published": "2020-09-12T04:20:37.735498",
+    "ra": "333.453",
+    "radius": "0.895",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521694/",
+    "revisions": [
+        "/api/v1/imagerevision/249479/"
+    ],
+    "subjects": [],
+    "title": "vdB 152 - The Wolf's Lair - HaRGB (OSC)",
+    "updated": "2021-07-07T22:12:12.480676",
+    "uploaded": "2020-09-08T23:20:36.917377",
+    "url_duckduckgo": "https://www.astrobin.com/a2pxhj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a2pxhj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a2pxhj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a2pxhj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a2pxhj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a2pxhj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a2pxhj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/48367/2020/a74603e2-756e-4608-94d5-12d75461e7e1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/48367/2020/a74603e2-756e-4608-94d5-12d75461e7e1-1599668927.png",
+    "url_thumb": "https://www.astrobin.com/a2pxhj/0/rawthumb/thumb/",
+    "user": "vchari252",
+    "views": 473,
+    "w": 3000
+}

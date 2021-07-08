@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 21,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-0.024",
+    "description": "NGC 3521 \r\nOTA: \t\tTAO 150  (f/7.3)\r\nCamera:\tFLI - ML16200 (1.13 arcseconds/pixel)\r\nObservatory:     Deep Sky West, Chile\r\nEXPOSURES:                \r\n\tRed: \t\t17 x 600 sec.\t\t\t\r\n\tBlue:\t\t13 x 600\r\n\tGreen:\t\t18 x 600\r\n\tL:                     27 x 1800\r\nTotal exposure  ~13 hours\r\nImage Width:\t~28 arcsminutes\r\nProcessed by Alex Woronow (2019) using PixInsight, Topaz, Skylum, SWT\r\n\r\nNGC 3521 is a “flocculant ” barred-spiral galaxy. “Flocculant,” because large-scope images reveal a fluffy texture of its spiral arms. Perhaps “turbulent” would be a more physically appropriate term. (Maybe a hint of that texture occurs in this image--if you let yourself believe!) But what is more evident, and also unusual, is the extensive cloud or halo surrounding the galaxy. Although I found no published references suggesting the cause of this feature, the usual culprit, gravitational interactions, appears a good candidate. At both the upper and lower ends of the galaxy in this image,  one can see distorted and disrupted spiral arms blending into the surrounding cloud of stars and dust. The flocculation (turbulence) itself also probably arises from gravitational stirring and disruption.\r\nWhat the professional literature frequently mention is the radial rotational profile of NGC 3521. Apparently the rotation rate declines with radial distance beyond 10 or so kilo-parsecs, which is taken as an indicate of the effect of surrounding dark matter. However, one author notes the uncertainty in that decline-profile due to the obliquity of our viewing direction. Of course, the dark-matter model does not rely on the measurements on this single galaxy. But it appears skepticism is rising about the very existence of dark matter. Small nudges in the equations of Newtonian gravity, for instance, can account for many observations attributed to dark matter.",
+    "h": 1800,
+    "hash": "wsfng2",
+    "id": 478859,
+    "imaging_cameras": [
+        "FLI MICROLINE KAF-16200"
+    ],
+    "imaging_telescopes": [
+        "TOA 150 Chile"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "354.470",
+    "pixscale": "0.942",
+    "published": "2020-04-18T20:46:29.649600",
+    "ra": "166.450",
+    "radius": "0.333",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/478859/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3521",
+        "NGC3521"
+    ],
+    "title": "NGC 3521 A Galaxy and its Cloud -- Best Viewed Enlarged!",
+    "updated": "2021-03-17T03:02:51.837686",
+    "uploaded": "2020-04-18T21:46:29.812881",
+    "url_duckduckgo": "https://www.astrobin.com/wsfng2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wsfng2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wsfng2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wsfng2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wsfng2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wsfng2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wsfng2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32963/2020/58a21b27-a6bc-4a68-8f1f-99440f9ae3d9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32963/2020/58a21b27-a6bc-4a68-8f1f-99440f9ae3d9-1587246708.jpg",
+    "url_thumb": "https://www.astrobin.com/wsfng2/0/rawthumb/thumb/",
+    "user": "Alex_Woronow",
+    "views": 529,
+    "w": 1800
+}

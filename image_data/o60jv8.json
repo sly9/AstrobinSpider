@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "So, back to business, new flights of the ISS have begun!\r\nDespite the fact that yesterday I was vaccinated against covid and I felt bad, I could not miss an 80-degree flight with a good sky;)\r\nFinally, I finalized the system - everything works perfectly on one i5 laptop, the CPU load is no more than 70%.\r\n\r\nProbably one of the first amateur photos of the new solar battery, which was installed 10 days ago.\r\nTaken at dawn, pixel scale 0.12\" / pixel. 23 frames of animation.\r\nISS 01_07_2021 03: 48:09, height ~81 degrees, brightness -3.7, distance at the climax 430 km, shining 3/5, transparency 5/5. (1-bad, 5-excellent), calm, no humidity. Monty eq8 evilmode v3,\r\nCelestron C14 XLT + Focuser GSO 2” 1.25 x NPZ (focal length ~5 meters) + asi290mm + zwo EFW mini + Baader LRGB(R). 160fps 720x512, mono12, gain ~252-300, shutter speed 0.7 ms. Adding 80% of 280 adjacent frames without selection in AS!3 with wavelets, AI4 retouching. 100%.",
+    "h": 512,
+    "hash": "o60jv8",
+    "id": 601130,
+    "imaging_cameras": [
+        "ZWO ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807777/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-07-01T16:30:21.037971",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601130/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Animation of the ISS, new solar battery 01.07.2021",
+    "updated": "2021-07-06T23:42:56.585402",
+    "uploaded": "2021-07-01T16:26:34.486248",
+    "url_duckduckgo": "https://www.astrobin.com/o60jv8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/o60jv8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/o60jv8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/o60jv8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/o60jv8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/o60jv8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/o60jv8/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/o60jv8/0/rawthumb/thumb/",
+    "user": "MaxWarrior",
+    "views": 744,
+    "w": 720
+}

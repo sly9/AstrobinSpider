@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "22.749",
+    "description": "I have been working on \"The Jellyfish\" project for a while now. Originally I started shooting a more naturally colored palette using an ASI1600 MC-Cool paired with a Radian Triad Ultra.  I put together what I thought was a good image (I'll post it in Revisions) A month later I was lucky enough be sent an ASI 1600MM-Pro l with a filter wheel loaded with Chroma LRGB and 3nm Narrowband filters. Having both color and mono 1600s I started looking for ways to integrate the two systems.  I went back and started shooting in mono the targets which I had already acquired  OSC \"quadband\" data for.  What we have here is 3nm bandpass SHO with integrated quadband data acting as luminance, to beef up signal, and counter the strong green hue SHO has on Ha rich targets.",
+    "h": 3406,
+    "hash": "piycta",
+    "id": 554028,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Pro",
+        "ZWO ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED80CF Air-Spaced Triplet Apochromatic Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 84,
+    "link": "https://www.instagram.com/p/CII4VC0pwny/?utm_source=ig_web_copy_link",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809927/"
+    ],
+    "orientation": "178.092",
+    "pixscale": "2.067",
+    "published": "2020-12-30T14:22:53.583547",
+    "ra": "94.672",
+    "radius": "1.630",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/554028/",
+    "revisions": [
+        "/api/v1/imagerevision/266845/"
+    ],
+    "subjects": [
+        "Gem A",
+        "IC 443",
+        "IC 444",
+        "Part of the constellation Gemini (Gem)",
+        "The star Propus (ηGem)",
+        "The star μGem"
+    ],
+    "title": "Jellyfish Nebula",
+    "updated": "2021-06-06T09:32:07.257920",
+    "uploaded": "2020-12-30T04:07:37.773573",
+    "url_duckduckgo": "https://www.astrobin.com/piycta/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/piycta/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/piycta/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/piycta/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/piycta/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/piycta/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/piycta/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29391/2020/7700761e-b9a2-42ef-8f23-994391b546f2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29391/2020/7700761e-b9a2-42ef-8f23-994391b546f2-1609334130.jpg",
+    "url_thumb": "https://www.astrobin.com/piycta/0/rawthumb/thumb/",
+    "user": "JohnnyBellisario",
+    "views": 158,
+    "w": 4541
+}

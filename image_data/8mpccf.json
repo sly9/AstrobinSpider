@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "-6.345",
+    "description": "Shot at my favorite location during 4 nights (21./22./23./24. 2. 2020).\r\nI got about 9,5 hours of light. Removing bad frames the set was reduced to about 7 hours for processing.\r\nAt the lower left corner one can see some remaining artefacts from removing geostationary satellites. And there were a lot. Just 3 5-minute-frames do not have any satellite trails at all!\r\nProcessing was made with PixInsight and I did the processing 3 times from scratch to get out the most of the set. Thx for some very helpful critical comments to Helmut K.",
+    "h": 2593,
+    "hash": "8mpccf",
+    "id": 495424,
+    "imaging_cameras": [
+        "Nikon D5100a"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802496/"
+    ],
+    "orientation": "338.355",
+    "pixscale": "1.232",
+    "published": "2020-06-07T15:11:35.589857",
+    "ra": "92.359",
+    "radius": "0.811",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495424/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC 2183",
+        "NGC 2185"
+    ],
+    "title": "NGC 2170",
+    "updated": "2021-03-17T01:30:39.145888",
+    "uploaded": "2020-06-07T16:11:36.035268",
+    "url_duckduckgo": "https://www.astrobin.com/8mpccf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8mpccf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8mpccf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8mpccf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8mpccf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8mpccf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8mpccf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7643/2020/07258eda-5566-4912-a963-27d6fa4bdbe9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7643/2020/07258eda-5566-4912-a963-27d6fa4bdbe9-1591546531.jpg",
+    "url_thumb": "https://www.astrobin.com/8mpccf/0/rawthumb/thumb/",
+    "user": "andreasmax",
+    "views": 264,
+    "w": 3967
+}

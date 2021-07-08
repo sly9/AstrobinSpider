@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "-7.254",
+    "description": "NGC1909 aka IC2118 the Witch Head nebula in OSC RGB light.\r\n\r\nI've included a versions with and without the Ha narrow band data.\r\n\r\nTime spent exploring this image closely yields a delightful assortment of spiral galaxies.\r\n\r\nDrizzle 2x stacked for post-processing then cropped and downsampled to UHD format.\r\n\r\nUnguided mount tracking at King rate.",
+    "h": 3840,
+    "hash": "w2s17z",
+    "id": 497073,
+    "imaging_cameras": [
+        "ZWO ASI128MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 11"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814650/"
+    ],
+    "orientation": "175.465",
+    "pixscale": "2.898",
+    "published": "2020-06-13T04:25:14.845364",
+    "ra": "76.162",
+    "radius": "1.773",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497073/",
+    "revisions": [
+        "/api/v1/imagerevision/237304/"
+    ],
+    "subjects": [
+        "65 psi Eri",
+        "IC2118",
+        "NGC 1752",
+        "NGC 1909",
+        "NGC1752",
+        "NGC1797",
+        "NGC1799",
+        "PK205-26.1",
+        "The star ψEri",
+        "Witch Head nebula",
+        "the Witch Head Nebula"
+    ],
+    "title": "NGC 1909 The Witch Head",
+    "updated": "2021-07-07T19:37:03.329630",
+    "uploaded": "2020-06-13T05:25:15.314615",
+    "url_duckduckgo": "https://www.astrobin.com/w2s17z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w2s17z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w2s17z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w2s17z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w2s17z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w2s17z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w2s17z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/69001/2020/62e46af2-9dd8-4e78-9a67-bcc466b6787d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/69001/2020/62e46af2-9dd8-4e78-9a67-bcc466b6787d-1592026378.jpg",
+    "url_thumb": "https://www.astrobin.com/w2s17z/0/rawthumb/thumb/",
+    "user": "JimLindelien",
+    "views": 453,
+    "w": 2160
+}

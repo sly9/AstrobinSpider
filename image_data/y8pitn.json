@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.588",
+    "description": "M100",
+    "h": 2038,
+    "hash": "y8pitn",
+    "id": 584279,
+    "imaging_cameras": [
+        "morovian g2-4000"
+    ],
+    "imaging_telescopes": [
+        "Skyvision astrograph mtn250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798105/"
+    ],
+    "orientation": "0.218",
+    "pixscale": "1.687",
+    "published": "2021-04-22T17:17:31.044591",
+    "ra": "185.557",
+    "radius": "0.671",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/584279/",
+    "revisions": [],
+    "subjects": [
+        "IC 783",
+        "M 100",
+        "NGC 4312",
+        "NGC 4321",
+        "NGC 4323",
+        "NGC 4328"
+    ],
+    "title": "M100",
+    "updated": "2021-05-07T08:28:22.664118",
+    "uploaded": "2021-04-22T17:15:01.748092",
+    "url_duckduckgo": "https://www.astrobin.com/y8pitn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/y8pitn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/y8pitn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/y8pitn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/y8pitn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/y8pitn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/y8pitn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1184/2021/e31b3f4a-57e1-425f-a51c-f85be0a45806.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1184/2021/e31b3f4a-57e1-425f-a51c-f85be0a45806-1619112008.png",
+    "url_thumb": "https://www.astrobin.com/y8pitn/0/rawthumb/thumb/",
+    "user": "stephane55",
+    "views": 152,
+    "w": 2015
+}

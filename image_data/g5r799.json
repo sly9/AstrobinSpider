@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "-13.827",
+    "description": "The famous Pillars of Creation in M16.\r\n\r\nThis was a effort in learning some new techniques in PixInsight, particularly, tone mapping for the NB masters. I also did the calibration and stacking using Astro Pixel Processor (APP) which I am enjoying. \r\n\r\nI had wanted to add in RGB stars (which I took) but I couldn't get them to look right - too bloated and caused horrible halos.  NB subs taken over the period 7/19/2020 to 9/7/2020.\r\n\r\nUPDATE: Added in the RGB stars (as best as I could).",
+    "h": 3323,
+    "hash": "g5r799",
+    "id": 601349,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 1100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800388/"
+    ],
+    "orientation": "93.358",
+    "pixscale": "0.279",
+    "published": "2021-07-02T20:05:00.428612",
+    "ra": "274.706",
+    "radius": "0.213",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601349/",
+    "revisions": [
+        "/api/v1/imagerevision/293727/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "M16 - Pillars of Creation - SHO",
+    "updated": "2021-07-06T03:17:22.528766",
+    "uploaded": "2021-07-02T19:55:57.441158",
+    "url_duckduckgo": "https://www.astrobin.com/g5r799/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/g5r799/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/g5r799/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/g5r799/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/g5r799/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/g5r799/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/g5r799/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6618/2021/55fce8f7-02de-487b-846e-df38ba522c6c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6618/2021/55fce8f7-02de-487b-846e-df38ba522c6c-1625256523.jpg",
+    "url_thumb": "https://www.astrobin.com/g5r799/0/rawthumb/thumb/",
+    "user": "XCalRocketMan",
+    "views": 92,
+    "w": 4381
+}

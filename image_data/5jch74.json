@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This image of Saturn was taken with my C8 telescope using a one-shot color camera. Seeing and transparency were both very good this evening (July 12.) To compile the final image, I acquired a total of 11 videos (90 s each) over a 20 minute period. Images were captured with a gain setting of 9 on the QHY camera and an exposure time of 100 ms per frame. Each video consisted of roughly 900 frames.\r\n\r\nSaturn was only 31 degrees above the horizon at the time of capture, so I used an atmospheric dispersion corrector to improve the image. No Barlow lens was used here. Out of the total ~10000 frames that I captured, the best 25% were selected for inclusion in the final stack. I de-rotated the stacked images from each video using WinJUPOS.\r\n\r\nI captured the moons of Saturn using a longer exposure (600 ms) and higher gain setting. The moons were added as a separate layer in Corel Paint Shop Pro. I used Neat Image Pro to reduce color noise, and the final image was resampled to 2x for a more presentable image scale.\r\n\r\nThe moons Rhea (mag. +10.0), Dione (+10.8), and Tethys (+10.6) are visible from left to right. Enceladus (+12.2) and Mimas (+13.2) were in the frame also, but too dim to bring out with my feeble skills! Nevertheless, this is one of my better efforts with Saturn to date.\r\n\r\nSaturn:\r\nvisual magnitude: +0.1\r\naltitude: 31 deg. above the horizon\r\napparent size: 18.5 arcsec",
+    "h": 864,
+    "hash": "5jch74",
+    "id": 505822,
+    "imaging_cameras": [
+        "QHY CCD QHY 5-iii 178c"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812509/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-07-15T02:35:45.911213",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/505822/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Saturn / Rhea / Dione / Tethys (July 12, 2020)",
+    "updated": "2021-06-26T20:32:45.800589",
+    "uploaded": "2020-07-15T03:35:46.100982",
+    "url_duckduckgo": "https://www.astrobin.com/5jch74/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5jch74/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5jch74/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5jch74/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5jch74/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5jch74/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5jch74/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/5jch74/0/rawthumb/thumb/",
+    "user": "rdk_CA",
+    "views": 128,
+    "w": 1298
+}

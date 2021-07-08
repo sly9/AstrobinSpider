@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 22,
+    "data_source": "TRAVELLER",
+    "dec": "-22.951",
+    "description": "Seeing was average.",
+    "h": 2980,
+    "hash": "08w9lo",
+    "id": 499584,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 240,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "0.009",
+    "pixscale": "0.647",
+    "published": "2020-06-23T01:12:44.234506",
+    "ra": "270.610",
+    "radius": "0.411",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/499584/",
+    "revisions": [
+        "/api/v1/imagerevision/238457/",
+        "/api/v1/imagerevision/238487/",
+        "/api/v1/imagerevision/238488/",
+        "/api/v1/imagerevision/243811/"
+    ],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid Nebula"
+    ],
+    "title": "The Trifid Nebula",
+    "updated": "2021-06-03T22:15:06.830553",
+    "uploaded": "2020-06-22T08:24:10.002650",
+    "url_duckduckgo": "https://www.astrobin.com/08w9lo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/08w9lo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/08w9lo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/08w9lo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/08w9lo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/08w9lo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/08w9lo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2020/6350953b-565c-4984-a7e0-121a50f0219f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2020/6350953b-565c-4984-a7e0-121a50f0219f-1592878626.jpg",
+    "url_thumb": "https://www.astrobin.com/08w9lo/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 1348,
+    "w": 3480
+}

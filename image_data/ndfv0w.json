@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 16,
+    "data_source": "TRAVELLER",
+    "dec": "59.368",
+    "description": "Acquisition of Giosi Amante & Alessandro Pensato with 2x RC8 \"and 2x QHYCCD 183M\r\nPixinsight processing by Giosi Amante",
+    "h": 2261,
+    "hash": "ndfv0w",
+    "id": 494246,
+    "imaging_cameras": [
+        "QHYCCD QHY183M"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8\" f/8 RC8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 235,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805004/"
+    ],
+    "orientation": "148.977",
+    "pixscale": "0.612",
+    "published": "2020-06-02T21:52:21.549045",
+    "ra": "234.686",
+    "radius": "0.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/494246/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5976",
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985"
+    ],
+    "title": "Draco Triplet - NGC5982, NGC 5985, NGC 5981",
+    "updated": "2021-06-25T16:28:06.300452",
+    "uploaded": "2020-06-02T22:52:22.542068",
+    "url_duckduckgo": "https://www.astrobin.com/ndfv0w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ndfv0w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ndfv0w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ndfv0w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ndfv0w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ndfv0w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ndfv0w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2190/2020/71a8e696-445a-4c3a-a895-7364a7f347fa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2190/2020/71a8e696-445a-4c3a-a895-7364a7f347fa-1591264593.jpg",
+    "url_thumb": "https://www.astrobin.com/ndfv0w/0/rawthumb/thumb/",
+    "user": "gamante",
+    "views": 1535,
+    "w": 3531
+}

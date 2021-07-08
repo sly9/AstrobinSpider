@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "40.325",
+    "description": "",
+    "h": 2525,
+    "hash": "f6ibxb",
+    "id": 496723,
+    "imaging_cameras": [
+        "Atik One 6.0M Plus OAG"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service UNC 10\" f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 86,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799891/"
+    ],
+    "orientation": "0.105",
+    "pixscale": "0.795",
+    "published": "2020-06-11T17:17:13.342793",
+    "ra": "208.545",
+    "radius": "0.450",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496723/",
+    "revisions": [
+        "/api/v1/imagerevision/237601/"
+    ],
+    "subjects": [
+        "NGC 5350",
+        "NGC 5353",
+        "NGC 5354",
+        "NGC 5355",
+        "NGC 5358",
+        "NGC 5371"
+    ],
+    "title": "NGC5350, T250 f/4  /  ATIK ONE  /  AZEQ6",
+    "updated": "2021-06-29T22:01:02.547608",
+    "uploaded": "2020-06-11T18:17:15.829679",
+    "url_duckduckgo": "https://www.astrobin.com/f6ibxb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f6ibxb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f6ibxb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f6ibxb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f6ibxb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f6ibxb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f6ibxb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5412/2020/c48bc1ff-d5ff-4ccc-aa23-b820ab02afa5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5412/2020/c48bc1ff-d5ff-4ccc-aa23-b820ab02afa5-1591899883.jpg",
+    "url_thumb": "https://www.astrobin.com/f6ibxb/0/rawthumb/thumb/",
+    "user": "Pulsar59",
+    "views": 209,
+    "w": 3200
+}

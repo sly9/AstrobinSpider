@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "69.684",
+    "description": "Giving LRGB a go from the Bortle 7-8 backyard (19.2 mag). It's an uphill battle, and I'll have to recalibrate my expectations compared to backyard narrowband imaging. My Ha data was trashed due to equipment malfunction, so I would like to add Ha in the future. I also lost 2/3rds of my Red data to some weird flat issue. I tried to salvage with a synthetic flat, but the results detracted from the final product more than just using 20 of the good red frames. Still, considering my location and integration time, I'm happy with the result. Galaxy season plus short nights and strong LP will make for some interesting processing challenges this year. Next will be something not as bright to really test the waters. This was also my first target with the Astrondon LP2 light pollution filter as luminance. It seems to work well.\r\n\r\nDespite the LP map, I think in actuality my conditions are a little better. I can't image toward the city anyway because of trees, so I focus on east and overhead targets.",
+    "h": 1568,
+    "hash": "g2nwe0",
+    "id": 580774,
+    "imaging_cameras": [
+        "QHYCCD 268M"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "134.976",
+    "pixscale": "0.727",
+    "published": "2021-04-09T17:16:50.816420",
+    "ra": "148.975",
+    "radius": "0.261",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/580774/",
+    "revisions": [
+        "/api/v1/imagerevision/282271/",
+        "/api/v1/imagerevision/283084/"
+    ],
+    "subjects": [
+        "Cigar Galaxy",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034",
+        "PGC2731294",
+        "PGC2732102",
+        "PGC3097961"
+    ],
+    "title": "M82 - Cigar Galaxy",
+    "updated": "2021-06-24T20:57:36.258460",
+    "uploaded": "2021-04-09T16:26:24.316085",
+    "url_duckduckgo": "https://www.astrobin.com/g2nwe0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/g2nwe0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/g2nwe0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/g2nwe0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/g2nwe0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/g2nwe0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/g2nwe0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25844/2021/dfcc048e-6154-42bc-b2a4-90d14a8f28cc.tif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25844/2021/dfcc048e-6154-42bc-b2a4-90d14a8f28cc-1617987802.tif",
+    "url_thumb": "https://www.astrobin.com/g2nwe0/0/rawthumb/thumb/",
+    "user": "Monkeybird747",
+    "views": 147,
+    "w": 2052
+}

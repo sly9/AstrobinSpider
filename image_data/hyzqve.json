@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "4.964",
+    "description": "My first attempt with PixInsight.  It is an HOO image consisting of 8 hours  each of Ha and O3 data.  This is heavily cropped due to a mistake I made in camera rotation.\r\n\r\nThey are 10 minute subs, captured at gain 53.",
+    "h": 2524,
+    "hash": "hyzqve",
+    "id": 548391,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro Cooled"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech 80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "118.845",
+    "pixscale": "1.283",
+    "published": "2020-12-09T04:28:11.021748",
+    "ra": "97.969",
+    "radius": "0.754",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/548391/",
+    "revisions": [
+        "/api/v1/imagerevision/264103/",
+        "/api/v1/imagerevision/264104/"
+    ],
+    "subjects": [
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula",
+    "updated": "2021-03-16T07:46:53.771969",
+    "uploaded": "2020-12-09T04:20:23.828157",
+    "url_duckduckgo": "https://www.astrobin.com/hyzqve/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hyzqve/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hyzqve/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hyzqve/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hyzqve/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hyzqve/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hyzqve/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/50175/2020/4bcab0a9-b93c-4ca3-97e1-42f9c4907d0c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/50175/2020/4bcab0a9-b93c-4ca3-97e1-42f9c4907d0c-1607488087.jpg",
+    "url_thumb": "https://www.astrobin.com/hyzqve/0/rawthumb/thumb/",
+    "user": "Slice1969",
+    "views": 294,
+    "w": 3394
+}

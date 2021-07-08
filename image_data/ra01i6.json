@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.959",
+    "description": "Abell 2 is a very bright Planetary Nebula, compared with most of the others.  It's observed magnitude is 14.5, but it is one of the smallest with a diameter of 0.5 arc minutes.  The Oiii is twice as strong as the Ha and they are both strong enough that just the RGB image shows the PN nicely.  I have added the Oiii and Ha to strengthen it some.  I matched the color mix between them to exactly match the color of the RGB version, so the final color has come out exactly true to the RGB.  This is not possible with many of the PNs.  Also rarely imaged, this being the 3rd example on Astrobin.\r\nWe are able to see a central, presumably blue, star, which often is not the case.\r\nA web search does not turn up any other info about this PN.",
+    "h": 1471,
+    "hash": "ra01i6",
+    "id": 539843,
+    "imaging_cameras": [
+        "ZWO ASI178MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "90.496",
+    "pixscale": "0.442",
+    "published": "2020-11-11T17:18:07.162533",
+    "ra": "11.394",
+    "radius": "0.159",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/539843/",
+    "revisions": [],
+    "subjects": [
+        "PGC137160",
+        "PK122-04.1"
+    ],
+    "title": "Abell 2 Planetary Nebula",
+    "updated": "2021-05-05T13:39:36.937234",
+    "uploaded": "2020-11-11T17:00:23.071559",
+    "url_duckduckgo": "https://www.astrobin.com/ra01i6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ra01i6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ra01i6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ra01i6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ra01i6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ra01i6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ra01i6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2020/c5b7d66a-e163-450c-b9c2-6d994b5c01e9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2020/c5b7d66a-e163-450c-b9c2-6d994b5c01e9-1605114365.jpg",
+    "url_thumb": "https://www.astrobin.com/ra01i6/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 251,
+    "w": 2142
+}

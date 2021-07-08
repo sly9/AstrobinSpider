@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Animation of 3 pseudo-colour images of Venus, showing rotation of the atmosphere within ca. 40 min. UV-images were taken at excellent seeing conditions (8/10), at 6:46, 7:05 and 7:24 UT.\r\nColour scheme L(50%UV)-IR-sG-UV. Size 120%. North is up.",
+    "h": 417,
+    "hash": "napvi5",
+    "id": 513064,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "TAL-250K"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804354/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-08T19:12:29.949386",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513064/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Venus 8 August 2020 - Animation",
+    "updated": "2021-03-21T10:53:40.245184",
+    "uploaded": "2020-08-08T19:31:49.823935",
+    "url_duckduckgo": "https://www.astrobin.com/napvi5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/napvi5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/napvi5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/napvi5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/napvi5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/napvi5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/napvi5/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/napvi5/0/rawthumb/thumb/",
+    "user": "Dzmitry_Kananovich",
+    "views": 236,
+    "w": 417
+}

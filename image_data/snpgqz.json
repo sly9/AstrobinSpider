@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "24.894",
+    "description": "The large cloudy nebulosity in this image field is part bright nebula and part various dark nebulae. This field is part of the larger LBN 786 (AKA IC 360); it is the southwest quarter of the LBN 786 region.  The most prominent dark nebula is a series of Dobashi dark nebulae that also includes Barnard 208 (darkest region toward the upper left).  The field also contains LDN 1498 and 1499 as well as other dark structures noted in the TGU, Dobashi, and PGCC (Planck Catalog of Galactic Cold Clumps) catalogs. There are several background galaxies - the most notable is NGC 1508 with a redshift distance estimate of 326 million light years.   Others  (UGC 02988, PGC 014451, 014493, LEDA 3089489) are annotated and have distance estimates from 180 to 326 million light years.  These objects  and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/LBN786_FSQ_PII-PS3PI-Crp_annotated.jpg\">annotated image</a>.  Horizontal FOV is approximately 120 arc minutes. Full size image scale is 2.57 arcsec/pix.",
+    "h": 2100,
+    "hash": "snpgqz",
+    "id": 537218,
+    "imaging_cameras": [
+        "ATIK383L+"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "http://www.jthommes.com/Astro/LBN786.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.992",
+    "pixscale": "2.526",
+    "published": "2020-11-04T04:40:11.256127",
+    "ra": "62.401",
+    "radius": "1.228",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/537218/",
+    "revisions": [],
+    "subjects": [],
+    "title": "LBN 786 Region and Barnard 208",
+    "updated": "2021-03-16T18:47:30.226898",
+    "uploaded": "2020-11-04T04:30:33.798563",
+    "url_duckduckgo": "https://www.astrobin.com/snpgqz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/snpgqz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/snpgqz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/snpgqz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/snpgqz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/snpgqz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/snpgqz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/06048220-0957-44a6-830e-839a32a84376.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/06048220-0957-44a6-830e-839a32a84376-1604464807.jpg",
+    "url_thumb": "https://www.astrobin.com/snpgqz/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 185,
+    "w": 2800
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "28.035",
+    "description": "This object is my personal record in terms of size and works of post-processing. It is 3 degrees wide and luckily I have a 0.73X Reducer to frame this object inside of the sensor chip. The post-processing had some challenges. Tried three ways PixelMath/Photoshop channels/(Photoshop Clipping layer mask method)  to mix HOO, and finally, I like the Photoshop Clipping layer method to change to Red and Blue colors for my taste. StarNet++ did a really good job to pull the Nebula out. \r\n-----------------------  \r\nSpaghetti Nebula  (Simeis 147 / Sh2-240) \r\nSpaghetti Nebula is a supernova remnant in the Milky Way and covers nearly 3 degrees or 6 full moons in the sky crossing the border between the constellations Auriga and Taurus with an almost spherical shell and filamentary structure. The remnant has an estimated distance of approximately 3000 (±350) light-years and an age of approximately 40,000 years.\r\nSimeis 147 was discovered by the Crimean Astrophysical Observatory using a 25-inch Schmidt-Cassegrain telescope in 1952. It is difficult to observe due to its extremely low brightness.\r\nThis image data (nebula) were taken through two narrow-band filters (Ha, OIII) and the stars were taken by board band filter (RGB).\r\n\r\n\r\nFilters: Astrodon 50mm Unmounted LRGB Gen2 E-Series Filter Sets\r\n         Astrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue   42x60\"   42 Minutes   Bin1x1 01/08/2020 ~ 01/19/2021\r\nGreen  42x60\"   42 Minutes   Bin1x1 01/08/2020 ~ 01/19/2021\r\nRed    42x60\"   42 Minutes   Bin1x1 01/08/2020 ~ 01/19/2021\r\nHa     41x900\"  10.25 Hours  Bin1x1 01/08/2020 ~ 01/16/2021\r\nHa     39x1200\" 13 Hours     Bin1x1 01/16/2020 ~ 01/21/2021\r\nOIII   39x900\"  9.75 Hours   Bin1x1 01/08/2020 ~ 01/16/2021\r\nOIII   34x1200\" 11.3 Hours   Bin1x1 01/16/2020 ~ 01/21/2021 \r\n\r\nTechnical details:\r\nTelescope: Takahashi FSQ-106EDX4 \r\nReducer: Takahashi 0.73X Reducer Corrector f/3.6\r\nTelescope Mount: Ioptorn CEM40EC\r\nImage Camera: ZWO ASI6200MM\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6, StarNet++, Topaz Lab DeNoiseAI\r\nLocation: Palo Alto, California, USA\r\n\r\nPhotometricColorCalibration data:\r\nResolution ............... 1.996 arcsec/px\r\nRotation ................. -179.641 deg\r\nObservation start time ... 2021-01-08 04:57:48 UTC\r\nObservation end time ..... 2021-01-21 10:47:21 UTC\r\nFocal distance ........... 388.47 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 5d 14' 36.1\" x 3d 27' 47.6\"\r\nImage center ............. RA:  5 40 07.311  Dec: +28 02 02.47\r\nImage bounds:\r\n   top-left .............. RA:  5 28 23.388  Dec: +26 17 20.70\r\n   top-right ............. RA:  5 51 44.932  Dec: +26 15 25.11\r\n   bottom-left ........... RA:  5 28 06.689  Dec: +29 44 52.32\r\n   bottom-right .......... RA:  5 52 14.004  Dec: +29 42 52.74",
+    "h": 6245,
+    "hash": "69p3fy",
+    "id": 561340,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 249,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "179.779",
+    "pixscale": "1.995",
+    "published": "2021-01-25T23:49:45.519266",
+    "ra": "85.048",
+    "radius": "3.031",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/561340/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Spaghetti Nebula  (Simeis 147 / Sh2-240)  HOO + RGB stars",
+    "updated": "2021-07-07T08:03:26.760095",
+    "uploaded": "2021-01-25T23:22:14.839768",
+    "url_duckduckgo": "https://www.astrobin.com/69p3fy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/69p3fy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/69p3fy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/69p3fy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/69p3fy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/69p3fy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/69p3fy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/68967000-d946-4db7-99fc-82094b80b04e.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/68967000-d946-4db7-99fc-82094b80b04e-1611618482.JPG",
+    "url_thumb": "https://www.astrobin.com/69p3fy/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 703,
+    "w": 8981
+}

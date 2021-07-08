@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 59,
+    "comments": 37,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.818",
+    "description": "For the technical part, this is not a reprocessing of the data acquired months ago.\r\nIn this version, again, a new workflow has been explored to simplify and improve. Adam Block has a very good approach in his <a href=https://www.adamblockstudios.com/categories/Pixinsight_Horizons>Horizon</a> course to deal with the halo left from Starnet++ for the big stars. Instead of using the GAME script mentioned in his video, I found MaskGen much more efficient and accurate, thanks to <a href=https://www.astrobin.com/users/jeff2011/>Jeff Lepp</a>'s advice. The tool creates the star masks from the solved result and can filter by star magnitudes. Of course, <a href=https://www.cosmos.esa.int/web/gaia/data-release-2>Gaia2</a> star catalogues must be downloaded first to enjoy the performance. I totally forgot about StarMask now though I just figured its right usage couple weeks ago. MaskGen + MophologicalTransformation + Convolution are life savers and highly recommended!\r\n\r\nFor the picture choice, I'm intrigued by the richness of the dark nebulosity here when I was processing the wide field version last month. The explosive colors flash behind the thick clouds, just like eternal cosmic thunderstorms for billions and billions of years. Parts of the picture bear many resemblance to some wild animals and coincidentally in Chinese there is an idiom for \"Wolf's Call, Eagle's Eye\" - 鹰视狼顾, a phrase to describe one of the best advisors about 2000 years ago. I started to watch a new <a href=https://www.youtube.com/watch?v=OQeNjOVSa1Y>tv show</a> about him earlier this year but stopped in the very beginning. Kids and work are exhausting. The devotion to this FOV is my final tradeoff.\r\n\r\nI met a few good friends and made unexpected progress in this hobby this year. I regard this work my favorite one of the year to conclude the dramatic 2020.\r\n\r\n<br>\r\n<I>#TeamNoctuaDSNM</I>",
+    "h": 4773,
+    "hash": "jpk9ep",
+    "id": 550929,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 333,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814874/"
+    ],
+    "orientation": "330.850",
+    "pixscale": "1.544",
+    "published": "2020-12-20T00:59:30.072702",
+    "ra": "52.009",
+    "radius": "1.230",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/550929/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "NGC 1333 - The Wolf's Call, The Eagle's Eye",
+    "updated": "2021-06-13T16:24:13.298930",
+    "uploaded": "2020-12-19T23:43:09.018084",
+    "url_duckduckgo": "https://www.astrobin.com/jpk9ep/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jpk9ep/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jpk9ep/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jpk9ep/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jpk9ep/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jpk9ep/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jpk9ep/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25460/2020/8eeed1db-c537-4b68-b8ce-1e70f337ab94.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25460/2020/8eeed1db-c537-4b68-b8ce-1e70f337ab94-1608426312.jpg",
+    "url_thumb": "https://www.astrobin.com/jpk9ep/0/rawthumb/thumb/",
+    "user": "nodustab",
+    "views": 1851,
+    "w": 3186
+}

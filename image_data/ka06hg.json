@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "-24.329",
+    "description": "",
+    "h": 3407,
+    "hash": "ka06hg",
+    "id": 510126,
+    "imaging_cameras": [
+        "QHYCCD QHY 163M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 200/1000 Newton Mirrosphere primary"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 59,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809643/"
+    ],
+    "orientation": "358.435",
+    "pixscale": "0.782",
+    "published": "2020-07-28T14:32:56.593451",
+    "ra": "271.043",
+    "radius": "0.620",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/510126/",
+    "revisions": [
+        "/api/v1/imagerevision/243430/",
+        "/api/v1/imagerevision/244138/",
+        "/api/v1/imagerevision/244430/"
+    ],
+    "subjects": [
+        "Lagoon Nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 - LAGOON Nebula",
+    "updated": "2021-06-05T15:10:48.755275",
+    "uploaded": "2020-07-28T15:32:57.203963",
+    "url_duckduckgo": "https://www.astrobin.com/ka06hg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ka06hg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ka06hg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ka06hg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ka06hg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ka06hg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ka06hg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25765/2020/9224aeeb-51ed-475f-951f-db58b2f4e153.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25765/2020/9224aeeb-51ed-475f-951f-db58b2f4e153-1595950837.jpg",
+    "url_thumb": "https://www.astrobin.com/ka06hg/0/rawthumb/thumb/",
+    "user": "PiPais",
+    "views": 139,
+    "w": 4576
+}

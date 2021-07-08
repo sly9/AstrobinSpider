@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-20.841",
+    "description": "High resolution on the Helix nebula, thanks to the excellent sky of the Atacama desert",
+    "h": 1288,
+    "hash": "pr6ndq",
+    "id": 562801,
+    "imaging_cameras": [
+        "SBIG ST-2000XCM",
+        "SBIG ST-10XME"
+    ],
+    "imaging_telescopes": [
+        "C9.25",
+        "Skywatcher 250/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808397/"
+    ],
+    "orientation": "180.839",
+    "pixscale": "0.946",
+    "published": "2021-02-01T20:55:40.931333",
+    "ra": "337.424",
+    "radius": "0.282",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/562801/",
+    "revisions": [],
+    "subjects": [
+        "Helix Nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix nebula",
+    "updated": "2021-05-12T16:54:57.812636",
+    "uploaded": "2021-02-01T20:49:24.464244",
+    "url_duckduckgo": "https://www.astrobin.com/pr6ndq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pr6ndq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pr6ndq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pr6ndq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pr6ndq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pr6ndq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pr6ndq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20427/2021/2dfb3a12-e766-49a7-ab5f-230170a56db2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20427/2021/2dfb3a12-e766-49a7-ab5f-230170a56db2-1612213501.jpg",
+    "url_thumb": "https://www.astrobin.com/pr6ndq/0/rawthumb/thumb/",
+    "user": "Daniele.Gasparri",
+    "views": 185,
+    "w": 1722
+}

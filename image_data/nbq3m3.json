@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "70.354",
+    "description": "",
+    "h": 2363,
+    "hash": "nbq3m3",
+    "id": 552987,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "93.277",
+    "pixscale": "3.854",
+    "published": "2020-12-26T17:01:54.375766",
+    "ra": "333.952",
+    "radius": "2.044",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/552987/",
+    "revisions": [],
+    "subjects": [
+        "B175",
+        "PK111+11.1",
+        "VdB152",
+        "Other"
+    ],
+    "title": "VDB152",
+    "updated": "2021-06-17T05:19:28.963032",
+    "uploaded": "2020-12-26T16:52:06.663284",
+    "url_duckduckgo": "https://www.astrobin.com/nbq3m3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nbq3m3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nbq3m3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nbq3m3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nbq3m3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nbq3m3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nbq3m3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2020/0645f22b-fb07-47d3-a3a6-eb4b53dd64d1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2020/0645f22b-fb07-47d3-a3a6-eb4b53dd64d1-1609002193.png",
+    "url_thumb": "https://www.astrobin.com/nbq3m3/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 157,
+    "w": 3000
+}

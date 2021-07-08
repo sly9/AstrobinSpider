@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 102,
+    "data_source": "BACKYARD",
+    "dec": "-32.893",
+    "description": "I have been imaging NGC 1532 in recent weeks and have just completed processing the image. My friend Rodney Watters, who was imaging the same object and recently got IOTD for his fabulous image, encouraged me to also image it so we could compare shorter and longer focal length versions. \r\n\r\nIt is a most unusual and beautiful galaxy. It is an edge-on apparently barred spiral about 58 million light years away in the constellation of Eridanus. It is quite large at 120,000 light years across, which makes it somewhat larger in diameter than the Milky Way at 106,000 light years..\r\n\r\nThe smaller galaxy above it in the image is NGC 1531. These are clearly interacting and the smaller galaxy has distorted the disk of the main galaxy and gravitational forces seem to have pulled a couple of the spiral arms out of the plane of the rest of the galaxy.\r\n\r\nMy long focal length 3.91m, means that I can get tremendous detail on such distant targets. The image scale is 0.47 arc secs per pixel, so when the seeing is good, which it is reasonably frequently, I can resolve down to 1.5 arc secs, giving very fine detail as you can see here. \r\n\r\n I also captured Hydrogen Alpha and it is most prominent in a very bright linear region in the spiral arm being distorted upwards in the image to the right of the central bulge of the galaxy.  There are also some pockets in this same arm where it curls around behind the galaxy centre from our perspective. Interestingly there is also one very bright Ha region between NGC 1532 and 1531.\r\n\r\nThere are a myriad of smaller galaxies in the image. Notably in the lower part of the image there is a beautiful but distant spiral galaxy and its structure can just be made out. Just below it and clearly even further in the distance one can see two interacting galaxies, with a star stream between them. \r\n\r\nThe mouse-over shows a more detailed view of the interacting pair of galaxies. You can see the beautiful structure and colour of the interacting galaxies very well. Note the brown dust filaments in the companion galaxy.\r\n\r\nCapture details:\r\nLuminance: 27 x 10mins\r\nRed: 15 x 10mins\r\nGreen: 16 x 10mins\r\nBlue: 13 x 10mins\r\nHa: 9 x 30 mins\r\nTotal integration 980mins (16.3 hrs)\r\n35 Flats per colour channel,\r\n35 Bias,\r\n35 Darks.",
+    "h": 4015,
+    "hash": "4vl7rj",
+    "id": 560001,
+    "imaging_cameras": [
+        "SBIG 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 311,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": "84.490",
+    "pixscale": "0.475",
+    "published": "2021-01-21T11:46:37.456897",
+    "ra": "63.077",
+    "radius": "0.370",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/560001/",
+    "revisions": [
+        "/api/v1/imagerevision/269909/"
+    ],
+    "subjects": [
+        "IC 2041",
+        "IC2041",
+        "NGC 1531",
+        "NGC 1532",
+        "NGC1531",
+        "NGC1532"
+    ],
+    "title": "NGC 1532, a distorted edge on spiral galaxy in Eridanus",
+    "updated": "2021-05-31T03:52:51.405651",
+    "uploaded": "2021-01-21T11:22:03.452851",
+    "url_duckduckgo": "https://www.astrobin.com/4vl7rj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4vl7rj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4vl7rj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4vl7rj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4vl7rj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4vl7rj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4vl7rj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20830/2021/f07c80ea-b18d-43f3-afdd-cdd80fe31b96.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20830/2021/f07c80ea-b18d-43f3-afdd-cdd80fe31b96-1611229631.jpg",
+    "url_thumb": "https://www.astrobin.com/4vl7rj/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 1400,
+    "w": 3910
+}

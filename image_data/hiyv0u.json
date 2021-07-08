@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.055",
+    "description": "New RGB data combined with luminance from 2018",
+    "h": 3800,
+    "hash": "hiyv0u",
+    "id": 477802,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "180.238",
+    "pixscale": "1.234",
+    "published": "2020-04-16T07:59:02.637699",
+    "ra": "202.496",
+    "radius": "0.921",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/477802/",
+    "revisions": [
+        "/api/v1/imagerevision/226611/",
+        "/api/v1/imagerevision/227357/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC 5198",
+        "Whirlpool Galaxy"
+    ],
+    "title": "Messier 51",
+    "updated": "2021-03-17T03:08:36.165151",
+    "uploaded": "2020-04-16T08:59:02.812611",
+    "url_duckduckgo": "https://www.astrobin.com/hiyv0u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hiyv0u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hiyv0u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hiyv0u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hiyv0u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hiyv0u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hiyv0u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/4fb97bb7-ddf7-4bf5-acf2-0dd2b3c30f7e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/4fb97bb7-ddf7-4bf5-acf2-0dd2b3c30f7e-1587062119.jpg",
+    "url_thumb": "https://www.astrobin.com/hiyv0u/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 658,
+    "w": 3800
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "23.799",
+    "description": "I have been capturing data on NGC 6210 with my Explore Scientific ED165CF FPL-53 with the ZWO ASI 1600MM Pro for over a month. The weather has been horrible this time of year. I bought a new ZWO ASI183MM Pro recently. I was going to put it on my ES 165mm, but I decided to put it on my Stellarvue SVX102T-R instead which brought me down to 0.69\"/pixel; almost the same as my ES 165mm with the 1600MM at 0.68\"/pixel. I had been done working on objects with my SVX102T-R and thought I would expedite the capturing focusing both rigs on NGC 6210. I am still not certain if that background OIII is existing or cell lensing from the ASI 1600MM Pro. I left it in a separate layer if I decide to get rid of it later. It is very odd in shape unlike \"normal\" cell lensing. \r\n\r\nI often seem to bite of more than I can chew with these small objects. I was hoping as deep as I went on this object that I might be able to pull a bit more detail out of it. In addition, some of the core looks a bit different than some of the other examples I looked up, but it is what it is. This is of course aside with the Hubble Telescope picked up with the red strands, which very well could of been NII data. \r\n\r\nNGC 6210 is a planetary nebula located in the constellation Hercules, approximately 5.4 ± 1.3 kly from the Sun. It is positioned about 38° above the galactic plane at a vertical distance of about 3.3 kilolight-years (1 kpc) and thus has little extinction from intervening interstellar dust. This object was first recorded as a star-like feature by Joseph Lalande on March 22, 1799. However, credit for the discovery of a nebula goes to Wilhelm Struve in 1825. John L. E. Dreyer described it as, \"a planetary nebula, very bright, very small, round, disc and border\".\r\n\r\nThis nebula is \"very amorphous and irregular\" in shape, but forms a rough ellipsoid. It consists of two parts; a bright inner region filled with arches and filaments spanning 13″ × 16\", and a larger and fainter outer volume that has a pair of \"tubular\" structures. The inner region has an expansion velocity ranging over 19–24 km/s. The emission from the outer part of the nebula is only about 1% of the total.\r\n\r\nThe central star has an apparent visual magnitude of 12.66 and the spectrum matches a hydrogen-rich star of type O(H). It has an estimated temperature of 65,000 K. The abundances of the nebula suggest a low initial mass for the central star, probably ~0.9 M☉. Outflow from this star has been measured with velocities of 2,180 km/s, and the estimated mass loss rate is 2.2×10−9 M☉ yr−1. There appears to be a collaminated jet feature, suggesting the central star is ejecting material along two and possibly four such directions.",
+    "h": 1016,
+    "hash": "tyxou0",
+    "id": 595660,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro",
+        "ZWO ASI1600MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX102T-R",
+        "Explore Scientific ED165CF FPL-53"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807395/"
+    ],
+    "orientation": "98.201",
+    "pixscale": "0.341",
+    "published": "2021-06-09T00:18:41.867721",
+    "ra": "251.123",
+    "radius": "0.076",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595660/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6210"
+    ],
+    "title": "NGC 6210 • Turtle Planetary Nebula in Hercules",
+    "updated": "2021-07-01T18:57:27.455534",
+    "uploaded": "2021-06-08T23:14:12.962577",
+    "url_duckduckgo": "https://www.astrobin.com/tyxou0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tyxou0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tyxou0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tyxou0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tyxou0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tyxou0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tyxou0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23479/2021/f8a62edd-0bd8-4926-a9e2-b8c028bb16e3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23479/2021/f8a62edd-0bd8-4926-a9e2-b8c028bb16e3-1623552761.jpg",
+    "url_thumb": "https://www.astrobin.com/tyxou0/0/rawthumb/thumb/",
+    "user": "dugstruble",
+    "views": 417,
+    "w": 1242
+}

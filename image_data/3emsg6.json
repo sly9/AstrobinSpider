@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-59.807",
+    "description": "Decided to change from the typical mapping of colours of SHO, to map instead to OHS.\r\nUsed RGB stars",
+    "h": 3100,
+    "hash": "3emsg6",
+    "id": 478914,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808375/"
+    ],
+    "orientation": "272.002",
+    "pixscale": "1.964",
+    "published": "2020-04-19T01:04:12.712203",
+    "ra": "161.242",
+    "radius": "1.407",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478914/",
+    "revisions": [],
+    "subjects": [
+        "Carina Nebula",
+        "NGC 3372",
+        "eta Car Nebula"
+    ],
+    "title": "Carina Nebula - NGC 3372 (OHS)",
+    "updated": "2021-03-17T03:02:34.280746",
+    "uploaded": "2020-04-19T02:04:13.125741",
+    "url_duckduckgo": "https://www.astrobin.com/3emsg6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3emsg6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3emsg6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3emsg6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3emsg6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3emsg6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3emsg6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26060/2020/3f385030-2704-4aa2-b01c-c10512b70bb4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26060/2020/3f385030-2704-4aa2-b01c-c10512b70bb4-1587262710.jpg",
+    "url_thumb": "https://www.astrobin.com/3emsg6/0/rawthumb/thumb/",
+    "user": "jlangston_astro",
+    "views": 168,
+    "w": 4124
+}

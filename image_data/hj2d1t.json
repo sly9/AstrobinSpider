@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "8.917",
+    "description": "This large yet very faint planetary nebula has been around for over 100,000 years.  It is often described as ancient, as the gases are believed to be already dispersing away.  Direct trigonometric measurements put this nebula at 568 pc (+131/-90 pc), roughly 1850 ly from Earth (see https://arxiv.org/pdf/1210.2841.pdf).\r\n\r\nThe central star is believed to be a binary, a white dwarf about 4x the size of Earth but with 50% solar mass.  The companion star is an M-dwarf of stellar class M4V with a separation of 0.26 arcsec (Frew (2008) and Ciardullo et al. (1999) used HST to determine).\r\n\r\nFor this image, I used Ha for R, SII for G, and OIII for B.  The SII signal is extremely faint and mostly prevalent in the southern portion of the nebula, defined by a distinct bow shock.  Here, the SII signal contributes a slight orangish/yellowish hue to that area of this false color image.\r\n\r\nI hope you enjoy!",
+    "h": 3520,
+    "hash": "hj2d1t",
+    "id": 572539,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED127 FCD 100 Air-Spaced Triplet Apochromatic Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810290/"
+    ],
+    "orientation": "60.364",
+    "pixscale": "0.585",
+    "published": "2021-03-09T02:25:37.934980",
+    "ra": "133.558",
+    "radius": "0.474",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/572539/",
+    "revisions": [
+        "/api/v1/imagerevision/277039/",
+        "/api/v1/imagerevision/283114/"
+    ],
+    "subjects": [],
+    "title": "Abell 31 PN (Sh 2-290, PK 219+31.1)",
+    "updated": "2021-07-06T00:00:27.966686",
+    "uploaded": "2021-03-09T01:46:55.184545",
+    "url_duckduckgo": "https://www.astrobin.com/hj2d1t/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hj2d1t/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hj2d1t/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hj2d1t/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hj2d1t/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hj2d1t/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hj2d1t/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28874/2021/bf961eb8-74cd-4c40-921f-d59e50ad81c6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28874/2021/bf961eb8-74cd-4c40-921f-d59e50ad81c6-1615256399.jpg",
+    "url_thumb": "https://www.astrobin.com/hj2d1t/0/rawthumb/thumb/",
+    "user": "jerahian",
+    "views": 301,
+    "w": 4656
+}

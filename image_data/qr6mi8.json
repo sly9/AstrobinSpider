@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "67.503",
+    "description": "Re-process of NGC7822\nGear:\nCamera: ASI1600MM w/ EAF, EFW\nFilters: Antlia 3.5nm Ha, Astronomik Oiii 6nm, ZWO 7nm Sii\nScope: Meade Series 6000 70mm f/5 Astrograph Quadruplet\nGuidescope: Williams Optics 50mm\nGuidecam: ASI120MM mini\nMount: SW HEQ5 Pro w/ Belt mod\nPegasus Astro Pocket Power Box\nAstro-Zap dew heaters\n\nImage details:\n49x300s HA, Gain 139, -10c\n26x420s OIII, Gain 139, -10c\n25x420s SII, Gain 139, -10c\n25 darks, flats, darkflats\n12 hrs total\n\nAcquisition/Edits:\nSharpCap, NINA, PHD2, Stellarium, APP, Pixinsight, Photoshop",
+    "h": 3433,
+    "hash": "qr6mi8",
+    "id": 593520,
+    "imaging_cameras": [
+        "ZWO ASI ASI1600 MM cooled"
+    ],
+    "imaging_telescopes": [
+        "Meade 6000 70mm Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "275.966",
+    "pixscale": "2.270",
+    "published": "2021-05-31T18:17:17.463712",
+    "ra": "359.465",
+    "radius": "1.829",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/593520/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822"
+    ],
+    "title": "NGC7822 Widefield",
+    "updated": "2021-06-09T11:38:55.989639",
+    "uploaded": "2021-05-31T18:15:06.656844",
+    "url_duckduckgo": "https://www.astrobin.com/qr6mi8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qr6mi8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qr6mi8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qr6mi8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qr6mi8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qr6mi8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qr6mi8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54336/2021/7afcdd16-87e6-4173-b374-efb49b8a3cdf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54336/2021/7afcdd16-87e6-4173-b374-efb49b8a3cdf-1622485101.jpg",
+    "url_thumb": "https://www.astrobin.com/qr6mi8/0/rawthumb/thumb/",
+    "user": "Colorado_Astro",
+    "views": 133,
+    "w": 4677
+}

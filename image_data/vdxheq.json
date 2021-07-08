@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNKNOWN",
+    "dec": null,
+    "description": "Mars approach to opposition, changes in phase and apparent diameter comparison. Due to very bad weather and extremely unstable seeing I was able to take only a few images during this opposition. It is interesting to notice the change in the albedo and the shrinking size of the polar cap.",
+    "h": 1280,
+    "hash": "vdxheq",
+    "id": 550297,
+    "imaging_cameras": [
+        "ZWO ASI462MC",
+        "ZWO290MC"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 10\" f/10 EMC",
+        "Newton 16\" f/4,5"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814282/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-12-17T18:19:44.613215",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/550297/",
+    "revisions": [
+        "/api/v1/imagerevision/264926/",
+        "/api/v1/imagerevision/264955/",
+        "/api/v1/imagerevision/264962/"
+    ],
+    "subjects": [],
+    "title": "Mars approach to opposition 2020",
+    "updated": "2021-03-16T17:56:11.250997",
+    "uploaded": "2020-12-17T15:18:48.357467",
+    "url_duckduckgo": "https://www.astrobin.com/vdxheq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vdxheq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vdxheq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vdxheq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vdxheq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vdxheq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vdxheq/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/vdxheq/0/rawthumb/thumb/",
+    "user": "Viper",
+    "views": 138,
+    "w": 2048
+}

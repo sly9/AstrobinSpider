@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "39.533",
+    "description": "Sadr region HaLRGB mosaic\r\nTelescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803\r\nMount : RainbowAstro RST-135\r\nFilters : Astrodon 50mm square LRGB, Ha 3nm\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI120mm mini\r\nExposure :\r\nLeft - L 600s x 8(1x1bin), RGB each 600s x 8(2x2bin), Ha 1200s x 16(1x1bin)\r\nRight - L 600s x 10(1x1bin), RGB each 600s x 7(2x2bin), Ha 1200s x 15(1x1bin)\r\nTotal 20h 50m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 3872,
+    "hash": "87klcb",
+    "id": 509703,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "358.949",
+    "pixscale": "3.480",
+    "published": "2020-07-27T03:28:34.621240",
+    "ra": "303.190",
+    "radius": "4.036",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/509703/",
+    "revisions": [],
+    "subjects": [
+        "Crescent Nebula",
+        "IC 1311",
+        "NGC 6888",
+        "NGC 6910",
+        "The star 22Cyg",
+        "The star 34Cyg",
+        "The star 40Cyg",
+        "The star Sadr (γCyg)"
+    ],
+    "title": "Sadr region HaLRGB 2 panel mosaic",
+    "updated": "2021-03-16T23:21:59.547424",
+    "uploaded": "2020-07-27T04:28:35.269095",
+    "url_duckduckgo": "https://www.astrobin.com/87klcb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/87klcb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/87klcb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/87klcb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/87klcb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/87klcb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/87klcb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/6fe79eea-64b2-4475-920c-92935a418391.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/6fe79eea-64b2-4475-920c-92935a418391-1595825459.jpg",
+    "url_thumb": "https://www.astrobin.com/87klcb/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 140,
+    "w": 7399
+}

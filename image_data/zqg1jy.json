@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.837",
+    "description": "Of course the interesting part of nebula is, of course, the Pillars of Creation, probably the most famous image The Hubble Space Telescope ever took. The inset comes from just a portion of that HST image. It's a filter very near the H-alpha emission line. If you want a challenge, download the original HST data and process the Pillars image for yourself.",
+    "h": 3600,
+    "hash": "zqg1jy",
+    "id": 491776,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "16.867",
+    "pixscale": "1.103",
+    "published": "2020-05-26T16:33:14.756269",
+    "ra": "274.762",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/491776/",
+    "revisions": [
+        "/api/v1/imagerevision/234765/",
+        "/api/v1/imagerevision/234767/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "The Eagle Nebula - M16 - H-alpha - with Insert",
+    "updated": "2021-03-17T01:50:49.761508",
+    "uploaded": "2020-05-26T17:33:15.567759",
+    "url_duckduckgo": "https://www.astrobin.com/zqg1jy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zqg1jy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zqg1jy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zqg1jy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zqg1jy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zqg1jy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zqg1jy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/c2e3d1b1-fb5e-4c1b-bd92-5edf939a0231.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/c2e3d1b1-fb5e-4c1b-bd92-5edf939a0231-1590514943.jpg",
+    "url_thumb": "https://www.astrobin.com/zqg1jy/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 237,
+    "w": 4500
+}

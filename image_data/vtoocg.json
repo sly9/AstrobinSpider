@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-40.414",
+    "description": "S = 17x 1800s\r\nH = 14x 1800s\r\nO = 17x 1800s\r\n\r\nTurned out similar to https://apod.nasa.gov/apod/ap061020.html",
+    "h": 3600,
+    "hash": "vtoocg",
+    "id": 501528,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Apochromatic"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811616/"
+    ],
+    "orientation": "354.262",
+    "pixscale": "1.129",
+    "published": "2020-06-28T22:33:41.936145",
+    "ra": "254.144",
+    "radius": "0.903",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/501528/",
+    "revisions": [
+        "/api/v1/imagerevision/239368/",
+        "/api/v1/imagerevision/239385/",
+        "/api/v1/imagerevision/239387/"
+    ],
+    "subjects": [
+        "IC 4628",
+        "IC4628"
+    ],
+    "title": "Prawn Nebula, IC 4628",
+    "updated": "2021-03-17T00:55:06.560194",
+    "uploaded": "2020-06-28T23:30:32.231499",
+    "url_duckduckgo": "https://www.astrobin.com/vtoocg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vtoocg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vtoocg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vtoocg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vtoocg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vtoocg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vtoocg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2020/4b11fbd4-3259-4c5d-9dbd-2ea91c82448b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2020/4b11fbd4-3259-4c5d-9dbd-2ea91c82448b-1593387277.jpg",
+    "url_thumb": "https://www.astrobin.com/vtoocg/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 113,
+    "w": 4500
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-37.091",
+    "description": "",
+    "h": 1581,
+    "hash": "1mpz7c",
+    "id": 505386,
+    "imaging_cameras": [
+        "ZWO ASI  2600 MC pro"
+    ],
+    "imaging_telescopes": [
+        "ZWO MINI GUIDE SCOPE 30mm F4",
+        "SharpStar Optics 150 HNT f2.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811162/"
+    ],
+    "orientation": "262.301",
+    "pixscale": "1.860",
+    "published": "2020-07-13T17:07:15.687032",
+    "ra": "285.396",
+    "radius": "0.759",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/505386/",
+    "revisions": [],
+    "subjects": [
+        "IC 4812",
+        "NGC 6726",
+        "NGC 6727",
+        "NGC 6729"
+    ],
+    "title": "NGC6726",
+    "updated": "2021-07-08T02:26:27.534646",
+    "uploaded": "2020-07-13T18:07:16.556731",
+    "url_duckduckgo": "https://www.astrobin.com/1mpz7c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1mpz7c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1mpz7c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1mpz7c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1mpz7c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1mpz7c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1mpz7c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/35896/2020/867984d9-5676-48f7-8d1c-0fab3ba75f95.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/35896/2020/867984d9-5676-48f7-8d1c-0fab3ba75f95-1594663836.jpg",
+    "url_thumb": "https://www.astrobin.com/1mpz7c/0/rawthumb/thumb/",
+    "user": "atomo",
+    "views": 434,
+    "w": 2476
+}

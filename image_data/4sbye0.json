@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "12.989",
+    "description": "",
+    "h": 2712,
+    "hash": "4sbye0",
+    "id": 575700,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "93.583",
+    "pixscale": "0.471",
+    "published": "2021-03-20T21:37:02.977217",
+    "ra": "170.067",
+    "radius": "0.284",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575700/",
+    "revisions": [
+        "/api/v1/imagerevision/279089/"
+    ],
+    "subjects": [
+        "M 66",
+        "NGC 3627"
+    ],
+    "title": "M66 LRGB",
+    "updated": "2021-06-13T21:03:04.792690",
+    "uploaded": "2021-03-20T21:35:52.120126",
+    "url_duckduckgo": "https://www.astrobin.com/4sbye0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4sbye0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4sbye0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4sbye0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4sbye0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4sbye0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4sbye0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2021/c4f81039-9b8d-4da3-afea-44af4918c61b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2021/c4f81039-9b8d-4da3-afea-44af4918c61b-1616276308.jpg",
+    "url_thumb": "https://www.astrobin.com/4sbye0/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 244,
+    "w": 3388
+}

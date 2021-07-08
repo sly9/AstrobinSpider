@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 84,
+    "data_source": "BACKYARD",
+    "dec": "53.362",
+    "description": "Yahoooo...finally!!  This is the first completed image that I've taken with my now not-so-new PlaneWave 20\" scope.  As any of you who have been following my posts about the scope know, I've been working on this thing for well over a year since taking delivery in February of 2020.  It is getting there, but I still have a few remaining issues to resolve.  Regardless, the scope is now working well enough to take some initial test images and that's good because the weather in Bend is turning  spring-like with more clear nights and steady skies.  When I get some time, I'll post another update on where things stand with the scope and my plans to get it shipped to a better location.  It continues to be an interesting story.\r\n\r\nI've long had a desire to image M109 but because of a serious problem with scattered light in my C14 Edge from the nearby bright star Phecda (gamma UMa), I've never been successful.  I really like barred spirals so M109 has been a nagging desire for a long time.  Because Phecda is so bright, M109 also seemed like a good \"first object\" to make sure that the PW20 didn't have any similar problems with stray light.  On top of that, my scope rolls out under the sky facing an unobstructed northern sky so M109 is calling every time I have it outside.\r\n\r\nMessier 109 (NGC 3992) is a barred spiral galaxy with a weak inner ring structure outside of the central bar.  It is located approximately 83.5 ± 24 Mly away in Ursa Major.  It was discovered by Pierre Méchain in 1781 and added to Messier's catalog two years later in the appendix.   Since M109 appeared in the appendix,  there have been arguments over whether M109 should be officially listed as a Messier object but those kind of silly controversies have long ago died out.  More interesting is the fact that this galaxy is by far the most distant object in the Messier Catalog. M109 has three satellite galaxies (UGC 6923, UGC 6940 and UGC 6969) and possibly more that are as yet undiscovered.  Because of its distance, M109 only subtends 7.6 x 4.7 arc-minutes, which makes it a moderately challenging target for small telescopes.  Its saving grace is that it is relatively bright with an apparent magnitude of 10.6 so it is a commonly imaged galaxy.   Since the PlaneWave 20 has a larger field of view than my C14 system, M109 forms even a smaller image on the sensor.  I'll have to get used to that!  Interestingly you have to move to a PW24 to get nearly the same EFL at F6.8 as the C14 at F/10.8.  Of course the price for the PW24 is almost 10x the cost of a C14!\r\n\r\nThere were two reasons to move from my C14 to a 20\"scope and one of them was because, with the same camera, I'd have a signal that is about 2.5x higher with the 20\" with only a slightly larger FOV.  Therefore, I switched to using half of my normal exposure time (20 min) to just 10 minutes with the PW20 and it worked out quite well.  The local seeing conditions when I took this data were generally a little better than 2.0\", although I measured numerous subs at 1.4\" - 1.6\" FWHM.  I had to cut short my total exposure time due to some travel plans so it's interesting to see how well \"only\" 10 hours did on this object.  One additional thing to note is that my roll-out rig is actually VERY stable and I've never seen any vibration issues.  That whole design effort was a big success.\r\n\r\nMy new FLI-ML16803 is super clean and the data was a delight to work with; although, I'm seriously considering swapping the camera for a QHY600 for better sampling and more flexibility when conditions are especially good.  I'll discuss that issue more in an update post about the scope itself.  The one unusual problem that I had with this data set is that it calibrated so well that the auto-stretch routines in PI didn't have enough range at the low end to handle it!  I've never seen that happen before so I had to get a little creative about stretching this data using manual settings.  Ultimately, it left the background just a little dark so I worked on bringing the level up a little as I worked through the final processing steps (and you can see that in the earlier versions).  As always, I like to really push the data to maximize detail and having more exposure time definitely would have helped but this was just a first effort to learn about the scope and the data that it produces.\r\n\r\nI'm still running the scope with all my \"old\" software (centered on MaximDL) and it performed flawlessly.  However, I want to upgrade all of my operating software so that's another thing on my list.  So far, I am especially impressed with the operation of the L500 mount.  It is fast, silent and super accurate.  A full sky model with 50-60 points only takes about 10 minutes to complete and that makes the pointing accuracy quite good.  Still, I'd like to refine pointing using plate solves and I'm not sure how to make that happen through MaximDL.  I haven't worried too much about it since I'm hoping to move to a better control package, which may have that capability. \r\n\r\nThere is one other technical item that I'll need to sort out.  Auto-guiding with the ONAG unit is slightly different than with the C14.  At F/6.8, the guide star has enough SA (and AST) to create a donut guide star image.  MaximDL appears to use a \"brightest point\" guiding algorithm that causes artificially high guide errors as the algorithm picks various different points about the donut.  I turn the sensitivity of the guiding system to very low values to mitigate the issue but I've scratched my head over all the screwy things that I see in a lot of guiding software.  I know that PHD2 has a lot of options but in my view, the guys who write this stuff should give the user the option of simply using centroid guiding.  That's a very robust method in the presence of seeing with different guide star shapes.  I'd also like to see a small cross shown on top of the guide star image showing the point that the analysis picks so I can evaluate its performance.\r\n\r\nAnyway, that's enough of the story for now.  As always, C&C is welcome so let me know what I got right and what I screwed up.\r\n\r\nJohn",
+    "h": 2900,
+    "hash": "hmcdyt",
+    "id": 583413,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave 20\" CDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 401,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808024/"
+    ],
+    "orientation": "181.513",
+    "pixscale": "0.536",
+    "published": "2021-04-19T19:19:12.598612",
+    "ra": "179.409",
+    "radius": "0.305",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/583413/",
+    "revisions": [
+        "/api/v1/imagerevision/283952/",
+        "/api/v1/imagerevision/284011/",
+        "/api/v1/imagerevision/284037/",
+        "/api/v1/imagerevision/284103/"
+    ],
+    "subjects": [
+        "M 109",
+        "M109",
+        "NGC 3992"
+    ],
+    "title": "M109 A Classic Barred Spiral in Ursa Major",
+    "updated": "2021-06-14T15:59:09.480798",
+    "uploaded": "2021-04-19T06:00:27.763924",
+    "url_duckduckgo": "https://www.astrobin.com/hmcdyt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hmcdyt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hmcdyt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hmcdyt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hmcdyt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hmcdyt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hmcdyt/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2021/ae38fcee-70da-4b4c-9633-61fd23aad1f0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2021/ae38fcee-70da-4b4c-9633-61fd23aad1f0-1618813152.jpg",
+    "url_thumb": "https://www.astrobin.com/hmcdyt/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1788,
+    "w": 2900
+}

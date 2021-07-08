@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "66.592",
+    "description": "Just a quick test to see how I might re-expose the Cat's Eye Nebula. This is from an 8\" in a 19.5 SQM sky.\r\n\r\nThe original processed results from August 2016 is here...\r\n\r\nhttps://www.astrobin.com/259349/D/\r\n\r\nMy main focus with the reprocessing was more detail, less noise, and arguably more natural colors using PCC. The PI HDR insertion with PixelMath is slightly visible. Something that would need more attention with low SNR data.\r\n\r\nThis is HaLRGB. I recall the nights were exceptionally stable. Detail benefited from 774 of my best 60-second luminance subs (12.9 hours).",
+    "h": 1724,
+    "hash": "78sxz7",
+    "id": 496797,
+    "imaging_cameras": [
+        "QSI 660 WSG"
+    ],
+    "imaging_telescopes": [
+        "Celestron 8\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802884/"
+    ],
+    "orientation": "272.133",
+    "pixscale": "0.638",
+    "published": "2020-06-11T21:51:28.322471",
+    "ra": "269.711",
+    "radius": "0.242",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496797/",
+    "revisions": [],
+    "subjects": [
+        "IC4677",
+        "NGC 6552",
+        "NGC6543",
+        "NGC6552",
+        "PK096+29.1"
+    ],
+    "title": "Cat's Eye Nebula (8\" in 19.5 SQM sky)",
+    "updated": "2021-04-13T17:44:28.277430",
+    "uploaded": "2020-06-11T22:51:28.438354",
+    "url_duckduckgo": "https://www.astrobin.com/78sxz7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/78sxz7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/78sxz7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/78sxz7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/78sxz7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/78sxz7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/78sxz7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/50c51a1e-7295-44cc-92ab-ec819232ae3f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/50c51a1e-7295-44cc-92ab-ec819232ae3f-1591916352.jpg",
+    "url_thumb": "https://www.astrobin.com/78sxz7/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 235,
+    "w": 2121
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "50.532",
+    "description": "NGC 6826 is known as The Blinking Planetary.  This stems from the faintness of the outer shell which is only visible when using averted vision. It is also known as Caldwell 15. With this image I wanted to tease out the structure of the shell, by combining both Ha and OIII data. The OIII signal is the stronger of the two, hence the resulting teal colour.",
+    "h": 2431,
+    "hash": "zyzqyf",
+    "id": 508322,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "6.463",
+    "pixscale": "0.533",
+    "published": "2020-07-26T10:14:09.675147",
+    "ra": "296.199",
+    "radius": "0.346",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/508322/",
+    "revisions": [],
+    "subjects": [
+        "Blinking planetary",
+        "NGC6826",
+        "PGC2370101",
+        "PGC63573",
+        "PK083+12.1"
+    ],
+    "title": "NGC 6826 - The Blinking Planetary",
+    "updated": "2021-03-21T10:46:57.365715",
+    "uploaded": "2020-07-22T20:00:48.435125",
+    "url_duckduckgo": "https://www.astrobin.com/zyzqyf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zyzqyf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zyzqyf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zyzqyf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zyzqyf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zyzqyf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zyzqyf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2020/49d94e3d-a0c5-48de-8da6-9eedee4e5e07.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2020/49d94e3d-a0c5-48de-8da6-9eedee4e5e07-1595762058.jpg",
+    "url_thumb": "https://www.astrobin.com/zyzqyf/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 435,
+    "w": 3985
+}

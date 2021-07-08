@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "6.041",
+    "description": "07.AUG.2020 - Celestron Edge HD 1100 + Hyperstar v4 + ASI6200MM Pro\r\n38 x 600s Baader H1 HighSpeed f/2 Filter\r\n\r\n07.AUG.2020 - Takahashi FSQ-85 + Moravian G3 16200 S7\r\n42 x 120s a Baader LRGB Filter\r\n\r\nGary wrote a nice description of this faint object here:\r\n<a href=\"https://www.astrobin.com/2o6hqq/?nc=all\" target=\"_new\">https://www.astrobin.com/2o6hqq/?nc=all/</a>",
+    "h": 6336,
+    "hash": "bq2751",
+    "id": 513833,
+    "imaging_cameras": [
+        "Moravian G3-16200FW-S7",
+        "ZWO ASI 6200 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 257,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "359.875",
+    "pixscale": "1.432",
+    "published": "2020-08-11T05:20:00.579048",
+    "ra": "283.744",
+    "radius": "2.075",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513833/",
+    "revisions": [
+        "/api/v1/imagerevision/245035/"
+    ],
+    "subjects": [
+        "62 Ser",
+        "PK038+02.1",
+        "PK039+02.1",
+        "Sh2-75"
+    ],
+    "title": "Yerks-McDonald 16",
+    "updated": "2021-03-16T22:57:48.731087",
+    "uploaded": "2020-08-11T06:20:00.938040",
+    "url_duckduckgo": "https://www.astrobin.com/bq2751/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bq2751/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bq2751/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bq2751/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bq2751/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bq2751/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bq2751/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/3afd7eab-9358-450e-9e40-c7acefa836ab.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/3afd7eab-9358-450e-9e40-c7acefa836ab-1597127132.jpg",
+    "url_thumb": "https://www.astrobin.com/bq2751/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 622,
+    "w": 8288
+}

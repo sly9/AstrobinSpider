@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 50,
+    "data_source": "BACKYARD",
+    "dec": "42.037",
+    "description": "After finishing my last image of M109, I wanted to try a more detailed object to see what I could do to exercise the capability of 20\".  It's been 5 years since I last imaged M63 and my first effort was a mess.  Fortunately, M63 was rising in the east so it seemed like a good opportunity to try it again.\r\n\r\nM63 (NGC 5055)is a particularly interesting target for a lot of reasons.  First, as galaxies go, M63 has gobs of interesting large-scale intricate detail.  It has morphology classification of SAbc, which indicates a spiral with no central bar and loosely wound arms.  Since large scale spiral structure is difficult to detect in the visible spectrum, it is considered to be a flocculent galaxy. However, in the NIR, two symmetric spiral arms that wrap through 150 degrees can be detected.  Numerous methods used to measure its distance give a wide range of values but M63 is considered to lie at a distance of about 29.3 Mly.  With an apparent magnitude of 9.3 and a size of 12.6' x 7.2', it is a popular target for imagers using a wide range of equipment.  Finally, M63 has an interesting set of faint \"tidal\" tails extending out from either side of the core.  I didn't try very hard to pull out the tails in my processing so I've include an inverse monochrome image of the stretched, stacked Lum channel (in Rev B) to show them a little more clearly.\r\n\r\nMy effort to gather data for this image is a great example of what NOT to do!  I created a massive mess and here's how I did it.  I started imaging using MaximDL.  After gathering a couple of nights of data, I pulled my entire camera/guider package apart to take the auto-guider down to Arizona to make interferometer measurements.  When I came back and put it all back together, I reset my rotator to it's \"nominal\" zero degree orientation.  Amazingly, when I put everything back together, I was stunned to see that the camera was only a tiny bit out of focus!  Of course, I had to readjust everything to get it ready for my next imaging session.\r\n\r\nAfter imaging for a few more nights, I decided to make the shift away from MaximDL to SGP.   The transition was reasonably smooth and after only two nights I had the system running perfectly, plate solving, dithering, auto-focusing, shutting itself down before dawn, and automatically parking.  It's fantastic!  Along the way, I had one night of truly exceptional seeing that showed a total guide error of about 0.22\" rms with the errors falling into a tight 0.5\" circle.  The image quality of the subs on that night were really exceptional!  Unfortunately, it was beginner's luck and those conditions only happened on a single night.\r\n\r\nThere was one minor gotcha in this switch, which threw me for a loop when I went to process the data.  Since the ONAG guider optically flips the image, I've had MDL set up to rotate and flip the data as it gets stored to disk.  I've been doing it that way for so long that I had almost forgotten about it.  SGP doesn't appear to have a similar capability so it saves the image data straight to the disk.  After I reinstalled the camera package, I had used MDL to take another set of flats so at the end of taking all of the light data, I had a complete mess!  I had flat and light data taken with the original camera orientation using MDL.  I also had flat data taken with the camera rotated to the new orientation with MDL.  And finally, I had data taken with the new camera orientation taken with SJP and stored straight to the disk without any coordinate translation.  Whoa!\r\n\r\nMy first decision was to process all of the data as if it had been saved by MDL.  So I looked at the dark signal in one of the corners to determine how to properly rotate and flip the SJP data to match the MDL data.  Then I set up a process container in PI that I could apply to an image container to batch process all of my images.  This is an extremely powerful capability in PI, but make sure that you get everything exactly right, or it's easy to screw up everything in sight.  Don't ask me how I know that...just take my word for it!  Sorting out which flats went with which image and which data sets needed a coordinate transformation was a time consuming exercise and it took me almost two days to get everything untangled and properly calibrated.  This should be a one time issue and it will be easier going forward once I'm using a single acquisition program.\r\n\r\nI got a little carried away gathering data for this image and combined with the generally good seeing that produced a pretty high yield, I was surprise to see that I wound up collecting a little over 22 hours of useable data.  Given the really high signal that I get with this scope/camera combination, that's the equivalent of having spent about 50 hours using my C14 system.  All that signal really showed in the processing.  I'm normally fighting noise at every turn but that really wasn't the case with this data set and that made it a delight to process.\r\n\r\nI think that the single most difficult part of processing an image of M63 might be achieving proper color calibration.  Just looking through all of the images here on AB of M63 (including my own) confirm this observation.  The colors are all over the place!!\r\n\r\nI first tried to use the PhotometricColorCalibration tool in PI and I wasn't happy with the result.  I love the idea of this tool and it is beautifully implemented; however, I've had very limited success with it--in spite of wasting huge amounts of time fiddling with every parameter to see if I could get it to work.  I finally went back to my time tested method of defining a background and a \"white\" region over the galaxy to get the colors right.  My first effort was a mess, so I regrouped by first linearizing all of the channels to the blue signal and trying again.  That worked better and I completed processing a first version of the image, which still didn't look right.  I noticed that there were small color gradients in the image and that made me realize that part of the problem might have come from the sky itself.  \r\n\r\nM63 sits in a part of my sky that contains a very small sky glow gradient from the town of Redmond to the north.  The gradient isn't very significant but if I looked carefully,  it's visible in the subs.  So, I went back to the original stacked channels and performed a low order DBE fit to flatten the background...and BINGO, that did the trick!  This image is the final result.  There is virtually no background color gradient and the colors calibrated to a result that looked \"about right\" to my eye.  I expect to see blue (or blue-ish) spiral arms, dirt colored (orange-ish) colored dust lanes, and a creamy yellow or yellow-orange core.  Something is wrong if the prominent colors include violet, purple, green, or magenta.  I won't claim that my colors are absolutely \"right\" but what I see in this result matches my expectation of the colors that this kind of galaxy should exhibit--simply based on the distribution of stellar populations within the object.\r\n\r\n\r\nAs usual, I'm always happy to entertain feedback, questions, and/or C&C so let me know if I missed anything.\r\n\r\nJohn",
+    "h": 3300,
+    "hash": "dhogsm",
+    "id": 590873,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave 20\" CDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 260,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808024/"
+    ],
+    "orientation": "359.272",
+    "pixscale": "0.536",
+    "published": "2021-05-19T21:26:07.707919",
+    "ra": "198.966",
+    "radius": "0.347",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/590873/",
+    "revisions": [
+        "/api/v1/imagerevision/288041/",
+        "/api/v1/imagerevision/288044/",
+        "/api/v1/imagerevision/288088/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "Sunflower Galaxy",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 (NGC 5055), The Amazing Sunflower through a 20\"",
+    "updated": "2021-07-01T17:51:20.895975",
+    "uploaded": "2021-05-19T17:44:39.300596",
+    "url_duckduckgo": "https://www.astrobin.com/dhogsm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dhogsm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dhogsm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dhogsm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dhogsm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dhogsm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dhogsm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2021/e5282e68-701e-4a7d-bdf1-488ff9f76bd6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2021/e5282e68-701e-4a7d-bdf1-488ff9f76bd6-1621448060.jpg",
+    "url_thumb": "https://www.astrobin.com/dhogsm/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 695,
+    "w": 3300
+}

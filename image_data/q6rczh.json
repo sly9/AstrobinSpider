@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.870",
+    "description": "",
+    "h": 4095,
+    "hash": "q6rczh",
+    "id": 479440,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 194,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812320/"
+    ],
+    "orientation": "1.459",
+    "pixscale": "0.603",
+    "published": "2020-04-20T10:58:02.475351",
+    "ra": "154.481",
+    "radius": "0.418",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/479440/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3193"
+    ],
+    "title": "Hickson 44",
+    "updated": "2021-03-17T02:59:40.807487",
+    "uploaded": "2020-04-20T11:58:02.896036",
+    "url_duckduckgo": "https://www.astrobin.com/q6rczh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/q6rczh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/q6rczh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/q6rczh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/q6rczh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/q6rczh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/q6rczh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2020/66b630e7-9c1c-4f42-9d4a-2ec8030d0ff6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2020/66b630e7-9c1c-4f42-9d4a-2ec8030d0ff6-1587384114.jpg",
+    "url_thumb": "https://www.astrobin.com/q6rczh/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 510,
+    "w": 2865
+}

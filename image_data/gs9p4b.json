@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 40,
+    "data_source": "OWN_REMOTE",
+    "dec": "-2.158",
+    "description": "Ah, you know, it's one of the most boring targets in the world. And probably it's also one of the hardest targets for post-processing. As I was joking with my teammates, this is like cooking a regular family dish - it's HARD to make it taste delicious! \r\n\r\nThe plan was to shoot all 8 channels (including the NIR). The project was squeezed in between other targets as a time filler. I didn't reach the goal to collect everything as planned. But there are a lot of interesting findings. Such as huge halos with Chroma S-II and O-III 3nm filters, eye-popping microlensing effect with Chroma iSloan filter on the IMX455 sensor, and the sharper than H-alpha luminance data. There are enough surprises and enjoyments. \r\n\r\nFirst suggestion - unless you are totally desperate, don't try to shoot NIR data (even at a remote observatory). It's hard and most of the sensors out there are not efficient enough to collect meaningful SNR in a reasonable time. I am done with it, no more.\r\n\r\nHorsehead nebula region is fantastic. The broadband signal is strong and crisp. Both H-alpha and Sulphur-II masters join the luminance master to add more details to the structure of the emission portion of this region. The effect is very minimum. \r\n\r\nColor blending side, for the sake of already-collected narrowband and NIR channels, they are all used. To be honest, they either couldn't contribute much or I don't want them to mess up the beautiful RGB natural color. So, it's still a 98% LRGB color palette. \r\n\r\nHope you folks like it and comments are welcome!\r\n\r\nAs always, thanks to my teammates <a href=\"https://www.astrobin.com/users/tbcgeorge/\">TBC George</a>, <a href=\"https://www.astrobin.com/users/nodustab/\">Chen Wu</a>, and <a href=\"https://www.astrobin.com/users/yzhzhang/\">Yizhou Zhang</a> for helping out whenever they had a chance to fill up the data gap.\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 3200,
+    "hash": "gs9p4b",
+    "id": 586939,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 271,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "77.389",
+    "pixscale": "1.330",
+    "published": "2021-05-04T02:54:45.304301",
+    "ra": "85.315",
+    "radius": "1.116",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/586939/",
+    "revisions": [
+        "/api/v1/imagerevision/286056/"
+    ],
+    "subjects": [
+        "Flame Nebula",
+        "IC 431",
+        "IC 432",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "Orion B",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "Horsehead Nebula (Barnard 33)",
+    "updated": "2021-07-01T17:09:49.326707",
+    "uploaded": "2021-05-04T02:04:45.428743",
+    "url_duckduckgo": "https://www.astrobin.com/gs9p4b/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gs9p4b/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gs9p4b/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gs9p4b/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gs9p4b/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gs9p4b/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gs9p4b/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2021/86002778-ca72-4bc2-9010-bb08bd9ea696.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2021/86002778-ca72-4bc2-9010-bb08bd9ea696-1620444135.png",
+    "url_thumb": "https://www.astrobin.com/gs9p4b/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 525,
+    "w": 5122
+}

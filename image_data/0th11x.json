@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 36,
+    "data_source": "BACKYARD",
+    "dec": "20.519",
+    "description": "I posted an SHO Hubble palette rendition of these data last week. This is a reprocessing of those data with three different NB natural color approaches.\r\n\r\nVersion A uses a PI Pixel Math formula published by Arturas Medvedevas.\r\n\r\nR: iif (Ha>0.15, ha, (Ha*0.8) + (OIII*0.2))\r\nG: iif (Ha>0.5, 1-(1-OIII) * (1-(Ha-0.5)), OIII * (Ha+0.5))\r\nB: iif (OIII>0.1, OIII, (Ha*0.3) + (OIII*0.2))\r\n\r\nVersion B uses a Pixel Math formula published by Steve Milne.\r\n\r\nR: 0.5Ha + 0.5SII\r\nG: 0.15Ha + 0.85OIII\r\nB: OIII\r\n\r\nVersion C use my Pixel Math formula. My version uses linear Ha, SII, OIII channels in Pixel Math and stretches the resulting image with the RGB channels unlinked.\r\n\r\nR: SII + (Ha*0.5)\r\nG: (OIII + SII) *2\r\nB: OIII\r\n\r\nFinally, I have also include an HOO rendition (Version D) and my original SHO rendition (Version E) for comparison.\r\n\r\nWhat version do you like the best?\r\n\r\n\r\nUPDATE: Thank you to everyone that spent the time to consider and comment on these various approaches to creating a more natural color look to narrowband emission nebula data. In tallying the result of those analyses and comments I found that there are nearly as many opinions on what works best as there were options offered. I think that this result might be further evidence of the strong, independent thinking of our community of astrophotographers. No herd mentality here at Astrobin. Thank you all.",
+    "h": 2391,
+    "hash": "0th11x",
+    "id": 552149,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 158,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "119.237",
+    "pixscale": "0.864",
+    "published": "2020-12-23T04:54:48.979625",
+    "ra": "92.438",
+    "radius": "0.475",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/552149/",
+    "revisions": [
+        "/api/v1/imagerevision/265774/",
+        "/api/v1/imagerevision/265775/",
+        "/api/v1/imagerevision/265776/",
+        "/api/v1/imagerevision/265777/"
+    ],
+    "subjects": [
+        "IC2159",
+        "Monkey Head Nebula",
+        "NGC 2174",
+        "NGC 2175",
+        "NGC2174",
+        "NGC2175",
+        "Sh2-252"
+    ],
+    "title": "Monkey Head Nebula (NGC 2174) - NB Natural Color Study",
+    "updated": "2021-07-04T17:29:22.857502",
+    "uploaded": "2020-12-23T04:40:07.568300",
+    "url_duckduckgo": "https://www.astrobin.com/0th11x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0th11x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0th11x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0th11x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0th11x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0th11x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0th11x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/986c6156-da6c-4fce-9863-53f235d09149.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/986c6156-da6c-4fce-9863-53f235d09149-1608701150.jpg",
+    "url_thumb": "https://www.astrobin.com/0th11x/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 490,
+    "w": 3162
+}

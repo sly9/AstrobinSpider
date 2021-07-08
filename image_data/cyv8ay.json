@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "15.764",
+    "description": "",
+    "h": 2730,
+    "hash": "cyv8ay",
+    "id": 536813,
+    "imaging_cameras": [
+        "ASI 1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812916/"
+    ],
+    "orientation": "359.518",
+    "pixscale": "0.781",
+    "published": "2020-11-01T21:17:14.046677",
+    "ra": "185.718",
+    "radius": "0.465",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/536813/",
+    "revisions": [
+        "/api/v1/imagerevision/257896/"
+    ],
+    "subjects": [
+        "IC 783",
+        "M 100",
+        "NGC 4312",
+        "NGC 4321",
+        "NGC 4323",
+        "NGC 4328"
+    ],
+    "title": "The galaxy M100",
+    "updated": "2021-07-06T19:24:19.510741",
+    "uploaded": "2020-11-01T21:15:14.797389",
+    "url_duckduckgo": "https://www.astrobin.com/cyv8ay/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cyv8ay/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cyv8ay/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cyv8ay/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cyv8ay/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cyv8ay/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cyv8ay/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6288/2020/9a2e43ed-5ed2-4486-b9b1-6e194cd1d482.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6288/2020/9a2e43ed-5ed2-4486-b9b1-6e194cd1d482-1604265725.jpg",
+    "url_thumb": "https://www.astrobin.com/cyv8ay/0/rawthumb/thumb/",
+    "user": "Axel_Rau",
+    "views": 300,
+    "w": 3300
+}

@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "13.274",
+    "description": "",
+    "h": 3585,
+    "hash": "mh4s3t",
+    "id": 480073,
+    "imaging_cameras": [
+        "ZWO ASI  183 MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 254,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810667/"
+    ],
+    "orientation": "22.120",
+    "pixscale": "0.932",
+    "published": "2020-04-22T09:12:28.327035",
+    "ra": "170.038",
+    "radius": "0.657",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/480073/",
+    "revisions": [
+        "/api/v1/imagerevision/228094/",
+        "/api/v1/imagerevision/228231/",
+        "/api/v1/imagerevision/228275/"
+    ],
+    "subjects": [
+        "IC 2763",
+        "IC2745",
+        "Leo Triplet",
+        "M 65",
+        "M 66",
+        "M65",
+        "M66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628",
+        "NGC3628"
+    ],
+    "title": "The Leo Triplet",
+    "updated": "2021-06-10T16:22:20.742746",
+    "uploaded": "2020-04-22T10:12:28.686926",
+    "url_duckduckgo": "https://www.astrobin.com/mh4s3t/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mh4s3t/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mh4s3t/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mh4s3t/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mh4s3t/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mh4s3t/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mh4s3t/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31931/2020/1cb1391b-07e6-48a5-9b18-c7a394e7e676.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31931/2020/1cb1391b-07e6-48a5-9b18-c7a394e7e676-1587550561.jpg",
+    "url_thumb": "https://www.astrobin.com/mh4s3t/0/rawthumb/thumb/",
+    "user": "ssa104",
+    "views": 718,
+    "w": 3585
+}

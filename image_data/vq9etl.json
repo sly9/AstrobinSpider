@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-63.874",
+    "description": "ngc6744",
+    "h": 1020,
+    "hash": "vq9etl",
+    "id": 507724,
+    "imaging_cameras": [
+        "SBIG ST8XME"
+    ],
+    "imaging_telescopes": [
+        "Intes Mk65 1500/10 (6\")"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 5,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805824/"
+    ],
+    "orientation": "180.451",
+    "pixscale": "1.620",
+    "published": "2020-07-21T04:05:33.107310",
+    "ra": "287.463",
+    "radius": "0.414",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/507724/",
+    "revisions": [
+        "/api/v1/imagerevision/242383/"
+    ],
+    "subjects": [
+        "IC 4823",
+        "NGC 6744"
+    ],
+    "title": "ngc6744",
+    "updated": "2021-03-17T00:19:15.433968",
+    "uploaded": "2020-07-21T05:05:33.352007",
+    "url_duckduckgo": "https://www.astrobin.com/vq9etl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vq9etl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vq9etl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vq9etl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vq9etl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vq9etl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vq9etl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18929/2020/030e866a-0954-40c5-83d7-1e21d5b1b75b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18929/2020/030e866a-0954-40c5-83d7-1e21d5b1b75b-1595308789.jpg",
+    "url_thumb": "https://www.astrobin.com/vq9etl/0/rawthumb/thumb/",
+    "user": "grahamh",
+    "views": 25,
+    "w": 1530
+}

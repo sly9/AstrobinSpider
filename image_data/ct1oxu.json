@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "23.280",
+    "description": "<b>Object description:</b>\r\nSharpless 2-86 is an emission nebula located near the star Albireo in Cygnus. It is illuminated by the energy from the cluster of bright young blue stars, NGC 6823, in the center of the picture. Open star cluster NGC 6823 is 50 light years across and lies 6000 light years away. The age of the cluster is about two million years.\r\n\r\nThe huge pillars and dark globules of gas and dust pointing towards the open cluster in the centre are shaped by erosion from hot radiation emitted from the brightest cluster stars. \r\n\r\nNGC 6820 is the small reflection nebula in the lower right of the picture. \r\n\r\n<b>Image Aquisition</b>\r\nThis is a composite of Ha and R-G-B frames with a total integration time of 44 hours imaged on 15 different nights between 2015 and 2020 from my rooftop terrace in the Vienna city centre. Cameras used were AtikONE and ZWO ASI1600m mounted on a Skywatcher/Lacerta 200/800mm Newton, Takahashi Epsilon 130/430mm and Skywatcher Newton 130/650mm. \r\n\r\n<b>Total Exposure : 44,2 hours</b>\r\nR-G-B:   630 x 60s (total 10,5h)\r\nHa:        569 x 213s (total 33,7h)\r\n\r\n<b>Imaging dates (15 indivudual nights):</b>\r\n02-06/11/2015\r\n08/09/2016\r\n14/09/2016\r\n12/06/2017\r\n22/07/2017\r\n29/07/2017\r\n28/09/2017\r\n16/08/2018\r\n17/08/2018\r\n20/08/2020\r\n21/08/2020\r\n\r\nLarger FOV (430mm FL) \r\n<a href=\"https://astrob.in/vr6abi/0/\"><img src=\"https://astrob.in/vr6abi/0/rawthumb/gallery/get.jpg?insecure\"/></a>",
+    "h": 2030,
+    "hash": "ct1oxu",
+    "id": 560524,
+    "imaging_cameras": [
+        "Atik ONE 6.0",
+        "ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D",
+        "Skywatcher 130/650 PDS",
+        "Lacerta / Skywatcher 8\" Newton f4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799575/"
+    ],
+    "orientation": "359.676",
+    "pixscale": "1.179",
+    "published": "2021-01-23T15:25:08.836991",
+    "ra": "295.772",
+    "radius": "0.542",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/560524/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6823"
+    ],
+    "title": "Sharpless 2-86 / NGC 6823",
+    "updated": "2021-05-03T09:24:26.226658",
+    "uploaded": "2021-01-23T15:14:43.901317",
+    "url_duckduckgo": "https://www.astrobin.com/ct1oxu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ct1oxu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ct1oxu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ct1oxu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ct1oxu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ct1oxu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ct1oxu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4801/2021/bf62ccdd-8cca-495c-aee7-9225a41d7ba4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4801/2021/bf62ccdd-8cca-495c-aee7-9225a41d7ba4-1611415531.jpg",
+    "url_thumb": "https://www.astrobin.com/ct1oxu/0/rawthumb/thumb/",
+    "user": "herwig_p",
+    "views": 92,
+    "w": 2614
+}

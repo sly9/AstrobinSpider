@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-0.013",
+    "description": "M77 - Barred Spiral Galaxy. \r\n\r\nThis is one of the first targets that I had started acquire when I got the QHY600. There are plenty of things that are wrong with this image - the bias was not set very well which not only means that I have some black dots in the background, but it also means that in order to minimize those black dots, I had to lower the clipping factor which means that some of the satellite trails haven't integrated out. \r\n\r\nFor now, I am going to call this target done. I have since changed the bias to ensure I am not clipping any black point, which is helping - so this target allowed me some practice and iron out kinks in my workflow - nothing should go to waste!!",
+    "h": 5345,
+    "hash": "lnbctn",
+    "id": 556702,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11Edge HD Celestron C11EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804222/"
+    ],
+    "orientation": "325.361",
+    "pixscale": "0.275",
+    "published": "2021-01-09T20:22:46.113247",
+    "ra": "40.672",
+    "radius": "0.333",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/556702/",
+    "revisions": [
+        "/api/v1/imagerevision/270387/"
+    ],
+    "subjects": [
+        "M 77",
+        "M77",
+        "NGC 1068"
+    ],
+    "title": "M77 - Barred Spiral Galaxy",
+    "updated": "2021-04-09T07:04:59.464183",
+    "uploaded": "2021-01-09T20:16:54.248468",
+    "url_duckduckgo": "https://www.astrobin.com/lnbctn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lnbctn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lnbctn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lnbctn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lnbctn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lnbctn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lnbctn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1641/2021/41a14189-93cb-49ff-b6f8-6a896af8c4cf.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1641/2021/41a14189-93cb-49ff-b6f8-6a896af8c4cf-1610223887.png",
+    "url_thumb": "https://www.astrobin.com/lnbctn/0/rawthumb/thumb/",
+    "user": "dhavalbbhatt",
+    "views": 166,
+    "w": 6885
+}

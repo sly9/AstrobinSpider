@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "43.957",
+    "description": "First light with my ASI183MM-Pro and all I have to say is this camera is awesome! The details this camera yields are impressive! Very happy with it.\n\nTarget: NGC 7000 - North America Nebula / Cygnus wall area\n\nGear:\nCamera: ASI1600MM w/ EAF, EFW\nFilters: Astrodon 5nm Ha, 3nm SII, OIII\nScope: Meade 70mm Quad APO 350mm FL f/5\nGuidescope: Williams Optics 30mm Uniguide\nGuidecam: ASI120MM mini\nMount: SW EQ6R Pro\nPegasus Astro Pocket Power Box\nAstro-Zap dew heaters\n\nImage details:\n25x300s HA, Gain 139, -15c\n25x300s OIII, Gain 139, -15c\n20x300s SII, Gain 139, -15c\n25 darks, flats, darkflats\n6 hrs total\nBortle 5/6 sky\n\nAcquisition/Edits:\nSharpCap, NINA, PHD2, Stellarium, Pixinsight, Photoshop\nFor more of my images, find me on Instagram here: https://www.instagram.com/colorado_astro/",
+    "h": 3627,
+    "hash": "u64w1e",
+    "id": 599027,
+    "imaging_cameras": [
+        "ZWO ASI OIptical ZWO ASI 183 MM PRO"
+    ],
+    "imaging_telescopes": [
+        "Meade 6000 70mm Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2816415/"
+    ],
+    "orientation": "53.920",
+    "pixscale": "1.431",
+    "published": "2021-06-21T00:04:47.428031",
+    "ra": "314.904",
+    "radius": "1.278",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599027/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7000",
+        "North America Nebula"
+    ],
+    "title": "NGC 7000 - North America Nebula",
+    "updated": "2021-07-06T23:17:10.423339",
+    "uploaded": "2021-06-20T22:52:02.767154",
+    "url_duckduckgo": "https://www.astrobin.com/u64w1e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/u64w1e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/u64w1e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/u64w1e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/u64w1e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/u64w1e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/u64w1e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54336/2021/9d3fd28a-2a96-4bf0-aae9-d8805ae96d79.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54336/2021/9d3fd28a-2a96-4bf0-aae9-d8805ae96d79-1624247757.jpg",
+    "url_thumb": "https://www.astrobin.com/u64w1e/0/rawthumb/thumb/",
+    "user": "Colorado_Astro",
+    "views": 86,
+    "w": 5311
+}

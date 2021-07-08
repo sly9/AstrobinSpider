@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 18,
+    "data_source": "TRAVELLER",
+    "dec": "-42.999",
+    "description": "What are the limits of amateur astrophotography with DSLR cameras? \r\n\r\nMy goal with this image was to capture a deep look at NGC5128, one of the most spectacular galaxies of the night sky, revealing much more than the central dust lane: the surrounding halo. The image features data from 2019, back when I had the 1st light of my newtonian telescope, but most of the information was captured in 2020 (74%), from the 1st light trip to my dark sky observatory in July. Despite having very good data, it was a great processing challenge to balance the brighter central core and the extremely faint surrounding halo. As always, more data could really clean up the image and reveal more features, but I was more than pleased with the result! My original CenA image can be browsed in my gallery - I consider this new rendition a significant improvement. The original object description is below.\r\n\r\nDates: 30 Mar 2019, 16, 18 Jul 2020.\r\nLocation: MG, Brazil. Rural Skies (Bortle 2-3-4, calculated SQM ~21.6)\r\nCameras: Canon EOS T5/1200D (modded) [2019], and Canon EOS 80D (stock) [2020], @ ISO1600\r\nOptics: 150/750mm ATM Newtonian Telescope (optics by Sandro Coletti) + TS-Optics MaxField 2\" Coma Corrector\r\nMount: Sky-Watcher HEQ5, tracking, guided\r\nExposure Detail: 28x180s [2019] + 60x240s [2020] = Total 324' or 5h24\r\n\r\n<i>\r\nThis is the beautiful galaxy Centaurus A. Is is 11 million light-years away, the closest active galaxy to planet Earth. Spanning about 60,000 light-years, the peculiar elliptical galaxy is also known as NGC 5128. Centaurus A is apparently the result of a collision of two otherwise normal galaxies resulting in a fantastic jumble of star clusters and imposing dark dust lanes. Near the galaxy's center, left over cosmic debris is steadily being consumed by a central black hole with a billion times the mass of the Sun. As in other active galaxies, that process likely generates the radio, X-ray, and gamma-ray energy radiated by Centaurus A. [1] NGC 5128 was first identified in 1826 by James Dunlop. The name \"A\" is given by astronomers as the brighter radio source in the constellation Centaurus.\r\n\r\nIn the wonderful book \"A View of the Universe\", David Malin writes: \"[Centaurus A] had long been labelled as peculiar, or at least noteworthy, since it was first sketched by James Dunlop [...] in the 1820s. [...] The dark lane is ahuge dusty curtain which obscures, dims and reddens the light of stars behind it. The name 'Centaurus A' indicates that this most unusual object is the brightest radio source in that constellation. It was one of the first radio sources to be positively identified with an optical object [...] in the 1950s.\" [2] Malin's usage of unsharp masking has revealed fainter, then unknown shell-like structures in the halo, from a plate taken by John Graham with CTIO 4m telescope. [2]\r\n_____________________________________________\r\n\r\nIn this image I was extremely happy to capture the faint (and I say extremely faint!) halo features, despite the short 5h24 integration. The halo has a wonderful history and I recommend checking the inspirational works by Olsen, Neyer, and Malin [3].\r\n\r\nConstructive criticism, comments and suggestions are more than welcome in the comments section. \r\n\r\n[1] APOD 2017/03/09; \r\n[2] A View of the Universe, David Malin, pp. 213-214. Cambridge University Press, 1993. \r\n[3] Olsen: rolfolsenastrophotography.com/Astrophotography/Centaurus-A-Extreme-Deep-Field ; Neyer: http://www.starpointing.com/ccd/ngc5128.html</i>",
+    "h": 2480,
+    "hash": "4kbp3f",
+    "id": 573281,
+    "imaging_cameras": [
+        "Canon EOS 80D",
+        "Canon EOS Rebel T5/1200D"
+    ],
+    "imaging_telescopes": [
+        "Sandro Coletti ATM Newtonian 150mm f/5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.697",
+    "pixscale": "1.756",
+    "published": "2021-03-11T16:59:15.598811",
+    "ra": "201.373",
+    "radius": "1.067",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573281/",
+    "revisions": [
+        "/api/v1/imagerevision/277450/"
+    ],
+    "subjects": [
+        "Centaurus A",
+        "NGC 5128"
+    ],
+    "title": "NGC 5128 - Centaurus A",
+    "updated": "2021-07-03T18:56:50.090562",
+    "uploaded": "2021-03-11T16:49:37.182283",
+    "url_duckduckgo": "https://www.astrobin.com/4kbp3f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4kbp3f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4kbp3f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4kbp3f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4kbp3f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4kbp3f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4kbp3f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5670/2021/dc0db3b0-0997-40d5-ba77-c54e16055a3f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5670/2021/dc0db3b0-0997-40d5-ba77-c54e16055a3f-1615482066.png",
+    "url_thumb": "https://www.astrobin.com/4kbp3f/0/rawthumb/thumb/",
+    "user": "grsotnas",
+    "views": 598,
+    "w": 3600
+}

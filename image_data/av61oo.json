@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 28,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "4 Panel Mosaic of a LOT of galaxies in and around Markarian's Chain. Doing a plate solve in PixInsight it found 2021 PGC galaxies. Here I marked this up showing the 12 Messier objects in the field of view. I will be adding the full size version as a revision. (I had to save it fairly compressed to get the filesize down). It is a little noisy but it was a fun target to shoot.\r\n\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nTotal data gathered:\r\n(396) Lum @ 120secs - 1x1\r\n(80) R @ 240secs - 1x1\r\n(77) G @ 240secs - 1x1\r\n(76) B @ 240secs - 1x1\r\n\r\nCamera : QHY600 with Readout mode 0 and Gain set to 26 with Offset at 76.\r\nTelescope: Takahashi FSQ-106EDX4\r\nMount: AP Mach1GTO",
+    "h": 6139,
+    "hash": "av61oo",
+    "id": 483454,
+    "imaging_cameras": [
+        "QHYCCD QHY600"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-29T16:08:01.158616",
+    "ra": null,
+    "radius": null,
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/483454/",
+    "revisions": [
+        "/api/v1/imagerevision/230548/",
+        "/api/v1/imagerevision/230576/"
+    ],
+    "subjects": [],
+    "title": "Galaxies Galore (206 megapixel - 4 Panel Mosaic)",
+    "updated": "2021-04-22T08:06:11.302514",
+    "uploaded": "2020-04-29T17:08:01.510709",
+    "url_duckduckgo": "https://www.astrobin.com/av61oo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/av61oo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/av61oo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/av61oo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/av61oo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/av61oo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/av61oo/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/av61oo/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 749,
+    "w": 5760
+}

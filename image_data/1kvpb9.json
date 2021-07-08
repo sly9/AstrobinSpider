@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 33,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I produced this image of Jupiter this morning, under fabulous seeing conditions. I would say sub 1 are sec.\r\nMy focal length increaser the 2.5X Powermate is a beautiful lens, but I know that I am slightly under-sampling. That means spreading the detail over too few pixels. We magnify the image with a  focal length increaser to make the image bigger to have enough pixels to show the detail without loss of resolution…following Nyquist. The formula, assuming the Dawes limit resolution of my scope which is 0.34 arc secs, says I need 2.8X. So I’m under-sampled. I also saw a lunar image recently where a 500m diameter crater was clearly resolved. That is 0.27”, so it is clearly possible to better than the Dawes limit…unsurprising in a way since he was looking through the atmosphere when he determined it.\r\nAnyway, I decided to see if an increase in image scale/ pixel resolution would allow me to resolve finer detail. This of course means a longer focal length and greater magnification and to this end I bought a Tele Vue 3X Barlow lens. \r\nI was very happy to have achieved the resolution you see in version B earlier in the morning, but it was nothing on what happened when I swapped out the 2.5X Powermate for a 3X Barlow, albeit under excellent seeing conditions.\r\nImage C is a composite image that shows the comparison in resolution and it can be accessed with the mouse-over",
+    "h": 800,
+    "hash": "1kvpb9",
+    "id": 481712,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-25T14:57:36.488036",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481712/",
+    "revisions": [
+        "/api/v1/imagerevision/229206/",
+        "/api/v1/imagerevision/229208/"
+    ],
+    "subjects": [],
+    "title": "Jupiter: improved resolution with a greater image scale/ pixel resolution",
+    "updated": "2021-03-17T02:45:59.937380",
+    "uploaded": "2020-04-25T15:41:32.483265",
+    "url_duckduckgo": "https://www.astrobin.com/1kvpb9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1kvpb9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1kvpb9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1kvpb9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1kvpb9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1kvpb9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1kvpb9/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/1kvpb9/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 361,
+    "w": 800
+}

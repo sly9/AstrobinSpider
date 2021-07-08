@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 20,
+    "data_source": "TRAVELLER",
+    "dec": "39.374",
+    "description": "A spectacular pair of interacting galaxies (UGC 1810/UGC 1813), catalogued by Halton Arp as number 273 in his Atlas of Peculiar Galaxies. A high-speed dynamical interaction between the galaxies created an intricate pattern of tidal tails and distorted spiral arms  looking like a rose flower. The small apparent size of this photogenic galaxy pair makes it a challenging target for amateur astrophotographers, usually requiring larger apertures, longer focal lengths, stable tracking and good seeing.\r\n\r\nThis image was taken over several nights in September and November 2020 with my mobile setup:  the 250mm f4 Lacerta PhotoNewton and ZWO ASI183MM Pro camera on the Orion HDX-110 EQ-G mount.  It was a tough target to both image and process, considering its small apparent size of only 3 arcminutes and mediocre seeing conditions. To combat the effects of poor seeing and get better detail, I resorted to using a combination of  short and medium duration luminance exposures (60, 90 and 300 seconds) with different camera gain settings:\r\n\r\nL: 8x300s (Gain 0, bin 1x1), 54x90s (Gain 110, bin 1x1), 28x60s (Gain 200, bin 1x1)\r\nR: 32x180s (Gain 110, bin 1x1)\r\nG: 34x180s (Gain 110, bin 1x1)\r\nB: 30x180s (Gain 110, bin 1x1)\r\n\r\nTotal exposure: 7.3 hours",
+    "h": 2936,
+    "hash": "kcmxf2",
+    "id": 549045,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "359.921",
+    "pixscale": "0.495",
+    "published": "2020-12-11T19:04:36.399885",
+    "ra": "35.370",
+    "radius": "0.370",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549045/",
+    "revisions": [
+        "/api/v1/imagerevision/264102/",
+        "/api/v1/imagerevision/264854/"
+    ],
+    "subjects": [],
+    "title": "Arp 273, A Rose Made of Galaxies",
+    "updated": "2021-06-22T18:22:35.063950",
+    "uploaded": "2020-12-11T18:15:30.000036",
+    "url_duckduckgo": "https://www.astrobin.com/kcmxf2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kcmxf2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kcmxf2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kcmxf2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kcmxf2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kcmxf2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kcmxf2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/89b1c0d9-8f52-4c0f-8750-3e0e16189a65.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/89b1c0d9-8f52-4c0f-8750-3e0e16189a65-1607713192.jpg",
+    "url_thumb": "https://www.astrobin.com/kcmxf2/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 490,
+    "w": 4516
+}

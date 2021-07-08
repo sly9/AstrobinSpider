@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "50.979",
+    "description": "",
+    "h": 900,
+    "hash": "pyjje4",
+    "id": 569433,
+    "imaging_cameras": [
+        "Andor LucaR (DL604M EMCCD)"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 16\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "183.794",
+    "pixscale": "0.534",
+    "published": "2021-02-25T08:46:58.450026",
+    "ra": "140.503",
+    "radius": "0.094",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/569433/",
+    "revisions": [
+        "/api/v1/imagerevision/276382/",
+        "/api/v1/imagerevision/287283/"
+    ],
+    "subjects": [
+        "NGC 2841"
+    ],
+    "title": "NGC 2841",
+    "updated": "2021-07-04T17:53:48.637880",
+    "uploaded": "2021-02-25T08:44:12.965850",
+    "url_duckduckgo": "https://www.astrobin.com/pyjje4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pyjje4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pyjje4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pyjje4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pyjje4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pyjje4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pyjje4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8185/2021/0c63c885-4fa6-4ea3-9505-f421b095d0a5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8185/2021/0c63c885-4fa6-4ea3-9505-f421b095d0a5-1614246360.jpg",
+    "url_thumb": "https://www.astrobin.com/pyjje4/0/rawthumb/thumb/",
+    "user": "Junior-CCD",
+    "views": 352,
+    "w": 900
+}

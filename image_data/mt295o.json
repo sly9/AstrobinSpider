@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "67.757",
+    "description": "Dans la foulée de la version HOO, petit re-process de la version SHO déjà traitée.\r\nUne version plus haute en couleur grâce à un petit process dans PixInsight visant à ré-hausser les couches OIII et SII (MERCI Georges!!... ;). \r\nHa : 8x1200\" 2019\r\nSII : 12x600\" 26/08/2020\r\nOIII : 12x600\" 26/08/2020",
+    "h": 2504,
+    "hash": "mt295o",
+    "id": 549479,
+    "imaging_cameras": [
+        "QSI583wsg5"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85 EDX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810330/"
+    ],
+    "orientation": "357.006",
+    "pixscale": "3.388",
+    "published": "2020-12-13T14:43:44.212786",
+    "ra": "0.402",
+    "radius": "1.957",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549479/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822",
+        "NGC7762",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "sh2-171-SHO-2",
+    "updated": "2021-05-02T03:08:36.863039",
+    "uploaded": "2020-12-13T14:33:46.010161",
+    "url_duckduckgo": "https://www.astrobin.com/mt295o/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mt295o/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mt295o/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mt295o/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mt295o/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mt295o/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mt295o/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30961/2020/42acc186-435b-4411-8dd5-ae8cf73fda71.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30961/2020/42acc186-435b-4411-8dd5-ae8cf73fda71-1607870699.jpg",
+    "url_thumb": "https://www.astrobin.com/mt295o/0/rawthumb/thumb/",
+    "user": "bruno58",
+    "views": 156,
+    "w": 3321
+}

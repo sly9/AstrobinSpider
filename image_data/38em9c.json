@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 42,
+    "data_source": "BACKYARD",
+    "dec": "33.971",
+    "description": "Imaged on 19, 20/21\r\nLum : ASI174mm / 5,7h\r\nColour : Moravian G3-11000c / 2h",
+    "h": 1100,
+    "hash": "38em9c",
+    "id": 516634,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 329,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "0.151",
+    "pixscale": "0.856",
+    "published": "2020-08-21T15:30:30.878885",
+    "ra": "339.014",
+    "radius": "0.196",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/516634/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320"
+    ],
+    "title": "Stephan's Quintett",
+    "updated": "2021-05-05T17:02:41.972882",
+    "uploaded": "2020-08-21T16:09:37.651435",
+    "url_duckduckgo": "https://www.astrobin.com/38em9c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/38em9c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/38em9c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/38em9c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/38em9c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/38em9c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/38em9c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/fedc0c30-49da-46de-9239-36b105378308.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/fedc0c30-49da-46de-9239-36b105378308-1598109812.png",
+    "url_thumb": "https://www.astrobin.com/38em9c/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 788,
+    "w": 1234
+}

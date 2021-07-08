@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.011",
+    "description": "The Ghost of Cassiopeia is an emission/reflection nebula in the constellation Cassiopeia located at a distance of about 550 light-years away.\r\n\r\nTaken between October-November 2019 from Campbell, CA, USA. Sky: 18.80 mag/arcsec^2\r\n \r\nTotal integration:  4140 mins (69 hrs)\r\n \r\nDetails, Equipment, & Software:\r\nTelescope: Astro-Tech AT10RCT (FL2000mm f/8)\r\nCamera: SBIG STF-8300m (-10°C)\r\nFilter: Astrodon 36mm RGB & Hα (5nm)\r\nGuide: OAG-8300 with QHY5III174\r\nFocuser: Moonlite CSL w/ high res stepper motor\r\nMount: Astro-Physics AP1100GTO\r\nCapture: Sequence Generator Pro\r\nFrames:\r\nAstrodon Hα: 187x900s\r\nAstrodon R: 89x300s\r\nAstrodon G: 88x300s\r\nAstrodon B: 90x300s \r\nStacking/Final Processing: Pixinsight",
+    "h": 4900,
+    "hash": "a2eisa",
+    "id": 491099,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT10RCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801084/"
+    ],
+    "orientation": "89.938",
+    "pixscale": "0.280",
+    "published": "2020-05-24T20:51:12.374250",
+    "ra": "14.956",
+    "radius": "0.317",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/491099/",
+    "revisions": [],
+    "subjects": [
+        "IC 63"
+    ],
+    "title": "IC63 - The Ghost of Cassiopeia",
+    "updated": "2021-03-17T01:54:28.643269",
+    "uploaded": "2020-05-24T21:51:12.887707",
+    "url_duckduckgo": "https://www.astrobin.com/a2eisa/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a2eisa/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a2eisa/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a2eisa/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a2eisa/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a2eisa/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a2eisa/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8022/2020/f2cb4e40-7424-4223-af06-6da14d811351.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8022/2020/f2cb4e40-7424-4223-af06-6da14d811351-1590357407.jpg",
+    "url_thumb": "https://www.astrobin.com/a2eisa/0/rawthumb/thumb/",
+    "user": "Derryk",
+    "views": 139,
+    "w": 6500
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "47.214",
+    "description": "Instruments and exposure data\r\nSky-Watcher EQ6 Pro Belt Drive Mod\r\nGuiding:\r\nW.O ZS80 ED\r\nMeade DSI\r\nImaging:\r\nW.O FLT110 with dedicated TMB field flattener\r\nFeatherTouch 3'' focuser\r\nStarizona MicroTouch autofocuser\r\nSBIG ST10XME CFW9 Filters: Luminance Red Green Blue (Baader Planetarium)\r\nLum:132*5min, exposure 660min\r\nRed:38*5min, exposure 190min\r\nGreen:35*5min, exposure 170min\r\nBlue:36*5min, exposure 180min\r\nTotal exposure 20 hours\r\n\r\nLocation: Via Lactea Observatory, Kristallopigi Paramithia, Greece",
+    "h": 1367,
+    "hash": "zg01z4",
+    "id": 481555,
+    "imaging_cameras": [
+        "SBIG ST-10XME"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 110"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 282,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801017/"
+    ],
+    "orientation": "357.340",
+    "pixscale": "1.821",
+    "published": "2020-04-25T06:48:50.316620",
+    "ra": "202.173",
+    "radius": "0.617",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481555/",
+    "revisions": [
+        "/api/v1/imagerevision/234001/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "Whirlpool Galaxy M51",
+    "updated": "2021-06-15T00:22:43.258348",
+    "uploaded": "2020-04-25T07:48:50.501547",
+    "url_duckduckgo": "https://www.astrobin.com/zg01z4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zg01z4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zg01z4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zg01z4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zg01z4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zg01z4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zg01z4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2804/2020/f7db61a2-955f-4475-b647-78b0ae8eb55f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2804/2020/f7db61a2-955f-4475-b647-78b0ae8eb55f-1587801273.png",
+    "url_thumb": "https://www.astrobin.com/zg01z4/0/rawthumb/thumb/",
+    "user": "arasteo",
+    "views": 616,
+    "w": 2021
+}

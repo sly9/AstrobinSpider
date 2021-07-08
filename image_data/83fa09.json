@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "50.290",
+    "description": "Trying a new Narrowband Processing Method.\r\n\r\nNOTE: This was posted yesterday but I had to fix the gamma since I had failed to calibrate the monitor on my new processing PC.",
+    "h": 2373,
+    "hash": "83fa09",
+    "id": 545114,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ100"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812548/"
+    ],
+    "orientation": "285.726",
+    "pixscale": "1.911",
+    "published": "2020-11-26T17:30:03.825981",
+    "ra": "324.817",
+    "radius": "1.068",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/545114/",
+    "revisions": [],
+    "subjects": [
+        "PK094-00.1",
+        "Sh2-124"
+    ],
+    "title": "SH2-124 Narrowband with RGB Stars",
+    "updated": "2021-03-16T18:01:16.527338",
+    "uploaded": "2020-11-26T17:30:04.036696",
+    "url_duckduckgo": "https://www.astrobin.com/83fa09/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/83fa09/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/83fa09/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/83fa09/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/83fa09/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/83fa09/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/83fa09/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16237/2020/17ab3164-7488-4e2c-a20c-cbc8dbac3a4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16237/2020/17ab3164-7488-4e2c-a20c-cbc8dbac3a4b-1606412220.jpg",
+    "url_thumb": "https://www.astrobin.com/83fa09/0/rawthumb/thumb/",
+    "user": "CCDnOES",
+    "views": 55,
+    "w": 3249
+}

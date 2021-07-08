@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 14,
+    "data_source": "TRAVELLER",
+    "dec": "30.652",
+    "description": "Object description (wikipedia.org):\r\n\r\nThe Triangulum Galaxy is a spiral galaxy approximately 3 million light-years from Earth in the constellation Triangulum. It is catalogued as Messier 33 or NGC 598, and is sometimes informally referred to as the Pinwheel Galaxy, a nickname it shares with Messier 101. The Triangulum Galaxy is the third-largest member of the Local Group of galaxies, which includes the Milky Way, the Andromeda Galaxy and about 44 other smaller galaxies. It is one of the most distant permanent objects that can be viewed with the naked eye.\r\n\r\nThe galaxy is the smallest spiral galaxy in the Local Group and it is believed to be a satellite of the Andromeda Galaxy due to their interactions, velocities and proximity to one another in the night sky. It also has an H-II nucleus.",
+    "h": 3509,
+    "hash": "5fdc78",
+    "id": 541766,
+    "imaging_cameras": [
+        "ZWO ASI 183 MM PRO"
+    ],
+    "imaging_telescopes": [
+        "TS-Optics 6\" f/4 UNC Newtonian Telescope - Carbon"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 214,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805602/"
+    ],
+    "orientation": "267.925",
+    "pixscale": "0.820",
+    "published": "2020-11-16T16:59:10.393917",
+    "ra": "23.473",
+    "radius": "0.720",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/541766/",
+    "revisions": [
+        "/api/v1/imagerevision/260259/",
+        "/api/v1/imagerevision/260262/",
+        "/api/v1/imagerevision/260593/",
+        "/api/v1/imagerevision/271717/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 595",
+        "NGC 598",
+        "NGC 604",
+        "Triangulum Galaxy",
+        "Triangulum Pinwheel"
+    ],
+    "title": "Messier 33 (The Triangulum Galaxy)",
+    "updated": "2021-05-05T18:02:17.257982",
+    "uploaded": "2020-11-16T16:25:28.678305",
+    "url_duckduckgo": "https://www.astrobin.com/5fdc78/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5fdc78/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5fdc78/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5fdc78/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5fdc78/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5fdc78/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5fdc78/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6530/2020/c51de6d3-1674-475e-9abf-7679b6dd40dd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6530/2020/c51de6d3-1674-475e-9abf-7679b6dd40dd-1605544778.jpg",
+    "url_thumb": "https://www.astrobin.com/5fdc78/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 521,
+    "w": 5261
+}

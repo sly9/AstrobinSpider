@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 55,
+    "data_source": "BACKYARD",
+    "dec": "60.039",
+    "description": "I have been wanting to try this deep sky object for two years. It is quite interesting to have two objects for the prices of one. In reality I only have a portion of Sh2-129, the Flying Bat Nebula, which is a huge region of hydrogen gas represented by the red color captured with the Hydrogen gas filter (Ha). Located in Cepheus approximately 2,300 light-years away, Sh2-129 is a faint emission nebula and has been known about since at least the 1950's as a neighbor to IC 1396, the Elephant Trunk Nebula. I must admit, even after looking at widefield images of the Sh2-129, I see no resemblance to a Flying Bat. The Squid on the other hand does resemble a squid with its tentacles wrapped up. The Squid Nebula (Ou4) is a relatively new discovery from 2011 by French astro-imager Nicolas Outters. It consists of doubly ionized oxygen which gives it the green-blue color in contrast to the hydrogen. It may seem odd that this was not found until 2011 but there is a really good reason, it is really dim. I was taking 5-minute subs and while there was some nebulosity in the Ha region, there was nothing in OIII, not even a hint. If you are the type that likes to complete an object in one night, then this would not be a good choice.\r\n\r\nOriginally the Ou4 was thought to be a Planetary Nebula unrelated to Sh2-129, however, recent studies suggest it is within Sh2-129 and is bipolar outflow from a triple star system. The bright blue star in the center is believed to be the source.\r\n\r\nI wanted to get at least 15-hours and was able to get this done quicker than I anticipated due to unexpected clear weather. It worked out really well as we had a succession of clear nights when I was painting my garage floor anyway so conveniently left everything set up and just put a cover over it. This was one of the hardest things I have processed due the conflicting things going on. The Ha data was really strong and came out very well with hardly any processing. Not surprisingly, the OIII was very difficult to bring out and a lot of time was spent on it. StarNet was used to make separate starless Ha and OIII images which were combined to make a starless HOO image. The last part of the process was merging the RGB stars with the HOO starless image. This turned out be more difficult as the method I normally use for combining RGB stars with narrowband images didn't work well with the starless image so I used alternative method in PS described by Trevor Jones.\r\n\r\nDates: 6-6-20, 6-7-20, 6-8-20, 6-9-20, 6-12-20, 6-13-20, 6-14-20, 6-15-20, 6-16-20\r\n\r\nhttps://kurtzeppetello.smugmug.com/\r\nhttp://astroquest1.blogspot.com/\r\nhttp://youtube.com/c/AstroQuest1",
+    "h": 3465,
+    "hash": "dehe24",
+    "id": 499506,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "http://astroquest1.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "131.370",
+    "pixscale": "1.203",
+    "published": "2020-06-22T02:41:55.910988",
+    "ra": "318.085",
+    "radius": "0.961",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/499506/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-129"
+    ],
+    "title": "A Flying Bat (Sh2-129) with a Squid (Ou4) Inside?",
+    "updated": "2021-06-21T01:51:40.890706",
+    "uploaded": "2020-06-22T03:41:56.692140",
+    "url_duckduckgo": "https://www.astrobin.com/dehe24/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dehe24/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dehe24/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dehe24/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dehe24/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dehe24/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dehe24/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/183f4694-8a9f-42dc-b3df-2422e60f4780.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/183f4694-8a9f-42dc-b3df-2422e60f4780-1592797551.jpg",
+    "url_thumb": "https://www.astrobin.com/dehe24/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 680,
+    "w": 4595
+}

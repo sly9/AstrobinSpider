@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "55.910",
+    "description": "A HOO version, with better RGB stars, tell me what you think ?\r\n\r\n-------------------------\r\nI had this project in mind for a long time (like the the Veil nebula) this lion Nebula is a large one , it really needs a wide field setup.\r\nWith the new 24x26 CMOS, I thought it was a good time to have a try !\r\n\r\nNewton 300mm F4 with the ZWO ASI6200.\r\n\r\n50 Halpha subs @300s gain 100 and -15°C\r\n50 OIII subs @300s gain 100 and -15°C\r\n\r\n\r\n20 Blue subs @60s gain 100 and -15°C\r\n20 Green subs @60s gain 100 and -15°C\r\n20 Red subs @60s gain 100 and -15°C\r\n\r\nTotal exposure more than 9 hours",
+    "h": 6188,
+    "hash": "z7pq9o",
+    "id": 525359,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "0.437",
+    "pixscale": "0.639",
+    "published": "2020-09-21T07:25:00.515268",
+    "ra": "334.577",
+    "radius": "0.999",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/525359/",
+    "revisions": [],
+    "subjects": [
+        "B369",
+        "RW Cep",
+        "Sh2-132"
+    ],
+    "title": "The Lion SH2-132 in Cepheus- HOO version",
+    "updated": "2021-06-18T21:03:41.175055",
+    "uploaded": "2020-09-21T05:54:10.047741",
+    "url_duckduckgo": "https://www.astrobin.com/z7pq9o/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z7pq9o/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z7pq9o/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z7pq9o/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z7pq9o/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z7pq9o/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z7pq9o/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/faa8eaa6-3768-4966-8b00-10d6b8dec7e4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/faa8eaa6-3768-4966-8b00-10d6b8dec7e4-1600667830.jpg",
+    "url_thumb": "https://www.astrobin.com/z7pq9o/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 147,
+    "w": 9406
+}

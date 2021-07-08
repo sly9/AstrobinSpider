@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-48.656",
+    "description": "So, here it is, my first ever fully processed deep sky astrophotography image, NGC6188 (Fighting Dragons Of Ara) in SHO (Hubble Palette).\r\n\r\nCaptured  from the backyard over the course of several nights (02/07/2020, 03/07/2020, 05/07/2020, 07/07/2020, 10/07/2020. 11/07/2020 & 15/07/2020) this image consists of:\r\n\r\nSII - 30 x 600s Unity Gain 111 Offset 0 Bin 1x1 -15C\r\nHa - 59 X 600s Unity Gain 111 Offset 0 Bin 1x1 -15C\r\nOIII - 14 X 600s Unity Gain 111 Offset 0 Bin 1x1 -15C\r\n\r\nCALIBRATION FRAMES\r\n\r\n𝗦𝗜𝗜\r\n\r\nDarks - 31 X 600s\r\nFlats - 100 X 1.25s\r\nDark Flats - 100 X 1.25s\r\nBias - 100 X 0.000032s\r\n\r\n𝗛𝗮\r\n\r\nDarks - 24 X 600s\r\nFlats - 100 X 0.81625s\r\nDark Flats - 100 X 0.81625s\r\nBias - 100 X 0.000032s\r\n\r\n𝗢𝗜𝗜𝗜\r\n\r\nDarks - 30 X 600s\r\nFlats - 100 X 0.8775s\r\nDark Flats - 100 X 0.8775s\r\nBias - 100 X 0.000032s\r\n\r\nTOTAL INTEGRATION - 17.2 hours",
+    "h": 7036,
+    "hash": "pgh7es",
+    "id": 507725,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics Zenithstar 81"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813792/"
+    ],
+    "orientation": "295.688",
+    "pixscale": "0.518",
+    "published": "2020-07-21T04:09:56.186267",
+    "ra": "250.006",
+    "radius": "0.913",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/507725/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193",
+        "NGC6188",
+        "NGC6193",
+        "PK336-01.1",
+        "Rim Nebula"
+    ],
+    "title": "NGC6188 - The Fighting Dragons Of Ara",
+    "updated": "2021-05-28T13:25:59.869851",
+    "uploaded": "2020-07-21T05:09:56.539006",
+    "url_duckduckgo": "https://www.astrobin.com/pgh7es/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pgh7es/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pgh7es/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pgh7es/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pgh7es/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pgh7es/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pgh7es/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/72357/2021/668a4625-eca5-4fa1-a046-bbebe6873efe.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/72357/2021/668a4625-eca5-4fa1-a046-bbebe6873efe-1613647351.JPG",
+    "url_thumb": "https://www.astrobin.com/pgh7es/0/rawthumb/thumb/",
+    "user": "grahamconaty",
+    "views": 309,
+    "w": 10554
+}

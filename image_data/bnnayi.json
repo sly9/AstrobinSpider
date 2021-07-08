@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "44.224",
+    "description": "Short integration - test image after collimating with my new Catseye Infinity XLKP Autocollimator set.\r\n\r\nOriginal \r\nRed = Ha\r\nGreen = Ha*.5+OIII*.5\r\nBlue = OIII\r\nLuminance = Ha\r\n\r\nRevisions (tone mapped)\r\nRed = Ha\r\nGreen = Ha*OIII\r\nBlue = OIII\r\nLuminance = Ha",
+    "h": 3500,
+    "hash": "bnnayi",
+    "id": 515176,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 105,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "269.015",
+    "pixscale": "0.977",
+    "published": "2020-08-16T11:39:02.929088",
+    "ra": "312.977",
+    "radius": "0.788",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/515176/",
+    "revisions": [
+        "/api/v1/imagerevision/245634/",
+        "/api/v1/imagerevision/245635/",
+        "/api/v1/imagerevision/245639/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC 5070 - Pelican Nebula",
+    "updated": "2021-03-17T20:34:59.716660",
+    "uploaded": "2020-08-16T09:59:22.890843",
+    "url_duckduckgo": "https://www.astrobin.com/bnnayi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bnnayi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bnnayi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bnnayi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bnnayi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bnnayi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bnnayi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/997a239b-f24c-45dc-82f5-88b98231b8f2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/997a239b-f24c-45dc-82f5-88b98231b8f2-1597572328.jpg",
+    "url_thumb": "https://www.astrobin.com/bnnayi/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 290,
+    "w": 4636
+}

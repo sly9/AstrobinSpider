@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "4.997",
+    "description": "Following last image attempt to combine two sets of data acquired in different time and using different setups, this image is a combination of two different datasets with the same scope (Takahashi FSQ106ED4) but different cameras (QSI683 and ZWO ASI1600):\r\nSet1: Ha used as Luminance, 07Nov2020 about 4.6 hours, QSI683 (see image Revision B)\r\nand\r\nSet2: HaO3O3 used as RGB, 04 and 11Feb2019, ZWO ASI1600 (see image Revision C)\r\n\r\nThe end result (Revision A)  is a much better image than the older image, with smaller stars and better structural details, since the Ha data taken with the QSI683 during a night with very good seeing was richer and smoother.\r\n\r\nMouse over Revisions B or C to compare :-)",
+    "h": 3420,
+    "hash": "k29d9v",
+    "id": 546826,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro Cooled (Mono)",
+        "QSI683wsg8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 155,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "90.796",
+    "pixscale": "1.473",
+    "published": "2020-12-02T15:48:53.836846",
+    "ra": "97.969",
+    "radius": "1.138",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/546826/",
+    "revisions": [
+        "/api/v1/imagerevision/262833/",
+        "/api/v1/imagerevision/262835/"
+    ],
+    "subjects": [
+        "12 Mon",
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "NGC2237",
+        "NGC2238",
+        "NGC2239",
+        "NGC2244",
+        "NGC2246",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "Rosette nebula",
+        "Sh2-275",
+        "The star 12Mon"
+    ],
+    "title": "The Rosette Nebula in H(HOO)",
+    "updated": "2021-06-07T19:29:30.120420",
+    "uploaded": "2020-12-02T15:23:55.294297",
+    "url_duckduckgo": "https://www.astrobin.com/k29d9v/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k29d9v/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k29d9v/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k29d9v/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k29d9v/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k29d9v/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k29d9v/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2020/6046bf81-84ac-4d41-88cc-3de65bf991bd.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2020/6046bf81-84ac-4d41-88cc-3de65bf991bd-1606923533.png",
+    "url_thumb": "https://www.astrobin.com/k29d9v/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 423,
+    "w": 4392
+}

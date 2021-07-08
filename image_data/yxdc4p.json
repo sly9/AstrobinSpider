@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "33.911",
+    "description": "👨‍💻Processing Pixinsight sequence:\r\nBatch PreProcessing; Luminance Mure Denoise; RGB; DBE; chrominance; PCC;  MaskedStretch; LRGB; Deconvolution; Local histogram; Star mask; Curves; Camera Raw in photoshop cc, cosmetics.",
+    "h": 2040,
+    "hash": "yxdc4p",
+    "id": 488732,
+    "imaging_cameras": [
+        "SBIG STX16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809838/"
+    ],
+    "orientation": "281.097",
+    "pixscale": "0.551",
+    "published": "2020-05-17T11:34:32.033710",
+    "ra": "339.037",
+    "radius": "0.250",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/488732/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "NGC7317",
+        "NGC7318",
+        "NGC7319",
+        "NGC7320",
+        "Stephan's Quintet"
+    ],
+    "title": "Stephan's quintet",
+    "updated": "2021-05-17T13:38:42.748535",
+    "uploaded": "2020-05-17T12:34:32.170146",
+    "url_duckduckgo": "https://www.astrobin.com/yxdc4p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yxdc4p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yxdc4p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yxdc4p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yxdc4p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yxdc4p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yxdc4p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29427/2020/249bdbc4-4d44-4521-998d-2d3049793249.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29427/2020/249bdbc4-4d44-4521-998d-2d3049793249-1589720145.jpg",
+    "url_thumb": "https://www.astrobin.com/yxdc4p/0/rawthumb/thumb/",
+    "user": "Ben_Allen",
+    "views": 208,
+    "w": 2550
+}

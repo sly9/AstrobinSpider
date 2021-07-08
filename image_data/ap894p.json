@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Well. I was planning on an hour animation but clouds rolled in. I was able to get 40 minutes but I think this will be the only useable frame due to terrible seeing.  \r\n\r\nHere is the master frame.  If you publish it please give me credit for the data :)\r\n\r\nMy processing\r\nImPPG for deconvolution and sharpening\r\nPS: Crop, high pass filter.  \r\nPI: ABE, subtract, normalize (helped with the uneven illumination due to the location near the solar edge)\r\nPS: false color\r\n\r\nhttps://www.dropbox.com/t/o5RcKmFYaqmv1vK3",
+    "h": 1779,
+    "hash": "ap894p",
+    "id": 538324,
+    "imaging_cameras": [
+        "Basler acA1920-155um"
+    ],
+    "imaging_telescopes": [
+        "Lunt Solar Systems Lunt 100 DS"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-07T22:38:30.180831",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/538324/",
+    "revisions": [
+        "/api/v1/imagerevision/258520/"
+    ],
+    "subjects": [],
+    "title": "AR2781 in Ha",
+    "updated": "2021-03-25T15:16:13.542642",
+    "uploaded": "2020-11-07T21:57:54.615800",
+    "url_duckduckgo": "https://www.astrobin.com/ap894p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ap894p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ap894p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ap894p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ap894p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ap894p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ap894p/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/ap894p/0/rawthumb/thumb/",
+    "user": "torsinadoc",
+    "views": 117,
+    "w": 1017
+}

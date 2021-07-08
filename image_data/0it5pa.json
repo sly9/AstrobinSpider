@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Full Disk: CT 102 F11 + 183 sensor\r\n\r\nAR 2765: CT 102F11+ 2.5PM+ 174 sensor",
+    "h": 10332,
+    "hash": "0it5pa",
+    "id": 495334,
+    "imaging_cameras": [
+        "Basler acA5472-17um",
+        "Basler acA1920-155um"
+    ],
+    "imaging_telescopes": [
+        "Canadian Telescopes (Long-Perng) Canadian Telescopes 102 F/11"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801008/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-07T11:34:26.034675",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495334/",
+    "revisions": [
+        "/api/v1/imagerevision/236672/",
+        "/api/v1/imagerevision/236673/",
+        "/api/v1/imagerevision/236674/",
+        "/api/v1/imagerevision/236675/"
+    ],
+    "subjects": [],
+    "title": "Sun: 6_6_20 Calcium AR 2764,2765",
+    "updated": "2021-03-17T01:31:04.021355",
+    "uploaded": "2020-06-07T12:20:16.986171",
+    "url_duckduckgo": "https://www.astrobin.com/0it5pa/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0it5pa/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0it5pa/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0it5pa/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0it5pa/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0it5pa/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0it5pa/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/0it5pa/0/rawthumb/thumb/",
+    "user": "torsinadoc",
+    "views": 137,
+    "w": 5500
+}

@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.379",
+    "description": "Object : M101\r\nDate :  Jan.-Feb.2018 (RC10),  Mar.-Apr.2019 (e-180)\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope  : GSO RC10 , Tak e-180\r\nMount : Skywatcher EQ8\r\nCamera : SX-H694(-10ºC) , ZWO ASI094MC(-10ºC )\r\nFilters : Astrodon LRGB (RC10)\r\nExposure : \r\nGSO RC10   \r\nL:300sx95,R:300sx36,G:300sx24,B:300sx30,Ha:1200sx30 ( ~25.42hr)\r\nTak e-180 \r\n180sx 120 (6hr)\r\nGuiding : OAG/ asi174 , Borg 50/ asi174\r\nImage Processing : PI ,PS-CC \r\n\r\nFB 3D\r\n\r\nhttps://www.facebook.com/noodle.v/posts/10158038626582599",
+    "h": 2096,
+    "hash": "8wstiy",
+    "id": 532185,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "https://astro-noodle.blogspot.com/2020/10/m101.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "270.661",
+    "pixscale": "0.669",
+    "published": "2020-10-14T01:23:53.073426",
+    "ra": "210.819",
+    "radius": "0.312",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/532185/",
+    "revisions": [
+        "/api/v1/imagerevision/254953/",
+        "/api/v1/imagerevision/254955/"
+    ],
+    "subjects": [
+        "M 101",
+        "M101",
+        "NGC 5451",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471",
+        "NGC5447",
+        "NGC5449",
+        "NGC5450",
+        "NGC5451",
+        "NGC5453",
+        "NGC5455",
+        "NGC5461",
+        "NGC5462",
+        "NGC5471",
+        "Pinwheel galaxy"
+    ],
+    "title": "M101",
+    "updated": "2021-03-16T19:17:28.490529",
+    "uploaded": "2020-10-14T02:23:53.375693",
+    "url_duckduckgo": "https://www.astrobin.com/8wstiy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8wstiy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8wstiy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8wstiy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8wstiy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8wstiy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8wstiy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/2b26c22e-d0bb-40d4-8051-e567ec0a90f2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/2b26c22e-d0bb-40d4-8051-e567ec0a90f2-1602642858.png",
+    "url_thumb": "https://www.astrobin.com/8wstiy/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 194,
+    "w": 2624
+}

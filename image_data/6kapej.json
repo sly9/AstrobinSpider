@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "36.106",
+    "description": "This is my 6 panel mosaic of the California Nebula in narrowband HOO. In total this image includes approximately 20 hours of imaging time with my Esprit 80ED. I was surprised at how little data I actually got in the OIII channel which I think is in part due to the fact that most of this imaging time took place with a greater than 50% illuminated Moon washing out the very subtle OIII signal in this nebula.  This was my first mosaic project utilizing the mosaic wizard in Sequence Generator Pro, it took some dialing in on the plate finder tool but once I got that sorted out I was blown away by how much easier this made the process of capturing a mosaic. \r\n\r\nThe California Nebula is an emission nebula approximately 1,500 light years away from Earth. This is one of those nebulas where you can clearly see how it got it's name.  The California nebula is 100 light years long and is being ionized by the bright blue star, Xi Persei seen to the left of the nebula.",
+    "h": 10000,
+    "hash": "6kapej",
+    "id": 549847,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 80 ED APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805553/"
+    ],
+    "orientation": "216.780",
+    "pixscale": "1.447",
+    "published": "2020-12-15T03:27:48.536202",
+    "ra": "60.536",
+    "radius": "2.696",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549847/",
+    "revisions": [],
+    "subjects": [
+        "California Nebula",
+        "NGC 1499",
+        "The star ξPer"
+    ],
+    "title": "California Nebula",
+    "updated": "2021-04-23T05:08:07.072183",
+    "uploaded": "2020-12-15T03:20:48.548756",
+    "url_duckduckgo": "https://www.astrobin.com/6kapej/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6kapej/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6kapej/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6kapej/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6kapej/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6kapej/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6kapej/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17876/2020/09d5ab81-d248-4cea-b6ac-6001835c58d8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17876/2020/09d5ab81-d248-4cea-b6ac-6001835c58d8-1608002876.jpg",
+    "url_thumb": "https://www.astrobin.com/6kapej/0/rawthumb/thumb/",
+    "user": "Schlaudt10",
+    "views": 178,
+    "w": 8949
+}

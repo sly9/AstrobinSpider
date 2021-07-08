@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Topaz sharpen, adjust and denotes appled to Startools and DSS preprocess.   Overall good enhancement of the high SNR areas.   Adjust is the most consistent of the bunch as denoise and sharpen need special care around the stars.",
+    "h": 1767,
+    "hash": "2r0jgw",
+    "id": 483101,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "TEC 140 APO ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806889/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-26T23:37:11.791317",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483101/",
+    "revisions": [],
+    "subjects": [],
+    "title": "M101  rerun with Topaz tools",
+    "updated": "2021-06-30T10:06:42.830395",
+    "uploaded": "2020-04-28T19:01:58.059591",
+    "url_duckduckgo": "https://www.astrobin.com/2r0jgw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2r0jgw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2r0jgw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2r0jgw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2r0jgw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2r0jgw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2r0jgw/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/2r0jgw/0/rawthumb/thumb/",
+    "user": "TurbulentMedium",
+    "views": 313,
+    "w": 1932
+}

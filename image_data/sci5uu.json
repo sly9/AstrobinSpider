@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "19.005",
+    "description": "The central galaxy in this image is NGC 772. It is classified as a spiral galaxy SA(s)b. There are numerous other galaxies visually close to NGC 772 (NGC 770, LEDA 1577957, 212884, 1573401, and PGC 007509).  Two of these galaxies are in the vicinity of NGC 772 and are likely interacting (NGC 770, LEDA 1577957). There are many other background galaxies - many of which don't have distance estimates. These galaxies range from 208 to 889 million light years while NGC 772 and its satellite galaxies are at about 100 million light years distant. These galaxies  are identified in the <a href=\"http://www.jthommes.com/Astro/images/NGC772_Edge7_eXcal_PII5-IP_CrpRtt_annotated.jpg\">annotated image</a>.  Horizontal FOV is approximately 38 arc minutes (0.81 arcsec/pix image scale on the full size image).",
+    "h": 1950,
+    "hash": "sci5uu",
+    "id": 522710,
+    "imaging_cameras": [
+        "SBIG ST8300M"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 925HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "http://www.jthommes.com/Astro/NGC772.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.709",
+    "pixscale": "0.870",
+    "published": "2020-09-12T23:42:03.303969",
+    "ra": "29.782",
+    "radius": "0.393",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/522710/",
+    "revisions": [],
+    "subjects": [
+        "NGC 770",
+        "NGC 772"
+    ],
+    "title": "NGC 772 in Aries",
+    "updated": "2021-05-05T17:57:44.699973",
+    "uploaded": "2020-09-13T00:42:03.390913",
+    "url_duckduckgo": "https://www.astrobin.com/sci5uu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sci5uu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sci5uu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sci5uu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sci5uu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sci5uu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sci5uu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/643d2929-e53a-4421-80e6-0c8dbc7f2237.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/643d2929-e53a-4421-80e6-0c8dbc7f2237-1599959102.jpg",
+    "url_thumb": "https://www.astrobin.com/sci5uu/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 119,
+    "w": 2600
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "I took two images of Neowise comet a week apart - the difference between the shape of ion tail is quite visible. The camera rotation angle was staying the same in both shots, and the tail orientation has shifted significantly, as expected. The first session was short and under very strong winds, so resulting data quality has suffered (as compared to the second session a week later) and it took much longer to process with some special handling applied in attempt to restore the star field.",
+    "h": 4742,
+    "hash": "rbe4cu",
+    "id": 512314,
+    "imaging_cameras": [
+        "QHYCCD QHY367c"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 130ED"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802274/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-05T17:33:51.356059",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/512314/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Comet C/2020 F3 (Neowise)",
+    "updated": "2021-03-16T23:06:32.874346",
+    "uploaded": "2020-08-05T18:27:16.114652",
+    "url_duckduckgo": "https://www.astrobin.com/rbe4cu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rbe4cu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rbe4cu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rbe4cu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rbe4cu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rbe4cu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rbe4cu/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/rbe4cu/0/rawthumb/thumb/",
+    "user": "spinlock",
+    "views": 162,
+    "w": 7335
+}

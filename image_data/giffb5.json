@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "25.478",
+    "description": "Not sure if these strange creatures have any names or designations - I found them by surfing on Aladin Sky Atlas around M45. The blue binary star in the centre is Chi Tau. This is my first attempt of a two panel mosaic with the RASA8, so quite a wide field (two Andromeda galaxies would fit into the field of view). So these are very large but also very faint structures and I have here gone close to the limits of what this f/2 telescope combined with a very sensitive, low noise, 16 bit CMOS camera can achieve at this integration time.\r\nGain was set to 100 and this is a mix of 2 and 4 min exposures.\r\n\r\nEDIT: Graham Darke on SGL has now informed me that the top half of the image shows Barnard 213, 216, 217 and 218. The lower part of the image is dominated by Barnard 215 and LDN1524. Thanks Graham!",
+    "h": 4507,
+    "hash": "giffb5",
+    "id": 533631,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 131,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "1.439",
+    "pixscale": "3.430",
+    "published": "2020-10-19T08:37:05.085767",
+    "ra": "65.775",
+    "radius": "2.800",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533631/",
+    "revisions": [
+        "/api/v1/imagerevision/270523/"
+    ],
+    "subjects": [
+        "52 phi Tau",
+        "59 chi Tau",
+        "62 Tau",
+        "B210",
+        "B212",
+        "B213",
+        "B215",
+        "B216",
+        "B217",
+        "B218",
+        "NGC1539",
+        "The star φTau",
+        "The star χTau"
+    ],
+    "title": "Nebulae in Taurus - two RASA panels",
+    "updated": "2021-07-05T15:05:54.988379",
+    "uploaded": "2020-10-19T09:20:41.513657",
+    "url_duckduckgo": "https://www.astrobin.com/giffb5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/giffb5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/giffb5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/giffb5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/giffb5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/giffb5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/giffb5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2020/085d4779-c7c2-49c4-a92a-19024125afae.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2020/085d4779-c7c2-49c4-a92a-19024125afae-1603100169.jpg",
+    "url_thumb": "https://www.astrobin.com/giffb5/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 522,
+    "w": 3770
+}

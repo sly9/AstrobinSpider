@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "42.582",
+    "description": null,
+    "h": 3378,
+    "hash": "eb40rx",
+    "id": 600257,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106-EDXII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 61,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2812173/"
+    ],
+    "orientation": "298.281",
+    "pixscale": "1.476",
+    "published": "2021-06-27T00:30:40.930802",
+    "ra": "312.241",
+    "radius": "1.165",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600257/",
+    "revisions": [
+        "/api/v1/imagerevision/293014/",
+        "/api/v1/imagerevision/293020/",
+        "/api/v1/imagerevision/293023/",
+        "/api/v1/imagerevision/293024/",
+        "/api/v1/imagerevision/293029/"
+    ],
+    "subjects": [
+        "IC 5068"
+    ],
+    "title": "IC5068 SHO",
+    "updated": "2021-07-04T06:34:06.530172",
+    "uploaded": "2021-06-26T23:46:56.982920",
+    "url_duckduckgo": "https://www.astrobin.com/eb40rx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eb40rx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eb40rx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eb40rx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eb40rx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eb40rx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eb40rx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9347/2021/e0769a52-0a50-43c9-8071-353fd52f8e1d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9347/2021/e0769a52-0a50-43c9-8071-353fd52f8e1d-1624751508.png",
+    "url_thumb": "https://www.astrobin.com/eb40rx/0/rawthumb/thumb/",
+    "user": "mesh83",
+    "views": 96,
+    "w": 4572
+}

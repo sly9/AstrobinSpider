@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "61.366",
+    "description": "IC1805 is a large emission nebulae in Cassiopeia that I captured here with narrowband filters, a monochrome camera, and a telescope with a focal length of 464mm. It was all shot from my light polluted backyard in Somerville, MA. Mapped color in the Hubble Palette (SHO->RGB).\r\n\r\nProcessing in PixInsight and Photoshop.\r\nDrizzle 2x,  Deconvolution, MedianMultiscaleTransform on each linear master, Starnet++, Ha stars.",
+    "h": 3388,
+    "hash": "17rezi",
+    "id": 544657,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ86"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 223,
+    "link": "https://www.nebulaphotos.com/ngc-ic/ic1805-2020/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812194/"
+    ],
+    "orientation": "16.503",
+    "pixscale": "1.149",
+    "published": "2020-11-25T04:42:35.137079",
+    "ra": "38.855",
+    "radius": "0.692",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/544657/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Heart of the Heart Nebula - Melotte 15 - SHO",
+    "updated": "2021-06-29T00:03:22.423219",
+    "uploaded": "2020-11-25T04:31:02.998556",
+    "url_duckduckgo": "https://www.astrobin.com/17rezi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/17rezi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/17rezi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/17rezi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/17rezi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/17rezi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/17rezi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17746/2020/0ba7a7f3-33d9-4ec7-be02-ab470a2e307a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17746/2020/0ba7a7f3-33d9-4ec7-be02-ab470a2e307a-1606279437.jpg",
+    "url_thumb": "https://www.astrobin.com/17rezi/0/rawthumb/thumb/",
+    "user": "2ghouls",
+    "views": 652,
+    "w": 2710
+}

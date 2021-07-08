@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "37.350",
+    "description": "Sh2-106 is an odd nebula.  It is very small and features the hourglass shape typical of polar jets.  But it is a newborn star merely 100,000 years old rather than a large, old red giant as typical of a planetary nebula.  \r\n\r\nThe star is ionizing the gasses that surround it, presumably the gasses it formed from.  And nearby dust is reflecting its light.  \r\n\r\nThe hourglass structure measures ~240 pixels in my image.  At a .73\" image scale that is a little under 3 arc minutes on the long side.\r\n\r\nHere I have combined Ha into the Red channel and the Super-luminance for an HaLRGB image.   Luminance and RGB were combined to a Super-Luminance and then deconvolved in PI.  The Ha Channel was also deconvolved in PI and the two were meaned.  HDRMT was then applied to reduce the very bright hourglass portion.  Ha was added to the Red channel.  Noise reduction via Topaz Denoise AI.  Stars were reduced with a minimum filter in PS.",
+    "h": 1556,
+    "hash": "8xner2",
+    "id": 531370,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "261.589",
+    "pixscale": "0.729",
+    "published": "2020-10-10T23:10:58.135786",
+    "ra": "306.826",
+    "radius": "0.272",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/531370/",
+    "revisions": [
+        "/api/v1/imagerevision/254408/",
+        "/api/v1/imagerevision/254521/"
+    ],
+    "subjects": [
+        "Sh2-106"
+    ],
+    "title": "SH2-106 | A Planetary-like Emission Nebula in HaLRGB",
+    "updated": "2021-03-31T20:21:45.491684",
+    "uploaded": "2020-10-10T23:42:07.484446",
+    "url_duckduckgo": "https://www.astrobin.com/8xner2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8xner2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8xner2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8xner2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8xner2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8xner2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8xner2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/93ceb948-3b49-450c-a02f-d96543b3e554.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/93ceb948-3b49-450c-a02f-d96543b3e554-1602374971.jpg",
+    "url_thumb": "https://www.astrobin.com/8xner2/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 380,
+    "w": 2186
+}

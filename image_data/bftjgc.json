@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": "70.040",
+    "description": "The Volcano Nebula is Nr 3 in the Mandel-Wilson Catalogue of Integrated Flux Nebulae (IFN). IFN is a very faint type of nebulosity that is thought to be diffusely and collectively energized by all the stars in the galaxy rather than a single star like in reflection nebulae. It is therefore very faint and is best imaged with a rather large parture short focal lenght telescope (i.e. with a low f-value), like the RASA 8, and a relaively long total integration time. Then a dark site is also needed. My SQM showed 21.4 on this night and the lack of major mishaps and clouds allowed me to collect 8.3 hours. To the right part of the image (containing M81 and M82) I added an additional 4.7 hours that I collected with the same set-up in February.\r\n\r\nI actually did not need to stretch the data so far that I run into any major noise problems and I have only done a gentle HiPass filtering to improve the contrast a bit. So there is more to bring out but I fear it may make it look messy and I kind of like it the way it is (at least right now).\r\n\r\nA little detail I like is that blue bubble that appears to surround M82. I first feared it may be an artifact but searching the web I found it on other deep images of M82.\r\n\r\nA friend on SGL just did this animation of from two images I made. One stretched to mimic what this area looks like in a small aperture scope with relatively short integration time, and then the RASA 8 image posted here. Rather cool! See:\r\nhttps://stargazerslounge.com/topic/373611-volcano-nebula-ifn-animation/",
+    "h": 3260,
+    "hash": "bftjgc",
+    "id": 572682,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "178.108",
+    "pixscale": "2.642",
+    "published": "2021-03-09T15:35:43.106845",
+    "ra": "144.971",
+    "radius": "2.126",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/572682/",
+    "revisions": [
+        "/api/v1/imagerevision/277255/",
+        "/api/v1/imagerevision/278217/",
+        "/api/v1/imagerevision/279642/"
+    ],
+    "subjects": [
+        "24 d UMa",
+        "Bode's Galaxy",
+        "Bode's galaxy",
+        "Cigar Galaxy",
+        "Cigar galaxy",
+        "M 81",
+        "M 82",
+        "M81",
+        "M82",
+        "NGC 3031",
+        "NGC 3034",
+        "The star 24UMa"
+    ],
+    "title": "Mandel-Wilson 3 - The Volcano Nebula",
+    "updated": "2021-07-03T15:23:08.022633",
+    "uploaded": "2021-03-09T14:59:58.018407",
+    "url_duckduckgo": "https://www.astrobin.com/bftjgc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bftjgc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bftjgc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bftjgc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bftjgc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bftjgc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bftjgc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2021/d65fd2dc-3906-4e86-a233-f35172759525.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2021/d65fd2dc-3906-4e86-a233-f35172759525-1615303296.jpg",
+    "url_thumb": "https://www.astrobin.com/bftjgc/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 334,
+    "w": 4791
+}

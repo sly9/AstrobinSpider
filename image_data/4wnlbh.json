@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "30.661",
+    "description": "Optic: Vixen VC200L at F6.4 (LRGB)\r\nOptic: Takahashi Epsilon 180ED (Ha)\r\nMount: Software Bisque Paramount MX\r\nCamera: SBIG STF8300M\r\nFilters: Baader Ha(7nm)LRGB\r\nGuider: SBIG Sti on OAG\r\nExposure: Ha: 11x600s L: 51x600s RGB: 12x600s each\r\nBinning: All 1x1\r\nCalibration: Flats, Dark, Dark Flat, Bias\r\nCCD Sensor Temp: -15c\r\nDithering: Yes\r\nSoftware: TheSkyX, PixInsight, Photoshop",
+    "h": 2305,
+    "hash": "4wnlbh",
+    "id": 532770,
+    "imaging_cameras": [
+        "SBIG STF 8300M"
+    ],
+    "imaging_telescopes": [
+        "Vixen VC200L",
+        "Takahashi EPSILON 180ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "http://amir.torgheh.ir/picture.php?/1484/category/14",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "200.422",
+    "pixscale": "0.950",
+    "published": "2020-10-16T11:39:16.631038",
+    "ra": "23.468",
+    "radius": "0.499",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532770/",
+    "revisions": [
+        "/api/v1/imagerevision/263793/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 595",
+        "NGC 598",
+        "NGC 604",
+        "Triangulum Galaxy",
+        "Triangulum Pinwheel"
+    ],
+    "title": "M33",
+    "updated": "2021-03-16T19:13:46.889485",
+    "uploaded": "2020-10-16T12:36:07.265342",
+    "url_duckduckgo": "https://www.astrobin.com/4wnlbh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4wnlbh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4wnlbh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4wnlbh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4wnlbh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4wnlbh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4wnlbh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29907/2020/e3bdc438-d94c-4383-8c69-496dda14cc7d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29907/2020/e3bdc438-d94c-4383-8c69-496dda14cc7d-1602852003.jpg",
+    "url_thumb": "https://www.astrobin.com/4wnlbh/0/rawthumb/thumb/",
+    "user": "Amir.ho.abolfath",
+    "views": 258,
+    "w": 3000
+}

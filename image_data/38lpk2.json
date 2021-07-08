@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "68.963",
+    "description": "This is a second attempt at processing data taken last April, mostly experimenting with how to process/manage such high dynamic range. Unfortunately could not quite manage to tease out the colour of M82 beyond the centre of the galaxy and star shapes are not brilliant but never ceases to amaze me you can even capture this dust from light polluted skies.",
+    "h": 3213,
+    "hash": "38lpk2",
+    "id": 572627,
+    "imaging_cameras": [
+        "asi zwo 1600 pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 174,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810919/"
+    ],
+    "orientation": "117.250",
+    "pixscale": "1.969",
+    "published": "2021-03-09T11:50:35.704485",
+    "ra": "149.023",
+    "radius": "1.243",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/572627/",
+    "revisions": [
+        "/api/v1/imagerevision/277135/",
+        "/api/v1/imagerevision/277155/",
+        "/api/v1/imagerevision/277170/",
+        "/api/v1/imagerevision/277241/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "Bode's galaxy",
+        "Cigar Galaxy",
+        "Cigar galaxy",
+        "M 81",
+        "M 82",
+        "M81",
+        "M82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077",
+        "NGC3077"
+    ],
+    "title": "M81 / M82 with surrounding IFN",
+    "updated": "2021-06-01T14:48:53.188232",
+    "uploaded": "2021-03-09T11:46:12.068000",
+    "url_duckduckgo": "https://www.astrobin.com/38lpk2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/38lpk2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/38lpk2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/38lpk2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/38lpk2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/38lpk2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/38lpk2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20303/2021/bb63c30a-62fe-4104-9ffe-f7faf8d6b39e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20303/2021/bb63c30a-62fe-4104-9ffe-f7faf8d6b39e-1615290718.jpg",
+    "url_thumb": "https://www.astrobin.com/38lpk2/0/rawthumb/thumb/",
+    "user": "AbsolutelyN",
+    "views": 420,
+    "w": 3215
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "A 2x2 mosaic of the beautiful Pleiades cluster in Taurus.  Added luminance from the Moravian G4 to the luminance extracted from the RGB frames of the ASI2600MC and processed from there as regular LRGB.\r\nSee the annotated image for all the other objects hanging around, including some background galaxies. \r\nI could have done with more acquisition time to show more of the faint IFN dust but the weather has been atrocious and I was lucky to capture as much during the New Moon.\r\nHere's the smaller FoV version from 5 years ago:  \r\n\r\n<a href=\"https://www.astrobin.com/235359/B/?nc=user\" target=\"_blank\"> M45 LRGB single panel</a>\r\n\r\nTaken with the same telescope I took L this time but no mosaic.",
+    "h": 7550,
+    "hash": "jg1c86",
+    "id": 534919,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro ASI2600MC",
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 92mm f/6.65 Stowaway",
+        "Astro-Physics 152mm f/7.5 Starfire EDF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799912/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-24T16:10:55.957381",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534919/",
+    "revisions": [
+        "/api/v1/imagerevision/256656/",
+        "/api/v1/imagerevision/256657/",
+        "/api/v1/imagerevision/256658/",
+        "/api/v1/imagerevision/256659/"
+    ],
+    "subjects": [],
+    "title": "M45 Mosaic - LRGB",
+    "updated": "2021-03-22T15:08:30.808247",
+    "uploaded": "2020-10-24T16:20:27.554487",
+    "url_duckduckgo": "https://www.astrobin.com/jg1c86/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jg1c86/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jg1c86/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jg1c86/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jg1c86/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jg1c86/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jg1c86/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/jg1c86/0/rawthumb/thumb/",
+    "user": "rbotero",
+    "views": 316,
+    "w": 7550
+}

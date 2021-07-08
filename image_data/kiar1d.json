@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 34,
+    "comments": 38,
+    "data_source": "BACKYARD",
+    "dec": "46.767",
+    "description": "This is my first test of using the QHY600M/FSQ106 setup in my backyard in the city.   I also had some data from the observatory on 115 and 112 and blended some of that in the Luminance to sharpen up the most important parts.  Color is all backyard and the observatory Luminance added was not added at 100%.\r\n\r\nI am still dealing with some tilt issues that I'm closing in on, but I must say it doesn't appear to be tilt in the camera.  I am using an FLI Centerline and the broadband filters are in one wheel and show no tilt, will the narrowband in the other wheel do have some tilt.  \r\n\r\nBlending data from the two systems may become the norm for me.  Most interesting widefield shots contain some object(s) that I've shot with the CDK14 so why not blend?\r\n\r\nI haven't got around to shooting darks with this camera yet (DOH!)  So this relied on the dither and rejection for dark noise.  I did get flats however.  Color mix is Ha[SII - SII+OIII+Ha*.04 - OIII].",
+    "h": 5558,
+    "hash": "kiar1d",
+    "id": 509613,
+    "imaging_cameras": [
+        "QHYCCD QHY600M",
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14",
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 283,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809385/"
+    ],
+    "orientation": "111.183",
+    "pixscale": "1.457",
+    "published": "2020-07-26T23:23:21.621960",
+    "ra": "308.584",
+    "radius": "2.044",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/509613/",
+    "revisions": [
+        "/api/v1/imagerevision/243252/"
+    ],
+    "subjects": [
+        "PK084+02.1",
+        "PK085+04.1",
+        "Sh2-112",
+        "Sh2-115",
+        "Sh2-116"
+    ],
+    "title": "SH2-116, 115, and 112 Widefield",
+    "updated": "2021-07-03T11:03:36.610423",
+    "uploaded": "2020-07-26T21:46:21.695618",
+    "url_duckduckgo": "https://www.astrobin.com/kiar1d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kiar1d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kiar1d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kiar1d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kiar1d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kiar1d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kiar1d/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/8652f42d-ec89-4825-ae66-2153c89beb82.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/8652f42d-ec89-4825-ae66-2153c89beb82-1595800926.jpg",
+    "url_thumb": "https://www.astrobin.com/kiar1d/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1405,
+    "w": 8429
+}

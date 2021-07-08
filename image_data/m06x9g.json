@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 45,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.149",
+    "description": "This Wolf-Rayet star in Cygnus is surrounded by a symmetrical bubble its intense winds have produced.  This shows as a faint, prickly blue globe in OIII.  The winds seem to also have displaced the Hydrogen field the star resides in.  A similar curve is seen in the Ha data and of course you have the beautifully bright shock front in both Ha and OIII.\r\n\r\nThis was shot in Bi-color, however I tried a different combination from usual to try and retain the dim OIII bubble as best I could.  To increase the contrast I subtracted 1/5th of the Ha data from the OIII and used that for Blue.  In effect, I think this removed the H-beta from the OIII which should leave me with a more pure OIII response. However, I'm using a 3nm OIII so there really should not be much Hb getting through any way.  \r\n\r\nIn any case, using Ha for Red, OIII for Green, and OIII-(Ha/5) for blue produced some nice star colors and gave the nebula more color contrast than straight HOO.\r\n\r\nI used Herbert Walker's excellent MaskGen script in PI to create a starmask.  This uses the Gaia star database plate solve your image and create a star mask.  Using the star catalog is such a great way to correctly identify stars.  I chose to go down to 20th magnitude. \r\n \r\nhttp://www.skypixels.at/pixinsight_scripts.html#MaskGen\r\n\r\nThat mask was opened in Photoshop and I used it to create a selection over the Ha and OIII masters in PS.  I used the Fill command to remove the stars from each master and then combined them into the HOO mix I mentioned.  I don't usually combine NB data in PS, but it was convenient this time.  \r\n\r\nAfter working the starless data with high pass, Topaz De-noise AI, color and curves, I added the stars back in via a lighten layer.  I had also created a similarly modified HOO version in CCDStack.\r\n\r\nI'll definitely try this process again when I have HOO data.  I've added the Ha and OIII starless masters as well so you can see the structures more clearly.\r\n\r\nEDIT: I see that the WR star is not identified by the Plate solve.  It is the bright red star just above and left of the blue star in the center of the bubble.\r\nEDIT2: I added a further processed and inverse version of the OIII.  This much better displays the perfectly symmetrical sphere in OIII.\r\n\r\nAnd cheers to galaxy season being over!",
+    "h": 3211,
+    "hash": "m06x9g",
+    "id": 487633,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 303,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "270.302",
+    "pixscale": "0.608",
+    "published": "2020-05-14T00:20:41.154712",
+    "ra": "302.571",
+    "radius": "0.488",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/487633/",
+    "revisions": [
+        "/api/v1/imagerevision/232899/",
+        "/api/v1/imagerevision/232900/",
+        "/api/v1/imagerevision/233022/"
+    ],
+    "subjects": [
+        "NGC 6883",
+        "NGC6883"
+    ],
+    "title": "WR134 | A Wolf-Rayet Star Blows an OIII Bubble",
+    "updated": "2021-06-14T03:27:42.467011",
+    "uploaded": "2020-05-14T00:51:12.348741",
+    "url_duckduckgo": "https://www.astrobin.com/m06x9g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m06x9g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m06x9g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m06x9g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m06x9g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m06x9g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m06x9g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/ce8bc646-77df-4a8b-b293-bf953b37299c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/ce8bc646-77df-4a8b-b293-bf953b37299c-1589419026.jpg",
+    "url_thumb": "https://www.astrobin.com/m06x9g/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1425,
+    "w": 4800
+}

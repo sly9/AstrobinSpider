@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 24,
+    "data_source": "OWN_REMOTE",
+    "dec": "69.073",
+    "description": "The Bode's Galaxy in Ursa Major doesn't need introduction. I have been shooting this or M82 or both every single year with almost every equipment I have owned. This also one of the first Galaxy I have seen visually using my first scope - Celestron XLT 150 Newtonian from my backyard. \r\n\r\nWith my shared Rig (with Dhaval Brahmbhatt ) in Marathon, Texas (MaRIO), I decided to go after M81 again. \r\nThis target barely fits my FOV (and this is after adding 0.7x reducer this January!). The tiny Sony ICX814 chip is probably not the best choice for this target :) . I couldnt even get Holmberg IX into the frame (It is just off the right of the frame). \r\n\r\nC&C welcome\r\n\r\nI stuck with 5 minute subs to reduce star bloat and kept shooting each night and got about 300x5 minute subs. I culled out subs that had issues (and still left some subpar subs in ) and ended up with 182 L frames. \r\n\r\nProcessing is primarily done with Pixinsight and I did not do any noise reduction in L channel and tried to preserve as much dark dust lane detail I could. The stars inside the disk is hard to protect during deconvolution.  \r\n\r\nRGB was blurred and added in Pixinsight. Final tweaks done in Photoshop CS6. \r\n\r\nAt some point, I will switch to larger chip CMOS camera and it should be interesting to shoot this with using larger FOV and get more of the surrounding into the frame. \r\n\r\nOverall, I am happy with how this turned out.",
+    "h": 1400,
+    "hash": "eehyq2",
+    "id": 479297,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 241,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "172.150",
+    "pixscale": "0.869",
+    "published": "2020-04-19T23:07:55.095410",
+    "ra": "148.902",
+    "radius": "0.216",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/479297/",
+    "revisions": [
+        "/api/v1/imagerevision/227958/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "Bode's galaxy",
+        "M 81",
+        "M81",
+        "NGC 3031"
+    ],
+    "title": "Bode's Galaxy",
+    "updated": "2021-06-01T05:56:12.549858",
+    "uploaded": "2020-04-19T23:43:13.641860",
+    "url_duckduckgo": "https://www.astrobin.com/eehyq2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eehyq2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eehyq2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eehyq2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eehyq2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eehyq2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eehyq2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2020/0624b6ee-0c1a-40e0-b142-5a5b6bedbab2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2020/0624b6ee-0c1a-40e0-b142-5a5b6bedbab2-1587340615.png",
+    "url_thumb": "https://www.astrobin.com/eehyq2/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 942,
+    "w": 1118
+}

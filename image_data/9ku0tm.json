@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.108",
+    "description": "M94 is an odd galaxy in many ways.  Firstly, it has a small 70 arc-second center ring and a dim 600 arc-second outer ring that is separated by a dark division.  Secondly, the inner ring does not act like a core in that is actively forming stars and glows brightly in Ha and OIII much like the outer rings of Andromeda.  Lastly, this galaxy is believed to be devoid of dark matter as all star motions are explained by mass observed in visible light.  \r\n\r\nFrom a processing standpoint this is a challenge due to the vast differences in the brightness of the two rings.  I shot this in LRGB as well as Ha and OIII.  The narrowband channels did a good job of capturing the core without saturating the pixels.  So I did an ArcSinh stretch of the Luminance and layered that with the Ha and OIII data to create the first Luminance stretch.  A second stretch of the Luminance data produced the outer ring and the two were layered together in Photoshop.  \r\n\r\nColor comes from an Arc Sinh stretch of the RGB data with a very slight addition of the Ha and OIII data to fill in the Saturated core.  The addition of the Ha and OIII to luminance added enough information from that data that it was not otherwise helpful to add Ha or OIII to the color data.  There effect primarily in the core.\r\n\r\nGradients were removed with Gradient Xterminator.  This turned out to be more effective than DBE - or at least simpler to achieve a flat background.  \r\n\r\nNoise reduction is with the old pre-AI version of Topaz 5.1.  So this is really an old-school processing job: CCDStack, Topaz 5.1, and Photoshop.\r\n\r\nNot sure how many times I tried this one, but a few months back I filed the data for Winter processing since it's so hard to get any new data in Winter!",
+    "h": 3468,
+    "hash": "9ku0tm",
+    "id": 557932,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "348.774",
+    "pixscale": "0.728",
+    "published": "2021-01-14T03:35:26.499882",
+    "ra": "192.718",
+    "radius": "0.522",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/557932/",
+    "revisions": [
+        "/api/v1/imagerevision/268831/",
+        "/api/v1/imagerevision/268834/",
+        "/api/v1/imagerevision/268846/",
+        "/api/v1/imagerevision/268847/"
+    ],
+    "subjects": [
+        "M 94",
+        "M94",
+        "NGC 4736"
+    ],
+    "title": "M94 | A Twin Spiral Galaxy with Little Dark Matter",
+    "updated": "2021-06-28T15:22:05.805538",
+    "uploaded": "2021-01-14T02:09:44.086522",
+    "url_duckduckgo": "https://www.astrobin.com/9ku0tm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9ku0tm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9ku0tm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9ku0tm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9ku0tm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9ku0tm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9ku0tm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2021/858cf4df-44bf-4bbd-96bf-7ba350ef5da3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2021/858cf4df-44bf-4bbd-96bf-7ba350ef5da3-1610591977.jpg",
+    "url_thumb": "https://www.astrobin.com/9ku0tm/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 555,
+    "w": 3826
+}

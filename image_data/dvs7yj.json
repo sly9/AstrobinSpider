@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "58.277",
+    "description": "I'm very happy with how this HOO turned out. It's the first time I was able to get the OIII to actually be blue.  This is my third narrowband image with the 1600MM Pro. Combined via PixelMath with\r\n\r\nR=iif(Ha > .15, Ha, (Ha*.8)+(Oiii*.2))\r\nG=iif(Ha > 0.5, 1-(1-Oiii)*(1-(Ha-0.5)), Oiii *(Ha+0.5))\r\nB=iif(Oiii > .1, Oiii, (Ha*.3)+(Oiii*.2))",
+    "h": 3965,
+    "hash": "dvs7yj",
+    "id": 514274,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Gran Turismo 81 APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.623",
+    "pixscale": "2.037",
+    "published": "2020-08-12T21:11:44.644646",
+    "ra": "341.715",
+    "radius": "1.418",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514274/",
+    "revisions": [
+        "/api/v1/imagerevision/245233/"
+    ],
+    "subjects": [
+        "NGC 7380",
+        "NGC7380",
+        "PK107-00.1",
+        "Sh2-142",
+        "Sh2-143"
+    ],
+    "title": "Sh2-142 - The Wizard Nebula",
+    "updated": "2021-07-07T14:38:53.022499",
+    "uploaded": "2020-08-12T22:11:44.991264",
+    "url_duckduckgo": "https://www.astrobin.com/dvs7yj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dvs7yj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dvs7yj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dvs7yj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dvs7yj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dvs7yj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dvs7yj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/48674/2020/0e5fc35a-c675-468b-a748-4cdc97bd194c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/48674/2020/0e5fc35a-c675-468b-a748-4cdc97bd194c-1597270756.jpg",
+    "url_thumb": "https://www.astrobin.com/dvs7yj/0/rawthumb/thumb/",
+    "user": "Noro",
+    "views": 144,
+    "w": 3065
+}

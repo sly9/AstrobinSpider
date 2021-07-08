@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-11.622",
+    "description": null,
+    "h": 3343,
+    "hash": "ci4ozl",
+    "id": 580429,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "3.090",
+    "pixscale": "0.471",
+    "published": "2021-04-08T05:17:12.468660",
+    "ra": "189.999",
+    "radius": "0.280",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/580429/",
+    "revisions": [
+        "/api/v1/imagerevision/282022/",
+        "/api/v1/imagerevision/282023/"
+    ],
+    "subjects": [
+        "M 104",
+        "NGC 4594",
+        "Sombrero Galaxy"
+    ],
+    "title": "M104 LRGB",
+    "updated": "2021-06-28T15:21:13.543706",
+    "uploaded": "2021-04-08T05:15:24.906737",
+    "url_duckduckgo": "https://www.astrobin.com/ci4ozl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ci4ozl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ci4ozl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ci4ozl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ci4ozl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ci4ozl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ci4ozl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2021/a1c914bc-6494-4b84-bce8-1adc4d33919e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2021/a1c914bc-6494-4b84-bce8-1adc4d33919e-1617859173.jpg",
+    "url_thumb": "https://www.astrobin.com/ci4ozl/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 164,
+    "w": 2675
+}

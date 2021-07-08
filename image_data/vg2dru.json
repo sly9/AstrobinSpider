@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "21.860",
+    "description": "I started this one in March of 2019 but couldn't grab enough data since I have a tall tree directly to my east. I had to wait for it to clear that first (almost at the zenith), so I was generally only able to get 2 to 2.5 hours a night. I tried processing what I had last year, but the results were awful and I couldn't bring myself to publish it. I went after it again this year (with the replacement scope) and wasn't able to get the diffraction spikes to line up perfectly. I'm not sure whether that was due to photographer incompetence, manufacturing tolerances or time of year differences (by that I mean that I've noticed in the past that when I image something over a couple months, there is a slight rotation in the field even if I don't move my scope or camera). I thought about discarding last year's data to try to fix that, but the advantages of using all the data far outweighed the benefit of having sharper spikes.\r\n\r\nAnyway: NGC 3187 has always reminded me of the Kataan Probe/Necklace from the Star Trek TNG episode \"The Inner Light\".",
+    "h": 3250,
+    "hash": "vg2dru",
+    "id": 486072,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific PN-208/812 Carbon Fiber OTA"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 207,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "273.263",
+    "pixscale": "0.660",
+    "published": "2020-05-07T15:57:40.132089",
+    "ra": "154.509",
+    "radius": "0.508",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486072/",
+    "revisions": [
+        "/api/v1/imagerevision/232064/",
+        "/api/v1/imagerevision/232343/"
+    ],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3193"
+    ],
+    "title": "Hickson 44 / Arp 316",
+    "updated": "2021-03-17T02:22:18.895709",
+    "uploaded": "2020-05-07T16:19:32.446116",
+    "url_duckduckgo": "https://www.astrobin.com/vg2dru/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vg2dru/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vg2dru/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vg2dru/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vg2dru/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vg2dru/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vg2dru/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/fbbe6d0a-dadb-4251-bbfe-9cd10c060719.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/fbbe6d0a-dadb-4251-bbfe-9cd10c060719-1588869845.png",
+    "url_thumb": "https://www.astrobin.com/vg2dru/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 639,
+    "w": 4500
+}

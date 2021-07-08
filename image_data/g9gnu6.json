@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "27.171",
+    "description": "👨‍💻Processing Pixinsight sequence:\r\nBatch PreProcessing; Cos Cor; Mure, RGB, L DBE,  RGB DBE, PCC, Chrominance, TGV, Masked stretch, curves, LRGB, Local Histogram, Star mask, camera raw in photoshop cc.",
+    "h": 2482,
+    "hash": "g9gnu6",
+    "id": 553874,
+    "imaging_cameras": [
+        "FLI Camera ML 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 17\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809838/"
+    ],
+    "orientation": "0.045",
+    "pixscale": "0.634",
+    "published": "2020-12-29T13:28:34.157651",
+    "ra": "357.747",
+    "radius": "0.280",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/553874/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7765",
+        "NGC 7766",
+        "NGC 7767",
+        "NGC 7768",
+        "NGC7765",
+        "NGC7766",
+        "NGC7767",
+        "NGC7768"
+    ],
+    "title": "Abell 2666",
+    "updated": "2021-06-03T19:30:46.317943",
+    "uploaded": "2020-12-29T13:14:16.117602",
+    "url_duckduckgo": "https://www.astrobin.com/g9gnu6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/g9gnu6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/g9gnu6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/g9gnu6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/g9gnu6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/g9gnu6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/g9gnu6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29427/2020/00cf8f9e-5017-4a2a-b1b5-c38db02e7e8f.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29427/2020/00cf8f9e-5017-4a2a-b1b5-c38db02e7e8f-1609248509.jpeg",
+    "url_thumb": "https://www.astrobin.com/g9gnu6/0/rawthumb/thumb/",
+    "user": "Ben_Allen",
+    "views": 157,
+    "w": 1986
+}

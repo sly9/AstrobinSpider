@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-37.106",
+    "description": "RGB 16 x 300 sec each\r\nHa 29 x 600 sec\r\nO3 30 x 600 sec\r\n\r\nThe ASI6200 chip is \"full frame\" i.e. 24x36mm. So why use it on a tiny target such as the Bug? \r\n\r\nWell, the ASI6200 pixels are small, 3.76microns. So even on my 152mm refractor with the AP QUAD-TCC the image scale is a respectable 0.9 arcsec/pixel. Also the ASI6200, unlike the small chipped CMOS cameras to date, has no amp glow (I hate amp glow). \r\n\r\nI could have used my faithful Atik460 with the Astro-physics barlow (soon I will post an image of the Sombrero made with this combination but processed by someone better at processing than me).\r\n\r\nThe real reason for using the ASI6200 is that I hate messing with my image train. Doesn't this mean that most of the ASI6200's real estate will be wasted? Yes but so what? The USB3 downloads are very fast so that's not a problem. OK, stacking the huge subs has to be done overnight. But in the morning I crop out the bug in the middle of the frame and away I go. Really I just wanted to see if I can use this big chip camera on small targets too. The ASI6200 costs $4k but it's the only camera you need.\r\n\r\nI am happy with the result. I could only find one terrestrial Bug on Astrobin which I think is much better viz. Russ Carpenter's version made with a 1 metre Chilescope.\r\nhttps://www.astrobin.com/410255/?nc=user",
+    "h": 6388,
+    "hash": "xl3oy4",
+    "id": 501603,
+    "imaging_cameras": [
+        "ZWO ASI ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "LZOS-TMB-APM 152mm triplet refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804339/"
+    ],
+    "orientation": "105.959",
+    "pixscale": "0.891",
+    "published": "2020-06-29T09:36:28.106152",
+    "ra": "258.445",
+    "radius": "1.425",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/501603/",
+    "revisions": [
+        "/api/v1/imagerevision/239442/",
+        "/api/v1/imagerevision/239562/"
+    ],
+    "subjects": [],
+    "title": "Bug Nebula = Butterfly Nebula = NGC6302",
+    "updated": "2021-03-17T00:54:43.394473",
+    "uploaded": "2020-06-29T10:36:28.899973",
+    "url_duckduckgo": "https://www.astrobin.com/xl3oy4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xl3oy4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xl3oy4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xl3oy4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xl3oy4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xl3oy4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xl3oy4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13863/2020/36f6d5de-3328-4470-8a99-f1a3c0801ab5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13863/2020/36f6d5de-3328-4470-8a99-f1a3c0801ab5-1593428857.jpg",
+    "url_thumb": "https://www.astrobin.com/xl3oy4/0/rawthumb/thumb/",
+    "user": "juliangeorgeshaw",
+    "views": 405,
+    "w": 9576
+}

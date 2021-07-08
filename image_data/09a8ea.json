@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Some details of Venus surface visible in 1 micron wavelenght (we can see this thermal emission because venusian atmosphere is fully transparent in this wavelenght)\r\n\r\n4 pictures made with 4-5 days interval showing little rotation of major areas like Beta Regio and Phoebe Regio.\r\nAs a reference you can see also simulation extracted from WinJupos (blurred and original)\r\nOne of my picture is raw - only with heavy sharpening and some deconvolution and second is more processed where I removed artifacts using layers :)",
+    "h": 1229,
+    "hash": "09a8ea",
+    "id": 493415,
+    "imaging_cameras": [
+        "ASI ZWO 120MM"
+    ],
+    "imaging_telescopes": [
+        "AstroFaktoria Truss Newtonian 350/1400"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-31T14:00:32.997415",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/493415/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Surface of Venus rotation (2 weeks) - thermal emission in 1 micron",
+    "updated": "2021-06-07T00:04:04.043343",
+    "uploaded": "2020-05-31T14:51:40.321209",
+    "url_duckduckgo": "https://www.astrobin.com/09a8ea/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/09a8ea/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/09a8ea/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/09a8ea/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/09a8ea/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/09a8ea/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/09a8ea/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/09a8ea/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 206,
+    "w": 2040
+}

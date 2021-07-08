@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-72.082",
+    "description": "First I want to apologize to 47 Tucanae (NGC 104) for ignoring it for 45 years. But now it has caught my interest.  For this integrated image I grabbed more data then might be sanely expected.\r\n\r\nThe processing of 47 Tucanae is very tricky because the core is very bright.  Then, at some point, I became obsessed with doing justice to the background galaxy, PGC&nbsp;1536 at magnitude +16.5 and 0.7 x 0.1 arcmin size, among the mass of outer stars.  Also just in the frame, the other galaxy is PGC&nbsp;262873, which is magnitude +17.8 and 0.2 x 0.2 arcmin size.\r\n\r\n(Note that there is some issue with the automatic astrometry as the correct resolution should be 0.644 arcsec/pixel.)",
+    "h": 3400,
+    "hash": "t8h18x",
+    "id": 565098,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8 Carbon Fiber"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811056/"
+    ],
+    "orientation": "90.191",
+    "pixscale": "0.644",
+    "published": "2021-02-12T06:09:31.879352",
+    "ra": "6.047",
+    "radius": "0.497",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/565098/",
+    "revisions": [],
+    "subjects": [
+        "47 Tuc Cluster",
+        "NGC 104"
+    ],
+    "title": "47 Tucanae and Friends",
+    "updated": "2021-05-19T15:25:23.629043",
+    "uploaded": "2021-02-11T02:58:15.454843",
+    "url_duckduckgo": "https://www.astrobin.com/t8h18x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t8h18x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t8h18x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t8h18x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t8h18x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t8h18x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t8h18x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33848/2021/a0dea7cf-1e75-4e59-9260-e5a6e870c505.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33848/2021/a0dea7cf-1e75-4e59-9260-e5a6e870c505-1614313053.jpg",
+    "url_thumb": "https://www.astrobin.com/t8h18x/0/rawthumb/thumb/",
+    "user": "astrod",
+    "views": 160,
+    "w": 4400
+}

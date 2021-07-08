@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "2020.05.02 10:42:12(UT)\r\nDuration = 242s\r\nFrames captured = 10000\r\nGain = 150\r\nGamma = 25\r\n\r\nPost process:\r\nstacked 10000 frames \r\nDeconvolution",
+    "h": 1209,
+    "hash": "93fyol",
+    "id": 485773,
+    "imaging_cameras": [
+        "ZWO ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C9.25 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813378/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-06T11:03:35.403141",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/485773/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Mare Imbrium, Plato Crater",
+    "updated": "2021-04-20T23:37:34.465174",
+    "uploaded": "2020-05-06T12:03:35.570148",
+    "url_duckduckgo": "https://www.astrobin.com/93fyol/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/93fyol/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/93fyol/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/93fyol/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/93fyol/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/93fyol/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/93fyol/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/93fyol/0/rawthumb/thumb/",
+    "user": "Katsumi_Okazaki",
+    "views": 79,
+    "w": 1882
+}

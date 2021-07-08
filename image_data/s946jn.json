@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-48.656",
+    "description": "RCW 40, also known as GUM 25, is located in the southern constellation Vela.  It is an HII region, but other than that, I couldn't find a lot of information on this object.  There's also a small open cluster. Markarian 18 located to the lower right of the frame.\r\nThis is only RGB data, the SHO data is not done yet on this object, so I'll incorporate it when it's available.  This was taken at DSW-Chile with the TOA-150/FLI ML16200 with a total integration time of 9.5 hours RGB @600s.\r\nAnyway, hope ya like it, so far!\r\nTom",
+    "h": 3600,
+    "hash": "s946jn",
+    "id": 573273,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Takahashi TOA 150"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815247/"
+    ],
+    "orientation": "354.907",
+    "pixscale": "1.129",
+    "published": "2021-03-11T16:40:14.322940",
+    "ra": "135.587",
+    "radius": "0.904",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/573273/",
+    "revisions": [],
+    "subjects": [],
+    "title": "RCW 40/ GUM 25 RGB",
+    "updated": "2021-05-06T13:04:20.504845",
+    "uploaded": "2021-03-11T16:25:36.084552",
+    "url_duckduckgo": "https://www.astrobin.com/s946jn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s946jn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s946jn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s946jn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s946jn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s946jn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s946jn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5806/2021/05242e0d-264e-4e3c-8a35-0e472917c513.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5806/2021/05242e0d-264e-4e3c-8a35-0e472917c513-1615480921.jpg",
+    "url_thumb": "https://www.astrobin.com/s946jn/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 127,
+    "w": 4500
+}

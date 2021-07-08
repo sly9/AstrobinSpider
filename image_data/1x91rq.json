@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-22.989",
+    "description": "This image is a combination of two images taken 12 months apart. \nThe first was taken in June 2020 using the Meade 10\" SCT (focal length 2500mm) and the ASI294mc Pro OSC with the  Baader Neodymium filter - integration time 4hrs 25mins. \nThe second was taken this month (June 2021) using the Skywatcher Esprit 120ED (focal length 840mm) and the ASI1600mmPro with the Baader LRGB filters and the Optolong 7nm Ha filter (integration time 13 hrs 15mins).\n\nTotal combine integration time 17hrs 40mins\n\nProcessed in Pixinsight and combined in Photoshop. \n\nAt about the 10'oclock position, a thin jet extending 1 light year out from a dense cloud pillar can be seen, presumably  produced by a star hidden within the dense gas.",
+    "h": 2265,
+    "hash": "1x91rq",
+    "id": 600305,
+    "imaging_cameras": [
+        "Zwo ASI 294MC Cooled",
+        "ASI1600MM Cooled"
+    ],
+    "imaging_telescopes": [
+        "MEADE 10\" SCT  f 10 LX200",
+        "Sky-Watcher SkyWatcher Esprit 120ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2816658/"
+    ],
+    "orientation": "266.813",
+    "pixscale": "0.907",
+    "published": "2021-06-27T09:35:12.289291",
+    "ra": "270.606",
+    "radius": "0.464",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600305/",
+    "revisions": [
+        "/api/v1/imagerevision/293071/"
+    ],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid Nebula"
+    ],
+    "title": "The Night of the Trifid, Messier 20",
+    "updated": "2021-07-06T16:30:59.410389",
+    "uploaded": "2021-06-27T09:06:35.223471",
+    "url_duckduckgo": "https://www.astrobin.com/1x91rq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1x91rq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1x91rq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1x91rq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1x91rq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1x91rq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1x91rq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/49796/2021/42fb04e7-cdff-4bf7-9e7b-0e15962f4a1f.tif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/49796/2021/42fb04e7-cdff-4bf7-9e7b-0e15962f4a1f-1624786435.tif",
+    "url_thumb": "https://www.astrobin.com/1x91rq/0/rawthumb/thumb/",
+    "user": "DrKrud",
+    "views": 202,
+    "w": 2905
+}

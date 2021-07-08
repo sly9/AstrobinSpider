@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "70.314",
+    "description": "Object : vdB 152 \nDate :   Oct.2018- Nov.2018 \nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\nTelescope  : GSO RC10 ,\nMount : Skywatcher EQ8\nCamera : SX-H694(-10ºC) ,\nFilters : Astrodon LRGB,\nExposure :  L:300sx31, R:300sx22,G:300sx22,B:300sx20 , (7.92hr)\nGuiding : OAG/ asi174 , \nImage Processing : PI ,PS-CC",
+    "h": 2050,
+    "hash": "3km5vn",
+    "id": 581847,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "https://astro-noodle.blogspot.com/2021/04/vdb-152.html",
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "87.701",
+    "pixscale": "0.669",
+    "published": "2021-04-13T05:40:49.668228",
+    "ra": "333.469",
+    "radius": "0.309",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/581847/",
+    "revisions": [],
+    "subjects": [
+        "VdB152"
+    ],
+    "title": "vdB 152",
+    "updated": "2021-06-23T11:32:32.701174",
+    "uploaded": "2021-04-13T05:37:28.187350",
+    "url_duckduckgo": "https://www.astrobin.com/3km5vn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3km5vn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3km5vn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3km5vn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3km5vn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3km5vn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3km5vn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2021/52a123f3-3029-48c0-91cf-7200511b66ab.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2021/52a123f3-3029-48c0-91cf-7200511b66ab-1618292495.png",
+    "url_thumb": "https://www.astrobin.com/3km5vn/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 255,
+    "w": 2620
+}

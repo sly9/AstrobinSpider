@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "43.589",
+    "description": "Over the summer, I was working on a couple of specific astronomy projects. On the rare occasions I couldn't capture on either of those, I would tinker around with other objects without any real intention of completing an image.\r\n\r\nI didn't think I had captured enough data to make a passable image. But having looked through my files, I realized I could do so with this one. It's a modest amount of exposure time, but certainly enough. And, I think it turned out alright.\r\n\r\nI've been really struggling to find a decent star reduction process. StarNet is mostly good for making masks, but it's not perfect. It often struggles to entirely remove the brightest stars, and in the resulting mask, the bright stars are dim if there at all. But, I think I've finally found a good workaround.",
+    "h": 4000,
+    "hash": "wqkrji",
+    "id": 535814,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/3.9 Newtonian Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810700/"
+    ],
+    "orientation": "359.772",
+    "pixscale": "1.107",
+    "published": "2020-10-28T04:23:59.043307",
+    "ra": "314.914",
+    "radius": "0.765",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535814/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Cygnus Wall",
+    "updated": "2021-05-24T07:25:26.579759",
+    "uploaded": "2020-10-28T04:07:41.312654",
+    "url_duckduckgo": "https://www.astrobin.com/wqkrji/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wqkrji/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wqkrji/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wqkrji/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wqkrji/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wqkrji/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wqkrji/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31574/2020/e31b4b8b-925e-4f7c-84a9-17948a716571.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31574/2020/e31b4b8b-925e-4f7c-84a9-17948a716571-1603859086.jpg",
+    "url_thumb": "https://www.astrobin.com/wqkrji/0/rawthumb/thumb/",
+    "user": "HixonJames",
+    "views": 84,
+    "w": 2962
+}

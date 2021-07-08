@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "The excellent seeing conditions I experienced the other night resulted in <a href=\"https://www.astrobin.com/whpk3z/\" target=\"_blank\">one of my best Jupiter images to date</a> and, as those conditions persisted after I switched to Saturn, I was cautiously optimistic about this image as well.\r\n\r\nAs soon as I sharpened the first stack, however, my heart sank: it become immediately evident that I forgot to adjust the ADC when I changed targets. This was evident from the blue and red fringing on opposing sides the planet and rings , and likely reduced the resolution of detail in the final image.\r\n\r\nI used the RGB Align function in Registax to mitigate the issue as best as possible, and this did improve the result slightly. You can see the same image with no RGB alignment applied in Rev B, and by mousing-over the main image. (You'll have to look hard at this image scale for the difference, though.)\r\n\r\nNot a bad result by any means, but still a shame not to have taken full advantage of those rare conditions.\r\n\r\nThanks for looking!",
+    "h": 531,
+    "hash": "yrh40u",
+    "id": 495117,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-06-06T14:53:50.183322",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495117/",
+    "revisions": [
+        "/api/v1/imagerevision/236537/"
+    ],
+    "subjects": [],
+    "title": "Saturn 2020-06-02 19:30 UT ... d'oh!",
+    "updated": "2021-03-17T01:32:20.544209",
+    "uploaded": "2020-06-06T15:20:50.714491",
+    "url_duckduckgo": "https://www.astrobin.com/yrh40u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yrh40u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yrh40u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yrh40u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yrh40u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yrh40u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yrh40u/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/yrh40u/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 284,
+    "w": 706
+}

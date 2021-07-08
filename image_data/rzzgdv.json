@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "60.461",
+    "description": "This was imaged over 3 very humid nights. I had to discard about 50% of the data due to poor transparency and dew on the secondary mirror.\r\n\r\nEarlier this month, I discovered that my sensor was likely tilted. So I installed a tilt corrector in front of the EFW and spent two nights experimenting and tweaking. The full frame is not yet fully correct but field flatness has definitely improved.\r\n\r\nUnfortunately, backfocus of the GPU coma corrector was too short for both the OAG and tilter, and I had to remove the OAG. Guiding with my old guide scope was noticeably worse; I usually obtain between 0.55-0.65\" RMS with the OAG, while performance with the guide scope was 0.70-1.10\" RMS. Not really sure why this happened because I've successfully used the guide scope with my 80 mm APO on this mount.\r\n\r\nOriginal: Pure SHO combination with autostretch.\r\nRev. B: Ha-SHO tone mapped version. \r\nArtistic crop applied in Rev. C and F.\r\n\r\nRev. D: Modern palette without green and increased contrast for a much more dynamic look.\r\n\r\n<a href=\"https://astrob.in/rzzgdv/D/\"><img src=\"https://astrob.in/rzzgdv/D/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n\r\nRev. E: SII-Ha bicolor\r\nThis was an attempt to simulate the typical infrared images produced by the Hubble space telescope, E.g. these SHO/IR images of M16: https://hubblesite.org/image/3474/category/104-annotated-observations\r\n\r\n<a href=\"https://astrob.in/rzzgdv/E/\"><img src=\"https://astrob.in/rzzgdv/E/rawthumb/gallery/get.jpg?insecure\"/></a>",
+    "h": 3420,
+    "hash": "rzzgdv",
+    "id": 527842,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "92.188",
+    "pixscale": "0.978",
+    "published": "2020-09-27T15:08:29.244390",
+    "ra": "44.262",
+    "radius": "0.767",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/527842/",
+    "revisions": [
+        "/api/v1/imagerevision/252090/",
+        "/api/v1/imagerevision/252091/",
+        "/api/v1/imagerevision/252092/",
+        "/api/v1/imagerevision/252095/",
+        "/api/v1/imagerevision/252096/"
+    ],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "IC 1871 - Inside the Soul Nebula",
+    "updated": "2021-05-27T19:44:41.332088",
+    "uploaded": "2020-09-27T15:34:55.985545",
+    "url_duckduckgo": "https://www.astrobin.com/rzzgdv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rzzgdv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rzzgdv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rzzgdv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rzzgdv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rzzgdv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rzzgdv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/cfcb4c88-8383-4e9c-8092-59fb8bd669aa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/cfcb4c88-8383-4e9c-8092-59fb8bd669aa-1601222107.jpg",
+    "url_thumb": "https://www.astrobin.com/rzzgdv/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 396,
+    "w": 4495
+}

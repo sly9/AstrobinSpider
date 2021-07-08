@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-16.145",
+    "description": "M17 taken with ASA 30cm/LRGB  AND fsq85/Halpha",
+    "h": 1500,
+    "hash": "yg5upa",
+    "id": 497638,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "SBIG ST 8300M"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 12N",
+        "Takahashi FSQ85"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807956/"
+    ],
+    "orientation": "111.035",
+    "pixscale": "1.751",
+    "published": "2020-06-15T04:48:58.276397",
+    "ra": "275.284",
+    "radius": "0.604",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497638/",
+    "revisions": [],
+    "subjects": [
+        "Checkmark Nebula",
+        "IC 4706",
+        "IC 4707",
+        "Lobster Nebula",
+        "M 17",
+        "NGC 6618",
+        "Swan Nebula",
+        "omega Nebula"
+    ],
+    "title": "Swan Nebula",
+    "updated": "2021-03-17T01:17:08.550327",
+    "uploaded": "2020-06-15T05:48:58.470824",
+    "url_duckduckgo": "https://www.astrobin.com/yg5upa/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yg5upa/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yg5upa/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yg5upa/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yg5upa/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yg5upa/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yg5upa/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24943/2020/4ac4b0cf-b8fb-431b-9a1d-9a469dd41f64.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24943/2020/4ac4b0cf-b8fb-431b-9a1d-9a469dd41f64-1592200503.jpg",
+    "url_thumb": "https://www.astrobin.com/yg5upa/0/rawthumb/thumb/",
+    "user": "danbares",
+    "views": 166,
+    "w": 1980
+}

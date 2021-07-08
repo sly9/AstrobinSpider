@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "-61.143",
+    "description": "First time imaging this beautiful region of the sky and it has quickly become my favourite. I tried to combine the narrowband data with RGB but failed miserably thanks to my poor pixinsight processing skills. So, I ended up leaving the image with narrowband data only.\r\nA total of almost 24 hours of combined Sii, Ha and Oiii data",
+    "h": 3330,
+    "hash": "2yhjyw",
+    "id": 547892,
+    "imaging_cameras": [
+        "ZWO ASI183MM PRO Cooled"
+    ],
+    "imaging_telescopes": [
+        "Bintel (GSO) 8\" Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.544",
+    "pixscale": "0.611",
+    "published": "2020-12-07T06:14:48.561019",
+    "ra": "168.148",
+    "radius": "0.529",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/547892/",
+    "revisions": [
+        "/api/v1/imagerevision/264665/"
+    ],
+    "subjects": [
+        "NGC 3576",
+        "NGC 3579",
+        "NGC 3603"
+    ],
+    "title": "NGC 3576 (Statue of Liberty nebula) and NGC 3603 in SHO",
+    "updated": "2021-03-28T19:30:32.683759",
+    "uploaded": "2020-12-07T06:04:13.042609",
+    "url_duckduckgo": "https://www.astrobin.com/2yhjyw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2yhjyw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2yhjyw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2yhjyw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2yhjyw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2yhjyw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2yhjyw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/81320/2020/fcdd8048-9602-4b88-8e4b-b6d5adc6e9d1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/81320/2020/fcdd8048-9602-4b88-8e4b-b6d5adc6e9d1-1607321801.jpg",
+    "url_thumb": "https://www.astrobin.com/2yhjyw/0/rawthumb/thumb/",
+    "user": "leonelpc",
+    "views": 219,
+    "w": 5280
+}

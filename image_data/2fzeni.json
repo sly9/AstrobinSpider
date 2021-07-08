@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-47.475",
+    "description": "Added 1.4 hours of L data to my previous image, and tried an alternative processing, where the L data is composed in as an I channel (as in the HSI decomposition). In this way the stars seem to turn out more compact and with less color bleeding.\r\n\r\nNote that this image was acquired under suburban skies, with significant LP, now a bit attenuated due to the lockdown.",
+    "h": 3438,
+    "hash": "2fzeni",
+    "id": 485041,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "266.932",
+    "pixscale": "0.592",
+    "published": "2020-05-03T19:15:37.836043",
+    "ra": "201.693",
+    "radius": "0.493",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/485041/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "Omega Centauri"
+    ],
+    "title": "Omega Cent in IRGB",
+    "updated": "2021-03-17T02:27:53.427147",
+    "uploaded": "2020-05-03T20:15:38.327294",
+    "url_duckduckgo": "https://www.astrobin.com/2fzeni/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2fzeni/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2fzeni/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2fzeni/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2fzeni/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2fzeni/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2fzeni/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2020/4b847fa6-c823-4ca5-8e6f-feaac35a5d64.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2020/4b847fa6-c823-4ca5-8e6f-feaac35a5d64-1588537332.JPG",
+    "url_thumb": "https://www.astrobin.com/2fzeni/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 184,
+    "w": 4910
+}

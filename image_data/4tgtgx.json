@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 50,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "The Messier 106 with Celestron C14 - Composite with Luminance (QHY 183M, 27x300sec, -40°C, Baader UV/IR Cut) on 19.03.2021 und RGB (QHY 183C, 27x300sec, -40°C) from 16.03.2021; Gain 20, Offset 30.",
+    "h": 1028,
+    "hash": "4tgtgx",
+    "id": 575534,
+    "imaging_cameras": [
+        "QHYCCD QHY 183C",
+        "QHYCCD QHY 183M"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 208,
+    "link": "http://ag-astronomie.de/Deep-Sky-Galerie",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812547/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-03-20T14:05:02.594401",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575534/",
+    "revisions": [],
+    "subjects": [],
+    "title": "In the heart of Messier 106 (LRGB)",
+    "updated": "2021-06-28T09:31:33.490959",
+    "uploaded": "2021-03-20T13:52:15.451667",
+    "url_duckduckgo": "https://www.astrobin.com/4tgtgx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4tgtgx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4tgtgx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4tgtgx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4tgtgx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4tgtgx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4tgtgx/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/4tgtgx/0/rawthumb/thumb/",
+    "user": "HenningSchmidt",
+    "views": 466,
+    "w": 1472
+}

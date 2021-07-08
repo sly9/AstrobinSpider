@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 23,
+    "data_source": "OWN_REMOTE",
+    "dec": "51.301",
+    "description": "NGC 1491 (also designated SH2-206 and LBN 704) is sometimes called the \"Fossil Footprint\" nebula.  It is an emission nebula located at a distance of about 10,700 lys in Perseus.  As with most nebula of this type, the majority of emissions comes from Hydrogen, but this object includes large regions of weak ionized oxygen (OIII) signal.  The blue, O5V 11.22 magnitude star (BD +50 ° 886) illuminates the nebula with powerful ionizing radiation.  Radiation pressure from this young, hot star is also creating a bubble in the gas that immediately surrounds it.  The core of the nebula is quite bright but what makes this region so challenging for narrowband imaging are the weak S2 and O3 signals that surround the core.\r\n\r\nI started on this narrow band project without much consideration of what I might be getting into as the moon began to rise in late November.  The good news is that the skies over DSW during this period settled into a stretch of clear skies with extraordinary seeing.  Many of my Ha subs had FWHM values under 2.0\" reaching nearly 1.3\" in many cases.  That NEVER happens when I'm trying to image a small detailed galaxy!  Even my O3 and S2 subs were really good and my yield for this project was unusually high at around 80-85%.\r\n\r\nProcessing the data turned into a unusual adventure.  A lot of times when I finish producing the integrated image files, I get impatient to see what I've got so I'll do a quick processing run just to see how it looks--and that's what how this image started.  A quick processing run generally ignores the most basic procedures to keep things clean.  I mostly just want to evaluate the colors and judge the overall look of what I want to produce.  I got this image pretty far along and reached a point where I could see the potential in the data.  It was late at night so I saved a TIFF image of a cropped result and I put my computer to sleep for the night.  When I went to pick up where I left off the next morning, I discovered a message stating that both PI and PS had crashed--so I lost all of my intermediate results.  \"No big deal\" I thought since I wanted to do a more careful processing job anyway.  Six hours later, I had taken four more runs at it before I had something that I thought looked even half decent.  Before continuing to tweak it, I decided to compare it to my first effort just to see where I was.  DOH...the first, quickly processed image looked ten times better!\r\n\r\nSo, I restarted from my original processing effort.  After a lot of manipulation, I reached a point of diminishing returns.  It seemed okay except for noise control, which is what I had originally ignored in my first \"quick-turn\" approach.  After scratching my head over it for a while, I decided to take a slightly different tack by using the Ha signal as the luminance layer.  Since my first data set was cropped, I used the StarAlignment tool to align the color data to the new Lum data.  I'm skipping a few steps here but the final result is shown in version B.\r\n\r\nOverall, I think that NGC 1491 is a pretty difficult narrowband project.  I found that a lot of folks have tried this object but most of the images that I've seen reflect the effects of not enough exposure time.  In narrowband, this nebula requires a fair amount of exposure to be able to pull out the structure and details from the relatively weak O3 and S2 signals.  The reward is an image that reveals some detail about what is going on within the knots and sheets of matter being pushed around by radiation pressure deep in the nebula.\r\n\r\nAs always, C&C is always welcome so fire away.  Hopefully this effort will inspire others to give this object another look.\r\n\r\nJohn",
+    "h": 3680,
+    "hash": "210zui",
+    "id": 551222,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "0.525",
+    "pixscale": "0.472",
+    "published": "2020-12-21T02:31:47.259811",
+    "ra": "60.840",
+    "radius": "0.342",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/551222/",
+    "revisions": [
+        "/api/v1/imagerevision/265434/",
+        "/api/v1/imagerevision/265437/"
+    ],
+    "subjects": [
+        "NGC 1491",
+        "NGC1491",
+        "Sh2-206"
+    ],
+    "title": "NGC 1491...A Challenging Narrowband Nebula in Perseus",
+    "updated": "2021-05-08T08:24:31.805300",
+    "uploaded": "2020-12-20T23:23:29.255408",
+    "url_duckduckgo": "https://www.astrobin.com/210zui/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/210zui/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/210zui/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/210zui/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/210zui/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/210zui/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/210zui/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/c02f5e82-3317-45b0-a1b3-99b07ff81afe.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/c02f5e82-3317-45b0-a1b3-99b07ff81afe-1608507235.jpg",
+    "url_thumb": "https://www.astrobin.com/210zui/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 563,
+    "w": 3700
+}

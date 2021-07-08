@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 47,
+    "data_source": "BACKYARD",
+    "dec": "36.454",
+    "description": "I was sitting a long time on this project, mainly working on the star integration. I might have overdone it a bit, but came up with a mechanism to reduce the star sizes to a (my) minimum. They seem a bit too sharp, but I did not want to start the process again (I guess if it rains more here then I will do that). My idea was to create masks on different levels of stretch, and eliminate this way all the bloated stars. At the end I added up all different masks to one and used it as color mask for the RGB stars with a highly stretched RGB image. I should have done the star mask generation a bit fuzzier, not sure if that would have been better, the future will tell. At least I have now an idea hoe to integrate the stars in a better way, if anybody else has a better one please let me know! I also obtained a set of Hß data to see if this would make a difference, and it did not, hence I will stay with the recommended list of targets for this filter from now on. I used it as Luminance at least.",
+    "h": 3358,
+    "hash": "l4r58l",
+    "id": 505042,
+    "imaging_cameras": [
+        "ZWO ASI071MC-COOL",
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\"",
+        "Willam Optics Zenithstar 61 APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 137,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808433/"
+    ],
+    "orientation": "88.642",
+    "pixscale": "1.992",
+    "published": "2020-07-12T19:24:32.787926",
+    "ra": "302.991",
+    "radius": "1.550",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/505042/",
+    "revisions": [
+        "/api/v1/imagerevision/241241/",
+        "/api/v1/imagerevision/241242/",
+        "/api/v1/imagerevision/241243/",
+        "/api/v1/imagerevision/241303/",
+        "/api/v1/imagerevision/241306/"
+    ],
+    "subjects": [
+        "28 b02 Cyg",
+        "29 b03 Cyg",
+        "IC 4996",
+        "IC4996",
+        "NGC 6883",
+        "NGC6881",
+        "NGC6883",
+        "PK074+01.1",
+        "PK074+02.1",
+        "The star 28Cyg",
+        "The star 29Cyg"
+    ],
+    "title": "WR 134 in H-mix(HO)-O withRGB stars",
+    "updated": "2021-06-16T12:37:50.052063",
+    "uploaded": "2020-07-12T20:03:52.405778",
+    "url_duckduckgo": "https://www.astrobin.com/l4r58l/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l4r58l/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l4r58l/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l4r58l/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l4r58l/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l4r58l/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l4r58l/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26231/2020/f3c8a0a5-ceeb-438e-95bd-eb1a73ed83ab.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26231/2020/f3c8a0a5-ceeb-438e-95bd-eb1a73ed83ab-1594585128.jpg",
+    "url_thumb": "https://www.astrobin.com/l4r58l/0/rawthumb/thumb/",
+    "user": "udeuterm",
+    "views": 420,
+    "w": 4482
+}

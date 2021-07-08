@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "67.593",
+    "description": "Not too much to be said about this dark nebula, which is a continuation of my targeting dust in the Cepheus region.  LBN 483 rises just ahead of NGC 7023, the Iris, and likely is part of the same complex of clouds and reflection nebulae.  The two small ones here are evidently illuminated by single stars visible in this image.  Both are identified on the plate solve.  This field of view is entirely filled with dust, though with highly variable densities.  In some places dense enough to completely block light from any stars behind them.  Yet there are numerous very small galaxies that can be seen through the less dense regions.\r\n\r\nI am adding the StarNet++ image of this because StarNet actually did a very good job this time and to demonstrate the full extent of the dust.  I did not massage the starless image so there are a \r\ncouple of the brighter, larger stars that left their mark.  However, the starless image particularly highlights the reflection nebulae and if you look closely it captures some of the galaxies as lighter tiny smudges!  So congratulations on that capability!\r\n\r\nMy incremental tweaking of my backspacing took a slight turn for the worse on this, so will need to back it out just a hair.  It is amazing how sensitive this setup is to slight adjustments!  Once done, then I will deal with the slight tilt.  I could have spent a night dealing and solving this issue, but with so few nights to image and such short nights, I would rather image than get my edge stars just perfect.\r\n\r\nFor QHY268C users, I used the High Gain capture mode at a gain of 60, offset of 12.  This offers the lowest read noise.  I also solved the raster line issue I had from a couple of months ago.  It turns out that the lines were not a result of my using low offsets, but rather is a function of the USB setting.  I bumped that up to 20 and away they went!  Would be nice if QHY actually told me that.  In any case, I can't complain about the signal I am getting with 90 sec subs...",
+    "h": 4048,
+    "hash": "n2vqee",
+    "id": 595452,
+    "imaging_cameras": [
+        "QHYCCD QHY268c"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "3.409",
+    "pixscale": "1.250",
+    "published": "2021-06-07T22:51:48.556616",
+    "ra": "310.183",
+    "radius": "1.275",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595452/",
+    "revisions": [
+        "/api/v1/imagerevision/290316/"
+    ],
+    "subjects": [
+        "FI Cep",
+        "HT Cep",
+        "HU Cep",
+        "HW Cep",
+        "PGC2708838",
+        "PV Cep",
+        "V0335 Cep",
+        "V0336 Cep",
+        "V0448 Dra"
+    ],
+    "title": "LBN 483, Two Reflection Nebulae",
+    "updated": "2021-07-05T21:50:24.707896",
+    "uploaded": "2021-06-07T22:15:01.564415",
+    "url_duckduckgo": "https://www.astrobin.com/n2vqee/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n2vqee/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n2vqee/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n2vqee/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n2vqee/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n2vqee/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n2vqee/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/53640/2021/e376bad7-be50-4dbd-82f3-b0c208ae4977.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/53640/2021/e376bad7-be50-4dbd-82f3-b0c208ae4977-1623105469.jpg",
+    "url_thumb": "https://www.astrobin.com/n2vqee/0/rawthumb/thumb/",
+    "user": "Alan_Brunelle",
+    "views": 198,
+    "w": 6127
+}

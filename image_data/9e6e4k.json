@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "25.989",
+    "description": "Good seeing last night",
+    "h": 1698,
+    "hash": "9e6e4k",
+    "id": 481536,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800442/"
+    ],
+    "orientation": "359.885",
+    "pixscale": "1.051",
+    "published": "2020-04-25T07:34:16.922656",
+    "ra": "189.089",
+    "radius": "0.316",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481536/",
+    "revisions": [
+        "/api/v1/imagerevision/229140/",
+        "/api/v1/imagerevision/229166/",
+        "/api/v1/imagerevision/229300/"
+    ],
+    "subjects": [
+        "IC 3571",
+        "NGC 4562",
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "NGC4565",
+    "updated": "2021-05-26T21:09:23.720282",
+    "uploaded": "2020-04-25T06:59:57.589321",
+    "url_duckduckgo": "https://www.astrobin.com/9e6e4k/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9e6e4k/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9e6e4k/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9e6e4k/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9e6e4k/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9e6e4k/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9e6e4k/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6737/2020/effc805a-c914-45a2-bf4e-67f0e638a6ad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6737/2020/effc805a-c914-45a2-bf4e-67f0e638a6ad-1587798215.jpg",
+    "url_thumb": "https://www.astrobin.com/9e6e4k/0/rawthumb/thumb/",
+    "user": "christian.hennes",
+    "views": 279,
+    "w": 1344
+}

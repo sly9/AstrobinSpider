@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Used WinJupos to combine three images for better details and less noise.",
+    "h": 500,
+    "hash": "cvno1d",
+    "id": 525570,
+    "imaging_cameras": [
+        "QHYCCD 5-III 462C"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Carbon Photonewton 254/1200"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805889/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-09-21T17:22:29.161425",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/525570/",
+    "revisions": [
+        "/api/v1/imagerevision/250892/",
+        "/api/v1/imagerevision/254471/"
+    ],
+    "subjects": [],
+    "title": "Mars, September 20th, 2020 - best data combined",
+    "updated": "2021-04-19T18:20:30.675821",
+    "uploaded": "2020-09-21T18:22:29.298352",
+    "url_duckduckgo": "https://www.astrobin.com/cvno1d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cvno1d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cvno1d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cvno1d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cvno1d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cvno1d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cvno1d/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/cvno1d/0/rawthumb/thumb/",
+    "user": "Sky-Jennersdorf",
+    "views": 260,
+    "w": 500
+}

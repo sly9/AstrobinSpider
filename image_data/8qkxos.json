@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "35.970",
+    "description": "Reprocessing of my last image with my old configuration, I took a lot of data on that occasion with the idea of ​​saying goodbye to that configuration with a good image, but I was not satisfied, although the data that I wanted was there, I could not handle it, especially with the OIII channel , of course ...\r\nThese are exactly the same data but with several hours less on that channel, also other older flats that seemed to correct better, and the integration with Pixinsight seems to do a better job. Visually reviewing each image was decisive because until now I let the program (DeepSkyStacker) do it and simply used the best percentage. The integration of the H-alpha channel is also done with Pixinsight, as it seems to do a better job.\r\n\r\nClear skies and take care.\r\n\r\nIñigo Gamarra.",
+    "h": 2536,
+    "hash": "8qkxos",
+    "id": 537208,
+    "imaging_cameras": [
+        "Moravian G2 8300 Mono"
+    ],
+    "imaging_telescopes": [
+        "William Optics Megrez 80 FD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810901/"
+    ],
+    "orientation": "270.591",
+    "pixscale": "2.470",
+    "published": "2020-11-12T17:06:38.594287",
+    "ra": "302.890",
+    "radius": "1.266",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/537208/",
+    "revisions": [
+        "/api/v1/imagerevision/258083/",
+        "/api/v1/imagerevision/260773/"
+    ],
+    "subjects": [
+        "28 b02 Cyg",
+        "29 b03 Cyg",
+        "NGC 6883",
+        "NGC6883",
+        "The star 28Cyg",
+        "The star 29Cyg"
+    ],
+    "title": "NGC-6883",
+    "updated": "2021-05-21T06:32:14.058651",
+    "uploaded": "2020-11-04T02:30:11.803638",
+    "url_duckduckgo": "https://www.astrobin.com/8qkxos/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8qkxos/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8qkxos/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8qkxos/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8qkxos/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8qkxos/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8qkxos/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32217/2020/1fc18a1c-3cb8-4ecb-90a9-eca5bc4ad7fa.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32217/2020/1fc18a1c-3cb8-4ecb-90a9-eca5bc4ad7fa-1604458062.png",
+    "url_thumb": "https://www.astrobin.com/8qkxos/0/rawthumb/thumb/",
+    "user": "Fotoixigo",
+    "views": 319,
+    "w": 2681
+}

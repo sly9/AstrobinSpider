@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 82,
+    "data_source": "BACKYARD",
+    "dec": "-18.193",
+    "description": "Here we have an image of Messier 24 and the surrounding area.  M24 is located within the broad band of the Milky way and is rather low at my location culminating at 38 degrees.  \r\n\r\nThere are a number of other smaller objects that are in this field of view including Barnard 92, 93 and 304 dark nebulae and NGC 6603, an open cluster of several hundred stars.\r\n\r\nWith regard to the acquisition and processing of these objects, I decided to try to go fairly deep with the image and I included some integration using a H-a  filter.  My intention with that was to simply enhance the overall image quality and not to try to isolate and feature hydrogen regions specifically.   I was pleased with this outcome and I think the result is  quite natural, I hope you will agree, lol... \r\n\r\nThe data I was able to collect was probably the best raw data I've ever managed.  I did no linear noise reduction as I found any application of the various tools with masks to attenuate the NR effect resulted in a corresponding loss of detail.  I did do a masked ACDNR immediately after stretching to compress the histogram a little and that's it for NR.  My average FWHM was, across all of the filters, around 3 which is for me, simply the best I've ever managed.\r\n\r\nI had intended to simply publish the full field of view.  When examining the image, I thought the detail in B92 and B93 was nice enough that they merited their own crop.  I liked that better than the full view.\r\n\r\nLastly, this is the first image I've ever done where I would have the courage to suggest that one might view this in full resolution for full effect.  Usually, I am hoping people do not  do that, lol...\r\n\r\nI hope you like this one and any comments/criticism are encouraged!\r\n\r\nCS and be well!",
+    "h": 2320,
+    "hash": "j1nb1q",
+    "id": 492103,
+    "imaging_cameras": [
+        "ZWO ASI1600MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 184,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "359.910",
+    "pixscale": "1.457",
+    "published": "2020-05-28T16:17:34.273708",
+    "ra": "274.146",
+    "radius": "0.795",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/492103/",
+    "revisions": [
+        "/api/v1/imagerevision/235053/"
+    ],
+    "subjects": [
+        "B307",
+        "B92",
+        "B93",
+        "IC 4715",
+        "M 24",
+        "M24",
+        "NGC 6603",
+        "NGC6603",
+        "Sh2-39",
+        "Sh2-41",
+        "Small Sgr Star Cloud"
+    ],
+    "title": "M24 The Sagittarius Star Cloud - B92 & B93 and More Stuff",
+    "updated": "2021-06-27T10:25:09.827128",
+    "uploaded": "2020-05-27T16:42:46.921498",
+    "url_duckduckgo": "https://www.astrobin.com/j1nb1q/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/j1nb1q/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/j1nb1q/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/j1nb1q/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/j1nb1q/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/j1nb1q/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/j1nb1q/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2020/80e795ec-25f3-47f5-af40-511579a1e1ed.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2020/80e795ec-25f3-47f5-af40-511579a1e1ed-1590680051.png",
+    "url_thumb": "https://www.astrobin.com/j1nb1q/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 554,
+    "w": 3168
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": "-0.036",
+    "description": "This came out better than I expected, especially since I was short on data. I really wanted to gather at least another night of green (really though, what I wanted was an additional 91 green subs, 56 blue subs and 37 red subs along with at least 3 hours of Ha), but this target gets blocked by a tree sometime around 10:30 p.m. - although I don't really know for sure since it's been nothing but clouds since May 14 - and I've got no clear nights in the forecast aside from maybe June 1. \r\n\r\nI was really dissatisfied with how noisy my initial RGB stack turned out, so one thing I did to make up for the noise was to try to stack the blue and green together and make an R-BG-BG image along with an RGB image. I then pasted the original RGB on top of the R-BG-BG image and set the top layer to color. The combined RGB image was less noisy than the original RGB, yet it otherwise looked exactly like the RGB stack. I'm really not sure whether this would have made a difference by the time I added my luminance layer, but I'm putting it out there in case it actually has a real benefit. If you find yourself in the same situation (and you process in Photoshop the way I do), it's at least worth a try.\r\n\r\nI also really struggled to bring out the edges of the galaxy, but I think I was pretty successful and wanted to share how I made that work as well (since it's a technique I wish I had figured out while doing a few other targets with dimmer edges): Fundamentally, I could see that I did capture the dimmer parts, but there was barely any contrast between the galaxy's edges and the background sky (typical for Bortle 7-8). I made two versions of the lum layer with a heavy curves layer and an extreme curves layer, gave them Gaussian blurs (the extreme one was set to 20 pixels) and pasted them in as screen layers (the first at 35% and the latter at 10% and again at 15% [don't ask why, I was just experimenting]). I then masked out everything but the edges that I was trying to work in and emphasize. I definitely didn't do a perfect job of it, but I'm happy with how things look. I put together a before and after of both the lum I used for this as well as how those screen layers affected an earlier revision <a href=https://www.astrobin.com/sre3oy/>here</a>.",
+    "h": 3625,
+    "hash": "fpqimw",
+    "id": 491553,
+    "imaging_cameras": [
+        "QHYCCD 183"
+    ],
+    "imaging_telescopes": [
+        "TPO/GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "270.812",
+    "pixscale": "0.427",
+    "published": "2020-05-26T02:45:28.356647",
+    "ra": "166.455",
+    "radius": "0.392",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/491553/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3521"
+    ],
+    "title": "NGC 3521 / Bubble Galaxy",
+    "updated": "2021-04-30T01:20:34.246090",
+    "uploaded": "2020-05-26T02:34:35.500050",
+    "url_duckduckgo": "https://www.astrobin.com/fpqimw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fpqimw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fpqimw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fpqimw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fpqimw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fpqimw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fpqimw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/43daabc3-6226-43c6-b7c7-fa7f5c48ffbe.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/43daabc3-6226-43c6-b7c7-fa7f5c48ffbe-1590464588.png",
+    "url_thumb": "https://www.astrobin.com/fpqimw/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 680,
+    "w": 5524
+}

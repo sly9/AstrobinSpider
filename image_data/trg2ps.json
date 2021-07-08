@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "46.956",
+    "description": "This is a reprocess of my data from October 2018. More Ha signal added to the red channel which brought out more details.\r\n\r\nSh2-116 (the red dot at the top of the image) may or may not be a planetary nebula. Here are some info on Sh2-115 from an APOD text: Sharpless 115 stands just north and west of Deneb, the alpha star of Cygnus. Noted in the in the 1959 catalog by Stewart Sharpless (as Sh2-115) the faint but lovely emission nebula lies along the edge of one of the outer Milky Way's giant molecular clouds, about 7,500 light-years away. The nebular glow is powered by hot stars in star cluster Berkeley 90. The cluster stars are likely only 100 million years old or so and are still embedded in Sharpless 115. But the stars' strong winds and radiation have cleared away much of their dusty, natal cloud.",
+    "h": 3770,
+    "hash": "trg2ps",
+    "id": 503041,
+    "imaging_cameras": [
+        "ZWO ASI 071 MC Pro Color Cool",
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100ED Super APO Triplet",
+        "SkyWatcher Esprit 150 ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "27.210",
+    "pixscale": "1.193",
+    "published": "2020-07-05T13:55:13.159017",
+    "ra": "308.363",
+    "radius": "0.776",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/503041/",
+    "revisions": [
+        "/api/v1/imagerevision/240271/",
+        "/api/v1/imagerevision/241152/",
+        "/api/v1/imagerevision/263630/"
+    ],
+    "subjects": [],
+    "title": "Sh2-115 and Sh2-116 in HaRGB",
+    "updated": "2021-03-17T00:46:41.436623",
+    "uploaded": "2020-07-05T14:55:13.447545",
+    "url_duckduckgo": "https://www.astrobin.com/trg2ps/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/trg2ps/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/trg2ps/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/trg2ps/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/trg2ps/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/trg2ps/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/trg2ps/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2020/697fa8d6-2d8c-41a6-b3f7-165da47446c6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2020/697fa8d6-2d8c-41a6-b3f7-165da47446c6-1593961383.jpg",
+    "url_thumb": "https://www.astrobin.com/trg2ps/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 226,
+    "w": 2778
+}

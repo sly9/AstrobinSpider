@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "54.121",
+    "description": "M101 is entry number 26 in Halton Arp's Atlas of Peculiar Galaxies and described as \"Spiral with one heavy arm\".\r\nThere is an interesting companion in the top left corner. NGC 5474 is not in the Arp catalogue, but it clearly is disformed. This Peculiar Dwarf Galaxy has a displaced center, believed to have been caused by gravitational interaction with M101.\r\n\r\nThis was my first serious look at Startools. I used version 1.7 alpha (with GPU support) to develop the RGB and Ha images. I ran Starnet++ within PixInsight to generate a starless Ha and a starmask for use in Startools and Photoshop (I could have run Starnet++ without PI, but I like it that way as it is also set up to use CPU support, making it fast). Final compositing and tweaks in Photoshop.",
+    "h": 2028,
+    "hash": "6mnkki",
+    "id": 530167,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "Philipp Keller (Astrooptik) 14\" Hypergraph F/3"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810565/"
+    ],
+    "orientation": "269.670",
+    "pixscale": "1.410",
+    "published": "2020-10-05T14:29:09.539800",
+    "ra": "210.938",
+    "radius": "0.747",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/530167/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5474",
+        "NGC 5477"
+    ],
+    "title": "M101 (Arp26) and NGC5474",
+    "updated": "2021-03-16T19:30:00.863641",
+    "uploaded": "2020-10-05T15:06:56.764525",
+    "url_duckduckgo": "https://www.astrobin.com/6mnkki/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6mnkki/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6mnkki/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6mnkki/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6mnkki/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6mnkki/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6mnkki/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31478/2020/2a28be8d-2f14-423d-9823-3920ac2226e3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31478/2020/2a28be8d-2f14-423d-9823-3920ac2226e3-1602276317.jpg",
+    "url_thumb": "https://www.astrobin.com/6mnkki/0/rawthumb/thumb/",
+    "user": "Annehouw",
+    "views": 209,
+    "w": 3229
+}

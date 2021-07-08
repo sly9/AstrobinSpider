@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-39.274",
+    "description": "LRGB, cropped.\r\n\r\nR = 14x 600s\r\nG = 17x 600s\r\nB = 11x 600s\r\nL = 13x 600s",
+    "h": 2620,
+    "hash": "py983l",
+    "id": 575589,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Plane Wave Instruments CDK17"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811616/"
+    ],
+    "orientation": "359.916",
+    "pixscale": "0.636",
+    "published": "2021-03-20T16:55:09.216222",
+    "ra": "3.780",
+    "radius": "0.408",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/575589/",
+    "revisions": [
+        "/api/v1/imagerevision/278965/",
+        "/api/v1/imagerevision/279053/",
+        "/api/v1/imagerevision/279072/"
+    ],
+    "subjects": [
+        "IC 1537",
+        "NGC 55",
+        "NGC55"
+    ],
+    "title": "NGC 55",
+    "updated": "2021-04-02T14:52:26.596484",
+    "uploaded": "2021-03-20T16:50:27.117387",
+    "url_duckduckgo": "https://www.astrobin.com/py983l/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/py983l/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/py983l/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/py983l/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/py983l/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/py983l/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/py983l/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2021/b2944d51-9769-46f7-aedc-c44db0e28578.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2021/b2944d51-9769-46f7-aedc-c44db0e28578-1616259240.png",
+    "url_thumb": "https://www.astrobin.com/py983l/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 91,
+    "w": 3801
+}

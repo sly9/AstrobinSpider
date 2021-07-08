@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.833",
+    "description": "synL SHO combination\r\nHa data from AP130 + Moravian G2-8300 and TSA120 + Moravian G2-8300\r\nSII data from TS130 + Moravian G3-16200 \r\nOIII data from Dr.Kijja Jearwattanakanok's TSA120 + QHY 163m\r\n\r\nSynthetic Luminance created by weighted combination of SII(3nm), Ha(5nm) and OIII(6nm)",
+    "h": 2221,
+    "hash": "1swg2j",
+    "id": 514748,
+    "imaging_cameras": [
+        "Moravian Instrument G2-8300",
+        "Moravian Instrument G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics AP130GTX",
+        "Takahashi TSA 120",
+        "Teleskop-Service TS130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812841/"
+    ],
+    "orientation": "89.388",
+    "pixscale": "1.258",
+    "published": "2020-08-14T16:00:26.769063",
+    "ra": "274.711",
+    "radius": "0.657",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/514748/",
+    "revisions": [],
+    "subjects": [
+        "Eagle Nebula",
+        "IC 4703",
+        "M 16",
+        "NGC 6611",
+        "Star Queen"
+    ],
+    "title": "M16, Eagle Nebula",
+    "updated": "2021-03-16T22:52:51.352958",
+    "uploaded": "2020-08-14T17:00:27.116417",
+    "url_duckduckgo": "https://www.astrobin.com/1swg2j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1swg2j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1swg2j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1swg2j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1swg2j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1swg2j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1swg2j/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28079/2020/c3503221-3a60-4fd9-8636-ef28939bf561.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28079/2020/c3503221-3a60-4fd9-8636-ef28939bf561-1597425392.jpg",
+    "url_thumb": "https://www.astrobin.com/1swg2j/0/rawthumb/thumb/",
+    "user": "AstroGearTH",
+    "views": 98,
+    "w": 3031
+}

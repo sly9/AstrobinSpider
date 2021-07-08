@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-3.815",
+    "description": "North is left in this image.  The large cloudy nebulosity in this image field is part bright nebula and part various dark nebula. This field is the LBN 923 region. LBN 923 is the dusty nebulosity throughout this field.  The most prominent bright nebula is the bluish reflection Nebula in the lower left - it is vdB 33 (AKA NGC 1788, LBN 916).  The field also contains  the dark nebulae LDN 1615 and LDN 1616 as well as several molecular clouds from the Plank Galactic Cold Clump catalog (PGCC). There are a surprising number of background galaxies in this field - the annotated images shows only a few (NGC 1740, 1753, PGC 16636 and others). These objects  and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/LBN923_FSQ_PI2-PS3-IP-Crp_annotated.jpg\">annotated image</a>. Horizontal FOV is approximately 120 arc minutes. Full size image scale is 2.57 arcsec/pix.",
+    "h": 2100,
+    "hash": "im6xep",
+    "id": 541053,
+    "imaging_cameras": [
+        "ATIK383L+"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "http://www.jthommes.com/Astro/NGC1788.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "90.682",
+    "pixscale": "2.514",
+    "published": "2020-11-15T02:43:46.194916",
+    "ra": "76.195",
+    "radius": "1.222",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/541053/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1740",
+        "NGC 1788",
+        "The star 66Eri"
+    ],
+    "title": "LBN 923 Region and vdB33",
+    "updated": "2021-03-16T18:10:24.210833",
+    "uploaded": "2020-11-15T02:37:20.287697",
+    "url_duckduckgo": "https://www.astrobin.com/im6xep/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/im6xep/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/im6xep/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/im6xep/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/im6xep/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/im6xep/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/im6xep/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/ac78afbd-8431-443e-a65c-67aad3942be6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/ac78afbd-8431-443e-a65c-67aad3942be6-1605409508.jpg",
+    "url_thumb": "https://www.astrobin.com/im6xep/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 181,
+    "w": 2800
+}

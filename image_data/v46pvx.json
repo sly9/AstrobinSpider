@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "-13.835",
+    "description": "Switched the RC8 to shoot at native 1600mm and binned 2x2 for an effective pixel scale of 0.94. I really like this field of view and the pixel scale make better use of the precious light I captured. I then rescaled and sampled it back to the original pixel dimensions.",
+    "h": 2685,
+    "hash": "v46pvx",
+    "id": 513825,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "91.893",
+    "pixscale": "0.470",
+    "published": "2020-08-11T04:58:24.996643",
+    "ra": "274.738",
+    "radius": "0.281",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513825/",
+    "revisions": [
+        "/api/v1/imagerevision/245152/",
+        "/api/v1/imagerevision/245153/",
+        "/api/v1/imagerevision/245154/",
+        "/api/v1/imagerevision/249807/",
+        "/api/v1/imagerevision/258177/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "IC 4703",
+        "M 16",
+        "NGC 6611",
+        "Star Queen"
+    ],
+    "title": "M16 SHO first light at 1600mm",
+    "updated": "2021-04-10T03:06:02.572432",
+    "uploaded": "2020-08-11T05:58:25.206274",
+    "url_duckduckgo": "https://www.astrobin.com/v46pvx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/v46pvx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/v46pvx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/v46pvx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/v46pvx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/v46pvx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/v46pvx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/9b314035-3f63-4b0f-977c-75c0944818b3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/9b314035-3f63-4b0f-977c-75c0944818b3-1597125971.jpg",
+    "url_thumb": "https://www.astrobin.com/v46pvx/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 248,
+    "w": 3368
+}

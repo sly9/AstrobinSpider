@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.550",
+    "description": "Ha-O3-LRGB rendition\r\nCombination of narrowband data from 2017 and recent LRGB",
+    "h": 1800,
+    "hash": "3adk4m",
+    "id": 516730,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "269.668",
+    "pixscale": "1.237",
+    "published": "2020-08-21T20:32:31.629543",
+    "ra": "323.988",
+    "radius": "0.437",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/516730/",
+    "revisions": [
+        "/api/v1/imagerevision/246439/"
+    ],
+    "subjects": [],
+    "title": "IC 1396",
+    "updated": "2021-03-21T11:01:08.749385",
+    "uploaded": "2020-08-21T21:32:31.943148",
+    "url_duckduckgo": "https://www.astrobin.com/3adk4m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3adk4m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3adk4m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3adk4m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3adk4m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3adk4m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3adk4m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/c12d2e64-f9fc-4ddb-b235-07ad15dfe56d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/c12d2e64-f9fc-4ddb-b235-07ad15dfe56d-1598124071.jpg",
+    "url_thumb": "https://www.astrobin.com/3adk4m/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 253,
+    "w": 1800
+}

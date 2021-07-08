@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-48.621",
+    "description": "Background nebula is from 5 hours of data collected with a duo-band filter, combined into a HOO image with APP\nStars removed with StarNet++\nRGB stars are from 1 hour of broadband RGB data",
+    "h": 3907,
+    "hash": "udodnz",
+    "id": 600631,
+    "imaging_cameras": [
+        "ZWO ASI2600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2816169/"
+    ],
+    "orientation": "299.823",
+    "pixscale": "1.399",
+    "published": "2021-06-29T03:31:46.671184",
+    "ra": "249.808",
+    "radius": "1.405",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600631/",
+    "revisions": [
+        "/api/v1/imagerevision/293364/"
+    ],
+    "subjects": [
+        "NGC 6165",
+        "NGC 6188",
+        "NGC 6193",
+        "Rim Nebula"
+    ],
+    "title": "NGC 6188 - The Dragons of Ara",
+    "updated": "2021-07-04T11:22:26.399454",
+    "uploaded": "2021-06-29T03:14:35.662482",
+    "url_duckduckgo": "https://www.astrobin.com/udodnz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/udodnz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/udodnz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/udodnz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/udodnz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/udodnz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/udodnz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/99956/2021/e4687c8c-69b9-4012-8250-ee08d7061433.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/99956/2021/e4687c8c-69b9-4012-8250-ee08d7061433-1624937553.jpg",
+    "url_thumb": "https://www.astrobin.com/udodnz/0/rawthumb/thumb/",
+    "user": "BrettD",
+    "views": 81,
+    "w": 6083
+}

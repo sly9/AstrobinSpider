@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "60.376",
+    "description": "Definitely needs more integration time in OIII and SII, as there are some rough edges and noise in the red and blue channels, but for my second SHO attempt I'm quite happy with this!",
+    "h": 3408,
+    "hash": "cafv3h",
+    "id": 583999,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Evostar 80 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 29,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "4.370",
+    "pixscale": "1.503",
+    "published": "2021-04-21T12:25:32.338207",
+    "ra": "43.701",
+    "radius": "1.185",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/583999/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "Soul Nebula SHO",
+    "updated": "2021-05-26T19:10:01.066505",
+    "uploaded": "2021-04-21T12:04:48.043653",
+    "url_duckduckgo": "https://www.astrobin.com/cafv3h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cafv3h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cafv3h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cafv3h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cafv3h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cafv3h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cafv3h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/79155/2021/55a4fb7a-deb9-4933-8721-f080e388820c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/79155/2021/55a4fb7a-deb9-4933-8721-f080e388820c-1619007432.jpg",
+    "url_thumb": "https://www.astrobin.com/cafv3h/0/rawthumb/thumb/",
+    "user": "kvasskog",
+    "views": 92,
+    "w": 4540
+}

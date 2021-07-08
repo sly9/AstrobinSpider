@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "38.357",
+    "description": "This is a more traditional processing of my prior Hubble Palette data...\r\n\r\n<a href=\"https://www.astrobin.com/r9miz8/C/\">Hubble Palette Version</a>\r\n\r\n...OIII-SII-Ha-RGB with a bit more attention to maintaining the true color of the stars –  even within the nebula. (-:\r\n\r\nThis adds 1800s x 7 OIII subs for a bit smoother and deeper in the OIII region. Also added 1800s x 4 SII. That helped a bit with the subtle coloring in the background.",
+    "h": 4020,
+    "hash": "4a1otk",
+    "id": 500220,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "358.737",
+    "pixscale": "0.468",
+    "published": "2020-06-24T03:57:01.215614",
+    "ra": "303.023",
+    "radius": "0.366",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/500220/",
+    "revisions": [
+        "/api/v1/imagerevision/238605/",
+        "/api/v1/imagerevision/238636/"
+    ],
+    "subjects": [
+        "Crescent Nebula",
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "Crescent Nebula and Milky Way Stars",
+    "updated": "2021-03-17T01:02:21.691669",
+    "uploaded": "2020-06-24T04:57:01.638954",
+    "url_duckduckgo": "https://www.astrobin.com/4a1otk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4a1otk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4a1otk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4a1otk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4a1otk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4a1otk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4a1otk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/5bd299d0-7fc4-4d69-81fa-130831c13ced.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/5bd299d0-7fc4-4d69-81fa-130831c13ced-1592974972.jpg",
+    "url_thumb": "https://www.astrobin.com/4a1otk/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 350,
+    "w": 3952
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "22.442",
+    "description": "Jellyfish Nebula (IC443, Sharpless 248) \r\nThis image is a Hubble Palette (SHO) with RGB stars. \r\nThe Jellyfish Nebula located in the constellation Gemini is a supernova remnant located in the constellation Gemini about 5,000 light-years from Earth having an angular diameter of 50 arcmin with an apparent magnitude of 12. The Jellyfish Nebula is a remnant of a supernova that occurred in between 3,000 and 30,000 years ago in our Milky Way, and it is one of the best-studied cases of supernova remnants interacting with surrounding molecular clouds. The Propus (Eta Geminorum, η Gem) is the brightest star in this image.\r\n\r\nTechnical details:\r\nTelescope: TEC 160FL + TEC FRC 0.9x\r\nMount: Astro-Physics Mach 2 GTO\r\nImaging cameras:ZWO ASI6200MM\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\n\r\nPCC data:\r\nResolution ............... 0.784 arcsec/px\r\nRotation ................. 90.243 deg\r\nObservation start time ... 2020-12-18 04:33:19 UTC\r\nObservation end time ..... 2021-01-10 11:29:03 UTC\r\nFocal distance ........... 989.21 mm\r\nPixel size ............... 3.76 um\r\n\r\nFilters: Astrodon 50mm Unmounted LRGB Gen2 E-Series Filter Sets\r\n         Astrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue   46x60\"  46 Minutes  Bin1x1 12/18/2020\r\nGreen  46x60\"  46 Minutes  Bin1x1 12/18/2020\r\nRed    47x60\"  47 Minutes  Bin1x1 12/18/2020\r\nHa     62x900\" 15.5 Hours  Bin1x1 12/18/2020 ~ 01/10/2021\r\nOIII   37x900\" 9.25 Hours  Bin1x1 12/18/2020 ~ 01/10/2021\r\nSII    58x900\" 14.5 Hours  Bin1x1 12/18/2020 ~ 01/10/2021",
+    "h": 4710,
+    "hash": "impkuz",
+    "id": 557986,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 175,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "269.860",
+    "pixscale": "0.785",
+    "published": "2021-01-14T23:00:51.741035",
+    "ra": "94.239",
+    "radius": "0.869",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557986/",
+    "revisions": [],
+    "subjects": [
+        "Gem A",
+        "IC 443",
+        "The star Propus (ηGem)"
+    ],
+    "title": "IC443 Jellyfish Nebula (SHO)",
+    "updated": "2021-06-16T23:03:33.406274",
+    "uploaded": "2021-01-14T08:19:34.577788",
+    "url_duckduckgo": "https://www.astrobin.com/impkuz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/impkuz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/impkuz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/impkuz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/impkuz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/impkuz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/impkuz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/fa563e94-4ae7-405c-8506-f5653ae1f404.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/fa563e94-4ae7-405c-8506-f5653ae1f404-1610612672.JPG",
+    "url_thumb": "https://www.astrobin.com/impkuz/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 298,
+    "w": 6432
+}

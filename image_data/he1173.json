@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-29.878",
+    "description": "Wide field around the M83 galaxy",
+    "h": 1600,
+    "hash": "he1173",
+    "id": 593470,
+    "imaging_cameras": [
+        "SBIG ST-2000XCM"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 130PDS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 58,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2808397/"
+    ],
+    "orientation": "358.692",
+    "pixscale": "2.349",
+    "published": "2021-05-31T16:01:03.139949",
+    "ra": "204.303",
+    "radius": "0.651",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/593470/",
+    "revisions": [],
+    "subjects": [
+        "M 83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy"
+    ],
+    "title": "M83 wide field",
+    "updated": "2021-06-09T13:50:08.944298",
+    "uploaded": "2021-05-31T15:58:31.168890",
+    "url_duckduckgo": "https://www.astrobin.com/he1173/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/he1173/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/he1173/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/he1173/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/he1173/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/he1173/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/he1173/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20427/2021/47587d8f-e847-4da2-9b15-829eb82d9e2c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20427/2021/47587d8f-e847-4da2-9b15-829eb82d9e2c-1622477057.jpg",
+    "url_thumb": "https://www.astrobin.com/he1173/0/rawthumb/thumb/",
+    "user": "Daniele.Gasparri",
+    "views": 115,
+    "w": 1191
+}

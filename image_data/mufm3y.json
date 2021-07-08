@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "22.725",
+    "description": "My first set of data taken from my now complete home observatory. Taken over the nights of 6/15, 6/16, and 6/19.\r\n\r\nHa: 77x300s\r\nOIII: 77x300s",
+    "h": 2745,
+    "hash": "mufm3y",
+    "id": 599058,
+    "imaging_cameras": [
+        "ZWO ASI294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV105-3FT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815660/"
+    ],
+    "orientation": "275.456",
+    "pixscale": "1.352",
+    "published": "2021-06-21T03:26:06.161438",
+    "ra": "299.897",
+    "radius": "0.917",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599058/",
+    "revisions": [
+        "/api/v1/imagerevision/292348/"
+    ],
+    "subjects": [
+        "Dumbbell Nebula",
+        "M 27",
+        "NGC 6853",
+        "The star 14Vul"
+    ],
+    "title": "M27 Dumbbell Nebula HOO",
+    "updated": "2021-06-30T17:01:37.312413",
+    "uploaded": "2021-06-21T03:14:23.252312",
+    "url_duckduckgo": "https://www.astrobin.com/mufm3y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mufm3y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mufm3y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mufm3y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mufm3y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mufm3y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mufm3y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7573/2021/d6083a68-3526-4342-b4c2-456ab35f62d6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7573/2021/d6083a68-3526-4342-b4c2-456ab35f62d6-1624245859.jpg",
+    "url_thumb": "https://www.astrobin.com/mufm3y/0/rawthumb/thumb/",
+    "user": "SparkyHT",
+    "views": 161,
+    "w": 4041
+}

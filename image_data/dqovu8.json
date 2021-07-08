@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.272",
+    "description": "The fires out west have shut down all new data gathering. So I thought it was time to revisit an older data set and apply more recent processing techniques. This is the result.",
+    "h": 3252,
+    "hash": "dqovu8",
+    "id": 524272,
+    "imaging_cameras": [
+        "SBIG STXL 16200",
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph",
+        "RCOS 16\" RC f/9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 159,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "321.093",
+    "pixscale": "1.103",
+    "published": "2020-09-18T07:03:28.886901",
+    "ra": "0.880",
+    "radius": "0.719",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/524272/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "NGC 7822 Hubble Palette",
+    "updated": "2021-03-16T20:09:04.960159",
+    "uploaded": "2020-09-18T08:03:29.251194",
+    "url_duckduckgo": "https://www.astrobin.com/dqovu8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dqovu8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dqovu8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dqovu8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dqovu8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dqovu8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dqovu8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/38327031-084d-4488-8db5-87aa0e41d4cc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/38327031-084d-4488-8db5-87aa0e41d4cc-1600416813.jpg",
+    "url_thumb": "https://www.astrobin.com/dqovu8/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 290,
+    "w": 3378
+}

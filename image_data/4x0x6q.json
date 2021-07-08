@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 19,
+    "data_source": "TRAVELLER",
+    "dec": "-13.849",
+    "description": "This is about 13 hours on the Eagle Nebula, with a custom channel mix to try to get closer to a Blue/Gold modified SHO palette. This was processed using starnet+ to allow for tone mapping, with a very short stack of RGB stars added in at the end. I am reasonably happy with the result. I am also really liking the extra details I am able to start to see with these longer integration times too.",
+    "h": 6908,
+    "hash": "4x0x6q",
+    "id": 504754,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "https://www.thinairphotography.com/img/s/v-10/p3928959482-6.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813078/"
+    ],
+    "orientation": "97.619",
+    "pixscale": "0.671",
+    "published": "2020-07-12T04:23:24.173626",
+    "ra": "274.730",
+    "radius": "1.075",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504754/",
+    "revisions": [
+        "/api/v1/imagerevision/241236/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "Eagle Nebula (M16) in Narrowband",
+    "updated": "2021-03-17T00:36:41.683650",
+    "uploaded": "2020-07-12T05:23:24.760932",
+    "url_duckduckgo": "https://www.astrobin.com/4x0x6q/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4x0x6q/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4x0x6q/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4x0x6q/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4x0x6q/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4x0x6q/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4x0x6q/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5374/2020/ac28692d-912f-4c33-b049-66df5c523d8a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5374/2020/ac28692d-912f-4c33-b049-66df5c523d8a-1594532763.jpg",
+    "url_thumb": "https://www.astrobin.com/4x0x6q/0/rawthumb/thumb/",
+    "user": "mlewis",
+    "views": 265,
+    "w": 9224
+}

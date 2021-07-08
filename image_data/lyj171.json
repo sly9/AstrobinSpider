@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Planet Mars on 23.10.2020 (21:42 CEST), only 32° above the horizon, with Celestron SC C14 and Baader FFC. Camera: ASI 290MM with Baader IR-Pass and R-G-B Filter, 15x L (60 sec), 7xR (60 sec), 7x G (60 sec), 7x B (60 sec): 10% (IR, R) or 30% (G,B) of 12000 frames, stacked with AutoStakkert!3, derotated with WinJupos.",
+    "h": 1010,
+    "hash": "lyj171",
+    "id": 535102,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "http://ag-astronomie.de/Sonnensystem-Galerie",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812547/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-25T09:07:31.910456",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535102/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Mars on 23th October 2020 @ 32°",
+    "updated": "2021-04-20T17:42:36.802783",
+    "uploaded": "2020-10-25T09:03:08.097825",
+    "url_duckduckgo": "https://www.astrobin.com/lyj171/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lyj171/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lyj171/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lyj171/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lyj171/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lyj171/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lyj171/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/lyj171/0/rawthumb/thumb/",
+    "user": "HenningSchmidt",
+    "views": 231,
+    "w": 1298
+}

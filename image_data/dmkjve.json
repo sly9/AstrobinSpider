@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 44,
+    "data_source": "BACKYARD",
+    "dec": "-35.856",
+    "description": "I wanted/tried to capture Cat's Paw Nebula for years and finally got it done this year. It was very low between 14~16 degrees above the horizon (1.5 hours image times). This image is an SHO Hubble palette of colors with RGB stars.  \r\nC & C are welcome.\r\nJian Yuan Peng\r\n\r\n--- Facts --\r\nNGC 6334, (a.k.a. the Cat's Paw Nebula, Bear Claw Nebula, or Gum 64) is an emission nebula and star-forming region located in the constellation Scorpius about 5,500 light-years from the Earth. NGC 6334, discovered by astronomer John Herschel in 1837, is one of the nearest H II regions to the solar system and about 50 light-years across. The large glowing cloud earned the nickname Cat’s Paw because it looks like a gigantic pawprint of a cat. \r\n\r\nTechnical details:\r\nTelescope: TEC 160FL + TEC FRC 0.9x\r\nMount: Astro-Physics 1100GTO\r\nImaging cameras: ZWO ASI6200MM\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\nPhotometricColorCalibration data (preCorp):\r\nResolution ............... 0.784 arcsec/px\r\nRotation ................. -179.240 deg\r\nReference system ......... ICRS\r\nObservation start time ... 2021-05-18 08:42:14 UTC\r\nObservation end time ..... 2021-06-15 06:55:19 UTC\r\nFocal distance ........... 988.81 mm\r\nPixel size ............... 3.76 um\r\nField of view ............ 1d 58' 16.7\" x 1d 19' 44.4\"\r\nImage center ............. RA: 17 19 48.955  Dec: -35 51 31.33\r\n\r\nAstrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue   36x120\"      72 Minutes                  Bin1x1 \r\nGreen  34x120\"      68 Minutes                  Bin1x1 \r\nRed    35x120\"      70 Minutes                  Bin1x1 \r\nHa     37x900\"      9.25 Hours  Bin1x1  \r\nOIII   37x900\"      9.25 Hours  Bin1x1 \r\nSII    36x900\" \t    9 Hours  Bin1x1",
+    "h": 5060,
+    "hash": "dmkjve",
+    "id": 600199,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 208,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "184.818",
+    "pixscale": "0.785",
+    "published": "2021-06-26T18:57:58.420770",
+    "ra": "259.906",
+    "radius": "0.738",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/600199/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6334"
+    ],
+    "title": "NGC 6334 (Cat's Paw Nebula, Bear Claw Nebula) SHO+RGB stars",
+    "updated": "2021-07-06T23:17:36.330394",
+    "uploaded": "2021-06-26T18:39:23.149707",
+    "url_duckduckgo": "https://www.astrobin.com/dmkjve/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dmkjve/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dmkjve/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dmkjve/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dmkjve/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dmkjve/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dmkjve/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/993ada0f-2f37-4ff6-ae94-d99a416f2aa5.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/993ada0f-2f37-4ff6-ae94-d99a416f2aa5-1624733821.JPG",
+    "url_thumb": "https://www.astrobin.com/dmkjve/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 307,
+    "w": 4494
+}

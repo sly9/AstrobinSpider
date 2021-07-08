@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "8.928",
+    "description": "Wikipedia says: \"Abell 31 is an ancient planetary nebula in the constellation of Cancer. It is estimated to be about 2,000 light years away. Although it is one of the largest planetary nebulae in the sky, it is not very bright.\" \r\n\r\nWell, to say that the PN is not very bright is probably the understatement of the year... :D For the H-Alpha exposures I made 15 minutes subs and on these you can guess to find the nebula (if you know where it should be). \r\n\r\nAccordingly I tried to be patient and generate as much raw data as possible. The following image processing was still a challenge because the usable signal of the stacks was quite limited. Later I noticed that all my reference images came from remote observatories: That's when you realize what it means to be able to take pictures under a really dark sky. \r\n\r\nNevertheless, it was fun to work on this project. Hope you like it! :-)",
+    "h": 3170,
+    "hash": "pmoya1",
+    "id": 502317,
+    "imaging_cameras": [
+        "Astrel Instruments AST16200B"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 250/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 229,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "95.137",
+    "pixscale": "1.033",
+    "published": "2020-07-02T14:58:53.036222",
+    "ra": "133.537",
+    "radius": "0.562",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/502317/",
+    "revisions": [
+        "/api/v1/imagerevision/270880/"
+    ],
+    "subjects": [
+        "IC 523",
+        "IC523",
+        "PK219+31.1",
+        "Sh2-290"
+    ],
+    "title": "Abell 31 - SH2-290 - PK 219.1+31.2 (Bicolor RGB)",
+    "updated": "2021-04-26T07:17:27.258487",
+    "uploaded": "2020-07-02T15:25:13.595621",
+    "url_duckduckgo": "https://www.astrobin.com/pmoya1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pmoya1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pmoya1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pmoya1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pmoya1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pmoya1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pmoya1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2020/f2baf1f3-acbc-4732-9043-42de7e0b4fe7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2020/f2baf1f3-acbc-4732-9043-42de7e0b4fe7-1593705114.png",
+    "url_thumb": "https://www.astrobin.com/pmoya1/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 588,
+    "w": 2305
+}

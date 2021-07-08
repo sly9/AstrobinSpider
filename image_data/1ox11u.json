@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "18.209",
+    "description": "-----|Object| --> NGC 7497\r\n\r\n|-----|Equipment|-----|\r\n\r\nScope: Skywatcher Explorer 150PDS\r\nMount: Heq5 pro w/ beltmod\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: ZWO Asi 120mm mini\r\nImaging camera: ZWO Asi 1600MM PRO & Canon Eos 1100D\r\nFilters: Zwo 7nm (31mm) Lum\r\n\r\n|-----|Software|-----|\r\n\r\nNINA\t\r\nPHD2\r\nPixInsight\r\nSharpcap PRO for polaraligning\r\n\r\n|-----|Acquisition|-----|\r\n\r\nLocation: Skövde, Sweden (Bortle 5-6)\r\nDates: 2020-09-10, 2020-10-16\r\nGain: 139 Offset: 50 /ISO 1600\r\nCamera temp: -20C\r\nL: 48*300s 4\r\nRGB: 87*120s\r\nDarks: 50\r\nFlats: 50\r\nDarkFlats: 50\r\n---Total integration time: 6.9h",
+    "h": 3352,
+    "hash": "1ox11u",
+    "id": 533142,
+    "imaging_cameras": [
+        "CANON EOS 1100D",
+        "ASI 1600 MM Pro - Cooled ASI 1600MM  pro cooled"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 150/750"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.268",
+    "pixscale": "1.037",
+    "published": "2020-10-17T19:50:59.905271",
+    "ra": "347.270",
+    "radius": "0.811",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533142/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7497"
+    ],
+    "title": "NGC 7497",
+    "updated": "2021-03-16T19:11:32.503660",
+    "uploaded": "2020-10-17T20:47:05.330361",
+    "url_duckduckgo": "https://www.astrobin.com/1ox11u/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1ox11u/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1ox11u/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1ox11u/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1ox11u/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1ox11u/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1ox11u/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41650/2020/d029e967-4567-4b1f-9db5-75158fad45c8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41650/2020/d029e967-4567-4b1f-9db5-75158fad45c8-1602967845.png",
+    "url_thumb": "https://www.astrobin.com/1ox11u/0/rawthumb/thumb/",
+    "user": "Calzune",
+    "views": 80,
+    "w": 4524
+}

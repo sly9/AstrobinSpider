@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "60.528",
+    "description": "One night with twin telescopes imaging in Ha, OIII and SII.",
+    "h": 1365,
+    "hash": "rlijas",
+    "id": 531647,
+    "imaging_cameras": [
+        "ZWO ASI1600MM"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805625/"
+    ],
+    "orientation": "93.143",
+    "pixscale": "2.158",
+    "published": "2020-10-11T22:20:43.271196",
+    "ra": "44.098",
+    "radius": "0.662",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/531647/",
+    "revisions": [],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "Sh2-199",
+    "updated": "2021-06-30T18:07:01.977217",
+    "uploaded": "2020-10-11T23:12:30.789472",
+    "url_duckduckgo": "https://www.astrobin.com/rlijas/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rlijas/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rlijas/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rlijas/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rlijas/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rlijas/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rlijas/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18064/2020/6ec4e5e3-284d-4c22-ab99-a732161fda43.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18064/2020/6ec4e5e3-284d-4c22-ab99-a732161fda43-1602458390.jpg",
+    "url_thumb": "https://www.astrobin.com/rlijas/0/rawthumb/thumb/",
+    "user": "mtau",
+    "views": 246,
+    "w": 1737
+}

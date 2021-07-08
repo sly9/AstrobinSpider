@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "40.244",
+    "description": "",
+    "h": 3400,
+    "hash": "58fztx",
+    "id": 542055,
+    "imaging_cameras": [
+        "ZWO AIS1600 MM pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 100ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813575/"
+    ],
+    "orientation": "85.229",
+    "pixscale": "1.407",
+    "published": "2020-11-17T11:29:30.729115",
+    "ra": "305.591",
+    "radius": "1.119",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542055/",
+    "revisions": [
+        "/api/v1/imagerevision/272839/"
+    ],
+    "subjects": [
+        "37 gam Cyg",
+        "NGC 6910",
+        "NGC6910",
+        "Sadr",
+        "The star Sadr (γCyg)"
+    ],
+    "title": "Sadr (Gamma Cyg) - HaLRGB",
+    "updated": "2021-05-17T00:17:19.792772",
+    "uploaded": "2020-11-17T11:18:35.223397",
+    "url_duckduckgo": "https://www.astrobin.com/58fztx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/58fztx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/58fztx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/58fztx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/58fztx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/58fztx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/58fztx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/68600/2020/cdd196ed-0c5b-4f48-9afa-fdacca140ef9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/68600/2020/cdd196ed-0c5b-4f48-9afa-fdacca140ef9-1605612398.jpg",
+    "url_thumb": "https://www.astrobin.com/58fztx/0/rawthumb/thumb/",
+    "user": "balasia",
+    "views": 201,
+    "w": 4608
+}

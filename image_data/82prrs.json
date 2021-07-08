@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 177,
+    "data_source": "BACKYARD",
+    "dec": "57.124",
+    "description": "Here we have my try at the iconic Double Cluster located about 7.500 ly away in Perseus.  These clusters are relatively young and do contain several red super giants which I think really add to the visual appeal of this one.  There are some blue giants in here too.\r\n\r\nAs I like to do on pretty much every image I try to make, I engaged in some experimentation.  In this case, I wanted to see the difference between an image with 7.5 hours of integration versus one with 15 hours.  In both cases, I also wanted to explore greatly reducing the amount of noise reduction utilized in post processing.  Both images only have a little bit of mask attenuated MMT applied in the linear state.  \r\n\r\nI did this using an 80mm refractor as my main instrument is still set up for planetary work.  Yes, still hammering my head against the wall trying to figure that out, lol...  The GTF81 is an APO that has a field flattener built in.  I also used a 0.8 reducer to speed it up and to widen the field a little bit.  But disappointingly, I see evidence of significant field curvature in the image despite a lot of care being taken to make certain of the required 55mm spacing.  Perhaps using a reducer with this type of instrument  is not appropriate, or the quality of the reducer is not there or perhaps the spacing simply needs to be adjusted.  But nevertheless, interesting to me in and of itself.\r\n\r\nIt seems to me that the final image which contained ~15 hours of integration is superior to the original with much better s/n.   I think there is some \"stuff\", i.e. dust or gas in the field that is a bit more apparent in the final image.  I had thought about doing an evening of Ha to bring that into the mix as well.  I have seen a couple of recent images which included Ha integration that were really great.  But I decided to simply leave that out and try to show this more as how it appears to the eye in a natural sense. \r\n\r\nWith regard to NR, I also now believe I have generally been over-applying noise reduction which can be so useful but can also degrade good data.  Perhaps also a testament to the excellent quality of the ZWO cooled CMOS camera.  But overall, I thought this image had enough value to post and I hope you like it!\r\n\r\nComments/criticism always welcome and Clear Skies!",
+    "h": 3272,
+    "hash": "82prrs",
+    "id": 533667,
+    "imaging_cameras": [
+        "ZWO ASI 183MC Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "William Optics GTF 81 Five Element APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 323,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "347.280",
+    "pixscale": "1.118",
+    "published": "2020-10-27T22:09:58.862644",
+    "ra": "35.176",
+    "radius": "0.895",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533667/",
+    "revisions": [
+        "/api/v1/imagerevision/255858/"
+    ],
+    "subjects": [
+        "10 Per",
+        "7 chi Per",
+        "Double cluster",
+        "Misam",
+        "NGC 869",
+        "NGC 884",
+        "NGC869",
+        "NGC884",
+        "The star 7Per",
+        "chi Persei Cluster",
+        "h Persei Cluster"
+    ],
+    "title": "The Double Cluster - NGC 869 and NGC 884 (Caldwell 14)",
+    "updated": "2021-04-22T14:45:22.383897",
+    "uploaded": "2020-10-19T13:20:24.465834",
+    "url_duckduckgo": "https://www.astrobin.com/82prrs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/82prrs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/82prrs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/82prrs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/82prrs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/82prrs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/82prrs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2020/b93dd540-0c94-46e6-916a-61aec9c9703c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2020/b93dd540-0c94-46e6-916a-61aec9c9703c-1603113913.png",
+    "url_thumb": "https://www.astrobin.com/82prrs/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 1332,
+    "w": 4744
+}

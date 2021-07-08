@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "35.084",
+    "description": "This small group of galaxies around NGC 6109 were discovered by Edouard Stephan over several nights in July 1880 using the Foucault designed 31” silver on glass reflector at Marseille, The group of galaxies including NGC 6109 is also included in the WBL catalogue as number 612. It lists 10 galaxies including NGC 6105, NGC 6107, NGC 6108, NGC 6109, NGC 6110, NGC 6112, NGC 6114 and NGC 6116 as being part of the group. The group appears to be known after its brightest galaxy, NGC 6107.\r\n\r\nNGC    Surface Brightness       Major Angular Size   Minor Angular Size \t Distance Mlyr [1]\r\n\r\n\r\n6112     23.2 mag/arcsec2      \t 0.78 arcmin\t\t     0.78 arcmin\t\t459.7\r\n\r\n  \r\n\r\n6107     24.69 mag/arcsec2\t1.59 arcmin\t\t     1.02 arcmin\t\t420.5 \r\n\r\n6109\t22.81 mag/arcsec2\t1.02 arcmin\t\t      0.97 arcmin\t\t407\r\n\r\n\r\n6110\t23.16 mag/arcsec2\t0.69 arcmin\t\t      0.33 arcmin\t\t423\r\n\r\n\r\n6108\t23.44 mag/arcsec2\t0.95 arcmin\t\t      0.64 arcmin\t\t419\r\n\r\n\r\n6114\t23.36 mag/arcsec2\t0.93 arcmin\t\t       0.53 arcmin\t\t400\r\n\r\n\r\n\r\n\r\n[1] \tNASA/IPAC Extragalactic Database\r\nThe group is suspected to be about 400 million light years away.",
+    "h": 3897,
+    "hash": "xc4a0o",
+    "id": 533445,
+    "imaging_cameras": [
+        "QHY 183 Cooled Color QHY 183"
+    ],
+    "imaging_telescopes": [
+        "Celestron C9.25"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813614/"
+    ],
+    "orientation": "228.542",
+    "pixscale": "0.226",
+    "published": "2020-10-19T01:01:25.281737",
+    "ra": "244.466",
+    "radius": "0.254",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533445/",
+    "revisions": [
+        "/api/v1/imagerevision/255745/",
+        "/api/v1/imagerevision/264294/"
+    ],
+    "subjects": [
+        "NGC 6107",
+        "NGC 6108",
+        "NGC 6109",
+        "NGC 6110",
+        "NGC 6112",
+        "NGC 6114",
+        "NGC 6116"
+    ],
+    "title": "NGC 6109 group",
+    "updated": "2021-06-23T07:00:22.980256",
+    "uploaded": "2020-10-18T18:51:50.734953",
+    "url_duckduckgo": "https://www.astrobin.com/xc4a0o/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xc4a0o/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xc4a0o/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xc4a0o/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xc4a0o/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xc4a0o/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xc4a0o/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33993/2020/9b2cb0e4-e1ab-4a2f-9a0e-97e5e8c22b81.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33993/2020/9b2cb0e4-e1ab-4a2f-9a0e-97e5e8c22b81-1603048064.jpg",
+    "url_thumb": "https://www.astrobin.com/xc4a0o/0/rawthumb/thumb/",
+    "user": "Robert-StJohn",
+    "views": 107,
+    "w": 7121
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "68.120",
+    "description": "My first LRGB mosaic. By accident when I was planning the framing for the ghost vdB141 I noticed that I could do a mosaic with previously shot iris nebula! And of course, I did! This is so cool, I love mosaics!!\r\n\r\nIn the iris panel, there is 23 hours of exposure and in the ghost 15 hours so the total is 38. Because both the panels are as single images here, I will mark the exposure time as 0 so that average and total calculations won't go wrong! \r\n\r\nIris:\r\nL=240x120 s = 8 h\r\nR = 18x120 s = 6h\r\nG = 150x120s = 5h\r\nB=120x120 s = 4h\r\nGhost:\r\nL=195x2min=6,5h\r\nR=90x2min=3h\r\nG=80x2min=2h 40min\r\nB=90x2min=3h",
+    "h": 2335,
+    "hash": "jwfi8d",
+    "id": 574457,
+    "imaging_cameras": [
+        "ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO 6\" f/4 Imaging Newtonian Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "185.248",
+    "pixscale": "1.991",
+    "published": "2021-03-15T15:28:51.457741",
+    "ra": "316.916",
+    "radius": "1.237",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/574457/",
+    "revisions": [
+        "/api/v1/imagerevision/278188/",
+        "/api/v1/imagerevision/278190/",
+        "/api/v1/imagerevision/278201/"
+    ],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023"
+    ],
+    "title": "Iris and Ghost (Two-panel mosaic)",
+    "updated": "2021-05-24T18:38:43.242724",
+    "uploaded": "2021-03-15T15:09:42.801729",
+    "url_duckduckgo": "https://www.astrobin.com/jwfi8d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jwfi8d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jwfi8d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jwfi8d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jwfi8d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jwfi8d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jwfi8d/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/40092/2021/a6f602a7-eb0d-4753-9314-87ea242bf86d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/40092/2021/a6f602a7-eb0d-4753-9314-87ea242bf86d-1615821693.jpg",
+    "url_thumb": "https://www.astrobin.com/jwfi8d/0/rawthumb/thumb/",
+    "user": "erik.pirtala",
+    "views": 261,
+    "w": 3817
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-22.835",
+    "description": "The Trifid Nebula is an H II region located in Sagittarius. Its name means 'divided into three lobes'. The object is an unusual combination of an open cluster of stars; an emission nebula (the upper, red portion), a reflection nebula (the lower, blue portion) and a dark nebula (the apparent 'gaps' within the emission nebula that cause the trifurcated appearance; these are also designated Barnard 85).\r\n\r\n2x Drizzled and cropped to M20 ROI - Ha and OIII used to enhance L, R and B channels\r\nL : 20 x 120'\r\nRGB : 8 x 120' each\r\nHa : 6 x 600'\r\nOIII : 6 x 600'",
+    "h": 2874,
+    "hash": "v0o63p",
+    "id": 558654,
+    "imaging_cameras": [
+        "ASI183MM Pro ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85 edx FSQ85EDX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.685",
+    "pixscale": "1.099",
+    "published": "2021-01-16T19:40:17.024763",
+    "ra": "270.707",
+    "radius": "0.613",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558654/",
+    "revisions": [
+        "/api/v1/imagerevision/269211/"
+    ],
+    "subjects": [
+        "M 20",
+        "M 21",
+        "NGC 6514",
+        "NGC 6531",
+        "Trifid Nebula"
+    ],
+    "title": "M20 Trifid Nebula",
+    "updated": "2021-07-06T17:41:25.309068",
+    "uploaded": "2021-01-16T19:17:58.839288",
+    "url_duckduckgo": "https://www.astrobin.com/v0o63p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/v0o63p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/v0o63p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/v0o63p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/v0o63p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/v0o63p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/v0o63p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25496/2021/eaf46e5c-0205-4eb0-8c42-8df0d588149f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25496/2021/eaf46e5c-0205-4eb0-8c42-8df0d588149f-1610825002.jpg",
+    "url_thumb": "https://www.astrobin.com/v0o63p/0/rawthumb/thumb/",
+    "user": "girish_kumar77",
+    "views": 92,
+    "w": 2802
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "23.029",
+    "description": "Jellyfish nebula\r\n\r\nOptic: Vixen VSD100 at F3\r\nMount: Software Bisque Paramount MX\r\nCamera: SBIG STF8300M\r\nFilters: Baader HaOIIIRGB\r\nGuider: SBIG Sti on 60mm guidescope\r\nExposure: Ha: 24x600s OIII:16X600s RGB:12x180s each\r\nBinning: All 1x1 \r\nCalibration: Flats, Dark, Bias, DarkFlat\r\nCCD Sensor Temp: -30c\r\nDithering: YES\r\nSoftware: TheSkyX, PixInsight, Photoshop",
+    "h": 2266,
+    "hash": "noap6s",
+    "id": 558149,
+    "imaging_cameras": [
+        "SBIG STF 8300M"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD 100"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 86,
+    "link": "http://amir.torgheh.ir/picture.php?/1508/category/14",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "167.898",
+    "pixscale": "4.173",
+    "published": "2021-01-14T23:03:59.478097",
+    "ra": "95.230",
+    "radius": "2.179",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558149/",
+    "revisions": [
+        "/api/v1/imagerevision/268981/"
+    ],
+    "subjects": [
+        "Gem A",
+        "IC 443",
+        "IC 444",
+        "Part of the constellation Gemini (Gem)",
+        "The star Propus (ηGem)",
+        "The star μGem"
+    ],
+    "title": "Jellyfish",
+    "updated": "2021-04-08T11:41:29.144259",
+    "uploaded": "2021-01-14T22:59:59.106688",
+    "url_duckduckgo": "https://www.astrobin.com/noap6s/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/noap6s/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/noap6s/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/noap6s/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/noap6s/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/noap6s/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/noap6s/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29907/2021/104ded58-dc8e-4bcc-af21-c52d5092beec.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29907/2021/104ded58-dc8e-4bcc-af21-c52d5092beec-1610665535.jpg",
+    "url_thumb": "https://www.astrobin.com/noap6s/0/rawthumb/thumb/",
+    "user": "Amir.ho.abolfath",
+    "views": 169,
+    "w": 3000
+}

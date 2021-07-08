@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "13.558",
+    "description": "I was going to start processing this over the weekend and realized that I had some PN signal in my red subs. Then I realized (obviously way too late): This object definitely has an Ha signal. Argh! I'm so anxious to publish something and move on that I decided to give it only one night of Ha (last night) and just roll with what I got (of course I also had to trash a third of my Ha subs due to PEC going haywire). I don't even think it's visible in this image. I probably could have done better if I had more patience or just grabbed more Ha instead of OIII. The OIII signal was stronger than I was expecting, and five-minute subs probably would have been enough.\r\n\r\nI'm definitely in an astro funk right now. I still can't get my SharpStar working like I want to and I've been having a lot of other random issues - my EQDir cable stopped working last night, I had dew/ice on my sensor (I've taken a lot of steps to prevent that lately, but I did let the scopes run once a few nights ago when it was crazy humid out), my computer for my other setup keeps crashing, other gear not performing as expected, etc., etc. I've got some issues to hammer out over the next few days...",
+    "h": 2575,
+    "hash": "3ldmvg",
+    "id": 530623,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific PN-208/812 Carbon Fiber OTA"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 209,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "274.101",
+    "pixscale": "0.912",
+    "published": "2020-10-07T18:59:58.537701",
+    "ra": "312.509",
+    "radius": "0.545",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/530623/",
+    "revisions": [
+        "/api/v1/imagerevision/253881/"
+    ],
+    "subjects": [],
+    "title": "Abell 72 (PK 59 -18.1)",
+    "updated": "2021-06-24T20:06:57.105734",
+    "uploaded": "2020-10-07T18:56:08.104047",
+    "url_duckduckgo": "https://www.astrobin.com/3ldmvg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3ldmvg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3ldmvg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3ldmvg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3ldmvg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3ldmvg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3ldmvg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/2177b0b3-6825-412d-abba-437bcb42a82e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/2177b0b3-6825-412d-abba-437bcb42a82e-1602112979.png",
+    "url_thumb": "https://www.astrobin.com/3ldmvg/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 742,
+    "w": 3450
+}

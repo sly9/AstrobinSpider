@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "42.511",
+    "description": "2 heures en Ha\r\n1 heure par couche RGB\r\nLe 19-20-21/07/2020",
+    "h": 3321,
+    "hash": "zqy1tz",
+    "id": 526523,
+    "imaging_cameras": [
+        "QHYCCD 163M",
+        "GPU F4 Coma Corrector"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Newton 200/800 "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "86.596",
+    "pixscale": "0.981",
+    "published": "2020-09-24T08:43:40.160423",
+    "ra": "306.080",
+    "radius": "0.760",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/526523/",
+    "revisions": [
+        "/api/v1/imagerevision/251499/"
+    ],
+    "subjects": [
+        "NGC 6914"
+    ],
+    "title": "NGC6914 - VDB132 HaRGB",
+    "updated": "2021-03-16T19:53:29.123454",
+    "uploaded": "2020-09-24T09:37:49.386735",
+    "url_duckduckgo": "https://www.astrobin.com/zqy1tz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zqy1tz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zqy1tz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zqy1tz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zqy1tz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zqy1tz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zqy1tz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16376/2020/eadacf7a-ea39-470d-ac8f-63fd161813e4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16376/2020/eadacf7a-ea39-470d-ac8f-63fd161813e4-1600940664.jpg",
+    "url_thumb": "https://www.astrobin.com/zqy1tz/0/rawthumb/thumb/",
+    "user": "F83eric",
+    "views": 62,
+    "w": 4485
+}

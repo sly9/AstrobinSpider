@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-25.283",
+    "description": "",
+    "h": 2370,
+    "hash": "etk16w",
+    "id": 514188,
+    "imaging_cameras": [
+        "ZWO ASI 6200MC PRO"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 150ED ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811073/"
+    ],
+    "orientation": "94.382",
+    "pixscale": "0.928",
+    "published": "2020-08-12T15:10:40.994015",
+    "ra": "11.904",
+    "radius": "0.500",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514188/",
+    "revisions": [
+        "/api/v1/imagerevision/245222/",
+        "/api/v1/imagerevision/245224/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "NGC253",
+        "Sculptor Filament",
+        "Sculptor galaxy",
+        "Silver Coin",
+        "Other"
+    ],
+    "title": "NGC 253 - The Sculptor Galaxy",
+    "updated": "2021-03-16T22:55:50.791518",
+    "uploaded": "2020-08-12T16:10:41.889218",
+    "url_duckduckgo": "https://www.astrobin.com/etk16w/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/etk16w/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/etk16w/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/etk16w/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/etk16w/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/etk16w/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/etk16w/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23126/2020/2272ddf2-fc3b-4553-b45c-3a87838e62fb.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23126/2020/2272ddf2-fc3b-4553-b45c-3a87838e62fb-1597251377.png",
+    "url_thumb": "https://www.astrobin.com/etk16w/0/rawthumb/thumb/",
+    "user": "Fernando_Menezes",
+    "views": 158,
+    "w": 3076
+}

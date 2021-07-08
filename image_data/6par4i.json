@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "73.273",
+    "description": "Frames each 100 s:\r\nL 168\r\nR 58\r\nG 56\r\nB 41\r\n\r\ntotal: 323 x 100 s = 9.25 h\r\n\r\nProcessing:\r\n\r\nRGB:\r\n\r\nCombine using channel combination, DBE, PCC with BackgroundNeutralization, HT, ArcsinhStretch, HT, BackgroundNeutralization, Resample to match drizzle image, Curves, ACDNR\r\n\r\nLuminance:\r\n\r\nTGV, MMT, Masked Stretch, Curves, LHE\r\n\r\nCombine using LRGBCombination, Star reduction, Curcves, MLT, Curves, HT, MMT, Resample. Fix one weird looking star in gimp",
+    "h": 2185,
+    "hash": "6par4i",
+    "id": 559379,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-P"
+    ],
+    "imaging_telescopes": [
+        "TS Optics Photoline 70/420 Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812115/"
+    ],
+    "orientation": "0.215",
+    "pixscale": "3.515",
+    "published": "2021-01-19T02:12:58.112806",
+    "ra": "330.917",
+    "radius": "1.768",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559379/",
+    "revisions": [
+        "/api/v1/imagerevision/269923/"
+    ],
+    "subjects": [
+        "The star 16Cep",
+        "The star 24Cep"
+    ],
+    "title": "The Dark Shark Nebula (LDN1235)",
+    "updated": "2021-05-03T03:35:14.891985",
+    "uploaded": "2021-01-19T01:40:12.104213",
+    "url_duckduckgo": "https://www.astrobin.com/6par4i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6par4i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6par4i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6par4i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6par4i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6par4i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6par4i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/37805/2021/b62255b4-5e1f-4e14-acb5-248be592b882.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/37805/2021/b62255b4-5e1f-4e14-acb5-248be592b882-1611020800.png",
+    "url_thumb": "https://www.astrobin.com/6par4i/0/rawthumb/thumb/",
+    "user": "marcsphotography",
+    "views": 281,
+    "w": 2889
+}

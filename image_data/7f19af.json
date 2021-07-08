@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "-26.414",
+    "description": "Skull and Crossbones Nebula? I see a mushroom cloud!\r\n\r\nThis project was a particularly challenging one. Since this target never rises above 26 degrees from my backyard, it gets covered by my neighbor's house a good chunk of the night. I only had a 3-hours window every night to capture it, and toward the later part of the sessions, it can get as low as 15 degrees. And due to how low it is on the horizon, the transparency was awful and downtown's light pollution affected the subs greatly. As a result, the SNR and FWHM took a huge hit. This is also the first time I found significant gradients even in the HA and SII channels, which made post-processing trickier. Not too happy with the result just yet. Maybe I'll revisit it next year.\r\n\r\nWhy I picked this target? It was pretty much the only narrowband target up around the early part of the galaxy season 😄",
+    "h": 2500,
+    "hash": "7f19af",
+    "id": 510016,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 186,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806503/"
+    ],
+    "orientation": "90.261",
+    "pixscale": "1.542",
+    "published": "2020-07-28T04:05:27.547471",
+    "ra": "118.352",
+    "radius": "0.757",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/510016/",
+    "revisions": [
+        "/api/v1/imagerevision/243579/",
+        "/api/v1/imagerevision/243586/"
+    ],
+    "subjects": [
+        "NGC 2467"
+    ],
+    "title": "NGC 2467 - Skull and Crossbones Nebula",
+    "updated": "2021-05-14T23:24:07.731038",
+    "uploaded": "2020-07-28T04:06:31.312804",
+    "url_duckduckgo": "https://www.astrobin.com/7f19af/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7f19af/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7f19af/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7f19af/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7f19af/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7f19af/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7f19af/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20633/2020/cf96a836-eedb-4dd6-925a-4da235e3daed.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20633/2020/cf96a836-eedb-4dd6-925a-4da235e3daed-1595911197.jpg",
+    "url_thumb": "https://www.astrobin.com/7f19af/0/rawthumb/thumb/",
+    "user": "PlanetOrion",
+    "views": 952,
+    "w": 2500
+}

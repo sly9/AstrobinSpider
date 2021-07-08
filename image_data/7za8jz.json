@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-36.137",
+    "description": "NGC1365 Galaxy\r\nOfficina Stellare RiDK 700/500 - FLI PL16803 - LRGB - Obstech, Chile\r\nImage Processing:Leonardo Orazi and Mike Selby",
+    "h": 3710,
+    "hash": "7za8jz",
+    "id": 569610,
+    "imaging_cameras": [
+        "FLI PL 16803"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RiDK 700",
+        "Officina Stellare RiDK 500"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815547/"
+    ],
+    "orientation": "1.477",
+    "pixscale": "0.379",
+    "published": "2021-02-26T02:52:09.550389",
+    "ra": "53.406",
+    "radius": "0.277",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/569610/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1365",
+        "NGC1365"
+    ],
+    "title": "NGC 1365",
+    "updated": "2021-05-22T14:37:30.613965",
+    "uploaded": "2021-02-26T02:47:49.403815",
+    "url_duckduckgo": "https://www.astrobin.com/7za8jz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7za8jz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7za8jz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7za8jz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7za8jz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7za8jz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7za8jz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/96468/2021/4fa23185-390b-4618-b5a5-6906fa3d843e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/96468/2021/4fa23185-390b-4618-b5a5-6906fa3d843e-1614307920.jpg",
+    "url_thumb": "https://www.astrobin.com/7za8jz/0/rawthumb/thumb/",
+    "user": "SCObservatory",
+    "views": 193,
+    "w": 3710
+}

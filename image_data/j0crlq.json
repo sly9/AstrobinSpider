@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "69.469",
+    "description": "NGC4236\r\nL:192x2 min ASI 183 mmc gain 150 2x2 Skywatcher Quattro 10 \r\nRGB:129x3min ASI 294 mc gain 200 Skywatcher Quattro 10  \r\nTOTAL : 13h02 min",
+    "h": 1781,
+    "hash": "j0crlq",
+    "id": 483504,
+    "imaging_cameras": [
+        "ASI ZWO ASI 294MC Pro",
+        "ASI ZWO ASI 183MM-C pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810357/"
+    ],
+    "orientation": "1.569",
+    "pixscale": "0.943",
+    "published": "2020-04-30T05:50:45.107463",
+    "ra": "184.181",
+    "radius": "0.410",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483504/",
+    "revisions": [
+        "/api/v1/imagerevision/230690/"
+    ],
+    "subjects": [
+        "NGC 4236"
+    ],
+    "title": "NGC4236",
+    "updated": "2021-04-13T06:23:32.260594",
+    "uploaded": "2020-04-29T19:36:13.669724",
+    "url_duckduckgo": "https://www.astrobin.com/j0crlq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/j0crlq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/j0crlq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/j0crlq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/j0crlq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/j0crlq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/j0crlq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3620/2020/3485c41d-f962-4356-aa5e-1d18838ba1ef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3620/2020/3485c41d-f962-4356-aa5e-1d18838ba1ef-1588190318.jpg",
+    "url_thumb": "https://www.astrobin.com/j0crlq/0/rawthumb/thumb/",
+    "user": "navigator77",
+    "views": 197,
+    "w": 2573
+}

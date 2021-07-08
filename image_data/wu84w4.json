@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-2.451",
+    "description": "La nebulosa testa di cavallo (IC434) nella costellazione di Orione. L'immagine, ripresa sotto un cielo piuttosto umido e non favorevole, è stata ottenuta con la camera di ripresa ASI 183MC Pro e l'astrografo Celestron RASA 8\". Ho utilizzato un filtro Optolong L-eNhance per ottimizzare l'acquisizione del segnale \"buono\" ed abbattere quello da inquinamento luminoso. L'immagine finale è il risultato dell'integrazione di 48 scatti da 3 minuti ciascuno ad una temperatura di ripresa di -10°C. Considerata la serata sfavorevole devo dire che il segnale raccolto è più di quanto mi aspettassi.",
+    "h": 3600,
+    "hash": "wu84w4",
+    "id": 559343,
+    "imaging_cameras": [
+        "ZWO ASI 183MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 56,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807618/"
+    ],
+    "orientation": "98.896",
+    "pixscale": "1.237",
+    "published": "2021-01-18T21:45:39.036485",
+    "ra": "85.253",
+    "radius": "1.121",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559343/",
+    "revisions": [
+        "/api/v1/imagerevision/273418/"
+    ],
+    "subjects": [
+        "Flame Nebula",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "Orion B",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "IC434 - Horsehead Nebula",
+    "updated": "2021-06-26T14:19:57.435104",
+    "uploaded": "2021-01-18T21:41:15.578220",
+    "url_duckduckgo": "https://www.astrobin.com/wu84w4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wu84w4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wu84w4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wu84w4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wu84w4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wu84w4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wu84w4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1659/2021/a000f6a6-d266-4d30-9fd7-940a431c1a04.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1659/2021/a000f6a6-d266-4d30-9fd7-940a431c1a04-1611006621.jpg",
+    "url_thumb": "https://www.astrobin.com/wu84w4/0/rawthumb/thumb/",
+    "user": "Janx",
+    "views": 192,
+    "w": 5442
+}

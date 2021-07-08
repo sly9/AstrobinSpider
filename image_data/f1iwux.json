@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "62.463",
+    "description": "Sometimes called Abell 85 or LBN 576. HaOIII LRGB presentation.",
+    "h": 1582,
+    "hash": "f1iwux",
+    "id": 548251,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/"
+    ],
+    "orientation": "2.488",
+    "pixscale": "1.700",
+    "published": "2020-12-08T17:55:51.400180",
+    "ra": "359.837",
+    "radius": "0.602",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/548251/",
+    "revisions": [
+        "/api/v1/imagerevision/263711/"
+    ],
+    "subjects": [],
+    "title": "CTB 1",
+    "updated": "2021-02-26T16:38:29.826745",
+    "uploaded": "2020-12-08T17:18:49.510117",
+    "url_duckduckgo": "https://www.astrobin.com/f1iwux/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f1iwux/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f1iwux/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f1iwux/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f1iwux/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f1iwux/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f1iwux/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7649/2020/793ddb42-1497-41cd-9edd-26d3c5255cae.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7649/2020/793ddb42-1497-41cd-9edd-26d3c5255cae-1607451780.png",
+    "url_thumb": "https://www.astrobin.com/f1iwux/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 135,
+    "w": 2000
+}

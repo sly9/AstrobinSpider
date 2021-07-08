@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.202",
+    "description": "Object : ngc 7635\r\nDate : Oct.2018-Jan.2019 \r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon Ha , Oiii, Sii\r\nExposure : Ha 1200sx11, Oiii 1200s x12 , Sii 1200s x13 (12hr)\r\nGuiding  :Borg 50/ asi174 ,\r\nProcessing:  PI、PS-CC",
+    "h": 2212,
+    "hash": "ib0z7f",
+    "id": 515766,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "https://astro-noodle.blogspot.com/2020/08/ngc-7635hubble-palette.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "358.884",
+    "pixscale": "0.669",
+    "published": "2020-08-18T08:34:33.598468",
+    "ra": "350.158",
+    "radius": "0.263",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/515766/",
+    "revisions": [],
+    "subjects": [
+        "Bubble Nebula",
+        "Bubble nebula",
+        "NGC 7635",
+        "NGC7635",
+        "Sh2-162"
+    ],
+    "title": "ngc 7635/hubble palette",
+    "updated": "2021-07-01T03:09:56.308936",
+    "uploaded": "2020-08-18T09:34:34.048503",
+    "url_duckduckgo": "https://www.astrobin.com/ib0z7f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ib0z7f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ib0z7f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ib0z7f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ib0z7f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ib0z7f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ib0z7f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/09d80f60-4c0f-4261-9ac3-9102900aa55e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/09d80f60-4c0f-4261-9ac3-9102900aa55e-1597744481.png",
+    "url_thumb": "https://www.astrobin.com/ib0z7f/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 508,
+    "w": 1756
+}

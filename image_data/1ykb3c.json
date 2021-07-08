@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "-4.421",
+    "description": "Here is the catch on the morning of May 6. A race against the clock between the setting of the moon to benefit from a sufficiently dark sky and the rising of the sun. 40 minutes of exposure with RGB filters. It was the last opportunity to be able to take it like this during this phase of the moon. It seems to decrease in intensity although still brilliant, so we do not know if we will find it still majestic thereafter.\r\n\r\nPI Workflow used for processing with the best 40 RGB frames (background sky) between 5 and 6h15 AM\r\n\r\nCometAlignment for comet-only image\r\nImageIntegration with comet aligned images (c_d_r_ca)\r\nCometAlignment again with registered images for stars-only image\r\nImageIntegration with stars-only images (c_d_r_stars)\r\nCombine comet-only and stars-only images for RGB\r\nCombine comet-only super Luminance using BLue anf Green frames\r\nABE/DBE, BackgroundNeutralitation, ColorCalibration on RGB image\r\nAdding Luminance to RGB using mask for details enhancement",
+    "h": 2872,
+    "hash": "1ykb3c",
+    "id": 485954,
+    "imaging_cameras": [
+        "QHYCCD QHY600"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iHW"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 59,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812541/"
+    ],
+    "orientation": "180.426",
+    "pixscale": "1.261",
+    "published": "2020-05-07T03:25:02.179199",
+    "ra": "6.965",
+    "radius": "0.868",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/485954/",
+    "revisions": [],
+    "subjects": [
+        "The star 12Cet",
+        "Comet"
+    ],
+    "title": "C/2020 F8 (SWAN)",
+    "updated": "2021-03-17T02:22:57.475142",
+    "uploaded": "2020-05-07T04:25:02.805279",
+    "url_duckduckgo": "https://www.astrobin.com/1ykb3c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1ykb3c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1ykb3c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1ykb3c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1ykb3c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1ykb3c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1ykb3c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12231/2020/9190cd80-c5c5-4e68-b687-64138897fd14.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12231/2020/9190cd80-c5c5-4e68-b687-64138897fd14-1588825898.png",
+    "url_thumb": "https://www.astrobin.com/1ykb3c/0/rawthumb/thumb/",
+    "user": "patdufour",
+    "views": 264,
+    "w": 4041
+}

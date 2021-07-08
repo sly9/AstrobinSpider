@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "15.828",
+    "description": "Thanks to the Hubble team's image showing the before and after of the installation of COSTAR (Corrective Optics Space Telescope Axial Replacement) using this target, M100 has always reminded me that even seemingly insurmountable mistakes can be fixed. Looking at Hubble's wildly successful legacy these past 30 years, people often forget just how bad things looked when the first Hubble images showing spherical aberration started to come in. If you haven't read \"The Universe in a Mirror: The Saga of the Hubble Space Telescope and the Visionaries Who Built It\" by Robert Zimmerman, I highly recommend it - (in addition to everything else) it lays out exactly what went wrong, how the issue was solved and even what the astronauts in STS-61 went through in order to install it. And if you haven't seen the before and after (and after) images of M100, you can find them <a href=https://spacetelescope.org/images/potw1850b/>here</a>.\r\n\r\nI'm still trying to finish up galaxy season - I don't know what I was thinking, but I took on 12 galaxy season targets. Even with two scopes, it's proving a little challenging. Anyway, M100 marks nine down and three to go. I might actually have some clear skies tonight and tomorrow night. If the forecast holds and I can manage to use those hours effectively, the RC will be coming down and I'll be putting up a new scope later this month. Wish me luck!",
+    "h": 3630,
+    "hash": "nfdaab",
+    "id": 496925,
+    "imaging_cameras": [
+        "QHYCCD 183"
+    ],
+    "imaging_telescopes": [
+        "TPO/GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "270.837",
+    "pixscale": "0.427",
+    "published": "2020-06-12T16:01:06.525979",
+    "ra": "185.732",
+    "radius": "0.389",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/496925/",
+    "revisions": [
+        "/api/v1/imagerevision/237727/"
+    ],
+    "subjects": [
+        "M 100",
+        "NGC 4312",
+        "NGC 4321",
+        "NGC 4323",
+        "NGC 4328"
+    ],
+    "title": "M100 (Blowdryer/Mirror Galaxy)",
+    "updated": "2021-06-28T20:52:32.733441",
+    "uploaded": "2020-06-12T15:23:50.395104",
+    "url_duckduckgo": "https://www.astrobin.com/nfdaab/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nfdaab/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nfdaab/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nfdaab/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nfdaab/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nfdaab/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nfdaab/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/9953e461-f6b4-4bcd-8fce-bd03489c6d64.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/9953e461-f6b4-4bcd-8fce-bd03489c6d64-1593275521.png",
+    "url_thumb": "https://www.astrobin.com/nfdaab/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 759,
+    "w": 5447
+}

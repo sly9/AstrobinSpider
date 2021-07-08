@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "73.098",
+    "description": "This is a slightly reprocessed version of my 2017 image (in the link) of the Shark Nebula, LDN 1235 with improved contrast of the nebula against the star background.  I experimented with Starnet but rejected it in favor of the 'old fashion' way:  just MT and CT in PI 1.8.8-8.\r\n\r\nA molecular cloud (LBN535) in Cepheus includes LDN1235, the eye of the shark, and two reflection nebula, VdB 150 (upper) and 149 (lower). The Shark Nebula complex is composed of interstellar gas and dust illuminated by UV radiation. It spans about 15 ly and is 650 ly away. “Gravitationally recondensing massive stars may carve intricate [temporary] structures into their birth cloud using their high energy light and fast stellar winds as sculpting tools… Humans enjoy imagining these great clouds as common icons, like we do for water clouds on Earth.” (APOD 2015 Sept 7 write-up).\r\nTaken at D.A.R.C. Obs., Mercey Hot Springs, CA, 10/21/17.\r\n\r\nFrames:\r\nAstrodon Gen2E Lum: 17x600\" (2h 50') -30C bin 1x1\r\nAstrodon Gen2E RGB: 17x600\" (2h 50') -30C bin 1x1\r\nIntegration: 5h 40'\r\nMean SQM: 21.28",
+    "h": 1287,
+    "hash": "xocdbj",
+    "id": 599507,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 130/780 f/6 LW CNC II 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "https://www.astrobin.com/320393/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.316",
+    "pixscale": "3.494",
+    "published": "2021-06-23T04:11:01.953833",
+    "ra": "332.019",
+    "radius": "1.045",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599507/",
+    "revisions": [
+        "/api/v1/imagerevision/292536/"
+    ],
+    "subjects": [
+        "The star 16Cep"
+    ],
+    "title": "LDN 1235 Shark Nebula Redux",
+    "updated": "2021-07-01T19:14:50.861951",
+    "uploaded": "2021-06-23T03:44:18.950660",
+    "url_duckduckgo": "https://www.astrobin.com/xocdbj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xocdbj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xocdbj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xocdbj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xocdbj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xocdbj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xocdbj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6912/2021/0b367a48-34f5-44d5-b364-4de8069c4120.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6912/2021/0b367a48-34f5-44d5-b364-4de8069c4120-1624420776.jpg",
+    "url_thumb": "https://www.astrobin.com/xocdbj/0/rawthumb/thumb/",
+    "user": "jeffweiss9",
+    "views": 161,
+    "w": 1726
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "15.777",
+    "description": "This is an experimental image, with RGB stars, extracted from SHO channels.\r\nNormally folks take RGB signal for stars using RGB filters, or just leave the stars white.\r\nI did not see anyone using the technique I used for this image, where star colors are extracted from SHO channels, calibrated using PhotoMetricCalibation, and then applied to regular SHO image.\r\nHere is the process I used to get this result:\r\n\r\n\r\n1.  Process linear SHO channels as usual - MureDenoise, EZ Deconv, EZ Denoise\r\n2.  While SHO are linear, combine into SHO linear image, which will be used for star colors\r\n3.  Run Regular SHO process:\r\n    1.  Stretch SHO channels using Masked Stretch with same background level\r\n    2.  Run StarNet on SO channels\r\n    3.  Use clone stamp to remove leftovers of large stars\r\n    4.  Run aggressive Morphological Transformation with Morphological Median, shape circle, radius 15 to remove leftovers of all stars in SO channels\r\n    5.  Combine SHO\r\n    6.  Process SHO as usual with curves and SCNR, which will remove green from stars\r\n    7.  Remove purple by doing invert, SCNR, invert\r\n4.  With Linear  SHO:\r\n    1.  run PhotometricColorCalibration\r\n    2.  Remove purple by doing invert, SCNR, invert\r\n    3.  Remove green using SCNR\r\n    4.  Apply convolution couple of times to remove any uneven colors\r\n    5.  Stretch using Arcsinh\r\n    6.  Extract H and Sv using ChannelExtraction\r\n5.  Apply star colors from color calibrated SHO:\r\n    1.  Create star mask from SHO using StarNet\r\n    2.  Apply star mask to SHO\r\n    3.  Apply ChannelCombination on top of SHO in HSV mode, while supplying H and Sv from point 4.6\r\n    4.  May have to run previous point few times to get richer color",
+    "h": 2407,
+    "hash": "nfqyhl",
+    "id": 573400,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f8 RC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2797904/"
+    ],
+    "orientation": "176.171",
+    "pixscale": "0.762",
+    "published": "2021-03-12T01:52:44.268333",
+    "ra": "92.201",
+    "radius": "0.414",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573400/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Lower's nebula with RGB stars, extracted from SHO channels",
+    "updated": "2021-06-04T21:11:47.456020",
+    "uploaded": "2021-03-12T01:36:33.429630",
+    "url_duckduckgo": "https://www.astrobin.com/nfqyhl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nfqyhl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nfqyhl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nfqyhl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nfqyhl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nfqyhl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nfqyhl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/162/2021/3a3e46ee-2b0b-4fdf-b08b-b539ec7120d4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/162/2021/3a3e46ee-2b0b-4fdf-b08b-b539ec7120d4-1615513837.jpg",
+    "url_thumb": "https://www.astrobin.com/nfqyhl/0/rawthumb/thumb/",
+    "user": "avarakin",
+    "views": 144,
+    "w": 3082
+}

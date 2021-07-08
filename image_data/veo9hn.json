@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.170",
+    "description": "M106 and NGC 4217 are featured in this field, but NGC 4248, NGC 4231, NGC 4232, NGC 4226 also show up on the plate solve.  And, I see at least 8 other distance galaxies in the field. M106 is 22 to 35 million light-years away and is similar in size to the Andromeda Galaxy. NGC 4217 is listed as 60 million light-years away but also as a possible companion of M106. \r\n\r\nI started this image in my backyard, but then took my rig to my dark sky site while spending the Memorial Day weekend working on my observatory. In the end, I ended up throwing out my backyard data. I accidentally allowed a small rotation between my backyard data and dark site data which would have necessitated more of a crop than I wanted. Also, the dark site data was so good, I visually couldn't see any improvement from including the backyard data. \r\n\r\nI like the larger colorful stars near NGC 4217. As a group, they do a good job balancing M106. They were also especially challenging for me to process. The ASI-1600 Pro Mono is a great camera but the micro-lensing artifacts are the biggest drawback. I did come up with a decent process for reducing the impact of these artifacts. I create a mask around the whole star including the micro-lensing artifact. I then subtract another mask containing the star core and stars within the artifact. I invert this, isolating the artifact from the good data and then I use MMT to negatively bias the layers that contribute to the artifact. This allows me to de-emphasize the distracting parts while maintaining the general star spike shape.\r\n\r\nAcquisition Details:\r\n180 sec sub taken 5-23-2020 and 5-24-2020\r\nRed: 74\r\nGreen: 74\r\nBlue: 74",
+    "h": 3282,
+    "hash": "veo9hn",
+    "id": 497697,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX 130T"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806605/"
+    ],
+    "orientation": "224.587",
+    "pixscale": "0.863",
+    "published": "2020-06-16T02:33:04.898722",
+    "ra": "184.261",
+    "radius": "0.664",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/497697/",
+    "revisions": [
+        "/api/v1/imagerevision/237684/"
+    ],
+    "subjects": [
+        "M 106",
+        "M106",
+        "NGC 4217",
+        "NGC 4226",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258",
+        "NGC4217",
+        "NGC4226",
+        "NGC4231",
+        "NGC4232",
+        "NGC4248"
+    ],
+    "title": "M106 and NGC4217",
+    "updated": "2021-04-07T09:07:37.946233",
+    "uploaded": "2020-06-15T13:59:27.983813",
+    "url_duckduckgo": "https://www.astrobin.com/veo9hn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/veo9hn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/veo9hn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/veo9hn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/veo9hn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/veo9hn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/veo9hn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15584/2020/4626e33e-e4df-4583-b184-d57dc807bf70.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15584/2020/4626e33e-e4df-4583-b184-d57dc807bf70-1592229803.jpg",
+    "url_thumb": "https://www.astrobin.com/veo9hn/0/rawthumb/thumb/",
+    "user": "andrewjbarton",
+    "views": 117,
+    "w": 4467
+}

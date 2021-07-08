@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.023",
+    "description": "The target has a big eternal 'Y' that anyone of us would be lured to ask. I learned there is an 'X' as well but I would choose to confirm first.\r\nThis is my first target at the remote dark site. It was supposed to be a test of various exposures but I never made it to process until now. The data is definitely insufficient but I tried hard to do the best I can. I was just too excited to start image my other favorite ones once everything was setup running. When I found more data is required weeks / months later to bring out more details, it was already too low over the horizon to finish in this season.\r\nTechnic-wise, I followed Adam Block's blending trick to add Ha to the red layer to bring out the long tail of the Squid (ou4) nest (Sh2-129) right before the swimming dragon (B150). For the stars, I did HSV repair and first time applied them on an RGB target. It's more challenging than the narrowband pictures as RGB stars as base are always much larger.\r\nThis is also the first processing of the data based on the FSQ106 FOV. The color separation issue is much lighter than I expected.\r\n\r\n<br>\r\n<I>#TeamNoctuaDSNM</I>",
+    "h": 3173,
+    "hash": "apnzwp",
+    "id": 561122,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814874/"
+    ],
+    "orientation": "42.271",
+    "pixscale": "2.913",
+    "published": "2021-01-29T13:23:29.434748",
+    "ra": "312.597",
+    "radius": "2.314",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/561122/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Barnard 150 (LDN 1082) - A Tailgating Dragon",
+    "updated": "2021-07-06T08:48:12.524248",
+    "uploaded": "2021-01-25T06:02:24.601010",
+    "url_duckduckgo": "https://www.astrobin.com/apnzwp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/apnzwp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/apnzwp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/apnzwp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/apnzwp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/apnzwp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/apnzwp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25460/2021/bf4e5af1-94d9-4846-a105-20b37d2b9e14.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25460/2021/bf4e5af1-94d9-4846-a105-20b37d2b9e14-1611925183.jpg",
+    "url_thumb": "https://www.astrobin.com/apnzwp/0/rawthumb/thumb/",
+    "user": "nodustab",
+    "views": 341,
+    "w": 4759
+}

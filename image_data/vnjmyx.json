@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "47.176",
+    "description": "This is a combination of  2 nights of data, the first night was doing just 180s exposures, I wasn't happy with the results so I added more data a week later going for 300s exposures. More time, much better results.\r\n\r\nRevision C was with APP\r\nRevision D was with Pixinsight",
+    "h": 2200,
+    "hash": "vnjmyx",
+    "id": 487907,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics ZenithStar 126"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809725/"
+    ],
+    "orientation": "356.996",
+    "pixscale": "1.221",
+    "published": "2020-05-15T04:44:17.320306",
+    "ra": "202.526",
+    "radius": "0.617",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/487907/",
+    "revisions": [
+        "/api/v1/imagerevision/233115/",
+        "/api/v1/imagerevision/234129/",
+        "/api/v1/imagerevision/271097/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M51: The Whirlpool Galaxy",
+    "updated": "2021-03-17T02:12:10.847248",
+    "uploaded": "2020-05-15T05:44:18.112514",
+    "url_duckduckgo": "https://www.astrobin.com/vnjmyx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vnjmyx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vnjmyx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vnjmyx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vnjmyx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vnjmyx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vnjmyx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29477/2020/7bd9e190-98c0-4328-91f1-4c2cb9659354.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29477/2020/7bd9e190-98c0-4328-91f1-4c2cb9659354-1589550665.jpg",
+    "url_thumb": "https://www.astrobin.com/vnjmyx/0/rawthumb/thumb/",
+    "user": "blade71",
+    "views": 113,
+    "w": 2894
+}

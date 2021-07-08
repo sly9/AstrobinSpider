@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "22.019",
+    "description": "I have been collecting data (Ha, O3, RGB) for this target for the last two months, when the sky was clear of clouds and rain and this is the 4th and final for this year (I think!) rendition using all data:\r\n6 Hours of RGB data, \r\n8 Hours of Ha and\r\n8 hours of O3 data.\r\nHa and O3 data has been used to enrich the RGB colour channels. \r\nA blended monochrome L has been synthesised from all data.\r\n\r\nRevision B: The original RGB image: Hover mouse over to compare.\r\nRevision C: An animated image indicating the position and the dynamic interaction of the Pulsar PSR B0531+21. (The underlay is a composite image of the Crab Nebula from Chandra, Hubble and Spitzer )\r\nRevision D: A cropped image",
+    "h": 2000,
+    "hash": "yijuwk",
+    "id": 559866,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "269.490",
+    "pixscale": "0.709",
+    "published": "2021-01-20T21:48:13.484109",
+    "ra": "83.629",
+    "radius": "0.331",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/559866/",
+    "revisions": [
+        "/api/v1/imagerevision/269853/",
+        "/api/v1/imagerevision/269855/",
+        "/api/v1/imagerevision/269856/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "M1 The Crab Nebula (RGB-HOO)",
+    "updated": "2021-04-20T07:18:10.160012",
+    "uploaded": "2021-01-20T20:51:48.834681",
+    "url_duckduckgo": "https://www.astrobin.com/yijuwk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yijuwk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yijuwk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yijuwk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yijuwk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yijuwk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yijuwk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2021/4618bdf2-7e44-4490-929c-0973f46fc760.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2021/4618bdf2-7e44-4490-929c-0973f46fc760-1611179051.png",
+    "url_thumb": "https://www.astrobin.com/yijuwk/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 296,
+    "w": 2700
+}

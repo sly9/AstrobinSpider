@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "59.350",
+    "description": "",
+    "h": 2425,
+    "hash": "tr2si6",
+    "id": 490058,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "359.796",
+    "pixscale": "0.939",
+    "published": "2020-05-21T20:00:04.138550",
+    "ra": "234.661",
+    "radius": "0.532",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490058/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5976",
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985"
+    ],
+    "title": "Draco Triplet",
+    "updated": "2021-03-17T02:00:19.730945",
+    "uploaded": "2020-05-21T21:00:04.421914",
+    "url_duckduckgo": "https://www.astrobin.com/tr2si6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tr2si6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tr2si6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tr2si6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tr2si6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tr2si6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tr2si6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2020/10edd60b-8a3c-4b41-86aa-b537a06533db.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8751/2020/10edd60b-8a3c-4b41-86aa-b537a06533db-1590095025.jpg",
+    "url_thumb": "https://www.astrobin.com/tr2si6/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 87,
+    "w": 3283
+}

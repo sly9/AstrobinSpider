@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.358",
+    "description": "This image field is essentially IC1848  as a cluster plus nebulosity object (AKA Sharpless 2-199). This objects common name is the \"Soul Nebula\" - it is a part of the larger \"Heart and Soul\" complex. (The nearby \"Heart Nebula\" is IC 1805.)  It is a  star forming region of emission nebulosity in the constellation of Cassiopeia. The star cluster portion of IC1848 is smaller in terms of its angular area and is also known as star cluster Collinder 32. Other open star clusters in this image are SAI 23 and Collinder 34. Collinder 33 is also in this image but rather than a true structural open cluster, it is a \"cluster of stars\"\".  Emission nebulae LBN 670, 673, and LBN 669 (AKA Sharpless 2-198). There are regions of dark nebulae as well.  These object and some of the brighter stars are seen in the <a href=\"http://www.jthommes.com/Astro/images/IC1848_FSQ_PI1_PS1_Crp_annotated.jpg\">annotated</a> image.  The Horizontal FOV is 120'. Image scale of the full size image is 2.4 arcsec/pix.",
+    "h": 2250,
+    "hash": "s3mo0x",
+    "id": 563073,
+    "imaging_cameras": [
+        "ATIK383L+"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "http://www.jthommes.com/Astro/IC1848--SH2-199.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "1.052",
+    "pixscale": "2.354",
+    "published": "2021-02-03T05:24:34.940061",
+    "ra": "43.609",
+    "radius": "1.226",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/563073/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "IC 1848 / Sh2-199 in Cassiopeia",
+    "updated": "2021-02-07T11:56:31.076444",
+    "uploaded": "2021-02-03T05:12:02.170385",
+    "url_duckduckgo": "https://www.astrobin.com/s3mo0x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s3mo0x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s3mo0x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s3mo0x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s3mo0x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s3mo0x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s3mo0x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2021/ff4d3a2f-616a-4b00-93b6-d4b32829b8a5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2021/ff4d3a2f-616a-4b00-93b6-d4b32829b8a5-1612329807.jpg",
+    "url_thumb": "https://www.astrobin.com/s3mo0x/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 71,
+    "w": 3000
+}

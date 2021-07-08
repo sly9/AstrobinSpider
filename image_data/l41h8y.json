@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 29,
+    "data_source": "BACKYARD",
+    "dec": "62.035",
+    "description": "Well...my QHY600M camera is still down, so I decided to connect my ASI1600MMPro to the TOA-130.  Honestly, this image came out much better than I was expecting.  I brought the gain down a bit and increased my exposure time.  When I saw the first frames I thought the glow along the right side was going to totally obscure the faint nebulosity there, but I was surprised that the cal frames were able to bring it all back.\r\n\r\nMuch happier with this version than my previous attempt using my SCT.",
+    "h": 3490,
+    "hash": "l41h8y",
+    "id": 540497,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool Pro ZWO ASI1600MM-Pro Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130NFB"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810494/"
+    ],
+    "orientation": "359.919",
+    "pixscale": "0.783",
+    "published": "2020-11-13T17:22:36.434359",
+    "ra": "36.818",
+    "radius": "0.629",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/540497/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC1795",
+        "NGC 896",
+        "NGC896"
+    ],
+    "title": "IC1795 - Fish head nebula",
+    "updated": "2021-04-28T23:08:19.887693",
+    "uploaded": "2020-11-13T17:16:11.707354",
+    "url_duckduckgo": "https://www.astrobin.com/l41h8y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l41h8y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l41h8y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l41h8y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l41h8y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l41h8y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l41h8y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31444/2020/cff93d03-4f8c-431e-83a2-226b2bf5e9f9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31444/2020/cff93d03-4f8c-431e-83a2-226b2bf5e9f9-1605288267.jpg",
+    "url_thumb": "https://www.astrobin.com/l41h8y/0/rawthumb/thumb/",
+    "user": "tim@the-hutchison-family.net",
+    "views": 237,
+    "w": 4616
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.441",
+    "description": "Reprocessed data from 2017",
+    "h": 3700,
+    "hash": "7ujqui",
+    "id": 484254,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.602",
+    "pixscale": "1.236",
+    "published": "2020-05-01T20:48:32.778855",
+    "ra": "343.988",
+    "radius": "0.898",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/484254/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-155",
+    "updated": "2021-03-21T09:55:13.933272",
+    "uploaded": "2020-05-01T21:48:33.043790",
+    "url_duckduckgo": "https://www.astrobin.com/7ujqui/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7ujqui/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7ujqui/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7ujqui/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7ujqui/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7ujqui/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7ujqui/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/f842a22b-39c7-4923-983f-e6343a2433ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/f842a22b-39c7-4923-983f-e6343a2433ca-1588372121.jpg",
+    "url_thumb": "https://www.astrobin.com/7ujqui/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 365,
+    "w": 3700
+}

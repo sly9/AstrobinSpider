@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "35.362",
+    "description": "The Tulip Nebula designated as Sh2-101 is a hydrogen emission nebula located 6000 light years away in the constellation Cygnus the Swan. This region is also home to the first stellar mass black hole discovered, Cygnus X-1. You can't see Cygnus X-1, but you can see its effect on its dusty surroundings. The blue OIII arc, top center, is the bow shock produced by a relativistic jet emitted from Cygnus X-1 colliding with the interstellar medium (ISM). \r\n\r\nThe APOD in the following link provides a nice roll-over, graphical annotation of this configuration: https://apod.nasa.gov/apod/ap090608.html \r\n\r\nThe relativistic jet appears to be emanating from star hd226868, a blue super giant variable. But, this giant is the companion of Cygnus X-1 which orbits it at 0.2AU. Matter siphoned off from the star forms an accretion disc around the black hole. This material is heated to millions of degrees, some of which escapes in jets perpendicular to the accretion disc. The ISM is not as thick on the opposite side of the black hole, so you don't see a corresponding bow shock in my image. \r\n\r\nI chose to image the Tulip in narrow band hoping detect the black hole bow shock. I used a custom narrow band mix from Steve Milne that I find fairly natural looking. The formula for the mix is:\r\n\r\nR:  0.5Ha + 0.5SII\r\nG: 0.15Ha + 0.85OIII\r\nB: OIII\r\n\r\nI took this data over several nights from 6/16/2020 to 6/23/2020. On the night of 6/12, my wife and I were watching a thunderstorm in the mountains behind our house in which there were several very close ground strikes. Those lighting strikes became the Bighorn fire in Tucson and have burned 107,000 acres so far. While the winds were out of the south, I was able to image. But when the winds shifted to the north the smoke blew into the Tucson Valley. So the above data was taken while dodging wild fire smoke. At one time we had packed up to be ready to flee the fires. Luckily we didn't have to evacuate. So far the forest service has done a great job managing the fire and no dwellings have been destroyed. If my version of the Tulip looks a bit fiery, now you know why ; )\r\n\r\nI grew up reading Astronomy magazine with its speculation that Cygnus X-1 would be considered the first discovered black hole. This was a time when quasars were mystery objects and not know to be active galactic nuclei (AGN) powered by super massive black holes. Cygnus X-1 inspired a Rush song in two parts: Cygnus X-1 Book 1, The Voyage on \"A Farewell to Kings\" and Book 2, Hemispheres on the Hemispheres album of which I was a big fan. Cygnus X-1 represents the confluence of my teenage interests in astronomy, science fiction and music.",
+    "h": 4621,
+    "hash": "2jxkon",
+    "id": 501763,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Stellarvue SVX 130T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804732/"
+    ],
+    "orientation": "101.135",
+    "pixscale": "0.862",
+    "published": "2020-06-30T04:18:59.080947",
+    "ra": "299.968",
+    "radius": "0.695",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/501763/",
+    "revisions": [],
+    "subjects": [
+        "B144",
+        "Sh2-101"
+    ],
+    "title": "Tulip Nebula in Narrow Band with Cygnus X-1 Bow Shock",
+    "updated": "2021-06-14T03:11:44.149921",
+    "uploaded": "2020-06-30T02:06:55.889324",
+    "url_duckduckgo": "https://www.astrobin.com/2jxkon/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2jxkon/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2jxkon/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2jxkon/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2jxkon/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2jxkon/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2jxkon/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15584/2020/c43313a9-e77c-4460-8c6b-729f7df2c7d7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15584/2020/c43313a9-e77c-4460-8c6b-729f7df2c7d7-1593815836.jpg",
+    "url_thumb": "https://www.astrobin.com/2jxkon/0/rawthumb/thumb/",
+    "user": "andrewjbarton",
+    "views": 396,
+    "w": 3520
+}

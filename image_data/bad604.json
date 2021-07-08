@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 13,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-30.291",
+    "description": "The 35 hours exposure of the four faint jets coming from the center of NGC 1097.\r\n\r\nRA: 02h 47m 11.20s\r\nDEC: -30º 11' 24.4\"\r\nLocation: Fornax\r\nDistance: 45 Mly\r\nMagnitude: 9.5\r\n\r\nAcquisition November 2019\r\nTotal acquisition time of 35.2 hours.\r\n\r\nPlanewave CDK17\r\nTechnical Details\r\nData acquisition:  Martin PUGH\r\nProcessing: Nicolas ROLLAND\r\nLocation: El Sauce Observatory, Rio Hurtado, Chile\r\nAcquisition November 2019\r\nL 42 x 1200 sec\r\nR 15 x 1200 sec\r\nG 17 x 1200 sec\r\nB 15 x 1200 sec\r\nHa 11 x 1800 sec\r\nOptics: Planewave 17“ CDK @ F6.8\r\nMount: Paramount ME\r\nCCD: SBIG STXL-11002 (AOX)\r\nPre Processing: CCDstack & Pixinsight\r\nPost Processing: Photoshop CC",
+    "h": 2426,
+    "hash": "bad604",
+    "id": 521822,
+    "imaging_cameras": [
+        "SBIG STXL-11002"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK 17\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "https://www.flickr.com/photos/nicolasrollandastro/50322669108/in/dateposted-public/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "22.114",
+    "pixscale": "0.633",
+    "published": "2020-09-09T13:09:39.788927",
+    "ra": "41.578",
+    "radius": "0.367",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/521822/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1097",
+        "NGC1097"
+    ],
+    "title": "NGC 1097 and the four jets",
+    "updated": "2021-07-05T04:22:09.734306",
+    "uploaded": "2020-09-09T14:09:39.973535",
+    "url_duckduckgo": "https://www.astrobin.com/bad604/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bad604/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bad604/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bad604/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bad604/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bad604/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bad604/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22464/2020/efe4cfce-2ef5-44d9-98c5-00554584ac35.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22464/2020/efe4cfce-2ef5-44d9-98c5-00554584ac35-1599661053.jpg",
+    "url_thumb": "https://www.astrobin.com/bad604/0/rawthumb/thumb/",
+    "user": "Llama",
+    "views": 344,
+    "w": 3391
+}

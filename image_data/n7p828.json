@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "-11.621",
+    "description": "Français/English\r\n\r\nL:200*120sec\r\nRVB:3x30x120sec\r\n\r\nMerci à julastro qui m'a donné sa couche couleur pour réhausser la RVB qui était un peu pâle. Il aurait fallu facilement le double de temps (voir le triple) pour cette couche RVB. \r\nsa galerie: https://www.astrobin.com/users/julastro/\r\nSa version de M104: https://www.astrobin.com/401958/?nc=user\r\n\r\nM104 appelé la galaxie du sombréro est située dans la constellation de la vierge donc sous l'écliptique, ce qui rend son acquisition assez difficile car elle est basse sur l'horizon donc peu de temps pour l'acquisition et davantage soumise à la turbulence. 3 nuits ont été nécessaire pour l'acquisition.\r\nCe que je trouve caractéristique dans cette galaxie (notamment sur la version de Hubble), c'est la présence d'\"un halo dans le halo\". Même si c'est subtil.\r\nimage originale: M104\r\nimage R: crop \r\nimage L: animation Gif sur un astéroïde que j'ai observé pendant une nuit de session sur M104 ou la galaxie du sombrero.\r\nIl s'agit de l’astéroïde (4998) Kabashima de la ceinture principale. Il fut découvert en 1986 à Toyota.\r\nimage M: mise en évidence du masque pour \"le halo dans le halo\"\r\n--------------------------------------------------------------------------------------------------------------------------------------\r\n\r\nThanks to Julastro who gave me his color layers to enhance the RGB which was a little pale. It would have easily taken twice the time (even triple time) for this RGB layer.\r\nhis galery: https://www.astrobin.com/users/julastro/\r\nhis version of M104: https://www.astrobin.com/401958/?nc=user\r\n\r\nM104 called the sombrero galaxy is located in the constellation Virgo therefore under the ecliptic, which makes its acquisition quite difficult because it is low on the horizon so little time for acquisition and more subject to turbulence. 3 nights were necessary for the acquisition.\r\nWhat I find characteristic in this galaxy (especially on the Hubble version) is the presence of \"a halo in the halo\". Even if it's subtle.\r\noriginal image: M104\r\nimage R: crop\r\nimage L: Gif animation on an asteroid that I observed during a night session on M104 or the sombrero galaxy.\r\nIt is the asteroid (4998) Kabashima of the main belt. It was discovered in 1986 at Toyota.\r\nimage M: highlighting of the mask for \"the halo in the halo\"",
+    "h": 2860,
+    "hash": "n7p828",
+    "id": 482785,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 9.25"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 192,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "278.250",
+    "pixscale": "0.473",
+    "published": "2020-04-28T13:48:55.237403",
+    "ra": "189.997",
+    "radius": "0.332",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482785/",
+    "revisions": [
+        "/api/v1/imagerevision/230235/",
+        "/api/v1/imagerevision/230241/",
+        "/api/v1/imagerevision/230251/"
+    ],
+    "subjects": [
+        "M 104",
+        "NGC 4594",
+        "Sombrero Galaxy"
+    ],
+    "title": "M104-la galaxie du sombréro",
+    "updated": "2021-05-17T07:44:32.076833",
+    "uploaded": "2020-04-27T21:43:44.290143",
+    "url_duckduckgo": "https://www.astrobin.com/n7p828/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/n7p828/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/n7p828/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/n7p828/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/n7p828/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/n7p828/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/n7p828/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2020/0ce0e5f3-8489-4a7f-81d8-3348ee1fc791.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2020/0ce0e5f3-8489-4a7f-81d8-3348ee1fc791-1588072906.png",
+    "url_thumb": "https://www.astrobin.com/n7p828/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 825,
+    "w": 4164
+}

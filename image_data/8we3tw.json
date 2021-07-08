@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.824",
+    "description": "IC1396 is a patch of emission and dark nebula in Cepheus, which we also usually noticed in wide angle shots even in the silver halide era.  The challenge to capture it nowadays, is because of its large size, require larger sensor to cover.  I took this attempt to image part of it with a short focal length astrograph and ICX814 cooled camera, framing the Elephant’s Trunk and B161 together in one single shot.\r\n\r\nI blended Hα with RGB, to give a higher contrast and saturation of this complex nebula.  I also took Luminance, and may blend it with the HαRGB in the future, but from my experience, applying Luminance to HαRGB may reduce the saturation of nebula.\r\n\r\nPerhaps when chance is allowed next year, to do a 6 panels Mosaic to cover the whole nebula.",
+    "h": 2600,
+    "hash": "8we3tw",
+    "id": 544126,
+    "imaging_cameras": [
+        "Atik one 9.0 CCD with OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon-130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812786/"
+    ],
+    "orientation": "359.651",
+    "pixscale": "1.780",
+    "published": "2020-11-23T16:00:28.487249",
+    "ra": "324.135",
+    "radius": "1.038",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/544126/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC1396",
+    "updated": "2021-03-22T21:29:00.291155",
+    "uploaded": "2020-11-23T15:54:47.037281",
+    "url_duckduckgo": "https://www.astrobin.com/8we3tw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8we3tw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8we3tw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8we3tw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8we3tw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8we3tw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8we3tw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26247/2020/0fe4e3f0-3322-496c-b25b-76d1e0d1ef40.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26247/2020/0fe4e3f0-3322-496c-b25b-76d1e0d1ef40-1606147213.jpg",
+    "url_thumb": "https://www.astrobin.com/8we3tw/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 101,
+    "w": 3300
+}

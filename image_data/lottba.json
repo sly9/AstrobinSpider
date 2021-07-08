@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 9,
+    "data_source": "TRAVELLER",
+    "dec": "69.458",
+    "description": "Actually it should have been just a test run of my new MGEN3. Contrary to all weather forecasts I went optimistically to one of my favourite astrolocations - the Hohe Wand. I figured if it only stays clear for an hour to test it, I'm happy. Fortunately, the clear weather lasted until dawn, so in the end it was almost 4. 5 hours of this beautiful galaxy in Draco. I can tell you, the MGEN3 with its multistar guiding really delivers perfectly round stars and runs like clockwork. \r\nFor demonstration purposes I have added a Luminance version with a DynamicPSF- See version C. \r\nI am very happy with this device. CS",
+    "h": 2333,
+    "hash": "lottba",
+    "id": 490578,
+    "imaging_cameras": [
+        "Canon 6D modified"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813479/"
+    ],
+    "orientation": "180.104",
+    "pixscale": "4.758",
+    "published": "2020-05-23T10:53:40.476424",
+    "ra": "184.171",
+    "radius": "2.780",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490578/",
+    "revisions": [
+        "/api/v1/imagerevision/234230/",
+        "/api/v1/imagerevision/234231/"
+    ],
+    "subjects": [
+        "NGC 4236",
+        "The star 4Dra",
+        "The star 6Dra",
+        "The star κDra"
+    ],
+    "title": "NGC 4236 in Draco (MGEN3 star-test)",
+    "updated": "2021-03-17T01:57:20.123283",
+    "uploaded": "2020-05-23T11:53:40.698160",
+    "url_duckduckgo": "https://www.astrobin.com/lottba/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lottba/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lottba/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lottba/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lottba/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lottba/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lottba/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18143/2020/4781b07f-2635-43db-9815-e045033d92bc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18143/2020/4781b07f-2635-43db-9815-e045033d92bc-1590235278.jpg",
+    "url_thumb": "https://www.astrobin.com/lottba/0/rawthumb/thumb/",
+    "user": "GabrielSiegl",
+    "views": 333,
+    "w": 3500
+}

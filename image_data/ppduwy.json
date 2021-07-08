@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "-32.872",
+    "description": "",
+    "h": 4096,
+    "hash": "ppduwy",
+    "id": 526469,
+    "imaging_cameras": [
+        "FLI16803"
+    ],
+    "imaging_telescopes": [
+        "ASA500 F3.8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.956",
+    "pixscale": "0.964",
+    "published": "2020-09-24T04:41:10.935761",
+    "ra": "63.019",
+    "radius": "0.776",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/526469/",
+    "revisions": [
+        "/api/v1/imagerevision/251463/"
+    ],
+    "subjects": [
+        "IC 2040",
+        "NGC 1531",
+        "NGC 1532"
+    ],
+    "title": "NGC1532 Galaxy",
+    "updated": "2021-03-16T19:54:08.292122",
+    "uploaded": "2020-09-24T05:32:03.819937",
+    "url_duckduckgo": "https://www.astrobin.com/ppduwy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ppduwy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ppduwy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ppduwy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ppduwy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ppduwy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ppduwy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18536/2020/f2130bae-51c0-439a-b496-55bf119245df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18536/2020/f2130bae-51c0-439a-b496-55bf119245df-1600926070.jpg",
+    "url_thumb": "https://www.astrobin.com/ppduwy/0/rawthumb/thumb/",
+    "user": "MoonPrince",
+    "views": 186,
+    "w": 4096
+}

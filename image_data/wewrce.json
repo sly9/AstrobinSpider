@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 21,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.786",
+    "description": "I tend to treat my AB page as a gallery rather than a repository of absolutely everything that I produce.  Every so often I re-image an object and post it twice on my page because those images represent two individual efforts to produce an image--with (hopefully) improved results.  This image falls into that category--even though it looks similar to the M74 image that I recently posted.  Last week, I was hunting for something on the drive that I use to store imaging data and I came across a set of forgotten M74 data that I had gathered in October of 2019.  I didn't gather enough data to complete an image but after analyzing what I had, I realized that it was good enough to combine with the data that I gathered this year.  I was never really satisfied with my processing effort for my last image and I decided to take an entirely new run at this new trove of data.  I felt that along with the new data, the result was good enough to justify a second M74 image in my gallery.\r\n\r\nThe one problem was that the new data set didn't include any new Lum data so I only had a total of 9 acceptable Lum frames.  To improve on that, I created a synthetic Lum channel from the total of 22+ hours of RGB data that I had.  I did that by first creating a well balanced pure RGB image.  I then extracted the Lum channel from that image to use as a synthetic Lum image.  By making two copies of the actual Lum data and the Syn-Lum data, I could use the Integration tool in PI to created a noise weighted average of the two data sets.  It's necessary to make copies of the data because the Integration tool won't average less than three images.  By making copies, you can load 4 images (2 copies of 2)  to get around that limitation to allow just two images to be combined.  I then spent some time deconvolving the combined Lum channel to improve the sharpness of core details.  Then I combined the combined synthetic Lum channel with the RGB data to bring out the colors.\r\n\r\nI believe that this result looks like a noticeable improvement over my last effort (which seemed overly harsh and lacking fine detail) so feel free to let me know if I succeeded.  I wish I could calibrate my judgement on this stuff but sometimes it just takes multiple runs at it before I arrive at a good solution, but maybe that's just what it takes to get better.\r\n\r\nJohn",
+    "h": 3500,
+    "hash": "wewrce",
+    "id": 553022,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 237,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.831",
+    "pixscale": "0.475",
+    "published": "2020-12-26T20:18:12.798992",
+    "ra": "24.171",
+    "radius": "0.327",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/553022/",
+    "revisions": [
+        "/api/v1/imagerevision/266273/",
+        "/api/v1/imagerevision/266277/"
+    ],
+    "subjects": [
+        "M 74",
+        "M74",
+        "NGC 628"
+    ],
+    "title": "M74 Redux",
+    "updated": "2021-05-02T15:44:17.714712",
+    "uploaded": "2020-12-26T18:39:02.063154",
+    "url_duckduckgo": "https://www.astrobin.com/wewrce/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wewrce/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wewrce/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wewrce/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wewrce/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wewrce/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wewrce/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/ed6efb51-af2a-4ea0-855b-7a53d234be0e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/ed6efb51-af2a-4ea0-855b-7a53d234be0e-1609008880.jpg",
+    "url_thumb": "https://www.astrobin.com/wewrce/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 691,
+    "w": 3500
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "-58.336",
+    "description": "I have imaged the Gabriela Mistral Nebula earlier in the season but at a longer focal length (780mm). I wanted to try again here but using my 0.75x reducer at 585mm adn F4.5 so I could also include the nebulosity around the cluster NGC3293,\r\n\r\nExposures were taken in the first half of the evening over four nights and after winnowing poor subs left with 186x300s or 15.5hours worth of Ha, OIII and SII.\r\n\r\nStacked as separate channels in APP and a basic processed TIF produced from APP with HST adjustment for colour and then APP mono channles for Ha, OIII and SII recombined and processed in Startools. Finally brought into PS and blended in the colour from the APP tif with the Startools process. Final tweaks to taste in PS.",
+    "h": 2779,
+    "hash": "eqovhf",
+    "id": 590799,
+    "imaging_cameras": [
+        "ZWO ASI294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 130/780"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815326/"
+    ],
+    "orientation": "356.159",
+    "pixscale": "1.613",
+    "published": "2021-05-19T09:05:46.060665",
+    "ra": "159.097",
+    "radius": "1.117",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/590799/",
+    "revisions": [],
+    "subjects": [
+        "IC 2599",
+        "NGC 3293",
+        "NGC 3324"
+    ],
+    "title": "Gabriela Mistral Nebula plus Nebula around cluster NGC3293 - SHO narrowband image",
+    "updated": "2021-06-24T20:05:27.398200",
+    "uploaded": "2021-05-19T08:56:21.763564",
+    "url_duckduckgo": "https://www.astrobin.com/eqovhf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eqovhf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eqovhf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eqovhf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eqovhf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eqovhf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eqovhf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/81299/2021/5bb3e74f-1081-4bae-98d8-f88cd14ba784.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/81299/2021/5bb3e74f-1081-4bae-98d8-f88cd14ba784-1621415253.jpg",
+    "url_thumb": "https://www.astrobin.com/eqovhf/0/rawthumb/thumb/",
+    "user": "robonrome",
+    "views": 235,
+    "w": 4138
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 25,
+    "data_source": "OWN_REMOTE",
+    "dec": "63.284",
+    "description": "This field has so many things going on. I have shot CTB1 (A super nova remnant) before, but with this FOV, I could get the little rosette in the field as well. The interesting thing is the fainter shock wave type object between the two.  I tried to push for getting more structure on that but I think the integration time is not enough for that.  The overall field contains lot of faint signal. It is not clear if the central faint structure is related to the CTB1 or is a different SNR.  It will be interesting to try and go deep on that object to see if any more structure can be seen. It is similar to the spaghetti nebula (another SNR)\r\n\r\nThis is a modified SHO (With mix of S and O in G channel). The SII and Ha have similar signals with OIII having signal in top half of CTB1 and in the core of the little rosette. \r\n\r\n\r\n\r\nHa - 41*15 minutes\r\nSII - 13*15 minutes\r\nOIII - 13 * 15 minutes.",
+    "h": 2109,
+    "hash": "x5471r",
+    "id": 557042,
+    "imaging_cameras": [
+        "QHYCCD QHY600m"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "88.785",
+    "pixscale": "3.844",
+    "published": "2021-01-11T00:42:48.885098",
+    "ra": "0.012",
+    "radius": "2.136",
+    "remote_source": "SSLLC",
+    "resource_uri": "/api/v1/image/557042/",
+    "revisions": [
+        "/api/v1/imagerevision/268526/"
+    ],
+    "subjects": [
+        "10 Cas",
+        "9 Cas",
+        "PK116+00.1",
+        "PK118+02.1",
+        "Sh2-170",
+        "The star 10Cas",
+        "The star 9Cas"
+    ],
+    "title": "CTB1 & LITTLE ROSETTE",
+    "updated": "2021-07-06T19:36:41.943356",
+    "uploaded": "2021-01-11T00:30:24.191013",
+    "url_duckduckgo": "https://www.astrobin.com/x5471r/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x5471r/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x5471r/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x5471r/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x5471r/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x5471r/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x5471r/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2021/ad087e9b-4138-497d-8aef-da57d868db8c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2021/ad087e9b-4138-497d-8aef-da57d868db8c-1610325412.png",
+    "url_thumb": "https://www.astrobin.com/x5471r/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 646,
+    "w": 3400
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "62.791",
+    "description": "",
+    "h": 2280,
+    "hash": "nyn7jc",
+    "id": 544521,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 with external FW"
+    ],
+    "imaging_telescopes": [
+        "10\" Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800418/"
+    ],
+    "orientation": "270.670",
+    "pixscale": "1.225",
+    "published": "2020-11-24T21:04:14.999598",
+    "ra": "47.755",
+    "radius": "0.660",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/544521/",
+    "revisions": [
+        "/api/v1/imagerevision/262078/",
+        "/api/v1/imagerevision/264260/"
+    ],
+    "subjects": [],
+    "title": "Sh2-200 bear claw nebula",
+    "updated": "2021-06-12T12:46:43.312896",
+    "uploaded": "2020-11-24T21:04:15.318666",
+    "url_duckduckgo": "https://www.astrobin.com/nyn7jc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nyn7jc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nyn7jc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nyn7jc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nyn7jc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nyn7jc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nyn7jc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4117/2020/a8c7c736-d18a-4ae3-a0a2-c372b0b096c8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4117/2020/a8c7c736-d18a-4ae3-a0a2-c372b0b096c8-1606252947.jpg",
+    "url_thumb": "https://www.astrobin.com/nyn7jc/0/rawthumb/thumb/",
+    "user": "chlopak",
+    "views": 136,
+    "w": 3140
+}

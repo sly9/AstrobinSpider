@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 46,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.586",
+    "description": "It seems that every time I start on a new galaxy, I have to re-learn how hard it can be!  First, galaxies are generally faint so you need a lot of exposure and that requires a lot of clear nights and all of the equipment has to  work flawlessly during all of those clear nights.  Unfortunately my system \"Waiting\" problems have returned, which completely hangs my scope  so I lost some time to that.  Second, the majority of galaxies don't subtend a very large angle so you need enough focal length and resolution to achieve reasonable image size and sharpness.  Unfortunately, poor seeing lays image sharpness to waste.  The moon screws up colors and adds gradients so it's best to avoid all but the very beginning or end of the lunar cycle.  That limits the amount of time available each month to gather data.  Clear, dark skies are a must!  Intermittent clouds can be a show stopper but can also create signal changes through a data stack when they briefly pass in front of the object.  High thin clouds can introduce mysterious gradients or \"star glow\" that seems to appear out of nowhere relative to other clean subs in the stack.  Most maddening is the fact that the seeing is often spectacular when high thin clouds scatter the most light.  At first glance it might seem like stacking filters might be able to sort out all this stuff, but in reality that's a risky way to handle the problem because the filters may or may not filter out the undesirable stray signals.  It's almost always better to blink through every image before stacking to make sure that you are starting with the best data possible.  I start with the SubFrameSelector in PI to set thresholds on FWHM and eccentricity, which often tosses out between 50% to 80% of all the data that I take!  That's right:  If you look at my total integrated exposure time, you can compute how much time I might have spent gathering data by multiplying by a factor of 2 to 5.  That's why I don't post a lot of new images!  I'm only running one scope and it typically takes 1-2 lunar cycles to get enough data to complete a single deep LRGB image.   And finally, the key to producing a good image is to A) gather really high quality data and to B) gather a LOT of it.  I often see folks agonizing over exposure calculators to figure out how much data is needed but the truth is that the more signal you have, the more detail that can be pulled out of the faint areas.  I could see a lot of detail in this image that I just couldn't get at.  I ran out of time as the Hamburger sank into the west so I'll have to come back in another year to gather more data if I want to amp it up.\r\n\r\nThe Hamburger galaxy is an object that's been on my list for a long time and I finally started working on it in March.  It's a moderately large (15' x 3.6',)  spiral galaxy viewed edge-on at a distance of about  35 million light-years in the constellation Leo. It was discovered by William Herschel in 1784 and it must have been a challenge, since it has apparent magnitude of 10.2 . It has an approximately 300,000 light-years long tidal tail visible in this image to the right of the galaxy.  It is a part of the Leo Triplet, which includes M65 and M66.  Its most interesting feature is the broad band of dust down the center.\r\n\r\nThis integrated data set has FWHM of almost exactly 2.0\".  Stray reflections due to nearby bright stars and gradients in the result required some creative processing and cropping.  On top of the normal data-related issues, my trusty 2014 MacBook Pro died as I was in the middle of processing this image.  There was a small click and the screen simply went black!  (Oh, oh...it's never done that before!)   Fortunately it's a soft crash since I can still reboot it to retrieve data; but, it won't run for more than a few minutes without black-screening.  I spent days and tried every trick in the book to try to revive it, but I suspect a hardware issue (like failing RAM chip or temperature sensor) is the source of the problem.  So, I've ordered a new computer, but in the meantime, I had to complete processing on a backup 2011 MacBook Pro.  Its non-retina screen has strong viewing angle limitations  so hopefully I've gotten the processing reasonably close. \r\n\r\nAs always, C&C are welcome so let me know what you think.\r\n\r\nJohn",
+    "h": 3246,
+    "hash": "75z2js",
+    "id": 491855,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 263,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.723",
+    "pixscale": "0.476",
+    "published": "2020-05-27T03:55:14.070228",
+    "ra": "170.079",
+    "radius": "0.334",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/491855/",
+    "revisions": [
+        "/api/v1/imagerevision/234838/",
+        "/api/v1/imagerevision/234845/"
+    ],
+    "subjects": [
+        "NGC 3628",
+        "NGC3628"
+    ],
+    "title": "NGC 3628 - The Great Hamburger in the Sky",
+    "updated": "2021-06-27T11:42:22.879655",
+    "uploaded": "2020-05-26T21:33:44.862753",
+    "url_duckduckgo": "https://www.astrobin.com/75z2js/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/75z2js/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/75z2js/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/75z2js/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/75z2js/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/75z2js/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/75z2js/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/259c0af8-7c53-407e-aa7c-c811479f5954.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/259c0af8-7c53-407e-aa7c-c811479f5954-1590529939.jpg",
+    "url_thumb": "https://www.astrobin.com/75z2js/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1167,
+    "w": 3865
+}

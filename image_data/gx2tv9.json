@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "56.684",
+    "description": "This ended up being a full reprocess of my Pacman data. I decided I wanted a version showing the full nebula region, but the same processing used for my Pacman Core image did not work on the full nebula. I felt both this and the tighter Pacman Core image could stand on their own since they came out so differently.",
+    "h": 6227,
+    "hash": "gx2tv9",
+    "id": 534825,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "55.053",
+    "pixscale": "0.363",
+    "published": "2020-10-24T04:55:23.831093",
+    "ra": "13.178",
+    "radius": "0.572",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534825/",
+    "revisions": [
+        "/api/v1/imagerevision/256587/",
+        "/api/v1/imagerevision/256764/"
+    ],
+    "subjects": [
+        "IC 1590",
+        "NGC 281"
+    ],
+    "title": "NGC 281 - Pacman Nebula",
+    "updated": "2021-05-22T14:55:57.956578",
+    "uploaded": "2020-10-24T05:23:51.684610",
+    "url_duckduckgo": "https://www.astrobin.com/gx2tv9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gx2tv9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gx2tv9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gx2tv9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gx2tv9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gx2tv9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gx2tv9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25844/2020/e26a6046-e3c1-4e07-bbc0-a8c1805b98c1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25844/2020/e26a6046-e3c1-4e07-bbc0-a8c1805b98c1-1603519595.png",
+    "url_thumb": "https://www.astrobin.com/gx2tv9/0/rawthumb/thumb/",
+    "user": "Monkeybird747",
+    "views": 163,
+    "w": 9481
+}

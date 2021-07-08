@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 43,
+    "comments": 69,
+    "data_source": "BACKYARD",
+    "dec": "60.117",
+    "description": "Two-panel mosaic of the Squid and the Flying Bat Nebula (Ou4 and Sh2-129). The nebula is in narrowband while the stars are in RGB. Each panel contains approximately 6 hours of Ha, 8 hours of 2x2 binned OIII as well as one hour each of the broadband filters.",
+    "h": 6127,
+    "hash": "cub7ek",
+    "id": 548853,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 543,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810667/"
+    ],
+    "orientation": "61.626",
+    "pixscale": "2.326",
+    "published": "2020-12-10T21:11:59.689721",
+    "ra": "317.732",
+    "radius": "2.386",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/548853/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-129",
+        "VdB140"
+    ],
+    "title": "The Squid and the Flying Bat Nebula",
+    "updated": "2021-06-10T23:51:48.363496",
+    "uploaded": "2020-12-10T20:49:45.465389",
+    "url_duckduckgo": "https://www.astrobin.com/cub7ek/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cub7ek/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cub7ek/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cub7ek/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cub7ek/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cub7ek/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cub7ek/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31931/2020/7071d429-62f5-4464-9735-59da8d26c82c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31931/2020/7071d429-62f5-4464-9735-59da8d26c82c-1607634644.png",
+    "url_thumb": "https://www.astrobin.com/cub7ek/0/rawthumb/thumb/",
+    "user": "ssa104",
+    "views": 2255,
+    "w": 4126
+}

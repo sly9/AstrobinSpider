@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 30,
+    "data_source": "OTHER",
+    "dec": "13.590",
+    "description": "Hi everybody and happy new year !\r\n\r\nI share this image taken by my friend Philippe Lamothe from his backyard observatory in Calvados (RC 14\"). Data taken with a G2-400 (18 x 5mn) and ASI 294 MC Pro (40 x 5mn). It was very interesting for me to process it, as there were no flats, leading to a hard vignetting and many donuts.\r\n\r\nAfter gradien removal with IRIS, I made a synthetic background and mixed it using masks in photoshop. Version B is on of them for example. I lost some faint signal, but the final result looks OK.\r\n\r\nJF",
+    "h": 2062,
+    "hash": "z0ut4g",
+    "id": 554618,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro",
+        "Moravian G2-4000"
+    ],
+    "imaging_telescopes": [
+        "TS Optics RC 14\" Ritchey Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 375,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814698/"
+    ],
+    "orientation": "336.073",
+    "pixscale": "0.539",
+    "published": "2021-01-01T17:41:26.850286",
+    "ra": "170.068",
+    "radius": "0.218",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/554618/",
+    "revisions": [
+        "/api/v1/imagerevision/267170/",
+        "/api/v1/imagerevision/267176/",
+        "/api/v1/imagerevision/272319/"
+    ],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "New year Hamburger - processed with no flats",
+    "updated": "2021-06-13T21:20:59.112721",
+    "uploaded": "2021-01-01T17:14:21.987372",
+    "url_duckduckgo": "https://www.astrobin.com/z0ut4g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z0ut4g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z0ut4g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z0ut4g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z0ut4g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z0ut4g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z0ut4g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2021/2dec774b-f399-4707-b07a-6295beeb51c3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2021/2dec774b-f399-4707-b07a-6295beeb51c3-1609522869.jpg",
+    "url_thumb": "https://www.astrobin.com/z0ut4g/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 968,
+    "w": 2056
+}

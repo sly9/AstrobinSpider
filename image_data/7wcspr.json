@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "59.956",
+    "description": "OIII 140x1200s \r\nRGB 3x15x300s",
+    "h": 1417,
+    "hash": "7wcspr",
+    "id": 517482,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service TS APO 100 Q"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811638/"
+    ],
+    "orientation": "135.137",
+    "pixscale": "2.125",
+    "published": "2020-08-24T04:21:54.344182",
+    "ra": "317.971",
+    "radius": "0.704",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/517482/",
+    "revisions": [
+        "/api/v1/imagerevision/246822/"
+    ],
+    "subjects": [],
+    "title": "OU4 - Gigant Squid Nebula",
+    "updated": "2021-07-04T20:43:43.885474",
+    "uploaded": "2020-08-24T05:21:54.545609",
+    "url_duckduckgo": "https://www.astrobin.com/7wcspr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7wcspr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7wcspr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7wcspr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7wcspr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7wcspr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7wcspr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41770/2020/f927c740-dec2-4558-b48f-d02d83ce53ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41770/2020/f927c740-dec2-4558-b48f-d02d83ce53ff-1598246799.jpg",
+    "url_thumb": "https://www.astrobin.com/7wcspr/0/rawthumb/thumb/",
+    "user": "Tayson",
+    "views": 688,
+    "w": 1920
+}

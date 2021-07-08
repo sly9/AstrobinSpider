@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-0.031",
+    "description": "M77\r\nLRGB 6,6,7,8 hrs",
+    "h": 2792,
+    "hash": "545edf",
+    "id": 474863,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RiDK 400"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808682/"
+    ],
+    "orientation": "92.649",
+    "pixscale": "0.664",
+    "published": "2020-04-08T12:04:02.406387",
+    "ra": "40.635",
+    "radius": "0.382",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/474863/",
+    "revisions": [],
+    "subjects": [
+        "M 77",
+        "NGC 1068"
+    ],
+    "title": "M77",
+    "updated": "2021-04-13T10:54:55.951879",
+    "uploaded": "2020-04-08T13:04:02.628793",
+    "url_duckduckgo": "https://www.astrobin.com/545edf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/545edf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/545edf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/545edf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/545edf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/545edf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/545edf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2884/2020/0e5e22ee-3634-4c4b-bd92-722f25afd597.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2884/2020/0e5e22ee-3634-4c4b-bd92-722f25afd597-1586351396.jpg",
+    "url_thumb": "https://www.astrobin.com/545edf/0/rawthumb/thumb/",
+    "user": "darkmatter3",
+    "views": 222,
+    "w": 3065
+}

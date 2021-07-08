@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 14,
+    "data_source": "TRAVELLER",
+    "dec": "-45.064",
+    "description": "This is 4 x 6 mosaic image composed of 24 panels. As the photographic trip was not long enough, 2 telescopes were mounted on Takahashi EM11-2M together for time efficiency.\r\n\r\nDate : 2-10/2/2019\r\nLocations： Lavendale Farmstay and Cottages, Gilgering via York, WA, Australia\r\nTelescope：Takahashi FSQ-106 (530mm -> 320mm, F3 Super reducer used )\r\nand FS60CB (355mm ->255mm, 0.72X reducer used)\r\nEquatorial mount：Takahashi EM11 Temma 2M\r\nCamera：SBIG STL11002M (for FSQ-106), Astro 6D (for FS60CB)\r\nGuiding：OAG with QHY5L-II \r\nExposure：Mosaic of 4 X 6 Panels，\r\nFor each panel:\r\nFSQ106 – Astrodon L: 600s x 3, Astrodon RGB: 600x2, Astrodon 3nm Ha: 1800x1\r\nFS60CB - color: 300s x 6, STC Astro Duo-Narrowband Filter: 600 x 9\r\nProcessing：Photoshop 2020，PixInsight \r\nPhotographer：Chan Yat Ping (Hog Kong, China)",
+    "h": 15692,
+    "hash": "5w0bdb",
+    "id": 565115,
+    "imaging_cameras": [
+        "Canon 6D modified"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED",
+        "Takahashi Takahasahi FS-60CB"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 209,
+    "link": "http://www.gigapan.com/embeds/KpNAAB8KGus/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813439/"
+    ],
+    "orientation": "1.170",
+    "pixscale": "5.774",
+    "published": "2021-02-11T06:46:49.008097",
+    "ra": "122.821",
+    "radius": "17.857",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/565115/",
+    "revisions": [
+        "/api/v1/imagerevision/273078/"
+    ],
+    "subjects": [
+        "NGC 2451",
+        "Part of the constellation Puppis (Pup)",
+        "Part of the constellation Pyxis (Pyx)",
+        "Part of the constellation Vela (Vel)",
+        "The star Naos (ζPup)",
+        "The star Suhail (λVel)",
+        "The star αPyx",
+        "The star βPyx",
+        "The star γ2Vel",
+        "The star δVel",
+        "The star κVel",
+        "The star πPup",
+        "The star σPup",
+        "The star χCar"
+    ],
+    "title": "Gum Nebula and Vela Supernova Remnants",
+    "updated": "2021-07-03T11:13:53.702464",
+    "uploaded": "2021-02-11T06:28:53.837486",
+    "url_duckduckgo": "https://www.astrobin.com/5w0bdb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5w0bdb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5w0bdb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5w0bdb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5w0bdb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5w0bdb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5w0bdb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22941/2021/e5d2bb35-50cb-4f49-9a55-e01d0fee7747.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22941/2021/e5d2bb35-50cb-4f49-9a55-e01d0fee7747-1613046427.jpg",
+    "url_thumb": "https://www.astrobin.com/5w0bdb/0/rawthumb/thumb/",
+    "user": "CarlChan",
+    "views": 985,
+    "w": 15797
+}

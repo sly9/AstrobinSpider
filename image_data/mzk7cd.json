@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 49,
+    "comments": 58,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.180",
+    "description": "This is a 2 panel mosaic of Flying Bat/Squid and Seahorse Nebula.\r\n\r\nCamera : QHY600 with Readout mode 0 and Gain set to 26\r\nTelescope: Takahashi FSQ-106EDX4\r\nMount: AP Mach1GTO\r\n\r\nEach Panel is made up of the following:\r\n(69) Ha @ 1200s - 1x1\r\n(64) Lum @ 180secs - 1x1\r\n(32) R @ 300secs - 1x1\r\n(approx. 32) G @ 300secs - 1x1\r\n(approx. 32) B @ 300secs - 1x1\r\nAnd the panel with Squid is (38) OIII @ 1200s - 1x1\r\n\r\n\r\nThis was shot from the remote observatory in Marathon, TX at the Marathon Motel and RV Park.",
+    "h": 2485,
+    "hash": "mzk7cd",
+    "id": 543791,
+    "imaging_cameras": [
+        "QHYCCD QHY600"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 363,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "268.991",
+    "pixscale": "6.734",
+    "published": "2020-11-22T18:03:00.143960",
+    "ra": "315.614",
+    "radius": "2.983",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/543791/",
+    "revisions": [],
+    "subjects": [
+        "3 eta Cep",
+        "B148",
+        "B149",
+        "B150",
+        "B152",
+        "Sh2-129",
+        "The star ηCep",
+        "VdB140"
+    ],
+    "title": "Squid and Seahorse",
+    "updated": "2021-07-02T08:38:45.822365",
+    "uploaded": "2020-11-22T17:56:28.701238",
+    "url_duckduckgo": "https://www.astrobin.com/mzk7cd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mzk7cd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mzk7cd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mzk7cd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mzk7cd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mzk7cd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mzk7cd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2020/1c0c8fc4-a540-44a0-9f5c-c5e0d2727d9f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2020/1c0c8fc4-a540-44a0-9f5c-c5e0d2727d9f-1610003115.jpg",
+    "url_thumb": "https://www.astrobin.com/mzk7cd/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 1787,
+    "w": 2000
+}

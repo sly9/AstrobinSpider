@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I had another night of good seeing here in the Bay Area last weekend, so I tried to image Jupiter once again. Even though it was only ~29 deg. above the horizon, this image turned out reasonably well compared to some of my efforts earlier in the week. I've tried to be a bit more systematic about tracking seeing conditions in my area. The key difference on this night was the jet stream moving north of my location. The air velocity in that layer of the atmosphere dropped from ~40 m/s to only 15 m/s on this evening. Setting aside all other factors, I think this made the biggest difference in getting a crisp image.  \r\n\r\nI imaged Jupiter over a 20 minute period using my one-shot color camera. I acquired 13 videos (90 s each) over a 20 minute period (frame rate: 50 per second.) Camera gain for the QHY 5III 178c camera was 9 (17%.) A total of ~58000 frames were acquired, of which the best 25% were stacked to generate the final image. The images were de-rotated using WinJUPOS. Finally, a separate layer with Jupiter's moons was added to generate this final image. I imaged the moons using a longer exposure time (100 ms) at the same gain setting.\r\n\r\nIn comparison to another image of Jupiter that I obtained last week, one can see some subtle rotation in the cloud bands relative to one another.\r\n\r\nJupiter:\r\nvisual magnitude: -2.8\r\naltitude: 29 deg\r\napparent size: 47.6 arcsec",
+    "h": 793,
+    "hash": "lyiust",
+    "id": 505826,
+    "imaging_cameras": [
+        "QHY CCD QHY 5-iii 178c"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812509/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-07-15T03:07:54.821581",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/505826/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter / Europa / Io (July 12, 2020)",
+    "updated": "2021-03-17T00:30:22.838387",
+    "uploaded": "2020-07-15T04:07:54.904996",
+    "url_duckduckgo": "https://www.astrobin.com/lyiust/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lyiust/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lyiust/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lyiust/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lyiust/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lyiust/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lyiust/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/lyiust/0/rawthumb/thumb/",
+    "user": "rdk_CA",
+    "views": 107,
+    "w": 1215
+}

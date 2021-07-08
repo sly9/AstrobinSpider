@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-49.482",
+    "description": "Taken during very poor conditions - bad seeing and high level thin clouds at times.\r\n\r\nA: Before colour calibration\r\nB: PhotometricColorCalibration\r\nC: Lum data applied - shows more stars and little galaxies as well.  Not completely happy with the main galaxy core though.\r\nD: More processing on C\r\nE: Similar path to D, but less destruction of the background\r\nF: Another reprocess, trying to bring out more of the galaxy while not wrecking the background or the other little galaxies.",
+    "h": 4752,
+    "hash": "oknc3p",
+    "id": 494786,
+    "imaging_cameras": [
+        "ZWO ASI 1600mm-c"
+    ],
+    "imaging_telescopes": [
+        "Sharpstar Optics 107 PH"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813118/"
+    ],
+    "orientation": "18.034",
+    "pixscale": "0.375",
+    "published": "2020-06-04T22:26:57.382846",
+    "ra": "196.324",
+    "radius": "0.342",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/494786/",
+    "revisions": [
+        "/api/v1/imagerevision/236301/",
+        "/api/v1/imagerevision/236900/",
+        "/api/v1/imagerevision/237113/",
+        "/api/v1/imagerevision/241813/",
+        "/api/v1/imagerevision/243407/"
+    ],
+    "subjects": [
+        "NGC 4945"
+    ],
+    "title": "NGC4945",
+    "updated": "2021-03-17T01:34:10.659318",
+    "uploaded": "2020-06-04T23:12:35.614768",
+    "url_duckduckgo": "https://www.astrobin.com/oknc3p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/oknc3p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/oknc3p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/oknc3p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/oknc3p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/oknc3p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/oknc3p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6690/2020/9474712d-75ce-4b52-a587-8ca6c519a03f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6690/2020/9474712d-75ce-4b52-a587-8ca6c519a03f-1591313193.png",
+    "url_thumb": "https://www.astrobin.com/oknc3p/0/rawthumb/thumb/",
+    "user": "lazjen",
+    "views": 148,
+    "w": 4536
+}

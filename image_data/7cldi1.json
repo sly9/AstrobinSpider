@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "-23.925",
+    "description": "Started this project late and the weather was not cooperating, I tried to integrate and process whatever I acquired data to see the result. This target is about 15 degrees above the horizon from my location plus a Redwood treetop, LED street light, and my house roof between the path, so I was able to collect less than 2.5 hours of workable data at one clear night.  This image is the HOO color mapping plus the natural star color using R, G, and B filters. \r\nC & C are welcome.\r\nThank you!\r\n------\r\nAbout 4,530 to 5,870 light-years away from Earth and at 8 degrees south of Sirius, Dolphin Head Nebula (SH2-308) is an H II region located near the center of the constellation Canis Major(Big Dog). This nebula is a Cosmic Bubble formed about 70,000 years ago by the star EZ Canis Majoris throwing off its outer hydrogen layers by fast stellar winds, revealing inner layers of heavier elements. The blue hue feature in this image is the glow of ionized oxygen atoms. The nebula is approximately 60 light-years across at its widest point and covers slightly more than a Full Moon in the sky.\r\n\r\nTechnical details:\r\nTelescope: TEC 160FL + TEC FRC 0.9x\r\nMount: Astro-Physics Mach 2 GTO\r\nImaging cameras: ZWO ASI6200MM\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\nTotal Integration: 26.8 Hours\r\nPhotometricColorCalibration data(before crop):\r\nResolution ............... 0.392 arcsec/px\r\nRotation ................. -113.083 deg\r\nObservation start time ... 2021-02-22 07:02:07 UTC\r\nObservation end time ..... 2021-03-13 05:14:25 UTC\r\nFocal distance ........... 989.28 mm\r\nPixel size ............... 1.88 um\r\nField of view ............ 1d 11' 25.1\" x 1d 8' 12.7\"\r\nImage center ............. RA:  6 54 15.613  Dec: -23 55 29.32\r\n\r\nFilters: Astrodon 50mm Unmounted LRGB Gen2 E-Series Filter Sets\r\nAstrodon 50mm Unmounted 3nm Narrowband Ha, SII, OIII filters\r\nBlue   35x60\"   35 Minutes Bin1x1\r\nGreen  43x60\"   43 Minutes Bin1x1\r\nRed    36x60\"   36 Minutes Bin1x1\r\nHa     12x900\" 22x1200\"   10.3 Hours Bin1x1\r\nOIII   9x900\" 37*1200\"    14.5 Hours Bin1x1",
+    "h": 5220,
+    "hash": "7cldi1",
+    "id": 575658,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 160FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 272,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "113.050",
+    "pixscale": "0.784",
+    "published": "2021-03-20T20:20:46.204841",
+    "ra": "103.565",
+    "radius": "0.823",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575658/",
+    "revisions": [],
+    "subjects": [
+        "The star ο1CMa"
+    ],
+    "title": "Dolphin Head Nebula (SH2-308) HOO + RGB stars",
+    "updated": "2021-07-07T08:03:57.953664",
+    "uploaded": "2021-03-20T19:27:53.369738",
+    "url_duckduckgo": "https://www.astrobin.com/7cldi1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7cldi1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7cldi1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7cldi1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7cldi1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7cldi1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7cldi1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/848c6d59-025d-4080-9fad-0f84cbc5be9d.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/848c6d59-025d-4080-9fad-0f84cbc5be9d-1616271586.JPG",
+    "url_thumb": "https://www.astrobin.com/7cldi1/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 625,
+    "w": 5466
+}

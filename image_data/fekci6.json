@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "13.266",
+    "description": "Image Processing:\r\nPixinsight:\r\nBlink, WeightBatchPreprocessing, ABE, SreenTranferFunction, ACDNR, PixelMath, StarNet\r\nPhotoshop CS6: \r\nColorbalance, RGB-Kombi with Bicolor; Dynamic, Sharpen",
+    "h": 1789,
+    "hash": "fekci6",
+    "id": 574511,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS Optics 10\" f/4,54 Newton-Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801168/"
+    ],
+    "orientation": "180.008",
+    "pixscale": "0.861",
+    "published": "2021-03-15T20:13:44.888236",
+    "ra": "112.252",
+    "radius": "0.389",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/574511/",
+    "revisions": [
+        "/api/v1/imagerevision/278831/",
+        "/api/v1/imagerevision/278915/"
+    ],
+    "subjects": [],
+    "title": "Medusa nebula -SH2-274 HaO3_RGB",
+    "updated": "2021-07-05T02:48:10.546445",
+    "uploaded": "2021-03-15T19:13:47.091378",
+    "url_duckduckgo": "https://www.astrobin.com/fekci6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fekci6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fekci6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fekci6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fekci6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fekci6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fekci6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8215/2021/912fa163-a4b5-4dfe-b386-ecadcadac94d.tif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8215/2021/912fa163-a4b5-4dfe-b386-ecadcadac94d-1615839210.tif",
+    "url_thumb": "https://www.astrobin.com/fekci6/0/rawthumb/thumb/",
+    "user": "Space-Plunger",
+    "views": 146,
+    "w": 2719
+}

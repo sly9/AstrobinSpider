@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "35.440",
+    "description": "H-O-S narrowband blended with RGB",
+    "h": 1806,
+    "hash": "mgnyog",
+    "id": 506083,
+    "imaging_cameras": [
+        "ZWO ASI183MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810450/"
+    ],
+    "orientation": "180.153",
+    "pixscale": "1.087",
+    "published": "2020-07-15T23:49:28.944192",
+    "ra": "299.994",
+    "radius": "0.460",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/506083/",
+    "revisions": [],
+    "subjects": [
+        "B144",
+        "Sh2-101"
+    ],
+    "title": "Sh 2-101 Tulip",
+    "updated": "2021-03-17T00:28:54.597363",
+    "uploaded": "2020-07-16T00:49:29.209747",
+    "url_duckduckgo": "https://www.astrobin.com/mgnyog/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mgnyog/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mgnyog/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mgnyog/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mgnyog/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mgnyog/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mgnyog/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30385/2020/e3cd9aa1-52a0-4d6b-a37e-cce0a24dfe00.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30385/2020/e3cd9aa1-52a0-4d6b-a37e-cce0a24dfe00-1594861342.png",
+    "url_thumb": "https://www.astrobin.com/mgnyog/0/rawthumb/thumb/",
+    "user": "lakerunr",
+    "views": 189,
+    "w": 2456
+}

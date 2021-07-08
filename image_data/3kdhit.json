@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 83,
+    "data_source": "BACKYARD",
+    "dec": "-13.839",
+    "description": "Here is a re-work of my M16 Eagle Nebula with the addition of Sii and Oiii data and with RGB stars incorporated.  I was encouraged to do this by my good friend Frank Breslawski who has always been so helpful and encouraging as I've tried to learn how to do this work.\r\n\r\nI'm pleased with this new iteration but have learned that these types of nebula can really be difficult to process.  For me, getting the brightness right, the color saturation, and the deconvolution along with other tools to bring out the detail was rather difficult.  I had to step away from this several times to try to clear my mind of all the artifacts of the previous interations of the image.  I guess this is an experience many other imagers have.\r\n\r\nI was very happy about the fact that I was able to get a median FWHM of 3.319 (according to the PI script) for my stars.  The new ability to do autofocus I have since beginning to use N.I.N.A. has really made the difference.\r\n\r\nAs always, any comments/criticism are welcome... Clear Skies!",
+    "h": 2351,
+    "hash": "3kdhit",
+    "id": 499524,
+    "imaging_cameras": [
+        "ZWO ASI1600MM",
+        "ZWO ASI 183MC Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "2.145",
+    "pixscale": "1.458",
+    "published": "2020-06-22T16:55:23.570486",
+    "ra": "274.709",
+    "radius": "0.809",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/499524/",
+    "revisions": [
+        "/api/v1/imagerevision/238370/",
+        "/api/v1/imagerevision/238372/",
+        "/api/v1/imagerevision/238373/"
+    ],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "M16 The Eagle Nebula SHO and HOO",
+    "updated": "2021-05-30T19:12:29.498577",
+    "uploaded": "2020-06-22T04:58:02.211960",
+    "url_duckduckgo": "https://www.astrobin.com/3kdhit/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3kdhit/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3kdhit/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3kdhit/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3kdhit/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3kdhit/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3kdhit/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2020/e319d4d0-f4e2-4c91-9f95-1f2d23254fcf.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2020/e319d4d0-f4e2-4c91-9f95-1f2d23254fcf-1592848255.png",
+    "url_thumb": "https://www.astrobin.com/3kdhit/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 382,
+    "w": 3228
+}

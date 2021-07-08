@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-45.938",
+    "description": "Image data acquired and processed by Franck Jobard using Insight Observatory's Astronomical Telescope for Educational Outreach remote telescope <a href=\"https://www.insightobservatory.com/p/ateo-3.html\" target=_blank\">ATEO-3. </a>\r\n\r\nImage set can be subscribed to and downloaded from Insight Observatory's <a href=\"https://www.insightobservatory.com/p/starbase.html\" target=_blank\">\"Starbase\"</a> image set repository.",
+    "h": 2578,
+    "hash": "a1bfi0",
+    "id": 529866,
+    "imaging_cameras": [
+        "SBIG STL11000M"
+    ],
+    "imaging_telescopes": [
+        "Quasar Optics RC 12.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 22,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811944/"
+    ],
+    "orientation": "91.566",
+    "pixscale": "0.645",
+    "published": "2020-10-04T09:57:59.899115",
+    "ra": "335.239",
+    "radius": "0.425",
+    "remote_source": "INS",
+    "resource_uri": "/api/v1/image/529866/",
+    "revisions": [],
+    "subjects": [
+        "IC 5201",
+        "IC5201"
+    ],
+    "title": "IC 5201 - Barred Spiral Galaxy",
+    "updated": "2021-04-09T21:38:10.625855",
+    "uploaded": "2020-10-04T10:58:01.183448",
+    "url_duckduckgo": "https://www.astrobin.com/a1bfi0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a1bfi0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a1bfi0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a1bfi0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a1bfi0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a1bfi0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a1bfi0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9473/2020/d096b958-aa70-4254-b4fc-8287449f9258.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9473/2020/d096b958-aa70-4254-b4fc-8287449f9258-1601810562.jpg",
+    "url_thumb": "https://www.astrobin.com/a1bfi0/0/rawthumb/thumb/",
+    "user": "insightobs",
+    "views": 58,
+    "w": 3982
+}

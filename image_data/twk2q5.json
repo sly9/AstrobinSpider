@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "4.981",
+    "description": "Bonjour\r\nJ'ai retraité le centre de NGC2244 ou se trouve l'amas d'étoiles ,pour que cela donne plus de détails et de profondeurs que dans l'image initiale .Dites moi ce que vous en pensez ?\r\n\r\nHalpha:214x600s en bin1\r\nOIII:41x180s en bin2\r\nSII:41x180s en bin2\r\n\r\ntemps total: ~40 Heures\r\n\r\nHi\r\nI have reprocessed the center of NGC2244 where the star cluster is located, so that it gives more details and depths than in the initial image. Tell me what you think?\r\n\r\nHalpha: 214x600s in bin1\r\nOIII: 41x180s in bin2\r\nSII: 41x180s in bin2\r\n\r\ntotal time: ~ 40 Hours",
+    "h": 1602,
+    "hash": "twk2q5",
+    "id": 492322,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805429/"
+    ],
+    "orientation": "276.239",
+    "pixscale": "2.322",
+    "published": "2020-05-28T09:25:35.890390",
+    "ra": "97.967",
+    "radius": "0.799",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/492322/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2244 in SHO zoom (new process)",
+    "updated": "2021-05-24T20:06:54.041271",
+    "uploaded": "2020-05-28T10:25:36.057703",
+    "url_duckduckgo": "https://www.astrobin.com/twk2q5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/twk2q5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/twk2q5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/twk2q5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/twk2q5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/twk2q5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/twk2q5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/1c0b4f82-d3eb-4af6-ad16-2d7100872ef4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/1c0b4f82-d3eb-4af6-ad16-2d7100872ef4-1590662061.jpg",
+    "url_thumb": "https://www.astrobin.com/twk2q5/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 298,
+    "w": 1887
+}

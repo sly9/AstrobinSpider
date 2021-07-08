@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 28,
+    "data_source": "OWN_REMOTE",
+    "dec": "2.997",
+    "description": "Imaged on nights of: 11/18/2020, 11/19/2020, 11/20/2020, 12/5/2020, 12/6/2020, 12/7/2020, 12/8/2020, 12/9/2020, 12/10/2020.\r\nNo dithering.\r\nNo guiding.\r\nFixed focus position (focuser inoperative)\r\n\r\nI find this target unusual in having two very bright stars bracketing the PN, one exactly over the other, of the same brightness.  Very striking.  I also love the tiny face on spiral galaxy PGC22023 just below to the right, no color whatsoever. It is located 265 million light years from us, a long long way off.  A couple of other galaxies are so small they look like tiny stars.  It would be great to have some details about these, but I could find nothing with a web search.  \r\nAnyone know where to find details on these PGC objects?\r\nFrom Robert: NASA/IPAC Extragalactic Databased (NED) is usually a good place to go.\r\n\r\nAbell 24, also known as PK 217+14.1, A66 24 and ARO 134, is a planetary nebula — a burst of gas and dust created when a star dies and throws its outer layers into space. \r\n\r\nDespite the name, planetary nebulae have nothing to do with planets.\r\n\r\nThe term was coined by the German-born British astronomer William Herschel, who also famously discovered the ice giant Uranus.\r\n\r\nIn a time of low-resolution astronomy, these nebulous objects appeared to resemble giant planets swimming in a dark cosmos.\r\n\r\nA Sun-like star spends most of its life converting hydrogen into helium in its core.\r\nIn its twilight years the star runs out of fuel and becomes unbalanced; it can no longer resist the inward crush of gravity and the core begins to collapse.\r\nThe temperature in the core rises dramatically while the cooler outer layers expand, causing the entire star to bloat into a red giant.\r\nWhen the Sun begins its transformation into a red giant it will expand to completely engulf the innermost planets and possibly also the Earth, growing to over 250 times its current radius.\r\nStrong winds then expel the gaseous outer layers of the star, forming a shell of gas that spreads out into the vastness of space.\r\nThe red giant’s venting atmosphere will eventually expose its hot, luminous remnant core, which will emit fierce UV radiation and ionise the surrounding gas.",
+    "h": 3194,
+    "hash": "au5sbf",
+    "id": 549601,
+    "imaging_cameras": [
+        "ZWO ASI6200MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 159,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "89.740",
+    "pixscale": "0.603",
+    "published": "2020-12-13T21:53:44.135670",
+    "ra": "117.908",
+    "radius": "0.482",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/549601/",
+    "revisions": [],
+    "subjects": [
+        "PGC1235862",
+        "PGC1241734",
+        "PGC22023",
+        "PGC3092289",
+        "PGC97223",
+        "PK217+14.1"
+    ],
+    "title": "Abell 24 Planetary Nebula",
+    "updated": "2021-06-30T10:06:09.426777",
+    "uploaded": "2020-12-13T21:18:41.079818",
+    "url_duckduckgo": "https://www.astrobin.com/au5sbf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/au5sbf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/au5sbf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/au5sbf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/au5sbf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/au5sbf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/au5sbf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2020/50bc007a-d2a6-48e1-9796-90ab07d2e746.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2020/50bc007a-d2a6-48e1-9796-90ab07d2e746-1607894510.jpg",
+    "url_thumb": "https://www.astrobin.com/au5sbf/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 354,
+    "w": 4784
+}

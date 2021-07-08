@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "4.940",
+    "description": "Slightly new approach to processing using minimal narrow band images and Topaz Denoise AI denoising.  Colors aided by 3D LUT.",
+    "h": 2451,
+    "hash": "kawcfi",
+    "id": 530100,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVT 130T"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798180/"
+    ],
+    "orientation": "359.273",
+    "pixscale": "1.219",
+    "published": "2020-10-05T11:38:15.583379",
+    "ra": "97.926",
+    "radius": "0.698",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/530100/",
+    "revisions": [
+        "/api/v1/imagerevision/253549/",
+        "/api/v1/imagerevision/253874/",
+        "/api/v1/imagerevision/253875/"
+    ],
+    "subjects": [
+        "12 Mon",
+        "NGC 2237",
+        "NGC 2238",
+        "NGC 2239",
+        "NGC 2246",
+        "NGC2237",
+        "NGC2238",
+        "NGC2239",
+        "NGC2244",
+        "NGC2246",
+        "Rosette A",
+        "Rosette B",
+        "Rosette Nebula",
+        "Rosette nebula",
+        "Sh2-275",
+        "The star 12Mon"
+    ],
+    "title": "Sh2 275 Rosette",
+    "updated": "2021-03-16T19:30:26.592737",
+    "uploaded": "2020-10-05T05:58:17.462934",
+    "url_duckduckgo": "https://www.astrobin.com/kawcfi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kawcfi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kawcfi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kawcfi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kawcfi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kawcfi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kawcfi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1338/2020/d177388b-aa79-4913-b9e0-d2572871e0e3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1338/2020/d177388b-aa79-4913-b9e0-d2572871e0e3-1601901394.jpg",
+    "url_thumb": "https://www.astrobin.com/kawcfi/0/rawthumb/thumb/",
+    "user": "jerryyyyy",
+    "views": 178,
+    "w": 3314
+}

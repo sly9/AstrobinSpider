@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 51,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I had extraordinarily good seeing for Mercury on the morning of the 14th (13th UT). The planet is notoriously difficult to image because of its low altitude and the thickness of the atmosphere. It is also small at just 5.7 arc secs apparent diameter. I actually managed to get good detail in colour (RGB), where normally one has to use IR filters to have any chance of seeing detail, since the longer wavelengths are less affected by the seeing. However I also used a Methane filter and it produced superb detail, so I used it as Luminance with 50% transparency with the RGB image to produce a sharper LRGB image.\r\nWhen processed the data the colour image was set against the blue dawn sky so I subtracted the background to produce a colour image which is remarkably close to the colour images from the Messenger space probe.",
+    "h": 667,
+    "hash": "64ek4d",
+    "id": 478138,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-17T02:16:24.071891",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/478138/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Detail of Mercury in colour and monochrome IR",
+    "updated": "2021-03-21T09:37:39.198772",
+    "uploaded": "2020-04-17T03:04:44.993776",
+    "url_duckduckgo": "https://www.astrobin.com/64ek4d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/64ek4d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/64ek4d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/64ek4d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/64ek4d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/64ek4d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/64ek4d/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/64ek4d/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 893,
+    "w": 1000
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "78.451",
+    "description": "RC6\" x 0,67 / ATIK383L+ / RGB 200min\r\nRC8\" x 0,67 / ASI1600MMC / RGB 45x300s\r\nExp. total = 7,1h",
+    "h": 2635,
+    "hash": "l3c815",
+    "id": 483342,
+    "imaging_cameras": [
+        "ASI1600mm Pro",
+        "ATIK 383L+ Mono"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\"",
+        "GSO RC6\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807817/"
+    ],
+    "orientation": "6.214",
+    "pixscale": "0.706",
+    "published": "2020-04-29T08:41:02.623288",
+    "ra": "95.089",
+    "radius": "0.451",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483342/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2146"
+    ],
+    "title": "NGC2146, PGC18960 (=NGC2146a)",
+    "updated": "2021-05-12T18:09:06.594593",
+    "uploaded": "2020-04-29T09:41:02.763278",
+    "url_duckduckgo": "https://www.astrobin.com/l3c815/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l3c815/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l3c815/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l3c815/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l3c815/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l3c815/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l3c815/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23818/2020/40e0e956-d6ac-4dc5-b5bb-88965cea7123.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23818/2020/40e0e956-d6ac-4dc5-b5bb-88965cea7123-1588153494.jpg",
+    "url_thumb": "https://www.astrobin.com/l3c815/0/rawthumb/thumb/",
+    "user": "rodi",
+    "views": 494,
+    "w": 3763
+}

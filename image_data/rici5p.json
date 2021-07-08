@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "25.990",
+    "description": "The Needle Galaxy is a massive edge-on galaxy about 40M light-years away in the constellation Coma Berenices.  Studies have confirmed it is a barred spiral galaxy, which is difficult to make out visually due to its orientation to Earth.\r\n\r\nIt has also been shown that NGC 4565 is clearly interacting with IC 3571, confirmed by a bridge of\r\nmaterial between them, though not visible in this image.  NGC 4562 is also confirmed as a satellite galaxy.  See <a target=\"_blank\" href=\"https://arxiv.org/pdf/1210.0609.pdf\">this paper</a> for details.\r\n\r\nThis image began from a quick test using my EdgeHD 8\" SCT as an EAA setup at native f/10!  Cranking the camera to a gain of 300, I was able to keep my exposures at 20s and have significant detail live stacked in the first few minutes.  So, I decided to continue and have my setup image this gorgeous target for the whole night, resulting in many more files to blink and select from than I normally prefer :)\r\n\r\nI hope you enjoy.",
+    "h": 2350,
+    "hash": "rici5p",
+    "id": 579820,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 179,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810290/"
+    ],
+    "orientation": "74.347",
+    "pixscale": "0.453",
+    "published": "2021-04-06T03:19:08.587291",
+    "ra": "189.078",
+    "radius": "0.269",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/579820/",
+    "revisions": [
+        "/api/v1/imagerevision/281677/"
+    ],
+    "subjects": [
+        "IC 3571",
+        "NGC 4562",
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "NGC 4565 - Needle Galaxy",
+    "updated": "2021-07-06T00:00:09.943597",
+    "uploaded": "2021-04-05T21:17:10.081489",
+    "url_duckduckgo": "https://www.astrobin.com/rici5p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rici5p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rici5p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rici5p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rici5p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rici5p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rici5p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28874/2021/4673f613-4289-416b-b8c6-61f445be25c5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28874/2021/4673f613-4289-416b-b8c6-61f445be25c5-1617677804.jpg",
+    "url_thumb": "https://www.astrobin.com/rici5p/0/rawthumb/thumb/",
+    "user": "jerahian",
+    "views": 445,
+    "w": 3568
+}

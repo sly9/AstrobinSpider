@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "40.289",
+    "description": "25x900 SII\r\n25x900 Ha\r\n25x900 OIII",
+    "h": 1455,
+    "hash": "ksn064",
+    "id": 513212,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service TS APO 100 Q"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811638/"
+    ],
+    "orientation": "135.689",
+    "pixscale": "2.215",
+    "published": "2020-08-09T06:29:44.509386",
+    "ra": "306.762",
+    "radius": "0.741",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513212/",
+    "revisions": [
+        "/api/v1/imagerevision/244759/"
+    ],
+    "subjects": [],
+    "title": "Butterfly IC1318",
+    "updated": "2021-07-06T13:24:14.607410",
+    "uploaded": "2020-08-09T07:29:44.633175",
+    "url_duckduckgo": "https://www.astrobin.com/ksn064/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ksn064/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ksn064/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ksn064/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ksn064/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ksn064/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ksn064/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41770/2020/afc3ff7d-a301-4085-b05f-7a30e931c9eb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41770/2020/afc3ff7d-a301-4085-b05f-7a30e931c9eb-1596968059.jpg",
+    "url_thumb": "https://www.astrobin.com/ksn064/0/rawthumb/thumb/",
+    "user": "Tayson",
+    "views": 577,
+    "w": 1920
+}

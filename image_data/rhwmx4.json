@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.246",
+    "description": null,
+    "h": 2358,
+    "hash": "rhwmx4",
+    "id": 595815,
+    "imaging_cameras": [
+        "Moravian G2-8300FW Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "Telescope Service TS ONTC 203 mm f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 56,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2813164/"
+    ],
+    "orientation": "3.994",
+    "pixscale": "0.972",
+    "published": "2021-06-09T20:12:46.637132",
+    "ra": "184.387",
+    "radius": "0.535",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/595815/",
+    "revisions": [
+        "/api/v1/imagerevision/290554/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M 106",
+    "updated": "2021-06-23T08:31:19.869843",
+    "uploaded": "2021-06-09T19:58:12.774370",
+    "url_duckduckgo": "https://www.astrobin.com/rhwmx4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rhwmx4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rhwmx4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rhwmx4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rhwmx4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rhwmx4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rhwmx4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18046/2021/dfa9d95e-327c-4114-8ef3-3060b8b5fae6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18046/2021/dfa9d95e-327c-4114-8ef3-3060b8b5fae6-1623269279.png",
+    "url_thumb": "https://www.astrobin.com/rhwmx4/0/rawthumb/thumb/",
+    "user": "SilverLynx",
+    "views": 111,
+    "w": 3188
+}

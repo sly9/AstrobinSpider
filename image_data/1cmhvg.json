@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "36.462",
+    "description": "This is a re-process attempt of the previous post of M13. The difference is the stretching procedure of the linear to the non-linear stage of the image - the rest of the process is more or less the same workflow with the same parameters. On this image I used the MaskedStretch tool of the Pixinsight, instead of the simple/manual stretching method. It seems that it may work better on globular cluster photos, producing less saturated stars. (Note the difference in the color of the small stars next to the blue bright star on the bottom right).\r\n\r\nThe end result looks more natural, with less contrast and the stars in the core of the GC are resolved better.\r\n\r\nMouse over to compare images :-)",
+    "h": 2070,
+    "hash": "1cmhvg",
+    "id": 595404,
+    "imaging_cameras": [
+        "ZWO asi 2600 MC"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 165,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "37.189",
+    "pixscale": "0.719",
+    "published": "2021-06-07T18:23:24.837105",
+    "ra": "250.422",
+    "radius": "0.371",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595404/",
+    "revisions": [
+        "/api/v1/imagerevision/290267/"
+    ],
+    "subjects": [
+        "Hercules Globular Cluster",
+        "Hercules globular cluster",
+        "IC 4617",
+        "IC4617",
+        "M 13",
+        "M13",
+        "NGC 6205"
+    ],
+    "title": "M13 - The great globular cluster in Hercules (rev2)",
+    "updated": "2021-06-23T20:27:16.528112",
+    "uploaded": "2021-06-07T18:09:23.513809",
+    "url_duckduckgo": "https://www.astrobin.com/1cmhvg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1cmhvg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1cmhvg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1cmhvg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1cmhvg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1cmhvg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1cmhvg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2021/e9ae3a37-4a76-44bc-8194-4fb0a6a9c8e4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2021/e9ae3a37-4a76-44bc-8194-4fb0a6a9c8e4-1623090198.png",
+    "url_thumb": "https://www.astrobin.com/1cmhvg/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 225,
+    "w": 3082
+}

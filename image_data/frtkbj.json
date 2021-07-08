@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "35.284",
+    "description": "",
+    "h": 4776,
+    "hash": "frtkbj",
+    "id": 518109,
+    "imaging_cameras": [
+        "QHYCCD QHY600"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK12.5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813592/"
+    ],
+    "orientation": "67.728",
+    "pixscale": "0.610",
+    "published": "2020-08-26T06:35:45.957518",
+    "ra": "300.001",
+    "radius": "0.485",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/518109/",
+    "revisions": [
+        "/api/v1/imagerevision/247135/",
+        "/api/v1/imagerevision/247659/"
+    ],
+    "subjects": [],
+    "title": "Tulip Nebula",
+    "updated": "2021-05-22T11:07:27.652745",
+    "uploaded": "2020-08-26T07:35:46.308422",
+    "url_duckduckgo": "https://www.astrobin.com/frtkbj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/frtkbj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/frtkbj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/frtkbj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/frtkbj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/frtkbj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/frtkbj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18109/2020/5014b73f-6bfa-44a1-ae9d-20d10d649a52.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18109/2020/5014b73f-6bfa-44a1-ae9d-20d10d649a52-1598427600.jpg",
+    "url_thumb": "https://www.astrobin.com/frtkbj/0/rawthumb/thumb/",
+    "user": "rgsalinger",
+    "views": 99,
+    "w": 3170
+}

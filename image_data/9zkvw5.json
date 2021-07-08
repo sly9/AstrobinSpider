@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-48.606",
+    "description": "L - 27x300 sec\r\nRGB - 8x300 sec, each channel",
+    "h": 6048,
+    "hash": "9zkvw5",
+    "id": 499311,
+    "imaging_cameras": [
+        "ZWO ASI ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "LZOS-TMB-APM 152mm triplet refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804339/"
+    ],
+    "orientation": "285.747",
+    "pixscale": "0.893",
+    "published": "2020-06-21T14:32:57.058698",
+    "ra": "250.036",
+    "radius": "1.390",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/499311/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193",
+        "NGC6188",
+        "NGC6193",
+        "PK336-01.1",
+        "Rim Nebula"
+    ],
+    "title": "Firebird Nebula = NGC6188",
+    "updated": "2021-04-01T19:00:54.613640",
+    "uploaded": "2020-06-21T15:32:57.983010",
+    "url_duckduckgo": "https://www.astrobin.com/9zkvw5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9zkvw5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9zkvw5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9zkvw5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9zkvw5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9zkvw5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9zkvw5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13863/2020/f8bfaa24-71b7-4dec-b088-bc6d1715caaa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13863/2020/f8bfaa24-71b7-4dec-b088-bc6d1715caaa-1592754019.jpg",
+    "url_thumb": "https://www.astrobin.com/9zkvw5/0/rawthumb/thumb/",
+    "user": "juliangeorgeshaw",
+    "views": 238,
+    "w": 9436
+}

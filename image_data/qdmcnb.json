@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "47.307",
+    "description": "M106 RGB-Ha",
+    "h": 3052,
+    "hash": "qdmcnb",
+    "id": 476136,
+    "imaging_cameras": [
+        "ZWO ASI1600MC-Pro ASI1600MM Cooled"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812231/"
+    ],
+    "orientation": "273.122",
+    "pixscale": "0.529",
+    "published": "2020-04-12T01:26:41.667079",
+    "ra": "184.725",
+    "radius": "0.403",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/476136/",
+    "revisions": [
+        "/api/v1/imagerevision/225582/",
+        "/api/v1/imagerevision/227144/",
+        "/api/v1/imagerevision/232445/"
+    ],
+    "subjects": [
+        "M 106",
+        "M106",
+        "NGC 4248",
+        "NGC 4258",
+        "NGC4248"
+    ],
+    "title": "M106 RGB-Ha",
+    "updated": "2021-07-05T09:56:12.363914",
+    "uploaded": "2020-04-12T02:15:30.146298",
+    "url_duckduckgo": "https://www.astrobin.com/qdmcnb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qdmcnb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qdmcnb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qdmcnb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qdmcnb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qdmcnb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qdmcnb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/49189/2020/8a7016d3-3719-439b-8b92-6f49e20cdc0a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/49189/2020/8a7016d3-3719-439b-8b92-6f49e20cdc0a-1586658366.jpg",
+    "url_thumb": "https://www.astrobin.com/qdmcnb/0/rawthumb/thumb/",
+    "user": "Cfreerksen",
+    "views": 161,
+    "w": 4548
+}

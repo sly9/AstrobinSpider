@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "IC1396 rendered in starless SHO.\r\n\r\nAlong my post-processing way to a conventional rendering, I liked what fell out of PixelMath herein so thought to post it. I've intentionally inverted positive and negative space (aka \"figure and ground\").\r\n\r\n---\r\n\r\nExcept for SII, mostly imaged before moonrise. Calibrated without bias frames. No noise reduction applied; no sharpening...just the direct NB stacks, a default gamma stretch, Starnet++, PixelMath, SCNR and curves adjustments.\r\n\r\nAfter imaging at 2x2 I drizzle integrated all data at 2x to yield a ~6kx9k resolution, then ran Starnet++ at a stride setting of 64 seeking a cleaner starless rendering. \r\n\r\nCropped and downsampled to UHD format.",
+    "h": 2160,
+    "hash": "fh7cab",
+    "id": 514550,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star71-II"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814650/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-13T19:49:23.411213",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514550/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Journey to Another Sky",
+    "updated": "2021-07-07T19:52:50.774585",
+    "uploaded": "2020-08-13T20:49:24.180079",
+    "url_duckduckgo": "https://www.astrobin.com/fh7cab/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fh7cab/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fh7cab/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fh7cab/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fh7cab/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fh7cab/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fh7cab/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/fh7cab/0/rawthumb/thumb/",
+    "user": "JimLindelien",
+    "views": 167,
+    "w": 3840
+}

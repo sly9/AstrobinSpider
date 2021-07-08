@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "57.448",
+    "description": "This is my first real project with the RASA 8, and still getting my feet wet in astrophotography.\r\n\r\nAll images were taken off my 2nd floor wooden deck over the month of July in Bortle 7 St. Louis.\r\n\r\nAstroPixelProcessor \r\n---------------------------\r\nStacked with default settings except LNC set to 2nd degree with 3 iterations to help with deviating gradients.\r\n\r\nPixinsight\r\n--------------\r\n1. Deconvolution on Ha only.\r\n2. TGV Denoise & MMT (Jon Rista method) used for noise reduction.\r\n3. STF Stretch applied.\r\n4. Star Reduction on Sulfur II using Adam Block technique with Starnett++.\r\n5. PixelMath SHO combine.\r\n7. Color adjustments, SCNR, masks with curves, etc...\r\n6. Slight star reduction on combined image.\r\n\r\nPhotoshop\r\n---------------\r\n1. Saturation increase, final color tweaking.\r\n2. Spot cleanup of over-saturated stars.\r\n3. Smart Sharpening.\r\n\r\nOverall I'm happy with the results, but I still have a lot to learn, especially with managing stars.",
+    "h": 3627,
+    "hash": "ox176n",
+    "id": 511703,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814012/"
+    ],
+    "orientation": "313.790",
+    "pixscale": "1.240",
+    "published": "2020-08-03T02:08:05.602523",
+    "ra": "323.977",
+    "radius": "1.127",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/511703/",
+    "revisions": [],
+    "subjects": [
+        "B365",
+        "IC 1396",
+        "IC1396",
+        "Sh2-131"
+    ],
+    "title": "IC1396 Elephant Trunk Nebula",
+    "updated": "2021-07-02T21:33:20.075334",
+    "uploaded": "2020-08-02T20:24:03.322691",
+    "url_duckduckgo": "https://www.astrobin.com/ox176n/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ox176n/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ox176n/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ox176n/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ox176n/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ox176n/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ox176n/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/75293/2020/711742e1-89eb-4cef-91b3-1e1d13aa3a68.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/75293/2020/711742e1-89eb-4cef-91b3-1e1d13aa3a68-1596422113.png",
+    "url_thumb": "https://www.astrobin.com/ox176n/0/rawthumb/thumb/",
+    "user": "brule",
+    "views": 623,
+    "w": 5447
+}

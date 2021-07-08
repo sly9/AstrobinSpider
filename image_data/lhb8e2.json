@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.537",
+    "description": "This started out as an attempt to discover a new planetary nebula close to NGC 7008 - hence the odd framing of NGC 7008 in the wider-field version.  However after several hours of OIII and Ha image capture it was clear that no such PN existed, and so the image was cropped to frame NGC 7008 centrally.",
+    "h": 921,
+    "hash": "lhb8e2",
+    "id": 519737,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "4.057",
+    "pixscale": "0.534",
+    "published": "2020-09-03T11:02:31.198183",
+    "ra": "315.127",
+    "radius": "0.118",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/519737/",
+    "revisions": [
+        "/api/v1/imagerevision/248249/"
+    ],
+    "subjects": [
+        "NGC 7008",
+        "NGC7008",
+        "PK093+05.1",
+        "PK093+05.2"
+    ],
+    "title": "NGC 7008",
+    "updated": "2021-06-11T03:02:33.204798",
+    "uploaded": "2020-08-31T14:53:43.068796",
+    "url_duckduckgo": "https://www.astrobin.com/lhb8e2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lhb8e2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lhb8e2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lhb8e2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lhb8e2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lhb8e2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lhb8e2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2020/e670d771-31ba-4c50-9173-3e6c3c5977b2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2020/e670d771-31ba-4c50-9173-3e6c3c5977b2-1599134401.jpg",
+    "url_thumb": "https://www.astrobin.com/lhb8e2/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 431,
+    "w": 1299
+}

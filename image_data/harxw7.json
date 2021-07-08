@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 47,
+    "data_source": "BACKYARD",
+    "dec": "28.377",
+    "description": "William Herschel described M3 as \"one of the globular clusters; very brilliant and beautiful\". I wanted to show the beauty of the cluster in this image. It reveals dim stars in the outer regions, which are often not seen because the core is very bright. I believe this is one of the deepest images of M3 on AstroBin.\r\n\r\nThe total exposure time was almost doubled compared to my previous image of M3:\r\n\r\n<p>\r\n<a href=\"https://astrob.in/dthktk/D/\"><img src=\"https://astrob.in/dthktk/D/rawthumb/gallery/get.jpg\" alt=\"M3 Deep Field\"/></a>\r\n<p>\r\n\r\n20 hours of good data have been added. The weather did not allow me to add more.\r\n\r\nThe image size is about 27.5x27.5 arcmin, i.e. almost the size of the Moon (31 arcmin). As you can see, the angular diameter of M3 is bigger than a half of the Moon actually.\r\n\r\nA <a href=\"http://www.messier.seds.org/m/m003.html\">SEDS web page</a> says that M3 is \"rather blue for a globular\" and its color index B-V is estimated to be between -0.05 and 0.69 by different authors.\r\n\r\nI've used PixInsight's PhotometricColorCalibration with G5V star as white reference for the color calibration in this image in order to make it slightly more blue compared to the previous image.\r\n\r\nMany thanks to <a href=\"https://www.astrobin.com/users/udeuterm/\">Uwe Deutermann</a> for his valuable input on the image processing.\r\n\r\n<a href=\"https://astrob.in/harxw7/I/\">Revision I</a> shows two interesting asterisms: a smiling face and a digit 3.\r\n\r\nAlso there is an unusual object 2MASX J13414045+2818369 in the lower right region of the cluster. The object is round and probably looks like a tiny planetary nebula. There is an entry in <a href=\"http://cdsarc.u-strasbg.fr/viz-bin/vizExec/.show1?VII/233/13414045%2b2818369&1160326\">The 2MASS Extended Source Catalog</a>, but otherwise I could not find any information about it. See also <a href=\"http://aladin.unistra.fr/AladinLite/?target=13%2041%2040.407%2B28%2018%2037.93&fov=0.04&survey=P%2FSDSS9%2Fcolor\">Aladin Sky Atlas</a>.\r\n\r\nI hope that you enjoy looking at this beautiful cluster as much as I do!\r\n\r\nAs always, comments are welcome. \r\n\r\nVitali",
+    "h": 1900,
+    "hash": "harxw7",
+    "id": 589537,
+    "imaging_cameras": [
+        "ZWO ASI2400MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 298,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811031/"
+    ],
+    "orientation": "359.833",
+    "pixscale": "0.870",
+    "published": "2021-05-21T19:35:37.310235",
+    "ra": "205.546",
+    "radius": "0.325",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/589537/",
+    "revisions": [
+        "/api/v1/imagerevision/287623/",
+        "/api/v1/imagerevision/288618/",
+        "/api/v1/imagerevision/289981/"
+    ],
+    "subjects": [
+        "M 3",
+        "NGC 5272"
+    ],
+    "title": "A Deeper Look at M3",
+    "updated": "2021-07-01T17:53:16.140852",
+    "uploaded": "2021-05-14T12:48:48.887226",
+    "url_duckduckgo": "https://www.astrobin.com/harxw7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/harxw7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/harxw7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/harxw7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/harxw7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/harxw7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/harxw7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33583/2021/813a3c70-cfba-4c66-9e3d-e4e5a752600d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33583/2021/813a3c70-cfba-4c66-9e3d-e4e5a752600d-1621182281.png",
+    "url_thumb": "https://www.astrobin.com/harxw7/0/rawthumb/thumb/",
+    "user": "sunlover",
+    "views": 1373,
+    "w": 1900
+}

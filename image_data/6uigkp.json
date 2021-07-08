@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "30.925",
+    "description": "Additional 16 hours data were added to the previous version of this image, using a QSI690 camera with a smaller sensor. The rest of the equipment remains the same. The total 36 hours integration has provided rich data in order to extract more faint structures and details.\r\nI was collecting data for this target half of July2020 nights :-)",
+    "h": 2638,
+    "hash": "6uigkp",
+    "id": 513024,
+    "imaging_cameras": [
+        "QSI683wsg8",
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "94.745",
+    "pixscale": "0.708",
+    "published": "2020-08-08T15:02:44.625598",
+    "ra": "311.429",
+    "radius": "0.418",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/513024/",
+    "revisions": [
+        "/api/v1/imagerevision/245977/"
+    ],
+    "subjects": [
+        "52 Cyg",
+        "The star 52Cyg"
+    ],
+    "title": "West Veil - Witch's Broom Nebula in HOO (version2)",
+    "updated": "2021-03-16T23:02:23.774827",
+    "uploaded": "2020-08-08T16:02:44.902144",
+    "url_duckduckgo": "https://www.astrobin.com/6uigkp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6uigkp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6uigkp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6uigkp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6uigkp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6uigkp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6uigkp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2020/a090719e-0dcb-4ad4-90b9-ae90addcfc2a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2020/a090719e-0dcb-4ad4-90b9-ae90addcfc2a-1597094713.png",
+    "url_thumb": "https://www.astrobin.com/6uigkp/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 319,
+    "w": 3334
+}

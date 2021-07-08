@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "68.841",
+    "description": "VDB9, LDN-1355, LDN-1357, and LDN-1358,  is a group of dark nebulosity in Cassiopeia, which in reality is not very dark, at least not when imaged with the RASA and ASI2600MC.\r\nI have processed this data using EZ Star Reduction in PI to allow me to give the nebulosity an extra stretch without inflating the stars.",
+    "h": 3175,
+    "hash": "56hqe9",
+    "id": 576903,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "287.469",
+    "pixscale": "2.601",
+    "published": "2021-03-25T11:03:15.173023",
+    "ra": "42.715",
+    "radius": "1.925",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/576903/",
+    "revisions": [],
+    "subjects": [
+        "RZ Cas",
+        "SU Cas",
+        "VdB8"
+    ],
+    "title": "The Helping Hand Nebula in Cassiopeia",
+    "updated": "2021-06-06T20:27:33.184893",
+    "uploaded": "2021-03-25T09:47:36.251868",
+    "url_duckduckgo": "https://www.astrobin.com/56hqe9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/56hqe9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/56hqe9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/56hqe9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/56hqe9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/56hqe9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/56hqe9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2021/8a762bb6-457f-4e56-a288-0fd3957e1314.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2021/8a762bb6-457f-4e56-a288-0fd3957e1314-1616666204.jpg",
+    "url_thumb": "https://www.astrobin.com/56hqe9/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 313,
+    "w": 4280
+}

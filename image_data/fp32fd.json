@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "44.372",
+    "description": "This is a test of the FLI Kepler KL4040 camera.   Subs captured over 3 nights, July 12, 13,14 (2020).  All subs captured and saved in high gain 12 bit mode.   Color integration and other post processing done masterfully by B. Falls.",
+    "h": 4036,
+    "hash": "fp32fd",
+    "id": 523395,
+    "imaging_cameras": [
+        "Finger Lakes Instruments KL4040"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK-17"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814331/"
+    ],
+    "orientation": "179.457",
+    "pixscale": "0.634",
+    "published": "2020-09-14T23:02:29.528178",
+    "ra": "312.767",
+    "radius": "0.501",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/523395/",
+    "revisions": [],
+    "subjects": [
+        "56 Cyg",
+        "IC 5070",
+        "IC5070",
+        "Pelican Nebula",
+        "Pelican nebula",
+        "The star 56Cyg"
+    ],
+    "title": "Pelican Nebula IC5070",
+    "updated": "2021-03-16T20:15:26.937696",
+    "uploaded": "2020-09-14T23:52:13.536844",
+    "url_duckduckgo": "https://www.astrobin.com/fp32fd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fp32fd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fp32fd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fp32fd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fp32fd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fp32fd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fp32fd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/71260/2020/2faa42c3-d5d0-4c24-921c-c1b897bff958.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/71260/2020/2faa42c3-d5d0-4c24-921c-c1b897bff958-1600128107.jpg",
+    "url_thumb": "https://www.astrobin.com/fp32fd/0/rawthumb/thumb/",
+    "user": "jdowning",
+    "views": 114,
+    "w": 4000
+}

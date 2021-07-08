@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 34,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.778",
+    "description": "It's pretty common for the focus of an image to shift as I capture data.  I thought I was shooting a pretty little OIII-colored planetary, but in the end I was far more focused on the dust field it lies in.  \r\n\r\nThis nebula results from gas ejected by an unseen companion to the bright blue giant seen in the center.  Also unseen is a beautiful pair of rings glowing in the infrared at 2200nm - well beyond my sensor's range.  See here about the rings: \r\nhttps://www.nasa.gov/mission_pages/WISE/news/wise20101117.html\r\n\r\nAs data came in, at first I thought I had a complex gradient.  And I could not get a nice red and blue star color.  That gradient was consistent over different filters and time.  After confirming the color with Photometric Color Calibration in PI I noticed how similar the colors were to the dusty yellow-brown of some of the LDN objects I've shot.  I searched for other images with this dust field but found only one, done with the Liverpool Telescope, that hinted at the dust.  \r\n\r\nRather than try to darken the background to hide it, use DBE to remove it, or jack-hammer the colors I've kept the dust field in the shot.  And I kept the FOV wide to show the background areas on the right that are less affected.  \r\n\r\nSo here it is - a little ugly but maybe more informative.",
+    "h": 3194,
+    "hash": "odi9b9",
+    "id": 564116,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 196,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "309.045",
+    "pixscale": "0.609",
+    "published": "2021-02-07T19:33:11.000533",
+    "ra": "62.321",
+    "radius": "0.487",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/564116/",
+    "revisions": [
+        "/api/v1/imagerevision/272540/"
+    ],
+    "subjects": [
+        "NGC 1514",
+        "NGC1514",
+        "PK165-15.1"
+    ],
+    "title": "NGC 1514 | A Diamond in the Dust",
+    "updated": "2021-05-03T08:27:42.413089",
+    "uploaded": "2021-02-07T19:01:21.060519",
+    "url_duckduckgo": "https://www.astrobin.com/odi9b9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/odi9b9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/odi9b9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/odi9b9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/odi9b9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/odi9b9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/odi9b9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2021/c08f2523-5276-4bcf-8cd5-4facc1ae7bb7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2021/c08f2523-5276-4bcf-8cd5-4facc1ae7bb7-1612726112.jpg",
+    "url_thumb": "https://www.astrobin.com/odi9b9/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 401,
+    "w": 4788
+}

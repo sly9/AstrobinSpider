@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-23.081",
+    "description": "m20 captured in LRGB with 2 different setup, C8 for Luminance layer and Canon 70-200 mm for RGB layers. The RGB channels were cropped and drizzled by 3. I used image solver and MosaicbyCoordinates script from Pixinsinght to align perfectly luminance and RGB channels. The focal length was 200mm @f2,8. \r\nTo benefit from the background captured in RGB with high aperture(f2,8), I fusionned its Luminance layer carefully with the luminance get from the C8.",
+    "h": 4132,
+    "hash": "4p0goz",
+    "id": 510186,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Canon 70-200 f/2.8 II IS L USM",
+        "Celestron C8 Celestar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810776/"
+    ],
+    "orientation": "1.819",
+    "pixscale": "0.615",
+    "published": "2020-07-28T20:03:29.680466",
+    "ra": "270.631",
+    "radius": "0.439",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/510186/",
+    "revisions": [
+        "/api/v1/imagerevision/255444/",
+        "/api/v1/imagerevision/287909/"
+    ],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid Nebula"
+    ],
+    "title": "m20 (Trifid nebula) LRGB",
+    "updated": "2021-05-20T12:38:45.505024",
+    "uploaded": "2020-07-28T20:26:08.438698",
+    "url_duckduckgo": "https://www.astrobin.com/4p0goz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4p0goz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4p0goz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4p0goz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4p0goz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4p0goz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4p0goz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32506/2020/b1c52820-227a-40ef-9432-175bd3229455.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32506/2020/b1c52820-227a-40ef-9432-175bd3229455-1595969754.jpg",
+    "url_thumb": "https://www.astrobin.com/4p0goz/0/rawthumb/thumb/",
+    "user": "philippe_gilberton",
+    "views": 104,
+    "w": 3052
+}

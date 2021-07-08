@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "67.628",
+    "description": "Finally cleared and I got the RASA 8 up and running again on my old NEQ6, here aimed at some dark nebulosity near the Iris nebula. Had the ASI2600 set at gain 100 and -10°C.\r\n\r\nI think there is same drama in the image as dark forces appear to head toward the loverly Iris.",
+    "h": 2580,
+    "hash": "vkh1fe",
+    "id": 532596,
+    "imaging_cameras": [
+        "ZWO ASI2600MC-Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\" F/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "0.981",
+    "pixscale": "3.381",
+    "published": "2020-10-15T19:18:27.571689",
+    "ra": "311.974",
+    "radius": "2.145",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532596/",
+    "revisions": [
+        "/api/v1/imagerevision/255590/",
+        "/api/v1/imagerevision/256092/",
+        "/api/v1/imagerevision/282558/"
+    ],
+    "subjects": [
+        "Iris Nebula",
+        "NGC 7023",
+        "The star 4Cep"
+    ],
+    "title": "Iris Nebula chased by LDN1171, LDN1152, LDN1148, LDN1158, LBN468",
+    "updated": "2021-07-05T15:06:46.251502",
+    "uploaded": "2020-10-15T20:09:39.980860",
+    "url_duckduckgo": "https://www.astrobin.com/vkh1fe/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vkh1fe/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vkh1fe/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vkh1fe/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vkh1fe/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vkh1fe/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vkh1fe/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2020/910f9aff-53b5-49d5-877e-e7e31f4d843a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2020/910f9aff-53b5-49d5-877e-e7e31f4d843a-1602793081.jpg",
+    "url_thumb": "https://www.astrobin.com/vkh1fe/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 517,
+    "w": 3770
+}

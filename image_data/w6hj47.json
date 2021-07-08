@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Abell 85 is a supernova remnant in Cassiopeia. It is also a radio source (CTB-1). Abell 85 is a quite a dark object that emits light in the emission colors of hydrogen (Ha), sulfur (SII) and oxygen (OIII). The OIII emission is quite weak and the brighter structures are built up by SII and Ha. While SII is not as present in the background as Ha the brighter locations of the two emission colors are more or less identical.  \r\n\r\nTo show the spatial distribution of the light emitting gases three different color palettes were used. The image shows the total luminance (Ha+SII+OIII), an (Ha+SII)OO, an SHO palette and an HSO version. The stars are shown in their original colors.\r\n\r\n\r\nZwo ASI1600mmp and TS Photoline 130/910 mm with 0.7x reducer.\r\n\r\n92 x 300s Ha with Baader 7nm Filter\r\n100 x 300s SII with Baader 8nm Filter\r\n100 x 300s OIII with Baader 8nm Filter\r\n29 x 30s red\r\n28 x 30 s green\r\n30 x 30s blue\r\n\r\nAstro PIxel Processor and PS CC 2020",
+    "h": 4522,
+    "hash": "w6hj47",
+    "id": 522766,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-09-13T07:20:55.351748",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/522766/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Abell 85 / CTB1",
+    "updated": "2021-06-16T13:53:51.044131",
+    "uploaded": "2020-09-13T07:46:27.392119",
+    "url_duckduckgo": "https://www.astrobin.com/w6hj47/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w6hj47/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w6hj47/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w6hj47/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w6hj47/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w6hj47/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w6hj47/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/w6hj47/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 410,
+    "w": 6000
+}

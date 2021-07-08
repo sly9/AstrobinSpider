@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "<b>**Update: Although transparency was not great, I managed to capture some more data on 22nd August, allowing me to expand the animation to cover 14 days.**</b>\r\n\r\nWe had a very hot day with clear skies during the evening this past Saturday, which often bodes well for conditions at night. Transparency didn't quite hold up in the end and was highly variable, but seeing was excellent.\r\n\r\nAs can be seen in the montage image (see <a href=\"https://www.astrobin.com/6q8d7z/F/\">Revision F</a>) the variable transparency did limit detail slightly as the GRS crossed the CM. Transparency improved somewhat as the session progressed, which allowed for some high quality data to be captured towards the end. The time periods between the montage images are not even, as the session was interrupted periodically by large banks passing cloud.\r\n\r\nThe GRS was not ideally placed for maximum detail by this stage, but during processing I realised that, fortuitously, the wake of the GRS was. Within this turbulent wake (in addition to the obvious outbreaks of bright, white clouds) there are several smaller areas of what appears to be orange cloud. \r\n\r\nAlso of note is the presence of a dark ring of cloud within the GRS hollow, plus detail/structure visible within Oval BA.\r\n\r\n<a href=\"https://www.astrobin.com/6q8d7z/C/\">Revision C</a> includes an annotated insert showing an expanded view of this region and highlighting the features of interest mentioned above, whereas <a href=\"https://www.astrobin.com/6q8d7z/B/\">Revision B</a> shows the enlarged insert without annotation. You can view the annotated version my hovering your mouse over either Rev A or Rev B.\r\n\r\n<strong>Last but hopefully not least:</strong>\r\n\r\nWhilst comparing the colour balance to <a href=\"https://www.astrobin.com/fuw6vt/0/\" target=\"_blank\">my last image</a>, I realised that I had captured data with Oval BA in the same relative position but with a time difference of almost exactly one week (to within one hour). \r\n\r\nThis enabled me to produce <a href=\"https://www.astrobin.com/6q8d7z/E/\">an animation showing the changes in cloud formations over that one week period</a>, relative to the position of Oval BA - see <a href=\"https://www.astrobin.com/6q8d7z/E/\">Revision E</a>. \r\n\r\nThe animation no only illustrates the fact that Oval BA and the GRS are nearing each other, but also changes in relative positions of numerous other cloud features due to the alternate directions of rotation for the belts and zones.\r\n\r\nThe main image for this post was created by de-rotating four separate image stacks using the best 1,000 frames from each individual video. The duration of each video was intended to be two minutes, but the final duration of each capture varied due to the intermittent cloud cover.\r\n\r\nThanks for looking!",
+    "h": 637,
+    "hash": "6q8d7z",
+    "id": 515807,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-18T14:55:06.706174",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/515807/",
+    "revisions": [
+        "/api/v1/imagerevision/245958/",
+        "/api/v1/imagerevision/245959/",
+        "/api/v1/imagerevision/245962/",
+        "/api/v1/imagerevision/245963/",
+        "/api/v1/imagerevision/247151/"
+    ],
+    "subjects": [],
+    "title": "Jupiter: Oval BA approaching the GRS with 7 and 14 day comparison",
+    "updated": "2021-04-30T07:25:33.484837",
+    "uploaded": "2020-08-18T14:16:44.738994",
+    "url_duckduckgo": "https://www.astrobin.com/6q8d7z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6q8d7z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6q8d7z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6q8d7z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6q8d7z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6q8d7z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6q8d7z/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/6q8d7z/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 637,
+    "w": 719
+}

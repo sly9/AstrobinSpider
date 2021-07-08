@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Mare Cimmerium (Final)\r\n\r\n<a href=\"https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA08797\">Mare Cimmerium from Mars Global Surveyor</a>\r\n\r\nMy third and final attempt at the red planet for October. (-:\r\n\r\n10/20/20 from 10:13 PM to 11:24 PM PST.\r\n\r\nThis is 10ms 640 x 480 frames at 19 fps over USB 2.0.\r\n\r\nI captured (20 x 60s IR) + (10 x 60s R) and deleted 10 unsteady stacks. Final used 20 stacks @ 40%, or about 9,120 frames...\r\n\r\n(14 x 60s IR) + (6 x 60s R)\r\n\r\nI estimate seeing was around 1.6\" FWHM.\r\n\r\nIR Gain = 250\r\nR Gain = 280\r\nCooling = -5C",
+    "h": 985,
+    "hash": "wsx0xm",
+    "id": 534331,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-21T23:18:50.971003",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534331/",
+    "revisions": [
+        "/api/v1/imagerevision/256293/",
+        "/api/v1/imagerevision/256377/",
+        "/api/v1/imagerevision/256555/"
+    ],
+    "subjects": [],
+    "title": "Mare Cimmerium (Final)",
+    "updated": "2021-03-16T19:04:19.353401",
+    "uploaded": "2020-10-22T00:14:33.244947",
+    "url_duckduckgo": "https://www.astrobin.com/wsx0xm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wsx0xm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wsx0xm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wsx0xm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wsx0xm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wsx0xm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wsx0xm/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/wsx0xm/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 425,
+    "w": 985
+}

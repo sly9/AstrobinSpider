@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.926",
+    "description": "This image shows a region of interstellar material, Hydrogen, and dust illuminated or energized by nearby stars. LBN 458, 460, and 462 as well as a molecular cloud (PGCC G101.29-15 46) are visible in this image. The LBN objects are nominally categorized as HII emission regions (Simbad database), so there may be some emission line illumination even though these look mostly like a dust region. No emission line data was taken for this image - only broad band spectrum data was taken so emission line characteristics cannot be verified by this image. These objects and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/LBN458_FSQ_Ps4_PI2_IP1_Crp_annotated.jpg\">annotated image</a>. Vertical FOV is approximately 120 arc minutes. Full size image scale is 2.57 arcsec/pix.",
+    "h": 2800,
+    "hash": "rdpntn",
+    "id": 557963,
+    "imaging_cameras": [
+        "SBIG ST8300M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 22,
+    "link": "http://www.jthommes.com/Astro/LBN458_460_462.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.032",
+    "pixscale": "2.503",
+    "published": "2021-01-14T05:42:04.403663",
+    "ra": "343.794",
+    "radius": "1.217",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/557963/",
+    "revisions": [],
+    "subjects": [
+        "The star 16Lac"
+    ],
+    "title": "LBN 458, 460, 462 in Lacerta",
+    "updated": "2021-01-19T15:30:26.693322",
+    "uploaded": "2021-01-14T05:31:21.385278",
+    "url_duckduckgo": "https://www.astrobin.com/rdpntn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rdpntn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rdpntn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rdpntn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rdpntn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rdpntn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rdpntn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2021/5fe01a45-2b6c-4e7e-9e93-62869c177b17.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2021/5fe01a45-2b6c-4e7e-9e93-62869c177b17-1610602903.jpg",
+    "url_thumb": "https://www.astrobin.com/rdpntn/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 97,
+    "w": 2100
+}

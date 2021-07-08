@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 11,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-18.892",
+    "description": "RA: 12h 01m 53s\r\nDEC: -18° 52’ 10“\r\nLocation: Corvus\r\nDistance: 45 Mly\r\nMagnitude: 11.2\r\nOther designations: NGC 4038 / 4039, ARP 244\r\n\r\n\r\nCaptured between February & March 2020\r\nFiel Of view: 33.1 x 24.8 arcmin\r\nTotal acquisition time of 22 hours 40 min.\r\n\r\nPlanewave CDK17\r\nTechnical Details\r\nCaptured by Martin Pugh\r\nProcessed by: Nicolas ROLLAND\r\nLocation: El Sauce Observatory, Rio Hurtado, Chile\r\nDates of Capture February & March 2020\r\nL 22 x 1200 sec\r\nR 15 x 1200 sec\r\nG 15 x 1200sec\r\nB 16 x 1200sec\r\nHa 9 x 1800sec\r\nOptics: Planewave 17“ CDK @ F6.8\r\nMount: Paramount PME\r\nCCD: SBIG STXL-11002 (AOX)\r\nPre Processing: Pixinsight\r\nPost Processing: Photoshop CC",
+    "h": 2346,
+    "hash": "org5zd",
+    "id": 477202,
+    "imaging_cameras": [
+        "SBIG STXL-11002"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK 17\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 114,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "28.608",
+    "pixscale": "0.633",
+    "published": "2020-04-14T14:20:12.896667",
+    "ra": "180.487",
+    "radius": "0.345",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/477202/",
+    "revisions": [
+        "/api/v1/imagerevision/281176/"
+    ],
+    "subjects": [
+        "Antennae",
+        "Antennae Galaxies",
+        "NGC 4038",
+        "NGC 4039",
+        "NGC4038",
+        "NGC4039"
+    ],
+    "title": "Calwell 60/61 - Antennae Galaxies",
+    "updated": "2021-06-15T09:10:27.257632",
+    "uploaded": "2020-04-14T15:20:13.351590",
+    "url_duckduckgo": "https://www.astrobin.com/org5zd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/org5zd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/org5zd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/org5zd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/org5zd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/org5zd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/org5zd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22464/2020/0c308907-baae-4e93-9f13-1d80163bdbb2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22464/2020/0c308907-baae-4e93-9f13-1d80163bdbb2-1586877882.jpg",
+    "url_thumb": "https://www.astrobin.com/org5zd/0/rawthumb/thumb/",
+    "user": "Llama",
+    "views": 444,
+    "w": 3137
+}

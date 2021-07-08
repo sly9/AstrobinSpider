@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 15,
+    "data_source": "TRAVELLER",
+    "dec": "62.531",
+    "description": "The cave nebula is a beautiful object  in Cepheus - and it also taught me a lesson: Without proper research I went imaging this and spend long hours on narrowband. I think altogether 18 hours went into O3 and SII. However, it turned out to be almost impossible (for me) to get something decent out of it. When I checked out other images, I found most of them to be RGB images. So I restarted last week to capture RGB, and all was much easier. So lesson learned, next time it is a bit of research before imaging ;-).\r\n\r\nSo here is my RGB cave, the R channel was pimped with Ha. Otherwise straight forward RGB worklow, the starless process only helped to get a good star mask.\r\n\r\n296 x 60s RGB\r\n64 x 300s Ha",
+    "h": 2127,
+    "hash": "4ov4as",
+    "id": 539912,
+    "imaging_cameras": [
+        "ZWO Optical ASI 1600 MMC"
+    ],
+    "imaging_telescopes": [
+        "8 Inch f4 Carbon Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805971/"
+    ],
+    "orientation": "2.534",
+    "pixscale": "1.188",
+    "published": "2020-11-11T19:54:40.275545",
+    "ra": "344.415",
+    "radius": "0.607",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/539912/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-155 Cave nebula in HaRGB",
+    "updated": "2021-06-12T19:45:39.138784",
+    "uploaded": "2020-11-11T19:36:08.622380",
+    "url_duckduckgo": "https://www.astrobin.com/4ov4as/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4ov4as/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4ov4as/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4ov4as/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4ov4as/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4ov4as/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4ov4as/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19681/2020/b0a0e62f-4e4f-4efe-826a-1a9e7774559e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19681/2020/b0a0e62f-4e4f-4efe-826a-1a9e7774559e-1605125295.jpg",
+    "url_thumb": "https://www.astrobin.com/4ov4as/0/rawthumb/thumb/",
+    "user": "vgutsmann",
+    "views": 147,
+    "w": 3000
+}

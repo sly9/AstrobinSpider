@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "80.944",
+    "description": "Moravian G2-8300:\r\n--------------------------\r\n                    Gain: 0.396 e-/DN\r\nGaussian Noise: 20.95 DN\r\n\r\n\r\nWith the many gathered nice Integrated Flux Nebula shown, the object looks a bit dirty. That's why the image does not look smooth after blending with Ha and O3.\r\n\r\n\r\nSource Wiki SH2-174:\r\n-----------------------------\r\nSH2-174  is a planetary nebula visible in the constellation of Cepheus.\r\nIt is one of the northern most planetary nebulae of the celestial vault; γ Cephei is located about 3 ° north of Alrai and is visible in long exposure photos taken with a powerful amateur telescope. Its strongly northern declination means that it can be observed almost exclusively from the northern hemisphere, where it is circumpolar up to tropical latitudes.\r\nThe cloud, cataloged as a generic emission nebula in the 1960s, has never shown signs of star formation in progress, nor was the ionizing star of its gases known; during the nineties the hypothesis was advanced that it was a planetary nebula, whose central star has over time slipped out of the gaseous envelope it created itself, given that its dimensions were too small to be an H II region, but comparable to those of a normal planetary nebula. This ionizing star would be the white dwarf cataloged as GD 561, located outside the cloud. The distance, from which the dimensions were derived, was obtained through the study of the radial velocity, and is indicated around 300 parsecs (about 980 light years).",
+    "h": 3358,
+    "hash": "r1fhiy",
+    "id": 523763,
+    "imaging_cameras": [
+        "Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "MEADE LX90"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810066/"
+    ],
+    "orientation": "356.343",
+    "pixscale": "0.772",
+    "published": "2020-09-23T22:01:25.450897",
+    "ra": "356.693",
+    "radius": "0.451",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/523763/",
+    "revisions": [
+        "/api/v1/imagerevision/257174/",
+        "/api/v1/imagerevision/257187/",
+        "/api/v1/imagerevision/273887/",
+        "/api/v1/imagerevision/277438/"
+    ],
+    "subjects": [
+        "PK120+18.1",
+        "Sh2-174"
+    ],
+    "title": "SH2-174 Valentine Rose Nebula and IFN",
+    "updated": "2021-04-30T01:13:34.537230",
+    "uploaded": "2020-09-16T10:08:14.924907",
+    "url_duckduckgo": "https://www.astrobin.com/r1fhiy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r1fhiy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r1fhiy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r1fhiy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r1fhiy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r1fhiy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r1fhiy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30405/2020/100f7da8-4fc5-4342-9cb7-9ef254cded3b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30405/2020/100f7da8-4fc5-4342-9cb7-9ef254cded3b-1603772560.jpg",
+    "url_thumb": "https://www.astrobin.com/r1fhiy/0/rawthumb/thumb/",
+    "user": "Seagal_de",
+    "views": 207,
+    "w": 2536
+}

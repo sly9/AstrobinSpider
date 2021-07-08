@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "12.325",
+    "description": "NGC7479\r\nL : 325 x 2 min ASI 183 mmc  2x2 bin Skywatcher Quattro 10\" C\r\nRGB : 193 x 2 min ASI 294 mc Skywatcher 130 / 650 PDS \r\n----------------------------\r\nTOTAL : 17h16 min",
+    "h": 1350,
+    "hash": "bh4p1j",
+    "id": 532537,
+    "imaging_cameras": [
+        "ASI ZWO ASI 294MC Pro",
+        "ASI ZWO ASI 183MM-C pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 130/650 PDS",
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810357/"
+    ],
+    "orientation": "181.808",
+    "pixscale": "0.986",
+    "published": "2020-10-15T16:30:15.094827",
+    "ra": "346.234",
+    "radius": "0.338",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/532537/",
+    "revisions": [
+        "/api/v1/imagerevision/255157/"
+    ],
+    "subjects": [
+        "NGC 7479",
+        "NGC7479"
+    ],
+    "title": "NGC74 79",
+    "updated": "2021-04-10T19:44:56.329112",
+    "uploaded": "2020-10-15T17:17:41.679084",
+    "url_duckduckgo": "https://www.astrobin.com/bh4p1j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bh4p1j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bh4p1j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bh4p1j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bh4p1j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bh4p1j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bh4p1j/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3620/2020/5fd13fa9-927c-4d14-b0ef-4420cb89fa2d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3620/2020/5fd13fa9-927c-4d14-b0ef-4420cb89fa2d-1602782763.jpg",
+    "url_thumb": "https://www.astrobin.com/bh4p1j/0/rawthumb/thumb/",
+    "user": "navigator77",
+    "views": 266,
+    "w": 2068
+}

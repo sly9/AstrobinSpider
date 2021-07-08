@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Planet Mars on 19.09.2020, only 37° above the horizon, with the Celestron SC C14 and without Baader FFC!. Cameras: QHY 183M (for Luminance) with Baader IR-Pass Filter and QHY 183C (for RGB) stacked with AutoStakkert!3.",
+    "h": 599,
+    "hash": "r73edi",
+    "id": 525183,
+    "imaging_cameras": [
+        "QHYCCD QHY 183C",
+        "QHYCCD QHY 183M"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "http://ag-astronomie.de/Sonnensystem-Galerie",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812547/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-09-20T17:47:42.007422",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/525183/",
+    "revisions": [
+        "/api/v1/imagerevision/251465/"
+    ],
+    "subjects": [],
+    "title": "Mars on 19. September 2020 (only @ 37°, LRGB)",
+    "updated": "2021-04-23T20:24:38.015951",
+    "uploaded": "2020-09-20T18:47:42.166767",
+    "url_duckduckgo": "https://www.astrobin.com/r73edi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r73edi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r73edi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r73edi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r73edi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r73edi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r73edi/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/r73edi/0/rawthumb/thumb/",
+    "user": "HenningSchmidt",
+    "views": 354,
+    "w": 796
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "44.472",
+    "description": "To seen is a closer view of the Pelican Nebula, and the photometry of the Variable Star of Orion Type  V1706 Cyg. Imaged on 11 and 14 September 2020\r\nColour : 12 x 10 minutes / Moravian G3-11000c\r\nLum : 40 x 3 minutes / ASI174mm\r\n\r\nAn Orion variable is a variable star which exhibits irregular and eruptive variations in its luminosity and is typically associated with diffuse nebulae. It is thought that these are young stars which will later become regular, non-variable stars on the zero-age main sequence. Brightness fluctuations can be as much as several magnitudes. from WIKIPEDIA",
+    "h": 1197,
+    "hash": "5gbgy0",
+    "id": 528603,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 211,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.087",
+    "pixscale": "1.208",
+    "published": "2020-09-29T17:20:49.141413",
+    "ra": "312.717",
+    "radius": "0.377",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/528603/",
+    "revisions": [
+        "/api/v1/imagerevision/252512/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula"
+    ],
+    "title": "Pelican and V* V1706 Cyg (Variable Star of Orion Type)",
+    "updated": "2021-06-17T18:40:32.391918",
+    "uploaded": "2020-09-29T17:25:52.596416",
+    "url_duckduckgo": "https://www.astrobin.com/5gbgy0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5gbgy0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5gbgy0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5gbgy0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5gbgy0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5gbgy0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5gbgy0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/1d327db9-519a-4e32-8d1b-72f730f4f432.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/1d327db9-519a-4e32-8d1b-72f730f4f432-1601400660.png",
+    "url_thumb": "https://www.astrobin.com/5gbgy0/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 371,
+    "w": 1903
+}

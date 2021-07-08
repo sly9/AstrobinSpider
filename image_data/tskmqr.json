@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "67.074",
+    "description": "Comet C/2010 Y4 at April 10, 2020 from my backyard.\r\n\r\nOkay, i f***cked it up.\r\nDuring comet alignment, i thought the comet must have changed his trajectory over the session. So i aligned each color channel separately, which resulted in lateral offsets between the channels in the comet stacks. I realigned them manually as good as i could. But the remaining misalignment - together with the moon which showed up during the session - causes color artifacts, still visible in the final image. \r\n\r\nLater i found, i additionally opened subs from pre-registration, they caused the \"curve\". But i was too lazy to start over from the beginning.",
+    "h": 2473,
+    "hash": "tskmqr",
+    "id": 475977,
+    "imaging_cameras": [
+        "ATIK 383L+"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 8N"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810894/"
+    ],
+    "orientation": "75.559",
+    "pixscale": "1.529",
+    "published": "2020-04-11T15:22:54.936742",
+    "ra": "102.542",
+    "radius": "0.867",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/475977/",
+    "revisions": [
+        "/api/v1/imagerevision/225492/",
+        "/api/v1/imagerevision/225563/",
+        "/api/v1/imagerevision/225595/"
+    ],
+    "subjects": [
+        "The star 42Cam",
+        "Comet"
+    ],
+    "title": "C/2019 Y4 (ATLAS) - 10. April 2020",
+    "updated": "2021-03-17T03:18:37.103704",
+    "uploaded": "2020-04-11T16:22:55.957768",
+    "url_duckduckgo": "https://www.astrobin.com/tskmqr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tskmqr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tskmqr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tskmqr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tskmqr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tskmqr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tskmqr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29211/2020/3581c6de-cfc9-410b-83ab-cd6f0fdecec2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29211/2020/3581c6de-cfc9-410b-83ab-cd6f0fdecec2-1586622512.jpg",
+    "url_thumb": "https://www.astrobin.com/tskmqr/0/rawthumb/thumb/",
+    "user": "HR_Maurer",
+    "views": 94,
+    "w": 3246
+}

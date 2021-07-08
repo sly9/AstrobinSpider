@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.556",
+    "description": "The main feature of this image field is the series of molecular clouds from lower left to upper right. These clouds are cataloged in the Planck Catalog of Galactic Cold Clumps (PGCC), but they are not in any of the well known Astronomical catalogs. Also in the field is a significant number of background galaxies - some of them are visible through the molecular clouds. One of these galaxies is from the NGC catalog (NGC 7223). Many of these  background galaxies are members of galaxy groups. The two galaxy groups in this field are [CHM2007] HDC 1179 (total of 10 members) and [CHM2007] LDC 1503 (total of 18 members, some out of the field of this image). These objects  and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/UNCatNGC7223_FSQ_PIP1a-PS-CrpRz_annotated.jpg\">annotated image</a>.  Horizontal FOV is approximately 120 arc minutes. Full size image scale is 2.77 arcsec/pix.",
+    "h": 1950,
+    "hash": "cc4d3g",
+    "id": 522424,
+    "imaging_cameras": [
+        "ATIK383L+"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "http://www.jthommes.com/Astro/MolClouds-LAC.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.474",
+    "pixscale": "2.688",
+    "published": "2020-09-11T21:20:45.224706",
+    "ra": "332.438",
+    "radius": "1.213",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/522424/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Molecular Clouds in Lacerta",
+    "updated": "2021-03-16T20:21:24.870126",
+    "uploaded": "2020-09-11T22:20:45.507907",
+    "url_duckduckgo": "https://www.astrobin.com/cc4d3g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cc4d3g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cc4d3g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cc4d3g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cc4d3g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cc4d3g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cc4d3g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/e6039ecc-92c0-4da4-9def-63433e0e0b43.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/e6039ecc-92c0-4da4-9def-63433e0e0b43-1599863625.jpg",
+    "url_thumb": "https://www.astrobin.com/cc4d3g/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 124,
+    "w": 2600
+}

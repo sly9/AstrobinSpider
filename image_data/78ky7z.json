@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 12,
+    "data_source": "TRAVELLER",
+    "dec": "25.497",
+    "description": "A spectacular barred galaxy NGC 4725 with prominent star-forming ring and a more distant spiral galaxy NGC 4712. This LRGB image was captured with the 250 mm f4 Lacerta PhotoNewton and the ZWO ASI183MM Pro camera over multiple nights in March-May 2020. \r\n\r\nThe luminance image is a combination of the native L data and luminance extracted from RGB data. The L data was captured with camera gains 0, 110 and 200, while RGB exposures were taken at gain 110:\r\n\r\nL: 9x300s (Gain 0, bin 1x1), 69x90s (Gain 110, bin 1x1), 113x30s (Gain 200, bin 1x1)\r\nR: 62x180s (Gain 110, bin 1x1)\r\nG: 45x180s (Gain 110, bin 1x1)\r\nB: 41x180s (Gain 110, bin 1x1)\r\n\r\nTotal exposure: 10.8 hours",
+    "h": 2790,
+    "hash": "78ky7z",
+    "id": 490791,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 207,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "359.355",
+    "pixscale": "0.496",
+    "published": "2020-05-24T05:06:17.548905",
+    "ra": "192.537",
+    "radius": "0.328",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490791/",
+    "revisions": [
+        "/api/v1/imagerevision/234370/",
+        "/api/v1/imagerevision/234371/",
+        "/api/v1/imagerevision/264709/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725",
+        "NGC4712",
+        "NGC4725"
+    ],
+    "title": "NGC 4725 and NGC 4712",
+    "updated": "2021-06-04T17:35:23.099072",
+    "uploaded": "2020-05-24T04:33:23.253729",
+    "url_duckduckgo": "https://www.astrobin.com/78ky7z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/78ky7z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/78ky7z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/78ky7z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/78ky7z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/78ky7z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/78ky7z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/48f65474-0ee8-47cf-b3e4-7770aa96b851.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/48f65474-0ee8-47cf-b3e4-7770aa96b851-1590600834.jpg",
+    "url_thumb": "https://www.astrobin.com/78ky7z/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 603,
+    "w": 3860
+}

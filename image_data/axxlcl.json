@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "43.792",
+    "description": "UK weather has been cooperating lately and I had a few good nights in a row. Started working on this project and intended for a full SHO palette but third night didn't turn out so still need to gather the Sii data. Forecast turned cloudy so I decided to try HOO with this one and loved how it turned out. Blend was as follows:\r\n\r\nR=Ha\r\nG=0.6*Ha + 0.4*Oiii\r\nB=Oiii",
+    "h": 3418,
+    "hash": "axxlcl",
+    "id": 481161,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion ED80 APO F/7.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813129/"
+    ],
+    "orientation": "324.357",
+    "pixscale": "1.603",
+    "published": "2020-04-24T08:08:29.226151",
+    "ra": "314.588",
+    "radius": "1.269",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481161/",
+    "revisions": [
+        "/api/v1/imagerevision/228781/"
+    ],
+    "subjects": [
+        "NGC 6997",
+        "NGC 7000",
+        "North America Nebula"
+    ],
+    "title": "Cygnus Wall HOO",
+    "updated": "2021-06-07T11:47:24.297945",
+    "uploaded": "2020-04-24T09:00:20.668137",
+    "url_duckduckgo": "https://www.astrobin.com/axxlcl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/axxlcl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/axxlcl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/axxlcl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/axxlcl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/axxlcl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/axxlcl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22124/2020/841a720d-41aa-45ad-9538-9fe4f7397ae1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22124/2020/841a720d-41aa-45ad-9538-9fe4f7397ae1-1587719297.jpg",
+    "url_thumb": "https://www.astrobin.com/axxlcl/0/rawthumb/thumb/",
+    "user": "tomtom2245",
+    "views": 283,
+    "w": 4563
+}

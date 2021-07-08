@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 37,
+    "comments": 33,
+    "data_source": "OWN_REMOTE",
+    "dec": "9.149",
+    "description": "Barnard 35 and LBN 878 complex is a really interesting object. Not only it shows up in about every Orion widefield images, and it has so many details and so rich content. I learned a lot from Jim Thommes' post on CN forum (<a href=\"https://www.cloudynights.com/topic/656489-lynds-bright-878-and-barnard-35-plus-original-fuor-fu-orionis/\">Lynds Bright 878 and Barnard 35 (plus original FUor FU Orionis)</a>) and started to think about imaging it since then. Jim's write-up is wonderful and definitely worth a read.\r\n\r\nThere are quite a few things changed - got the ASI6200mm-Pro and had quite a fight with the full-frame sensor tilting issue. Most importantly, teamed with a few AP buddies and moved the imaging setup to Dark Sky New Mexico. We deployed an SBS system equipped with TOA-130 NS and FSQ-106EDX3, dual ASI6200mm-Pros, and dual NiteCrawler focusers/rotators. The experience of going to the remote observatory with the team and set up our own remote system is unmatched. Really proud of the team made the dream come true!\r\n\r\nAlso, there are big changes to my process flow as well. I started to utilize Topaz DeNoise AI as part of my process flow. There are some big debates about if it's \"legal\" to use such neural network-based processing tools in AP.  I'd like to share how I feel about this as well - It's a great thing and could be really productive. Another neural network-based tool StarNet++ has already been well accepted. It's all up to the user of these tools. The tools are as legit as any other image processing tool. My take - Embrace them and be more productive!\r\n\r\nThere are challenges for my first dual-scope, dual-ASI6200mm processing. First, my 10-year old Mac Pro can't handle the job anymore. I had to bin everything in order to finish. StarNet++ with stride 64 needs 45 minutes to be done with an image from one channel master. Second, everything changed compared to the single scope setup, there are so many things involved from planning, setting up time allocations for different channels, and registering the data from two totally different FOVs together. \r\n\r\nThanks for looking and hope you folks like it!\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 2120,
+    "hash": "30jco4",
+    "id": 541626,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 322,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "30.123",
+    "pixscale": "2.316",
+    "published": "2020-11-16T05:33:00.874100",
+    "ra": "86.804",
+    "radius": "1.231",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/541626/",
+    "revisions": [
+        "/api/v1/imagerevision/266884/"
+    ],
+    "subjects": [],
+    "title": "Barnard 35 & LBN 878 Complex",
+    "updated": "2021-05-23T22:04:12.601622",
+    "uploaded": "2020-11-16T04:15:39.560526",
+    "url_duckduckgo": "https://www.astrobin.com/30jco4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/30jco4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/30jco4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/30jco4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/30jco4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/30jco4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/30jco4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/e8de7f5d-9fa1-4766-83a4-0a40acb355e7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/e8de7f5d-9fa1-4766-83a4-0a40acb355e7-1605585208.png",
+    "url_thumb": "https://www.astrobin.com/30jco4/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1591,
+    "w": 3186
+}

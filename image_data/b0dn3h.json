@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-13.200",
+    "description": "Thor's Helmet in CMa, a further development of the previous LRGB image enhanced by using PI multichannel synthesis tool to blend 2 hours of H-alpha data into the L and R channels.",
+    "h": 5008,
+    "hash": "b0dn3h",
+    "id": 557654,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA 16N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799640/"
+    ],
+    "orientation": "358.805",
+    "pixscale": "0.380",
+    "published": "2021-01-13T01:02:01.776904",
+    "ra": "109.647",
+    "radius": "0.439",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557654/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2359"
+    ],
+    "title": "More Thor",
+    "updated": "2021-03-26T22:12:13.244434",
+    "uploaded": "2021-01-13T00:45:08.143820",
+    "url_duckduckgo": "https://www.astrobin.com/b0dn3h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b0dn3h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b0dn3h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b0dn3h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b0dn3h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b0dn3h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b0dn3h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1473/2021/e5a49892-1b29-429e-ac51-e220d30c3ad0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1473/2021/e5a49892-1b29-429e-ac51-e220d30c3ad0-1610499877.jpg",
+    "url_thumb": "https://www.astrobin.com/b0dn3h/0/rawthumb/thumb/",
+    "user": "alocky",
+    "views": 134,
+    "w": 6652
+}

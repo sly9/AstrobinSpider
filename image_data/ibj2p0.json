@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "38.336",
+    "description": "Telescope SW300/1500\r\nMount EQ6 Pro SynScan\r\nCamera ZWO ASI 1600MM-Cool\r\nFilter Wheel ZWO\r\nZWO Halfa filter 15x240 sec\r\nZWO OIII filters 15x240 sec\r\nSize 30%",
+    "h": 1031,
+    "hash": "ibj2p0",
+    "id": 498171,
+    "imaging_cameras": [
+        "ASI ZWO 1600 MM Cool"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher SW300/1500"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804162/"
+    ],
+    "orientation": "6.603",
+    "pixscale": "1.749",
+    "published": "2020-06-17T05:32:36.771332",
+    "ra": "303.059",
+    "radius": "0.415",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498171/",
+    "revisions": [],
+    "subjects": [
+        "Crescent Nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 The Crescent Nebula",
+    "updated": "2021-05-01T16:44:10.729990",
+    "uploaded": "2020-06-17T06:32:36.879147",
+    "url_duckduckgo": "https://www.astrobin.com/ibj2p0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ibj2p0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ibj2p0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ibj2p0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ibj2p0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ibj2p0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ibj2p0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14505/2020/6d6e55aa-1785-4825-b066-4f1ba2cbc7ce.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14505/2020/6d6e55aa-1785-4825-b066-4f1ba2cbc7ce-1592376126.jpg",
+    "url_thumb": "https://www.astrobin.com/ibj2p0/0/rawthumb/thumb/",
+    "user": "anz",
+    "views": 278,
+    "w": 1364
+}

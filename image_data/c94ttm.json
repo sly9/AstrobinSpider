@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "55.014",
+    "description": "Hyperstar sur C925\r\nZwo asi 2600mm bin1\r\nL:74x60sec\r\nOIII:100x120sec\r\n\r\nAskar FRA400\r\nZwo asi 294MM bin2\r\nHa:120x180sec\r\nR:30x180sec\r\nV:30x180sec\r\nB:30x180sec\r\n\r\nIl s’agit d’un crop sur Messier 97 appelé la nébuleuse du hibou. \r\nC’est l’une des quatre nébuleuses planétaires du catalogue de Messier situé dans la grande ourse. Sa distance est d’environ 45 millions d’année lumière. \r\nJuste à ses côtés, on y trouve M108 qui est la galaxie de la planche de surf. \r\nSur la plan du traitement, la principale difficulté est de faire ressortir la coquille qui l’entoure. L’hyperstar m’a permis de la mettre en évidence (voir la révision 3). \r\nQuelques passes HDR ont dû être utilisées aussi bien en linéaire qu’en non linéaire pour faire apparaître les structures au cœur de cette nébuleuse de magnitude 9.9.",
+    "h": 891,
+    "hash": "c94ttm",
+    "id": 591114,
+    "imaging_cameras": [
+        "ZWO ASI 2600MM Pro",
+        "zwo asi 294 MM pro"
+    ],
+    "imaging_telescopes": [
+        "SharpStar Askar 400/F5.6",
+        "Celestron EdgeHD 9.25"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 159,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "88.497",
+    "pixscale": "1.503",
+    "published": "2021-05-21T07:40:47.352595",
+    "ra": "168.703",
+    "radius": "0.332",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/591114/",
+    "revisions": [
+        "/api/v1/imagerevision/288161/",
+        "/api/v1/imagerevision/288162/"
+    ],
+    "subjects": [
+        "M 97",
+        "NGC 3587",
+        "Owl Nebula"
+    ],
+    "title": "M97-la nébuleuse du hibou",
+    "updated": "2021-07-05T15:24:31.720983",
+    "uploaded": "2021-05-20T21:03:09.799480",
+    "url_duckduckgo": "https://www.astrobin.com/c94ttm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c94ttm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c94ttm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c94ttm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c94ttm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c94ttm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c94ttm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2021/43369e88-dd9a-4307-91c8-25937624eb79.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2021/43369e88-dd9a-4307-91c8-25937624eb79-1621545213.jpeg",
+    "url_thumb": "https://www.astrobin.com/c94ttm/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 381,
+    "w": 1316
+}

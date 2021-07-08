@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "13.254",
+    "description": "",
+    "h": 2413,
+    "hash": "9gtaof",
+    "id": 558182,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV90TBV-25SV"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "91.767",
+    "pixscale": "2.275",
+    "published": "2021-01-15T02:18:22.340609",
+    "ra": "169.931",
+    "radius": "1.281",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558182/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet",
+    "updated": "2021-04-08T11:37:22.565915",
+    "uploaded": "2021-01-15T02:14:51.678804",
+    "url_duckduckgo": "https://www.astrobin.com/9gtaof/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9gtaof/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9gtaof/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9gtaof/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9gtaof/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9gtaof/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9gtaof/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2021/0064ae35-6491-4308-93a1-73cc1880ec43.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8751/2021/0064ae35-6491-4308-93a1-73cc1880ec43-1610678318.jpg",
+    "url_thumb": "https://www.astrobin.com/9gtaof/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 118,
+    "w": 3260
+}

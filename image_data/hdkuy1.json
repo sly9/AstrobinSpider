@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "41.703",
+    "description": "The weather is still bad so I decided to process some data from August 2020, what I shot but not processed. \r\n\r\nI shot 180 x 30 sec luminance frames with the ASI174mm.\r\nThe color image is from 2018 and contains M31  and  M110 .\r\nThe camera for the colour image was the Moravian G3-11000c / 12 x 10 minutes.\r\n\r\nMessier 110,  is a dwarf elliptical galaxy that is one of the satellites of the Andromeda Galaxy.\r\nM110 probably does not have a supermassive black hole in its center like most galaxies.",
+    "h": 1211,
+    "hash": "hdkuy1",
+    "id": 549065,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 201,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.676",
+    "pixscale": "1.061",
+    "published": "2020-12-11T20:15:01.656258",
+    "ra": "10.094",
+    "radius": "0.336",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549065/",
+    "revisions": [
+        "/api/v1/imagerevision/264166/"
+    ],
+    "subjects": [
+        "M 110",
+        "NGC 205"
+    ],
+    "title": "M110",
+    "updated": "2021-04-12T17:33:13.485501",
+    "uploaded": "2020-12-11T19:42:12.556019",
+    "url_duckduckgo": "https://www.astrobin.com/hdkuy1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hdkuy1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hdkuy1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hdkuy1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hdkuy1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hdkuy1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hdkuy1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/d23e572d-84b5-435b-8368-9622be305ca2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/d23e572d-84b5-435b-8368-9622be305ca2-1607716160.png",
+    "url_thumb": "https://www.astrobin.com/hdkuy1/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 446,
+    "w": 1936
+}

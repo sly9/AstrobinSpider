@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-66.502",
+    "description": "This is a field galaxy and a barred spiral galaxy with a diameter of about 50,000 light-years, or about half the size of the Milky Way. It has a strikingly uneven shape and its axis of rotation is not exactly in its centre. NGC 1313 also shows strong starburst activity and associated supershells. It is dominated by scattered patches of intense star formation, which gives the galaxy a rather ragged appearance. The uneven shape, the ragged appearance and the strong starburst can all be explained by a galactic collision in the past. However, NGC 1313 seems to be an isolated galaxy and has no direct neighbours. Therefore, it is not clear whether it has swallowed a small companion in its past. All according to Wikipedia.\r\n\r\nI assume that most of the dust in the image is Integrated Flux Nebulosity (IFN) in the outskirts of our Miky Way galaxy and not associated with NGC1313. The IFN would be easy to suppress in processing but I decided to bring it out.\r\n\r\nThis is LRGB data from Telescope Live at the El Sauce hosting facility at 1500m elevation in Río Hurtado, Coquimbo Region, Chile. It contains 7 x 5 min red, 8 x 5 min green, 4 x 5 min blue, and 12 x 10 min luminosity.",
+    "h": 2835,
+    "hash": "2ehnkd",
+    "id": 600332,
+    "imaging_cameras": [
+        "FLI PL 16803"
+    ],
+    "imaging_telescopes": [
+        "ASA 500mm f/3.8 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 145,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2816085/"
+    ],
+    "orientation": "90.394",
+    "pixscale": "1.463",
+    "published": "2021-06-27T13:22:28.213512",
+    "ra": "49.510",
+    "radius": "0.806",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/600332/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1313"
+    ],
+    "title": "The Topsy Turvy Galaxy (NGC1313) and IFN",
+    "updated": "2021-07-07T05:28:23.266654",
+    "uploaded": "2021-06-27T13:07:57.037847",
+    "url_duckduckgo": "https://www.astrobin.com/2ehnkd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2ehnkd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2ehnkd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2ehnkd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2ehnkd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2ehnkd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2ehnkd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2021/ae1fbe9a-5106-41a4-99a6-798f4b31cfe0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2021/ae1fbe9a-5106-41a4-99a6-798f4b31cfe0-1624799942.jpg",
+    "url_thumb": "https://www.astrobin.com/2ehnkd/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 288,
+    "w": 2778
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Switch to full-res mode and fly above the Moon!\r\n\r\nThe entire 92-Megapixel mosaic was compiled from 48 individual panels, taken with a ZWO ASI290MM camera and a red CCD filter. The seeing was pretty good during the capture, but unfortunately not always stable - this affected quality for some of the panels.\r\nSize 120%. Image scale is about 0.23\" or ~400 m per pixel.",
+    "h": 9600,
+    "hash": "p2aedx",
+    "id": 482708,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "TAL-250K"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804354/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-04-28T09:00:23.125977",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482708/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Hi-Res 92MP Moon Pano - 4 April 2020",
+    "updated": "2021-03-21T09:51:42.043818",
+    "uploaded": "2020-04-27T18:40:56.933723",
+    "url_duckduckgo": "https://www.astrobin.com/p2aedx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/p2aedx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/p2aedx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/p2aedx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/p2aedx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/p2aedx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/p2aedx/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/p2aedx/0/rawthumb/thumb/",
+    "user": "Dzmitry_Kananovich",
+    "views": 154,
+    "w": 9600
+}

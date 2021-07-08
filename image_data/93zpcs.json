@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "37.901",
+    "description": "LBN 438 is a dark dusty nebula located in the south part of the constellation Lacerta with many fragments. It is a member of the Lynds Bright Nebula catalog which is ironic considering this object is quite dim.  Various internet sources describe the nebula as being illuminated by interstellar radiation also known as  Extended Red Emission (ERE).  It seems LBN 438 is a part of a much larger molecular cloud complex approximately 1200 light-years away, known as Lacerta 10 and includes Sh2-126 and LBN 437 (not shown - north of my image).\r\n\r\nI really like all the gas and dust in the region and it sits in a rich colorful star field.  In addition to the typical reflection from the dust, there is some hydrogen gas in this region and within the nebula itself.  There are numerous small galaxies scattered throughout this image with two prominent ones on the upper left (PGC 69469) and right (PGC 69605).  My favorite is PGC 69469 as the colorful spiral arms are clearly visible.\r\n\r\nOne of the reasons I imaged this nebula in particular is because I was able to image the Ha when the moon was out.  I have to be very strategic with targets due to a very poor field of view which is why I miss a lot of popular objects.  There are not many images of LBN 438 on Astrobin but it is getting imaged much more frequently now.  I seem to have a couple of small spots on my sensor or glass plate that the flats are not correcting so whenever I get convenient place to break down my set up, a good cleaning is in order.  In the mean time they are easy to fix in post processing. \r\n\r\nBlending of the Ha into the RGB image was done first with a 70% Ha and 30% Red replacing the Red channel using PixelMath to make the HaRGB image - other percentages were also tested.  Following this the Luminosity was added to the HaRGB using the LRGB combination.\r\n\r\nDates: 10-30-20, 11-2-20, 11-3-20, 11-4-20, 11-6-20, 11-8-20, 11-9-20",
+    "h": 3340,
+    "hash": "93zpcs",
+    "id": 541455,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "http://astroquest1.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "11.412",
+    "pixscale": "1.205",
+    "published": "2020-11-15T21:07:14.646341",
+    "ra": "340.533",
+    "radius": "0.945",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/541455/",
+    "revisions": [],
+    "subjects": [],
+    "title": "LBN 438 and Others",
+    "updated": "2021-06-28T19:30:40.789691",
+    "uploaded": "2020-11-15T20:56:06.173603",
+    "url_duckduckgo": "https://www.astrobin.com/93zpcs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/93zpcs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/93zpcs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/93zpcs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/93zpcs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/93zpcs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/93zpcs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/725ebca6-7e7d-4606-84e1-b507faeccd2d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/725ebca6-7e7d-4606-84e1-b507faeccd2d-1605474311.jpg",
+    "url_thumb": "https://www.astrobin.com/93zpcs/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 279,
+    "w": 4556
+}

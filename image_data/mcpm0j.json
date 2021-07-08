@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "-73.267",
+    "description": "NGC460 is to be found in the Southern constellation of Tucana.  It is one of the larger Hii regions in the SMC, first described by John Herschel in 1834.",
+    "h": 2504,
+    "hash": "mcpm0j",
+    "id": 552422,
+    "imaging_cameras": [
+        "QSI583wsg",
+        "QSI-683wsg"
+    ],
+    "imaging_telescopes": [
+        "BeamTech CDK250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808212/"
+    ],
+    "orientation": "89.922",
+    "pixscale": "0.769",
+    "published": "2020-12-24T04:17:54.456687",
+    "ra": "18.649",
+    "radius": "0.445",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/552422/",
+    "revisions": [],
+    "subjects": [
+        "IC 1662",
+        "IC1662",
+        "NGC 456",
+        "NGC 460",
+        "NGC 465",
+        "NGC456",
+        "NGC460",
+        "NGC465"
+    ],
+    "title": "NGC460, an Open Cluster and associated Faint Nebula in the SMC - LRGB+Ha",
+    "updated": "2021-05-23T13:50:29.632837",
+    "uploaded": "2020-12-24T00:50:22.955476",
+    "url_duckduckgo": "https://www.astrobin.com/mcpm0j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mcpm0j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mcpm0j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mcpm0j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mcpm0j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mcpm0j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mcpm0j/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17279/2020/bc0500d5-6edc-4daf-89ac-9b78dc612ccf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17279/2020/bc0500d5-6edc-4daf-89ac-9b78dc612ccf-1608783503.jpg",
+    "url_thumb": "https://www.astrobin.com/mcpm0j/0/rawthumb/thumb/",
+    "user": "TWF",
+    "views": 103,
+    "w": 3326
+}

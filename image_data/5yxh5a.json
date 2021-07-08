@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "61.383",
+    "description": "Mesa and Gold Canyon, Arizona\r\nDecember 5-6 and 12-15, 2020\r\n\r\nThe immense emission nebula, IC 1805 is a favorite winter widefield target for astrophotographers.  Since my telescope has a long focal length and narrow field of view, I imaged the center region of the Heart Nebula.  The core area was captured with narrowband filters, Hydrogen-alpha (Ha), Oxygen-III (OIII) and Sulfur-II (SII).  This was the first experiment where I took longer 10-minute exposures for each subframe.  Luckily, few stars were clipped (blown out).  This false color image uses the classic Hubble pallet, mapping SII to Red, Ha to Green and OIII to Blue channels.\r\n\r\nIC 1805 is a large emission nebula in the constellation Cassiopeia.  This nebula has strong signals in Ha, OIII and SII.  NGC 281 is about 41.5 light years across, and it is about 10,000 light years from Earth (SkySafari Pro).  There are striking dust lanes, with Pacman’s mouth being most prominent.  There are also a few Bok Globules where new stars may be forming.  There is an open star cluster in the center, IC 1590.  The bright star in the center, HD 5005, is actually member of a stable quintuple system.  This image shows a nice combination of bright, delicate emission regions and dark areas.  The background is full of gas and dust showing some of the extent of the material in the center of the heart.\r\n\r\nI used the ColorMask script and the CurvesTransformation tool in PixInsight to change the color balance and saturation in different regions of the nebula.  I was able to highlight the bright golden regions and balance that with the cyan-blue areas.  I am slowly learning how to apply different sharpening tools to the luminance image that was extracted from the SHO color image, and balance that with changing colors and saturation in the RGB image without over doing it.  Once the Luminance is combined with the RGB image (LRGB), then further refinement was done using the ColorMask script and the CurvesTransformation tool.  The image was then cropped and fine-tuned in Photoshop.",
+    "h": 1800,
+    "hash": "5yxh5a",
+    "id": 557333,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron C9.25 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815195/",
+        "/api/v1/location/2815196/"
+    ],
+    "orientation": "91.899",
+    "pixscale": "0.886",
+    "published": "2021-01-11T23:17:03.537385",
+    "ra": "38.384",
+    "radius": "0.369",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557333/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC 1805 the center of the Heart Nebula in Cassiopeia",
+    "updated": "2021-01-20T03:48:52.584800",
+    "uploaded": "2021-01-11T23:09:52.670149",
+    "url_duckduckgo": "https://www.astrobin.com/5yxh5a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5yxh5a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5yxh5a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5yxh5a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5yxh5a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5yxh5a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5yxh5a/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32910/2021/00b7e297-b793-4387-9c28-b1e22512daba.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32910/2021/00b7e297-b793-4387-9c28-b1e22512daba-1610407230.jpg",
+    "url_thumb": "https://www.astrobin.com/5yxh5a/0/rawthumb/thumb/",
+    "user": "mdwetzel",
+    "views": 60,
+    "w": 2400
+}

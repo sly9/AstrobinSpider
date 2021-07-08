@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 51,
+    "comments": 54,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "Simply put, I consider this to be my very best wide field image to date of the most stunning object of our night skies – the galaxy we live in. Here, the highlight is its central region, extending to the Southern arms across Scorpius and Norma, a view that can only be seen from southern latitudes. The field of view could fit more than 80 full-moons across. More about the behind the scenes after a text about the subject, reused from my previous Milky Way mosaic.\r\n\r\n<i> This image presents the Milky Way, our Cosmic Home. More specifically, it is a extremely wide field mosaic of the center of our galaxy as seen from Earth, pointing towards the constellations Scorpius, Sagittarius and Ophiuchus. The field spans some 60 degrees (120 full moons), and crosses the Zenith from Southern latitudes in a breathtaking view.\r\n\r\nThe Milky Way has arisen Humanity's questioning since Ancient times. Under the beauty of the unspoiled night skies, our ancestors wondered:\r\n\r\n\"[...] the !Kung Bushmen of the Kalahari Desert in Botswana have an explanation for the Milky Way, which at their latitude is often overhead. They call it ‘the backbone of night,’ as if the sky were some great beast inside which we live.\" [1] [...] \"Thomas Wright marveled in 1750 that Democritus had believed the Milky Way to be composed mainly of unresolved stars: ‘long before astronomy reaped any benefit from the improved sciences of optics' [...] Beyond the Milk of Hera, past the Backbone of Night, the mind of Democritus soared.\" [2]\r\n\r\nCarl Sagan puts it brilliantly in Cosmos. It was Galileo who first pointed the telescope and saw myriads of stars that made the bright clouds overhead. Today we know the white river in the sky is actually made of billions of unresolved stars! We know a lot about our galaxy, but there is much to be still discovered. In our quest of existence and understanding, we try to better understand the universe we are all part of.\r\n\r\nTo me, this deep connection to the night skies, that goes way back into the history of mankind, is a kernel of awe and inspiration. Unfortunately, many people today don’t see this vista, as light pollution spoil the view. Through images we have the unique opportunity to share some of the night skies' beauty to everyone, and hopefully inspire them to go and experience a dark sky someday.  </i>\r\n__________________________________\r\n\r\nThis image is actually a mosaic of 18 panels (3x6), captured using a Canon 6D (mod) and a Samyang 135mm camera lens, operating at an image scale of 10”/px. Surprisingly, all the data was captured in a single night in April 2021. Each panel is composed of 5 or 6 subframes of 2 minutes each, totaling 101 frames or a bit more than 3 hours. Despite the relatively short integration time, the final rendering surprised me. But I am getting ahead of myself – let’s go back to some of the challenges before having the final pretty picture.\r\n\r\nManaging and combining the large amount of data generated when creating a mosaic is not easy. Besides the 100+ light frames and corresponding calibration data, there are multiple processing steps and intermediate files. For this mosaic, the total size of the project folder is 92.1GB! Stitching together the panels seamlessly is also a challenge. For this particular image, this was made easier by shooting all the panels sequentially in a single night with “photometric” (read perfect) sky quality. This region also crossed zenith (best region of the sky) when the frames were shot. The keen eyed might notice a small and gradual loss of contrast in the dark Milky Way clouds when going South to Lupus, which might have been partly caused by airglow or LP gradients as this region was already lower in the sky. However, since this could also be partly a natural effect of the different optical densities (“extinction”) of the dust, I chose not to over-correct or over-process it.\r\n\r\nIn any case, after the painstaking processing work, the final results of large mosaics payoff: the full-resolution file is 19321x14725 pixels (or 284.5 megapixels), and 1.6GB. Here the image is presented in a more manageable resize, which still offers plenty resolution IMO. I spent a great deal of time wandering between the countless stars and nebulae, and I encourage you do the same. Revision B has the constellation lines manually annotated. Finally, I consider this image – overall balance, contrast, colour rendition, resolution, etc. – to be my best widefield mosaic to date, and one I'm genuinely proud of!\r\n\r\nConstructive criticism, comments and suggestions are more than welcome in the comments section!\r\n\r\nDate: 9 April 2021\r\nLocation: My Observatory, MG, Brazil. Rural Skies (Bortle 3, calculated SQM ~21.6)\r\nCamera: Canon EOS 6D (mod) at ISO 800\r\nOptics: Samyang 135mm f/2.0, operated at f/2.4\r\nMount: Sky-Watcher HEQ5, tracking, guiding\r\nExposure Detail: 101x120s. Total integration 202min or 3.4h.\r\n\r\n[1] Carl Sagan, COSMOS, \"The Backbone of Night\", pp. 179; [2] Carl Sagan, COSMOS, \"The Backbone of Night\", pp. 189",
+    "h": 4573,
+    "hash": "djyrrt",
+    "id": 599997,
+    "imaging_cameras": [
+        "Canon EOS 6D"
+    ],
+    "imaging_telescopes": [
+        "Samyang 135mm f/2 ED UMC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 359,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-06-25T17:23:36.203406",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/599997/",
+    "revisions": [
+        "/api/v1/imagerevision/292838/"
+    ],
+    "subjects": [],
+    "title": "Milky Way: The Backbone of Night - A Mosaic from Sagittarius to Lupus",
+    "updated": "2021-07-06T21:07:49.055333",
+    "uploaded": "2021-06-25T17:17:34.274203",
+    "url_duckduckgo": "https://www.astrobin.com/djyrrt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/djyrrt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/djyrrt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/djyrrt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/djyrrt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/djyrrt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/djyrrt/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/djyrrt/0/rawthumb/thumb/",
+    "user": "grsotnas",
+    "views": 1312,
+    "w": 6000
+}

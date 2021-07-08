@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "44.501",
+    "description": "Strottner-Drechsler 17 (more widely known as Sharpless 2-123) is a planetary nebula that was previously thought to be an HII region. It was only this past January that spectroscopy confirmed that StDr 17 / Sh 2-123 was indeed a planetary nebula. If your French is good, check out <a href=https://www.astrobin.com/full/6qgcy5/C/>Andreas Bringmann's image</a>, which contains the spectroscopic confirmation write-up. If your French isn't great, the key part by Quentin Parker is in English and it reads: <i>\"An HII region ID is ruled out by the very high [NII] to H-alpha ratio in the spectra despite the fact it is among areas of extended nebulosity. The nature of this object (and colours) are distinct. I think it is a highly evolved bipolar PN with a likely high mass progenitor of Type I chemistry.\"</i>\r\n\r\nThis one is fainter than I was expecting. It was also the first time I've ever added data and not been able to see any difference from my previous test stack - I originally planned on getting 25 hours of hydrogen, but my last 3.5 hours did nothing to improve the SNR (at least that I could see).\r\n\r\nI want to dedicate this one to <a href=https://www.astrobin.com/users/Goofi/>Goofi</a>, whose <a href=https://www.astrobin.com/269120/>image of this target</a> - the first one on Astrobin - inspired me to do it years ago. It took me way too long to get around to this target and I always planned on writing to him to ask him for some pointers before I started shooting it, but unfortunately we lost him before I got around to it. I'm bummed I never got a chance to talk with him, but even without personal contact, he definitely made his mark on me and the astro community as a whole (especially over on <a href=https://www.cloudynights.com/topic/554260-sh2-123-the-flea-nebula-not-really-but-why-not/>Cloudy Nights</a>).",
+    "h": 5213,
+    "hash": "7km10o",
+    "id": 521721,
+    "imaging_cameras": [
+        "QHYCCD 183"
+    ],
+    "imaging_telescopes": [
+        "SharpStar 15028HNT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "182.001",
+    "pixscale": "1.199",
+    "published": "2020-09-09T02:13:03.636077",
+    "ra": "325.611",
+    "radius": "1.042",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521721/",
+    "revisions": [
+        "/api/v1/imagerevision/248921/"
+    ],
+    "subjects": [],
+    "title": "Sh2-123 / StDr17 (Tick Nebula)",
+    "updated": "2021-06-01T15:01:20.680726",
+    "uploaded": "2020-09-09T01:59:05.339242",
+    "url_duckduckgo": "https://www.astrobin.com/7km10o/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7km10o/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7km10o/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7km10o/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7km10o/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7km10o/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7km10o/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/89a05333-abe5-4684-a9b7-9e1aa02ef7aa.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/89a05333-abe5-4684-a9b7-9e1aa02ef7aa-1599662410.png",
+    "url_thumb": "https://www.astrobin.com/7km10o/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 468,
+    "w": 3465
+}

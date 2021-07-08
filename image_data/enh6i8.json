@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-24.305",
+    "description": "First light with my ASI294MC-Pro and Optolong L-Extreme. This was only 1.5 hours of total integration, very happy with the results!\r\n\r\nGear:\r\nCamera: ASI294MC-Pro\r\nFilters: Optolong L-Extreme\r\nScope: Orion 8\" f5 Newt at 1000mm / Baader MarkIII CC\r\nGuidescope: Williams Optics 50mm\r\nGuidecam: ASI120MM mini\r\nMount: SW EQ6R Pro\r\nPegasus Astro Pocket Power Box\r\nAstro-Zap dew heaters\r\n\r\nImage details:\r\n30x180s, gain 120, offset 30, -10c, bin 1x1\r\n25 darks, flats, darkflats\r\n1.5 hrs total\r\nBortle 5/6 sky\r\n\r\nAcquisition/Edits:\r\nSharpCap, NINA, PHD2, Stellarium, Pixinsight, Photoshop",
+    "h": 2822,
+    "hash": "enh6i8",
+    "id": 601507,
+    "imaging_cameras": [
+        "ZWO ASI294 MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/4.9 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2816415/"
+    ],
+    "orientation": "2.506",
+    "pixscale": "0.946",
+    "published": "2021-07-03T16:51:30.007472",
+    "ra": "270.972",
+    "radius": "0.659",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601507/",
+    "revisions": [],
+    "subjects": [
+        "Lagoon Nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 - The Lagoon Nebula",
+    "updated": "2021-07-07T00:47:28.129010",
+    "uploaded": "2021-07-03T16:44:34.875152",
+    "url_duckduckgo": "https://www.astrobin.com/enh6i8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/enh6i8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/enh6i8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/enh6i8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/enh6i8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/enh6i8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/enh6i8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54336/2021/00bab771-0e4a-46fc-831e-1779d8322200.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54336/2021/00bab771-0e4a-46fc-831e-1779d8322200-1625331160.jpg",
+    "url_thumb": "https://www.astrobin.com/enh6i8/0/rawthumb/thumb/",
+    "user": "Colorado_Astro",
+    "views": 127,
+    "w": 4144
+}

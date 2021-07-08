@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "31.249",
+    "description": "The Veil Nebula is a cloud of heated and ionized gas and dust in the constellation Cygnus.\n\nIt constitutes the visible portions of the Cygnus Loop,[5] a supernova remnant, many portions of which have acquired their own individual names and catalogue identifiers. The source supernova was a star 20 times more massive than the Sun which exploded between 10,000 and 20,000 years ago. At the time of explosion, the supernova would have appeared brighter than Venus in the sky, and visible in daytime. The remnants have since expanded to cover an area of the sky roughly 3 degrees in diameter (about 6 times the diameter, and 36 times the area, of the full Moon). While previous distance estimates have ranged from 1200 to 5800 light-years, a recent determination of 2400 light-years is based on direct astrometric measurements. (The distance estimates affect also the estimates of size and age.)\n\nI imaged this on three nights, and used subs from the third night only. First night my spacing was off (new setup) causing elongated stars all around the outer edges. Second night haze from fires out west made stars fuzzy and appear larger than they should. The third night faint stars would disappear at times to the naked eye due to the smoke haze, but subs looked OK. \n\nI spent a lot of time post processing. Lots of stars in this area, minimizing them made the nebula stand out while making the background blotchy. I tried a few methods of star reduction with the same result so went with no reduction. take a look at 100% to see the detail in the nebula.",
+    "h": 4088,
+    "hash": "ubb7mq",
+    "id": 601693,
+    "imaging_cameras": [
+        "ZWO ASI2600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Radian Raptor 61 f/4.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2809233/"
+    ],
+    "orientation": "203.210",
+    "pixscale": "2.829",
+    "published": "2021-07-04T14:59:46.591633",
+    "ra": "312.864",
+    "radius": "2.912",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/601693/",
+    "revisions": [],
+    "subjects": [
+        "IC 1340",
+        "NGC 6960",
+        "NGC 6979",
+        "NGC 6992",
+        "NGC 6995",
+        "The star 52Cyg",
+        "Veil Nebula"
+    ],
+    "title": "Veil Nebula Complex",
+    "updated": "2021-07-07T01:23:09.360570",
+    "uploaded": "2021-07-04T14:37:26.882160",
+    "url_duckduckgo": "https://www.astrobin.com/ubb7mq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ubb7mq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ubb7mq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ubb7mq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ubb7mq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ubb7mq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ubb7mq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22998/2021/baafc8b9-ee9e-49e9-adbb-4381e312fc1c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22998/2021/baafc8b9-ee9e-49e9-adbb-4381e312fc1c-1625410809.jpg",
+    "url_thumb": "https://www.astrobin.com/ubb7mq/0/rawthumb/thumb/",
+    "user": "Bretw",
+    "views": 88,
+    "w": 6181
+}

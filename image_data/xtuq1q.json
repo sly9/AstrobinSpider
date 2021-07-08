@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 7,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.979",
+    "description": "This image features a trio of NGC galaxies that are likely interacting - NGC 7463, 7464, 7465. These galaxies are central in this image. The face-on galaxy, NGC 7465, has an interesting classification - (R')SB0^0?(s) - barely detectable outer pseudo-ring barred spiral. Outlying this galaxy trio grouping is UGC  12313  - an edge on galaxy that lies about the same distance as the NGC trio. Also, galaxy UGC 12321 may be related in that it has a similar distance (by redshift estimate) as the other galaxies, however, this galaxy has a widely discrepant redshift independent distance estimate. Finally, there are several background galaxies with distance estimates around the 1 billion light year distance.  These galaxies  are identified in the <a href=\"http://www.jthommes.com/Astro/images/NGC7463_Edge7_PS5-IP-Riot_annotated.jpg\">annotated image</a>.  There are also a number of background galaxies in this field not identified in the annotation.  Horizontal FOV is approximately 38 arc minutes (0.81 arcsec/pix image scale on the full size image).",
+    "h": 2100,
+    "hash": "xtuq1q",
+    "id": 503752,
+    "imaging_cameras": [
+        "SBIG ST8300M"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 925HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "http://www.jthommes.com/Astro/NGC7463.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.324",
+    "pixscale": "0.810",
+    "published": "2020-07-08T21:41:12.698803",
+    "ra": "345.495",
+    "radius": "0.394",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/503752/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7463",
+        "NGC 7465"
+    ],
+    "title": "NGC 7463, NGC 7464, NGC 7465",
+    "updated": "2021-03-24T21:49:11.434779",
+    "uploaded": "2020-07-08T22:41:13.365608",
+    "url_duckduckgo": "https://www.astrobin.com/xtuq1q/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xtuq1q/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xtuq1q/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xtuq1q/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xtuq1q/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xtuq1q/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xtuq1q/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/23c86865-56b2-4e63-8577-45cd6c2553b8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/23c86865-56b2-4e63-8577-45cd6c2553b8-1594248931.jpg",
+    "url_thumb": "https://www.astrobin.com/xtuq1q/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 128,
+    "w": 2800
+}

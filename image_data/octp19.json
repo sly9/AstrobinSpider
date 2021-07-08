@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "33.886",
+    "description": "Comet C/2020 M3 Atlas in Auriga. Of course background prepared earlier.\r\nPosition of the comet 10.12.2020 at 2:00 CET.\r\nBackground : FSQ 106 +STL11000 total 14 hours HaLRGB\r\nComet: Veloce RH200, ATIK ONE 6.0 on ASA DDM 60 - comet tracking used. L: 12x300 , colour:5x120 secs each.",
+    "h": 2320,
+    "hash": "octp19",
+    "id": 548734,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200",
+        "Takahashi FSQ 106N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/"
+    ],
+    "orientation": "1.294",
+    "pixscale": "3.083",
+    "published": "2020-12-10T14:14:14.752585",
+    "ra": "80.019",
+    "radius": "1.681",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/548734/",
+    "revisions": [
+        "/api/v1/imagerevision/263937/"
+    ],
+    "subjects": [
+        "Flaming Star Nebula",
+        "IC 405",
+        "NGC 1893",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "Auriga and wanderer",
+    "updated": "2021-02-11T01:15:43.541679",
+    "uploaded": "2020-12-10T14:04:46.880812",
+    "url_duckduckgo": "https://www.astrobin.com/octp19/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/octp19/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/octp19/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/octp19/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/octp19/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/octp19/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/octp19/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7649/2020/09f0d1dc-309c-420d-8769-0fcd040bfbbf.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7649/2020/09f0d1dc-309c-420d-8769-0fcd040bfbbf-1607609918.png",
+    "url_thumb": "https://www.astrobin.com/octp19/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 237,
+    "w": 3168
+}

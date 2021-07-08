@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "61.368",
+    "description": "Melotte 15 is an open star cluster in the heart of the Heart Nebula (IC 1805). It contains young energy rich stars whose heavy radiation forms fantastic cloud structurs glowing in the emission colors of H-alpha, OIII and SII.\r\n\r\nThe image is a compilation of RGB, Ha, SII and OIII data. The luminosity channel was built from the combined narrowband data while the nebula colour was taken form a combination of RGB, HRGB and HOO to get close to the natural color impression and obtain more structure in the color distribution likewise. Star colors are from a natural RGB palette.\r\n\r\nImage aqcuisition was made with an ASI1600mmp and a TS Photoline 130/910 refractor.\r\n\r\n54 x 30s R\r\n74 x 30s G\r\n47 x 30s B\r\n54 x 200s Ha\r\n50 x 200s OII\r\n30 x 200s SII",
+    "h": 3167,
+    "hash": "muuile",
+    "id": 540735,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "93.257",
+    "pixscale": "1.061",
+    "published": "2020-11-14T10:54:23.098785",
+    "ra": "38.798",
+    "radius": "0.799",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/540735/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Melotte 15 in IC 1805",
+    "updated": "2021-03-16T18:12:05.006543",
+    "uploaded": "2020-11-14T10:49:10.728311",
+    "url_duckduckgo": "https://www.astrobin.com/muuile/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/muuile/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/muuile/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/muuile/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/muuile/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/muuile/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/muuile/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/162b9e0a-d9e8-46b9-a4fd-43f83f570346.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/162b9e0a-d9e8-46b9-a4fd-43f83f570346-1605351374.jpg",
+    "url_thumb": "https://www.astrobin.com/muuile/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 400,
+    "w": 4403
+}

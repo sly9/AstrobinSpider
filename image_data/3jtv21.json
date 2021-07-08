@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "-13.835",
+    "description": "",
+    "h": 2685,
+    "hash": "3jtv21",
+    "id": 523032,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "91.881",
+    "pixscale": "0.470",
+    "published": "2020-09-14T00:23:42.565660",
+    "ra": "274.738",
+    "radius": "0.281",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/523032/",
+    "revisions": [],
+    "subjects": [
+        "Eagle Nebula",
+        "IC 4703",
+        "M 16",
+        "NGC 6611",
+        "Star Queen"
+    ],
+    "title": "M16 LRGB",
+    "updated": "2021-06-13T09:45:48.358585",
+    "uploaded": "2020-09-14T01:23:42.805866",
+    "url_duckduckgo": "https://www.astrobin.com/3jtv21/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3jtv21/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3jtv21/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3jtv21/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3jtv21/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3jtv21/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3jtv21/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/e8f7b4d0-b3ae-49f2-b59c-9ec983ca55a0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/e8f7b4d0-b3ae-49f2-b59c-9ec983ca55a0-1600047168.jpg",
+    "url_thumb": "https://www.astrobin.com/3jtv21/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 364,
+    "w": 3368
+}

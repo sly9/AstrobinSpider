@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 54,
+    "data_source": "BACKYARD",
+    "dec": "12.993",
+    "description": "After captured Leo Triplet, M66 seemed a good target for my 11\" SCT. The shape of M66 looks like an Arabic numeral 6 in this image. Did Charles Messier see this way and listed it #66 in the catalog? The data was collected during the period of below-average seeing. I also collected Ha 48 frames of 900 seconds, however, I couldn't blend Ha into the Red channel due to lack of details. \r\nAny C & C are welcome\r\nThanks,\r\n-- Facts ----\r\nMessier 66 (a.k.a. NGC 3627) \r\nM66 is an intermediate spiral galaxy in the constellation Leo, discovered by French astronomer Charles Messier in 1780. M66 is located 35 million light-years from Earth, has an apparent magnitude of 8.9, and is about 95 thousand light-years across with striking dust lanes and bright star clusters along sweeping spiral arms.\r\n\r\nTechnical details:\r\nTelescope: Celestron Edge HD11 + Reducer 0.7x\r\nMount: AP Mach2GTO\r\nImaging cameras:ZWO ASI2600MM Pro\r\nSoftware: PHD2, PixInsight, Lightroom 6.4, Sequence Generator Pro, Photoshop CS6\r\nLocation: Palo Alto, California, USA\r\nPhotometricColorCalibration data (pre-corp):\r\nResolution ............... 0.198 arcsec/px\r\nRotation ................. -69.911 deg\r\nObservation start time ... 2021-03-30 05:44:23 UTC\r\nObservation end time ..... 2021-04-18 08:27:39 UTC\r\nFocal distance ........... 1955.68 mm\r\nPixel size ............... 1.88 um\r\nField of view ............ 26' 7.4\" x 19' 5.5\"\r\nImage center ............. RA: 11 20 17.490  Dec: +12 59 08.47     \r\nFilters: Astrodon 1.25\" LRGB Gen2 E-Series Filter Sets\r\nBlue   106x300\"          8.8 Hours  Bin1x1 \r\nGreen  106x300\"          8.8 Hours  Bin1x1 \r\nRed    97x300\"           8 Hours    Bin1x1 \r\nLum    120x60\" 200x120\"  8.6 Hours  Bin1x1",
+    "h": 6185,
+    "hash": "pa2vpz",
+    "id": 586080,
+    "imaging_cameras": [
+        "ZWO ASI2600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11 C11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 251,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "159.900",
+    "pixscale": "0.198",
+    "published": "2021-04-30T15:54:17.758192",
+    "ra": "170.071",
+    "radius": "0.219",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/586080/",
+    "revisions": [],
+    "subjects": [
+        "M 66",
+        "NGC 3627"
+    ],
+    "title": "Messier 66 (a.k.a. NGC 3627) - LRGB",
+    "updated": "2021-07-07T08:05:22.025838",
+    "uploaded": "2021-04-30T15:37:53.492062",
+    "url_duckduckgo": "https://www.astrobin.com/pa2vpz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pa2vpz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pa2vpz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pa2vpz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pa2vpz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pa2vpz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pa2vpz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2021/ed235e97-e24b-4a1b-ac78-1e1347f42c20.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2021/ed235e97-e24b-4a1b-ac78-1e1347f42c20-1619797756.JPG",
+    "url_thumb": "https://www.astrobin.com/pa2vpz/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 488,
+    "w": 5021
+}

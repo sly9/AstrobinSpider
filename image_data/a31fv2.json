@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "55.020",
+    "description": "M97 in OSC",
+    "h": 5412,
+    "hash": "a31fv2",
+    "id": 483263,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 8 HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811099/"
+    ],
+    "orientation": "284.879",
+    "pixscale": "0.322",
+    "published": "2020-04-29T02:36:17.518156",
+    "ra": "168.684",
+    "radius": "0.428",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/483263/",
+    "revisions": [],
+    "subjects": [
+        "M 97",
+        "NGC 3587",
+        "Owl Nebula"
+    ],
+    "title": "M97",
+    "updated": "2021-06-24T15:02:27.561718",
+    "uploaded": "2020-04-29T03:36:18.265392",
+    "url_duckduckgo": "https://www.astrobin.com/a31fv2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/a31fv2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/a31fv2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/a31fv2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/a31fv2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/a31fv2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/a31fv2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33512/2020/c5f911d7-7a31-4e87-879f-7a20e7aa78e3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33512/2020/c5f911d7-7a31-4e87-879f-7a20e7aa78e3-1588131602.png",
+    "url_thumb": "https://www.astrobin.com/a31fv2/0/rawthumb/thumb/",
+    "user": "elineberry75",
+    "views": 280,
+    "w": 7920
+}

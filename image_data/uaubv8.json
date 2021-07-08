@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "66.634",
+    "description": "NGC 6543 Cat's Eye Nebula\r\n\r\nWhile this is my second image with the ASI071MC camera, it is now combined with the Optolong L-eNhance to gain a narrow band image during the mostly full moon. This object usually proves to be a difficult target due to the combination of a very bright core and much fainter outer nebula. \r\n\r\nFortunately PixInsight HDRMultiscale Transform with 10 iterations was able to extract most of the core oversaturation and reveal some detail in the complex inner windings of the central \"eye\".",
+    "h": 2300,
+    "hash": "uaubv8",
+    "id": 497338,
+    "imaging_cameras": [
+        "ZWO ASI071MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C9.25 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809911/"
+    ],
+    "orientation": "17.651",
+    "pixscale": "0.596",
+    "published": "2020-06-14T03:17:49.821682",
+    "ra": "269.638",
+    "radius": "0.319",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/497338/",
+    "revisions": [],
+    "subjects": [
+        "IC4677",
+        "NGC 6552",
+        "NGC6543",
+        "NGC6552",
+        "PK096+29.1"
+    ],
+    "title": "NGC 6543 The Cat's Eye Nebula with  L-eNhance Filter",
+    "updated": "2021-06-23T06:11:01.191460",
+    "uploaded": "2020-06-14T04:17:50.055492",
+    "url_duckduckgo": "https://www.astrobin.com/uaubv8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uaubv8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uaubv8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uaubv8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uaubv8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uaubv8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uaubv8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29409/2020/d79fec67-660d-458c-a3f1-ee4ec9f40f99.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29409/2020/d79fec67-660d-458c-a3f1-ee4ec9f40f99-1592109623.jpg",
+    "url_thumb": "https://www.astrobin.com/uaubv8/0/rawthumb/thumb/",
+    "user": "JohnAdastra",
+    "views": 94,
+    "w": 3092
+}

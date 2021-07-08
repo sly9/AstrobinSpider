@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Solar prominences on August 31, 2020.\r\nLS60THaDS50/B1200\r\nASI120MC-S\r\nBest 50% from 4000 frames",
+    "h": 1032,
+    "hash": "2k3ph3",
+    "id": 521105,
+    "imaging_cameras": [
+        "ASI120MCS Zwo asi120mc-s"
+    ],
+    "imaging_telescopes": [
+        "Lunt 60PT/B1200 Double Stacked Lunt LS 60PTHa / B1200 / DS"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806988/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-09-06T16:57:40.020005",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521105/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Solar Prominence",
+    "updated": "2021-04-24T14:06:39.778113",
+    "uploaded": "2020-09-06T17:57:40.154565",
+    "url_duckduckgo": "https://www.astrobin.com/2k3ph3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2k3ph3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2k3ph3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2k3ph3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2k3ph3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2k3ph3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2k3ph3/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/2k3ph3/0/rawthumb/thumb/",
+    "user": "Benjaminlaw",
+    "views": 168,
+    "w": 1376
+}

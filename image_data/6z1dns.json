@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "-2.487",
+    "description": "Version HaRVB\r\nHa avec ZWO ASI 294MM: 80x180sec\r\nRVB avec ZWO ASI 2600MC: 80x180sec\r\nHa avec Hyperstar sur C925 et Zwo asi 1600MMpro\r\n(Acquisition de l’année dernière): 80x120sec\r\n\r\nVoici une version HaRVB faite à l’askar FRA400 dont les détails ont été accentués grâce à l’hyperstar sur C925. \r\nLa couleur a été faite avec l’askar également. \r\n\r\nLe mixage entre l’hyperstar et le C925 a été effectué sous pixinsight. Au préalable, un drizzle a été effectué en prétraitement pour rapprocher les 2 échantillonnages. \r\nLes acquisitions ont été faite avec l’asiair pro. Une première! Plutôt très satisfait de ce boîtier même si la courbe d’autofocus est encore perfectible pour des rapports f/d bas (en dessous de 4). En tout cas, cela me permet d’avoir un setup sans aucun câble qui pend! J’ai bien dit aucun! Car l’alimentation de l’asiair s’effectue par le biais de la platine DEC de ma monture ou il y a un hub USB ET 2 prises alimentation.\r\n\r\nConcernant la cible, elle fait partie des « classiques » de l’hiver mais comme tous les classiques, elle n’est pas forcément évidente pour plusieurs raisons;\r\nLa première, c’est de trouver une version qui ressortent par rapport aux multitudes autres versions tout en restant équilibré au niveau des couleurs. \r\nLa 2eme, c'est la gestion d’Alnitak et de son énorme halo vu sa faible magnitude.\r\nBcp de plaisir à traiter cette image même si j’y ai passé quelques heures (pour ne pas dire jour😅).",
+    "h": 3008,
+    "hash": "6z1dns",
+    "id": 557994,
+    "imaging_cameras": [
+        "zwo asi 294 MM pro",
+        "ZWO ASI 2600 MC"
+    ],
+    "imaging_telescopes": [
+        "SharpStar Askar 400/F5.6",
+        "Celestron EdgeHD 9.25"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 172,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "90.260",
+    "pixscale": "3.397",
+    "published": "2021-01-14T14:31:43.651223",
+    "ra": "85.347",
+    "radius": "1.946",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/557994/",
+    "revisions": [
+        "/api/v1/imagerevision/268859/"
+    ],
+    "subjects": [
+        "Flame Nebula",
+        "IC 431",
+        "IC 432",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "Orion B",
+        "Part of the constellation Orion (Ori)",
+        "The star Alnilam (εOri)",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "Ic434-la nébuleuse du cheval et de la flamme",
+    "updated": "2021-05-26T11:13:17.370508",
+    "uploaded": "2021-01-14T09:59:26.335079",
+    "url_duckduckgo": "https://www.astrobin.com/6z1dns/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6z1dns/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6z1dns/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6z1dns/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6z1dns/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6z1dns/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6z1dns/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2021/043c6b27-f703-4316-887f-252341354ab9.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2021/043c6b27-f703-4316-887f-252341354ab9-1610619790.jpeg",
+    "url_thumb": "https://www.astrobin.com/6z1dns/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 1071,
+    "w": 2822
+}

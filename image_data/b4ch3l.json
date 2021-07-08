@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "-58.656",
+    "description": "Data March 2020: Ha , OIII , SII  Stellarvue 130 Telescope\r\nData Feb and March 2021: Ha, OIII Stellarvue 130 and OOUK AG10 Telescope\r\nTotal capture 2910 min\r\nHOO composition and HOS  star.",
+    "h": 3879,
+    "hash": "b4ch3l",
+    "id": 575420,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Cool CMOS Camera"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVS130 f5 Astrograph",
+        "OOUK AG10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808626/"
+    ],
+    "orientation": "268.603",
+    "pixscale": "0.546",
+    "published": "2021-03-20T00:15:41.239707",
+    "ra": "159.381",
+    "radius": "0.416",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/575420/",
+    "revisions": [],
+    "subjects": [
+        "IC 2599",
+        "NGC 3324",
+        "NGC3324"
+    ],
+    "title": "IC 2599 in Carina Nebula",
+    "updated": "2021-06-24T20:57:44.044417",
+    "uploaded": "2021-03-20T00:15:41.576688",
+    "url_duckduckgo": "https://www.astrobin.com/b4ch3l/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b4ch3l/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b4ch3l/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b4ch3l/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b4ch3l/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b4ch3l/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b4ch3l/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26190/2021/9bd240fa-6e08-441f-8c9e-dd90bb2114df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26190/2021/9bd240fa-6e08-441f-8c9e-dd90bb2114df-1616199833.jpg",
+    "url_thumb": "https://www.astrobin.com/b4ch3l/0/rawthumb/thumb/",
+    "user": "JAIME.FELIPE",
+    "views": 159,
+    "w": 3874
+}

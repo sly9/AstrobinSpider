@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "47.055",
+    "description": "I created a two panel mosaic of the area north of the America Nebula around 30 and 31 Cygni stars.\r\nL: 30x300 secs, RGB: 10x300 secs for colour, Ha: 12x1200 secs.",
+    "h": 2000,
+    "hash": "ng9o27",
+    "id": 511821,
+    "imaging_cameras": [
+        "SBIG STL-11000M STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "0.612",
+    "pixscale": "6.262",
+    "published": "2020-08-03T07:21:42.134317",
+    "ra": "304.360",
+    "radius": "2.144",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/511821/",
+    "revisions": [
+        "/api/v1/imagerevision/244117/"
+    ],
+    "subjects": [
+        "The star 30Cyg",
+        "The star 31Cyg",
+        "The star 32Cyg"
+    ],
+    "title": "Not far from America",
+    "updated": "2021-05-14T20:19:57.722442",
+    "uploaded": "2020-08-03T08:21:42.586308",
+    "url_duckduckgo": "https://www.astrobin.com/ng9o27/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ng9o27/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ng9o27/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ng9o27/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ng9o27/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ng9o27/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ng9o27/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7649/2020/e948f10f-59cf-4f45-a175-5692fb7c7e9e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7649/2020/e948f10f-59cf-4f45-a175-5692fb7c7e9e-1596449832.png",
+    "url_thumb": "https://www.astrobin.com/ng9o27/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 136,
+    "w": 1442
+}

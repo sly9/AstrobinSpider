@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "58.104",
+    "description": "Gear:\r\nCamera: ASI1600MM w/ EAF, EFW\r\nFilters: Astrodon 5nm HA, 3nm OIII, 3nm SII\r\nScope: Orion 8\" f5 newt 1000mm fl\r\nGuidescope: Williams Optics 50mm\r\nGuidecam: ASI120MM mini\r\nMount: SW EQ6R-Pro\r\nPegasus Astro Pocket Power Box\r\nAstro-Zap dew heaters\r\nImage details:\r\n63x300s HA, Gain 139, -10c, bin 1\r\n33x300s OIII, Gain 139, -10c, bin 1\r\n32x300s SII, Gain 139, -10c, bin 1\r\n25 darks, flats, darkflats\r\n10.6 hrs total\r\nAcquisition/Edits:\r\nSharpCap, NINA, PHD2, Stellarium, Pixinsight, Photoshop",
+    "h": 3109,
+    "hash": "42p123",
+    "id": 595125,
+    "imaging_cameras": [
+        "ZWO ASI ASI1600 MM cooled"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/4.9 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2816415/"
+    ],
+    "orientation": "34.410",
+    "pixscale": "0.776",
+    "published": "2021-06-06T17:32:11.888754",
+    "ra": "341.734",
+    "radius": "0.584",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/595125/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "NGC 7380 aka The Wizard Nebula",
+    "updated": "2021-07-06T23:36:02.623787",
+    "uploaded": "2021-06-06T17:25:20.961973",
+    "url_duckduckgo": "https://www.astrobin.com/42p123/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/42p123/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/42p123/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/42p123/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/42p123/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/42p123/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/42p123/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54336/2021/92a5aa21-5589-4542-b28a-1640122f07e5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54336/2021/92a5aa21-5589-4542-b28a-1640122f07e5-1623000827.jpg",
+    "url_thumb": "https://www.astrobin.com/42p123/0/rawthumb/thumb/",
+    "user": "Colorado_Astro",
+    "views": 173,
+    "w": 4432
+}

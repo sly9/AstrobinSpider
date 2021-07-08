@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 70,
+    "data_source": "TRAVELLER",
+    "dec": "9.897",
+    "description": "I could not take any OIII this winter on this target, so I used a synthetic Oxygen of 30% Ha and 70% SII.\r\nAs the image size was about 44MB, I downsized the frame size to 6000x4015 pixels.\r\nThe original frame size was: 8288x5644 pixels.",
+    "h": 6000,
+    "hash": "wg5ju1",
+    "id": 593241,
+    "imaging_cameras": [
+        "ZWO ASI294MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 127mm ED TRIPLET APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811164/"
+    ],
+    "orientation": "2.471",
+    "pixscale": "0.959",
+    "published": "2021-05-30T16:20:59.564639",
+    "ra": "100.241",
+    "radius": "0.962",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/593241/",
+    "revisions": [],
+    "subjects": [
+        "15 S Mon",
+        "Christmas Tree Cluster",
+        "NGC 2264",
+        "Sh2-273",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264 - Fox Fur, Unicorn, and Christmas Tree",
+    "updated": "2021-07-06T09:30:44.605651",
+    "uploaded": "2021-05-30T15:59:33.567315",
+    "url_duckduckgo": "https://www.astrobin.com/wg5ju1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wg5ju1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wg5ju1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wg5ju1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wg5ju1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wg5ju1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wg5ju1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/35882/2021/e39a5345-4f15-4834-8b5e-fff21bc6a8f8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/35882/2021/e39a5345-4f15-4834-8b5e-fff21bc6a8f8-1622390683.jpg",
+    "url_thumb": "https://www.astrobin.com/wg5ju1/0/rawthumb/thumb/",
+    "user": "Wissam_Astrophotography",
+    "views": 1106,
+    "w": 4015
+}

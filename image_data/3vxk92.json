@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.208",
+    "description": "Object : Ced 51 \r\nDate : Feb.2020-Mar.2020 \r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure : L:300sx29 ,Rx300sx21,Gx300sx21,Bx300sx21 (7.67hr)  \r\nGuiding  :Borg 50/ asi174 ,\r\nProcessing:  PI、PS-CC",
+    "h": 2048,
+    "hash": "3vxk92",
+    "id": 503768,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "https://astro-noodle.blogspot.com/2020/07/ced-51.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "178.637",
+    "pixscale": "0.884",
+    "published": "2020-07-09T00:32:37.456511",
+    "ra": "82.876",
+    "radius": "0.320",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/503768/",
+    "revisions": [],
+    "subjects": [
+        "B32"
+    ],
+    "title": "Ced 51",
+    "updated": "2021-07-01T17:47:53.121409",
+    "uploaded": "2020-07-09T01:32:37.693729",
+    "url_duckduckgo": "https://www.astrobin.com/3vxk92/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3vxk92/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3vxk92/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3vxk92/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3vxk92/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3vxk92/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3vxk92/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/ff439155-3818-49c5-9bd7-9e1881738225.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/ff439155-3818-49c5-9bd7-9e1881738225-1594258663.png",
+    "url_thumb": "https://www.astrobin.com/3vxk92/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 424,
+    "w": 1611
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "33.032",
+    "description": "Well known planetary nebula in Lyra. The core is bright at magnitude 8.6 but the layered halo, particularly the outermost layer is exceptionally faint.\r\n\r\nImaging Camera: QSI640wsg\r\nImaging Scope: Celestron 9.25\"Edge HD at f/7\r\nGuide Camera: SX Lodestarx2\r\nMount: Avalon M-Uno Fast Reverse\r\nFilters: Astrodon Gen II LRGB\r\nExposure: 10 hours 5nm Ha, 1 minute subs for the core, and 30 minute binx2 subs for the halo. 3 hours luminance (binx1) and 1 hour each RGB (binx2) 1 minute subs.\r\nProcessing: CCD Stack and PS CC\r\nDate: 7/5/20-7/13/20\r\nSky conditions: Below average seeing, bortle white skies, SQM 17.8 mag/arc-sec2\r\nLocation: My front driveway. Morristown, NJ",
+    "h": 1293,
+    "hash": "gf5prd",
+    "id": 506087,
+    "imaging_cameras": [
+        "QSI640WSG"
+    ],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 32,
+    "link": "https://pbase.com/dsantiago/image/170868553",
+    "link_to_fits": "https://pbase.com/dsantiago/image/170868553",
+    "locations": [
+        "/api/v1/location/2808843/"
+    ],
+    "orientation": "272.745",
+    "pixscale": "0.928",
+    "published": "2020-07-16T00:09:51.285825",
+    "ra": "283.400",
+    "radius": "0.236",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/506087/",
+    "revisions": [
+        "/api/v1/imagerevision/242415/"
+    ],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring Nebula"
+    ],
+    "title": "M57 Ring Nebula with faint OIII Halo",
+    "updated": "2021-06-10T00:42:18.821563",
+    "uploaded": "2020-07-16T01:09:51.447182",
+    "url_duckduckgo": "https://www.astrobin.com/gf5prd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gf5prd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gf5prd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gf5prd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gf5prd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gf5prd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gf5prd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21875/2020/e1559708-110c-441d-934f-77d4adb98532.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21875/2020/e1559708-110c-441d-934f-77d4adb98532-1594862203.png",
+    "url_thumb": "https://www.astrobin.com/gf5prd/0/rawthumb/thumb/",
+    "user": "schmeah",
+    "views": 90,
+    "w": 1293
+}

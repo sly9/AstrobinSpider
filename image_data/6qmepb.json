@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 7,
+    "data_source": "TRAVELLER",
+    "dec": "61.159",
+    "description": "The Bubble nebula is also a well known object, unlike many images here on Astrobin that home in on the Bubble with longer focal length, using 8in f4 will produce more a wide field.\r\n\r\nAs usual it is a starless work flow on the Ha, OIII and SII channels that were merged using modified Hubble palette. 14h exposure time went into the narrow band. For the first time I also tried adding a synthetic luminance channel (max(Ha,O3,S2) to the NB RGB. The resulting image was then merged with the RGB stars (another 2h exposure).\r\n\r\n35x60s je RGB\r\n46x300s Ha\r\n70x300s O3\r\n56x300s S2\r\n\r\n19.-22.6.",
+    "h": 2250,
+    "hash": "6qmepb",
+    "id": 529914,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "8 Inch f4 Carbon Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805971/"
+    ],
+    "orientation": "192.575",
+    "pixscale": "1.079",
+    "published": "2020-10-04T14:58:33.447140",
+    "ra": "350.300",
+    "radius": "0.562",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/529914/",
+    "revisions": [],
+    "subjects": [
+        "Bubble Nebula",
+        "NGC 7635"
+    ],
+    "title": "NGC7636 - Bubble Nebula",
+    "updated": "2021-06-19T09:45:12.533244",
+    "uploaded": "2020-10-04T15:44:27.168688",
+    "url_duckduckgo": "https://www.astrobin.com/6qmepb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6qmepb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6qmepb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6qmepb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6qmepb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6qmepb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6qmepb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19681/2020/9c6b89bb-6c2d-4155-9840-ea2439a3eaf8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19681/2020/9c6b89bb-6c2d-4155-9840-ea2439a3eaf8-1601827045.jpg",
+    "url_thumb": "https://www.astrobin.com/6qmepb/0/rawthumb/thumb/",
+    "user": "vgutsmann",
+    "views": 135,
+    "w": 3000
+}

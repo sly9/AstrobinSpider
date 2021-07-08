@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-32.885",
+    "description": "NGC1532 in LRGBHa",
+    "h": 1733,
+    "hash": "t8c1ad",
+    "id": 573338,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro-Cool ZWO ASI1600MM Pro Cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" F5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802024/"
+    ],
+    "orientation": "4.923",
+    "pixscale": "0.885",
+    "published": "2021-03-11T21:13:12.101082",
+    "ra": "63.075",
+    "radius": "0.353",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/573338/",
+    "revisions": [],
+    "subjects": [
+        "IC 2041",
+        "NGC 1531",
+        "NGC 1532"
+    ],
+    "title": "NGC1532",
+    "updated": "2021-07-06T11:08:52.944908",
+    "uploaded": "2021-03-11T20:56:08.499750",
+    "url_duckduckgo": "https://www.astrobin.com/t8c1ad/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t8c1ad/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t8c1ad/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t8c1ad/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t8c1ad/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t8c1ad/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t8c1ad/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9707/2021/e8345e5c-6c0f-4af0-a792-56044fd0cb67.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9707/2021/e8345e5c-6c0f-4af0-a792-56044fd0cb67-1615497101.png",
+    "url_thumb": "https://www.astrobin.com/t8c1ad/0/rawthumb/thumb/",
+    "user": "weathermon",
+    "views": 195,
+    "w": 2288
+}

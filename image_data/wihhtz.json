@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "54.421",
+    "description": "The outer spiral arms of M101 are too faint for my light polluted skies, so I tried to present this galaxy in a different way. My processing focused on emphasizing the fine structures such as the galaxy core, dark dust lanes, emission nebulae and star clusters. \r\n\r\nSeeing was fair, about 2.5\" FWHM in the center of the frame. This reduced to 1.8\" after applying RL deconvolution. I'm pretty pleased with the star size across the frame, my camera's tilt adapter seems to be dialed in pretty well.",
+    "h": 1600,
+    "hash": "wihhtz",
+    "id": 574116,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 165,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "91.705",
+    "pixscale": "0.979",
+    "published": "2021-03-14T16:43:30.440868",
+    "ra": "210.797",
+    "radius": "0.370",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/574116/",
+    "revisions": [
+        "/api/v1/imagerevision/278014/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471"
+    ],
+    "title": "M101 Galaxy - Fine structures from light polluted skies",
+    "updated": "2021-05-12T18:58:56.148435",
+    "uploaded": "2021-03-14T16:17:04.176436",
+    "url_duckduckgo": "https://www.astrobin.com/wihhtz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wihhtz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wihhtz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wihhtz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wihhtz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wihhtz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wihhtz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2021/45b04472-4589-4a56-9a1c-cf6a0b8d071a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2021/45b04472-4589-4a56-9a1c-cf6a0b8d071a-1615738774.jpg",
+    "url_thumb": "https://www.astrobin.com/wihhtz/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 419,
+    "w": 2200
+}

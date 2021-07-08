@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 43,
+    "data_source": "OWN_REMOTE",
+    "dec": "19.002",
+    "description": "One of the downsides of processing pretty pictures is that you can often see structures in the noisy data that can't be brought to light in an attractive manner.  In this image I see lanes of material connecting the satellite galaxies to 772 and to each other.  At the top I also see what appear to be clumps of blue stars sputtered as the long single arm has spun away.  These features just barely remain after bringing down the background to a pleasing level.  \r\n\r\nIt didn't help that I had bad reflections just outside this frame both above and below the galaxy.  And terrible gradients in blue and green.  I always feel like DBE, as awesome as it is, costs me my faintest details.  \r\n\r\nI did not (and do not) know for sure what the reflections were but foolishly I did not re-frame until I had shot 30+ hours.  moving the galaxy core off center and rotating cleared the reflections completely.  But the impending winter humidity will prevent a full re-shoot so it was time to process.\r\n\r\nProcessing was done mostly in CCDStack, including deconvolution.  I produced two luminance images, one with all subs and one with the sharpest half.  The sharpest was deconvolved and blended with the deeper, blurrier luminance data using a luminance mask.  So the stars and highlights are sharp and the shadows have twice the data.  The RGB data was sent through DBE and Photometric color calibration in PI.  \r\n\r\nNoise reduction was first a 2 pixel blur in the color data and then a Topaz.  My process with Topaz was to turn off sharpening, mask the stars out completely and brush in only some of the noise reduction in the galaxy highlights.  Topaz can be like going to the grocery store in a Forumula one car - easy to put it into the wall but it get you there swiftly if handled with care.\r\n\r\nThe usual curves, saturation, an color balance adjustments in Photoshop.  An Unsharp mask with a span of 48 pixels was used on the galaxy to improve dark lane contrast.\r\n\r\nPostscript: I wondered what a fiddlehead was.  A Google search turned up a fiddlehead fern but then it occurred to me that this was also just named after the top part of a violin where the strings attach.  In the rural USA a violin is called a fiddle!\r\n\r\nEDIT: I've added an inverted version of the Luminance master.  I've stretched it to show the connections between the main galaxy and satellites.  You can also see more of the sputters from the anomalous arm.  I've noted the reflections as if they weren't obvious!  Finally, you can see the dark horizontal lines bright objects can produce on the QHY600M.",
+    "h": 1368,
+    "hash": "z5mhmq",
+    "id": 542215,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 302,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "210.130",
+    "pixscale": "0.609",
+    "published": "2020-11-19T17:37:37.590072",
+    "ra": "29.832",
+    "radius": "0.189",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/542215/",
+    "revisions": [
+        "/api/v1/imagerevision/260749/"
+    ],
+    "subjects": [
+        "NGC 770",
+        "NGC 772",
+        "NGC770",
+        "NGC772"
+    ],
+    "title": "NGC 772 | The Fiddlehead Galaxy",
+    "updated": "2021-06-29T04:00:45.782271",
+    "uploaded": "2020-11-17T19:53:19.025102",
+    "url_duckduckgo": "https://www.astrobin.com/z5mhmq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z5mhmq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z5mhmq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z5mhmq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z5mhmq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z5mhmq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z5mhmq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/c20e2c44-f5d5-49c8-80a9-976d67871e0b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/c20e2c44-f5d5-49c8-80a9-976d67871e0b-1605660563.jpg",
+    "url_thumb": "https://www.astrobin.com/z5mhmq/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 801,
+    "w": 1764
+}

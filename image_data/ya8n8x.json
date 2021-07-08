@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 21,
+    "data_source": "OWN_REMOTE",
+    "dec": "55.678",
+    "description": "NGC 5866 features a sharply defined dark lane that indicates a precisely edge on alignment.  The galaxy may be lenticular or spiral - it's hard to say from this angle.  The dark lane is not visible with a traditional stretch, but PI's HDRMT or a tool like that will reveal it.  I wasn't happy with my HDRMT result (even though this is Adam Block's tutorial object for HDRMT...) so I used two separate stretches in CCDStack and blended them in PS.  \r\n\r\nOnce the dark lane is revealed, the contrast lends a sense of sharpness.  The tips of the lane seem to brighten to a cyan/blue due to the typical young stars in the outer areas of the galaxy.\r\n\r\nOutside of the very bright center the galaxy is quite dim and if you squint just right appears to have a globe like halo.   Stretching enough to see these dim bits really amplified the noise which was difficult to control.   At some point you just have to be done...so here it is.",
+    "h": 2103,
+    "hash": "ya8n8x",
+    "id": 525594,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 196,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "245.407",
+    "pixscale": "0.609",
+    "published": "2020-09-21T19:03:37.460189",
+    "ra": "226.572",
+    "radius": "0.301",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/525594/",
+    "revisions": [
+        "/api/v1/imagerevision/250920/",
+        "/api/v1/imagerevision/251607/"
+    ],
+    "subjects": [
+        "M102",
+        "NGC 5826",
+        "NGC 5862",
+        "NGC 5866",
+        "NGC 5867",
+        "NGC5862",
+        "NGC5870",
+        "Spindle galaxy"
+    ],
+    "title": "NGC 5866 | So Perfectly Edge-On",
+    "updated": "2021-06-14T03:57:13.362877",
+    "uploaded": "2020-09-21T19:31:43.061499",
+    "url_duckduckgo": "https://www.astrobin.com/ya8n8x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ya8n8x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ya8n8x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ya8n8x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ya8n8x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ya8n8x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ya8n8x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/ea351988-3a21-478c-a992-56a9c6b351a5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/ea351988-3a21-478c-a992-56a9c6b351a5-1600816924.jpg",
+    "url_thumb": "https://www.astrobin.com/ya8n8x/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 560,
+    "w": 2868
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "1.800",
+    "description": "LDN 1622 Boogeyman Nebula\r\n\r\nObject : LDN 1622 Boogeyman Nebula\r\nDate :  8 Feb.2019 - 12 Mar.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope  : GSO RC10 ,\r\nMount : Skywatcher EQ8\r\nCamera : SX-H694(-10ºC) ,\r\nFilters : Astrodon LRGB \r\nExposure : L:300sx53,R:300sx29,G:300sx26,B:300sx26 ( ~11.17hr)\r\nGuiding : OAG/ asi174 , \r\nImage Processing : PI ,PS-CC \r\n\r\nDetail image :\r\n\r\nhttps://astro-noodle.blogspot.com/2020/12/ldn-1622-boogeyman-nebula.html",
+    "h": 2093,
+    "hash": "2sbwd2",
+    "id": 552180,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "https://astro-noodle.blogspot.com/2020/12/ldn-1622-boogeyman-nebula.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "87.462",
+    "pixscale": "0.669",
+    "published": "2020-12-23T07:49:53.480287",
+    "ra": "88.618",
+    "radius": "0.312",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/552180/",
+    "revisions": [],
+    "subjects": [
+        "VdB62"
+    ],
+    "title": "LDN 1622 Boogeyman Nebula",
+    "updated": "2021-01-24T12:51:34.674732",
+    "uploaded": "2020-12-23T07:47:03.378541",
+    "url_duckduckgo": "https://www.astrobin.com/2sbwd2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2sbwd2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2sbwd2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2sbwd2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2sbwd2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2sbwd2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2sbwd2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/95d93363-c49f-4422-8605-b4cbe41bc3f8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/95d93363-c49f-4422-8605-b4cbe41bc3f8-1608709876.png",
+    "url_thumb": "https://www.astrobin.com/2sbwd2/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 269,
+    "w": 2621
+}

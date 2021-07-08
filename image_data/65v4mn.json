@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "-37.102",
+    "description": "We present a new image, in some ways at the limits of our set-up.\r\n\r\n3 versions\r\nA : full field,\r\nB : HaSII-OO-RGB\r\nC : SHORGB\r\n\r\nThe spectacular planetary nebula NGC 6302 lies roughly 3,800 light-years away in the constellation Scorpius. More popularly known as the Bug Nebula or the Butterfly Nebula, this celestial object looks like a delicate butterfly. But what resemble dainty wings are actually roiling regions of gas heated to more than 36,000 degrees Fahrenheit. The gas is tearing across space at more than 600,000 miles an hour — fast enough to travel from Earth to the Moon in 24 minutes.\r\nThe glowing gas is the star's outer layers, expelled over about 2,200 years. The \"butterfly\" stretches for more than two light-years, which is about half the distance from the Sun to the nearest star, Alpha Centauri.\r\nA dying star that was once about five times the mass of the Sun is at the center of this fury. It has ejected its envelope of gases and is now unleashing a stream of ultraviolet radiation that is making the cast-off material glow. This object is an example of a planetary nebula, so-named because many of them have a round appearance resembling that of a planet when viewed through a small telescope.\r\nThe central star itself cannot be seen, because it is hidden within a doughnut-shaped ring of dust, or torus, which appears as a dark band pinching the nebula in the center. The thick dust belt constricts the star's outflow, creating the classic \"bipolar\" or hourglass shape displayed by some planetary nebulae.\r\nThe star's surface temperature is estimated to be about 400,000 degrees Fahrenheit, making it one of the hottest known stars in our galaxy. Spectroscopic observations made with ground-based telescopes show that the gas is roughly 36,000 degrees Fahrenheit, which is unusually hot compared to a typical planetary nebula.\r\nHubble's Wide Field Camera 3 (WFC3) reveals a complex history of ejections from the star. The star first evolved into a red giant with a diameter of about 1,000 times that of our Sun. It then lost its extended outer layers. Some of this gas was cast off from its equator at a relatively slow speed, perhaps as low as 20,000 miles an hour, creating the torus. Other gas was ejected perpendicular to the ring at higher speeds, producing the elongated lobes or \"wings\" of the butterfly-shaped structure.\r\nLater, as the central star heated up, a much faster stellar wind (a stream of charged particles traveling at more than 2 million miles an hour) plowed through the existing wing-shaped structure, further modifying its shape. The image also shows numerous finger-like projections pointing back to the star, which may mark denser blobs in the outflow that have resisted the pressure from the stellar wind.\r\nThe nebula's reddish outer edges are largely due to light emitted by nitrogen, which marks the coolest gas visible in the Hubble image. WFC3 is equipped with a wide variety of filters that isolate light emitted by various chemical elements, allowing astronomers to infer properties of the nebular gas, such as its temperature, density, and composition.\r\nThe white-colored regions are areas where light is emitted by sulfur. These are regions where fast-moving gas overtakes and collides with slow-moving gas that left the star at an earlier time, producing shock waves in the gas (the bright white edges on the sides facing the central star). The white blob with the crisp edge at upper right is an example of one of those shock waves.\r\nUsing Hubble data in 2009, Cezary Szyszka of the University of Manchester in the United Kingdom and collaborators directly detected NGC 6302's central star for the first time. In 2011, Szyszka and his team further analyzed Hubble data to determine the motions of two lobes of the ejected material, which appear to have been created rapidly in an event 2,250 years ago. Other parts of the nebula, specifically the dense massive torus of molecular material, was produced more slowly, starting about 5,000 years ago and then terminating about 2,900 years ago, preceding the lobe ejection. This time delay gives clues to how the stellar system was modified through the final stages of the central star.\r\nIn 2014, Lucero Uscanga of the Institute of Astronomy, Astrophysics, Space Applications and Remote Sensing, National Observatory of Athens, and collaborators were able to use Hubble data to model both the complex shape and also the movement of the nebula, possibly caused by the interaction of two stellar winds\r\n\r\nversion A : the full field image\r\nversion B : a crop around the nebula in HSII-OORGB\r\nVersion C : a crop around the nebula in SHORGB",
+    "h": 4096,
+    "hash": "65v4mn",
+    "id": 531518,
+    "imaging_cameras": [
+        "Moravian Instrument G4-16000",
+        "Atik 414EX"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK 12.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.680",
+    "pixscale": "0.732",
+    "published": "2020-10-21T06:01:08.569311",
+    "ra": "258.435",
+    "radius": "0.589",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/531518/",
+    "revisions": [
+        "/api/v1/imagerevision/254534/",
+        "/api/v1/imagerevision/256051/"
+    ],
+    "subjects": [
+        "Bug nebula",
+        "NGC6302",
+        "PK349+01.1",
+        "Sh2-6"
+    ],
+    "title": "NGC-6302 : Bug Nebula HSIIOO-RGB",
+    "updated": "2021-03-16T19:21:48.870385",
+    "uploaded": "2020-10-11T15:20:21.289423",
+    "url_duckduckgo": "https://www.astrobin.com/65v4mn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/65v4mn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/65v4mn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/65v4mn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/65v4mn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/65v4mn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/65v4mn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/68264/2020/5fd0e33a-3aa1-46b8-9746-2d87625354d2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/68264/2020/5fd0e33a-3aa1-46b8-9746-2d87625354d2-1603205831.png",
+    "url_thumb": "https://www.astrobin.com/65v4mn/0/rawthumb/thumb/",
+    "user": "Los_Calvos",
+    "views": 211,
+    "w": 4096
+}

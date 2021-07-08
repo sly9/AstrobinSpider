@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 41,
+    "comments": 77,
+    "data_source": "OWN_REMOTE",
+    "dec": "73.006",
+    "description": "The data of this image was collected by our remote team buddy <a href=\"https://www.astrobin.com/users/yzhzhang/\">Yizhou Zhang</a> with our dual-scope setup during the last two months of 2020. A little wider FOV was used to process this version. It's somewhere between the FSQ-106EDX and the TOA-130NS. \r\n\r\nThe challenge of processing the dark nebula is always about the stars. LDN 1235 is especially the case. Attempted multiple ways of stretching the luminance and control the balance of the target brightness and the star brightness. Oh my, the starfield of this area is really dense. StarNet++ again give the battle-field alike result...\r\n\r\nHope you guys like it!\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 3840,
+    "hash": "ws3sta",
+    "id": 561912,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 420,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "78.495",
+    "pixscale": "2.693",
+    "published": "2021-01-29T01:45:08.151388",
+    "ra": "330.882",
+    "radius": "1.726",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/561912/",
+    "revisions": [
+        "/api/v1/imagerevision/271116/"
+    ],
+    "subjects": [
+        "The star 16Cep",
+        "The star 24Cep"
+    ],
+    "title": "\"The Dive\" - LDN 1235 - The Dark Shark Nebula in Cepheus",
+    "updated": "2021-07-04T21:27:15.416113",
+    "uploaded": "2021-01-29T00:54:25.876664",
+    "url_duckduckgo": "https://www.astrobin.com/ws3sta/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ws3sta/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ws3sta/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ws3sta/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ws3sta/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ws3sta/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ws3sta/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2021/d319d431-f157-4909-b1b0-79997e306b9b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2021/d319d431-f157-4909-b1b0-79997e306b9b-1612495724.png",
+    "url_thumb": "https://www.astrobin.com/ws3sta/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1978,
+    "w": 2560
+}

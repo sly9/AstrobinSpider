@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "47.297",
+    "description": "It was interesting to see how deep I could go with 6 hours of luminance data from my suburban backyard. \r\n\r\nRev.B shows inverted luminance with annotations from the SDSS R9 catalog. I used the data from the Sloan G-band filter, since it covers a good part of the visible spectrum (400 - 530 nm). Additionally, objects were filtered to include only galaxies instead of stars.\r\n\r\nThe limiting magnitude of this image appears to be ~21.5, more than 1000 galaxies can be seen.\r\n\r\nUpdate 17 May: I found a quasar named 7C 121446.70+472852.00 on the right side of the frame (click see full size Rev. C, the quasar is annotated in white text). It looks like a magnitude 19.5 star but it’s actually much, much further away. The redshift is 1.13 and according to the calculator below, this object lies 12 billion light years away! http://www.astro.ucla.edu/~wright/CosmoCalc.html",
+    "h": 2500,
+    "hash": "yykrso",
+    "id": 486564,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "https://astrovirusblog.wordpress.com/2020/05/17/m106-quasars-and-cosmological-distances/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "0.677",
+    "pixscale": "0.977",
+    "published": "2020-05-09T19:07:38.410734",
+    "ra": "184.613",
+    "radius": "0.500",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486564/",
+    "revisions": [
+        "/api/v1/imagerevision/232330/",
+        "/api/v1/imagerevision/233487/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4226",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258",
+        "NGC 6811"
+    ],
+    "title": "M106 HaLRGB",
+    "updated": "2021-06-02T23:17:25.231603",
+    "uploaded": "2020-05-09T18:31:57.587099",
+    "url_duckduckgo": "https://www.astrobin.com/yykrso/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yykrso/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yykrso/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yykrso/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yykrso/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yykrso/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yykrso/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/c5651030-6c37-4f56-84d1-8187deb8ce66.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/c5651030-6c37-4f56-84d1-8187deb8ce66-1589049609.jpg",
+    "url_thumb": "https://www.astrobin.com/yykrso/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 489,
+    "w": 2700
+}

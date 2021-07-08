@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "-3.218",
+    "description": "Imaged on nights of 9/11/2020, 9/12/2020, 9/18/2020, 9/19/2020.\r\n\r\nAbell 48 (PK029+00.1) is a slightly oval shaped, double ringed, planetary nebula in Serpens.\r\nIt is very small at 0.7x0.5 arc minutes. Magnitude is listed as 17.2 which would make it one of the dimmer Abell PNs. It was dim enough to not show any evidence of the PN on the RGB version. The Ha is about 20 times stronger than the Oiii.   It exhibits a very unusual double ring of Ha.  \r\n\r\nA what is probably the ionizing star shows prominently in the center. \r\nI could not find a single color image of this PN on the web, and only 2 mono. This is the first on Astrobin.\r\n\r\nAbell 48 has lot of scientific publications specifically dealing with the central star:  \"Abell 48 - A rare WN-type central star of a planetary nebua\", https://www.researchgate.net/publication/234083203_Abell_48_-_A_rare_WN-type_central_star_of_a_planetary_nebula\r\n\r\nReferring to Eric Honeycutt's visual observaing log again, I notice he used the Oiii filter for this one, and in fact almost all his PN observations use the Oiii filter.  I conclude from this that there is something about visual observing that makes the Oiii filter much better than the Ha, in spite of the fact that on a camera with a NB filter, the Oiii may be many times fainter than the Ha.  As in this case, 20 to 1.\r\nIf anyone knows why this is the case, I would love to hear.\r\nhttp://www.stathis-firstlight.de/deepsky/abell_honeycutt.htm",
+    "h": 2080,
+    "hash": "5pgoz7",
+    "id": 558667,
+    "imaging_cameras": [
+        "ZWO ASI178MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "87.709",
+    "pixscale": "0.442",
+    "published": "2021-01-17T15:17:34.867258",
+    "ra": "280.704",
+    "radius": "0.229",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/558667/",
+    "revisions": [],
+    "subjects": [
+        "PK029+00.1"
+    ],
+    "title": "Abell 48 Planetary Nebula",
+    "updated": "2021-04-07T21:40:15.654231",
+    "uploaded": "2021-01-16T19:52:54.673087",
+    "url_duckduckgo": "https://www.astrobin.com/5pgoz7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5pgoz7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5pgoz7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5pgoz7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5pgoz7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5pgoz7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5pgoz7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2021/a48be90e-a7a8-496a-ad6f-8aff576ef317.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2021/a48be90e-a7a8-496a-ad6f-8aff576ef317-1610895949.jpg",
+    "url_thumb": "https://www.astrobin.com/5pgoz7/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 203,
+    "w": 3096
+}

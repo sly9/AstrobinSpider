@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "69.068",
+    "description": "M81, also called Bode's galaxy, is one of the biggest and brightest galaxies in the sky. \r\nAt 12 Million lightyears distance, many details can be resolved if scope and seeing permits. \r\nHere the seeing was good, and the scope was first time guided by the new Lacerta Mgen3 guider using multistar guiding. That additionally helps keeping stars compact by virtually eliminating seeing effects on the guidescope. I was really amazed to see the raw pics come in that sharp.\r\n\r\nAt left there is the small satellite galaxy Holmberg IX resolved into stars, and a HII region there is also visible.\r\n\r\nThroughout the field there is a lot galactic cirrus nebula or IFN visible, belonging to our Milkyway galaxy.\r\n\r\nPresented are a crop on M81 and Holmberg IX, a full field and an annotated version.\r\nAnd a center crop of a single Lumi raw to show how that was like. \r\nPI subframe selector analysis FWHM 2.29 pixelpitch = 0.78 \r\n\r\nLRGB using 10\" f/4 Lacerta Photonewton and ASI1600mono with Astronomik filters.\r\n\r\nThe color here at Astrobin has a deeper orange hue than on my calibrated monitor. No idea why, have to ask Salvatore. A more original (yellower) color rendition can be found here on Flickr:\r\n<a href=\"https://www.flickr.com/photos/109613429@N08/49721368298\">https://www.flickr.com/photos/109613429@N08/49721368298</a>\r\n\r\nInterestingly, on my Android colors are fine!\r\nEDIT: Its a confirmed Firefox problem, because Astrobin currently strips the embedded ICC profile from the uploaded image. You need to set color mode = 1 in FF. Other browsers do better by default.",
+    "h": 1051,
+    "hash": "qfdao3",
+    "id": 471332,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 356,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810093/"
+    ],
+    "orientation": "1.549",
+    "pixscale": "1.176",
+    "published": "2020-03-31T21:28:49.891004",
+    "ra": "148.891",
+    "radius": "0.285",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/471332/",
+    "revisions": [
+        "/api/v1/imagerevision/223033/",
+        "/api/v1/imagerevision/223034/",
+        "/api/v1/imagerevision/223447/",
+        "/api/v1/imagerevision/223797/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "Bode's galaxy",
+        "M 81",
+        "M81",
+        "NGC 3031"
+    ],
+    "title": "M81",
+    "updated": "2021-03-25T21:42:06.170702",
+    "uploaded": "2020-03-31T22:28:49.999900",
+    "url_duckduckgo": "https://www.astrobin.com/qfdao3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qfdao3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qfdao3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qfdao3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qfdao3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qfdao3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qfdao3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/b6a9c42c-5dd8-46bb-932c-e1443cae1bb2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/b6a9c42c-5dd8-46bb-932c-e1443cae1bb2-1585705496.jpg",
+    "url_thumb": "https://www.astrobin.com/qfdao3/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 3281,
+    "w": 1391
+}

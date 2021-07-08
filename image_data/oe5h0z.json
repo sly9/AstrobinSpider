@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "50.525",
+    "description": "This is a very bright planetary nebula, with a bright central star that make for an excellent visual observing target. Lurking outside the brighter oval core is a faint round outer halo from an earlier mass loss event. The halo is reminiscent of the one around the Cat's Eye nebula (NGC6543).\r\n\r\nIt's interesting that the inner bright nebula clearly shows a bipolar structure, with faintly red knots just barely visible at the upper left and lower right sides, whereas the outer halo appears so perfectly symmetrical. I think the red knots would have shown up better, with a better filter. My UHC filter passes OIII, H-beta and H-alpha, but it also passes light with wavelengths longer than H-alpha well above 700nm. Planetary nebula emit a lot of light above 700nm, that my camera picks up in blue, so that may be swamping things. I have a real dual band filter in the mail, so I may be updating this image with a better version of the core soon!\r\n\r\nWhile the inner bright core of the nebula is only 26 x33 arc seconds in diameter, the outer halo is 138 arc seconds across. The central star in the Gaia database is 5100 light years away, so given the dimensions on the sky, that would put the inner nebula dimensions at about 0.82 x 0.67 light years and the larger faint halo at 3.45 light years. All these are reasonable sizes for a planetary nebula, so the Gaia database star probably is the progenitor.\r\n\r\nI used a variety of exposures and filters to capture star colors 3 x 8 minute (IRCut filter using 320x1.5 second exposures), the outer halo 10 x 8 minute subs (UHC filter using 240x2 second exposures) , and the bright core 14 x 4 minute subs (UHC filter using 240 x 1 second subs). I added the outer halo and core UHC data for the halo, but only used the sharper bright core subs shot using 1 second exposures for better sharpness.",
+    "h": 1556,
+    "hash": "oe5h0z",
+    "id": 594382,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Orion Skyquest xx16g Skyquest xx16g"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808760/"
+    ],
+    "orientation": "84.455",
+    "pixscale": "0.507",
+    "published": "2021-06-04T01:34:45.969962",
+    "ra": "296.201",
+    "radius": "0.190",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594382/",
+    "revisions": [],
+    "subjects": [
+        "Blinking Planetary",
+        "Blinking planetary",
+        "NGC 6826",
+        "NGC6826",
+        "PK083+12.1"
+    ],
+    "title": "Planetary Nebula NGC6826 and its outer halo",
+    "updated": "2021-07-01T18:50:03.639282",
+    "uploaded": "2021-06-04T00:49:19.874736",
+    "url_duckduckgo": "https://www.astrobin.com/oe5h0z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/oe5h0z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/oe5h0z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/oe5h0z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/oe5h0z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/oe5h0z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/oe5h0z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27158/2021/c031eec1-da66-4f92-afb6-65d77cb56904.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27158/2021/c031eec1-da66-4f92-afb6-65d77cb56904-1622768710.png",
+    "url_thumb": "https://www.astrobin.com/oe5h0z/0/rawthumb/thumb/",
+    "user": "lowenthalm",
+    "views": 204,
+    "w": 2204
+}

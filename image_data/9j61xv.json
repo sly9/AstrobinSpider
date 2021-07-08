@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 36,
+    "data_source": "BACKYARD",
+    "dec": "55.698",
+    "description": "Some astronomical historians argue that M102 is a duplicate observation of M101. Others say the evidence points to NGC5866.\r\n\r\nMaybe this is why NGC5866 is rarely imaged? This HST image from 2006 caught my attention...\r\n\r\n\r\n<a href=\"https://hubblesite.org/image/1933/gallery\">Hubble image of NGC5866</a>\r\n\r\nAnd from Adam Block...\r\n\r\n<a href=\"https://apod.nasa.gov/apod/ap180725.html\">Adam Block image of NGC5866</a>\r\n\r\n\r\nA FWHM of 1.86\" on the stacked luminance helped me extract some of the detail in the core.\r\n\r\n\r\n\"Classified as a lenticular galaxy, NGC 5866 has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue. The blue disk of young stars can be seen extending past the dust in the extremely thin galactic plane, while the bulge in the disk center appears tinged more orange from the older and redder stars that likely exist there. Although similar in mass to our Milky Way Galaxy, light takes about 60,000 years to cross NGC 5866, about 30 percent less than light takes to cross our own Galaxy. In general, many disk galaxies are very thin because the gas that formed them collided with itself as it rotated about the gravitational center. Galaxy NGC 5866 lies about 44 million light years distant toward the constellation of the Dragon (Draco)\"",
+    "h": 2386,
+    "hash": "9j61xv",
+    "id": 481722,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 218,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "178.236",
+    "pixscale": "0.468",
+    "published": "2020-04-25T15:09:10.634800",
+    "ra": "226.524",
+    "radius": "0.226",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481722/",
+    "revisions": [
+        "/api/v1/imagerevision/229386/"
+    ],
+    "subjects": [
+        "M102",
+        "NGC 5862",
+        "NGC 5866",
+        "NGC 5867",
+        "NGC5862",
+        "Spindle galaxy"
+    ],
+    "title": "NGC 5866 (M102 ?)",
+    "updated": "2021-03-17T02:45:57.032813",
+    "uploaded": "2020-04-25T16:09:10.938938",
+    "url_duckduckgo": "https://www.astrobin.com/9j61xv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9j61xv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9j61xv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9j61xv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9j61xv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9j61xv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9j61xv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/177afafc-497d-4027-b9db-641854d6a111.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/177afafc-497d-4027-b9db-641854d6a111-1587831207.jpg",
+    "url_thumb": "https://www.astrobin.com/9j61xv/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 1350,
+    "w": 2535
+}

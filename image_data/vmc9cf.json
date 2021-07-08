@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 31,
+    "data_source": "TRAVELLER",
+    "dec": "-23.801",
+    "description": "After a year of preparation for the portable system, I finally put it into field use. The Rho Ophiuchi region is every widefield imager's dream target and I am no exception. \r\n\r\n<B>My current portable system is made of:</B>\r\n\r\n<I>- AZ-GTi in EQ mode (5KG capacity little Go-To system)\r\n- Sigma ART 50mm f/1.4\r\n- AstroMechanics Canon EF Mount Lens Focuser\r\n- QHY168c\r\n- QHYCCD Mini-Guide Scope\r\n- Old Minix Z83-4 (with SSD mod)\r\n- Sequence Generator Pro</I>\r\n\r\nThe ideal lens for the ultra-widefield AP, in my mind, it's Sigma ART 135mm f/1.8. I had one copy about 6 months ago and unluckily. The copy had horrible COMA at one corner. The stars look like little fishes. I need to gather enough courage to try the next one. Not many Sigma ART 135mm f/1.8 out there in preowned market. The new one, whew, a little too expensive. \r\n\r\nI am a total newbie when entering the OSC world. The image presenting here actually is my second try on this area with the portable system. The first time I show about 5+ hours with gain 4/offset 35 - without some crazy stretch that distort everything, I couldn't bring the color regions out. That's not what I am used to. \r\n\r\nChecking around the magnificent images of Rho Ophiuchi shot with DSLR cameras, most of them were shot with ISO800 or ISO1600. If what I learned from CN forums is right, that's at least 2 or 3 levels above the unity gain of the QHY168c. This time 6.33 hours of data were collected at unity gain 10 with offset 70. \r\n\r\nWith 50mm focal length, stars are the major dominant part of the stacked master. With the stars presenting, the color regions are well hidden. Starless version is no easy job at all - the massive star counts left a massive number of dark holes all over the frame. I guess I didn't quite know how to properly suppress the stars to expose the colorful target. The processing was not that joyful. This is something I really need to dig into. \r\n\r\nOverall I am Okay with the final result. It's my first Rho Ophiuchi and there is no reason not to like it! (although the background is not smooth at all in my taste) The target is really not that high degree in the Texas skies and each night at dark sites I could harvest about 5 hours of data. \r\n\r\nThis made me wonder another thing - at f2.8 and high gain level, I am expecting much stronger signals gathered. The signal is there but not that strong as I expected. \r\n  \r\n  \r\n<B>Pre-processing</B>\r\n<I>\r\n– Calibration / Integration, Astro Pixel Processor\r\n– DynamicCrop, PixInsight\r\n- PhotometricColorCalibration, PixInsight\r\n- BackgroundNeutralization, PixInsight\r\n- ColorCalibration, PixInsight\r\n- ArcsinhStretch, PixInsight\r\n- CurveTransformation, PixInsight\r\n- RangeSelection, PixInsight\r\n- CurveTransformation with Range Mask, PixInsight\r\n- Multiple gentle ArcsinhStretch with Range Mask, PixInsight\r\n- HDRMultiscaleTransform on Milky Way, PixInsight\r\n- LocalHistogramEqualization, PixInsight\r\n- SCNR, PixInsight\r\n- PixelMath, PixInsight\r\n– ArcsinhStretch + ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n</I>\r\n<B>Final Touchups</B>\r\n<I>\r\n– Stamp! Stamp! Stamp!, Lightroom\r\n– MorphologicalTransformation, PixInsight\r\n– Multiple curve adjustment, Photoshop\r\n- StarSpikes Pro, Photoshop\r\n</I>\r\n  \r\n  \r\n<B>I am tired....</B>\r\n\r\nThere are a couple of things worth mentioning with the AZ-GTi in EQ (Go-To) mode:\r\n\r\n<I>- Overall it worked very well with < 5KG of payload (well balanced with counterweights)\r\n- It worked <I>Okay</I> when guided by PHD - There were always struggles to complete the calibration procedure and to settle back to the guiding star. With my Sigma 50mm lens, eventually I turned off the guiding. 5-minute single sub unguided no issue at all (even under 10mph wind). My guess is that above 100mm of focal length, better put the guiding on.\r\n- For dithering, when not guiding by PHD. I used \"Direct Mount Guider\" to dither 0.10-second for every frame. Maybe that's too conservative, 0.25-second could be a better choice.\r\n- To my big surprise, the AZ-GTi completed multiple meridian flips under the command of SGPro. \r\n- Auto-centering with SGPro has no issues at all. \r\n</I>\r\nAnd that's it...",
+    "h": 1665,
+    "hash": "vmc9cf",
+    "id": 490462,
+    "imaging_cameras": [
+        "QHYCCD QHY168c"
+    ],
+    "imaging_telescopes": [
+        "QHYCCD PoleMaster",
+        "Sigma 50mm f/1.4 ART (Canon EF mount)"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 277,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813309/"
+    ],
+    "orientation": "1.160",
+    "pixscale": "37.920",
+    "published": "2020-05-23T01:18:25.477635",
+    "ra": "247.988",
+    "radius": "16.082",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/490462/",
+    "revisions": [
+        "/api/v1/imagerevision/234170/"
+    ],
+    "subjects": [
+        "IC 4592",
+        "IC 4604",
+        "IC 4605",
+        "M 4",
+        "NGC 6121",
+        "Part of the constellation Scorpius (Sco)",
+        "The star Al Niyat (σSco)",
+        "The star Antares (αSco)",
+        "The star Dschubba (δSco)",
+        "The star Graffias (β1Sco)",
+        "The star Sabik (ηOph)",
+        "The star θOph",
+        "The star πSco",
+        "The star τLib",
+        "The star τSco",
+        "The star υLib",
+        "rho Oph Nebula"
+    ],
+    "title": "~ Rho Ophiuchi ~",
+    "updated": "2021-07-04T03:56:40.485701",
+    "uploaded": "2020-05-23T01:21:45.779505",
+    "url_duckduckgo": "https://www.astrobin.com/vmc9cf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vmc9cf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vmc9cf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vmc9cf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vmc9cf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vmc9cf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vmc9cf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/1e4f6867-ed94-4785-94f1-dc8b73453120.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/1e4f6867-ed94-4785-94f1-dc8b73453120-1590199536.png",
+    "url_thumb": "https://www.astrobin.com/vmc9cf/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1201,
+    "w": 2560
+}

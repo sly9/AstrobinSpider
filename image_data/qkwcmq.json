@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "26.011",
+    "description": "Object : ngc 4565\r\nDate : Feb.2020-May 2020\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 , \r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure : R:300sx19,G:300sx19,B:300sx25,L:300sx33 (8hr)\r\nGuiding  :Borg 50/ asi174 , \r\nProcessing:  PI、PS-CC",
+    "h": 2040,
+    "hash": "qkwcmq",
+    "id": 485157,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 135,
+    "link": "https://astro-noodle.blogspot.com/2020/05/ngc-4565.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "268.662",
+    "pixscale": "0.668",
+    "published": "2020-05-04T04:01:56.808024",
+    "ra": "189.065",
+    "radius": "0.309",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/485157/",
+    "revisions": [],
+    "subjects": [
+        "IC 3571",
+        "NGC 4562",
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "ngc 4565",
+    "updated": "2021-06-16T11:38:40.093968",
+    "uploaded": "2020-05-04T05:01:57.029929",
+    "url_duckduckgo": "https://www.astrobin.com/qkwcmq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qkwcmq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qkwcmq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qkwcmq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qkwcmq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qkwcmq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qkwcmq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/5fef14c8-2245-424c-8b83-5b137478942e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/5fef14c8-2245-424c-8b83-5b137478942e-1588569044.png",
+    "url_thumb": "https://www.astrobin.com/qkwcmq/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 563,
+    "w": 2638
+}

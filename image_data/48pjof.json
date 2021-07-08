@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "43.663",
+    "description": "49 Halpha subs @300s gain 100 and -15°C\r\n36 OIII subs @300s gain 100 and -15°C\r\n40 SII subs @300s gain 100 and -15°C\r\n\r\n20 Blue subs @60s gain 100 and -15°C\r\n20 Green subs @60s gain 100 and -15°C\r\n20 Red subs @60s gain 100 and -15°C\r\n\r\nTotal exposure = 14.6 hours",
+    "h": 6328,
+    "hash": "48pjof",
+    "id": 550121,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "1.148",
+    "pixscale": "0.638",
+    "published": "2020-12-17T13:53:08.285986",
+    "ra": "314.671",
+    "radius": "0.793",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/550121/",
+    "revisions": [
+        "/api/v1/imagerevision/264892/",
+        "/api/v1/imagerevision/264894/",
+        "/api/v1/imagerevision/264896/"
+    ],
+    "subjects": [
+        "B355"
+    ],
+    "title": "The Great Wall   -  NGC7000  in Cygnus",
+    "updated": "2021-06-20T13:46:18.593495",
+    "uploaded": "2020-12-16T18:15:52.359401",
+    "url_duckduckgo": "https://www.astrobin.com/48pjof/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/48pjof/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/48pjof/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/48pjof/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/48pjof/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/48pjof/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/48pjof/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/22129c25-69c5-4145-b8ed-955c1134b5d6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/22129c25-69c5-4145-b8ed-955c1134b5d6-1608212211.jpg",
+    "url_thumb": "https://www.astrobin.com/48pjof/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 215,
+    "w": 6328
+}

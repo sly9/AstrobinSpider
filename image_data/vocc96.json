@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.161",
+    "description": "Many hours on this target: 100x180s RGB, 300x180s L, 50x420s Ha. PI WBPP2 helped a lot processing so many frames.",
+    "h": 4177,
+    "hash": "vocc96",
+    "id": 577672,
+    "imaging_cameras": [
+        "ZWO asi 1600mm"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes cff 140 apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "258.970",
+    "pixscale": "0.365",
+    "published": "2021-03-28T09:36:08.812912",
+    "ra": "202.450",
+    "radius": "0.370",
+    "remote_source": "PSA",
+    "resource_uri": "/api/v1/image/577672/",
+    "revisions": [
+        "/api/v1/imagerevision/280547/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "IC 4277",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M51 - Whirlpool Galaxy",
+    "updated": "2021-06-28T04:49:11.290521",
+    "uploaded": "2021-03-28T10:23:46.454702",
+    "url_duckduckgo": "https://www.astrobin.com/vocc96/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vocc96/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vocc96/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vocc96/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vocc96/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vocc96/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vocc96/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24563/2021/7eb3b21e-0712-434b-a9a9-9c8f7b72cdc1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24563/2021/7eb3b21e-0712-434b-a9a9-9c8f7b72cdc1-1616927749.jpg",
+    "url_thumb": "https://www.astrobin.com/vocc96/0/rawthumb/thumb/",
+    "user": "fenriques",
+    "views": 329,
+    "w": 5973
+}

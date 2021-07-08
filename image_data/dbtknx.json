@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-19.900",
+    "description": "NGC 3981 raw data courtesy of Telescope Live premium dataset.",
+    "h": 1818,
+    "hash": "dbtknx",
+    "id": 585255,
+    "imaging_cameras": [
+        "FLI PL16803"
+    ],
+    "imaging_telescopes": [
+        "ASA 1000mm Richey-Chretien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815022/"
+    ],
+    "orientation": "46.173",
+    "pixscale": "0.546",
+    "published": "2021-04-26T10:55:51.382446",
+    "ra": "179.006",
+    "radius": "0.195",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/585255/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3981"
+    ],
+    "title": "NGC 3981 - Spiral Galaxy",
+    "updated": "2021-07-04T15:15:30.707255",
+    "uploaded": "2021-04-26T10:45:49.781226",
+    "url_duckduckgo": "https://www.astrobin.com/dbtknx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dbtknx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dbtknx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dbtknx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dbtknx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dbtknx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dbtknx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/86236/2021/7db859ef-9607-473d-a2eb-476116d51d27.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/86236/2021/7db859ef-9607-473d-a2eb-476116d51d27-1619434465.png",
+    "url_thumb": "https://www.astrobin.com/dbtknx/0/rawthumb/thumb/",
+    "user": "YovinRY",
+    "views": 231,
+    "w": 1824
+}

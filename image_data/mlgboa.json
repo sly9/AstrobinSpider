@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "47.300",
+    "description": "An active galaxy, as evidenced in the strong Ha signal near its galaxy core, m106 is a Seyfert galaxy with a very bright core and seems to cover the EM spectrum with massive radio radiation and a microwave 22 GHz water maser from the purple outer dense clouds.  It is 22-25 lyr distant in Canes Venatici.  It is similar in size and luminosity to the Andromeda Galaxy, but has a supermassive black hole at its center.\r\n\r\n    This is a 14.9 hr HaLRGB image which is a revisit to a previous 13.5 hr composite LRGB version from April 2019. The new HaLRGB version now adds 1.33 hrs of Ha collected recently on 5/24/2020 with my current FLI ML16200 camera.  The new Ha shows some of the wisps of gas being pulled into the central black hole.  \"At its heart, as in most spiral galaxies, [M106] is a supermassive black hole, but this one is particularly active. Unlike the black hole at the center of the Milky Way, which pulls in wisps of gas only occasionally, Messier 106’s black hole is actively gobbling up material. As the gas spirals towards the black hole, it heats up and emits powerful radiation\" [Wikipedia].  \r\n\r\n      The older data used in the image is 6.2 hrs of RGB data from 2014, collected with an FLI ML8300 camera, and 7.1 hrs of RGB from 2012, collected with an SBIG ST-2000M. The scope in all cases was an APM LZOS 130/780 f/6 LW CNC II 130mm APO on a Takahashi EM-200 Temma2 mount.   All data were taken from D.A.R.C. Observatory, Mercey Hot Springs, CA.  North is to the right.\r\n\r\n    I originally planned to use the \"Pure Ha\" technique (Vicent Peris and others) for adding the Ha data but that turned out to be rather complicated with three different cameras and datasets from three different years.  I ended up using the Tony Hallas technique but did use a \"clean Ha\" signal (continuum removed/reduced from the Ha) but performed that at the nonlinear, rather than linear, stage.",
+    "h": 1546,
+    "hash": "mlgboa",
+    "id": 494541,
+    "imaging_cameras": [
+        "FLI ML16200",
+        "SBIG ST-2000XM",
+        "FLI Microline ML8300"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 130/780 f/6 LW CNC II 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 140,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "283.360",
+    "pixscale": "0.910",
+    "published": "2020-06-03T23:45:44.326095",
+    "ra": "184.718",
+    "radius": "0.319",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/494541/",
+    "revisions": [
+        "/api/v1/imagerevision/238821/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "m106 HaLRGB",
+    "updated": "2021-05-09T17:38:08.086266",
+    "uploaded": "2020-06-04T00:45:45.352226",
+    "url_duckduckgo": "https://www.astrobin.com/mlgboa/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mlgboa/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mlgboa/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mlgboa/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mlgboa/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mlgboa/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mlgboa/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6912/2020/ac59dd50-5e2c-4072-a75a-b44f83881976.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6912/2020/ac59dd50-5e2c-4072-a75a-b44f83881976-1591232045.jpg",
+    "url_thumb": "https://www.astrobin.com/mlgboa/0/rawthumb/thumb/",
+    "user": "jeffweiss9",
+    "views": 523,
+    "w": 2000
+}

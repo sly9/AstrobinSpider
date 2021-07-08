@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-23.895",
+    "description": "The images were taken by Chilescope T2 on June 1 , and the integration time is 2h35min. imaged and processed by Johnny Wang.\r\nTelescope: ASA 500mm\r\nCamera: FLI ProLine 16803\r\nMount: ASA DDM85\r\nExposure: LRGB*31*300S",
+    "h": 4016,
+    "hash": "7wzk4e",
+    "id": 494573,
+    "imaging_cameras": [
+        "FLI Proline 16803 CCD camera"
+    ],
+    "imaging_telescopes": [
+        "ASA 500mm f/3,8 ASA 500mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.977",
+    "pixscale": "0.964",
+    "published": "2020-06-04T04:19:24.439517",
+    "ra": "272.319",
+    "radius": "0.760",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/494573/",
+    "revisions": [
+        "/api/v1/imagerevision/292592/"
+    ],
+    "subjects": [
+        "IC 1274",
+        "IC 4684",
+        "IC 4685",
+        "NGC 6559"
+    ],
+    "title": "NGC6559 Stars, Dust and Nebula",
+    "updated": "2021-07-07T02:28:59.319011",
+    "uploaded": "2020-06-04T05:19:24.759695",
+    "url_duckduckgo": "https://www.astrobin.com/7wzk4e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7wzk4e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7wzk4e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7wzk4e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7wzk4e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7wzk4e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7wzk4e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/61370/2020/2da25dc9-a162-476f-9527-50000c9b9877.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/61370/2020/2da25dc9-a162-476f-9527-50000c9b9877-1591281789.jpeg",
+    "url_thumb": "https://www.astrobin.com/7wzk4e/0/rawthumb/thumb/",
+    "user": "johnnywang",
+    "views": 1219,
+    "w": 4016
+}

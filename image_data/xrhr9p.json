@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "-13.870",
+    "description": "Just an idea I had to do the Pillars of Creation in a more traditional way to help preserve the natural RGB with subtle Ha, SII and OIII highlights.\r\n\r\nI was hoping to get 5-minute Ha subs significantly below 2\" FWHM. That's primarily where the detail comes from. What you see here is 1.9\" to 2.1\". If things steady down over the next few days I'll upload a new revision. (-:\r\n\r\nSome folks say the little \"worms\" on the right are more distant Pillars of Creation. I was happy to capture those little guys. (-:\r\n\r\nSII = yellow highlight. OIII = blue highlight. Ha placed over the top as a hard light layer with no added color.\r\n\r\nThis is 2x drizzle with noise reduction only on SII and OIII. No noise reduction needed on Ha, L, R, G and B due to a very strong signal.",
+    "h": 4240,
+    "hash": "xrhr9p",
+    "id": 498307,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "33.679",
+    "pixscale": "0.234",
+    "published": "2020-06-17T20:34:56.482140",
+    "ra": "274.732",
+    "radius": "0.264",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/498307/",
+    "revisions": [],
+    "subjects": [
+        "Eagle Nebula",
+        "Eagle nebula",
+        "IC 4703",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen",
+        "Star Queen nebula"
+    ],
+    "title": "Pillars of Creation - Ha-SII-OIII-LRGB Backyard Version",
+    "updated": "2021-03-17T01:13:15.714186",
+    "uploaded": "2020-06-17T21:34:56.813952",
+    "url_duckduckgo": "https://www.astrobin.com/xrhr9p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xrhr9p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xrhr9p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xrhr9p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xrhr9p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xrhr9p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xrhr9p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/d619ad6b-38ed-469e-8822-a1916c25d2b7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/d619ad6b-38ed-469e-8822-a1916c25d2b7-1592429926.jpg",
+    "url_thumb": "https://www.astrobin.com/xrhr9p/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 311,
+    "w": 6915
+}

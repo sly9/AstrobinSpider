@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-58.555",
+    "description": "Captured over 2 nights total of 5 hours exposure. Processed with Pixinsight. First attempt at using the Weighted Batch Pre Processing script and I thinks its a winner. It is possible at the end of an imaging run to setup the script (takes about 5minutes, so can be done while waiting for camera to warm up. And when you get up in the morning, there is a bunch of masters or calibrated and registered subs ready to go for post processing.",
+    "h": 3395,
+    "hash": "xff3w5",
+    "id": 492345,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool ASI1600MM Cooled Mono"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVR102T-IS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 14,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806947/"
+    ],
+    "orientation": "170.271",
+    "pixscale": "1.348",
+    "published": "2020-05-28T11:20:49.681732",
+    "ra": "159.561",
+    "radius": "1.061",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/492345/",
+    "revisions": [],
+    "subjects": [
+        "IC 2599",
+        "NGC 3293",
+        "NGC 3324"
+    ],
+    "title": "NGC3324",
+    "updated": "2021-03-17T01:47:45.815766",
+    "uploaded": "2020-05-28T12:20:50.116627",
+    "url_duckduckgo": "https://www.astrobin.com/xff3w5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xff3w5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xff3w5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xff3w5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xff3w5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xff3w5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xff3w5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20104/2020/957c055c-2644-403b-9461-0d3fdfd54e10.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20104/2020/957c055c-2644-403b-9461-0d3fdfd54e10-1590670098.jpg",
+    "url_thumb": "https://www.astrobin.com/xff3w5/0/rawthumb/thumb/",
+    "user": "barx1963",
+    "views": 27,
+    "w": 4536
+}

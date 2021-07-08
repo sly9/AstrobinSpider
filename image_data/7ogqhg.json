@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.935",
+    "description": "Another new discovery by Marcel Drechsler and Xavier Strottner, this time in the constellation Aquila. Extremely faint, and with an intriguing morphology. Despite capturing over 17 hours of OIII at bin 4x4 we haven't managed to extract any significant OIII signal, so this is Ha only. \r\n\r\nInitial Discovery: Marcel Drechsler and Xavier Strottner\r\nData Capture: Peter Goodhew\r\nImage Processing: Marcel Drechsler\r\n\r\nGreat teamwork",
+    "h": 2834,
+    "hash": "7ogqhg",
+    "id": 494395,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "6.822",
+    "pixscale": "0.534",
+    "published": "2020-06-03T13:10:29.195634",
+    "ra": "288.894",
+    "radius": "0.378",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/494395/",
+    "revisions": [],
+    "subjects": [
+        "PGC2815036"
+    ],
+    "title": "Another New Discovery: Strottner-Drechsler 45 (PN-G: 049.8+02.0)",
+    "updated": "2021-04-30T11:17:16.697056",
+    "uploaded": "2020-06-03T14:10:30.306073",
+    "url_duckduckgo": "https://www.astrobin.com/7ogqhg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7ogqhg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7ogqhg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7ogqhg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7ogqhg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7ogqhg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7ogqhg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2020/8b688106-9584-4bc5-824c-02f54dd92e4e.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2020/8b688106-9584-4bc5-824c-02f54dd92e4e-1591196375.jpeg",
+    "url_thumb": "https://www.astrobin.com/7ogqhg/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 298,
+    "w": 4246
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "69.672",
+    "description": "Cigar Galaxy (Messier 82) with C14 - LRGB-Composite with Luminance (QHY 183M, 55x180sec, -35°C, Baader UV/IR Cut) on 19.04.2020 und RGB  (QHY 183C, 31x180 sec, -35°C) from 18.04.2020; Gain 20, Offset 30; objective: Celestron SC C14 (old US).",
+    "h": 1044,
+    "hash": "czvs4d",
+    "id": 481235,
+    "imaging_cameras": [
+        "QHYCCD QHY 183C",
+        "QHYCCD QHY 183M"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "http://ag-astronomie.de/Deep-Sky-Galerie",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812547/"
+    ],
+    "orientation": "2.651",
+    "pixscale": "0.493",
+    "published": "2020-04-24T12:58:14.273786",
+    "ra": "148.976",
+    "radius": "0.128",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/481235/",
+    "revisions": [],
+    "subjects": [
+        "Cigar Galaxy",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034"
+    ],
+    "title": "Cigar Galaxy (LRGB, Messier 82)",
+    "updated": "2021-04-23T20:25:51.425724",
+    "uploaded": "2020-04-24T13:58:14.597216",
+    "url_duckduckgo": "https://www.astrobin.com/czvs4d/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/czvs4d/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/czvs4d/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/czvs4d/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/czvs4d/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/czvs4d/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/czvs4d/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/54232/2020/932c2dba-f269-49f3-ac17-cce579a958ee.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/54232/2020/932c2dba-f269-49f3-ac17-cce579a958ee-1587736997.jpg",
+    "url_thumb": "https://www.astrobin.com/czvs4d/0/rawthumb/thumb/",
+    "user": "HenningSchmidt",
+    "views": 477,
+    "w": 1550
+}

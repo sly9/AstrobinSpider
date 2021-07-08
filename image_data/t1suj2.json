@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "38.342",
+    "description": "This is a test of the Finger Lakes Kepler KL4040 camera.  All subs captured in low gain and high gain modes which were combined by FLI Camera Server into merged HDR 16 bit subs.    Images were captured over 3 nights, September 1,2,3 (2020).   Bias, Dark and Flat frame masters are high gain (12 bit) only.    Color integration and other post processing wonderfully done by B. Falls.",
+    "h": 6776,
+    "hash": "t1suj2",
+    "id": 523390,
+    "imaging_cameras": [
+        "Finger Lakes Instruments KL4040"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK-17"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814331/"
+    ],
+    "orientation": "91.185",
+    "pixscale": "0.317",
+    "published": "2020-09-14T22:13:49.528478",
+    "ra": "303.039",
+    "radius": "0.422",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/523390/",
+    "revisions": [],
+    "subjects": [
+        "Crescent Nebula",
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "Crescent Nebula NGC6888",
+    "updated": "2021-04-03T09:51:03.110966",
+    "uploaded": "2020-09-14T22:56:33.076663",
+    "url_duckduckgo": "https://www.astrobin.com/t1suj2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t1suj2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t1suj2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t1suj2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t1suj2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t1suj2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t1suj2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/71260/2020/5c63d6c7-738c-4c21-bfc6-3106776c5a87.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/71260/2020/5c63d6c7-738c-4c21-bfc6-3106776c5a87-1600126016.jpg",
+    "url_thumb": "https://www.astrobin.com/t1suj2/0/rawthumb/thumb/",
+    "user": "jdowning",
+    "views": 449,
+    "w": 6776
+}

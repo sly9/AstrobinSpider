@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "38.332",
+    "description": "It is difficult to preserve the HA details behind the OIII signals, but I think I got it pretty ok\r\n\r\nHA-L\r\nHA-R\r\nOIII-G\r\nOIII-B\r\n\r\nThanks to Ole Alexander Ødegård ( system Control, )\r\nImage Processing Ola Skarpen\r\nTeam SkyEyE Observatory",
+    "h": 1643,
+    "hash": "pg133z",
+    "id": 597697,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "AG Optical Convergent FA14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 163,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "84.656",
+    "pixscale": "0.950",
+    "published": "2021-06-16T20:15:47.461019",
+    "ra": "303.018",
+    "radius": "0.338",
+    "remote_source": "IC",
+    "resource_uri": "/api/v1/image/597697/",
+    "revisions": [
+        "/api/v1/imagerevision/291748/"
+    ],
+    "subjects": [
+        "Crescent Nebula",
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105",
+        "Other"
+    ],
+    "title": "NGC 6888",
+    "updated": "2021-07-01T19:07:52.785078",
+    "uploaded": "2021-06-16T19:54:06.318961",
+    "url_duckduckgo": "https://www.astrobin.com/pg133z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pg133z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pg133z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pg133z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pg133z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pg133z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pg133z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2021/6c768ae8-134d-4530-9095-223c3ba948c1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2021/6c768ae8-134d-4530-9095-223c3ba948c1-1623874117.png",
+    "url_thumb": "https://www.astrobin.com/pg133z/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 285,
+    "w": 1969
+}

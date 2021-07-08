@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "25.991",
+    "description": "- NGC 4565 Nadelgalaxie (Haar der Berenike)\r\n- BLZ total 3,0 h\r\n- Stack 2,8 h (33 x 300 s)\r\n- Dithering, keine Flats, keine Darks\r\n- ASI 2600 MC PRO Color (Gain 0, -20°C)\r\n- Lacerta Photonewton 200/800 (f/4)\r\n- Skywatcher EQ6-R Pro\r\n- Lacerta Mgen II Guiding\r\n- Mond 75 %\r\n\r\nErste Bildreihe mit der neuen Kamera. Gerne hätte ich hier noch länger Belichtet aber seit Monaten Wolken, Wolken, Wolken. 2,75 Std. sind ein guter Anfang. Das Ergebnis macht mich schon sehr zufrieden. Die EBV ging sehr leicht von der Hand trotz fehlender Flats, Darks, Bias.\r\nDer Wechsel von der DSLR zur CMOS-OSC war eine gute Wahl. Danke Thommy Nawratil für die gute Beratung :)",
+    "h": 1837,
+    "hash": "5xon73",
+    "id": 569055,
+    "imaging_cameras": [
+        "ZWO ASI2600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton 8\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814659/"
+    ],
+    "orientation": "269.800",
+    "pixscale": "1.431",
+    "published": "2021-02-23T19:35:16.899363",
+    "ra": "189.078",
+    "radius": "0.699",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/569055/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4555",
+        "NGC 4562",
+        "NGC 4565",
+        "Needle Galaxy"
+    ],
+    "title": "NGC 4565",
+    "updated": "2021-07-03T03:18:25.774541",
+    "uploaded": "2021-02-23T18:50:53.872621",
+    "url_duckduckgo": "https://www.astrobin.com/5xon73/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5xon73/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5xon73/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5xon73/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5xon73/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5xon73/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5xon73/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/82470/2021/88697e4e-0820-42c0-9b3f-7bcb367097a2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/82470/2021/88697e4e-0820-42c0-9b3f-7bcb367097a2-1614111173.jpg",
+    "url_thumb": "https://www.astrobin.com/5xon73/0/rawthumb/thumb/",
+    "user": "Ralf_Dienst",
+    "views": 291,
+    "w": 3000
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Mars captured 3 times over a period of roughly 2h. Poor to mediocre seeing conditions.",
+    "h": 1386,
+    "hash": "nasgns",
+    "id": 533212,
+    "imaging_cameras": [
+        "ZWO ASI 290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810828/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-10-18T01:01:41.189659",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533212/",
+    "revisions": [
+        "/api/v1/imagerevision/255568/"
+    ],
+    "subjects": [],
+    "title": "Mars rotation over 2h",
+    "updated": "2021-07-02T13:15:04.118748",
+    "uploaded": "2020-10-18T01:58:55.019979",
+    "url_duckduckgo": "https://www.astrobin.com/nasgns/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nasgns/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nasgns/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nasgns/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nasgns/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nasgns/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nasgns/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/nasgns/0/rawthumb/thumb/",
+    "user": "Robert_Schumann",
+    "views": 262,
+    "w": 1480
+}

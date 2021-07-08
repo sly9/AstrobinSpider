@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "-29.877",
+    "description": "",
+    "h": 1800,
+    "hash": "dpx568",
+    "id": 484336,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "RCOS 16\" f /8.4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 177,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810239/"
+    ],
+    "orientation": "0.054",
+    "pixscale": "0.728",
+    "published": "2020-05-02T01:00:44.244023",
+    "ra": "204.250",
+    "radius": "0.258",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/484336/",
+    "revisions": [
+        "/api/v1/imagerevision/276816/"
+    ],
+    "subjects": [
+        "M 83",
+        "M83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy",
+        "Southern Pinwheel galaxy"
+    ],
+    "title": "Messier 83, bared spiral galaxy in Hydra",
+    "updated": "2021-06-30T23:02:58.449062",
+    "uploaded": "2020-05-02T02:00:44.400320",
+    "url_duckduckgo": "https://www.astrobin.com/dpx568/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dpx568/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dpx568/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dpx568/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dpx568/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dpx568/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dpx568/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12715/2021/51b5da5c-dfec-4070-af41-9f23d769fcd7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12715/2021/51b5da5c-dfec-4070-af41-9f23d769fcd7-1614889067.jpg",
+    "url_thumb": "https://www.astrobin.com/dpx568/0/rawthumb/thumb/",
+    "user": "cotejardinero@gmail.com",
+    "views": 507,
+    "w": 1800
+}

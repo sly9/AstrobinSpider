@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "53.065",
+    "description": "Data acquired from my Taloy astron station in the suburb of Beijing during 2016~2017 winter. Reprocessed recently, and glad to see more details and less noises achieved.\r\n\r\nLum: 12 hours\r\nRGB: 9 hours\r\n\r\nThe location is not as good as Lijiang, so that's most likely what I can do.",
+    "h": 2150,
+    "hash": "op838x",
+    "id": 479014,
+    "imaging_cameras": [
+        "Atik One 6.0"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806212/"
+    ],
+    "orientation": "271.318",
+    "pixscale": "0.891",
+    "published": "2020-04-19T10:27:53.558906",
+    "ra": "173.219",
+    "radius": "0.426",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/479014/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "NGC3718 from suburb of Beijing (reprocessed)",
+    "updated": "2021-04-09T06:33:58.985243",
+    "uploaded": "2020-04-19T11:27:54.291751",
+    "url_duckduckgo": "https://www.astrobin.com/op838x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/op838x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/op838x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/op838x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/op838x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/op838x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/op838x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20389/2020/5a83077a-1c34-4f76-9b6b-1dcfab1cb313.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20389/2020/5a83077a-1c34-4f76-9b6b-1dcfab1cb313-1587296375.jpg",
+    "url_thumb": "https://www.astrobin.com/op838x/0/rawthumb/thumb/",
+    "user": "rayliao",
+    "views": 425,
+    "w": 2687
+}

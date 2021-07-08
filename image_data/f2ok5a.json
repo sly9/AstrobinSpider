@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 35,
+    "data_source": "BACKYARD",
+    "dec": "26.909",
+    "description": "Sharpless 2-240, known as the Spaghetti Nebula, is a large supernova remnant straddling the border between the constellations Auriga and Taurus. The glowing gas filaments cover nearly 3 degrees of the sky, a cloud of stellar debris that is about 150 light years across. The explosion occurred about 40,000 years ago, the light reaching Earth a few thousand years later. A spinning neutron star or pulsar is all that remains of the original star’s core.\r\n\r\nThis HaRGB image is a complete reprocessing of data that were collected in Winter 2019 (yes, it is still cloudy here in Monterey, CA). In my last effort with these data I was able to reveal good detail in the glowing hydrogen filaments of this SNR, but I struggled to control the noise that occupied the space between the filaments, in part challenged by the very low brightness of this object and the abundance of small star. This time I developed a nearly noise-free luminance layer using more than 20 hours of very low HFR Ha data by doing a series of light MultiscaleMedian and MultiscaleLinear Transforms coupled with low-iteration Deconvolution steps, both in the linear and non-linear states. One of the keys to this technique was developing capable star masks for the myriad of tiny stars that clog the image. The approach allowed the removal of most of the stubborn, interstitial noise, while not noticeably degrading the resolution and detail of the filaments. What do you think?",
+    "h": 2527,
+    "hash": "f2ok5a",
+    "id": 512194,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "205.093",
+    "pixscale": "2.301",
+    "published": "2020-08-05T03:21:39.397249",
+    "ra": "84.976",
+    "radius": "1.346",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/512194/",
+    "revisions": [
+        "/api/v1/imagerevision/244389/"
+    ],
+    "subjects": [],
+    "title": "Spaghetti Nebula (Sh2-240, Simeis 147, SNR G180. 0-01.7)",
+    "updated": "2021-07-07T06:58:49.795460",
+    "uploaded": "2020-08-05T04:21:39.587447",
+    "url_duckduckgo": "https://www.astrobin.com/f2ok5a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f2ok5a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f2ok5a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f2ok5a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f2ok5a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f2ok5a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f2ok5a/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/9abf9fa5-be61-47f1-be25-63c078e88dbc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/9abf9fa5-be61-47f1-be25-63c078e88dbc-1596601671.jpg",
+    "url_thumb": "https://www.astrobin.com/f2ok5a/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 749,
+    "w": 3369
+}

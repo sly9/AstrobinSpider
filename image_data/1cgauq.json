@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "22.761",
+    "description": "Reprocessed old data from 2016.\r\n\r\nI have been storing my data in my local NAS (DLink DNS345) and Backblaze.Even though I (probably) have all the data in the cloud service, , I prefer having the data in local NAS for the ease of accessing from multiple computers (about 5 TB of data ). The NAS's shares became inaccessible and  no matter what I did, I couldnt get it to work and it looked like the NAS was failing. I pulled the disks out and installed ext filesystem in windows and was able to access it (Phew). \r\n\r\nAs I was reviewing data, I figured it might be interesting to reprocess some old data. I have run out of new data in any case (And the weather is not looking good for imaging and I am working on a new rig setup as well).\r\n\r\nI picked up IC443 from 2016 .  This was shot from my backyard with the FSQ106 and ASI1600. The last time I processed it, I was not happy with the salmon pink color (HaOIII has been tough to process for me). I figured I will give it a go with Starnet and try to control the noise. The data is not deep enough for the stretch I wanted . OIII stack looked bad with lot of gradients. I wish I had shot some S2 for better mapping.  I couldnt do anything with the microlens artifacts of ASI1600. I did tweak the colors a bit more to be not-salmon-pink.. but there is not enough differentiation between the channels unfortunately.",
+    "h": 1968,
+    "hash": "1cgauq",
+    "id": 569825,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "341.023",
+    "pixscale": "3.077",
+    "published": "2021-02-27T15:29:07.689746",
+    "ra": "94.748",
+    "radius": "1.445",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/569825/",
+    "revisions": [
+        "/api/v1/imagerevision/279989/"
+    ],
+    "subjects": [
+        "10 Gem",
+        "11 Gem",
+        "12 Gem",
+        "13 mu. Gem",
+        "7 eta Gem",
+        "9 Gem",
+        "Gem A",
+        "IC 443",
+        "IC 444",
+        "IC443",
+        "IC444",
+        "Part of the constellation Gemini (Gem)",
+        "Sh2-248",
+        "Sh2-249",
+        "Tejat Posterior",
+        "Tejat Prior",
+        "The star Propus (ηGem)",
+        "The star μGem"
+    ],
+    "title": "Jellyfish - Redux",
+    "updated": "2021-04-08T11:46:35.860061",
+    "uploaded": "2021-02-27T05:58:26.189885",
+    "url_duckduckgo": "https://www.astrobin.com/1cgauq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1cgauq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1cgauq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1cgauq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1cgauq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1cgauq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1cgauq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2021/047147db-b7f0-4253-a86f-9b5efcc200f9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2021/047147db-b7f0-4253-a86f-9b5efcc200f9-1614439281.png",
+    "url_thumb": "https://www.astrobin.com/1cgauq/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 300,
+    "w": 2750
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "27.968",
+    "description": "SH2-240 - The Spaghetti Nebula\r\n\r\nSimeis 147, also known as the Spaghetti Nebula, SNR G180.0-01.7 or Sharpless 2-240, is a supernova remnant (SNR) in the Milky Way, straddling the border between the constellations Auriga and Taurus. Discovered in 1952 at the Crimean Astrophysical Observatory using a 25-inch Schmidt-Cassegrain telescope, it is difficult to observe due to its extremely low brightness.\r\n\r\nIt is believed that after its stellar explosion a rapidly spinning neutron star known as pulsar PSR J0538+2817 was left behind in the nebula core, emitting a strong radio signal.\r\n\r\n2 panel mosaic and first light with the 294mm.\r\n\r\nEquipment\r\n@williamoptics RedCat 51\r\n@zwoasi 294mm, 224MC, 30mm Guide Scope, ASIAIR PRO \r\nAstronomik HA & OIIIFilters @skywatcherusa EQ6-R Mount\r\n\r\nAcquisition\r\nHA - 54x600” - 9hrs\r\nOIII - 54x600” - 9hrs\r\n-18 Total Integration Time\r\n-50 Darks & 50 Flats per session\r\n-Gain 120\r\n-Temp-20c\r\n-Bortle 5",
+    "h": 1234,
+    "hash": "6u57xy",
+    "id": 555706,
+    "imaging_cameras": [
+        "ASI ZWO 294mm"
+    ],
+    "imaging_telescopes": [
+        "William Optics RedCat 51 Petzval APO RedCat"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "https://www.instagram.com/astrobackyardutah/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812656/"
+    ],
+    "orientation": "180.724",
+    "pixscale": "10.306",
+    "published": "2021-01-06T14:12:03.998674",
+    "ra": "85.066",
+    "radius": "2.845",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/555706/",
+    "revisions": [],
+    "subjects": [
+        "12.14",
+        "87 Sylvia",
+        "PK178-02.1",
+        "Sh2-240"
+    ],
+    "title": "SH2-240 - The Spaghetti Nebula",
+    "updated": "2021-06-06T19:37:35.991157",
+    "uploaded": "2021-01-05T21:28:37.625103",
+    "url_duckduckgo": "https://www.astrobin.com/6u57xy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6u57xy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6u57xy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6u57xy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6u57xy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6u57xy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6u57xy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/56419/2021/673472e4-e19d-4ea6-8849-40a31a4f4424.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/56419/2021/673472e4-e19d-4ea6-8849-40a31a4f4424-1609942309.jpg",
+    "url_thumb": "https://www.astrobin.com/6u57xy/0/rawthumb/thumb/",
+    "user": "AstroBackYardUtah",
+    "views": 703,
+    "w": 1558
+}

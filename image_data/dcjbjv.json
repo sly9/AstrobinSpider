@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "42.707",
+    "description": "NGC 6914 SHO",
+    "h": 1851,
+    "hash": "dcjbjv",
+    "id": 589675,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "TS-Optics 150 mm f/2.8 Hypergraph6"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 17,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "303.606",
+    "pixscale": "3.444",
+    "published": "2021-05-14T21:27:54.658532",
+    "ra": "305.580",
+    "radius": "1.573",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/589675/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6914",
+        "Other"
+    ],
+    "title": "NGC 6914 SHO",
+    "updated": "2021-05-25T06:41:44.708427",
+    "uploaded": "2021-05-14T21:20:17.774691",
+    "url_duckduckgo": "https://www.astrobin.com/dcjbjv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dcjbjv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dcjbjv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dcjbjv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dcjbjv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dcjbjv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dcjbjv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14399/2021/cd33e617-c8e9-4ab0-83cc-88456484356f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14399/2021/cd33e617-c8e9-4ab0-83cc-88456484356f-1621027765.jpg",
+    "url_thumb": "https://www.astrobin.com/dcjbjv/0/rawthumb/thumb/",
+    "user": "_Spirit_",
+    "views": 120,
+    "w": 2717
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "67.217",
+    "description": "Sharpless 171 - Cesderblad 214\n\nL-SHO\n\nZWO6200, -10 deg\n\nHa : 15 x 480 sec, bin 1\nOIII : 15 x 480 sec, bin 1\nSII : 15 x 480 sec, bin 1\n\nStacked in Pixinsight, EZ processing suite",
+    "h": 2664,
+    "hash": "k1btel",
+    "id": 588169,
+    "imaging_cameras": [
+        "Asi zwo 6200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [],
+    "orientation": "68.500",
+    "pixscale": "1.463",
+    "published": "2021-05-09T09:46:44.232268",
+    "ra": "0.918",
+    "radius": "0.908",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/588169/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "Sharpless 171",
+    "updated": "2021-05-23T11:10:29.167467",
+    "uploaded": "2021-05-09T09:38:35.772367",
+    "url_duckduckgo": "https://www.astrobin.com/k1btel/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k1btel/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k1btel/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k1btel/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k1btel/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k1btel/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k1btel/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/40775/2021/a7919f69-15b9-4b74-8d9c-3aa41c5b3b74.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/40775/2021/a7919f69-15b9-4b74-8d9c-3aa41c5b3b74-1620553707.jpg",
+    "url_thumb": "https://www.astrobin.com/k1btel/0/rawthumb/thumb/",
+    "user": "t.ammann@bluewin.ch",
+    "views": 59,
+    "w": 3590
+}

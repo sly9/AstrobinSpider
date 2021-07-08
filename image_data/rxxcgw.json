@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 23,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.065",
+    "description": "Started to learn a little more about how to do Galaxy processing. It is a totally different animal. Control the star size is such a headache. There must be something that I don't know yet - there is no way I could bring out the blueish dust glows and the vivid color of the core. I like the natural-looking result with good details. But I also like to know how to \"pop\" galaxy colors. Next time. \r\n\r\nHuge thanks to my teammates <a href=\"https://www.astrobin.com/users/tbcgeorge/\">TBC George</a>, <a href=\"https://www.astrobin.com/users/nodustab/\">Chen Wu</a>, and <a href=\"https://www.astrobin.com/users/yzhzhang/\">Yizhou Zhang</a> for helping me complete the data acquisition. The weather at the beginning of 2021 was truly horrible!\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 2880,
+    "hash": "rxxcgw",
+    "id": 579216,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 226,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "281.142",
+    "pixscale": "1.768",
+    "published": "2021-04-04T03:08:40.654565",
+    "ra": "198.950",
+    "radius": "0.850",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/579216/",
+    "revisions": [
+        "/api/v1/imagerevision/281301/",
+        "/api/v1/imagerevision/281395/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower Galaxy"
+    ],
+    "title": "Messier 63 (Sunflower Galaxy) - Widefield",
+    "updated": "2021-05-27T08:17:34.542732",
+    "uploaded": "2021-04-04T02:21:26.431561",
+    "url_duckduckgo": "https://www.astrobin.com/rxxcgw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rxxcgw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rxxcgw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rxxcgw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rxxcgw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rxxcgw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rxxcgw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2021/ff7430f6-6b1c-41ff-b269-3c65e28753da.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2021/ff7430f6-6b1c-41ff-b269-3c65e28753da-1617503128.png",
+    "url_thumb": "https://www.astrobin.com/rxxcgw/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 427,
+    "w": 1920
+}

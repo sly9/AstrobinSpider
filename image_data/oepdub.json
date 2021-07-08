@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "69.059",
+    "description": "Messier 81\r\nL : 182 x 2 min Skywatcher Quattro 10 C, ASI 183 mmc, bin 2x2\r\nRGB :90 x 2 min Skywatcher 130/650 PDS , ASI 294 mc\r\n---------------------------------------------------------------\r\nTOTAL: 9h 4 min",
+    "h": 1496,
+    "hash": "oepdub",
+    "id": 558866,
+    "imaging_cameras": [
+        "ASI ZWO ASI 294MC Pro",
+        "ASI ZWO ASI 183MM-C pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 130/650 PDS",
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810357/"
+    ],
+    "orientation": "180.218",
+    "pixscale": "1.095",
+    "published": "2021-01-17T10:51:39.914022",
+    "ra": "148.894",
+    "radius": "0.409",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558866/",
+    "revisions": [],
+    "subjects": [
+        "Bode's Galaxy",
+        "Bode's galaxy",
+        "M 81",
+        "M81",
+        "NGC 3031"
+    ],
+    "title": "M81",
+    "updated": "2021-03-11T19:04:41.345792",
+    "uploaded": "2021-01-17T10:48:49.074467",
+    "url_duckduckgo": "https://www.astrobin.com/oepdub/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/oepdub/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/oepdub/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/oepdub/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/oepdub/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/oepdub/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/oepdub/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3620/2021/3273e88c-af7d-4cb4-b4be-4adee60066e2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3620/2021/3273e88c-af7d-4cb4-b4be-4adee60066e2-1610880865.jpg",
+    "url_thumb": "https://www.astrobin.com/oepdub/0/rawthumb/thumb/",
+    "user": "navigator77",
+    "views": 219,
+    "w": 2232
+}

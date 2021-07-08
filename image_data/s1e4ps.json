@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "57.475",
+    "description": "Have ALWAYS Loved imaging this target and never  went wide field on it.  ~~~\r\nThis time~ I went SHO and a little wider. \r\n\r\nBUT. I WILL be adding considerably more time over the next year or two on it.  This is 9 hours.\r\n\r\n  \r\n~~~~Tekkie stuffs:\r\nTelescope: Explorer scientific Ed 80 FCD-100\r\nCamera: ASI1600pro\r\nFilters: Astrodon E series\r\nMount: Atlas EQ-G\r\nGuiding camera: 290 mini with OAG\r\nSHO~36:37:37: 300 sec images\r\nTotal integration time: 9.16 hours\r\nSeeing/ environment: 2-3\r\nBortle Class: Class 5/6 Backyard~ Central Indiana\r\nDates of acquisition:7/3-20, 2020\r\nprocessing Pixinsght:\r\nprocessing: considerations. MULTIPLE nights with good alignment (2 degree error allowed in SGP) \r\nsynth lum created for Decon\r\n\r\nAligned all to each other.\r\nCrop\r\nDBE individually\r\nSHO combine with 15% of Ha added to R and 10% to Blue\r\nSHO workflow~BGN; MLT for Noise reduction\r\nLum workflow~decon with autopsf 40 iterations 5 layers; \r\nMLT for noise reduction\r\n HT for Lum with Bg at 10% for both\r\nTGVDN\r\nLHE after for small and larger kernels masked for the nebula\r\nMultiple masks for Curves with  range and color and Lum masking for lightness and sat boost\r\nXPTR with Lum mask for lum boost;\r\nMLT for sharpening.\r\nMorph to reduce the stars just a bit and dark structure enhance with ICC to end.",
+    "h": 3376,
+    "hash": "s1e4ps",
+    "id": 572563,
+    "imaging_cameras": [
+        "ZWO 183MM pro ASI 183 MM pro"
+    ],
+    "imaging_telescopes": [
+        "Explorer Scientific 80mm ED FCD-100 Explore Scientific 80mm FCD 100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810993/"
+    ],
+    "orientation": "181.487",
+    "pixscale": "2.048",
+    "published": "2021-03-09T05:09:42.638501",
+    "ra": "324.851",
+    "radius": "1.574",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/572563/",
+    "revisions": [
+        "/api/v1/imagerevision/277530/"
+    ],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC 1396 Elephant Trunk in SHO",
+    "updated": "2021-06-26T02:15:10.034060",
+    "uploaded": "2021-03-09T04:16:37.286521",
+    "url_duckduckgo": "https://www.astrobin.com/s1e4ps/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s1e4ps/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s1e4ps/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s1e4ps/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s1e4ps/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s1e4ps/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s1e4ps/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30306/2021/6b3d1c89-a85c-4bd1-ade7-94ee669162a1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30306/2021/6b3d1c89-a85c-4bd1-ade7-94ee669162a1-1615263782.jpg",
+    "url_thumb": "https://www.astrobin.com/s1e4ps/0/rawthumb/thumb/",
+    "user": "lowry_pt",
+    "views": 288,
+    "w": 4386
+}

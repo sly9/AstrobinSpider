@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 33,
+    "data_source": "BACKYARD",
+    "dec": "33.963",
+    "description": "My first image with the FLI PL16803 swapped out with a ZWO ASI6200MM Pro.\r\n\r\nMy goal here was to see what's possible with this new CMOS camera while imaging a DSO. \r\n\r\nStephan's Quintet is always a challenge. Since it's now positioned well for most of the night, it was my 1st choice.\r\n\r\nSelecting a proper CMOS exposure length and gain is new for me. So I tried a few experiments.\r\n\r\nLong story short...\r\n\r\n1. 900s exposures with Gain = 0 seemed to yield very similar SNR as 60s exposures with gain = 100, given the same overall stacked exposure time.\r\n\r\n2. Given #1, I decided to use 60s exposures at gain = 100 for Luminance to help collect more subs with low FWHM.\r\n\r\n3. For color, I selected 300s at gain = 100. FWHM is not as important for color, so I didn't want to mess with too many subs.\r\n\r\n4. I collected all data at bin 1:1 (9567 x 6388). Since the target was much smaller, I used a ROI in PI to speed post processing.\r\n\r\nSeeing was good for Luminance. I collected about 300 subs (5 hours) and only kept the best 121 (2 hours) with FWHM between 1\" and 1.5\". Stacked data was a bit noisy and not as deep as the 16803. But it was sharp. (-:\r\n\r\nSeeing during color was relatively poor. Red was between 1.59\" and 3.03\", Green 1.75\" and 2.09\" and Blue 1.49\" to 3.07\". This caused some red halos around the brighter stars that I needed to soften.\r\n\r\nIn summary...\r\n\r\n1. The CMOS camera lets me try things that would not be possible with CCD, especially for extracting detail. \r\n\r\n2. The 16803 ***may*** allow me to go deeper and it has a bigger frame size. So it's still a keeper.\r\n\r\n3. I look forward to adding 2x magnification to the CMOS setup to try very hi-resolution imaging of smaller targets.\r\n\r\n*** NEW REVISION ***\r\n\r\nAdded more data on 8/23/20 and 8/24/20...\r\n\r\nL: 267 x 60s (FWHM < 1.56\" && Eccentricity < 0.55)\r\nR: 27 x 300s (1.17\" < FWHM < 2.05\")\r\nG: 24 x 300s (1.24\" < FWHM < 2.09\")\r\nB: 28 x 300s (1.33\" < FWHM < 2.25\")\r\n\r\nCamera gain = 100 for all.",
+    "h": 1749,
+    "hash": "7wd5oe",
+    "id": 516810,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 232,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "359.551",
+    "pixscale": "0.196",
+    "published": "2020-08-22T04:51:00.749143",
+    "ra": "339.009",
+    "radius": "0.088",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/516810/",
+    "revisions": [
+        "/api/v1/imagerevision/246888/"
+    ],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "NGC7317",
+        "NGC7318",
+        "NGC7319",
+        "NGC7320",
+        "Stephan's Quintet"
+    ],
+    "title": "Stephan's Quintet with Lucky Imaging",
+    "updated": "2021-03-16T22:41:27.840304",
+    "uploaded": "2020-08-22T05:51:00.895732",
+    "url_duckduckgo": "https://www.astrobin.com/7wd5oe/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7wd5oe/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7wd5oe/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7wd5oe/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7wd5oe/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7wd5oe/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7wd5oe/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/f4e4c7b2-f8fe-4b63-aca5-6786f640d4cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/f4e4c7b2-f8fe-4b63-aca5-6786f640d4cf-1598122988.jpg",
+    "url_thumb": "https://www.astrobin.com/7wd5oe/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 967,
+    "w": 2741
+}

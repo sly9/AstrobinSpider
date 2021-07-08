@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "6.536",
+    "description": "Do to changeable weather, I needed 3 sessions to collect this relatively little amount of data.\r\nFortunately both the Ha and OIII signal are pretty good, especially the Ha, which is dominant in that planetary nebula. \r\n\r\nHa : 2h\r\nOIII : 40min",
+    "h": 1249,
+    "hash": "intrks",
+    "id": 520377,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 222,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.723",
+    "pixscale": "1.069",
+    "published": "2020-09-03T09:51:42.977798",
+    "ra": "289.631",
+    "radius": "0.280",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/520377/",
+    "revisions": [
+        "/api/v1/imagerevision/248282/"
+    ],
+    "subjects": [
+        "NGC 6781"
+    ],
+    "title": "PN  NGC 6781",
+    "updated": "2021-03-22T01:43:01.060287",
+    "uploaded": "2020-09-03T10:42:45.745087",
+    "url_duckduckgo": "https://www.astrobin.com/intrks/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/intrks/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/intrks/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/intrks/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/intrks/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/intrks/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/intrks/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/1bf37ed7-bae6-466b-93e4-a43853b094c7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/1bf37ed7-bae6-466b-93e4-a43853b094c7-1599130639.png",
+    "url_thumb": "https://www.astrobin.com/intrks/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 394,
+    "w": 1416
+}

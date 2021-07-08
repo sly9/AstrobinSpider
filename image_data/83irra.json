@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-59.709",
+    "description": "Ver.A is the original version.\r\nFor high resolution image , I hosted on flickr \r\nLink : https://www.flickr.com/photos/136920589@N06/49731146142/in/dateposted/\r\n\r\nTwo individual telescopes to capture in different time.\r\nUsing L/R/G/B for mainly color , Ha/SII/OIII for enhance details and contrast. \r\n\r\nSequence  1\r\nPlanewave CDK 24 + 0.66x +FLI 16803M @f4.5\r\nLRGB : 1mins *4 total 4mins\r\n--\r\nSequence 2\r\nASA 16 NT with Wayne RD + QSI 683M @f3.8\r\nLRGB: 1mins * 4 total 8mins (Twice of the image set)\r\nNarrowband 10mins *3 total 30mins\r\n--\r\nUsing \r\nMaximDL 6 Pro for image calibration.\r\nSiriL for stacking & photometric color correction and  detail enhancement .\r\nPhotoshop CC 2020 for final-post-processing.",
+    "h": 2136,
+    "hash": "83irra",
+    "id": 472328,
+    "imaging_cameras": [
+        "FLI Proline 16803",
+        "QSI 683CWSG"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK24",
+        "ASA Astrosysteme 400 F/3.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "https://www.flickr.com/photos/136920589@N06/49731146142/in/dateposted/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808972/"
+    ],
+    "orientation": "268.843",
+    "pixscale": "0.874",
+    "published": "2020-04-03T12:51:32.394968",
+    "ra": "161.074",
+    "radius": "0.422",
+    "remote_source": "iT",
+    "resource_uri": "/api/v1/image/472328/",
+    "revisions": [],
+    "subjects": [
+        "Carina Nebula",
+        "NGC 3372",
+        "eta Car Nebula"
+    ],
+    "title": "The Great Carina Nebula",
+    "updated": "2021-03-17T03:38:17.778034",
+    "uploaded": "2020-04-03T13:28:34.476834",
+    "url_duckduckgo": "https://www.astrobin.com/83irra/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/83irra/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/83irra/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/83irra/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/83irra/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/83irra/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/83irra/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19114/2020/7cc878b8-b17a-4611-b11f-20181e61a5a6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19114/2020/7cc878b8-b17a-4611-b11f-20181e61a5a6-1585921652.jpg",
+    "url_thumb": "https://www.astrobin.com/83irra/0/rawthumb/thumb/",
+    "user": "uendy399",
+    "views": 151,
+    "w": 2742
+}

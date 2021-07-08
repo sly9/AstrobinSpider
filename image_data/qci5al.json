@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "53.375",
+    "description": "M109 with the Starbright C11, the Starizona F7,2 reducer (fl 2000mm)and the ASI183mm. That last one was at 0,25\" per pixel way oversampling the C11's images, but not sure how this impacted the final result. I had a similar run with the Nikon D750, which did not give a satisfying result.\r\n\r\nThe C11 was guided through the 8x50 finder (no OAG)\r\nAutofocus was a first with the Essato 2\" focusser from PrimaLuceLab\r\n\r\nWith SIMBAD the faintest galaxy I could find was SDSS J115703.88+532414.6 with a listed green band magnitude of 20,893 :-) always nice to breach the 20th magnitude!",
+    "h": 1254,
+    "hash": "qci5al",
+    "id": 489429,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "C11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 35,
+    "link": "https://www.drogenberg.be",
+    "link_to_fits": "https://www.drogenberg.be",
+    "locations": [
+        "/api/v1/location/2800192/"
+    ],
+    "orientation": "43.190",
+    "pixscale": "0.629",
+    "published": "2020-05-19T17:45:31.430954",
+    "ra": "179.381",
+    "radius": "0.198",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/489429/",
+    "revisions": [],
+    "subjects": [
+        "M 109",
+        "NGC 3992"
+    ],
+    "title": "M109",
+    "updated": "2021-05-22T01:15:09.988115",
+    "uploaded": "2020-05-19T18:45:31.562340",
+    "url_duckduckgo": "https://www.astrobin.com/qci5al/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qci5al/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qci5al/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qci5al/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qci5al/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qci5al/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qci5al/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6058/2020/4eef9348-6557-4965-9599-727f3eb080dc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6058/2020/4eef9348-6557-4965-9599-727f3eb080dc-1589914653.jpg",
+    "url_thumb": "https://www.astrobin.com/qci5al/0/rawthumb/thumb/",
+    "user": "Joostie",
+    "views": 217,
+    "w": 1890
+}

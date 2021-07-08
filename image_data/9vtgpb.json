@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "58.087",
+    "description": "",
+    "h": 4015,
+    "hash": "9vtgpb",
+    "id": 509687,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106-EDXII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812173/"
+    ],
+    "orientation": "281.378",
+    "pixscale": "0.739",
+    "published": "2020-07-27T01:45:23.076336",
+    "ra": "341.577",
+    "radius": "0.623",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/509687/",
+    "revisions": [
+        "/api/v1/imagerevision/243248/",
+        "/api/v1/imagerevision/243315/",
+        "/api/v1/imagerevision/246444/"
+    ],
+    "subjects": [
+        "NGC 7380",
+        "NGC7380",
+        "PK107-00.1",
+        "Sh2-142"
+    ],
+    "title": "NGC 7380",
+    "updated": "2021-03-16T23:22:05.239196",
+    "uploaded": "2020-07-27T02:45:23.083700",
+    "url_duckduckgo": "https://www.astrobin.com/9vtgpb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9vtgpb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9vtgpb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9vtgpb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9vtgpb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9vtgpb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9vtgpb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9347/2020/3fa7969d-68a6-430d-85fa-ceb59d54b256.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9347/2020/3fa7969d-68a6-430d-85fa-ceb59d54b256-1595818243.png",
+    "url_thumb": "https://www.astrobin.com/9vtgpb/0/rawthumb/thumb/",
+    "user": "mesh83",
+    "views": 153,
+    "w": 4555
+}

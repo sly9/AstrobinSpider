@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "-11.623",
+    "description": "Well, my wife, who takes my astronomy with a grain of salt, surprised me when she said wow to my \"UFO\", better known as the Sombrero.  That was worth 10,000 Astrobin likes.\r\n\r\nThis is my first attempt at the Sombrero.  I'm was hoping to capture more high quality luminance data, but the weather isn't cooperating.  Also the Sombrero is a bit of a challenge from my site because of my house and trees, so I tend to only capture Sombrero data interstitially with my main targets being further south.  A final version may be years away; as new data trickles in.\r\n\r\n<b>Capture Details</b>\r\n\r\nTotal Capture data was actually 29.8 hours over 24 separate sessions equating to 894 subframes:\r\n • 11.0 hours of all captures from 10 sessions were discarded directly (\"low quality\")\r\n • 10.2 hours of better quality data  from 14 part sessions was also discarded  (\"insufficient quality\")\r\n • 8.6 hours from the 14 sessions were ultimately integrated with weighting (\"excellent quality\")\r\n\r\n<b>Resolution vs Seeing</b>\r\n\r\nAt 200mm (7.9\") such a telescope just resolves under the best possible average seeing. So larger apertures can collect more photons in a given amount of time but don't resolve/yield more detail. Of course you need to be operating at the right arcsec/pixel resolution, have things collimated, mount tracking well, etc. At times the seeing at my site is exceptional and so the results can be surprisingly good.",
+    "h": 1600,
+    "hash": "lqqr9y",
+    "id": 576268,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8 Carbon Fiber"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 159,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811056/"
+    ],
+    "orientation": "0.635",
+    "pixscale": "0.322",
+    "published": "2021-03-23T03:16:49.555089",
+    "ra": "189.998",
+    "radius": "0.129",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/576268/",
+    "revisions": [
+        "/api/v1/imagerevision/280541/",
+        "/api/v1/imagerevision/281728/"
+    ],
+    "subjects": [
+        "M 104",
+        "M104",
+        "NGC 4594",
+        "Sombrero Galaxy",
+        "Sombrero galaxy"
+    ],
+    "title": "Sombrero NGC 4594 (M104) with RC8",
+    "updated": "2021-05-30T18:11:03.796426",
+    "uploaded": "2021-03-22T19:34:13.610356",
+    "url_duckduckgo": "https://www.astrobin.com/lqqr9y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lqqr9y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lqqr9y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lqqr9y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lqqr9y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lqqr9y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lqqr9y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33848/2021/f5ec467c-3a0c-45c8-bab5-5936d967ee60.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33848/2021/f5ec467c-3a0c-45c8-bab5-5936d967ee60-1616465891.jpg",
+    "url_thumb": "https://www.astrobin.com/lqqr9y/0/rawthumb/thumb/",
+    "user": "astrod",
+    "views": 472,
+    "w": 2400
+}

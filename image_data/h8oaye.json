@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "-24.273",
+    "description": "Hi ! Thanks for watching !\r\n\r\nFinal revision  is a crop on M8 at native resolution , original revision is full sensor. I prefer the close-up view :-)\r\n\r\nI found M8 really challenging to process. \r\n\r\nFirst challenge was M8 brightness/contrast : the core is so bright that if you do not use HDR functions, you can not get both the nebula and the background context with a good exposition. I had never use HDR and it was a hard learning curve.  Not sure I found the right spot on this M8.\r\n\r\nSecond challenge was color : I wanted to keep good stars and nebula colors. I looked at a lot of RGB M8 and did not really manage to find a reference color here on Astrobin. Found the Adam Block's version beautiful and useful to check stars and nebs colors. Mine a bit more blueish.\r\n\r\nThird challenge was \"No starless\", I tried and found it difficult to go starless processing in RGB. Also I did not manage to achieve a good  result using Ha as Lum so I finally created a synthetic Lum with RGB. This was used as luminance in the image. A starless Ha was used to increase core details (high pass).\r\n\r\nI really struggled to achieve this final version (Revision BD!) and still not sure about it...\r\n\r\nThanks for reading !",
+    "h": 2452,
+    "hash": "h8oaye",
+    "id": 520160,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes CFF 105"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 86,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806424/"
+    ],
+    "orientation": "180.206",
+    "pixscale": "1.717",
+    "published": "2020-09-21T11:44:34.942243",
+    "ra": "271.140",
+    "radius": "0.975",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/520160/",
+    "revisions": [
+        "/api/v1/imagerevision/250838/"
+    ],
+    "subjects": [
+        "7 Sgr",
+        "9 Sgr",
+        "B296",
+        "B88",
+        "B89",
+        "Lagoon Nebula",
+        "Lagoon nebula",
+        "M 8",
+        "M8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "NGC6526",
+        "NGC6530",
+        "Sh2-25",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 - Dive in the Lagoon",
+    "updated": "2021-06-18T10:41:30.433048",
+    "uploaded": "2020-09-02T11:29:53.579968",
+    "url_duckduckgo": "https://www.astrobin.com/h8oaye/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h8oaye/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h8oaye/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h8oaye/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h8oaye/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h8oaye/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h8oaye/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21019/2020/ec5a94e6-2c6d-43ca-93ac-16c1d67a1050.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21019/2020/ec5a94e6-2c6d-43ca-93ac-16c1d67a1050-1600431157.jpg",
+    "url_thumb": "https://www.astrobin.com/h8oaye/0/rawthumb/thumb/",
+    "user": "yeb",
+    "views": 307,
+    "w": 3272
+}

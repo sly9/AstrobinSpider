@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 12,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "A mosaic of 3 frames.\r\n\r\nI was waiting for a clear sky with no jet stream above, having the Moon up in the sky near the Zenith, without the need of an atmospheric dispersion corrector, to test what I can achieve with my 250mm Newtonian.\r\n\r\nThis chance came in May, I travelled to the observing location near the sea on the Island and set up the gears there, where a steadier local seeing was expected.\r\n\r\nI took 3 SERs, each with 2000 frames, using FireCapture 2.6.  Shooting the Moon nowadays requires large storage and fast SSD, with each SERs 39GB in size.  I set the shutter at 2ms and gain at 200, tried to balance the seeing impact, s/n ratio, highlights and bias within the dynamic range of the sensor.  I decided to keep the SER at 8 bits, for a more manageable file size, and higher frame rate.\r\n\r\nBack home, I use AutoStakkert!3 with 1.5x drizzle to stack the SER with 50% frames selected, as my optical train is a bit under-sampled with the pixel pitch of IMX183 sensor.  With the gigantic file size, it took quite sometime to run the stacking.  I then used PixInsight’s MultiLinearTransform to restore the resolution, and HDRMultiscaleTransform to reduce the contrast of the image.\r\n\r\nI then use Photoshop’s Photomerge to stitch the 3 frames into a panoramic view of the Moon’s terminator.\r\n\r\nMy goal is to image the Moon, to reproduce what the astronomer sees in the eyepiece sweeping the lunar surface.  Having human eye an extremely high dynamic range instrument (and non-linear!), it would be a challenge for most CCD & CMOS sensors & display monitors to resemble what the astronomer sees through a telescope.  In the old days, we did dodge and burn to cater the limited range of photopaper, from the high contrast image obtained with 2415 negative.  Now, we do it with high speed sensor and processing software offered by the advancement of technology.\r\n\r\nDoing lunar shot is always a fun and challenge, in learning to deal with contrast and resolution of this celestial object, available to most astronomers over the world.",
+    "h": 16892,
+    "hash": "552pxa",
+    "id": 515820,
+    "imaging_cameras": [
+        "ZWO ASI183MM"
+    ],
+    "imaging_telescopes": [
+        "250mm f/4 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812785/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-08-18T14:38:13.703704",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/515820/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Lunar age 10 terminator",
+    "updated": "2021-03-16T22:46:56.571202",
+    "uploaded": "2020-08-18T15:38:14.602637",
+    "url_duckduckgo": "https://www.astrobin.com/552pxa/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/552pxa/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/552pxa/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/552pxa/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/552pxa/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/552pxa/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/552pxa/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/552pxa/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 1153,
+    "w": 5487
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "44.330",
+    "description": "Got some good weather in September. Managed to get 108 frames 900sec each. Ha 3nm 47 frames, OIII 3nm 30 frames, and SII 3nm 31 frame.",
+    "h": 2413,
+    "hash": "5l4se3",
+    "id": 533648,
+    "imaging_cameras": [
+        "QSI 683 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "LACERTA 250/1000 F4 LACERTA NEWTON"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801800/"
+    ],
+    "orientation": "179.078",
+    "pixscale": "1.113",
+    "published": "2020-10-19T12:16:47.173657",
+    "ra": "313.035",
+    "radius": "0.625",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/533648/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "The Pelican Nebula",
+    "updated": "2021-06-16T13:39:09.195139",
+    "uploaded": "2020-10-19T11:40:38.399032",
+    "url_duckduckgo": "https://www.astrobin.com/5l4se3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5l4se3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5l4se3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5l4se3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5l4se3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5l4se3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5l4se3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9405/2020/0602c7f3-3eb3-4eb8-a6f8-a7cca6ad2ac1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9405/2020/0602c7f3-3eb3-4eb8-a6f8-a7cca6ad2ac1-1603111865.jpg",
+    "url_thumb": "https://www.astrobin.com/5l4se3/0/rawthumb/thumb/",
+    "user": "Antanas",
+    "views": 451,
+    "w": 3244
+}

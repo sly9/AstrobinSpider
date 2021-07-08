@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "Data Acquisition from 2019-08-19 until 2019-11-24. \r\nDSO Color Mapping: SN-HO-OH\r\nOriginal Image (Pix) Scale: 0.72\r\n\r\nNB: This scope is located at Sierra Remote Observatory. I personally configured and installed this scope and make regular trips to SRO to perform maintenance and upgrades. When not on site, I operate the scope nightly from home using a remote desktop application.\r\n-------------------------------------------------------------------------------------------------------------------------------\r\n\r\nThis is one of the most often imaged targets on Astrobin, so I will spare you all of the usual info on the Trunk (1396A) and the greater nebula (IC 1396). I just finished processing this data from Late 2019, and hope you like the result.",
+    "h": 3806,
+    "hash": "yzxwgo",
+    "id": 577957,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "PlaneWave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 144,
+    "link": "https://www.jklovelacephotography.com/portfolio/G0000iMp5HN.FsAc",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814270/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-03-29T19:05:25.625355",
+    "ra": null,
+    "radius": null,
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/577957/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The Elephant's Trunk - IC 1396A",
+    "updated": "2021-07-04T18:11:20.255869",
+    "uploaded": "2021-03-29T19:50:49.306459",
+    "url_duckduckgo": "https://www.astrobin.com/yzxwgo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yzxwgo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yzxwgo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yzxwgo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yzxwgo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yzxwgo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yzxwgo/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/yzxwgo/0/rawthumb/thumb/",
+    "user": "jklovelacephotography",
+    "views": 277,
+    "w": 3806
+}

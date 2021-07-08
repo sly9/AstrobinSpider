@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "57.573",
+    "description": "Original: \r\nNight 1 data. I'm mostly seeing what I have. Getting green and purple in the image that's been a pain to remove, but data looks good so far.\r\nB:\r\nFound a video by Visibledark Asto to fix the green and purple in the image. Worked perfectly.\r\nhttps://www.youtube.com/watch?v=TVbfsHwCAbQ\r\nD:\r\nBoosted color a bit. Added color dodge to give it a bit of a glow. Not sure if I like this better, but it will be replaced after I get more data anyway.\r\nE:\r\nAfter Night 2 of imaging. I over stretched the images on this one and lost a lot of data. I'll be trying a new processing method next time so haven't fixed it yet.\r\nF:\r\nNew method from Visbledark Astro found here https://www.youtube.com/watch?v=j5zsZbHXrFE\r\nI'm not sure if I'm a fan of the stars and there seems to be a lot of noise. I'll work on combining our methods for the next revision.\r\nG:\r\nMix between my old method and some items from the new one. I'm not really sure what looks good anymore.\r\nH:\r\nI think this is going to be it for a while. More data added and reprocessed. The colors don't pop as much as previous pictures, but I kind of like it that way.",
+    "h": 3444,
+    "hash": "xc4kf3",
+    "id": 501095,
+    "imaging_cameras": [
+        "ASI ZWO 1600 MM-Cooled"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT81 APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809476/"
+    ],
+    "orientation": "33.205",
+    "pixscale": "2.025",
+    "published": "2020-06-29T02:10:29.891103",
+    "ra": "324.991",
+    "radius": "1.494",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/501095/",
+    "revisions": [
+        "/api/v1/imagerevision/239152/",
+        "/api/v1/imagerevision/239204/",
+        "/api/v1/imagerevision/239296/",
+        "/api/v1/imagerevision/239350/",
+        "/api/v1/imagerevision/239395/",
+        "/api/v1/imagerevision/241075/",
+        "/api/v1/imagerevision/244049/"
+    ],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 - Elephant's Trunk Nebula",
+    "updated": "2021-03-17T00:57:27.725258",
+    "uploaded": "2020-06-27T16:37:06.635972",
+    "url_duckduckgo": "https://www.astrobin.com/xc4kf3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xc4kf3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xc4kf3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xc4kf3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xc4kf3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xc4kf3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xc4kf3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28980/2020/1807388a-aae4-4709-86d9-3513fb4124d3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28980/2020/1807388a-aae4-4709-86d9-3513fb4124d3-1593276086.jpg",
+    "url_thumb": "https://www.astrobin.com/xc4kf3/0/rawthumb/thumb/",
+    "user": "Nathan-Farrow",
+    "views": 138,
+    "w": 4045
+}

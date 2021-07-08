@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 29,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "37.430",
+    "description": "NGC 5395/Arp 84\r\n\r\nObject : ngc 5395 /Arp 84\r\nDate : Feb.2019-May.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB \r\nExposure : L:300sx50,R:300sx28,G:300sx27,B:300sx25 (10.83hr)\r\nGuiding  :Borg 50/ asi174 ,\r\nProcessing:  PI、PS-CC",
+    "h": 1864,
+    "hash": "06i285",
+    "id": 522306,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 236,
+    "link": "https://astro-noodle.blogspot.com/2020/09/ngc-5395arp-84.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "88.561",
+    "pixscale": "0.669",
+    "published": "2020-09-11T11:15:23.102650",
+    "ra": "209.655",
+    "radius": "0.263",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/522306/",
+    "revisions": [
+        "/api/v1/imagerevision/249185/"
+    ],
+    "subjects": [
+        "IC 4356",
+        "NGC 5394",
+        "NGC 5395",
+        "NGC5394",
+        "NGC5395"
+    ],
+    "title": "ngc 5395 / Arp 84",
+    "updated": "2021-05-05T00:29:21.943646",
+    "uploaded": "2020-09-11T12:15:23.352957",
+    "url_duckduckgo": "https://www.astrobin.com/06i285/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/06i285/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/06i285/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/06i285/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/06i285/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/06i285/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/06i285/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/c21d6840-dea0-46fd-afcf-7b28be4085c4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/c21d6840-dea0-46fd-afcf-7b28be4085c4-1599828111.png",
+    "url_thumb": "https://www.astrobin.com/06i285/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 1373,
+    "w": 2136
+}

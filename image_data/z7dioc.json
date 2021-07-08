@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 29,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.309",
+    "description": "In SH2-264 cloud, there are two targets sitting on my target list since the winter of 2019. The whole Lambda Orionis is a fantastic region - strong H-II emission, rich dust clouds, and, the best part is the blue reflection nebula Ced 51. I don't think I gave a fair amount of broadband data to Barnard 35. For Barnard 32, I did stay there for a while. \r\n\r\nThis is my second \"full scale\" broadband+narrowband blending experiment. The target is: Details of the emission clouds and the color of the broadband regions. There are lots of unknowns before I started the processing. One thing that got me immediately is the luminance level change after blending Ha into Lum for the synthetic luminance master. Tried different ways to balance it without much success. Till the end of the processing,  I still don't have a systematic way to do this methodically in PixInsight. Quite a struggle with color mask and curve transformation, then I quit and went back to the wonderful Photoshop Hue/Saturation adjustment layer. 😊\r\n\r\nAnother debate is about the presentation of the final image. I am still not decided. One way is to use narrowband image style stars to maximize the presentation of the beautiful clouds; and the other way is to go with more \"LRGB\" style stars. Maybe I've been with backyard narrowband imaging for too long. I am more biased to the pin-point stars with less density. \r\n\r\n<I>Some brief description of the different versions:</I>\r\n\r\n<B>Version A</B> - LHa/RHa/G/B blending with narrowband style RGB stars.\r\n<B>Version B</B> - Typical LRGB blending with TVGDenoise.\r\n<B>Version C</B> - Starless <I>Version A</I> blending with LRGB version, EZ Star Reduction with MT.\r\n\r\nAll there use the FOV of the excellent Takahashi TOA-130NS scope. The resolution power is wonderful. Some details of the H-II streaks well captured under the dust cloud. There is one part I do love <I>Version C</I> - blending with the original LRGB data preserved many small galaxies in the image.\r\n\r\nHope you folks like it. <B>Happy New Year 2021! </B>\r\n\r\n<a href=\"https://www.astrobin.com/search/?q=TeamNoctuaDSNM&subject=&telescope=&camera=&date_published_min=2011-11-09&date_published_max=2099-05-10\"><I>#TeamNoctuaDSNM</I></a>",
+    "h": 3840,
+    "hash": "z7dioc",
+    "id": 555031,
+    "imaging_cameras": [
+        "ZWO ASI6200mm-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814824/"
+    ],
+    "orientation": "155.129",
+    "pixscale": "1.771",
+    "published": "2021-01-03T03:32:17.316321",
+    "ra": "82.883",
+    "radius": "1.135",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/555031/",
+    "revisions": [
+        "/api/v1/imagerevision/267380/",
+        "/api/v1/imagerevision/267381/",
+        "/api/v1/imagerevision/267382/"
+    ],
+    "subjects": [],
+    "title": "Cederblad 51 & Barnard 32 Region in Lambda Orionis",
+    "updated": "2021-06-16T14:40:05.956408",
+    "uploaded": "2021-01-03T02:34:43.490277",
+    "url_duckduckgo": "https://www.astrobin.com/z7dioc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z7dioc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z7dioc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z7dioc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z7dioc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z7dioc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z7dioc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2021/0c666e00-9595-44b1-849c-71ecafe37497.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2021/0c666e00-9595-44b1-849c-71ecafe37497-1609864270.png",
+    "url_thumb": "https://www.astrobin.com/z7dioc/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 543,
+    "w": 2560
+}

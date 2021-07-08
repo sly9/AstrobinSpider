@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 43,
+    "data_source": "BACKYARD",
+    "dec": "69.679",
+    "description": "Didn't think I could get deeper than my prior attempt with 28 hours of 5 nm Ha captured by Adam Block in his 32\" - with the moon out...\r\n\r\n<a href=\"https://www.astrobin.com/9o5ja2/B/\">Prior \"Deep\" attempt</a>\r\n\r\nHere's my 20 hours of 5 nm Ha captured over the last 4 days between 8:30 PM and 1:30 AM PST. I was pleased to discover I could get noticeably deeper with 24\" vs 32\" and 20 hours vs 28 hours - but no moon with a 21.3 SQM sky all 4 days.\r\n\r\nRed-colored Ha was very carefully screened over LRGB to preserve all the Ha detail. Adam's stacked and deconvolved Ha has 1.78\" FWHM vs my 1.92\" FWHM, so there's a minor loss of Ha detail. The deeply exposed M82 core in Ha was significantly dimmed using both PI HDR and PS Shadows/Highlights to help preserve the natural RGB after the Ha screening process.",
+    "h": 2304,
+    "hash": "ruymgt",
+    "id": 482404,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "178.674",
+    "pixscale": "0.468",
+    "published": "2020-04-26T22:18:23.943802",
+    "ra": "148.974",
+    "radius": "0.216",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/482404/",
+    "revisions": [],
+    "subjects": [
+        "Cigar Galaxy",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034"
+    ],
+    "title": "M82 (Deeper)",
+    "updated": "2021-04-13T18:35:37.258864",
+    "uploaded": "2020-04-26T23:18:24.091604",
+    "url_duckduckgo": "https://www.astrobin.com/ruymgt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ruymgt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ruymgt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ruymgt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ruymgt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ruymgt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ruymgt/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/34bea416-9f74-4923-8bd2-cfcd58c026ad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/34bea416-9f74-4923-8bd2-cfcd58c026ad-1587943308.jpg",
+    "url_thumb": "https://www.astrobin.com/ruymgt/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 745,
+    "w": 2399
+}

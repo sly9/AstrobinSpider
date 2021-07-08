@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "54.390",
+    "description": "L: R: G: B: 3.9: 1.9: 1.9: 1.9: hours.",
+    "h": 2512,
+    "hash": "jhj27y",
+    "id": 486010,
+    "imaging_cameras": [
+        "SBIG STX 16803 with off axis guider"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo CDK dual config. 300mm  f/9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 158,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812881/"
+    ],
+    "orientation": "270.468",
+    "pixscale": "0.682",
+    "published": "2020-05-07T09:41:15.855779",
+    "ra": "210.802",
+    "radius": "0.337",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/486010/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5455",
+        "NGC 5457",
+        "NGC 5461",
+        "NGC 5471"
+    ],
+    "title": "M101 Pinwheel Galaxy",
+    "updated": "2021-04-07T18:45:00.414440",
+    "uploaded": "2020-05-07T10:41:16.063329",
+    "url_duckduckgo": "https://www.astrobin.com/jhj27y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jhj27y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jhj27y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jhj27y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jhj27y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jhj27y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jhj27y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/55711/2020/249a19bb-558a-4613-9134-4b6d2b2b059c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/55711/2020/249a19bb-558a-4613-9134-4b6d2b2b059c-1588848418.jpg",
+    "url_thumb": "https://www.astrobin.com/jhj27y/0/rawthumb/thumb/",
+    "user": "debraceravolo",
+    "views": 458,
+    "w": 2512
+}

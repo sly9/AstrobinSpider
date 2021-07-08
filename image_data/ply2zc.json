@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "62.878",
+    "description": "A supernova remnant about a full moon of apparent size in the constellation of Cassiopeia. It is a very faint object as it was challenging in terms of planning, acquisition and processing.\r\n\r\nPlanning:\r\nI originally started imaging this target earlier in July, but after my camera died on me, I restarted this target 2 months later with a different chip size, thus a re-framing was in need. After checking several sky surveys for this matter, I landed on a vertical field of view, where the nebula was conceived to appear rising above a hill of dark nebulosity. Later to notice that this hill was actually an undocumented nebula, and a candidate for a new supernova remnant (see the filaments and ribbons at the bottom of the frame).\r\n\r\nAcquisition:\r\nI went berserk mode on this target after noticing the nebulosity at the bottom, I planned for 100 hours but ended up with only 82, including 10 minutes length of exposures. I dropped 30% of those frames, but this helped me solve multiple issues with my setup including 3 sources of differential flexure (hint for future plans: OAG). \r\nWill I go full berserk mode after a target again? Probably yes, but not anytime soon for a faint one. \r\n\r\nProcessing:\r\nProbably the most challenging target I have processed, it involved using Gaussian Blur in some parts for noise reduction that I am not proud of, but I learned different new techniques during this process. \r\n\r\nUnder the hood:\r\niOptron CEM70, TMB92SS, ZWO ASI1600mm pro, 290mm mini, 60mm Orion guidescope\r\nHii: 252x600s (42 hours) \r\nOiii: 480x300s (40 hours) \r\nSoftware: SGP, Phd2, Sharpcap, Pixinsight, Adobe Photoshop and Lightroom CS5\r\nCredits: Daniel Caracache for lending me his mono camera and filterwheel set \r\nLocation: The MVST Observatory (Moophz' Very Small Telescope)",
+    "h": 4400,
+    "hash": "ply2zc",
+    "id": 535962,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TMB Optical TMB 92SS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811835/"
+    ],
+    "orientation": "171.393",
+    "pixscale": "1.526",
+    "published": "2020-10-28T18:20:18.448846",
+    "ra": "0.004",
+    "radius": "1.194",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/535962/",
+    "revisions": [],
+    "subjects": [
+        "The star 9Cas"
+    ],
+    "title": "The Garlic Nebula / CTB1 / Abell 85 / LBN576 in HOO+RGB",
+    "updated": "2021-05-18T22:44:07.171007",
+    "uploaded": "2020-10-28T18:20:19.319098",
+    "url_duckduckgo": "https://www.astrobin.com/ply2zc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ply2zc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ply2zc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ply2zc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ply2zc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ply2zc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ply2zc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19887/2020/70e2e0a7-2926-48d2-b732-cebc1b73031c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19887/2020/70e2e0a7-2926-48d2-b732-cebc1b73031c-1603909592.jpg",
+    "url_thumb": "https://www.astrobin.com/ply2zc/0/rawthumb/thumb/",
+    "user": "Moophz",
+    "views": 458,
+    "w": 3520
+}

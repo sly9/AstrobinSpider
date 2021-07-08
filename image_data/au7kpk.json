@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "69.680",
+    "description": "This day I had extremely good seeing. Unfortunately it was almost Full Monn (82%) so it was really challenging to collect nice LRGB data.\r\n\r\nBut I tried and anyway I'm really happy of the result.\r\n\r\nAdding Ha 35band allowed to reweal some nice detail of starbursts which are surrounding galaxy\r\n\r\nNative scale is 0,35''/pix :)\r\n\r\nNewton 350/1400 on EQ6 + ASI 178MM-C\r\nL: 1200 x 4s (gain 82%)\r\nHa 35nm:  300 x 22s (gain 86%)\r\nRGB: 500 x 5s (gain 82%) per channel\r\nBaader MPCC Mark III coma corrector",
+    "h": 1588,
+    "hash": "au7kpk",
+    "id": 477432,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "AstroFaktoria Truss Newtonian 350/1400"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": "15.713",
+    "pixscale": "0.350",
+    "published": "2020-04-15T09:36:59.616720",
+    "ra": "148.981",
+    "radius": "0.152",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/477432/",
+    "revisions": [
+        "/api/v1/imagerevision/226431/"
+    ],
+    "subjects": [
+        "Cigar Galaxy",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "Messier 82 - Cigar Galaxy   (hi-res photo)",
+    "updated": "2021-06-07T08:09:21.959306",
+    "uploaded": "2020-04-15T10:26:39.023973",
+    "url_duckduckgo": "https://www.astrobin.com/au7kpk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/au7kpk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/au7kpk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/au7kpk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/au7kpk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/au7kpk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/au7kpk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10412/2020/fbdc84e0-22e7-4eaa-ba42-ab311a253621.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10412/2020/fbdc84e0-22e7-4eaa-ba42-ab311a253621-1586947286.jpg",
+    "url_thumb": "https://www.astrobin.com/au7kpk/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 650,
+    "w": 2689
+}

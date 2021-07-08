@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "33.031",
+    "description": "Effect of work from few nights from August-September 2020\r\nNext attempt of get nice Ring Nebula core details connected with faint nebula sorroundings caught in Ha 35nm band\r\n\r\nAstrofaktoria Newton 350/1400 on NEQ-6 + ASI 178MM-C  + Baader LRGB + Baader Ha 35nm\r\nL - 2500 x 2,5s (gain 80%), unguided\r\nRGB - 1000 x 4s (gain 84%) per channel\r\nHa - 500 x 30s (gain 86%)\r\nsetup scale - 0,35''/pix\r\nphoto upsized 1,5x",
+    "h": 1586,
+    "hash": "jgv4i3",
+    "id": 549028,
+    "imaging_cameras": [
+        "ZWO ASI 178 MM-C"
+    ],
+    "imaging_telescopes": [
+        "AstroFaktoria Truss Newtonian 350/1400"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 243,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": "189.057",
+    "pixscale": "0.234",
+    "published": "2020-12-11T17:14:06.407991",
+    "ra": "283.395",
+    "radius": "0.088",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/549028/",
+    "revisions": [],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring Nebula"
+    ],
+    "title": "M57 - Ring Nebula (or maybe rose? )",
+    "updated": "2021-07-07T17:50:42.594345",
+    "uploaded": "2020-12-11T17:04:27.608203",
+    "url_duckduckgo": "https://www.astrobin.com/jgv4i3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jgv4i3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jgv4i3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jgv4i3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jgv4i3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jgv4i3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jgv4i3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10412/2020/25a2394d-255a-4359-becf-0366e1d753c8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10412/2020/25a2394d-255a-4359-becf-0366e1d753c8-1607707286.jpg",
+    "url_thumb": "https://www.astrobin.com/jgv4i3/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 860,
+    "w": 2191
+}

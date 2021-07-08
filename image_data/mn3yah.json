@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "15.822",
+    "description": "Image of M 100 taken with the ASI 294MC Pro at Calvados observatory (RC 14\")",
+    "h": 2254,
+    "hash": "mn3yah",
+    "id": 536295,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "TS Optics RC 14\" Ritchey Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 356,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814698/"
+    ],
+    "orientation": "159.996",
+    "pixscale": "0.420",
+    "published": "2020-10-30T17:34:06.839670",
+    "ra": "185.729",
+    "radius": "0.228",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/536295/",
+    "revisions": [
+        "/api/v1/imagerevision/262197/"
+    ],
+    "subjects": [
+        "M 100",
+        "NGC 4321",
+        "NGC 4323",
+        "NGC 4328"
+    ],
+    "title": "M 100 with ASI 294MC Pro",
+    "updated": "2021-06-03T19:45:46.591761",
+    "uploaded": "2020-10-30T17:25:28.852997",
+    "url_duckduckgo": "https://www.astrobin.com/mn3yah/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mn3yah/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mn3yah/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mn3yah/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mn3yah/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mn3yah/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mn3yah/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2020/3219195e-4f8d-4d67-a21d-c5f4a49bd05d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2020/3219195e-4f8d-4d67-a21d-c5f4a49bd05d-1604079263.jpg",
+    "url_thumb": "https://www.astrobin.com/mn3yah/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 928,
+    "w": 3200
+}

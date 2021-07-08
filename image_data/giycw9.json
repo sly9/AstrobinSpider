@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 33,
+    "comments": 84,
+    "data_source": "BACKYARD",
+    "dec": "-23.840",
+    "description": "14.FEB.2021 - Celestron Edge HD 1100 + Hyperstar v4 + ASI6200MM Pro\r\n12 x 600s <a href=\"https://www.baader-planetarium.com/en/blog/new-baader-cmos-optimized-ultra-narrowband-and-highspeed-filters\" target=\"_new\">Baader Ha f/2 Ultra-Highspeed Filter 3.5 nm</a>\r\n\r\n12.FEB.2021 - Celestron Edge HD 1100 + Hyperstar v4 + ASI6200MM Pro\r\n17 x 600s <a href=\"https://www.baader-planetarium.com/en/blog/new-baader-cmos-optimized-ultra-narrowband-and-highspeed-filters\" target=\"_new\">Baader O3 f/2 Ultra-Highspeed Filter 4 nm</a>\r\n\r\n12&14.FEB.2021 - Takahashi FSQ-85 + Moravian G3 16200 S7\r\n31 x 120s a Baader LRGB Filter",
+    "h": 4116,
+    "hash": "giycw9",
+    "id": 568624,
+    "imaging_cameras": [
+        "Moravian G3-16200FW-S7",
+        "ZWO ASI 6200 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 414,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "90.491",
+    "pixscale": "2.871",
+    "published": "2021-02-22T06:02:20.739053",
+    "ra": "103.522",
+    "radius": "2.027",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/568624/",
+    "revisions": [
+        "/api/v1/imagerevision/275094/"
+    ],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "Sh2-308 - The Dolphin Nebula in HO-LRGB",
+    "updated": "2021-07-07T19:34:45.991649",
+    "uploaded": "2021-02-22T05:58:14.171053",
+    "url_duckduckgo": "https://www.astrobin.com/giycw9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/giycw9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/giycw9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/giycw9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/giycw9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/giycw9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/giycw9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2021/769c612c-73f3-4308-8777-852b67c31892.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2021/769c612c-73f3-4308-8777-852b67c31892-1613973808.jpg",
+    "url_thumb": "https://www.astrobin.com/giycw9/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 1449,
+    "w": 2983
+}

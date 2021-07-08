@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "11.234",
+    "description": "<b>Notes on image acquisition:</b> The subs were taken at two different observation sites in the Alps in August and September 2020 with a single-shot color CMOS camera. No filter was needed. I had to reject some subs due to bad seeing conditions. The total exposure time of the remaining images adds up to only 2.1 hours.\r\n\r\n<b>Processing steps:</b> File selection and bias/dark/flat calibration, star alignment and image integration, background flattening, photometric color calibration, noise reduction, deconvolution, non-linearization, star-background separation, local contrast enhancement, color enhancement, star size reduction, re-adding of the stars.\r\n\r\n<b>Notes on image processing:</b> Some of the brightest stars had extensive halos which required reduction.",
+    "h": 1411,
+    "hash": "hwthp9",
+    "id": 558109,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Japan Special Optics LS-12D Wright Väisälä Camera"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "https://nightsky.at/Photo/Neb/LDN673_WN.php",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815256/",
+        "/api/v1/location/2815257/"
+    ],
+    "orientation": "0.636",
+    "pixscale": "4.059",
+    "published": "2021-01-14T21:18:58.378370",
+    "ra": "290.385",
+    "radius": "1.413",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/558109/",
+    "revisions": [],
+    "subjects": [
+        "The star 31Aql",
+        "The star ω1Aql"
+    ],
+    "title": "LDN 673 in Aquila",
+    "updated": "2021-01-30T18:59:37.833202",
+    "uploaded": "2021-01-14T21:07:19.100277",
+    "url_duckduckgo": "https://www.astrobin.com/hwthp9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hwthp9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hwthp9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hwthp9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hwthp9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hwthp9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hwthp9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29756/2021/ff248125-9e73-48ce-a171-66c050b1a599.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29756/2021/ff248125-9e73-48ce-a171-66c050b1a599-1610659386.jpg",
+    "url_thumb": "https://www.astrobin.com/hwthp9/0/rawthumb/thumb/",
+    "user": "Walter_Koprolin",
+    "views": 76,
+    "w": 2072
+}

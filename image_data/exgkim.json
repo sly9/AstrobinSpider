@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "-0.041",
+    "description": "",
+    "h": 3600,
+    "hash": "exgkim",
+    "id": 571657,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "269.743",
+    "pixscale": "1.236",
+    "published": "2021-03-06T17:00:07.481148",
+    "ra": "166.399",
+    "radius": "0.874",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/571657/",
+    "revisions": [
+        "/api/v1/imagerevision/276562/",
+        "/api/v1/imagerevision/276564/"
+    ],
+    "subjects": [
+        "NGC 3521",
+        "The star 62Leo"
+    ],
+    "title": "Dusty NGC 3521",
+    "updated": "2021-05-06T07:09:56.867322",
+    "uploaded": "2021-03-06T16:58:03.264463",
+    "url_duckduckgo": "https://www.astrobin.com/exgkim/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/exgkim/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/exgkim/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/exgkim/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/exgkim/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/exgkim/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/exgkim/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2021/3ea8fe8d-b72c-44c7-8a33-0eb38836f8c0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2021/3ea8fe8d-b72c-44c7-8a33-0eb38836f8c0-1615050084.jpg",
+    "url_thumb": "https://www.astrobin.com/exgkim/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 355,
+    "w": 3600
+}

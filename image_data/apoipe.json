@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "3.443",
+    "description": "It's galaxy season and a favorite of mine are the interacting galaxies NGC 3169 and 3166 in the constellation Sextans.  NGC 3169, on the left,  has a highly disrupted outer halo caused by gravitational interaction with NGC 3166.  Faint tidal streams of stars can be seen in the area outside the outer halo of NGC 3169.  The inner core contains quite a bit of detail with a few Ha regions and blue star forming regions.   NGC 3169 is 75 million light years distant and the distance between the galaxies is estimated to be 50 thousand light years, or about 1/2 the distance across the Milky Way.  These galaxies are part of the Leo I group of galaxies and also part of the Virgo Super Cluster.\r\n\r\nThe image is a full res crop of a much larger field of view containing many faint PGC galaxies and many uncatalogued galaxies and galaxy clusters.   To see the full res 60mp un-cropped image, follow the link to my website.  The resolution of the image is .64 arcsec/pixel.   It was taken from 15 January to 2 April 2021 from two different locations.  Half of the color data was taken at Starry Night Ranch near Okeechobee, FL.  The rest of the data was taken from my home observatory under Bortle 5 skies.",
+    "h": 2023,
+    "hash": "apoipe",
+    "id": 582766,
+    "imaging_cameras": [
+        "ZWO ASI6200MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVX152T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "http://www.starscapeimaging.com/NGC%203169_2021/NGC%203169_3166.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803139/",
+        "/api/v1/location/2808424/"
+    ],
+    "orientation": "359.910",
+    "pixscale": "0.640",
+    "published": "2021-04-16T23:25:06.094047",
+    "ra": "153.527",
+    "radius": "0.333",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/582766/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3165",
+        "NGC 3166",
+        "NGC 3169"
+    ],
+    "title": "Interactions in Sextans, NGC 3169 and NGC 3166",
+    "updated": "2021-06-27T00:24:33.447638",
+    "uploaded": "2021-04-16T22:55:22.707300",
+    "url_duckduckgo": "https://www.astrobin.com/apoipe/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/apoipe/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/apoipe/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/apoipe/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/apoipe/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/apoipe/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/apoipe/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4487/2021/cc230aa9-44df-4077-b110-2859f5161b30.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4487/2021/cc230aa9-44df-4077-b110-2859f5161b30-1618614958.jpg",
+    "url_thumb": "https://www.astrobin.com/apoipe/0/rawthumb/thumb/",
+    "user": "talbotj",
+    "views": 123,
+    "w": 3150
+}

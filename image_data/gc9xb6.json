@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.542",
+    "description": "",
+    "h": 3545,
+    "hash": "gc9xb6",
+    "id": 539833,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808565/"
+    ],
+    "orientation": "86.379",
+    "pixscale": "2.334",
+    "published": "2020-11-11T16:38:00.779941",
+    "ra": "327.276",
+    "radius": "1.844",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/539833/",
+    "revisions": [
+        "/api/v1/imagerevision/259251/",
+        "/api/v1/imagerevision/259367/"
+    ],
+    "subjects": [
+        "B168",
+        "Cocoon Nebula",
+        "Cocoon nebula",
+        "IC 5146",
+        "IC5146",
+        "Sh2-125",
+        "VdB145",
+        "VdB147"
+    ],
+    "title": "IC5146-wide field",
+    "updated": "2021-03-16T18:32:10.906749",
+    "uploaded": "2020-11-11T16:33:50.967026",
+    "url_duckduckgo": "https://www.astrobin.com/gc9xb6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gc9xb6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gc9xb6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gc9xb6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gc9xb6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gc9xb6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gc9xb6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26610/2020/4d43723e-a732-4fa1-8a44-88bcfa67c6cb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26610/2020/4d43723e-a732-4fa1-8a44-88bcfa67c6cb-1605112782.jpg",
+    "url_thumb": "https://www.astrobin.com/gc9xb6/0/rawthumb/thumb/",
+    "user": "Laubing1987",
+    "views": 156,
+    "w": 4450
+}

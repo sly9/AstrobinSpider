@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.467",
+    "description": "The base image is the sum of data collected from 2018, 2020 and 2021. The insert is the color data from the base image overlaid with a luminance image generated from the MAST Pan-STARRS database. The Pan-STARRS image gives a bit more detail to the core of the cluster while maintaining the color authenticity of the base RGC image. \r\n\r\nFor those interested, here is the link to the MAST database which contains all the data from the public telescopes, including those from the Hubble Space Telescope (https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html). All you have to do is understand how best to work with these data once they are downloaded. It's lots of fun.\r\n\r\nThe original Hercules image was an APOD March 19, 2020 (https://apod.nasa.gov/apod/ap200319.html).",
+    "h": 5082,
+    "hash": "976lim",
+    "id": 587713,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "289.995",
+    "pixscale": "0.551",
+    "published": "2021-05-07T09:56:16.160970",
+    "ra": "250.446",
+    "radius": "0.512",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/587713/",
+    "revisions": [],
+    "subjects": [
+        "Hercules Globular Cluster",
+        "Hercules globular cluster",
+        "IC4617",
+        "M 13",
+        "M13",
+        "NGC 6205",
+        "NGC 6207",
+        "NGC6207"
+    ],
+    "title": "Hercules Globular Cluster with Pan-STARRS Luminance Insert",
+    "updated": "2021-07-01T17:11:22.412418",
+    "uploaded": "2021-05-07T09:33:09.328719",
+    "url_duckduckgo": "https://www.astrobin.com/976lim/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/976lim/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/976lim/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/976lim/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/976lim/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/976lim/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/976lim/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2021/ead27a4f-6ba5-47de-a422-c7ab9c9137d5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2021/ead27a4f-6ba5-47de-a422-c7ab9c9137d5-1620381269.jpg",
+    "url_thumb": "https://www.astrobin.com/976lim/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 368,
+    "w": 4345
+}

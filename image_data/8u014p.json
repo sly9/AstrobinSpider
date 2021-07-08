@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "61.416",
+    "description": "Melotte 15 - The Heart Of The Heart\r\n\r\nEquipment\r\nWilliamoptics RedCat 51\r\nCelestronuniverse Edge HD 8” w/Hyperstar\r\nZwoasi 1600mm x2, 224MC, 30mm Guide Scope, ASIAIR, ASIAIR PRO, & EAF\r\nBaaderplanetarium F2 HA, OIII, & SII, Astronomik HA, OIII, & SII Filters\r\nSkywatcherusa EQ6-R Mount\r\n\r\nAcquisition\r\n-SII - 407x90” (10.8hrs) Hyperstar & 177x180” (8.85hrs) RedCat 10/27 - 18.67hrs total\r\n-HA - 388x90” (9.7hrs) Hyperstar & 152x180” (7.6hrs) RedCat 11/4 - 17.3hrs total\r\n-OIII - 410x90” (10.25hrs) Hyperstar & 155x180” (7.75hrs) Redcat 10/20 - 18hrs total\r\n-53.97hrs Total Integration Time\r\n-50 Darks, 50 Flats, 250 Bias per session\r\n-Gain 139\r\n-Temp-15c\r\n-Bortle 5\r\n\r\n@itz_reg was gracious enough to give me his data to add to my stack:\r\nSII - 13.41hrs \r\nHA - 22.95hrs\r\nOIII - 9.90hrs\r\n- 46.26 Total integration Time\r\n\r\nThis stack has a total integration time of 100.23hrs!",
+    "h": 981,
+    "hash": "8u014p",
+    "id": 537701,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro 1600mm pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics RedCat 51 Petzval APO RedCat",
+        "Starizona Hyperstar 4",
+        "Celestron EdgeHD 8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "https://www.instagram.com/astrobackyardutah/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812656/"
+    ],
+    "orientation": "358.490",
+    "pixscale": "3.165",
+    "published": "2020-11-09T16:57:43.183519",
+    "ra": "38.418",
+    "radius": "0.624",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/537701/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Melotte 15 - The Heart Of The Heart",
+    "updated": "2021-06-06T06:28:51.284113",
+    "uploaded": "2020-11-06T02:42:29.141945",
+    "url_duckduckgo": "https://www.astrobin.com/8u014p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8u014p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8u014p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8u014p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8u014p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8u014p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8u014p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/56419/2020/f4f440b4-139c-4884-936b-943a26471493.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/56419/2020/f4f440b4-139c-4884-936b-943a26471493-1604943578.jpg",
+    "url_thumb": "https://www.astrobin.com/8u014p/0/rawthumb/thumb/",
+    "user": "AstroBackYardUtah",
+    "views": 267,
+    "w": 1025
+}

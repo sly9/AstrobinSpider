@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 33,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "65.229",
+    "description": "The image shows the red emission nebula Sh2-150  that is acompanied by the blue reflection nebula VDB 154 and some other interesting dark and reflection nebulas. The nebula is located about 2,900 ly away from earth in the constellation Cepheus .\r\n\r\nThe image was made with the data of my ASI294mcp (RGB) and my ASI1600mmp (Ha) attached to the 130/910 mm TS Photoline triplet apo with TSRED379 0.79x reducer.\r\n\r\n60 x 300s Ha (ASI1600mmp)\r\n250 x 60s RGB (ASI294mcp)",
+    "h": 3401,
+    "hash": "glk0nf",
+    "id": 514964,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MCPro",
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 237,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "271.050",
+    "pixscale": "1.061",
+    "published": "2020-08-15T13:43:42.041653",
+    "ra": "337.922",
+    "radius": "0.813",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/514964/",
+    "revisions": [
+        "/api/v1/imagerevision/245681/"
+    ],
+    "subjects": [
+        "The star 26Cep"
+    ],
+    "title": "Sh2-150 & VDB 154 in Cepheus",
+    "updated": "2021-04-24T15:41:10.231297",
+    "uploaded": "2020-08-15T14:34:12.842910",
+    "url_duckduckgo": "https://www.astrobin.com/glk0nf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/glk0nf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/glk0nf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/glk0nf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/glk0nf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/glk0nf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/glk0nf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/31b698bf-da06-43df-92ac-bafd868d7a2b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/31b698bf-da06-43df-92ac-bafd868d7a2b-1597502608.jpg",
+    "url_thumb": "https://www.astrobin.com/glk0nf/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 1429,
+    "w": 4347
+}

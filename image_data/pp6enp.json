@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 7,
+    "data_source": "TRAVELLER",
+    "dec": "47.215",
+    "description": "Update 08/06/2020: reprocessed essentially with colors correction\r\n\r\nI've an old picture to process (2018) but I've noticed I've not enough data.\r\nThen I add more data during the confinement but under polluted sky (green zone).\r\nHowever with newest data, I upgraded focus, tilt and recently improved Pixinsight processes.\r\nYes it's a great one but I know I can improved a little bit for the next time, yes I always want more!",
+    "h": 2448,
+    "hash": "pp6enp",
+    "id": 492852,
+    "imaging_cameras": [
+        "ZWO 1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Lacerta photonewton 200/800"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807519/",
+        "/api/v1/location/2811204/"
+    ],
+    "orientation": "270.735",
+    "pixscale": "0.491",
+    "published": "2020-05-30T03:20:49.175465",
+    "ra": "202.470",
+    "radius": "0.270",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/492852/",
+    "revisions": [
+        "/api/v1/imagerevision/237098/"
+    ],
+    "subjects": [
+        "IC 4277",
+        "IC 4278",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M51 in LRGB-HA - High definition",
+    "updated": "2021-04-25T18:45:32.678755",
+    "uploaded": "2020-05-30T02:32:23.111622",
+    "url_duckduckgo": "https://www.astrobin.com/pp6enp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pp6enp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pp6enp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pp6enp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pp6enp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pp6enp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pp6enp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22198/2020/ed9bf74d-bfbb-4908-be78-524a63044259.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22198/2020/ed9bf74d-bfbb-4908-be78-524a63044259-1591850923.jpg",
+    "url_thumb": "https://www.astrobin.com/pp6enp/0/rawthumb/thumb/",
+    "user": "Astro-tuto",
+    "views": 747,
+    "w": 3114
+}

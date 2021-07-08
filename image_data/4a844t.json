@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "22.012",
+    "description": "Crab Nebula(Messier 1)\r\nWith an apparent magnitude of 8.4 and located 6,500 light-years from Earth in the constellation Taurus, the Crab Nebula is a supernova remnant and pulsar wind nebula which was discovered and recorded by Chinese astronomer of the Song Dynasty who described it like 6 times brighter than Venus and about as brilliant as the full Moon in July of 1054. According to Song Dynasty Astronomic records, the bright source was visible during the daytime for 23 days, shining six times as brightly as Venus, and had been able to see it for 653 days with the naked eye. The crab Nebula is expanding at a rate of about 1,500 Km/s or 0.5% of the speed of light. William Parsons, 3rd Earl of Rosse, an Anglo-Irish astronomer who observed the object in 1840 using a 36-inch telescope and produced a drawing that looked somewhat like a crab. \r\n\r\nResolution ............... 0.199 arcsec/px\r\nRotation ................. -68.243 deg\r\nObservation start time ... 2020-11-24 07:14:15 UTC\r\nObservation end time ..... 2020-12-11 12:09:56 UTC\r\nFocal distance ........... 1967.85 mm\r\nPixel size ............... 1.90 um\r\nField of view ............ 21' 19.8\" x 17' 59.0\"\r\nImage center ............. RA:  5 34 31.378  Dec: +22 00 44.00\r\n\r\nFilters: Astrodon 1.25\" LRGB Gen2 E-Series Filter Sets\r\n         Astrodon 1.25\" 3nm Narrowband Ha, SII, OIII filters\r\nBlue  31x60\"  31 Minutes   Bin1x1     11/24/2020\r\nGreen 31x60\"  31 Minutes   Bin1x1       11/24/2020\r\nRed   31x60\"  31 Minutes   Bin1x1       11/24/2020\r\nHa    68x900\" 17 Hours     Bin1x1       11/24 ~ 12/11/2020 \r\nOIII  64x900\" 16 Hours     Bin1x1      11/24 ~ 12/11/2020 \r\nSII   64x900\" 16 Hours     Bin1x1      11/24 ~ 12/11/2020 \r\nThe crab Nebula can be spotted with a small telescope and is best observed in January.",
+    "h": 2709,
+    "hash": "4a844t",
+    "id": 553453,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11 C11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 210,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811803/"
+    ],
+    "orientation": "68.276",
+    "pixscale": "0.398",
+    "published": "2020-12-27T21:24:58.123245",
+    "ra": "83.631",
+    "radius": "0.232",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/553453/",
+    "revisions": [],
+    "subjects": [
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "Messier 1 (The Crab Nebula) SHO+RGB",
+    "updated": "2021-06-01T11:51:31.677383",
+    "uploaded": "2020-12-27T21:05:44.525273",
+    "url_duckduckgo": "https://www.astrobin.com/4a844t/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4a844t/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4a844t/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4a844t/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4a844t/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4a844t/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4a844t/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30874/2020/7e0b559b-bca1-4e41-bf10-b8ac197bce20.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30874/2020/7e0b559b-bca1-4e41-bf10-b8ac197bce20-1609104281.JPG",
+    "url_thumb": "https://www.astrobin.com/4a844t/0/rawthumb/thumb/",
+    "user": "redhat_oracle",
+    "views": 663,
+    "w": 3213
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Mars on 5 Sep 2020 UTC.\r\n\r\nAnimation of three WinJUPOS composites, 9 stacks covering 36 minute imaging run.",
+    "h": 599,
+    "hash": "8tue1g",
+    "id": 521048,
+    "imaging_cameras": [
+        "Celestron Skyris 236C"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808649/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-09-06T14:22:18.638547",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/521048/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Mars 5 Sep 2020 - 1 hour WinJ Animation",
+    "updated": "2021-03-16T22:15:30.677601",
+    "uploaded": "2020-09-06T15:16:54.321093",
+    "url_duckduckgo": "https://www.astrobin.com/8tue1g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8tue1g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8tue1g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8tue1g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8tue1g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8tue1g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8tue1g/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/8tue1g/0/rawthumb/thumb/",
+    "user": "Seb",
+    "views": 255,
+    "w": 572
+}

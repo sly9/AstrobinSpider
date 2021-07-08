@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 23,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "43.643",
+    "description": "I initially framed this up to just fit my FOV in a single frame.  But some initial stacks revealed and interesting dark lane curving over the right side of the wall so I expanded to a two panel mosaic.  This just extended the view by 20-30% in the end, but framed the object better.\r\n\r\nAfter struggling to get the panels to match up seamlessly, I wound up manually joining the data in CCDStack by painstakingly matching histograms of the left and right panels and then manually adding rejection randomly along the seam.  It worked but there must be a better way.  (I tried following PI mosaic workflow and failed yet again.   Cheers to you mosaic experts out there - you are better men than me!\r\n\r\nAfter the mosaic battle I spent a couple of weeks tilting at the narrowband mix windmill and settled on this:\r\n\r\nLuminance = Ha\r\nRed = 50% Ha + 50% SII\r\nGreen = 45% SII + 10% Ha + 45% OIII\r\nBlue = 100% OIII - Ha/8\r\n\r\nNebula processed starless with StarNet++ to remove stars.  Sharpening and Deconvolution in CCDStack.  Cosmetic Correction, Star Alignment, and Image Integration in PI.  Noise Reduction with Topaz.  Curves, Color Adjustments, and High Pass filter in Photoshop CC.",
+    "h": 3184,
+    "hash": "jk13p2",
+    "id": 510785,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "25.115",
+    "pixscale": "0.609",
+    "published": "2020-07-31T00:31:10.685311",
+    "ra": "314.871",
+    "radius": "0.589",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/510785/",
+    "revisions": [
+        "/api/v1/imagerevision/243772/",
+        "/api/v1/imagerevision/243954/",
+        "/api/v1/imagerevision/259388/"
+    ],
+    "subjects": [],
+    "title": "Cygnus Wall | A Portion of NGC 7000",
+    "updated": "2021-06-09T08:37:15.462211",
+    "uploaded": "2020-07-31T01:08:57.021128",
+    "url_duckduckgo": "https://www.astrobin.com/jk13p2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jk13p2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jk13p2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jk13p2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jk13p2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jk13p2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jk13p2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/14ee0ec4-cf38-4cbd-b664-aa441eedd89b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/14ee0ec4-cf38-4cbd-b664-aa441eedd89b-1596159066.jpg",
+    "url_thumb": "https://www.astrobin.com/jk13p2/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 509,
+    "w": 6190
+}

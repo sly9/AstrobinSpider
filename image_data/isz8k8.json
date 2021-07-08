@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 51,
+    "data_source": "BACKYARD",
+    "dec": "-29.868",
+    "description": "Last year my first light with the SBIG 16803 camera was the marvellous galaxy M83. Unfortunately the problems that I ran into at that point, meant I only captured 1 sub for posterity. However it was a portent of the potential. \r\nThis glorious galaxy graces our southern skies. From Wikipedia:\r\n\"Messier 83 or M83, also known as the Southern Pinwheel Galaxy and NGC 5236, is a barred spiral galaxy approximately 15 million light-years away in the constellation borders of Hydra and Centaurus. Nicolas Louis de Lacaille discovered M83 on February 23, 1752 at the Cape of Good Hope. Charles Messier added it to his catalogue of nebulous objects (now known as the Messier Catalogue) in March 1781. It is one of the closest and brightest barred spiral galaxies in the sky, and is visible with binoculars. Its nickname of the Southern Pinwheel derives from its resemblance to the Pinwheel Galaxy (M101).\"\r\n\r\nI am very happy with how the Ha (Hydrogen Alpha) has come out, as I tried to get the red colour and saturation at a level that isn't overwhelming, but still clearly highlights the huge amount of Ha glow from the areas of star formation in this galaxy. \r\nIn terms of the overall colour of the galaxy, I just lifted the saturation and it was nice to see the blue of the young, hot stars, occupying the spiral arms, coming through whilst the core, with older stars, is a golden yellow colour, due to the preponderance of yellow, orange and red stars there.\r\nCheck out the two small galaxies to the left of M83. For such distant galaxies, the detail captured is pleasing. These are PGC724525 and PGC48132. These are  650mly and 670mly away respectively. Imagine 2/3rds of a billion light years.\r\n\r\nI integrated 23 hours of data as follows:\r\nLuminance: 22 x 600 secs\r\nRed: 22 x 600 secs\r\nGreen: 23 x 600 secs\r\nBlue: 22 x 600 secs\r\nHa: 17 x 1800 secs",
+    "h": 3550,
+    "hash": "isz8k8",
+    "id": 594700,
+    "imaging_cameras": [
+        "SBIG 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 215,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": "0.612",
+    "pixscale": "0.476",
+    "published": "2021-06-05T02:43:44.886665",
+    "ra": "204.247",
+    "radius": "0.332",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594700/",
+    "revisions": [
+        "/api/v1/imagerevision/290218/"
+    ],
+    "subjects": [
+        "M 83",
+        "M83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy",
+        "Southern Pinwheel galaxy"
+    ],
+    "title": "M83 - NGC 5823 - the magnificent Southern Spiral Galaxy",
+    "updated": "2021-07-06T18:17:01.588592",
+    "uploaded": "2021-06-05T02:24:50.608369",
+    "url_duckduckgo": "https://www.astrobin.com/isz8k8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/isz8k8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/isz8k8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/isz8k8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/isz8k8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/isz8k8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/isz8k8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20830/2021/35cdcab0-4c8b-4e4d-a8c6-22f83bf6e7a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20830/2021/35cdcab0-4c8b-4e4d-a8c6-22f83bf6e7a9-1623060964.jpg",
+    "url_thumb": "https://www.astrobin.com/isz8k8/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 377,
+    "w": 3550
+}

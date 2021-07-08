@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "The weather has been awful in southern Spain this winter so probably this is the last NB target for the season.\r\nThis is a two panel mosaic taken during nov-dec-jan, ````60h total (30h each panel):\r\n27h (230x420s) Ha\r\n19h (160x420s) Oiii\r\n16h (140x420s) Sii\r\nBeing hosted in a remote observatory I was no able to rotate the camera for a better framing.\r\nHa had a strong signal so was used as Luminance to enhance details.",
+    "h": 3886,
+    "hash": "bqqphw",
+    "id": 561989,
+    "imaging_cameras": [
+        "ZWO asi 1600mm"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes cff 140 apo"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-01-29T12:58:58.037881",
+    "ra": null,
+    "radius": null,
+    "remote_source": "PSA",
+    "resource_uri": "/api/v1/image/561989/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Rosette Nebula (Caldwell 49) SHO Mosaic",
+    "updated": "2021-06-27T20:03:58.798992",
+    "uploaded": "2021-01-29T12:21:08.088348",
+    "url_duckduckgo": "https://www.astrobin.com/bqqphw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bqqphw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bqqphw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bqqphw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bqqphw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bqqphw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bqqphw/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/bqqphw/0/rawthumb/thumb/",
+    "user": "fenriques",
+    "views": 170,
+    "w": 6000
+}

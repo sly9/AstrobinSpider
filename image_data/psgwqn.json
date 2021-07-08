@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.345",
+    "description": "SH2-274, Abell 21, or the Medusa nebula is an old planetary 1500LY distant.  While not super bright, the main shells of Ha and OIII that surround the white dwarf are much brighter than some of the really dim Abell PNs.  There is an extended shell of Ha emission the surrounds the bright shells it what appears to be a circle.  For aesthetic purposes I cropped to show mostly the brightest part of that outer shell on the left.  The Ha and OIII outside of the main shells seem to have been ejected in waves as they appear a bit choppy.  Meanwhile the main shell is a delight of mixing tendrils in S, H, and O.\r\n\r\nThe main shell colors are mixed with a dynamic factor in Pixelmath to better display the structures of the different wavelengths, while the outer emissions and background are HOO to retain the red color of the Ha.  Deconvolution was applied in CCDStack, noise reduction via Adobe Camera Raw.",
+    "h": 2398,
+    "hash": "psgwqn",
+    "id": 577747,
+    "imaging_cameras": [
+        "QHYCCD QHY600M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 231,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "129.157",
+    "pixscale": "0.608",
+    "published": "2021-03-28T16:19:46.162846",
+    "ra": "112.207",
+    "radius": "0.357",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/577747/",
+    "revisions": [
+        "/api/v1/imagerevision/280442/"
+    ],
+    "subjects": [
+        "PK205+14.1",
+        "Sh2-274"
+    ],
+    "title": "SH2-274 | Medusa with outer Ha emissions",
+    "updated": "2021-05-15T10:21:55.074060",
+    "uploaded": "2021-03-28T17:04:29.731218",
+    "url_duckduckgo": "https://www.astrobin.com/psgwqn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/psgwqn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/psgwqn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/psgwqn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/psgwqn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/psgwqn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/psgwqn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2021/c2bace9f-02ba-4cbe-b260-fbf659eb9daa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2021/c2bace9f-02ba-4cbe-b260-fbf659eb9daa-1616952015.jpg",
+    "url_thumb": "https://www.astrobin.com/psgwqn/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 465,
+    "w": 3476
+}

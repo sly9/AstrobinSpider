@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "2.423",
+    "description": "Hi everybody.\r\nI'm trying some new (for me) techniques in imaging.\r\nThis is a try under a very light polluted sky (my hometown), 18.60 mag/arcsec SQM.\r\nI have done a live stack of 2880 frames, 10 seconds each, grouping 60 at a time (10 minutes each group), using a Newton 250 f/4 and a ZWO Asi294mc and no guide at all. \r\nNeither flats nor darks. \r\n8 hours of total exposing time over three nights (10-11-12/May/2020).\r\nProcessing such a picture was very challenging: without calibration frames I've fought against every kind of gradient you'd imagine. \r\nBesides that, I think this is an interesting picture, considering the sky and the minimal gear and subexposure time used.\r\nHope you enjoy it.\r\nCiao",
+    "h": 2197,
+    "hash": "35yt5c",
+    "id": 489192,
+    "imaging_cameras": [
+        "Zwo ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Newton 10\" f/4 Quattro"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 155,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800296/"
+    ],
+    "orientation": "273.688",
+    "pixscale": "0.959",
+    "published": "2020-05-18T20:11:09.037578",
+    "ra": "188.572",
+    "radius": "0.512",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/489192/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4527",
+        "NGC 4533",
+        "NGC 4536"
+    ],
+    "title": "NGC 4536 - 4527",
+    "updated": "2021-04-20T18:24:48.627253",
+    "uploaded": "2020-05-18T20:36:59.173505",
+    "url_duckduckgo": "https://www.astrobin.com/35yt5c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/35yt5c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/35yt5c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/35yt5c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/35yt5c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/35yt5c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/35yt5c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1485/2020/66c51689-f5e0-4335-9fb7-5ff3c35681a6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1485/2020/66c51689-f5e0-4335-9fb7-5ff3c35681a6-1589836105.jpg",
+    "url_thumb": "https://www.astrobin.com/35yt5c/0/rawthumb/thumb/",
+    "user": "LorenzoSiciliano",
+    "views": 336,
+    "w": 3158
+}

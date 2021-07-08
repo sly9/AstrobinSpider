@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.451",
+    "description": "Object : NGC 6914 \r\nDate : Oct.2018-Dec.2018  \r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67 ,\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon HaRGB\r\nExposure : Rx300sx28,Gx300sx30,Bx300sx21 , Hax1200sx 32 (17.25hr)  \r\nGuiding  :Borg 50/ asi174 ,\r\nProcessing:  PI、PS-CC",
+    "h": 2685,
+    "hash": "lgn1gw",
+    "id": 510048,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "https://astro-noodle.blogspot.com/2020/07/ngc-6914.html?view=flipcard",
+    "link_to_fits": "https://astro-noodle.blogspot.com/2020/07/ngc-6914.html?view=flipcard",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "358.750",
+    "pixscale": "0.669",
+    "published": "2020-07-28T08:07:52.769437",
+    "ra": "306.024",
+    "radius": "0.317",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/510048/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6914",
+        "NGC6914",
+        "VdB131",
+        "VdB132"
+    ],
+    "title": "ngc 6914",
+    "updated": "2021-03-16T23:19:51.106622",
+    "uploaded": "2020-07-28T09:07:53.041300",
+    "url_duckduckgo": "https://www.astrobin.com/lgn1gw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lgn1gw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lgn1gw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lgn1gw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lgn1gw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lgn1gw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lgn1gw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/222b35a2-99f2-450e-a3e0-10bf18fbed3f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/222b35a2-99f2-450e-a3e0-10bf18fbed3f-1595927635.png",
+    "url_thumb": "https://www.astrobin.com/lgn1gw/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 320,
+    "w": 2110
+}

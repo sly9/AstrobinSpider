@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "62.784",
+    "description": "Sh2-200  the Bear Claw Nebula is an old planetary nebula  in the constellation Cassiopeia.\r\nI planned to capture also OIII but due to bad weather  I could capture only colour and Ha.\r\nHa 7nm / 90 x 3minutes(4,5h) / ASI174mm\r\nColour / 15 x 10minutes(2,5h) / Moravian G3-11000c\r\nTotal 7 hours",
+    "h": 1206,
+    "hash": "q6uue9",
+    "id": 531584,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 218,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.130",
+    "pixscale": "1.183",
+    "published": "2020-10-11T18:34:13.604338",
+    "ra": "47.810",
+    "radius": "0.375",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/531584/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-200  Ha - RGB(osc)",
+    "updated": "2021-06-02T22:11:13.109456",
+    "uploaded": "2020-10-11T18:52:53.111980",
+    "url_duckduckgo": "https://www.astrobin.com/q6uue9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/q6uue9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/q6uue9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/q6uue9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/q6uue9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/q6uue9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/q6uue9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/c02d1c5f-b0b4-4f66-b676-3ebc337387ba.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/c02d1c5f-b0b4-4f66-b676-3ebc337387ba-1602442891.png",
+    "url_thumb": "https://www.astrobin.com/q6uue9/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 555,
+    "w": 1936
+}

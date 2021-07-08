@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.176",
+    "description": "old 2019 with new 2021 data combined",
+    "h": 3900,
+    "hash": "8qbccf",
+    "id": 600234,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 185,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "269.173",
+    "pixscale": "1.236",
+    "published": "2021-06-26T22:10:21.354610",
+    "ra": "312.690",
+    "radius": "0.947",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/600234/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Barnard 150",
+    "updated": "2021-07-06T20:49:51.762218",
+    "uploaded": "2021-06-26T22:07:58.218776",
+    "url_duckduckgo": "https://www.astrobin.com/8qbccf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8qbccf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8qbccf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8qbccf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8qbccf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8qbccf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8qbccf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2021/331af7c6-dafb-4260-82e0-2ee1b03d61ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2021/331af7c6-dafb-4260-82e0-2ee1b03d61ca-1624745465.jpg",
+    "url_thumb": "https://www.astrobin.com/8qbccf/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 266,
+    "w": 3900
+}

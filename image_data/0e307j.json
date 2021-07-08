@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "22.722",
+    "description": "On 21 Aug. I did luminance capture of M27. (240 x 30sec)\r\nLater I did Photometrie of 1500 stars and to my surprise I found 2 Variable objects. The light curve of both objects was very well defined. Four days later on 25 Aug. I captured again luminance frames (280 x 30sec) and did phtometrie of 1500 stars  and the 2 variables were present.(of course with different shape of the light curves) \r\n\r\nEdit:\r\nAfter further examination of the image I also found two long period Variable stars.\r\nOne of them I could identify as Mira candidate Mis V0719\r\nThe second one (the brighter one) is the star 2MASS\t20001513+2231565 (no furter info found)\r\n\r\nMira variables are a class of pulsating stars characterized by very red colours, pulsation periods longer than 100 days, and amplitudes greater than one magnitude in infrared and 2.5 magnitude at visual wavelengths. They are red giants in the very late stages of stellar evolution, on the asymptotic giant branch (AGB), that will expel their outer envelopes as planetary nebulae and become white dwarfs within a few million years. (Wikipedia)\r\n\r\nRev D : the Gif shows the brightness change of the two Stars.\r\nThe dim phase is a DSS red plate from 1995\r\nThe bright phase is the actual image from 2020 Aug.",
+    "h": 1216,
+    "hash": "0e307j",
+    "id": 518235,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 182,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.493",
+    "pixscale": "1.209",
+    "published": "2020-08-26T18:03:24.577891",
+    "ra": "299.908",
+    "radius": "0.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/518235/",
+    "revisions": [
+        "/api/v1/imagerevision/247197/",
+        "/api/v1/imagerevision/247198/",
+        "/api/v1/imagerevision/247274/",
+        "/api/v1/imagerevision/248276/"
+    ],
+    "subjects": [
+        "Dumbbell Nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "Two Short-period  Variables and 3 Long-period Variables , near M27",
+    "updated": "2021-07-02T13:30:56.581661",
+    "uploaded": "2020-08-26T18:44:48.100183",
+    "url_duckduckgo": "https://www.astrobin.com/0e307j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0e307j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0e307j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0e307j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0e307j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0e307j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0e307j/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/7e5f27cb-aec0-4efc-bffe-fd689aad2867.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/7e5f27cb-aec0-4efc-bffe-fd689aad2867-1598467862.png",
+    "url_thumb": "https://www.astrobin.com/0e307j/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 539,
+    "w": 1936
+}

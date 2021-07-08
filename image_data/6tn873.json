@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "33.018",
+    "description": "July 2011 and June 2014. Refractor  TEC160FL, SBIG 8300m, mount Tak EM-400.\r\nHa 17x1800s, RGB 10x300s In each channel, OIII- 3 h, Hb - 4h.\r\nMaxIm, FS, AI 4.0",
+    "h": 1681,
+    "hash": "6tn873",
+    "id": 495724,
+    "imaging_cameras": [
+        "SBIG 8300M camera"
+    ],
+    "imaging_telescopes": [
+        "TEC 160 FL Refractor "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806569/"
+    ],
+    "orientation": "92.844",
+    "pixscale": "0.927",
+    "published": "2020-06-08T19:21:22.848446",
+    "ra": "283.407",
+    "radius": "0.362",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/495724/",
+    "revisions": [
+        "/api/v1/imagerevision/236878/",
+        "/api/v1/imagerevision/236889/",
+        "/api/v1/imagerevision/237007/"
+    ],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring Nebula"
+    ],
+    "title": "M 57",
+    "updated": "2021-05-18T09:21:31.358514",
+    "uploaded": "2020-06-08T20:07:44.367913",
+    "url_duckduckgo": "https://www.astrobin.com/6tn873/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6tn873/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6tn873/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6tn873/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6tn873/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6tn873/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6tn873/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21436/2020/3fe0c388-597c-4220-83ad-cb6e63b63a8f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21436/2020/3fe0c388-597c-4220-83ad-cb6e63b63a8f-1591647618.jpg",
+    "url_thumb": "https://www.astrobin.com/6tn873/0/rawthumb/thumb/",
+    "user": "Vadim@K",
+    "views": 406,
+    "w": 2253
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 33,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "My first of two animations from 11/26.  This was 40 m duration with my Lunt 100 Double stack\r\n\r\nProcessed:\r\nImPPG for deconvolution, sharpening and tone curves  \r\nPS for batch processing  (Shadows and highlights, high pass filter)\r\n\r\nCamera settings in Genika Astro: 10 ms, gain 14,800, gamma neutral, black point 4\r\nCaptured 10s videos every 30 seconds and stacked 50 images from each video",
+    "h": 823,
+    "hash": "6fhpbo",
+    "id": 545321,
+    "imaging_cameras": [
+        "Basler acA1920-155um"
+    ],
+    "imaging_telescopes": [
+        "Lunt Solar Systems Lunt 100 DS"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-11-27T11:07:04.207050",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/545321/",
+    "revisions": [
+        "/api/v1/imagerevision/261990/"
+    ],
+    "subjects": [],
+    "title": "Animation: AR 2786 and nice prom activity",
+    "updated": "2021-04-18T08:44:56.803618",
+    "uploaded": "2020-11-27T10:50:21.520434",
+    "url_duckduckgo": "https://www.astrobin.com/6fhpbo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6fhpbo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6fhpbo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6fhpbo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6fhpbo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6fhpbo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6fhpbo/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/6fhpbo/0/rawthumb/thumb/",
+    "user": "torsinadoc",
+    "views": 317,
+    "w": 1855
+}

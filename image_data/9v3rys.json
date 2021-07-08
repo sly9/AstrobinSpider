@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "22.671",
+    "description": "I have been acquiring this object since Oct 2019 and accumulated more than 200 hours data, with my old fella - EdgeHD 8 from my backyard. And the equipment makes it very very hard to finish.\r\nThe small fov requires at least 3 frames to cover the whole target. To make it nicer, it probably takes 4. What's worse is the tilting issue I have been struggling with my setup. If I didn't take it seriously as what happened to me at first, I ended up in 7 frames with 2 rotation angles and still in short of at least 50~60 hours before I could test-process it.\r\nIn the end, it became my first and last unfinished big project, before I switched the gears. I still love my old pal but it could rest for now.\r\n<br>\r\nThis is the 4th attempt to process the same target. Back on the new year's day, I acquired some more RGB data to boost the star colors. The effect is marginal. However I did fine tuned the bright stars to tame the surrounding halos as much as possible. When zooming in 500% on Tejet Posterior, I believe I can see 2-3 stars very close-by. The Propus seems to be one in loneliness.\r\n<br>\r\nKudo to Yizhou to help me find the name for the small object at the top left corner - <a href=\"http://www.horizontalheavens.com/planetarynebulaproject.htm\">HoCr-1</a>.\r\n<br>\r\n<I>#TeamNoctuaDSNM</I>",
+    "h": 4246,
+    "hash": "9v3rys",
+    "id": 555490,
+    "imaging_cameras": [
+        "ZWO ASI6200MM"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX III",
+        "Takahashi TOA-130NS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814874/"
+    ],
+    "orientation": "20.203",
+    "pixscale": "1.151",
+    "published": "2021-01-05T00:42:43.939719",
+    "ra": "94.692",
+    "radius": "1.224",
+    "remote_source": "DSNM",
+    "resource_uri": "/api/v1/image/555490/",
+    "revisions": [
+        "/api/v1/imagerevision/268832/"
+    ],
+    "subjects": [
+        "Gem A",
+        "IC 443",
+        "IC 444",
+        "Part of the constellation Gemini (Gem)",
+        "The star Propus (ηGem)",
+        "The star μGem"
+    ],
+    "title": "IC 443 - Jellyfish Nebula, IC 444, HoCr-1",
+    "updated": "2021-06-11T06:24:05.741204",
+    "uploaded": "2021-01-04T19:50:25.300917",
+    "url_duckduckgo": "https://www.astrobin.com/9v3rys/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9v3rys/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9v3rys/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9v3rys/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9v3rys/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9v3rys/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9v3rys/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25460/2021/9f0e23ed-d727-43f7-987c-7d4ac6cb35af.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25460/2021/9f0e23ed-d727-43f7-987c-7d4ac6cb35af-1610220226.jpg",
+    "url_thumb": "https://www.astrobin.com/9v3rys/0/rawthumb/thumb/",
+    "user": "nodustab",
+    "views": 266,
+    "w": 6370
+}

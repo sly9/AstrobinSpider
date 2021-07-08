@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "53.062",
+    "description": "NGC 3718 & NGC 3729\n\nFebruary 10, 11, 12, 13, 14, 15\n\nAstrodon Lum  148x120\" -20C bin 1x1\nAstrodon Red 32x240\" -20C bin 1x1\nAstrodon Green 23x240\" -20C bin 1x1\nAstrodon Blue 28x240\" -20C bin 1x1\nAstrodon HA 5nm 8x1200\" -20C bin 1x1\n\n20 Darks, 20 Flats, 100 Bias",
+    "h": 2082,
+    "hash": "uppl1r",
+    "id": 594628,
+    "imaging_cameras": [
+        "QHY695A"
+    ],
+    "imaging_telescopes": [
+        "TPO 10\" f/8 RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 72,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2816215/"
+    ],
+    "orientation": "266.651",
+    "pixscale": "0.615",
+    "published": "2021-06-04T22:43:54.115450",
+    "ra": "173.249",
+    "radius": "0.287",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594628/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729",
+        "NGC3718",
+        "NGC3729"
+    ],
+    "title": "NGC 3718 & NGC 3729",
+    "updated": "2021-06-30T16:41:25.413843",
+    "uploaded": "2021-06-04T22:24:04.299175",
+    "url_duckduckgo": "https://www.astrobin.com/uppl1r/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uppl1r/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uppl1r/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uppl1r/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uppl1r/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uppl1r/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uppl1r/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23392/2021/3e56a0df-abc2-418b-b319-85bb84ee5efd.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23392/2021/3e56a0df-abc2-418b-b319-85bb84ee5efd-1622846021.png",
+    "url_thumb": "https://www.astrobin.com/uppl1r/0/rawthumb/thumb/",
+    "user": "elmirage001",
+    "views": 125,
+    "w": 2632
+}

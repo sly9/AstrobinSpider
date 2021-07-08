@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "31.418",
+    "description": "Data Credit : “Image Acquisition by the staff at Deep Sky West Remote Observatory (www.DeepSkyWest.com)”\r\n\r\nI downloaded free data on DSW website : https://www.deepskywest.com/free-downloads-v2\r\nA big thumb up to DSW for letting people get hands on top class data!\r\nI keep exploring the amazing data from DSW! For NGC 6992 I decided to make a Rha/GO3/BO3 processing and a emulated SHO in Orange/blue palette with the Ha and O3 masters.\r\n\r\nThis image is about the emulated SHO.\r\n\r\nObject presentation  (from Wikipedia) :The Veil Nebula is a cloud of heated and ionized gas and dust in the constellation Cygnus.[4]\r\n\r\nIt constitutes the visible portions of the Cygnus Loop, a supernova remnant, many portions of which have acquired their own individual names and catalogue identifiers. The source supernova was a star 20 times more massive than the Sun which exploded between 10,000 and 20,000 years ago. At the time of explosion, the supernova would have appeared brighter than Venus in the sky, and visible in daytime. The remnants have since expanded to cover an area of the sky roughly 3 degrees in diameter (about 6 times the diameter, and 36 times the area, of the full Moon). While previous distance estimates have ranged from 1200 to 5800 light-years, a recent determination of 2400 light-years is based on direct astrometric measurements. (The distance estimates affect also the estimates of size and age.)\r\n\r\nThe Hubble Space Telescope captured several images of the nebula. The analysis of the emissions from the nebula indicate the presence of oxygen, sulfur, and hydrogen. The Cygnus Loop is also a strong emitter of radio waves and x-rays.\r\n\r\nProcessing apporach:\r\n-color layers :\r\nTonemapping of Ha and O3\r\n made a custom blend maping as follow\r\nR=Ha\r\nG= O3 mixed with significant amount of Ha \r\nB = O3 with some Ha\r\n\r\nI steched carefully trying not to burn the higlights but keeping the dimmest areas alive. Check on the Revision panel how I preserved this areas. I also used  dynamic range compression to lower the brightest higlights.\r\n\r\nI then adjusted colors with scnr and Lab space. I'm partially colorblind so colors tends to be hit an miss for me :(\r\n\r\nLuminance:\r\nI deconvolved Ha and O3 then combined them using the simple operator H+O.\r\nDenoising, streching, dynamic compression, denoise....\r\nI then combined the RGB master to Luminance + plus minor adjustments.\r\n\r\nI hope you'll find it pleasant. I'mquite happy becaus as you can see in rev this specific area is (i) not fully burnt and (ii) not oversaturated as you can find in so many images of this object.\r\n\r\nLeave a comment and tell me what you think of my approach ! \r\nCS\r\nAxel",
+    "h": 3232,
+    "hash": "d8lhgj",
+    "id": 577735,
+    "imaging_cameras": [
+        "FLI ML16070"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics Starfire 175"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "271.410",
+    "pixscale": "1.056",
+    "published": "2021-03-28T15:35:03.424851",
+    "ra": "314.064",
+    "radius": "0.856",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/577735/",
+    "revisions": [
+        "/api/v1/imagerevision/280408/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995"
+    ],
+    "title": "NGG 6992 - Emulated SHO",
+    "updated": "2021-06-17T08:40:24.258345",
+    "uploaded": "2021-03-28T16:00:58.944558",
+    "url_duckduckgo": "https://www.astrobin.com/d8lhgj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/d8lhgj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/d8lhgj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/d8lhgj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/d8lhgj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/d8lhgj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/d8lhgj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17431/2021/14cb1403-b831-4f5d-883f-c157cf084d81.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17431/2021/14cb1403-b831-4f5d-883f-c157cf084d81-1616949044.jpg",
+    "url_thumb": "https://www.astrobin.com/d8lhgj/0/rawthumb/thumb/",
+    "user": "+Rajang_is_innocent+",
+    "views": 183,
+    "w": 4864
+}

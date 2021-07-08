@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-46.923",
+    "description": "Cometary Globule CG4 is located in the southern constellation Puppis.  It is also known as the Hand Of God (for you sci-fi fans, I think it looks like one of the worms in the motion picture Dune).   Cometary globules are small clouds of gas and dust and over 30 of them have been discovered in the last 50 years in the Gum Nebula.  GC4 lies at a distance of about 1,300 light-years from Earth and the head (mouth) is about 1.5 light-years in diameter with the tail being about 8 light-years long.   I thought it was interesting that the head looks like it's going to eat the small edge on spiral galaxy ESO 257-G019 but, fear not, it's over 100,000,000 light-years away.\r\nThe data run, for this object, was completed about 2 weeks ago and consists of LRGB and HA.   One of the other team members at DSW-Chile had suggested this target and I had never heard of it (for that matter, I had never heard of Cometary globules!) and had NO idea what they looked liked....thanks Google!  When I got done calibrating and stacking the various masters and opened them, I thought, why did they shoot this through hazy skies?  This is caused by these massive bright stars  shining through the intervening dust of the Milky Way.\r\nAnyway, hope ya like it!\r\nTom",
+    "h": 3600,
+    "hash": "sj03vd",
+    "id": 561200,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Takahashi TOA 150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2815247/"
+    ],
+    "orientation": "175.004",
+    "pixscale": "1.128",
+    "published": "2021-01-25T17:46:12.247494",
+    "ra": "113.020",
+    "radius": "0.903",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/561200/",
+    "revisions": [
+        "/api/v1/imagerevision/270647/"
+    ],
+    "subjects": [],
+    "title": "Cometary Globule CG4 LRGBH",
+    "updated": "2021-04-09T21:04:57.936675",
+    "uploaded": "2021-01-25T16:47:38.052024",
+    "url_duckduckgo": "https://www.astrobin.com/sj03vd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sj03vd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sj03vd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sj03vd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sj03vd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sj03vd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sj03vd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5806/2021/b0eb546c-874f-4da0-b62d-faa1e2dd303b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5806/2021/b0eb546c-874f-4da0-b62d-faa1e2dd303b-1611596402.jpg",
+    "url_thumb": "https://www.astrobin.com/sj03vd/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 167,
+    "w": 4500
+}

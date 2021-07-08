@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "61.347",
+    "description": "In the center of the Heart Nebula (IC 1805), in the constellation, Cassiopeia, are snaking clouds of dust and gas, sculpted by the stellar winds and radiation from a newborn cluster of massive O-type supergiant stars. Only 1.5 million years old, the stars are scattered in a vast sea of atomic gases that glow and silhouette the dark dust clouds. Discovered by Philibert Jacques Melotte, it is the 15th object in his catalog, Melotte 15.\r\n\r\n\r\nMelotte 15 is my favorite DSO’s. This is my fourth attempt to make an image of this spectacular object. Previous efforts, in 2017 and again in 2018, fell short due to equipment problems, smoke from wildfires in the western U.S., and uncooperative weather. In 2019 the “astrogods” gave me a break and I was able collected more than 30 hours of narrowband data and posted an image that used light subs with HFR ranging from 2.3 to 2.8, and a master luminance using Ha, OIII, and SII subs with HFR less than 2.5, totaling 11.85 hours (https://www.astrobin.com/7o4yyd/0/). The current image is a complete reprocessing of those data, this time employing a new Deconvolution/MultiscaleMedianTransformation protocols that substantially improve the image detail. I felt that the improvement warranted a re-posting.",
+    "h": 3055,
+    "hash": "pymkq8",
+    "id": 504546,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 137,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "347.256",
+    "pixscale": "0.863",
+    "published": "2020-07-11T14:58:45.351928",
+    "ra": "38.707",
+    "radius": "0.607",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/504546/",
+    "revisions": [
+        "/api/v1/imagerevision/241049/"
+    ],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Islands in a Radiant Sea (Melotte 15)",
+    "updated": "2021-07-04T17:43:33.537936",
+    "uploaded": "2020-07-11T15:58:45.651408",
+    "url_duckduckgo": "https://www.astrobin.com/pymkq8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pymkq8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pymkq8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pymkq8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pymkq8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pymkq8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pymkq8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/b1abe0b1-8f2e-4a52-ab06-cbc574105b5a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/b1abe0b1-8f2e-4a52-ab06-cbc574105b5a-1594483361.jpg",
+    "url_thumb": "https://www.astrobin.com/pymkq8/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 316,
+    "w": 4041
+}

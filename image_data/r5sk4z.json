@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "8.744",
+    "description": "On the 4th  the sky was clear again so I could take some images.\r\nThe image above shows NGC 2261 ( Hubble's Variable Nebula), and the photometry of the eclipsing variable WISE J063829.9+084626\r\n\r\nW Ursae Majoris-type eclipsing variable.\r\nPeriod :12.3 h\r\nImaged on February 04, 2021 / 17h 20 - 19h 20  UTC\r\n\r\n<i>W Ursae Majoris-type eclipsing variables. These are eclipsers with periods usually shorter than 1 day, consisting of ellipsoidal components almost in contact and having light curves for which it is impossible to specify the exact times of onset and end of eclipses. The depths of the primary and secondary minima are almost equal or differ insignificantly. Light amplitudes are usually <0.8 mag. in V. The components generally belong to spectral types F-G and later.</i>\r\n\r\nfrom  AAVSO (American Association of Variable Star Observers)",
+    "h": 1184,
+    "hash": "r5sk4z",
+    "id": 563800,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 233,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.775",
+    "pixscale": "1.210",
+    "published": "2021-02-06T22:23:13.819836",
+    "ra": "99.784",
+    "radius": "0.370",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/563800/",
+    "revisions": [
+        "/api/v1/imagerevision/272385/"
+    ],
+    "subjects": [
+        "Hubble's Nebula",
+        "NGC 2261"
+    ],
+    "title": "Hubble's Variable Nebula  and eclipsing variable WISE J063829.9+084626",
+    "updated": "2021-05-15T18:18:27.263997",
+    "uploaded": "2021-02-06T21:09:22.481262",
+    "url_duckduckgo": "https://www.astrobin.com/r5sk4z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r5sk4z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r5sk4z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r5sk4z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r5sk4z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r5sk4z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r5sk4z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2021/61b9c109-f30d-47b8-82b0-40cad5331f77.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2021/61b9c109-f30d-47b8-82b0-40cad5331f77-1612646101.png",
+    "url_thumb": "https://www.astrobin.com/r5sk4z/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 414,
+    "w": 1854
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 51,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Despite intermittent cloud cover, seeing was quite good last night and I managed to gather quite a few frames on Jupiter.\r\n\r\nI had intended to spend some time on Saturn as well, but I'm a bit of a sucker for Jupiter (especially when the GRS is up) and got trapped in that \"just one more capture\" loop until the clouds became too frequent and ended the session.\r\n\r\n<a href=\"https://www.astrobin.com/cb0lsi/0/\">Rev A</a> is the best of the Jupiter data (9 separate stacks, best 15% of 2 minute capture each).\r\n\r\n<a href=\"https://www.astrobin.com/cb0lsi/B/\">Rev B</a> is an animation spanning 32 minutes in total.\r\n\r\n<a href=\"https://www.astrobin.com/cb0lsi/C/\">Rev C</a> is a montage of different aspects across the imaging session.\r\n\r\nProfound turbulence persists in the NEB. There's also an interesting \"finger\" of cloud material just east of the GRS which almost looks like it has a tinge of orange to it ... wondering whether this is related to the fact that one edge of the GRS seems to be missing the darker, defined edge that is otherwise present? (See <a href=\"https://www.astrobin.com/cb0lsi/D/\">Rev D</a> for a magnified and annotated region of interest.)\r\n\r\nThanks for looking!",
+    "h": 595,
+    "hash": "cb0lsi",
+    "id": 488392,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 223,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-05-16T16:56:14.853903",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/488392/",
+    "revisions": [
+        "/api/v1/imagerevision/233278/",
+        "/api/v1/imagerevision/233279/",
+        "/api/v1/imagerevision/233288/"
+    ],
+    "subjects": [],
+    "title": "Jupiter with animation: 2020-05-16",
+    "updated": "2021-03-17T02:09:36.131115",
+    "uploaded": "2020-05-16T17:07:19.947923",
+    "url_duckduckgo": "https://www.astrobin.com/cb0lsi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cb0lsi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cb0lsi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cb0lsi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cb0lsi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cb0lsi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cb0lsi/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/cb0lsi/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 1387,
+    "w": 714
+}

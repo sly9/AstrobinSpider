@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "57.513",
+    "description": null,
+    "h": 3600,
+    "hash": "rtx6ln",
+    "id": 594754,
+    "imaging_cameras": [
+        "QHYCCD QHY16803A"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10\" iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2813928/"
+    ],
+    "orientation": "269.838",
+    "pixscale": "1.125",
+    "published": "2021-06-05T08:22:51.753727",
+    "ra": "323.735",
+    "radius": "0.795",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/594754/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "IC1396",
+        "Sh2-131",
+        "VdB142"
+    ],
+    "title": "Elephant's Trunk Nebula (IC1396) in SHO Palette with RGB Stars",
+    "updated": "2021-06-09T15:54:32.945971",
+    "uploaded": "2021-06-05T07:57:27.941077",
+    "url_duckduckgo": "https://www.astrobin.com/rtx6ln/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rtx6ln/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rtx6ln/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rtx6ln/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rtx6ln/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rtx6ln/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rtx6ln/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/74207/2021/58a6cc71-1d00-45e5-8337-897c80658dd8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/74207/2021/58a6cc71-1d00-45e5-8337-897c80658dd8-1622881225.jpg",
+    "url_thumb": "https://www.astrobin.com/rtx6ln/0/rawthumb/thumb/",
+    "user": "joqiu",
+    "views": 81,
+    "w": 3600
+}

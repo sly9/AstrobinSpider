@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 63,
+    "data_source": "BACKYARD",
+    "dec": "67.847",
+    "description": "Covering more than 6 square degrees of the night sky, Sh2-171 and NGC 7822 form a large molecular cloud and star-forming region in the constellation Cepheus. Sh2-171 is the bright nebula at the right center of the image, honeycombed with Bok globules and star-forming towers. Just to the left of the dark dust slashing through the center of the nebula is an open star cluster cataloged Berkeley 59. The elongated crescent-shaped bright nebula on the left of the image is NGC 7822. Within the Sh2-171 complex is one of the hottest stars our region of the Milky Way galaxy, with a temperature of nearly 45,000 Kelvin, it is more than 100,000 times more luminous than the Sun.\r\n\r\nI was very lucky with three successive excellent nights for data collection. The HFR was tight and consistent, ranging from 1.4 to 1.8 for all of the data included in this image. I assembled narrowband channels of this image with Pixinsight Pixel Math using the standard Hubble color assignments. Color correction of the resulting image was done in Photoshop Selective Color using Bob Franke’s multistep color weightings. An image using the RGB data was also assembled in Pixel Math and the resulting image was processed with an Ha luminance mask using LRGB Combine. In Photoshop, the color-corrected SHO narrowband image was the base layer and the luminance masked RGB image was made the top layer to place the RGB star colors in the narrowband image. The resultant SHO/RGB image was brought into Lightroom for contrast and color adjustment.",
+    "h": 3408,
+    "hash": "t8pd1y",
+    "id": 534141,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 248,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "116.605",
+    "pixscale": "2.305",
+    "published": "2020-10-21T03:27:05.037756",
+    "ra": "0.312",
+    "radius": "1.809",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/534141/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822",
+        "NGC7762",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "Sh2-171 (Cederblad 214), NGC 7822, and Berkeley 59",
+    "updated": "2021-07-04T17:35:19.474991",
+    "uploaded": "2020-10-21T04:27:05.614845",
+    "url_duckduckgo": "https://www.astrobin.com/t8pd1y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t8pd1y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t8pd1y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t8pd1y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t8pd1y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t8pd1y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t8pd1y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/642217bc-f004-4e34-b433-49dbf85f185f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/642217bc-f004-4e34-b433-49dbf85f185f-1603254680.jpg",
+    "url_thumb": "https://www.astrobin.com/t8pd1y/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 1410,
+    "w": 4508
+}

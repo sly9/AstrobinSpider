@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 47,
+    "data_source": "BACKYARD",
+    "dec": "41.119",
+    "description": "I tried for the first time the \"trendy\" software \"Topaz sharpen\" for this image ; as many users do so now for their astro images.  \r\n\r\nThe process was only applied on the inner core of the galaxy, and with many precautions (mask, low % of blend with the original… ) and rigorous verification that no virtual detail is created during the process. In fact, it was used more like the \"sharpen\" tool of PS ; which can surely leads to the same result but with many iterations…\r\n\r\nFor this image, most of the detail come from classic deconvolution and HDR processing on Pixinsight ; Topaz was only useful to quickly give a \"sharpen\" aspect to the core of the galaxy. \r\n\r\nI think that used in that way, and with such precautions, it can be an interesting tool.\r\n\r\nJB",
+    "h": 2147,
+    "hash": "nwvla1",
+    "id": 539022,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 102"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 320,
+    "link": "https://millenniumphoton.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804493/"
+    ],
+    "orientation": "346.596",
+    "pixscale": "1.148",
+    "published": "2020-11-09T12:01:42.364773",
+    "ra": "192.721",
+    "radius": "0.550",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/539022/",
+    "revisions": [
+        "/api/v1/imagerevision/262134/"
+    ],
+    "subjects": [
+        "M 94",
+        "M94",
+        "NGC 4736"
+    ],
+    "title": "M94 Galaxy",
+    "updated": "2021-05-05T12:40:24.308995",
+    "uploaded": "2020-11-09T11:48:57.920094",
+    "url_duckduckgo": "https://www.astrobin.com/nwvla1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nwvla1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nwvla1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nwvla1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nwvla1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nwvla1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nwvla1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2200/2020/dbf5c4d2-b7ff-4a78-8538-08af4ca1f48d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2200/2020/dbf5c4d2-b7ff-4a78-8538-08af4ca1f48d-1605239006.png",
+    "url_thumb": "https://www.astrobin.com/nwvla1/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 1668,
+    "w": 2700
+}
