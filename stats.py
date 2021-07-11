@@ -13,7 +13,7 @@ import os.path
 from os import path
 
 onlyfiles = [f for f in listdir('image_data/') if isfile(join('image_data/', f))]
-print(onlyfiles)
+print(len(onlyfiles))
 
 images = None
 
@@ -22,7 +22,7 @@ for filename in onlyfiles:
     try:
         with open('./image_data/'+filename) as f:
             image_meta = json.load(f)
-        images_dict[image_meta['hash']] = image_meta
+        images_dict[filename] = image_meta
     except:
         print('Load %s failed' % filename)
 with open('./images.json','w') as f:
