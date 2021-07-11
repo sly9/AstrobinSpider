@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "-22.978",
+    "description": "",
+    "h": 2680,
+    "hash": null,
+    "id": 343242,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 250,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "91.397",
+    "pixscale": "0.589",
+    "published": "2018-04-23T05:09:39.044674",
+    "ra": "270.624",
+    "radius": "0.351",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/343242/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "M20 LRGB",
+    "updated": "2021-05-23T13:50:43.776172",
+    "uploaded": "2018-04-23T06:09:43.817400",
+    "url_duckduckgo": "https://www.astrobin.com/343242/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/343242/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/343242/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/343242/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/343242/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/343242/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/343242/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/323bfb46-7689-4ab2-970e-8285738cf372.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/323bfb46-7689-4ab2-970e-8285738cf372-1583388731.jpg",
+    "url_thumb": "https://www.astrobin.com/343242/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 1323,
+    "w": 3355
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.176",
+    "description": "Trial with relative short integration time (3 hours in total: 25min each for RGB and 110min L) while also trying to bring out the different shades of the dark nebula.\r\n\r\nMore on www.delsaert.com",
+    "h": 2800,
+    "hash": null,
+    "id": 403920,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "269.058",
+    "pixscale": "1.764",
+    "published": "2019-05-03T10:41:38.028657",
+    "ra": "312.729",
+    "radius": "0.970",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/403920/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Barnard 150 - The Seahorse Nebula",
+    "updated": "2021-03-17T11:06:21.138859",
+    "uploaded": "2019-05-03T11:41:38.194079",
+    "url_duckduckgo": "https://www.astrobin.com/403920/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403920/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403920/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403920/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403920/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403920/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403920/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/dc46362b-41a6-42ca-9810-20f57d6c45c4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/dc46362b-41a6-42ca-9810-20f57d6c45c4-1582639025.jpg",
+    "url_thumb": "https://www.astrobin.com/403920/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 404,
+    "w": 2800
+}

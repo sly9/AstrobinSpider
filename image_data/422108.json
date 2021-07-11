@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "36.461",
+    "description": "filtre CLS et RVB de chez astronomik\r\nPréselection pour la luminance avec une FWHM =< 3 (sur 79 images au total)\r\n\r\nCLS and RGB filter from astronomik\r\nPreselection for luminance with FWHM = <3 (out of 79 images in total)\r\n\r\nCLS: 50x300s en bin1 (images de 2017 & 2019)\r\nR: 10x180s en bin2 (images de 2017)\r\nV: 10x180s en bin2 (images de 2017)\r\nB: 10x180s en bin2 (images de 2017)",
+    "h": 2019,
+    "hash": null,
+    "id": 422108,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher PRO 120ED APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805429/"
+    ],
+    "orientation": "102.160",
+    "pixscale": "1.081",
+    "published": "2019-08-23T07:09:27.198652",
+    "ra": "250.422",
+    "radius": "0.482",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/422108/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "Amas Globulaire Messier 13",
+    "updated": "2021-03-17T09:38:20.343668",
+    "uploaded": "2019-08-23T08:09:27.356707",
+    "url_duckduckgo": "https://www.astrobin.com/422108/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/422108/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/422108/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/422108/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/422108/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/422108/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/422108/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/bf8b9d20-3986-4805-8da4-6c26a61782c9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/bf8b9d20-3986-4805-8da4-6c26a61782c9-1582639624.jpg",
+    "url_thumb": "https://www.astrobin.com/422108/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 284,
+    "w": 2500
+}

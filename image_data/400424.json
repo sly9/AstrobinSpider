@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-63.454",
+    "description": "Quick Narrowband trial on the Running Chicken Nebula (IC 2944) from the end of last nights session (2.30-4.00am Phillip Island, Victoria). The images comprise 30 minutes data from each of the Ha, OIII and SII filters using 30 second subs (total 90 mins exposure). \r\n\r\nSkywatcher 8 inch f5, ASI1600mmPro, Bin1x1, -20C, Gain 300.\r\n\r\nA lot of technical errors here that I need to get my head around, including dead pixels (I think) and the dreaded pattern noise that I don't know how to fix other than to de-noise the heck out of the data - which I hate doing.  I would love to hear if anyone knows how to get rid of fixed pattern noise (other than by dithering?).\r\n \r\n I'll have to give this more serious attention at some point soon with lower gain values, more data and application of additional calibration frames. Nevertheless - the Running Chicken looks like a great emission target for Narrowband imaging.",
+    "h": 1601,
+    "hash": null,
+    "id": 400424,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 200P 200mm/f5 NEQPro6"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 7,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807697/"
+    ],
+    "orientation": "54.000",
+    "pixscale": "1.652",
+    "published": "2019-04-11T08:52:26.425073",
+    "ra": "174.852",
+    "radius": "0.616",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/400424/",
+    "revisions": [],
+    "subjects": [
+        "IC 2948",
+        "lambda Cen nebula"
+    ],
+    "title": "Running Chicken Nebula (IC2944)",
+    "updated": "2021-03-17T11:22:41.542243",
+    "uploaded": "2019-04-11T09:46:05.670652",
+    "url_duckduckgo": "https://www.astrobin.com/400424/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400424/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400424/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400424/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400424/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400424/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400424/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/82985f53-6995-4adf-95bb-84b812f7d67a.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/82985f53-6995-4adf-95bb-84b812f7d67a-1554976319.JPG",
+    "url_thumb": "https://www.astrobin.com/400424/0/rawthumb/thumb/",
+    "user": "BruceRohrlach",
+    "views": 80,
+    "w": 2142
+}

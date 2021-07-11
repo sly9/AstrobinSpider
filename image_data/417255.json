@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 17,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.143",
+    "description": "From Wikipedia: \"NGC 6946 also known as the Fireworks Galaxy is a face-on intermediate spiral galaxy with a small bright nucleus, whose location in the sky straddles the boundary between the northern constellations of Cepheus and Cygnus. Its distance from Earth is about 25.2 million light-years or 7.72 megaparsecs[2], similar to the distance of M101 (NGC 5457) in the constellation Ursa Major.[3] Both were once considered to be part of the Local Group.[4] but are now known to be among the dozen bright spiral galaxies near the Milky Way but beyond the confines of the Local Group.[5] NGC 6946 lies within the Virgo Supercluster.[6]\r\n\r\nDiscovered by William Herschel on 9 September 1798, this well-studied galaxy has a diameter of approximately 40,000 light-years[dubious – discuss] , about one-third of the Milky Way's size,[7] and it contains roughly half the number of stars as the Milky Way. The galaxy is heavily obscured by interstellar matter as it lies quite close to the galactic plane of the Milky Way. Due to its prodigious star formation it has been classified as an active starburst galaxy.\"\r\n\r\nIt was quite confusing how best to present this image when establishing a colour balance, PixInisght definitely gave the image a reddish cast after PCC however web references had a variety of balances: I opted to leave a somewhat reddish cast but I hope not an overly dominant one, a balance that reflects our line of sight view through Cepheus' dusty environs.  I certainly found the luminance channel gave hints of dust that careful use of DBE retained.  Finally, Ha data helped bring the fireburst galaxy to life showing the abundant HII emission star forming clusters.\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 2580,
+    "hash": null,
+    "id": 417255,
+    "imaging_cameras": [
+        "QSI 690 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "TEC 140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "https://barrywilson.smugmug.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "89.486",
+    "pixscale": "0.743",
+    "published": "2019-07-27T10:56:52.158018",
+    "ra": "308.715",
+    "radius": "0.430",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/417255/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6946",
+        "NGC6946"
+    ],
+    "title": "NGC 6946 The Fireworks Galaxy",
+    "updated": "2021-06-30T13:05:53.703465",
+    "uploaded": "2019-07-27T11:56:52.341884",
+    "url_duckduckgo": "https://www.astrobin.com/417255/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417255/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417255/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417255/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417255/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417255/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417255/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2020/cfa92b89-44a9-4d9c-b370-092bf7ea5f0a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5519/2020/cfa92b89-44a9-4d9c-b370-092bf7ea5f0a-1582460667.jpg",
+    "url_thumb": "https://www.astrobin.com/417255/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 524,
+    "w": 3274
+}

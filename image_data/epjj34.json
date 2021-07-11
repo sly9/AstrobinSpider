@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "4.976",
+    "description": "faite sur 2 nuits pour le HA, elle ce compose de 109 poses de 300s ! soit un total de 9H10\r\n\r\nAvec la participation de mon pote Ludo Ludo (Ludovic Jumeaux ) qui a fait les couches OIII et SII !\r\n33 x 300s pour le OIII ainsi que 20 x 300s pour le SII\r\n\r\nTemps total SHO : 13H35\r\n\r\nLunette TSA71Q + camera QHYCCD695A pour le HA\r\nAtik 460 EX pour le OIII et SII\r\nMonture CEM120 + EQ6 (ludo)\r\nTraitement Pixinsight + CS7",
+    "h": 3501,
+    "hash": "epjj34",
+    "id": 451628,
+    "imaging_cameras": [
+        "QHYCCD QHY 695A"
+    ],
+    "imaging_telescopes": [
+        "TS Imaging Star 71/347 f/4.9 Quad"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807161/"
+    ],
+    "orientation": "275.271",
+    "pixscale": "1.360",
+    "published": "2020-01-26T18:07:27.003302",
+    "ra": "97.994",
+    "radius": "1.143",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451628/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Nebuleuse de la rosette Caldwell 49 SHO",
+    "updated": "2021-03-17T05:23:00.017750",
+    "uploaded": "2020-01-26T18:07:27.713312",
+    "url_duckduckgo": "https://www.astrobin.com/epjj34/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/epjj34/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/epjj34/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/epjj34/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/epjj34/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/epjj34/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/epjj34/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20876/2020/c3fbdfdb-b0f4-46da-97b3-6016c2f4bee6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20876/2020/c3fbdfdb-b0f4-46da-97b3-6016c2f4bee6-1582274530.png",
+    "url_thumb": "https://www.astrobin.com/epjj34/0/rawthumb/thumb/",
+    "user": "fred4646",
+    "views": 266,
+    "w": 4933
+}

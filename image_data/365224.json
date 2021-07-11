@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-43.017",
+    "description": "NGC 5128, also known as the Centaurus Alpha, is galaxy spanning approximately 60,000 light years, about 10-16 million light years from Earth.  It can be seen in the constellation of Centaurus. \r\n\r\nThis image was processed in PixInsight using three RGB filters.  A synthetic Luminance was constructed from all three filters.  The final image was cropped and re-sampled by 120% for aesthetic reasons.",
+    "h": 1795,
+    "hash": null,
+    "id": 365224,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "2.043",
+    "pixscale": "1.015",
+    "published": "2018-09-07T01:54:21.066874",
+    "ra": "201.373",
+    "radius": "0.424",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/365224/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5128",
+        "NGC5128"
+    ],
+    "title": "NGC5128",
+    "updated": "2021-03-17T14:07:55.417262",
+    "uploaded": "2018-09-07T02:41:42.780385",
+    "url_duckduckgo": "https://www.astrobin.com/365224/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/365224/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/365224/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/365224/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/365224/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/365224/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/365224/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2018/b332ce7d-2449-4d61-8046-c942ae2fef67.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2018/b332ce7d-2449-4d61-8046-c942ae2fef67-1582516464.jpg",
+    "url_thumb": "https://www.astrobin.com/365224/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 332,
+    "w": 2411
+}

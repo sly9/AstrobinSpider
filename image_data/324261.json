@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "-0.016",
+    "description": "An AGN galaxy thus the inner parts are very bright compared to the outer thus I layered a highly stretched image to bring out the outer areas as well as a less stretched image for the inner area.   Seeing was quite good at around 1.5 arc seconds.  L 22x400s, RGB 10x200s 2x2 binned.",
+    "h": 1479,
+    "hash": null,
+    "id": 324261,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron C-11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "88.764",
+    "pixscale": "0.652",
+    "published": "2017-12-01T04:09:11.191544",
+    "ra": "40.672",
+    "radius": "0.292",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/324261/",
+    "revisions": [],
+    "subjects": [
+        "M 77",
+        "NGC 1068"
+    ],
+    "title": "M77 / NGC 1068",
+    "updated": "2021-03-17T19:01:27.634505",
+    "uploaded": "2017-12-01T03:58:09.551571",
+    "url_duckduckgo": "https://www.astrobin.com/324261/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324261/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324261/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324261/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324261/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324261/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324261/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/55877c24-a9d7-4057-88c8-cd142f7e33df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/55877c24-a9d7-4057-88c8-cd142f7e33df-1512101863.jpg",
+    "url_thumb": "https://www.astrobin.com/324261/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 458,
+    "w": 1824
+}

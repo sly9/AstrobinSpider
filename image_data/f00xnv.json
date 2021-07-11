@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 34,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.391",
+    "description": "The Flaming Star Nebula (IC405, SH 2-229, Caldwell 31) is a bright emission and reflection nebula located in the constellation of Auriga at a distance of about 1500 ly.   It's a relatively bright nebula so it's commonly imaged in visible light.   I first considered imaging the Flaming Star over a year ago in November of 2018.  I started with LRGB filters but the conditions just weren't cooperating and I shifted to narrowband as the moon rose and the weather improved.  I managed to snag some NB data but not enough to process by the time that the Flaming Star disappeared in the west.  This year, I returned and again, narrowband was needed to get around the lunar cycle.  Not counting the RGB data that I had gathered, I collected over 60 total hours of NB data but I had to toss over half of it due to poor seeing, wind induced vibration, intermittent clouds, and having the roof close while the shutter was open.  When I looked at the O3 data, I realized that I gathered far less than I needed and when I filtered out the bad stuff, I was far short of what was needed for a third channel.  Furthermore, I quickly realized that the O3 component was almost non-existent.  So, I decided to process a 2-channel NB image--and here's where I decided to experiment.\r\n\r\nAfter playing with various combinations, I chose to use the S2 signal for the red channel and the Ha signal for the blue channel.   I used a 50:50 combination for the G channel and used the default unlinked color stretch in PI to determine the resulting colors.  The result is an \"earthy\" blue/brown/orange color palette that I found pleasing.  I think that it brings out details in the complex interplay of gasses within the nebula.  The biggest downside is that the residual star colors become yellow/orange.  I was able to downplay that effect for all but the very brightest stars.  In this case the nebula surrounds the bright variable star AE Auriga, which is actually a blue star.  However in this rendition, AE Auriga (the brightest star in the image) appears to be orange.  It's an artifact of the processing and it looks interesting but keep in mind that the star colors in any pure NB image are artificial.\r\n\r\nThis image is a bit of a departure from my normal processing and presentation style, but I decided that it's probably ok to experiment a little here and there.   I'm betting that some may like it and that some may not, so feedback will be appreciated either way.   I'm not much of an artist so hopefully, it's not too \"out there\" in a velvet painting kind of way.  :)))))   I personally like the complexity that it reveals in the nebula.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": "f00xnv",
+    "id": 446609,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 220,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.867",
+    "pixscale": "0.477",
+    "published": "2020-01-02T20:35:16.772713",
+    "ra": "79.137",
+    "radius": "0.337",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/446609/",
+    "revisions": [
+        "/api/v1/imagerevision/205793/",
+        "/api/v1/imagerevision/205988/"
+    ],
+    "subjects": [
+        "AE Aur",
+        "Flaming Star nebula",
+        "IC 405",
+        "IC405",
+        "Sh2-229"
+    ],
+    "title": "The Boiling Sea of Sulfur and Hydrogen Deep Inside the Flaming Star Nebula (IC405)",
+    "updated": "2021-05-02T02:22:07.066849",
+    "uploaded": "2020-01-02T18:49:15.958850",
+    "url_duckduckgo": "https://www.astrobin.com/f00xnv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f00xnv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f00xnv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f00xnv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f00xnv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f00xnv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f00xnv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9f94b3d3-61fa-402b-a677-102e4fa4b509.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9f94b3d3-61fa-402b-a677-102e4fa4b509-1577991554.jpg",
+    "url_thumb": "https://www.astrobin.com/f00xnv/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1246,
+    "w": 1824
+}

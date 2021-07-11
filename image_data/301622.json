@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-48.607",
+    "description": "TS 115/800\r\nZWO ASI 1600 mono cooled\r\nLRGB\r\nL: 180 minutes\r\nRGB: 240 minutes (DSLR)\r\nTotal: 7 hours\r\nPixInsight + PS6\r\n",
+    "h": 4656,
+    "hash": null,
+    "id": 301622,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "244.990",
+    "pixscale": "1.201",
+    "published": "2017-07-01T01:32:17.370909",
+    "ra": "249.829",
+    "radius": "0.974",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301622/",
+    "revisions": [
+        "/api/v1/imagerevision/119507/",
+        "/api/v1/imagerevision/120339/",
+        "/api/v1/imagerevision/212283/"
+    ],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193"
+    ],
+    "title": "NGC 6188 Dragons of ARA",
+    "updated": "2021-03-17T20:32:57.950973",
+    "uploaded": "2017-07-01T02:32:18.534859",
+    "url_duckduckgo": "https://www.astrobin.com/301622/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301622/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301622/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301622/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301622/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301622/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301622/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22145/2017/2e7eaf5c-9f68-41a0-b72e-3b7ade0683de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22145/2017/2e7eaf5c-9f68-41a0-b72e-3b7ade0683de-1582616931.jpg",
+    "url_thumb": "https://www.astrobin.com/301622/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 247,
+    "w": 3520
+}

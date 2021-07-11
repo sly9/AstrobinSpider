@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "33.422",
+    "description": "",
+    "h": 1279,
+    "hash": null,
+    "id": 334412,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "266.553",
+    "pixscale": "0.845",
+    "published": "2018-02-20T02:48:23.275073",
+    "ra": "133.178",
+    "radius": "0.473",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334412/",
+    "revisions": [
+        "/api/v1/imagerevision/137565/",
+        "/api/v1/imagerevision/137781/"
+    ],
+    "subjects": [
+        "NGC 2683"
+    ],
+    "title": "NGC 2683 the \"UFO Galaxy\"",
+    "updated": "2021-03-17T16:27:28.811604",
+    "uploaded": "2018-02-20T02:48:25.378435",
+    "url_duckduckgo": "https://www.astrobin.com/334412/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334412/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334412/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334412/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334412/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334412/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334412/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2018/22a0e1fe-22b9-40b0-9f9b-aae6d9ceec4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22a0e1fe-22b9-40b0-9f9b-aae6d9ceec4b-1519095330.jpg",
+    "url_thumb": "https://www.astrobin.com/334412/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 131,
+    "w": 1824
+}

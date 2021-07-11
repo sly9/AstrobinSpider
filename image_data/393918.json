@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "13.304",
+    "description": "First full LRGB image with the ASI, still getting the stars right. The 272 frame stack is a test of a technique I found called Super Lum. You stack all your channels, in my case HaLRGB, into one stack and use it as luminance.",
+    "h": 2469,
+    "hash": null,
+    "id": 393918,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Megrez 90 F6.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808542/"
+    ],
+    "orientation": "268.338",
+    "pixscale": "1.758",
+    "published": "2019-03-03T23:57:30.731893",
+    "ra": "169.975",
+    "radius": "0.988",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/393918/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet in HaLRGB",
+    "updated": "2021-03-17T11:52:57.621509",
+    "uploaded": "2019-03-03T23:57:31.367507",
+    "url_duckduckgo": "https://www.astrobin.com/393918/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/393918/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/393918/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/393918/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/393918/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/393918/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/393918/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24670/2020/c37d7747-87d4-4dfa-8598-1f3f2074d636.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24670/2020/c37d7747-87d4-4dfa-8598-1f3f2074d636-1582432883.jpg",
+    "url_thumb": "https://www.astrobin.com/393918/0/rawthumb/thumb/",
+    "user": "Aaron_tragle",
+    "views": 118,
+    "w": 3205
+}

@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "69.680",
+    "description": "",
+    "h": 2974,
+    "hash": null,
+    "id": 330253,
+    "imaging_cameras": [
+        "Nikon D810A",
+        "QHYCCD QHY16200A Mono",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806964/",
+        "/api/v1/location/2806968/",
+        "/api/v1/location/2806972/"
+    ],
+    "orientation": "358.474",
+    "pixscale": "0.626",
+    "published": "2018-01-21T08:40:54.447461",
+    "ra": "148.961",
+    "radius": "0.425",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330253/",
+    "revisions": [
+        "/api/v1/imagerevision/135238/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "Starburst Galaxy M82",
+    "updated": "2021-06-07T07:20:22.572937",
+    "uploaded": "2018-01-21T08:40:54.951695",
+    "url_duckduckgo": "https://www.astrobin.com/330253/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330253/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330253/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330253/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330253/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330253/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330253/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/91907102-b06b-4006-bc24-ec9bbb7e682d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/91907102-b06b-4006-bc24-ec9bbb7e682d-1582598719.jpg",
+    "url_thumb": "https://www.astrobin.com/330253/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 520,
+    "w": 3876
+}

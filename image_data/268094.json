@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "60.365",
+    "description": "This is my first attempt shooting with Narrowband.  To start, I was hoping to get 2 hours in each channel, but my mount failed on meridian flip and I was only able to get about 30 minutes of Oiii.  The Ha pretty much overwhelmed it, but I pushed the data pretty hard to at least hint it was there.  I hope to add another 3.5 hours on Oiii as well as double the Ha and Sii.  ",
+    "h": 2982,
+    "hash": null,
+    "id": 268094,
+    "imaging_cameras": [
+        "ZWO  ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Boren-Simon PowerNewt 8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.078",
+    "pixscale": "1.281",
+    "published": "2016-10-13T01:38:11.966305",
+    "ra": "43.297",
+    "radius": "0.887",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268094/",
+    "revisions": [
+        "/api/v1/imagerevision/103571/",
+        "/api/v1/imagerevision/103961/",
+        "/api/v1/imagerevision/103962/",
+        "/api/v1/imagerevision/104036/",
+        "/api/v1/imagerevision/104233/",
+        "/api/v1/imagerevision/104240/",
+        "/api/v1/imagerevision/104392/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-199"
+    ],
+    "title": "IC 1848 Soul Nebula in Hubble Blend (First NB!)",
+    "updated": "2021-03-17T22:44:10.105636",
+    "uploaded": "2016-10-13T02:38:11.966305",
+    "url_duckduckgo": "https://www.astrobin.com/268094/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268094/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268094/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268094/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268094/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268094/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268094/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14318/2016/47d559eb-ed5c-4cb8-b720-2bcfa4902528.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14318/2016/47d559eb-ed5c-4cb8-b720-2bcfa4902528-1582580904.jpg",
+    "url_thumb": "https://www.astrobin.com/268094/0/rawthumb/thumb/",
+    "user": "CRW_Photography",
+    "views": 696,
+    "w": 3992
+}

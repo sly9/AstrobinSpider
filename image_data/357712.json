@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.397",
+    "description": "NGC 6914 Version 4 of 4.  This version taken on RCOS 14.5\" to go with versions on FSQ-106 + 16200, FSQ-106 + 8300, RH-305 + 8300.",
+    "h": 1832,
+    "hash": null,
+    "id": 357712,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 217,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "4.650",
+    "pixscale": "0.550",
+    "published": "2018-07-28T00:27:08.817461",
+    "ra": "306.077",
+    "radius": "0.438",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/357712/",
+    "revisions": [
+        "/api/v1/imagerevision/151490/",
+        "/api/v1/imagerevision/151755/",
+        "/api/v1/imagerevision/151876/"
+    ],
+    "subjects": [
+        "NGC 6914"
+    ],
+    "title": "NGC 6914 - Deep Sky West Remote Observatory",
+    "updated": "2021-06-11T06:49:52.798257",
+    "uploaded": "2018-07-25T00:08:12.454972",
+    "url_duckduckgo": "https://www.astrobin.com/357712/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/357712/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/357712/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/357712/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/357712/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/357712/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/357712/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2018/83c2f573-813d-4b24-938f-53d87d4312fc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/83c2f573-813d-4b24-938f-53d87d4312fc-1532477740.jpg",
+    "url_thumb": "https://www.astrobin.com/357712/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 971,
+    "w": 1824
+}

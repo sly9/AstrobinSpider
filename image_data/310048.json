@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "67.791",
+    "description": "This is a 2 panel mosaic of the Iris Nebula and the Ghost Nebula shot LRGB from two different locations. The left panel was shot from Fall Creek Falls State Park in Spencer, TN in 2016 and the right panel was shot from the Marathon Motel and RV Park in Marathon, TX in 2017. \r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nTotal Data gathered:\r\n(82) Lum @ 600secs - 1x1\r\n(35) R @ 600secs - 1x1\r\n(36) G @ 600secs - 1x1\r\n(31) B @ 600secs - 1x1\r\n(8) Lum @ 60secs - 1x1\r\n(8) R @ 60secs - 1x1\r\n(8) G @ 60secs - 1x1\r\n(8) B @ 60secs - 1x1\r\n\r\nCamera : ATIK 383L+ Mono\r\nTelescope: William Optics GT102 W_0.8x Reducer Flattener\r\nMount: AP Mach1GTO",
+    "h": 1280,
+    "hash": null,
+    "id": 310048,
+    "imaging_cameras": [
+        "ATIK 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT102 102mm f/6.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805100/",
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "179.730",
+    "pixscale": "4.855",
+    "published": "2017-08-30T13:47:12.657508",
+    "ra": "317.117",
+    "radius": "1.489",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310048/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "The Iris Nebula and the Ghost Nebula",
+    "updated": "2021-03-17T19:59:50.912042",
+    "uploaded": "2017-08-30T14:47:13.551426",
+    "url_duckduckgo": "https://www.astrobin.com/310048/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310048/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310048/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310048/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310048/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310048/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310048/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11235/2017/4776728e-bda8-43d6-99ec-f9c1579bb0d3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11235/2017/4776728e-bda8-43d6-99ec-f9c1579bb0d3-1582595351.jpg",
+    "url_thumb": "https://www.astrobin.com/310048/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 280,
+    "w": 1800
+}

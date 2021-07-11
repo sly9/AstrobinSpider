@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "25.891",
+    "description": "LoTr 5 Longmore-Tritton 5, a faint planetary nebula in Coma Berenices. Also designated PN G339.9 + 88.4 it was discovered by Longmore & Tritton in 1980. It is the highest Galactic latitude planetary nebula known.\r\nHa and OII versions can be seen on B and C. Ha was extremely faint.",
+    "h": 1932,
+    "hash": "eqtl1i",
+    "id": 454656,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "6.324",
+    "pixscale": "0.534",
+    "published": "2020-02-12T07:37:24.602812",
+    "ra": "193.894",
+    "radius": "0.239",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/454656/",
+    "revisions": [
+        "/api/v1/imagerevision/211804/",
+        "/api/v1/imagerevision/211805/"
+    ],
+    "subjects": [
+        "PGC1751780",
+        "PGC1752097",
+        "PGC1752225",
+        "PGC1754816",
+        "PK339+88.1"
+    ],
+    "title": "LoTr 5",
+    "updated": "2021-04-22T11:35:37.184424",
+    "uploaded": "2020-02-12T07:37:24.739708",
+    "url_duckduckgo": "https://www.astrobin.com/eqtl1i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eqtl1i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eqtl1i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eqtl1i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eqtl1i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eqtl1i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eqtl1i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2020/8c39862b-1517-41a5-abf6-0171c216d3cd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2020/8c39862b-1517-41a5-abf6-0171c216d3cd-1581493367.jpg",
+    "url_thumb": "https://www.astrobin.com/eqtl1i/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 574,
+    "w": 2584
+}

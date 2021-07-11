@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "22.725",
+    "description": "RGB Ha OIII  blend using PI. 40 hour of time",
+    "h": 898,
+    "hash": null,
+    "id": 327967,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "179.996",
+    "pixscale": "1.661",
+    "published": "2018-01-01T19:27:51.458461",
+    "ra": "299.903",
+    "radius": "0.347",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327967/",
+    "revisions": [
+        "/api/v1/imagerevision/133800/",
+        "/api/v1/imagerevision/133801/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "The Dumbell",
+    "updated": "2021-03-17T18:45:50.723074",
+    "uploaded": "2018-01-01T19:27:51.755111",
+    "url_duckduckgo": "https://www.astrobin.com/327967/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327967/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327967/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327967/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327967/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327967/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327967/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11713/2018/9dae3145-dfd2-4609-9ae4-7dc35016fba0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9dae3145-dfd2-4609-9ae4-7dc35016fba0-1514835052.jpg",
+    "url_thumb": "https://www.astrobin.com/327967/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 214,
+    "w": 1208
+}

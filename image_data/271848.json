@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "67.566",
+    "description": "6 panel Mosaic in HA, S2, and OIII\r\n\r\nHA - 81 x 45sec per panel\r\nS2 - 162 x 45sec per panel\r\nOIII - 162 x 45sec per panel\r\n\r\nUnguided and combined using the SHO AIP script from Pixinsight\r\n\r\nOblong small stars are result of camera sensor tilt, not tracking.",
+    "h": 8418,
+    "hash": null,
+    "id": 271848,
+    "imaging_cameras": [
+        "ASI 1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 19,
+    "link": "https://drive.google.com/file/d/0BzMJRU9BFkoKRnIxNXkxbEVUOVE/view?usp=sharing",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.926",
+    "pixscale": "1.140",
+    "published": "2016-11-12T04:57:43.811240",
+    "ra": "0.573",
+    "radius": "2.007",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271848/",
+    "revisions": [
+        "/api/v1/imagerevision/104239/",
+        "/api/v1/imagerevision/107297/"
+    ],
+    "subjects": [
+        "NGC 7762",
+        "NGC 7822"
+    ],
+    "title": "NGC7822 Mosaic Narrow Band",
+    "updated": "2021-03-17T22:30:58.613716",
+    "uploaded": "2016-11-12T04:57:51.469695",
+    "url_duckduckgo": "https://www.astrobin.com/271848/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271848/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271848/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271848/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271848/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271848/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271848/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17923/2016/893153bb-0735-4943-977e-92b57337db6c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/17923/2016/893153bb-0735-4943-977e-92b57337db6c-1582516272.jpg",
+    "url_thumb": "https://www.astrobin.com/271848/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 144,
+    "w": 9480
+}

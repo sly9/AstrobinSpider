@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "62.187",
+    "description": "Extremely faint but rewarding target.\r\nAquisition dates: 25,26,27,28 en 29 september 2017.",
+    "h": 1753,
+    "hash": null,
+    "id": 314764,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "270.458",
+    "pixscale": "2.953",
+    "published": "2017-09-30T15:56:25.398792",
+    "ra": "359.498",
+    "radius": "1.418",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/314764/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7788",
+        "NGC 7790"
+    ],
+    "title": "CTB1 Supernova Remnant in HaRGB",
+    "updated": "2021-03-17T19:40:51.572950",
+    "uploaded": "2017-09-30T16:45:17.553977",
+    "url_duckduckgo": "https://www.astrobin.com/314764/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/314764/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/314764/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/314764/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/314764/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/314764/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/314764/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/4c3b8fde-9a0e-46f0-abf7-ef87dfff49be.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/4c3b8fde-9a0e-46f0-abf7-ef87dfff49be-1582185451.jpg",
+    "url_thumb": "https://www.astrobin.com/314764/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 312,
+    "w": 2980
+}

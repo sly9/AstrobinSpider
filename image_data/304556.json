@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "47.273",
+    "description": "This is a much nicer wide field target but I thought if the dark-lanes in the nebula can be resolved more.. but I am not sure it is worth the effort.\r\n\r\nI started the target with just Ha data and the weather turned. I managed to grab RGB data instead of OIII. The data itself is not  very good , especially the stars. With summer storms, I don't think I will spend more time on this target so ended up processing the sub par data.\r\n\r\nThis shot at unity gain at a image scale of 0.28arcsec/px",
+    "h": 1258,
+    "hash": null,
+    "id": 304556,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "293.854",
+    "pixscale": "0.686",
+    "published": "2017-07-24T17:31:08.350854",
+    "ra": "328.372",
+    "radius": "0.187",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/304556/",
+    "revisions": [
+        "/api/v1/imagerevision/121210/"
+    ],
+    "subjects": [
+        "B168",
+        "Cocoon nebula",
+        "IC 5146",
+        "IC5146",
+        "Sh2-125"
+    ],
+    "title": "IC 5146 - Cocoon Nebula HaRGB",
+    "updated": "2021-03-17T20:21:55.154892",
+    "uploaded": "2017-07-24T18:31:09.463675",
+    "url_duckduckgo": "https://www.astrobin.com/304556/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/304556/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/304556/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/304556/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/304556/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/304556/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/304556/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7483/2017/00893ed6-358e-48f9-8a7f-94741391bb76.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/00893ed6-358e-48f9-8a7f-94741391bb76-1500918208.png",
+    "url_thumb": "https://www.astrobin.com/304556/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 322,
+    "w": 1500
+}

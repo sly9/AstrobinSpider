@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-24.339",
+    "description": "This is a Ha-Hoo version of the m8 nebular. I use an new technique to process the image making the center of the nebular blue.",
+    "h": 1399,
+    "hash": null,
+    "id": 418017,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "Intane Optic 80apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810031/"
+    ],
+    "orientation": "180.562",
+    "pixscale": "1.169",
+    "published": "2019-07-30T15:07:10.094984",
+    "ra": "271.088",
+    "radius": "1.114",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/418017/",
+    "revisions": [
+        "/api/v1/imagerevision/187315/",
+        "/api/v1/imagerevision/187419/",
+        "/api/v1/imagerevision/187619/"
+    ],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "NGC 6544",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "Colorful M8 Nebular (Ha-Hoo Bicolor)",
+    "updated": "2021-06-05T21:34:34.349069",
+    "uploaded": "2019-07-30T16:07:11.828561",
+    "url_duckduckgo": "https://www.astrobin.com/418017/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418017/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418017/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418017/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418017/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418017/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418017/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12085/2019/53412292-2667-4b52-bc0f-6c9a224f9839.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/53412292-2667-4b52-bc0f-6c9a224f9839-1564503665.jpg",
+    "url_thumb": "https://www.astrobin.com/418017/0/rawthumb/thumb/",
+    "user": "LAZYMAN",
+    "views": 171,
+    "w": 1824
+}

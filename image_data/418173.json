@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-7.784",
+    "description": "2 frames mosaic\r\n\r\nTelescope/lens: FSQ-106ED\r\nCamera: STL11000\r\nExposure and filters: LRGB 35 hours total exposure \r\nMount: DDM60 PRO\r\nLocation: San Pedro De Atacama, Chile \r\nDates: Nov 2010 – Jun 2011",
+    "h": 1804,
+    "hash": null,
+    "id": 418173,
+    "imaging_cameras": [
+        "SBIG STL-11000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810964/"
+    ],
+    "orientation": "0.341",
+    "pixscale": "7.006",
+    "published": "2019-07-31T11:16:32.104858",
+    "ra": "76.899",
+    "radius": "2.976",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/418173/",
+    "revisions": [],
+    "subjects": [
+        "IC 2118",
+        "The star Rigel (βOri)",
+        "The star λEri",
+        "The star ψEri",
+        "Witch Head nebula"
+    ],
+    "title": "Witch Head and Rigel",
+    "updated": "2021-05-23T19:43:24.314217",
+    "uploaded": "2019-07-31T12:16:32.267455",
+    "url_duckduckgo": "https://www.astrobin.com/418173/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418173/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418173/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418173/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418173/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418173/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418173/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33375/2019/7907e2f2-7cdb-4c75-95bd-25901bb67a86.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33375/2019/7907e2f2-7cdb-4c75-95bd-25901bb67a86-1582535991.jpg",
+    "url_thumb": "https://www.astrobin.com/418173/0/rawthumb/thumb/",
+    "user": "StanislavVolskiy",
+    "views": 407,
+    "w": 2470
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "21.499",
+    "description": "NGC 2903 and 2905 acquired between October 2018 and April 2019.  This striking barred spiral galaxy in Leo is about 30 million LY away.\r\n\r\nVery surprising that this didn't make it into the Messier catalog.\r\n\r\n24 total hours of data:  \r\n\r\nL - 7 hours\r\nR - 5.3 hours\r\nG - 4.5 hours\r\nB - 3 hours\r\nHa - 4.4 hours\r\n\r\nCalibrated with AstroPixelProcessor, processed with PixInsight and PhotoShop.  \r\n\r\nComments and critiques welcomed!\r\n\r\nCheers,\r\nRowland",
+    "h": 2432,
+    "hash": null,
+    "id": 405089,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 9.25 C9.25"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806772/"
+    ],
+    "orientation": "267.257",
+    "pixscale": "0.319",
+    "published": "2019-05-10T09:50:14.664779",
+    "ra": "143.042",
+    "radius": "0.177",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405089/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905"
+    ],
+    "title": "NGC 2903 Ha+LRGB - EdgeHD 9.25 - MyT - ASI1600MM Cool - 24 hours",
+    "updated": "2021-03-17T11:00:41.600602",
+    "uploaded": "2019-05-10T10:13:22.805273",
+    "url_duckduckgo": "https://www.astrobin.com/405089/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405089/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405089/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405089/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405089/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405089/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405089/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21217/2019/76b839fb-c600-4142-a772-cf9eb30e75e3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21217/2019/76b839fb-c600-4142-a772-cf9eb30e75e3-1582549174.jpg",
+    "url_thumb": "https://www.astrobin.com/405089/0/rawthumb/thumb/",
+    "user": "Vassar1976",
+    "views": 347,
+    "w": 3180
+}

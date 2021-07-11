@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "I have been trying to develop a processing workflow that will deal more effectively with the really noisy images produced by my unmodified Nikon D5500. This week I finally got something that seems to work fairly well. I'm also fairly happy with the star management of this workflow.\r\n\r\nThe basic principle is to separate the image into R G and B files, plus create an extracted Luminance file,  and then do the noise reduction and star reduction on each of the 4 separate files, and then recombine them and do the rest of the processing. I decided on this method when I discovered how incredibly noisy the red channel image was compared to the green... I was shocked!",
+    "h": 130,
+    "hash": null,
+    "id": 390650,
+    "imaging_cameras": [
+        "Nikon D5500 unmodified"
+    ],
+    "imaging_telescopes": [
+        "Nikon AF-S 300/f4 ED IF, camera lens"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810295/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-02-13T14:12:32.949081",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/390650/",
+    "revisions": [
+        "/api/v1/imagerevision/170339/",
+        "/api/v1/imagerevision/170340/",
+        "/api/v1/imagerevision/170342/"
+    ],
+    "subjects": [],
+    "title": "Orion and Running Man Nebulae,  M42-M43",
+    "updated": "2021-03-17T12:07:34.350789",
+    "uploaded": "2019-02-13T14:04:10.654785",
+    "url_duckduckgo": "https://www.astrobin.com/390650/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390650/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390650/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390650/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390650/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390650/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390650/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/390650/0/rawthumb/thumb/",
+    "user": "Rudy_Pohl",
+    "views": 639,
+    "w": 130
+}

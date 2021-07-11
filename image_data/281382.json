@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "5.102",
+    "description": "Here is my first synthetic color image with the QSI690. Captured the Ha and OIII data and used a synthetic green combination. The Final composition is an LRGB image utilizing the following \r\n\r\nL: Ha\r\nR: Ha\r\nG: (Ha*.5)+(OIII*~.5)\r\nB: OIII\r\n\r\nI am really pleased with the results... Enjoy",
+    "h": 2712,
+    "hash": null,
+    "id": 281382,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "-104.230",
+    "pixscale": "0.580",
+    "published": "2017-01-26T05:24:20.031880",
+    "ra": "97.829",
+    "radius": "0.350",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/281382/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "Rosette nebula"
+    ],
+    "title": "NGC2244 Bicolor",
+    "updated": "2021-03-17T21:54:59.243025",
+    "uploaded": "2017-01-26T05:24:21.011739",
+    "url_duckduckgo": "https://www.astrobin.com/281382/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/281382/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/281382/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/281382/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/281382/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/281382/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/281382/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/7ecd0e22-739e-4fd2-b13c-9e8017c5f2b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7ecd0e22-739e-4fd2-b13c-9e8017c5f2b6-1485483022.jpg",
+    "url_thumb": "https://www.astrobin.com/281382/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 571,
+    "w": 3388
+}

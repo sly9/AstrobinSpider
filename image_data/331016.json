@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "69.267",
+    "description": "Widefield image of M81 and M82 Galaxies with surrounding galaxies and integrate flux nebula shot with my QHY128C one shot color camera. I shot some shorter exposures at 120s and added it to this because I am used to doing that with my previous cameras, but honestly the dynamic range is so large on this camera I really didn't need to do it.\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nData gathered:\r\n(49) Subs @ 120secs - 1x1 @ Gain 2200\r\n(102) Subs @ 300secs - 1x1 @ Gain 2200\r\n\r\nCamera : QHYCCD QHY128C\r\nTelescope: William Optics GT102 W_0.8x Reducer Flattener\r\nMount: AP Mach1GTO",
+    "h": 1387,
+    "hash": null,
+    "id": 331016,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT102 102mm f/6.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "270.638",
+    "pixscale": "5.715",
+    "published": "2018-01-26T20:29:30.592351",
+    "ra": "149.207",
+    "radius": "1.932",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331016/",
+    "revisions": [
+        "/api/v1/imagerevision/135595/"
+    ],
+    "subjects": [
+        "Bode's galaxy",
+        "Bode's nebulae",
+        "Cigar galaxy",
+        "M 81",
+        "M 82",
+        "M81",
+        "M82",
+        "NGC 2976",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077",
+        "NGC2959",
+        "NGC2961",
+        "NGC2976",
+        "NGC3077"
+    ],
+    "title": "M81 & M82 Widefield",
+    "updated": "2021-03-17T16:42:42.300933",
+    "uploaded": "2018-01-26T20:29:32.014041",
+    "url_duckduckgo": "https://www.astrobin.com/331016/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331016/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331016/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331016/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331016/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331016/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331016/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2018/1a8eb125-06e8-4f39-b8b1-bca5355aabeb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2018/1a8eb125-06e8-4f39-b8b1-bca5355aabeb-1582595322.jpg",
+    "url_thumb": "https://www.astrobin.com/331016/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 1084,
+    "w": 2000
+}

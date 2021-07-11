@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "22.727",
+    "description": "",
+    "h": 2208,
+    "hash": null,
+    "id": 305127,
+    "imaging_cameras": [
+        "QSI 583wsg"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800442/"
+    ],
+    "orientation": "93.515",
+    "pixscale": "0.551",
+    "published": "2017-07-29T07:21:31.026938",
+    "ra": "299.896",
+    "radius": "0.270",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305127/",
+    "revisions": [],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M27 Dumbell v2",
+    "updated": "2021-03-28T07:38:28.163783",
+    "uploaded": "2017-07-29T08:03:37.860283",
+    "url_duckduckgo": "https://www.astrobin.com/305127/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305127/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305127/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305127/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305127/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305127/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305127/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6737/2017/242c7120-00ba-4892-ad8e-29e8e1e0fd59.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/242c7120-00ba-4892-ad8e-29e8e1e0fd59-1501311943.jpg",
+    "url_thumb": "https://www.astrobin.com/305127/0/rawthumb/thumb/",
+    "user": "christian.hennes",
+    "views": 319,
+    "w": 2758
+}

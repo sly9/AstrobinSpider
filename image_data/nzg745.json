@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "53.085",
+    "description": "Image acquisition 2018-2020",
+    "h": 2404,
+    "hash": "nzg745",
+    "id": 461228,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Deep Sky Instruments RC10C"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803499/"
+    ],
+    "orientation": "176.186",
+    "pixscale": "0.594",
+    "published": "2020-03-02T13:21:13.127666",
+    "ra": "173.300",
+    "radius": "0.324",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/461228/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "NGC 3718",
+    "updated": "2021-06-19T18:54:07.940852",
+    "uploaded": "2020-03-02T13:00:25.542853",
+    "url_duckduckgo": "https://www.astrobin.com/nzg745/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nzg745/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nzg745/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nzg745/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nzg745/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nzg745/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nzg745/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7819/2020/6a5804d7-ff38-48e3-8dcf-f5785c8fbf62.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7819/2020/6a5804d7-ff38-48e3-8dcf-f5785c8fbf62-1583154622.jpg",
+    "url_thumb": "https://www.astrobin.com/nzg745/0/rawthumb/thumb/",
+    "user": "-mhj-",
+    "views": 93,
+    "w": 3103
+}

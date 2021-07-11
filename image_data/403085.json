@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "28.376",
+    "description": "Data acquired 2019 Jan - Apr",
+    "h": 1452,
+    "hash": null,
+    "id": 403085,
+    "imaging_cameras": [
+        "Starlight Xpress SX H-694"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "https://www.facebook.com/starrynightimaging/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808992/"
+    ],
+    "orientation": "267.525",
+    "pixscale": "0.670",
+    "published": "2019-04-28T08:47:36.535986",
+    "ra": "205.556",
+    "radius": "0.317",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/403085/",
+    "revisions": [],
+    "subjects": [
+        "M 3",
+        "NGC 5272"
+    ],
+    "title": "M3",
+    "updated": "2021-04-24T19:00:16.004200",
+    "uploaded": "2019-04-28T09:47:40.789135",
+    "url_duckduckgo": "https://www.astrobin.com/403085/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403085/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403085/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403085/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403085/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403085/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403085/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c5bcd85b-4bac-4d96-bd6d-072526fc3360.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/c5bcd85b-4bac-4d96-bd6d-072526fc3360-1556445137.png",
+    "url_thumb": "https://www.astrobin.com/403085/0/rawthumb/thumb/",
+    "user": "monsterl",
+    "views": 153,
+    "w": 1824
+}

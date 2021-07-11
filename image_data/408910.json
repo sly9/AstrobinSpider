@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "-19.326",
+    "description": "",
+    "h": 1989,
+    "hash": null,
+    "id": 408910,
+    "imaging_cameras": [
+        "QHYCCD QHY 16200A"
+    ],
+    "imaging_telescopes": [
+        "SHARPSTAR 150F2.8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810054/"
+    ],
+    "orientation": "151.823",
+    "pixscale": "5.228",
+    "published": "2019-06-05T14:13:35.044401",
+    "ra": "243.807",
+    "radius": "2.326",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408910/",
+    "revisions": [
+        "/api/v1/imagerevision/181781/",
+        "/api/v1/imagerevision/181978/"
+    ],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star νSco"
+    ],
+    "title": "Blue horsehead nebula",
+    "updated": "2021-03-17T10:42:43.683599",
+    "uploaded": "2019-06-05T15:13:35.200911",
+    "url_duckduckgo": "https://www.astrobin.com/408910/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408910/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408910/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408910/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408910/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408910/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408910/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0d952a04-c10b-499c-910e-ea5b2f368513.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0d952a04-c10b-499c-910e-ea5b2f368513-1559747942.jpg",
+    "url_thumb": "https://www.astrobin.com/408910/0/rawthumb/thumb/",
+    "user": "gxlysg",
+    "views": 713,
+    "w": 2511
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.012",
+    "description": "",
+    "h": 1413,
+    "hash": null,
+    "id": 360203,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation ML 16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 203,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "70.078",
+    "pixscale": "2.325",
+    "published": "2018-08-08T01:25:53.656460",
+    "ra": "290.588",
+    "radius": "1.818",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/360203/",
+    "revisions": [
+        "/api/v1/imagerevision/152796/",
+        "/api/v1/imagerevision/152799/",
+        "/api/v1/imagerevision/152800/"
+    ],
+    "subjects": [
+        "The star 28Aql",
+        "The star 31Aql",
+        "The star ω1Aql"
+    ],
+    "title": "LDN 673 - Deep Sky West Remote Observatory",
+    "updated": "2021-05-10T12:09:59.674400",
+    "uploaded": "2018-08-08T02:10:31.403420",
+    "url_duckduckgo": "https://www.astrobin.com/360203/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/360203/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/360203/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/360203/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/360203/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/360203/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/360203/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2018/1778c6a7-bb51-4a69-a69b-ba9723fae653.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1778c6a7-bb51-4a69-a69b-ba9723fae653-1533694978.jpg",
+    "url_thumb": "https://www.astrobin.com/360203/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 595,
+    "w": 1824
+}

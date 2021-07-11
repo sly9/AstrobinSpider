@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.591",
+    "description": "I am starting image processing from our remote setup. We still have to tune but this is nice to share our first work",
+    "h": 1112,
+    "hash": null,
+    "id": 394923,
+    "imaging_cameras": [
+        "SBIG STT-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810362/"
+    ],
+    "orientation": "90.879",
+    "pixscale": "0.797",
+    "published": "2019-03-10T09:01:39.873234",
+    "ra": "170.079",
+    "radius": "0.198",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/394923/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "NGC3628",
+    "updated": "2021-03-17T11:48:23.767347",
+    "uploaded": "2019-03-10T08:51:19.672678",
+    "url_duckduckgo": "https://www.astrobin.com/394923/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394923/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394923/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394923/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394923/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394923/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394923/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6737/2020/efc2aca8-6849-424e-b4da-3956da3662ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6737/2020/efc2aca8-6849-424e-b4da-3956da3662ea-1582622963.jpg",
+    "url_thumb": "https://www.astrobin.com/394923/0/rawthumb/thumb/",
+    "user": "christian.hennes",
+    "views": 271,
+    "w": 1398
+}

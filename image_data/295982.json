@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "This is my first try at a prominence animation. 104 frames taken between 9:20am and 11:10am EDT. Batch stacked with AS2, aligned with DVS, processed in PI, and converted to video in PIPP. Pretty large difference in sharpness between the frames, probably trying to get too much magnification, so I tried reducing the image size at the end. Other than using a faster framerate or having better luck, not sure what else I could do. But I'll keep trying.",
+    "h": 470,
+    "hash": null,
+    "id": 295982,
+    "imaging_cameras": [
+        "ZWO ASI120MM"
+    ],
+    "imaging_telescopes": [
+        "Lunt LS100THa"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802659/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-05-18T07:08:00.808964",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295982/",
+    "revisions": [
+        "/api/v1/imagerevision/116650/"
+    ],
+    "subjects": [],
+    "title": "Prominence Animation - 2017-05-16",
+    "updated": "2021-03-17T20:54:52.541813",
+    "uploaded": "2017-05-18T07:48:28.442067",
+    "url_duckduckgo": "https://www.astrobin.com/295982/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295982/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295982/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295982/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295982/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295982/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295982/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/295982/0/rawthumb/thumb/",
+    "user": "legova",
+    "views": 84,
+    "w": 600
+}

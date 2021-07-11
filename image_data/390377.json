@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "60.385",
+    "description": "Imaged over 7 nights from Oct 27 2018 to Jan 8 2019 with 3nm narrowband filters (Ha, Oiii & Sii)\r\n\r\nCalibration and mostly processed in PixInsight. I used the tone mapping method, this involves removing the stars from each filter stack (this was done in Photoshop), further processing in PixInsight and back into Photoshop for combining the images. I used just the stars from the Ha stack.",
+    "h": 2904,
+    "hash": null,
+    "id": 390377,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "357.347",
+    "pixscale": "1.437",
+    "published": "2019-02-12T11:20:23.817629",
+    "ra": "43.244",
+    "radius": "0.899",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/390377/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "IC1848 (Soul Nebula)",
+    "updated": "2021-03-17T12:08:46.014808",
+    "uploaded": "2019-02-11T19:40:21.178515",
+    "url_duckduckgo": "https://www.astrobin.com/390377/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390377/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390377/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390377/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390377/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390377/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390377/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5290/2019/98834b78-1ada-4fd1-a779-b9ee666c62cc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5290/2019/98834b78-1ada-4fd1-a779-b9ee666c62cc-1582449871.jpg",
+    "url_thumb": "https://www.astrobin.com/390377/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 472,
+    "w": 3441
+}

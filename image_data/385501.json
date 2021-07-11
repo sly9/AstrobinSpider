@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "TRAVELLER",
+    "dec": "69.066",
+    "description": "A close up view of the beautiful Bode's Galaxy, M81 and its satellite, Holmberg IX. This reprocessed LHaRGB image is based on the Dec. 2017 - Jan. 2018 wider field data set acquired with Stellarvue SVA130T APO triplet @f7 and Atik383L+ camera on the Orion HDX-110 EQ-G mount. The exposure information is summarized below:\r\n\r\nHa: 23x1200s\r\nL: 51x600s\r\nR: 37x600s\r\nG: 19x600s\r\nB: 30x600s\r\nTotal exposure: 30.5 hrs \r\n\r\nThe original wider field image including starburst galaxy M82 can be found at: https://www.astrobin.com/336839/D",
+    "h": 1302,
+    "hash": null,
+    "id": 385501,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA130T-FT3"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "269.639",
+    "pixscale": "1.227",
+    "published": "2019-01-12T05:44:53.477270",
+    "ra": "148.920",
+    "radius": "0.359",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/385501/",
+    "revisions": [],
+    "subjects": [
+        "Bode's galaxy",
+        "Bode's nebulae",
+        "M 81",
+        "M81",
+        "NGC 3031"
+    ],
+    "title": "M81 and Holmberg IX",
+    "updated": "2021-06-02T22:12:20.195497",
+    "uploaded": "2019-01-12T05:17:37.077664",
+    "url_duckduckgo": "https://www.astrobin.com/385501/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385501/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385501/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385501/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385501/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385501/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385501/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/c7859c1f-43aa-468e-858e-994f7dc3b46f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/c7859c1f-43aa-468e-858e-994f7dc3b46f-1582632472.jpg",
+    "url_thumb": "https://www.astrobin.com/385501/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 915,
+    "w": 1654
+}

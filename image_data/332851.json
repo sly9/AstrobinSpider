@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "47.207",
+    "description": "",
+    "h": 2520,
+    "hash": null,
+    "id": 332851,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM-C"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 300/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805645/"
+    ],
+    "orientation": "2.183",
+    "pixscale": "0.655",
+    "published": "2018-02-09T15:11:56.830810",
+    "ra": "202.462",
+    "radius": "0.495",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332851/",
+    "revisions": [
+        "/api/v1/imagerevision/136608/",
+        "/api/v1/imagerevision/136637/",
+        "/api/v1/imagerevision/136932/",
+        "/api/v1/imagerevision/137098/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M 51 Whirlpool Galaxy",
+    "updated": "2021-03-17T16:34:35.789322",
+    "uploaded": "2018-02-09T15:11:57.368798",
+    "url_duckduckgo": "https://www.astrobin.com/332851/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332851/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332851/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332851/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332851/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332851/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332851/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18217/2018/b02131b0-28d5-4865-9666-a9fcb9486fa3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b02131b0-28d5-4865-9666-a9fcb9486fa3-1518189357.png",
+    "url_thumb": "https://www.astrobin.com/332851/0/rawthumb/thumb/",
+    "user": "Algorab",
+    "views": 689,
+    "w": 1824
+}

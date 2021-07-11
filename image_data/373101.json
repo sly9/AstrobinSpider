@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "58.019",
+    "description": "I find this image quite eerie in its semblance to a pointy-hat wearing wizard reclining with open arms drawing you into his enchanted embrace . . . [shivers sinister intent]. Located in the constellation of Cepheus this nebula has quite strong signals in each of the three NB channels and is a joy to process.\r\n\r\nI integrated data from a home observatory captured Wizard to boost the overall integration however the overwheliming bulk comes from e-Eye and the Tak FSQ106.  I removed stars using a star mask and morphological transformation and after some processing combined the deconvolved Ha channel as a luminance.  By leaving some remnant green within the colour data I find that it can enrich the Hubble Palette and bring some robust orange to the golden yellows.  It may not be to everyone's taste but I am favouring this palette now.\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 2423,
+    "hash": null,
+    "id": 373101,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7",
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 187,
+    "link": "https://barrywilson.smugmug.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "4.715",
+    "pixscale": "1.472",
+    "published": "2018-10-21T16:14:48.557147",
+    "ra": "341.772",
+    "radius": "0.851",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/373101/",
+    "revisions": [
+        "/api/v1/imagerevision/160533/"
+    ],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "The Wizard Nebula NGC7380",
+    "updated": "2021-03-17T13:30:13.881279",
+    "uploaded": "2018-10-21T17:14:49.240210",
+    "url_duckduckgo": "https://www.astrobin.com/373101/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/373101/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/373101/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/373101/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/373101/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/373101/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/373101/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2018/4caccafd-20a6-4d87-bd93-cf02ccd421b0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4caccafd-20a6-4d87-bd93-cf02ccd421b0-1540142739.jpg",
+    "url_thumb": "https://www.astrobin.com/373101/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 429,
+    "w": 1824
+}

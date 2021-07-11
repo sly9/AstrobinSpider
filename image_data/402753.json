@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 29,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.196",
+    "description": "I've been adding STX 16803 data to my old STT 8300 data on M51.  I used CCDStack to register the two different image scale data.  I first upscaled the .73 a-s data to .45 a-s which meant an additional bi-cubic resample.  I think that probably lost some sharpness.",
+    "h": 1929,
+    "hash": null,
+    "id": 402753,
+    "imaging_cameras": [
+        "SBIG STX 16803",
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 258,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "267.207",
+    "pixscale": "0.437",
+    "published": "2019-04-26T16:05:33.572990",
+    "ra": "202.461",
+    "radius": "0.206",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/402753/",
+    "revisions": [],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 HaLRGB",
+    "updated": "2021-04-07T14:17:56.644594",
+    "uploaded": "2019-04-26T17:05:33.690143",
+    "url_duckduckgo": "https://www.astrobin.com/402753/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402753/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402753/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402753/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402753/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402753/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402753/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/ffed944b-4879-49cb-971f-c26b8bb5a29f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ffed944b-4879-49cb-971f-c26b8bb5a29f-1556300428.jpg",
+    "url_thumb": "https://www.astrobin.com/402753/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1254,
+    "w": 2496
+}

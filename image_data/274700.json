@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 17,
+    "data_source": "UNSET",
+    "dec": "22.016",
+    "description": "I'm fascinated with M1, the Crab nebula and the neutron star at it's core.  The Crab is expanding at a rate that is easily measurable by any amateur with the right equipment and some patience.  As I recall, the neutron star at its core has a density that's about 1000 greater than steel and it spins at a rate of 30 times per second!  The other thing that is interesting about the Crab is that the various elements spread throughout space by the nova explosion that created the nebula are pretty well separated and easy to distinguish and that's what I wanted to show with this image.\r\n \r\nOver the years, I've tried maybe 4 times to get a decent image of the Crab Nebula and never succeeded.  Bad seeing, poor guiding, and a host of other things have foiled all of my previous efforts.  I was pretty sure that I finally had my scope mostly dialed back in (after a major rebuild) and we finally had our first clear night since early in September.  The wind was only around 4 kts, the seeing was mediocre at best, and the temperature-dewpoint spread hovered right at one degree so it looked barely good enough to have another go at the Crab.  I kept setting things up wrong (like forgetting to plug in the dew shield,) so I kept having to restart the sequence but I eventually got everything running.  The wind and the seeing limited the guiding to only about 0.7 arc-seconds rms, which is about double what I normally get.  I set up for a full NB run but I started a bit late so I only was able to snag 5.3 hours of data.  The scope ran perfectly all night and I found it fully parked and properly shut down in the morning.  I should have taken a photo--it was totally covered in frost and it looked frozen solid.  Even the primary mirror was completely frosted over so some of my subs may have suffered a bit from frosty optics.  I tried to get more data last night but it was a circus with winds gusting to 14 kts so I had to give it up after a couple of hours and drive home frustrated under a starry sky.\r\n \r\nThe subs I got came out only barely acceptable with a mean FWHM of about 2.6 arc-sec but I processed the image anyway.   Here I tried something a bit unconventional.  I assigned Ha to red, OIII to blue, and SII to green.  I like to think of Ha as red, OIII as blue and visualizing sulfur as green works for me.  This color palette does a pretty good job of showing how the various elements are distributed within the nebula.   I personally don't find the color palette to be particularly attractive but I figure that I'll see what you folks think...so don't hold back.  Finally, my feeling is that the C14 should be able to pick up a lot more detail and this result is a bit noisier than I'd like so it may take some more work to get it where I want it.  Unfortunately, the weather may put a hold on this project until next year.  So I'll set this image free even though it's not as well \"developed\" as I'd like.   As always CC is welcome.\r\n\r\nJohn\r\n\r\nPS  The 'B' Version has the colors amped up just a tick for those of you who like brighter colors.  I think that I like the first version a bit better so I marked it as \"final.\"\r\n\r\nPPS  I recently tested this scope on a PhaseCam (a state of the art, high resolution digital interferometer) and discovered the the secondary alignment wasn't very good.  The Strehl ratio was only 0.61.  So for those of you who may stress about not having a telescope with a Strehl of at least 0.95, I say, \"Let it go.\"  I did realign the secondary with the interferometer (which took the Strehl up to 0.85.) so I'm now waiting for some clear skies to try again.  My guess is that with some good seeing, the improvement should be noticeable; but don't hold your breath.  It could be a while!",
+    "h": 1825,
+    "hash": null,
+    "id": 274700,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808024/"
+    ],
+    "orientation": "2.573",
+    "pixscale": "0.478",
+    "published": "2016-12-04T05:48:31.679825",
+    "ra": "83.626",
+    "radius": "0.211",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/274700/",
+    "revisions": [
+        "/api/v1/imagerevision/105322/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "M1 as Something Different:  A Narrow Band Crab",
+    "updated": "2021-03-18T16:21:38.875147",
+    "uploaded": "2016-12-04T05:06:35.736827",
+    "url_duckduckgo": "https://www.astrobin.com/274700/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/274700/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/274700/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/274700/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/274700/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/274700/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/274700/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7598/2016/711aea1d-7c17-471e-98cb-37e03e66b497.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/711aea1d-7c17-471e-98cb-37e03e66b497-1480829075.jpg",
+    "url_thumb": "https://www.astrobin.com/274700/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1041,
+    "w": 1824
+}

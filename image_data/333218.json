@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "34.415",
+    "description": "",
+    "h": 3230,
+    "hash": null,
+    "id": 333218,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "Nikon D810A"
+    ],
+    "imaging_telescopes": [
+        "Kenko SE200N",
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806998/"
+    ],
+    "orientation": "0.331",
+    "pixscale": "0.976",
+    "published": "2018-02-11T20:45:03.141956",
+    "ra": "81.953",
+    "radius": "0.559",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333218/",
+    "revisions": [
+        "/api/v1/imagerevision/136860/"
+    ],
+    "subjects": [
+        "IC 417",
+        "The star φAur"
+    ],
+    "title": "IC 417",
+    "updated": "2021-03-17T16:33:09.874628",
+    "uploaded": "2018-02-11T20:45:03.497237",
+    "url_duckduckgo": "https://www.astrobin.com/333218/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333218/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333218/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333218/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333218/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333218/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333218/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/f69c81ab-344e-4a45-839d-914232fdfa60.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/f69c81ab-344e-4a45-839d-914232fdfa60-1582598702.jpg",
+    "url_thumb": "https://www.astrobin.com/333218/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 471,
+    "w": 2560
+}

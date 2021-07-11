@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "60.663",
+    "description": "In the northeast region of the Soul Nebula (Sh2-199) are a collection of bright rimmed globules that are catalogued as IC 1871. The shape of this region is sculpted by stellar winds and UV radiation from nearby young, hot stars inside the Soul Nebula. About 25 light-years across, the glowing rim of the IC 1871 is gas and dust that has become compressed, denser, and brighter than the surrounding material.\r\n\r\nThese are data that I collected about eight months ago and reprocessed using a master luminance comprised of Ha, OIII, and SII data that have an FWHM less than 1.75. It seems like the master luminance approach really tighten up the image. I cropped the image to highlight IC 1871.  I also include the full image as Version A.",
+    "h": 1949,
+    "hash": null,
+    "id": 411948,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "356.505",
+    "pixscale": "1.413",
+    "published": "2019-06-26T21:22:06.477797",
+    "ra": "44.527",
+    "radius": "0.690",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/411948/",
+    "revisions": [
+        "/api/v1/imagerevision/216626/",
+        "/api/v1/imagerevision/216756/",
+        "/api/v1/imagerevision/216759/"
+    ],
+    "subjects": [
+        "IC 1871",
+        "Sh2-199"
+    ],
+    "title": "Rift in the Soul  (Sh2-199 and IC 1871 )",
+    "updated": "2021-07-07T00:24:05.076156",
+    "uploaded": "2019-06-26T22:22:06.764205",
+    "url_duckduckgo": "https://www.astrobin.com/411948/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/411948/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/411948/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/411948/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/411948/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/411948/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/411948/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2019/61350868-2de3-4819-b047-8becca0e7aeb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/61350868-2de3-4819-b047-8becca0e7aeb-1561588483.jpg",
+    "url_thumb": "https://www.astrobin.com/411948/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 353,
+    "w": 2923
+}

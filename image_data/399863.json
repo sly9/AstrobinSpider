@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "42.034",
+    "description": "Version LRGB  with Halpha : I reworked from the LRGB and remix the Halpha , a lot of work actually to find the right balance of everything. I hope I deliver something  you like !\r\n\r\n\r\nAnother very nice and large galaxy of the seaon !\r\n\r\nSame process as the last images : for the Light , I selected only 29 subs of the best Fwhm subs (out of 80) and combined them with all the subs to get sharper details and smaller stars\r\nI had also improved my star and halo process\r\n\r\nA small Galaxy to the upper right is no detected by the astrometry : UGC8313, is part of the galaxy group of M51 and M63 (wiki)\r\n\r\n5 nights were necessary to get the subs: 23/24, 25 27/28, 29, 31 of march\r\n\r\nRed 30 subs@180s -20°C gain zero\r\nBlue 30 subs@180s -20°C gain zero\r\nGreen 40 subs@180s -20°C gain zero\r\n\r\nLight 80 subs@180s -20°C, gain zero\r\nHalpha 97subs@300s -20°C, gain 139",
+    "h": 2774,
+    "hash": null,
+    "id": 399863,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA 250/1000 F4 LACERTA NEWTON"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "2.749",
+    "pixscale": "0.784",
+    "published": "2019-04-08T06:06:36.534121",
+    "ra": "198.921",
+    "radius": "0.427",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/399863/",
+    "revisions": [
+        "/api/v1/imagerevision/175979/",
+        "/api/v1/imagerevision/175980/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 Halpha and LRGB version -the Sunflower galaxy",
+    "updated": "2021-04-10T11:33:34.651403",
+    "uploaded": "2019-04-07T22:01:02.956975",
+    "url_duckduckgo": "https://www.astrobin.com/399863/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/399863/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/399863/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/399863/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/399863/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/399863/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/399863/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/fd19582e-ef45-4f47-a734-eeef90a5de74.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/fd19582e-ef45-4f47-a734-eeef90a5de74-1582529389.jpg",
+    "url_thumb": "https://www.astrobin.com/399863/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 547,
+    "w": 2774
+}

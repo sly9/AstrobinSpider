@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "60.153",
+    "description": "This is a LRGB image of NGC 6946, the Fireworks Galaxy.  It was given this name due to the unusual number of supernovae observed in this galaxy over many years.  This year it did not disappoint as SN 2017eaw has been observed.  This is a prominent SN, and I have annotated it in a mosaic compilation version of this image.  The galaxy is approximately 22 mly distant, located on the border between Cepheus and Cygnus, with apparent magnitude 9.6 and apparent size 11.5 x 9.5 arcmin.\r\n\r\nI am impressed with the relatively bright very red (more orange in my image) star, which I have labeled as 3UCAC301-140830 with magnitude 9.53.  Stellarium lists it as mag 10.00 with color index 3.50.  Cartes du Ciel lists it as UCAC4-751-062996 at mag 10.51 and color index 5.16.  Oddly it was not labeled from the Tycho catalog in my annotation.  To my knowledge this is the reddest star I've ever imaged in color.\r\n\r\n<b>Acquisition Details - Sequence Generator Pro</b>\r\n\r\nNights of 2017-07-10 (L), -11 through -14 (LRGB)\r\nFederal Way, WA - Ben's Backyard - SW of Septic Tank\r\nL: 30 x 600s at 1x1 binning\r\nR: 15 x 600s at 1x1 binning\r\nG: 14 x 600s at 1x1 binning\r\nB: 12 x 600s at 1x1 binning\r\nFirst use of Optec FastFocus Secondary Mirror Focusing System\r\n\r\n<b>Processing Details - PixInsight</b>\r\n\r\n<b>L, R, G, B</b>\r\nImageCalibration with BIAS, DARK, FLAT\r\nSubframeSelector with weighting of SNRWeight, Eccentricity, FWHM\r\nStarAlignment registration\r\nImageIntegration\r\nDrizzleIntegration\r\nDynamicCrop and VerticalMirror\r\nDynamicBackgroundExtraction - coarse and fine stages\r\n\r\n<b>Synthetic L</b>\r\nImageIntegration of L, R, B, G for Synthetic L\r\nImageSolver for later plate solving\r\nDeconvolution\r\nMultiscaleLinearTransform\r\nStretching with HistogramTransformation - matching RGB stretching in multiple stages\r\nHDRMultiscaleTransform\r\nLinearStretch - gentle black color adjustment\r\n\r\n<b>RGB</b>\r\nChannelCombination of R, G, B\r\nDynamicBackgroundExtraction\r\nLinear Stretch - gentle black color adjustment and matching of L\r\nStretching with HistogramTransformation - matching L stretching in multiple stages\r\nHDRMultiscaleTransform - matching L\r\nCurvesTransformation - for brightening color contrast\r\nLinear Stretch - another gentle tweak\r\nChannelExtraction - of L, a, b - L was discarded\r\n\r\n<b>LRGB</b>\r\nChannelCombination of Synthetic L and a and b from RGB\r\nSCNR - mild green neutralization at 25%\r\nCurvesTransformation for final LRGB image\r\n\r\n<b>Additional Processing</b>\r\nInverted L image with reverse stretching to flatten the image out a little bit\r\nAnnotation of final L image\r\nCreation of Mosaic image with SN circles (done in ImageJ)\r\n\r\n<b>Additional Notes</b>\r\nI am still dealing with alignment issues.  You may note that the brighter stars show an elongation.  I am still trying to diagnose the issue but have my suspicions this may be due to problems with the focal reducer.  The other possibility is non-orthogonality between baffle tube and primary.  I've been reluctant to dig into this too deeply, particularly as I wish to be imaging at this time.\r\n\r\nOverall I'm pleased with the results despite the alignment issue.  I will revisit the ColorCalibration step again.  I attempted to use eXcalibrator but ran into issue with it not reading my FIT files.  I am still investigation this problem.  I also note that the HDRMultiscaleTransform produced interesting results and presented the galaxy with different contrast than I'm used to.  I may tweak that a little bit because when all is said and done, I feel some detail got washed out with the brightness and the coloring.  This is one time where it actually looks better when you blow it up a bit.\r\n\r\n\r\n\r\n",
+    "h": 1365,
+    "hash": null,
+    "id": 303629,
+    "imaging_cameras": [
+        "QSI 683ws-8"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" EdgeHD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "179.901",
+    "pixscale": "0.281",
+    "published": "2017-07-17T05:29:25.601815",
+    "ra": "308.720",
+    "radius": "0.319",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303629/",
+    "revisions": [
+        "/api/v1/imagerevision/120650/",
+        "/api/v1/imagerevision/120651/",
+        "/api/v1/imagerevision/120652/",
+        "/api/v1/imagerevision/120653/"
+    ],
+    "subjects": [
+        "NGC 6946"
+    ],
+    "title": "NGC 6946 - Fireworks Galaxy - SN 2017eaw",
+    "updated": "2021-04-27T09:09:38.443087",
+    "uploaded": "2017-07-17T03:03:01.934535",
+    "url_duckduckgo": "https://www.astrobin.com/303629/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303629/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303629/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303629/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303629/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303629/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303629/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/a33ac4a9-5fa0-42e0-ad68-96bb3bc60507.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a33ac4a9-5fa0-42e0-ad68-96bb3bc60507-1500257516.jpg",
+    "url_thumb": "https://www.astrobin.com/303629/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 514,
+    "w": 1824
+}

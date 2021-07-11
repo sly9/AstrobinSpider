@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 73,
+    "data_source": "BACKYARD",
+    "dec": "0.059",
+    "description": "",
+    "h": 3568,
+    "hash": "m3cpy1",
+    "id": 465607,
+    "imaging_cameras": [
+        "ZWO ASI 183MC Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "Celestron C9.25 SCT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "356.001",
+    "pixscale": "0.920",
+    "published": "2020-03-17T00:11:55.872399",
+    "ra": "86.687",
+    "radius": "0.828",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/465607/",
+    "revisions": [
+        "/api/v1/imagerevision/219463/",
+        "/api/v1/imagerevision/235897/"
+    ],
+    "subjects": [
+        "M 78",
+        "M78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071",
+        "NGC2064",
+        "NGC2067",
+        "NGC2071",
+        "VdB59",
+        "VdB60"
+    ],
+    "title": "M78",
+    "updated": "2021-03-17T04:14:05.326830",
+    "uploaded": "2020-03-15T20:50:37.340266",
+    "url_duckduckgo": "https://www.astrobin.com/m3cpy1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m3cpy1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m3cpy1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m3cpy1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m3cpy1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m3cpy1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m3cpy1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2020/ba097a62-b191-49bc-9569-c192f0c41b91.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2020/ba097a62-b191-49bc-9569-c192f0c41b91-1584306717.png",
+    "url_thumb": "https://www.astrobin.com/m3cpy1/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 463,
+    "w": 5408
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-13.220",
+    "description": "",
+    "h": 2208,
+    "hash": null,
+    "id": 340295,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D",
+        "Kenko SE200N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/",
+        "/api/v1/location/2807014/"
+    ],
+    "orientation": "93.114",
+    "pixscale": "1.104",
+    "published": "2018-04-03T13:49:49.598015",
+    "ra": "109.653",
+    "radius": "0.572",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340295/",
+    "revisions": [],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "NGC 2359 - Thor's helmet",
+    "updated": "2021-07-08T08:57:25.124930",
+    "uploaded": "2018-04-03T14:49:50.964539",
+    "url_duckduckgo": "https://www.astrobin.com/340295/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340295/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340295/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340295/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340295/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340295/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340295/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/f882609f-9cfc-4bda-acd8-1935087b710f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/f882609f-9cfc-4bda-acd8-1935087b710f-1582598649.jpg",
+    "url_thumb": "https://www.astrobin.com/340295/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 715,
+    "w": 3006
+}

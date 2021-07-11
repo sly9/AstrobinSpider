@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Definitely had plans to get more data on this but the cloud gods were not in my favor. Now it is setting into the light pollution too early. Figured I'd post what I have so far and will collect more at the end of this year!\r\n\r\nIt's a combination of 2 data sets.\r\n\r\n22x300\" with QHY247C and AT106LE taken in some poor conditions in a Bortle 3 in 2017 (a prescribed burn fire lighting up the sky, then fog! -  <a href=\"https://www.astrobin.com/326851\">this rather poor image</a>)\r\n\r\n95x60\" with the EdgeHD 9.25+Hyperstar and QHY168C in my Bortle 5 in 2018.",
+    "h": 2456,
+    "hash": null,
+    "id": 389235,
+    "imaging_cameras": [
+        "QHYCCD QHY247C",
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 9.25\"",
+        "Astro-Tech AT106LE"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 183,
+    "link": "http://cosmic-colors.com/nebulae/ngc-1333-reflection-nebula-in-perseus/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809002/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-02-04T19:04:30.465779",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/389235/",
+    "revisions": [
+        "/api/v1/imagerevision/169468/"
+    ],
+    "subjects": [],
+    "title": "NGC 1333 Reflection Nebula in Perseus",
+    "updated": "2021-03-17T12:14:17.245078",
+    "uploaded": "2019-02-04T06:19:11.539270",
+    "url_duckduckgo": "https://www.astrobin.com/389235/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/389235/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/389235/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/389235/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/389235/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/389235/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/389235/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/389235/0/rawthumb/thumb/",
+    "user": "jtrezzo",
+    "views": 1650,
+    "w": 3816
+}

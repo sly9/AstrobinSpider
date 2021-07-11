@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 35,
+    "data_source": "BACKYARD",
+    "dec": "-13.229",
+    "description": "While the weather is poor, I revisited my Thor's Helmet data.\r\n\r\nAstronomik Ha: 114x240\" (gain: 139.00) -20C bin 1x1   (Red Channel)\r\nAstronomik OIII: 88x240\" (gain: 75.00) -20C bin 1x1  (Green and Blue Channel)\r\n\r\nIntegration: 13.5 hours",
+    "h": 2006,
+    "hash": null,
+    "id": 410997,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ES127mm f/7.5 ED APO triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 219,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "87.767",
+    "pixscale": "1.265",
+    "published": "2019-06-19T12:44:57.789007",
+    "ra": "109.673",
+    "radius": "0.609",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410997/",
+    "revisions": [],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet in Ha and OIII",
+    "updated": "2021-03-17T10:32:26.319581",
+    "uploaded": "2019-06-19T13:30:42.796655",
+    "url_duckduckgo": "https://www.astrobin.com/410997/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410997/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410997/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410997/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410997/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410997/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410997/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22932/2019/76fef4fe-34b9-4da5-b21b-9ec8f7fe8617.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22932/2019/76fef4fe-34b9-4da5-b21b-9ec8f7fe8617-1582569147.png",
+    "url_thumb": "https://www.astrobin.com/410997/0/rawthumb/thumb/",
+    "user": "YobSnob",
+    "views": 883,
+    "w": 2825
+}

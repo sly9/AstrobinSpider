@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "22.020",
+    "description": "",
+    "h": 306,
+    "hash": null,
+    "id": 323483,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "4.208",
+    "pixscale": "1.663",
+    "published": "2017-11-26T02:11:48.856575",
+    "ra": "83.633",
+    "radius": "0.098",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323483/",
+    "revisions": [
+        "/api/v1/imagerevision/131120/",
+        "/api/v1/imagerevision/231309/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "The Crab M1",
+    "updated": "2021-03-17T19:04:47.597408",
+    "uploaded": "2017-11-26T02:11:49.178679",
+    "url_duckduckgo": "https://www.astrobin.com/323483/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323483/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323483/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323483/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323483/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323483/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323483/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11713/2017/95247d92-1057-416a-aed1-a443d9da39eb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/95247d92-1057-416a-aed1-a443d9da39eb-1511662420.jpg",
+    "url_thumb": "https://www.astrobin.com/323483/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 278,
+    "w": 291
+}

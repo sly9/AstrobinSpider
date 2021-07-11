@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 26,
+    "data_source": "TRAVELLER",
+    "dec": "47.196",
+    "description": "One of the all-time favorites, M51 and its interacting companion, NGC5195. The data for this LHaRGB image was accumulated over a dozen nights in April-May 2019 with my mobile setup, Stellarvue APO SVA130T@f7 and ASI183MM Pro camera on the Orion HDX-110 EQ-G mount.\r\n\r\nThe image is a combination of a narrowband (Ha) and LRGB data. The synthetic luminance was produced using luminance and HaRGB data. The LRGB data was captured with camera gain 0, while the narrowband Ha exposures were taken at gain 110.\r\n\r\nL:   45x600s (Gain 0, bin 1x1)\r\nHa: 24x900s (Gain 110, bin 1x1)\r\nR:   26x600s (Gain 0, bin 1x1)\r\nG:  18x600s (Gain 0, bin 1x1)\r\nB:   24x600s (Gain 0, bin 1x1)\r\n\r\nTotal exposure time: 24.8 hours",
+    "h": 2972,
+    "hash": null,
+    "id": 409086,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA130T-FT3"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 190,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "0.978",
+    "pixscale": "0.545",
+    "published": "2019-06-06T16:44:46.515057",
+    "ra": "202.469",
+    "radius": "0.386",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409086/",
+    "revisions": [
+        "/api/v1/imagerevision/181837/",
+        "/api/v1/imagerevision/181838/",
+        "/api/v1/imagerevision/215696/",
+        "/api/v1/imagerevision/215698/"
+    ],
+    "subjects": [
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 LHaRGB",
+    "updated": "2021-03-17T10:41:44.940762",
+    "uploaded": "2019-06-06T17:04:34.354118",
+    "url_duckduckgo": "https://www.astrobin.com/409086/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409086/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409086/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409086/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409086/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409086/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409086/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/aa6d3c46-16f7-406c-8d38-a7f4b5b8118c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/aa6d3c46-16f7-406c-8d38-a7f4b5b8118c-1582632460.jpg",
+    "url_thumb": "https://www.astrobin.com/409086/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 1095,
+    "w": 4140
+}

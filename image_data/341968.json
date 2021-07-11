@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 40,
+    "data_source": "BACKYARD",
+    "dec": "22.493",
+    "description": "Here is my narrowband image of the Jellyfish Nebula with RGB stars.\r\n\r\nMy aim with this image was to show more of the OIII component and to that end more than half of the integration time was devoted to OIII capture.\r\n\r\nThe NB images were processed using the tone mapping technique where all the stars are removed, the data is then processed to enhance detail etc and the stars are added back from the RGB data. All calibration and most of the processing was done in PixInsight and star removal and final assembly of the image is performed in Photoshop.\r\n\r\nThe colours are mapped as follows:\r\n\r\nHa = Red\r\nOIII = Blue\r\nSII = Yellow\r\n\r\nUsing these colours you can clearly see that the redder nebula in the top left corner (part of the IC444 nebula) is quite different from the more orange colour of the SN remnant. The orange coming from the mix of Ha and SII, there being very little SII in the IC444 nebula visible in this image.\r\n\r\nAll the NB filters are Astrodon 3nm filters.\r\n\r\nI also have a <a HREF=\"https://www.astrobin.com/340065/\">wider field</a> of this nebula in Ha",
+    "h": 2778,
+    "hash": null,
+    "id": 341968,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 252,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "0.054",
+    "pixscale": "1.437",
+    "published": "2018-04-16T17:44:21.475597",
+    "ra": "94.105",
+    "radius": "0.863",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341968/",
+    "revisions": [],
+    "subjects": [
+        "IC 443",
+        "The star Propus (ηGem)"
+    ],
+    "title": "IC 443 Supernova Remnant (Jellyfish Nebula) in Gemini",
+    "updated": "2021-06-03T16:58:46.567282",
+    "uploaded": "2018-04-16T18:44:23.854663",
+    "url_duckduckgo": "https://www.astrobin.com/341968/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341968/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341968/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341968/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341968/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341968/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341968/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3e45dfcd-4f92-43ba-947c-8306dab9054d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3e45dfcd-4f92-43ba-947c-8306dab9054d-1523900954.jpg",
+    "url_thumb": "https://www.astrobin.com/341968/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 1826,
+    "w": 3310
+}

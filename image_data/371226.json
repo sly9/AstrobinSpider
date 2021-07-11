@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 20,
+    "data_source": "TRAVELLER",
+    "dec": "41.233",
+    "description": "",
+    "h": 1920,
+    "hash": null,
+    "id": 371226,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "Canon 60D Central_Ds"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ85"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808435/"
+    ],
+    "orientation": "181.836",
+    "pixscale": "4.055",
+    "published": "2018-10-11T18:56:46.262096",
+    "ra": "10.649",
+    "radius": "1.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/371226/",
+    "revisions": [
+        "/api/v1/imagerevision/159268/"
+    ],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31",
+    "updated": "2021-03-17T13:38:50.933774",
+    "uploaded": "2018-10-11T19:56:46.477320",
+    "url_duckduckgo": "https://www.astrobin.com/371226/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371226/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371226/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371226/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371226/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371226/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371226/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/afd01499-ac9f-489e-bb0f-d43feef63f5a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/afd01499-ac9f-489e-bb0f-d43feef63f5a-1539288000.jpg",
+    "url_thumb": "https://www.astrobin.com/371226/0/rawthumb/thumb/",
+    "user": "danbares",
+    "views": 1512,
+    "w": 1452
+}

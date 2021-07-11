@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "3.917",
+    "description": "This is a preliminary version.  Made on several nights between February 25 and March 18, 2018.\r\nL: 24 x 600s, R&G: 9 x 600s, B: 6 x 600s. The G-data is not good, need to redo that, and add some more B.",
+    "h": 2493,
+    "hash": null,
+    "id": 338025,
+    "imaging_cameras": [
+        "Quantum Scientific Imaging QSI583wsg"
+    ],
+    "imaging_telescopes": [
+        "Home made 400mm F/4 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806079/"
+    ],
+    "orientation": "269.204",
+    "pixscale": "0.615",
+    "published": "2018-03-19T14:11:42.161982",
+    "ra": "215.083",
+    "radius": "0.352",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/338025/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5560",
+        "NGC 5566",
+        "NGC 5569",
+        "NGC5560",
+        "NGC5566",
+        "NGC5569",
+        "PGC1255958",
+        "PGC1256260",
+        "PGC51269"
+    ],
+    "title": "NGC5566, NGC5560 and NGC5569",
+    "updated": "2021-05-15T03:01:23.166121",
+    "uploaded": "2018-03-19T14:05:33.397743",
+    "url_duckduckgo": "https://www.astrobin.com/338025/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338025/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338025/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338025/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338025/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338025/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338025/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3862/2018/6eb27c32-da72-4465-8bd8-d7717956c390.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3862/2018/6eb27c32-da72-4465-8bd8-d7717956c390-1585661404.jpg",
+    "url_thumb": "https://www.astrobin.com/338025/0/rawthumb/thumb/",
+    "user": "Albert_van_Duin",
+    "views": 521,
+    "w": 3288
+}

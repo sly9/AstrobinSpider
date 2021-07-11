@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.350",
+    "description": "NGC 891 (Caldwell 23) is an edge-on spiral galaxy, discovered by William Herschel on 6 October 1784.  The galaxy is sometimes referred to as the 'Silver Sliver'.  It is around 31 million light years away in the constellation of Andromeda.\r\n\r\nThe data for NGC 891 is from our dual TEC rig located at Olly Penrice's 'Les Granges' in Étoile-Saint-Cyrice.  In addition we used Lum data that we had collected from home 3 years ago with our Skywatcher Esprit 120 and QSI 690 combination: <a href=\"https://astrob.in/278172/F/\">NGC 891</a>\r\n\r\nCapture Details:\r\n\r\nTelescopes: TEC 140 x 2; Esprit 120\r\nMount: Mesu 200\r\nCameras: Atik 460 (Lum); Moravian G2-8300 (RGB); QSI 690 (Lum)\r\n\r\nLum: 28 x 900s\r\nRed:  12 x 900s\r\nGreen: 12 x 900s\r\nBlue: 12 x 900s\r\n(Esprit Lum: 52 x 300s)\r\n\r\nTotal integration time: 20 hours and 20 minutes\r\n\r\nData: Olly Penrice; Tom O'Donoghue; Elisabeth Milne; Steve Milne\r\nProcessing: Elisabeth Milne",
+    "h": 1941,
+    "hash": "ahys4e",
+    "id": 465334,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "TEC 140/980"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811195/"
+    ],
+    "orientation": "90.084",
+    "pixscale": "0.918",
+    "published": "2020-03-14T18:13:27.239278",
+    "ra": "35.636",
+    "radius": "0.416",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/465334/",
+    "revisions": [],
+    "subjects": [
+        "NGC 891"
+    ],
+    "title": "NGC 891 in Andromeda",
+    "updated": "2021-03-18T05:24:21.679620",
+    "uploaded": "2020-03-14T18:13:27.409158",
+    "url_duckduckgo": "https://www.astrobin.com/ahys4e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ahys4e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ahys4e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ahys4e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ahys4e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ahys4e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ahys4e/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30676/2020/acc7f21b-5304-4910-b573-727cca0579ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30676/2020/acc7f21b-5304-4910-b573-727cca0579ca-1584210506.jpg",
+    "url_thumb": "https://www.astrobin.com/ahys4e/0/rawthumb/thumb/",
+    "user": "MrsGnomus",
+    "views": 226,
+    "w": 2626
+}

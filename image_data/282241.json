@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "60.463",
+    "description": "RGB-Data to artificial narrow band colors",
+    "h": 1181,
+    "hash": null,
+    "id": 282241,
+    "imaging_cameras": [
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 129,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "25.996",
+    "pixscale": "2.130",
+    "published": "2017-02-01T18:35:10.586950",
+    "ra": "43.715",
+    "radius": "1.257",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282241/",
+    "revisions": [
+        "/api/v1/imagerevision/109623/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "Soul Nebula in artificial narrow band colors",
+    "updated": "2021-03-17T21:51:24.454803",
+    "uploaded": "2017-02-01T18:35:11.085827",
+    "url_duckduckgo": "https://www.astrobin.com/282241/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282241/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282241/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282241/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282241/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282241/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282241/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20996/2017/61d5f6f7-9ecb-4146-ae0d-e539eacd5089.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/61d5f6f7-9ecb-4146-ae0d-e539eacd5089-1485974287.png",
+    "url_thumb": "https://www.astrobin.com/282241/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 659,
+    "w": 1824
+}

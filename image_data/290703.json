@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "47.221",
+    "description": "I expected a little more from this material, but majority of the sub-expos were acquired under light polluted sky, so I'm not fully satisfied with this result. Background noise is a bit much considering the 204 pcs of subs.",
+    "h": 2880,
+    "hash": null,
+    "id": 290703,
+    "imaging_cameras": [
+        "Canon EOS 600D(a)"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 200/800 carbon Newton astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806870/",
+        "/api/v1/location/2806873/",
+        "/api/v1/location/2806877/"
+    ],
+    "orientation": "359.959",
+    "pixscale": "1.299",
+    "published": "2017-04-07T08:44:53.687251",
+    "ra": "184.239",
+    "radius": "0.937",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/290703/",
+    "revisions": [
+        "/api/v1/imagerevision/113821/",
+        "/api/v1/imagerevision/114050/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "Messier 106 and NGC4217",
+    "updated": "2021-03-17T21:14:23.007837",
+    "uploaded": "2017-04-07T09:44:54.162818",
+    "url_duckduckgo": "https://www.astrobin.com/290703/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/290703/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/290703/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/290703/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/290703/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/290703/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/290703/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22287/2017/5af5dd7d-cb3b-4e0a-ad1d-e07e7d51c6e6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22287/2017/5af5dd7d-cb3b-4e0a-ad1d-e07e7d51c6e6-1582522531.jpg",
+    "url_thumb": "https://www.astrobin.com/290703/0/rawthumb/thumb/",
+    "user": "PeterFeltóti",
+    "views": 303,
+    "w": 4320
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "47.370",
+    "description": "",
+    "h": 1340,
+    "hash": null,
+    "id": 345449,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 215,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "279.939",
+    "pixscale": "1.263",
+    "published": "2018-05-06T17:24:56.703519",
+    "ra": "184.653",
+    "radius": "0.563",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345449/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "Messier 106",
+    "updated": "2021-06-12T18:10:58.180608",
+    "uploaded": "2018-05-06T18:25:00.678417",
+    "url_duckduckgo": "https://www.astrobin.com/345449/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345449/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345449/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345449/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345449/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345449/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345449/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/cc2c4003-159b-4e5b-9ddd-2d99de30d5f0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cc2c4003-159b-4e5b-9ddd-2d99de30d5f0-1525710239.jpg",
+    "url_thumb": "https://www.astrobin.com/345449/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1414,
+    "w": 1824
+}

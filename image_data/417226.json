@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "61.200",
+    "description": "",
+    "h": 2315,
+    "hash": null,
+    "id": 417226,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10 f/8 Carbon"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803484/"
+    ],
+    "orientation": "2.136",
+    "pixscale": "0.827",
+    "published": "2019-07-27T07:36:18.863222",
+    "ra": "350.118",
+    "radius": "0.440",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/417226/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "NGC7635 - La nébuleuse de la bulle",
+    "updated": "2021-03-17T10:02:39.236648",
+    "uploaded": "2019-07-27T08:36:19.020767",
+    "url_duckduckgo": "https://www.astrobin.com/417226/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417226/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417226/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417226/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417226/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417226/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417226/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8327/2020/86a9b5de-9f4b-4014-a640-fb74a87c606d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8327/2020/86a9b5de-9f4b-4014-a640-fb74a87c606d-1582647982.jpg",
+    "url_thumb": "https://www.astrobin.com/417226/0/rawthumb/thumb/",
+    "user": "ZlochTeam",
+    "views": 364,
+    "w": 3055
+}

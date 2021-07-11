@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "67.159",
+    "description": "1st Test shot with RC8 and QSI 690 of NGC 7822.  It's been so rainy and cloudy it was hard to get my normal 27 shots of each filter.  The form did not load the correct filter exposures.  Its\r\n\r\nHA   27X1200\r\nOIII 14X1200\r\nSII   21X1200",
+    "h": 2662,
+    "hash": null,
+    "id": 357866,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" RC 8\" RC reflector"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "http://www.redstickastro.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806898/"
+    ],
+    "orientation": "7.057",
+    "pixscale": "0.589",
+    "published": "2018-07-25T18:24:42.090830",
+    "ra": "0.901",
+    "radius": "0.342",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/357866/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "NGC 7822",
+    "updated": "2021-03-17T14:42:38.918031",
+    "uploaded": "2018-07-25T19:10:47.674456",
+    "url_duckduckgo": "https://www.astrobin.com/357866/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/357866/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/357866/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/357866/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/357866/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/357866/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/357866/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21867/2018/542829c2-3faf-4683-ae69-5b7cf445b74c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21867/2018/542829c2-3faf-4683-ae69-5b7cf445b74c-1582529951.png",
+    "url_thumb": "https://www.astrobin.com/357866/0/rawthumb/thumb/",
+    "user": "redstickastro",
+    "views": 229,
+    "w": 3223
+}

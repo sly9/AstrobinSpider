@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.478",
+    "description": "This project took me a lot of patience to get the best FWHM , specifically in Halpha, but also in SII and OIII, The tuning of my EQ8 gives me now very nice guiding , after a perriod of stabilization at the begenning of each night. It improves greatly the FWHM, and the result is now much better  :-)\r\n\r\n9 nights in june and fisrt day of july : 17, 18, 19, 23, 26, 27, 28, 29, 01\r\n\r\n85 SII Subs @300s (gain 139, -20°C)\r\n123 OIII Subs @300s (gain 139, -20°C)\r\n131 HalphaSubs @300s (gain 139, -20°C)\r\n\r\nTotal => 339 subs @300s = 28h 15 minutes\r\n\r\nThe Elephant's Trunk Nebula is a concentration of interstellar gas and dust within the much larger ionized gas region IC 1396 located in the constellation Cepheus about 2,400 light years away from Earth. It is now thought to be a site of star formation, containing several very young (less than 100,000 yr) stars that were discovered in infrared images in 2003.",
+    "h": 4624,
+    "hash": null,
+    "id": 417392,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA 250/1000 F4 LACERTA NEWTON"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "269.153",
+    "pixscale": "0.783",
+    "published": "2019-07-27T21:45:16.139464",
+    "ra": "323.691",
+    "radius": "0.626",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/417392/",
+    "revisions": [
+        "/api/v1/imagerevision/187026/",
+        "/api/v1/imagerevision/187027/",
+        "/api/v1/imagerevision/187083/",
+        "/api/v1/imagerevision/187356/"
+    ],
+    "subjects": [
+        "VdB142"
+    ],
+    "title": "Elephant 's trunk - IC1396 in Cepheus",
+    "updated": "2021-03-17T10:01:54.599925",
+    "uploaded": "2019-07-27T22:09:22.568696",
+    "url_duckduckgo": "https://www.astrobin.com/417392/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417392/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417392/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417392/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417392/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417392/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417392/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/ae874c96-44f7-4eb4-993a-8c70cef7c212.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/ae874c96-44f7-4eb4-993a-8c70cef7c212-1582529313.jpg",
+    "url_thumb": "https://www.astrobin.com/417392/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 398,
+    "w": 3436
+}

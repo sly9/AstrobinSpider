@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": "5.306",
+    "description": "This false-color narrowband image shows the Hydrogen and Sulfur as warmer tones and Oxygen as blue.\r\n\r\nEquipment:  \r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\n74mm aperture stop-down ring (brings scope to f/5.2)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nAccessories:\r\nDeepSkyDad Autofocuser AF1\r\nQHYCCD PoleMaster\r\n\r\nSoftware:  \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition:  \r\nLocation: Flower Mound, TX (Bortle 7) for Ha, Atoka, OK (Bortle 3) for SII and OIII\r\nDates: 1/6/20, 1/7/20, 2/26/20, 2/27/20, 2/28/20\r\nGain: 200 Offset: 50\r\nCamera temp: -20C\r\nHa: 168x300\" Astrodon 5nm 1.25\"\r\nSII: 51x600\" Astrodon 3nm 1.25\"\r\nOIII: 48x600\" Astrodon 3nmn 1.25\"\r\nTotal integration time: 30hr 30min\r\n64x darks per calibration (master from library)\r\n30x flats per calibration\r\n200x bias per calibration (master from library)\r\n\r\nPreprocessing:\r\nBatch PreProcessing script to generate calibrated images\r\nStarAlignment\r\nImageIntegration\r\nDrizzleIntegration\r\nDynamicCrop\r\nDBE\r\n\r\nLuminance Processing:\r\nDuplicated the master Ha to use as the luminance\r\nDeconvolution\r\nArcsinhStretch and HistogramTransformation to bring to non-linear\r\nCreated a duplicate starless version using StarNet++\r\nCombined the starless version with the image using PixelMath expression \"F=0.4; (1-(1-$T)*(1-s)*F)+($T*~F)\". (s=starless photo)\r\nLocalHistogramEqualization\r\nMultiscaleLinearTransform for sharpening\r\nCurvesTransformation\r\nMorphologicalTransformation for star size reduction\r\nUnsharpMask to harden up reduced stars\r\n\r\nPreparing separate Sii, Ha, and Oiii linear masters for tonemapping (applied to each master individually):\r\nTGV & MMT noise reduction (via Jon Rista's method)\r\nArcsinhStretch and HistogramTransformation to bring to non-linear\r\nRemoved stars via StarNet++\r\nRemoved small artifacts by removing the first 3 layers via MMT\r\nLinearFit to Ha\r\n\r\nCombined prepared Sii, Ha, and Oiii masters with ChannelCombination:\r\nR: Sii\r\nG: Ha\r\nB: Oiii\r\n\r\nTonemap Processing:\r\nHistogramTransformation to balance colors\r\nCurvesTransformation\r\nInvert>SCNR>Invert using a previously created magenta ColorMask to remove magentas\r\nCurvesTransformation using ColorMasks\r\n\r\nCombined Tonemap with Luminance using LRGBCombination:\r\nCurvesTransformation for slight contrast\r\nResampled to 30% for web posting",
+    "h": 2016,
+    "hash": "i8zmoi",
+    "id": 461643,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 265,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808932/",
+        "/api/v1/location/2808933/"
+    ],
+    "orientation": "274.313",
+    "pixscale": "3.373",
+    "published": "2020-03-03T21:46:44.238738",
+    "ra": "98.157",
+    "radius": "1.585",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/461643/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "The Rosette Nebula (NGC2237) imaged in SHO",
+    "updated": "2021-03-17T04:32:32.715925",
+    "uploaded": "2020-03-03T21:46:44.431175",
+    "url_duckduckgo": "https://www.astrobin.com/i8zmoi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i8zmoi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i8zmoi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i8zmoi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i8zmoi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i8zmoi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i8zmoi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27683/2020/6a4a336a-d76f-450a-95ef-3de09a3a177b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27683/2020/6a4a336a-d76f-450a-95ef-3de09a3a177b-1583273256.jpg",
+    "url_thumb": "https://www.astrobin.com/i8zmoi/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 2099,
+    "w": 2719
+}

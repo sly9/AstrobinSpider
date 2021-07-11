@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "44.378",
+    "description": "This is a modified SHO: R=50%SII+50%HA, G=25%HA+25%SII+50%OIII, B=100%OIII. The SII and OIII and half the HA were taken on 2 nights each with the NP127is/QHY16200A and the rest of the HA was taken simultaneously on all nights with the TV85/QHY9M.\r\nHope ya like it!\r\nTom",
+    "h": 8000,
+    "hash": null,
+    "id": 412078,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "QHY9 Monocromo QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Televue TV85",
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "346.387",
+    "pixscale": "0.978",
+    "published": "2019-06-27T17:02:08.267045",
+    "ra": "314.885",
+    "radius": "1.355",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/412078/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula"
+    ],
+    "title": "NGC7000 SHO Modified",
+    "updated": "2021-03-17T10:27:02.606070",
+    "uploaded": "2019-06-27T18:02:09.102853",
+    "url_duckduckgo": "https://www.astrobin.com/412078/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/412078/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/412078/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/412078/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/412078/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/412078/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/412078/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5806/2020/1c624bb8-4c7c-40a2-8094-57aca275426e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5806/2020/1c624bb8-4c7c-40a2-8094-57aca275426e-1582626153.jpg",
+    "url_thumb": "https://www.astrobin.com/412078/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 167,
+    "w": 5964
+}

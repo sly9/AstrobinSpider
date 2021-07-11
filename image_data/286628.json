@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "9.665",
+    "description": "This image is a combination of my previous LRGB data and Ha data from Thomas Jäger.\r\nHe kindly provided me his data. Many thanks Thomas !\r\n\r\nData: Ha 26x8min\r\nOptic:NON1000 (200/1000 Newton f/5) + GPU Coma Corrector\r\nCamera: Moravian G2 8300 @-30°C, EFW-2S-10, Moravian OAG\r\nDate/Location: 2016-12-03, Zirndorf\r\n\r\nIt is amazing how Ha improve the image of NGC 2264 !\r\nMaybe you like it too :-).\r\n\r\n",
+    "h": 2940,
+    "hash": null,
+    "id": 286628,
+    "imaging_cameras": [
+        "Moravian G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/5 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805602/"
+    ],
+    "orientation": "358.212",
+    "pixscale": "1.218",
+    "published": "2017-03-09T15:07:00.230076",
+    "ra": "100.264",
+    "radius": "0.631",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286628/",
+    "revisions": [
+        "/api/v1/imagerevision/112117/"
+    ],
+    "subjects": [
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "Cone Nebula - NGC2264 - Ha-LRGB",
+    "updated": "2021-03-17T21:34:13.575037",
+    "uploaded": "2017-03-09T13:11:27.913153",
+    "url_duckduckgo": "https://www.astrobin.com/286628/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286628/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286628/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286628/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286628/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286628/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286628/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6530/2017/089b1ebc-7615-40f2-ab85-24de69849925.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6530/2017/089b1ebc-7615-40f2-ab85-24de69849925-1582601451.jpg",
+    "url_thumb": "https://www.astrobin.com/286628/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 660,
+    "w": 2293
+}

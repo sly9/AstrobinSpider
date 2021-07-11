@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "49.283",
+    "description": "A two for one Arp special!\r\n\r\nAn interesting pair of bright spirals emitting jets of material in odd directions compose Arp 285. The right most NGC 2854 has some faint fans of material coming out from either end that don't show up here, unfortunately, even after stacking an hour worth of image data. The sky transparency just wasn't good enough I guess, or maybe there was just too much light pollution. However, you can see the fans coming perpendicularly out of the core of  the middle galaxy, NGC 2856, as well as a fainter one at one end of the galaxy. \r\n\r\nFace-on spiral NGC 2857 is also listed as Arp 1. It looks to be a fairly normal face on spiral, so I am not sure why it got an Arp peculiar galaxy designation.\r\n\r\nThe exposure is 7 stacked images, each of which is a live-stack from SharpCap 3.2 of 241 x 2 seconds.",
+    "h": 2345,
+    "hash": "aqa5xo",
+    "id": 443569,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Orion Skyquest xx16g Skyquest xx16g"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 20,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808760/"
+    ],
+    "orientation": "77.168",
+    "pixscale": "0.507",
+    "published": "2019-12-15T21:26:41.274244",
+    "ra": "141.085",
+    "radius": "0.297",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/443569/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2857",
+        "NGC2854",
+        "NGC2856",
+        "NGC2857",
+        "PGC213599",
+        "PGC2344289",
+        "PGC26694"
+    ],
+    "title": "Arp 1 (NGC 2857) and Arp 285 NGC (2854 and NGC 2856)",
+    "updated": "2021-06-18T06:28:28.786386",
+    "uploaded": "2019-12-15T21:01:34.598284",
+    "url_duckduckgo": "https://www.astrobin.com/aqa5xo/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/aqa5xo/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/aqa5xo/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/aqa5xo/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/aqa5xo/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/aqa5xo/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/aqa5xo/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27158/2019/9498ca42-6f41-43aa-a105-dbfa29b023cc.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27158/2019/9498ca42-6f41-43aa-a105-dbfa29b023cc-1582285664.png",
+    "url_thumb": "https://www.astrobin.com/aqa5xo/0/rawthumb/thumb/",
+    "user": "lowenthalm",
+    "views": 148,
+    "w": 3517
+}

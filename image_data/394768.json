@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "25.583",
+    "description": "Only managed to gather a bit more than two hours of data before the clouds rolled in, but at least it contained a good number of galaxies.\r\n\r\nImage A:  an annotation of galaxies and brighter stars (using PixInsight)\r\n\r\nIn Version H I have added 4.5 hours of luminance from 11 Mach collected with ASI1600MM (with IDAS filter, gain 200, offset 30, -20°C) on the Esprit 150 with a TS 0.79x 2\" reducer.",
+    "h": 2466,
+    "hash": null,
+    "id": 394768,
+    "imaging_cameras": [
+        "ZWO ASI 071 MC Pro Color Cool",
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 150 ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 59,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "161.304",
+    "pixscale": "1.365",
+    "published": "2019-03-09T13:56:10.153338",
+    "ra": "192.779",
+    "radius": "0.779",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394768/",
+    "revisions": [
+        "/api/v1/imagerevision/172847/",
+        "/api/v1/imagerevision/172858/",
+        "/api/v1/imagerevision/172928/",
+        "/api/v1/imagerevision/172948/",
+        "/api/v1/imagerevision/173198/",
+        "/api/v1/imagerevision/175519/",
+        "/api/v1/imagerevision/175520/",
+        "/api/v1/imagerevision/175521/",
+        "/api/v1/imagerevision/229583/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725",
+        "NGC 4747"
+    ],
+    "title": "NGC 4725 and 30 other galaxies from last night",
+    "updated": "2021-03-17T11:49:04.966619",
+    "uploaded": "2019-03-09T13:56:10.305481",
+    "url_duckduckgo": "https://www.astrobin.com/394768/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394768/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394768/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394768/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394768/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394768/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394768/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2019/6c9cd579-b881-4744-b533-d0554d802ea3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2019/6c9cd579-b881-4744-b533-d0554d802ea3-1582579250.jpg",
+    "url_thumb": "https://www.astrobin.com/394768/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 306,
+    "w": 3288
+}

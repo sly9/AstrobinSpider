@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "42.011",
+    "description": "",
+    "h": 1814,
+    "hash": null,
+    "id": 404359,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Takahashi MT-160"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808684/"
+    ],
+    "orientation": "358.753",
+    "pixscale": "1.884",
+    "published": "2019-05-05T20:40:43.173941",
+    "ra": "198.877",
+    "radius": "0.787",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404359/",
+    "revisions": [
+        "/api/v1/imagerevision/178662/"
+    ],
+    "subjects": [
+        "M 63",
+        "M63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "Messier 63 LRGB",
+    "updated": "2021-03-17T11:04:09.166197",
+    "uploaded": "2019-05-05T21:12:07.567507",
+    "url_duckduckgo": "https://www.astrobin.com/404359/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404359/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404359/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404359/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404359/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404359/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404359/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/26239a3f-3d29-4d2f-a12b-cb009c76e86c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/26239a3f-3d29-4d2f-a12b-cb009c76e86c-1557091521.jpg",
+    "url_thumb": "https://www.astrobin.com/404359/0/rawthumb/thumb/",
+    "user": "deanjacobsen",
+    "views": 252,
+    "w": 2400
+}

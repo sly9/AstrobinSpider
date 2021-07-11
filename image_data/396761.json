@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "55.669",
+    "description": "Messier 108 (M108, NGC 3556) is an edge-on spiral galaxy in Ursa Major situated near the bright star Beta Ursa Majoris and close to the Owl Nebula, M97, only 48' away. It has a visual magnitude 10. It is about 45 million light years away and is a member of the Ursa Major group, a rather loose collection of galaxies. \r\nThe nearly edge-on galaxy appears to have no bulge and no pronounced core at all. The dust lane, H2 regions, and star clusters provide a jumbled and chaotic appearance, but show a lot of resolved detail.  This is my second attempt at this object.  I think I have a wider field and better color but possibly not the resolution of my last attempt.\r\n\r\nDate: Jan-Mar 2019\r\nLocation: New Ringgold PA\r\nOptics: LUM: Starizona Hyperion f/8 12.5 inch, FL 2540 mm \r\nMount: LUM: Paramount ME\r\nCamera: LUM: Apogee U8300\r\nGuiding: ST-402 on Innovations Foresight On-Axis Guider\r\n\r\nOptics: RGB: Celestron EdgeHD 1100 \r\nMount: RGB: Paramount MX\r\nCamera: RGB:Sbig STL-11000\r\n\r\nExposure: LRGB (unbinned): L:69x10 R:20x10 min, G:6x10 min, B:20x10 min Total 19.2 hrs  115 subs at avg 600  sec\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.",
+    "h": 2125,
+    "hash": null,
+    "id": 396761,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11",
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 114,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "7.661",
+    "pixscale": "0.440",
+    "published": "2019-03-22T00:11:06.779930",
+    "ra": "167.865",
+    "radius": "0.225",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/396761/",
+    "revisions": [],
+    "subjects": [
+        "M 108",
+        "M108",
+        "NGC 3556"
+    ],
+    "title": "M108 revisited",
+    "updated": "2021-04-14T17:51:55.770151",
+    "uploaded": "2019-03-22T00:11:06.991106",
+    "url_duckduckgo": "https://www.astrobin.com/396761/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396761/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396761/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396761/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396761/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396761/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396761/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/8652e835-2a13-48e8-a1e8-995a9927bd76.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/8652e835-2a13-48e8-a1e8-995a9927bd76-1582435079.jpg",
+    "url_thumb": "https://www.astrobin.com/396761/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 418,
+    "w": 3007
+}

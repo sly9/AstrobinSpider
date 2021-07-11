@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "41.258",
+    "description": "My 2nd attempt at Andromeda Galaxy this time capturing more frames for LRGB and trying some different things in Pixinsight. I don't have a focal reducer yet so this how the image came out with my 80mm refractor.",
+    "h": 2185,
+    "hash": null,
+    "id": 319172,
+    "imaging_cameras": [
+        "ASI ZWO ASI1600 MM cooled"
+    ],
+    "imaging_telescopes": [
+        "skywatcher 80/600  Sky-Watcher ED 80/600"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807830/"
+    ],
+    "orientation": "266.649",
+    "pixscale": "1.305",
+    "published": "2017-10-29T03:27:46.301162",
+    "ra": "10.762",
+    "radius": "0.962",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319172/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "Andromeda Galaxy M31",
+    "updated": "2021-03-17T19:22:17.758928",
+    "uploaded": "2017-10-29T03:27:47.452852",
+    "url_duckduckgo": "https://www.astrobin.com/319172/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319172/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319172/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319172/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319172/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319172/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319172/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/61ea7dc7-3894-48d6-871a-4f6f7ecfafbd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/61ea7dc7-3894-48d6-871a-4f6f7ecfafbd-1509248136.jpg",
+    "url_thumb": "https://www.astrobin.com/319172/0/rawthumb/thumb/",
+    "user": "henrygoo74d",
+    "views": 189,
+    "w": 1824
+}

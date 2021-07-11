@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "4.476",
+    "description": "SharpCap Live stacking",
+    "h": 3503,
+    "hash": null,
+    "id": 341078,
+    "imaging_cameras": [
+        "ASI ZWO 1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 14HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 9,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802643/"
+    ],
+    "orientation": "277.124",
+    "pixscale": "0.299",
+    "published": "2018-04-09T22:37:37.289813",
+    "ra": "185.480",
+    "radius": "0.242",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341078/",
+    "revisions": [],
+    "subjects": [
+        "M 61",
+        "NGC 4292",
+        "NGC 4303"
+    ],
+    "title": "M 61",
+    "updated": "2021-03-17T15:56:00.068620",
+    "uploaded": "2018-04-09T23:37:41.139811",
+    "url_duckduckgo": "https://www.astrobin.com/341078/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341078/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341078/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341078/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341078/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341078/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341078/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10834/2018/6dcb9d3a-cd56-4d49-a086-7e43aee198d2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10834/2018/6dcb9d3a-cd56-4d49-a086-7e43aee198d2-1582527709.jpg",
+    "url_thumb": "https://www.astrobin.com/341078/0/rawthumb/thumb/",
+    "user": "robinandcurtis",
+    "views": 55,
+    "w": 4639
+}

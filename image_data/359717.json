@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "43.966",
+    "description": "Site : Gunwigoon, KOREA\r\nTelescope : FSQ106ED\r\nMount : Rainbowastro RST400\r\nCamera : Moravian G4 16000, Lodestarx2\r\nExposeure : Sii 30 x 900s, Ha 30 x 900s, Oiii 30 x 900s",
+    "h": 1824,
+    "hash": null,
+    "id": 359717,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806211/"
+    ],
+    "orientation": "11.705",
+    "pixscale": "3.484",
+    "published": "2018-08-05T12:15:30.243571",
+    "ra": "313.798",
+    "radius": "2.758",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/359717/",
+    "revisions": [
+        "/api/v1/imagerevision/152623/"
+    ],
+    "subjects": [
+        "IC 5068",
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star ξCyg"
+    ],
+    "title": "North America & Pelican",
+    "updated": "2021-06-18T12:10:43.295912",
+    "uploaded": "2018-08-05T13:15:30.995713",
+    "url_duckduckgo": "https://www.astrobin.com/359717/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/359717/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/359717/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/359717/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/359717/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/359717/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/359717/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17550/2018/807ad2e6-0c0c-4440-b7ff-2a05ea794388.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/807ad2e6-0c0c-4440-b7ff-2a05ea794388-1533475111.jpg",
+    "url_thumb": "https://www.astrobin.com/359717/0/rawthumb/thumb/",
+    "user": "Minseok.Chang",
+    "views": 205,
+    "w": 1824
+}

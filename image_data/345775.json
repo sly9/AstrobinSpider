@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 19,
+    "data_source": "UNSET",
+    "dec": "38.330",
+    "description": "Here the HaLRGB version ... I am a bit dissaspointed with the colors ... this needs more narrowband ... just ordered the OIII Filter ;)",
+    "h": 3701,
+    "hash": null,
+    "id": 345775,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MM-Cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 147,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807038/"
+    ],
+    "orientation": "89.361",
+    "pixscale": "0.933",
+    "published": "2018-05-08T10:17:30.627672",
+    "ra": "303.085",
+    "radius": "0.776",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345775/",
+    "revisions": [
+        "/api/v1/imagerevision/144582/",
+        "/api/v1/imagerevision/144634/",
+        "/api/v1/imagerevision/144635/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "Caldwell 27 - Crescent Nebula (NGC 6888) - HaLRGB",
+    "updated": "2021-03-17T15:35:21.257941",
+    "uploaded": "2018-05-08T08:56:37.402180",
+    "url_duckduckgo": "https://www.astrobin.com/345775/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345775/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345775/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345775/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345775/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345775/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345775/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4339211b-b3c8-4a57-8938-05dea3d1c815.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4339211b-b3c8-4a57-8938-05dea3d1c815-1525771765.jpg",
+    "url_thumb": "https://www.astrobin.com/345775/0/rawthumb/thumb/",
+    "user": "zishor",
+    "views": 404,
+    "w": 4704
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-41.102",
+    "description": "",
+    "h": 2400,
+    "hash": null,
+    "id": 384020,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "245.885",
+    "pixscale": "1.812",
+    "published": "2019-01-03T18:55:48.356392",
+    "ra": "251.477",
+    "radius": "0.731",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/384020/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The Dark Tower (HaRGB)",
+    "updated": "2021-03-17T12:37:56.163004",
+    "uploaded": "2019-01-03T18:55:48.509848",
+    "url_duckduckgo": "https://www.astrobin.com/384020/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/384020/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/384020/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/384020/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/384020/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/384020/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/384020/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/75e94e29-cf8f-46e0-976b-cffea7554292.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/75e94e29-cf8f-46e0-976b-cffea7554292-1546542072.jpg",
+    "url_thumb": "https://www.astrobin.com/384020/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 288,
+    "w": 1633
+}

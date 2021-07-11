@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "19.676",
+    "description": "Just as I finished my <a href=\"http://astrob.in/326970/C/\">M44 from Spain</a>, new M44 data from the Deep Sky West facility in New Mexico became available.  This was captured in a different orientation.  At some point I will probabaly try combining both sets of data, but for now this is the DSW data by itself. \r\n\r\nMessier 44 is 577 light years distant in the constellation of Cancer.  It is a 600 - 700 million year old open cluster of over 1,000 stars. \r\n\r\nThese data were captured over several nights between 24 November and 26 December 2017.  \r\n\r\nRed: 21 x 300s\r\nGreen: 32 x 300s\r\nBlue: 22 x 300s\r\n\r\nA total of 6.2 hours exposure.",
+    "h": 2485,
+    "hash": null,
+    "id": 327638,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "179.996",
+    "pixscale": "2.101",
+    "published": "2017-12-30T07:34:37.655910",
+    "ra": "130.062",
+    "radius": "1.195",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327638/",
+    "revisions": [],
+    "subjects": [
+        "Beehive cluster",
+        "M 44",
+        "NGC 2632",
+        "Praesepe"
+    ],
+    "title": "Messier 44 (the Beehive Cluster) from DSW",
+    "updated": "2021-03-17T18:47:15.083847",
+    "uploaded": "2017-12-30T07:34:39.051914",
+    "url_duckduckgo": "https://www.astrobin.com/327638/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327638/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327638/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327638/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327638/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327638/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327638/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2017/bb67a60f-2749-433f-8091-452c3800e68d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2017/bb67a60f-2749-433f-8091-452c3800e68d-1582606138.jpg",
+    "url_thumb": "https://www.astrobin.com/327638/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 226,
+    "w": 3256
+}

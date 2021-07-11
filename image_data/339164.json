@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "32.377",
+    "description": "The moon was a bit too bright for the OSC camera, but it was still possible to expose",
+    "h": 1445,
+    "hash": null,
+    "id": 339164,
+    "imaging_cameras": [
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BD 150/750 Newton f5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 144,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.108",
+    "pixscale": "1.516",
+    "published": "2018-03-26T15:04:31.489160",
+    "ra": "190.684",
+    "radius": "0.649",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339164/",
+    "revisions": [
+        "/api/v1/imagerevision/140841/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC 4656",
+        "NGC 4657"
+    ],
+    "title": "Whale and Hockey Stick Galaxies",
+    "updated": "2021-03-17T16:04:52.071257",
+    "uploaded": "2018-03-26T15:58:48.700053",
+    "url_duckduckgo": "https://www.astrobin.com/339164/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339164/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339164/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339164/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339164/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339164/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339164/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2018/e427cdb9-1a44-411c-bea9-908bb5aa3105.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e427cdb9-1a44-411c-bea9-908bb5aa3105-1522076574.jpg",
+    "url_thumb": "https://www.astrobin.com/339164/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 290,
+    "w": 1824
+}

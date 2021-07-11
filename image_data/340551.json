@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "53.055",
+    "description": "This is normally a tough target but made even harder due to bad winter weather here as well as light pollution. I was hoping to collect more data and finally gave up on it this year and processed the collected subs.  \r\n\r\nWith the current weather forecast, most of my targets are not going to be completed before they get behind the trees.\r\n\r\nThis is about 13 hours of integration (112x450seconds) and it still is pretty bad with bloated stars and bad gradients. I really want to keep shooting this every year and hopefully I can cull bad subs out of this. Just like the sombrero, this is suffering due to bad FWHM .",
+    "h": 1284,
+    "hash": null,
+    "id": 340551,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 144,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "90.748",
+    "pixscale": "0.752",
+    "published": "2018-04-06T04:07:35.433019",
+    "ra": "173.275",
+    "radius": "0.206",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340551/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729",
+        "NGC3718",
+        "NGC3729"
+    ],
+    "title": "NGC3718 & Hickson 56",
+    "updated": "2021-03-17T15:58:24.916030",
+    "uploaded": "2018-04-06T05:07:37.977329",
+    "url_duckduckgo": "https://www.astrobin.com/340551/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340551/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340551/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340551/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340551/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340551/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340551/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5a43a19b-ceac-45a6-9aed-5aafc2f299c8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/5a43a19b-ceac-45a6-9aed-5aafc2f299c8-1522987845.png",
+    "url_thumb": "https://www.astrobin.com/340551/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 487,
+    "w": 1500
+}

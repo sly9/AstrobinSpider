@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "12.163",
+    "description": "",
+    "h": 1089,
+    "hash": null,
+    "id": 269056,
+    "imaging_cameras": [
+        "ZWO ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "Synta BK P150750"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805180/"
+    ],
+    "orientation": "270.638",
+    "pixscale": "1.595",
+    "published": "2016-10-22T08:02:45.754747",
+    "ra": "322.498",
+    "radius": "0.455",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269056/",
+    "revisions": [
+        "/api/v1/imagerevision/108277/"
+    ],
+    "subjects": [
+        "M 15",
+        "NGC 7078"
+    ],
+    "title": "Messier 15, unguided",
+    "updated": "2021-03-17T22:40:54.685341",
+    "uploaded": "2016-10-22T09:02:45.754747",
+    "url_duckduckgo": "https://www.astrobin.com/269056/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269056/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269056/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269056/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269056/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269056/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269056/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16701/2017/ae9eb49a-02f1-4f10-9980-419c71923751.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16701/2017/ae9eb49a-02f1-4f10-9980-419c71923751-1582529730.jpg",
+    "url_thumb": "https://www.astrobin.com/269056/0/rawthumb/thumb/",
+    "user": "Rakshas",
+    "views": 546,
+    "w": 1742
+}

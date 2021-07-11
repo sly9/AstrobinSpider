@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "TRAVELLER",
+    "dec": "67.838",
+    "description": "C/2019 Y4 ATLAS彗星，北京时间3月22日22:20-23日01:48摄于北京门头沟清水镇。\r\n\r\n锐星150 2.8 HNT，QHY247C，艾顿CEM60，Gain 2200，Offset 70，-20℃，116*100s。\r\n\r\n前期拍摄APT，后期处理PI & PS。",
+    "h": 3995,
+    "hash": "f22uwf",
+    "id": 468109,
+    "imaging_cameras": [
+        "QHYCCD QHY247C"
+    ],
+    "imaging_telescopes": [
+        "SharpStar 15028HNT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812969/"
+    ],
+    "orientation": "178.488",
+    "pixscale": "1.938",
+    "published": "2020-03-24T07:12:56.709141",
+    "ra": "135.915",
+    "radius": "1.938",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/468109/",
+    "revisions": [],
+    "subjects": [
+        "11 sig01 UMa",
+        "13 sig02 UMa",
+        "8 rho UMa",
+        "The star ρUMa",
+        "The star σ1UMa",
+        "The star σ2UMa",
+        "Comet"
+    ],
+    "title": "C/2019 Y4 ATLAS",
+    "updated": "2021-04-07T07:14:45.536473",
+    "uploaded": "2020-03-24T07:12:57.089686",
+    "url_duckduckgo": "https://www.astrobin.com/f22uwf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f22uwf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f22uwf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f22uwf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f22uwf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f22uwf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f22uwf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30546/2020/71a6edc9-5171-40db-9536-ec67997ce60d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30546/2020/71a6edc9-5171-40db-9536-ec67997ce60d-1586264869.jpg",
+    "url_thumb": "https://www.astrobin.com/f22uwf/0/rawthumb/thumb/",
+    "user": "Steed",
+    "views": 753,
+    "w": 5989
+}

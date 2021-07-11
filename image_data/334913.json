@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 34,
+    "data_source": "UNSET",
+    "dec": "69.683",
+    "description": "Le cigare avec l'ASI 294 MC pro pour sa 2e lumière.\r\nLe seeing était moyen et j'ai eu beaucoup de mal à traiter le fond de ciel en raison de la Lune et de flats défectueux. Mais bon, pour une 2e elle passe très bien.\r\nIl y a un filtre passe haut avec une ancienne version obtenue avec la 290MM en poses de 1 secondes.\r\n\r\nSeeing was medium and a had some problems in the background due the moon and bad flats.\r\n\r\nBut this shows anyway what the ASI 294 can do. Processing includes a high pass filter using a previous image made with ASI 290 MM.\r\n\r\nJF",
+    "h": 1202,
+    "hash": null,
+    "id": 334913,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 405,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": "221.097",
+    "pixscale": "0.484",
+    "published": "2018-02-23T13:17:50.518941",
+    "ra": "148.960",
+    "radius": "0.135",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334913/",
+    "revisions": [
+        "/api/v1/imagerevision/138165/",
+        "/api/v1/imagerevision/138737/",
+        "/api/v1/imagerevision/168595/",
+        "/api/v1/imagerevision/215842/",
+        "/api/v1/imagerevision/289018/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M 82 - gros plan RVB sur le cigare",
+    "updated": "2021-06-13T16:32:44.077492",
+    "uploaded": "2018-02-23T12:02:25.170391",
+    "url_duckduckgo": "https://www.astrobin.com/334913/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334913/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334913/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334913/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334913/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334913/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334913/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2018/a203c2d0-46f0-459d-b68a-a2f2859eaa8b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2018/a203c2d0-46f0-459d-b68a-a2f2859eaa8b-1582572723.jpg",
+    "url_thumb": "https://www.astrobin.com/334913/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 2845,
+    "w": 1610
+}

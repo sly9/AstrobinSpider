@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 45,
+    "comments": 40,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.795",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best Ha image taken on the AG12.\r\n\r\nImaged on nights of 9/23/2018, 9/27/2018, 9/28/2018, 9/29/2018, 11/5/2018, 11/6/2018, 11/7/2018, 11/17/2018.\r\n\r\nSharpless 2-200, also known as HDW 2 (Hartl-Dengl-Weinberger 2), commonly called the \"Bearclaw nebula\", is a quite old planetary nebula (PN) in the constellation Cassiopeia.\r\nAccording to W. A. Weidmann and R. Gamen, who have examined the central stars of different PNs, the central star of HDW 2 is a binary star.\r\nThis is a very faint PN and requires a lot of imaging time to bring out any detail.",
+    "h": 1436,
+    "hash": null,
+    "id": 395278,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 363,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.484",
+    "pixscale": "0.700",
+    "published": "2019-03-16T11:56:17.587394",
+    "ra": "47.739",
+    "radius": "0.224",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/395278/",
+    "revisions": [],
+    "subjects": [
+        "PGC168326",
+        "PK138+04.1",
+        "Sh2-200"
+    ],
+    "title": "Sh2-200 Bearclaw Nebula - HOO-LRGB",
+    "updated": "2021-05-16T06:46:22.314482",
+    "uploaded": "2019-03-12T16:05:34.579144",
+    "url_duckduckgo": "https://www.astrobin.com/395278/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395278/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395278/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395278/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395278/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395278/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395278/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/761e105c-3a4f-4e7e-9364-546f2a70beab.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/761e105c-3a4f-4e7e-9364-546f2a70beab-1552406981.jpg",
+    "url_thumb": "https://www.astrobin.com/395278/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 2080,
+    "w": 1800
+}

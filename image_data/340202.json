@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "53.426",
+    "description": "PK164+31.1 is a faint (17th mag,) relatively large planetary nebula with very low surface brightness.  It lies at a distance of about 1,600 ly in the constellation of Lynx.  It's the result of a sun-like star that went nova, expelling a shell of material after running out of fusible material in its core.  The blue-green star at the center of the nebula is what remains after the explosion.  The surrounding nebula is full of interesting detail but it requires good resolution and a lot of exposure to pull it out.  This is a bi-color image using Ha and OII narrow band filters.\r\n\r\nAt the risk of sounding like a broken record, I again had a lot of trouble acquiring this data.  I ran into frost, wind, terrible seeing and worst of all, more computer problems.  I had intended to acquire a lot more data to bring out faint detail; but, my recently replaced Cappuccino computer system rolled over and died after only a little over 2 months of service, so I had to give up (both on Cappuccino and on this object.)  I wound up with just barely enough OIII data and I couldn't gather all of the calibration data that I needed.  There is a tantalizing amount of faint intricate detail just visible in the raw images so I'll have to revisit it again next year to see what I can do with more exposure time.  The lack of a full set of calibration files required a bit of \"cheating\" to get this data processed by using bias data taken at a different temperature.  I ultimately had to take about 5 runs at this data to get it cleaned up and stacked without objectionable artifacts.  The low signal levels certainly increased the processing challenge.  This result doesn't quite reach the image quality that I ultimately want to achieve but I figure that I'll set it free and try again next year.  This is a certainly a very interesting object worthy of a second go the next time it's high in the sky! \r\n\r\nAs always, C&C is welcome.\r\n\r\nJohn",
+    "h": 2203,
+    "hash": null,
+    "id": 340202,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 182,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.485",
+    "pixscale": "0.478",
+    "published": "2018-04-03T03:27:08.995434",
+    "ra": "119.455",
+    "radius": "0.207",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/340202/",
+    "revisions": [],
+    "subjects": [],
+    "title": "PK164+31.1 An Amazing Planetary Nebula",
+    "updated": "2021-03-17T16:00:04.543677",
+    "uploaded": "2018-04-02T18:40:43.507823",
+    "url_duckduckgo": "https://www.astrobin.com/340202/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340202/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340202/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340202/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340202/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340202/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340202/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/120704d4-eaec-4401-87e7-8e321e4e7534.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/120704d4-eaec-4401-87e7-8e321e4e7534-1582615395.jpg",
+    "url_thumb": "https://www.astrobin.com/340202/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 958,
+    "w": 2203
+}

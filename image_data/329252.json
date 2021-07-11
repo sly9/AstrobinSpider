@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "67.183",
+    "description": "H = 22 x 1800\"\r\nR = 14 x 1200\"\r\nG = 16 x 1200\"\r\nB = 7 x 1200\"",
+    "h": 1807,
+    "hash": null,
+    "id": 329252,
+    "imaging_cameras": [
+        "SBIG STX KAF-16803 SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806674/"
+    ],
+    "orientation": "317.671",
+    "pixscale": "0.550",
+    "published": "2018-01-13T17:10:39.407006",
+    "ra": "0.966",
+    "radius": "0.436",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329252/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "Other"
+    ],
+    "title": "SH2 - 171 at DeepSkyWest",
+    "updated": "2021-03-17T16:50:34.882212",
+    "uploaded": "2018-01-13T17:10:39.970275",
+    "url_duckduckgo": "https://www.astrobin.com/329252/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329252/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329252/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329252/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329252/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329252/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329252/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3dd9a1ab-cbfb-4e76-85b1-616a757aa150.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3dd9a1ab-cbfb-4e76-85b1-616a757aa150-1515863978.jpg",
+    "url_thumb": "https://www.astrobin.com/329252/0/rawthumb/thumb/",
+    "user": "pullaqua",
+    "views": 83,
+    "w": 1824
+}

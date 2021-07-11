@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "47.205",
+    "description": "",
+    "h": 2854,
+    "hash": null,
+    "id": 295848,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807132/"
+    ],
+    "orientation": "359.354",
+    "pixscale": "1.063",
+    "published": "2017-05-16T16:21:33.899492",
+    "ra": "202.475",
+    "radius": "0.518",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295848/",
+    "revisions": [],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51: The Whirlpool Galaxy",
+    "updated": "2021-03-17T20:55:24.877016",
+    "uploaded": "2017-05-16T17:21:35.492330",
+    "url_duckduckgo": "https://www.astrobin.com/295848/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295848/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295848/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295848/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295848/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295848/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295848/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/886b6207-cd46-4da2-9f29-821bd42f1b0c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/886b6207-cd46-4da2-9f29-821bd42f1b0c-1582599009.jpg",
+    "url_thumb": "https://www.astrobin.com/295848/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 203,
+    "w": 2048
+}

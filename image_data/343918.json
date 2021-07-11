@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "61.427",
+    "description": "This is a color-composite narrowband integration of the Heart Nebula captured by the RH305 setup at DSW. (SH) + O + O color palette.",
+    "h": 1824,
+    "hash": null,
+    "id": 343918,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808871/"
+    ],
+    "orientation": "181.496",
+    "pixscale": "3.267",
+    "published": "2018-04-26T04:52:48.665055",
+    "ra": "38.210",
+    "radius": "1.314",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/343918/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 896"
+    ],
+    "title": "Heart Nebula / IC 1805",
+    "updated": "2021-03-17T15:43:06.860827",
+    "uploaded": "2018-04-26T05:52:51.397628",
+    "url_duckduckgo": "https://www.astrobin.com/343918/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/343918/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/343918/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/343918/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/343918/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/343918/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/343918/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/69c748e8-b062-4fe8-a9d2-ff73e7651c89.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/69c748e8-b062-4fe8-a9d2-ff73e7651c89-1524718559.jpg",
+    "url_thumb": "https://www.astrobin.com/343918/0/rawthumb/thumb/",
+    "user": "xjtian",
+    "views": 179,
+    "w": 1824
+}

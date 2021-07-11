@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "69.338",
+    "description": "In the last 2 years i collected about 30h of data of M81 82. My goal was to bring out the IFN very clear. In this version however I ignored this goal and tried to get out the most of the glaxaxies while keeping the background smooth.",
+    "h": 1944,
+    "hash": null,
+    "id": 271693,
+    "imaging_cameras": [
+        "ATIK 460ex mono"
+    ],
+    "imaging_telescopes": [
+        "TS Optics 102mm f/7 Triplet Apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "288.520",
+    "pixscale": "1.612",
+    "published": "2016-11-10T22:01:56.433166",
+    "ra": "148.863",
+    "radius": "0.728",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271693/",
+    "revisions": [
+        "/api/v1/imagerevision/103969/",
+        "/api/v1/imagerevision/105751/",
+        "/api/v1/imagerevision/119400/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M 81 82",
+    "updated": "2021-03-17T22:31:33.530833",
+    "uploaded": "2016-11-10T22:01:58.232901",
+    "url_duckduckgo": "https://www.astrobin.com/271693/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271693/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271693/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271693/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271693/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271693/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271693/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9498/2016/1b1aa3a2-3b48-45b7-b78c-20eeadab096d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/9498/2016/1b1aa3a2-3b48-45b7-b78c-20eeadab096d-1582429633.png",
+    "url_thumb": "https://www.astrobin.com/271693/0/rawthumb/thumb/",
+    "user": "StefanMuckenhuber",
+    "views": 485,
+    "w": 2608
+}

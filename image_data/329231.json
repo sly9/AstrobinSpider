@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "25.957",
+    "description": "",
+    "h": 2143,
+    "hash": null,
+    "id": 329231,
+    "imaging_cameras": [
+        "Moravian Instruments G2 8300",
+        "Moravian Instrument G3 11000"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD100F3.8",
+        "TEC 140 TEC140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808260/"
+    ],
+    "orientation": "91.022",
+    "pixscale": "2.941",
+    "published": "2018-01-13T13:57:18.661835",
+    "ra": "70.023",
+    "radius": "1.597",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329231/",
+    "revisions": [],
+    "subjects": [
+        "IC 2087"
+    ],
+    "title": "ic2087",
+    "updated": "2021-03-17T16:50:40.469997",
+    "uploaded": "2018-01-13T13:57:19.463505",
+    "url_duckduckgo": "https://www.astrobin.com/329231/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329231/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329231/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329231/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329231/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329231/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329231/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22318/2018/679d53cc-e119-4f51-9e96-e36d32850e9d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22318/2018/679d53cc-e119-4f51-9e96-e36d32850e9d-1582504097.jpg",
+    "url_thumb": "https://www.astrobin.com/329231/0/rawthumb/thumb/",
+    "user": "Gordon_Wright",
+    "views": 264,
+    "w": 3270
+}

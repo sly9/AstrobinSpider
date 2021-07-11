@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "54.347",
+    "description": "Classic face-on galaxy at 27MLY in UMa and twice the size of the Milky Way, it has a low surface brightness and is quite asymmetric. It probably underwent a major collision to cause its strong asymmetry. It has a large number of HII regions with hot young stars.\r\n\r\n12.3 hr HaLRGB imaged at D.A.R.C. Observatory, Mercey Hot Springs, CA.\r\n6/5/16, 4/21/17, 5/27/17, 5/28/17\r\nSQM 21.4 to 21.6\r\n\r\nJ-version 5/27/20",
+    "h": 1302,
+    "hash": null,
+    "id": 299304,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 130/780 f/6 LW CNC II 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.088",
+    "pixscale": "1.551",
+    "published": "2017-06-12T05:34:20.479063",
+    "ra": "210.795",
+    "radius": "0.476",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299304/",
+    "revisions": [
+        "/api/v1/imagerevision/118618/",
+        "/api/v1/imagerevision/197353/",
+        "/api/v1/imagerevision/234987/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5477"
+    ],
+    "title": "M101 Pinwheel Galaxy",
+    "updated": "2021-04-09T21:00:59.712823",
+    "uploaded": "2017-06-12T06:34:21.110286",
+    "url_duckduckgo": "https://www.astrobin.com/299304/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299304/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299304/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299304/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299304/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299304/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299304/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6912/2017/e7b69503-615f-4a3d-b576-7ab24e32d3ce.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6912/2017/e7b69503-615f-4a3d-b576-7ab24e32d3ce-1582592279.jpg",
+    "url_thumb": "https://www.astrobin.com/299304/0/rawthumb/thumb/",
+    "user": "jeffweiss9",
+    "views": 511,
+    "w": 1786
+}

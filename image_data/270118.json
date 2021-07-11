@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "4.966",
+    "description": "The Rosette Nebula (AKA Caldwell 49) is a large, diffused H II region towards the constellation of Monoceros. The UV photons from the open cluster NGC 2244 (Caldwell 50) is a main source for ionizing the surrounding abundant hydrogen atoms. Due to the rose-like appearance, this Rose may be the biggest Rose in the entire universe.",
+    "h": 2472,
+    "hash": null,
+    "id": 270118,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801293/"
+    ],
+    "orientation": "0.289",
+    "pixscale": "2.096",
+    "published": "2016-11-01T09:24:01.992676",
+    "ra": "98.037",
+    "radius": "1.199",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270118/",
+    "revisions": [
+        "/api/v1/imagerevision/103195/",
+        "/api/v1/imagerevision/103196/",
+        "/api/v1/imagerevision/103201/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula (SHO) - @DSW",
+    "updated": "2021-03-17T22:36:53.719768",
+    "uploaded": "2016-11-01T09:24:02.504180",
+    "url_duckduckgo": "https://www.astrobin.com/270118/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270118/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270118/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270118/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270118/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270118/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270118/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8466/2016/e6c1b7b0-e22d-4029-9653-2f9f3c287334.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8466/2016/e6c1b7b0-e22d-4029-9653-2f9f3c287334-1582575115.jpg",
+    "url_thumb": "https://www.astrobin.com/270118/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 393,
+    "w": 3294
+}

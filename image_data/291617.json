@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "0.138",
+    "description": "SBIG STXL 6303 camera/ FW8G/ AO-X and AT 16RCT telescope with AP 27 TVPH reducer. Astrodon Gen 2 LRGB filter set. AP 1200 mount. \r\nExposure times are 31 X 15 min Lum, 24 X 10 min Red, 23 X 10 min Green, and 21 X 10 min Blue. Bin 1X1. \r\nSensor temp @ -35 deg. \r\nFrames acquired with MaxIm DL 6, calibrated and combined in CCD Stack2. Processed with PixInsight 1.8. \r\nStardust Ranch, Okeechobee FL",
+    "h": 1190,
+    "hash": null,
+    "id": 291617,
+    "imaging_cameras": [
+        "SBIG STXL 6303 AO-X"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech 16 RCT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 290,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "85.641",
+    "pixscale": "0.746",
+    "published": "2017-04-12T21:48:07.839172",
+    "ra": "86.683",
+    "radius": "0.374",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/291617/",
+    "revisions": [
+        "/api/v1/imagerevision/137639/"
+    ],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M 78 in Orion",
+    "updated": "2021-03-17T21:11:08.829705",
+    "uploaded": "2017-04-12T22:48:08.140641",
+    "url_duckduckgo": "https://www.astrobin.com/291617/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291617/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291617/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291617/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291617/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291617/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291617/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/8d7faafc-3b8a-42e3-bc8a-03f24a6d5e4a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8d7faafc-3b8a-42e3-bc8a-03f24a6d5e4a-1492033822.jpg",
+    "url_thumb": "https://www.astrobin.com/291617/0/rawthumb/thumb/",
+    "user": "SteveCooper",
+    "views": 845,
+    "w": 1824
+}

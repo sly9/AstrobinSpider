@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "61.379",
+    "description": "I have perhaps stretched things a little too far and introduced some noise which would require a lot more exposure time to smooth out given the same degree of stretching. However, there is 4 hours of S2, 2 hours 40mins of Ha and 4 hours of O3 for a total integration time of 10 hours and 40 minutes.\r\n\r\nInterestingly the S2 signal was noticeably stronger than the O3, so for those wishing to Bi-Colour this one please note. Teamviewer12 performed well last night enabling me to enjoy the comfort of my lounge for much of the session.",
+    "h": 3516,
+    "hash": null,
+    "id": 322045,
+    "imaging_cameras": [
+        "Atik 16200  Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FSQ106EDX IV"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807163/"
+    ],
+    "orientation": "359.422",
+    "pixscale": "2.329",
+    "published": "2017-11-18T12:20:16.824585",
+    "ra": "38.242",
+    "radius": "1.817",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/322045/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "IC1805 SII/Ha/OIII",
+    "updated": "2021-03-17T19:11:00.441579",
+    "uploaded": "2017-11-18T12:20:17.681390",
+    "url_duckduckgo": "https://www.astrobin.com/322045/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/322045/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/322045/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/322045/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/322045/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/322045/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/322045/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7255/2020/3cf29051-65bb-41e7-87ec-f571d983fea0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7255/2020/3cf29051-65bb-41e7-87ec-f571d983fea0-1582588121.jpg",
+    "url_thumb": "https://www.astrobin.com/322045/0/rawthumb/thumb/",
+    "user": "Nimbus",
+    "views": 275,
+    "w": 4378
+}

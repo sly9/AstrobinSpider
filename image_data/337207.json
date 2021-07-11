@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "2.420",
+    "description": "",
+    "h": 4168,
+    "hash": null,
+    "id": 337207,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806964/"
+    ],
+    "orientation": "0.581",
+    "pixscale": "0.702",
+    "published": "2018-03-12T20:09:45.494839",
+    "ra": "188.583",
+    "radius": "0.490",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337207/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4527",
+        "NGC 4533",
+        "NGC 4536"
+    ],
+    "title": "NGC 4527 and NGC 4536",
+    "updated": "2021-03-17T16:14:23.407722",
+    "uploaded": "2018-03-12T20:09:47.626752",
+    "url_duckduckgo": "https://www.astrobin.com/337207/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337207/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337207/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337207/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337207/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337207/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337207/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/67969f2e-05b8-4998-b7fb-c3f5d57c3057.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/67969f2e-05b8-4998-b7fb-c3f5d57c3057-1582598666.jpg",
+    "url_thumb": "https://www.astrobin.com/337207/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 406,
+    "w": 2810
+}

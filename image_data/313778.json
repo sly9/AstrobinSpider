@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "19.008",
+    "description": "",
+    "h": 2744,
+    "hash": null,
+    "id": 313778,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "358.135",
+    "pixscale": "0.635",
+    "published": "2017-09-26T03:32:03.071395",
+    "ra": "29.833",
+    "radius": "0.302",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313778/",
+    "revisions": [],
+    "subjects": [
+        "NGC 770",
+        "NGC 772"
+    ],
+    "title": "NGC 772 Galaxy",
+    "updated": "2021-03-17T19:44:17.383973",
+    "uploaded": "2017-09-26T04:32:03.554693",
+    "url_duckduckgo": "https://www.astrobin.com/313778/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313778/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313778/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313778/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313778/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313778/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313778/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/6a33d400-5d40-4d2b-a3cd-bee57aeb1f7e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/6a33d400-5d40-4d2b-a3cd-bee57aeb1f7e-1582598843.jpg",
+    "url_thumb": "https://www.astrobin.com/313778/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 307,
+    "w": 2048
+}

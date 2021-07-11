@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "62.563",
+    "description": "HaOIII BiColor Image",
+    "h": 3336,
+    "hash": null,
+    "id": 312031,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 179,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "88.912",
+    "pixscale": "1.264",
+    "published": "2017-09-12T23:02:33.757810",
+    "ra": "344.293",
+    "radius": "0.991",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312031/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Cave Nebula",
+    "updated": "2021-03-17T19:51:42.497319",
+    "uploaded": "2017-09-13T00:02:34.452995",
+    "url_duckduckgo": "https://www.astrobin.com/312031/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312031/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312031/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312031/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312031/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312031/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312031/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20996/2020/0e78efc9-325c-401d-b02d-3003149b8dd4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20996/2020/0e78efc9-325c-401d-b02d-3003149b8dd4-1598884570.jpg",
+    "url_thumb": "https://www.astrobin.com/312031/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1156,
+    "w": 4551
+}

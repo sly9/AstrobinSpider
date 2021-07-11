@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "50.976",
+    "description": "<b>Physical Description</b>\r\n\r\n<a href=\"http://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC+2841&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id\">NGC 2841</a> is a flocculent unbarred spiral galaxy in Ursa Major.  Some refer to it as the Tiger's Eye Galaxy, although this name is not universal.\r\n\r\nThe <i>Sky Atlas 2000.0 Companion</i>, 2nd ed., lists it as a Hubble class Sb at 30 Mly distance.  However, <a href=\"https://en.wikipedia.org/wiki/NGC_2841\">Wikipedia's article</a> cites a more recent measure by the HST in 2001 using the galaxy's Cepheid variables to place it at 14.1 Mpc (46 Mly) distance.  This newer, more distant measurement means NGC 2841 is even larger than earlier realized, although I was unable to find a measure or derivation of its size.\r\n\r\nThe spiral arms are patchy and discontinuous, hence the word \"flocculent\", making it similar in structure to M63, the Sunflower Galaxy.  And in fact I imaged M63 during the same nights as this galaxy and hope to process and post an image of it soon.\r\n\r\nInterestingly, NGC 2841 is comprised mostly of young blue stars and few HII regions.  Hence the blueish color that I was able to render with little to no discernible red regions of Hydrogen.\r\n\r\nI found little information on <a href=\"http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=PGC+2387317&submit=SIMBAD+search\">PGC 2387317</a>, just above NGC 2841, other than a radial redshift of 0.06598.  <a href=\"http://simbad.u-strasbg.fr/simbad/sim-id?Ident=PGC+2387030&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id\">PGC 2387030</a>, on the right edge of the wider field of view image, has a redshift of 0.06419, meaning the two are at similar distances.\r\n\r\n<b>Imaging Notes</b>\r\n\r\nI used my older QSI 683 camera for this imaging session as my newer FLI 16200 is presently out of commission being serviced.  One of the features I had forgotten about the QSI camera was its tendency to render over-saturated stars in an oblong fashion as seen in the brightest star to the upper left of the galaxy.  This star is HIP 45965 - SAO 27227 - HD 80566 with magnitude 8.50 and color index (B-V) 1.26, rendered respectfully red here.  To date I have not determined the cause of this distortion.\r\n\r\nMy greatest challenge during this imaging session of several nights was high winds causing worse than usual seeing conditions.  As a consequence of that, I turned on a number of processing steps, in retrospect carried out a little too heavy-handed, such as Deconvolution and UnsharpMask.  Looking more closely at the patchy pattern of the galaxy, one can see that the Deconvolution step in particular rendered little blotchy areas that I normally don't allow in my images.  I may return to this data again and see how it looks with these steps dialed back.\r\n\r\nIn retrospect I also should have set the L channel exposure time for something shorter like 120s.  Several of the stars, more bloated than usual due to the bad seeing, are over-saturated and possibly \"too blue\", although they really are blueish in color.  It's been well over a year since I imaged with this camera, and I had forgotten its \"sweet spot\" for imaging a field such as this one.  I was using an exposure that my FLI ML16200 could have handled much better.\r\n\r\nGiven the wind and other challenges, I'm fairly pleased with the outcome.\r\n\r\n<b>Others' Images</b> (admittedly far better than mine)\r\n> <a href=\"https://apod.nasa.gov/apod/ap140421.html\">Hubble / Subaru APOD</a> (No winds here! And 74x more aperture area than me.)\r\n><a href=\"http://annesastronomynews.com/wp-content/uploads/2012/02/NGC-2841-by-Adam-Block.jpg\"> Adam Block's from Mt. Lemmon</a> (No LP here! 9x more aperture area than me.)\r\n\r\n<b>I hope you enjoy, and feel free to leave comments, suggestions, etc.  Thank you for looking!</b>",
+    "h": 2404,
+    "hash": null,
+    "id": 394422,
+    "imaging_cameras": [
+        "QSI 683ws-8"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 271,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "359.837",
+    "pixscale": "0.397",
+    "published": "2019-03-07T05:11:01.391499",
+    "ra": "140.512",
+    "radius": "0.222",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394422/",
+    "revisions": [
+        "/api/v1/imagerevision/172528/",
+        "/api/v1/imagerevision/172529/",
+        "/api/v1/imagerevision/172530/",
+        "/api/v1/imagerevision/219116/"
+    ],
+    "subjects": [
+        "NGC 2841",
+        "NGC2841"
+    ],
+    "title": "NGC 2841 (UMa) Flocculent Spiral  in LRGB",
+    "updated": "2021-05-18T22:14:04.587345",
+    "uploaded": "2019-03-07T03:12:46.236893",
+    "url_duckduckgo": "https://www.astrobin.com/394422/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394422/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394422/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394422/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394422/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394422/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394422/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/09b636f6-38ee-4bb5-9488-fe2f4541b48d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/09b636f6-38ee-4bb5-9488-fe2f4541b48d-1551928771.jpg",
+    "url_thumb": "https://www.astrobin.com/394422/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 1258,
+    "w": 3226
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "42.242",
+    "description": "This wide field image shows a large nebular complex, LBN 292, in the constellation Cygnus. It is composed primarily of hydrogen and dust, carved and folded by the energy of the nearby stars. At the center of the image are two reflection nebulas, vdB131 and vdB132. Together these two nebula are cataloged NGC 6914.\r\n\r\nI was fortunate to have six sequential days of clear nights. Unfortunately, I also experienced a sequence of equipment failures, including the intermittent loss of the TEC cooling for the camera. Five to six hour acquisition sessions resulted in only 2 or so hours of useable light subs on most nights. All in all, however, I was able to collect more than 20 hours of data to create this image. This version is SHO with RGB stars. I will posting alternative processing of these data in the future.",
+    "h": 3395,
+    "hash": "anetmh",
+    "id": 429857,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "119.005",
+    "pixscale": "2.300",
+    "published": "2019-09-27T21:20:17.355088",
+    "ra": "306.247",
+    "radius": "1.799",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/429857/",
+    "revisions": [],
+    "subjects": [
+        "B346",
+        "NGC 6910",
+        "NGC 6914",
+        "NGC6910",
+        "NGC6914",
+        "PK081+03.1",
+        "VdB131",
+        "VdB132"
+    ],
+    "title": "NGC 6914 (vdB131 and vdB132) and the surrounding nebula (LBN 292)",
+    "updated": "2021-07-07T00:18:27.649276",
+    "uploaded": "2019-09-27T22:20:17.739046",
+    "url_duckduckgo": "https://www.astrobin.com/anetmh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/anetmh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/anetmh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/anetmh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/anetmh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/anetmh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/anetmh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/3d85be4c-a693-4bc8-ac2e-3670dbed8c2e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/3d85be4c-a693-4bc8-ac2e-3670dbed8c2e-1582149179.jpg",
+    "url_thumb": "https://www.astrobin.com/anetmh/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 534,
+    "w": 4491
+}

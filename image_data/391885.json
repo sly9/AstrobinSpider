@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "9.857",
+    "description": "This is from my double Esprit rig with the ASI1600MM collecting Ha (Baader 3.5 nm filter) on the Esprit 100 (19 x 10 min, gain 139, offset 50, -20°C) and ASI071MC (63 x 5 min, gain 200, offset 30, -15°C) collecting RGB on the Esprit 150. I ended up replacing the red channel with Ha as it looked best, so it is a HaGB rather than HaRGB image.",
+    "h": 3742,
+    "hash": null,
+    "id": 391885,
+    "imaging_cameras": [
+        "ZWO ASI 071 MC Pro Color Cool",
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100ED Super APO Triplet",
+        "SkyWatcher Esprit 150 ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "7.832",
+    "pixscale": "1.297",
+    "published": "2019-02-20T12:59:22.842972",
+    "ra": "100.215",
+    "radius": "0.819",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391885/",
+    "revisions": [
+        "/api/v1/imagerevision/171038/",
+        "/api/v1/imagerevision/171039/",
+        "/api/v1/imagerevision/171108/",
+        "/api/v1/imagerevision/171184/",
+        "/api/v1/imagerevision/171185/",
+        "/api/v1/imagerevision/171247/",
+        "/api/v1/imagerevision/171303/"
+    ],
+    "subjects": [
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "NGC2264 Cone Nebula and Christmas Tree Cluster HaGB",
+    "updated": "2021-06-08T11:17:43.882802",
+    "uploaded": "2019-02-20T12:59:23.173546",
+    "url_duckduckgo": "https://www.astrobin.com/391885/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391885/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391885/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391885/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391885/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391885/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391885/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2019/fda93b1c-0709-4396-a54f-6cc7ce58435f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2019/fda93b1c-0709-4396-a54f-6cc7ce58435f-1582579270.jpg",
+    "url_thumb": "https://www.astrobin.com/391885/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 1778,
+    "w": 2580
+}

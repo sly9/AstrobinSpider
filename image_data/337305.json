@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "33.968",
+    "description": "",
+    "h": 2000,
+    "hash": null,
+    "id": 337305,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Deep Sky Instruments RC Optical 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801293/"
+    ],
+    "orientation": "281.056",
+    "pixscale": "0.551",
+    "published": "2018-03-13T14:52:37.363202",
+    "ra": "339.000",
+    "radius": "0.216",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337305/",
+    "revisions": [
+        "/api/v1/imagerevision/139560/",
+        "/api/v1/imagerevision/139563/",
+        "/api/v1/imagerevision/139564/",
+        "/api/v1/imagerevision/139620/",
+        "/api/v1/imagerevision/139621/"
+    ],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "Stephan's Quintet"
+    ],
+    "title": "Stephan's Quintet (@DSWRO)",
+    "updated": "2021-03-17T16:13:54.111237",
+    "uploaded": "2018-03-13T14:52:39.991890",
+    "url_duckduckgo": "https://www.astrobin.com/337305/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337305/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337305/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337305/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337305/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337305/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337305/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8466/2018/296f35dd-ddc7-4182-8741-36a636224402.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8466/2018/296f35dd-ddc7-4182-8741-36a636224402-1582574951.jpg",
+    "url_thumb": "https://www.astrobin.com/337305/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 329,
+    "w": 2000
+}

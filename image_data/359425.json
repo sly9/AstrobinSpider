@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "22.721",
+    "description": "Yet another M27 LRGB, NB version, why?\r\nWell, because it's a summer astro photography target up here/in Denmark, and it's an relatively \"easy target\" to catch :-)\r\nThe M27 nebula picture is composed as a MasterLUM, RHa,GOIII,BOIII picture.\r\nExposures were:\r\nLum=52x30sec, R=20x30sec, G=20x30sec, B=22x30sec. Ha=6x300sec, OIII=7x300sec.\r\nThe Master Lum consist of Luminance and narrow band info. blended together.\r\n\r\nIn DK CPH it's summer time, 25->30 degrees centigrade during daytime and the nights are bright.\r\n\r\nMy home build observatory is placed in my front yard/in the \"red light\" polution zone, have a look here,\r\n<a href=\"http://www.dl.dropboxusercontent.com/s/lnr3elrgm81uj0i/Light-polution-mapDK.jpg?raw=1\"; target=\"_new\">Red Zone</a>\r\n\r\nKind regards Niels",
+    "h": 866,
+    "hash": null,
+    "id": 359425,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cooled ZWO mono"
+    ],
+    "imaging_telescopes": [
+        "Meade Lx200ACF 16\" F6.2 Meade SCT 16\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806588/"
+    ],
+    "orientation": "335.771",
+    "pixscale": "1.097",
+    "published": "2018-08-03T15:16:21.128773",
+    "ra": "299.889",
+    "radius": "0.219",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/359425/",
+    "revisions": [
+        "/api/v1/imagerevision/288784/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M27 Nebula, a LRGB picture modified with Ha and OIII info.",
+    "updated": "2021-05-26T14:30:14.554361",
+    "uploaded": "2018-08-03T16:16:21.383037",
+    "url_duckduckgo": "https://www.astrobin.com/359425/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/359425/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/359425/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/359425/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/359425/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/359425/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/359425/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bde547f9-ea87-4b8f-a39c-5dabdad090ef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bde547f9-ea87-4b8f-a39c-5dabdad090ef-1533313594.jpg",
+    "url_thumb": "https://www.astrobin.com/359425/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 442,
+    "w": 1147
+}

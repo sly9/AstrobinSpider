@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "2.084",
+    "description": "In this version I have stayed true to the blue colors throughout, consistent with the Hubble image, as per the following: https://www.messier-objects.com/wp-content/uploads/2015/01/Messier-5-Hubble.jpg",
+    "h": 1968,
+    "hash": null,
+    "id": 403419,
+    "imaging_cameras": [
+        "SBIG STXL 6303 AO-X"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK 17"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805511/"
+    ],
+    "orientation": "276.293",
+    "pixscale": "0.631",
+    "published": "2019-04-30T00:29:52.258461",
+    "ra": "229.639",
+    "radius": "0.313",
+    "remote_source": "NMS",
+    "resource_uri": "/api/v1/image/403419/",
+    "revisions": [
+        "/api/v1/imagerevision/189642/",
+        "/api/v1/imagerevision/279592/"
+    ],
+    "subjects": [
+        "M 5",
+        "NGC 5904"
+    ],
+    "title": "M5 Again",
+    "updated": "2021-03-24T15:32:21.583790",
+    "uploaded": "2019-04-30T01:29:52.658842",
+    "url_duckduckgo": "https://www.astrobin.com/403419/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403419/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403419/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403419/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403419/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403419/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403419/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14449/2019/ede64878-aa99-4a60-aa21-3fc320835c0c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14449/2019/ede64878-aa99-4a60-aa21-3fc320835c0c-1582540032.jpg",
+    "url_thumb": "https://www.astrobin.com/403419/0/rawthumb/thumb/",
+    "user": "JimMorse",
+    "views": 139,
+    "w": 2980
+}

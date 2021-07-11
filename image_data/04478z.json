@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-2.546",
+    "description": "A couple months ago I had the plan to image the famous horsehead, however a single panel failed to include a lot of the interesting surrounding nebulosity and so I upped it to a 3 panel. \r\nOn top of that I decided to make it an HaLRGB image, I estimated roughly 11 hours per panel, 5 to Ha, 3 to L and 3 to RGB. In actuality it equated to 32.5 hours total!\r\nThis has been my most ambitious project yet, I spent over a month just acquiring the sufficient data, several days spent processing (9k x 4k images are slow on my computer)",
+    "h": 4390,
+    "hash": "04478z",
+    "id": 450571,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC PRO"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/4 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "https://okewoke.com/gallery/17",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812485/"
+    ],
+    "orientation": "89.197",
+    "pixscale": "0.973",
+    "published": "2020-01-22T01:29:42.000710",
+    "ra": "85.198",
+    "radius": "1.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450571/",
+    "revisions": [],
+    "subjects": [
+        "Horsehead nebula",
+        "IC 431",
+        "IC 432",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "The Horsehead and Flame Nebula",
+    "updated": "2021-03-17T05:28:07.773954",
+    "uploaded": "2020-01-22T01:29:42.203622",
+    "url_duckduckgo": "https://www.astrobin.com/04478z/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/04478z/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/04478z/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/04478z/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/04478z/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/04478z/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/04478z/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/53213/2020/7572acf9-da08-4b0c-83a7-bc86d2201c55.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/53213/2020/7572acf9-da08-4b0c-83a7-bc86d2201c55-1579657568.jpg",
+    "url_thumb": "https://www.astrobin.com/04478z/0/rawthumb/thumb/",
+    "user": "OkeWoke",
+    "views": 87,
+    "w": 9030
+}

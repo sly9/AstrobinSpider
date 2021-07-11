@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "28.842",
+    "description": "",
+    "h": 2688,
+    "hash": null,
+    "id": 335231,
+    "imaging_cameras": [
+        "Moravian Instruments G2 8300",
+        "Moravian Instrument G3 11000"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD100F3.8",
+        "TEC 140 TEC140"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808260/"
+    ],
+    "orientation": "269.885",
+    "pixscale": "2.451",
+    "published": "2018-02-25T12:53:34.537688",
+    "ra": "63.934",
+    "radius": "1.644",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335231/",
+    "revisions": [
+        "/api/v1/imagerevision/138111/",
+        "/api/v1/imagerevision/138115/"
+    ],
+    "subjects": [
+        "IC 359"
+    ],
+    "title": "LBN782 LRGB",
+    "updated": "2021-03-20T10:48:35.914253",
+    "uploaded": "2018-02-25T12:53:36.334226",
+    "url_duckduckgo": "https://www.astrobin.com/335231/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335231/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335231/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335231/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335231/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335231/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335231/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22318/2018/b59f8b3f-b951-4cd4-8eca-c565e83d688b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22318/2018/b59f8b3f-b951-4cd4-8eca-c565e83d688b-1582504075.jpg",
+    "url_thumb": "https://www.astrobin.com/335231/0/rawthumb/thumb/",
+    "user": "Gordon_Wright",
+    "views": 686,
+    "w": 4012
+}

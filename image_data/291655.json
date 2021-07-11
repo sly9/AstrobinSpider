@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "69.067",
+    "description": "",
+    "h": 3814,
+    "hash": null,
+    "id": 291655,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806980/"
+    ],
+    "orientation": "359.276",
+    "pixscale": "0.654",
+    "published": "2017-04-13T08:34:02.427738",
+    "ra": "148.892",
+    "radius": "0.429",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291655/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81: Bode's Galaxy",
+    "updated": "2021-05-11T05:53:20.775551",
+    "uploaded": "2017-04-13T09:34:02.864445",
+    "url_duckduckgo": "https://www.astrobin.com/291655/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291655/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291655/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291655/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291655/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291655/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291655/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/ef19b54d-eea8-477c-8c86-2804d43225dd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/ef19b54d-eea8-477c-8c86-2804d43225dd-1582599062.jpg",
+    "url_thumb": "https://www.astrobin.com/291655/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 402,
+    "w": 2786
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "62.546",
+    "description": "LRGB (35, 17, 15, 16) 600s each",
+    "h": 2504,
+    "hash": null,
+    "id": 268983,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDEDX IIII Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806015/"
+    ],
+    "orientation": "359.875",
+    "pixscale": "2.095",
+    "published": "2016-10-21T13:06:33.155015",
+    "ra": "344.389",
+    "radius": "1.211",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268983/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Cave Nebula",
+    "updated": "2021-03-17T22:41:09.551711",
+    "uploaded": "2016-10-21T14:06:33.155015",
+    "url_duckduckgo": "https://www.astrobin.com/268983/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268983/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268983/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268983/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268983/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268983/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268983/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18949/2016/0370b1e8-0dc0-4f71-9aa8-e7ac0668d8a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18949/2016/0370b1e8-0dc0-4f71-9aa8-e7ac0668d8a3-1582459761.jpg",
+    "url_thumb": "https://www.astrobin.com/268983/0/rawthumb/thumb/",
+    "user": "Kwas",
+    "views": 145,
+    "w": 3326
+}

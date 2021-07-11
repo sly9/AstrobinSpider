@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.159",
+    "description": "",
+    "h": 3369,
+    "hash": "vawtug",
+    "id": 432270,
+    "imaging_cameras": [
+        "MORAVIAN G3-16200"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes 12\" RC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810728/"
+    ],
+    "orientation": "229.034",
+    "pixscale": "0.523",
+    "published": "2019-10-08T18:22:40.556726",
+    "ra": "28.217",
+    "radius": "0.394",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/432270/",
+    "revisions": [],
+    "subjects": [
+        "NGC 703",
+        "NGC 708"
+    ],
+    "title": "Abell 262",
+    "updated": "2021-03-17T08:47:01.562683",
+    "uploaded": "2019-10-08T19:22:41.533698",
+    "url_duckduckgo": "https://www.astrobin.com/vawtug/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vawtug/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vawtug/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vawtug/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vawtug/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vawtug/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vawtug/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22620/2019/e1b2167c-b64b-40e2-8858-aad26cf4de87.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22620/2019/e1b2167c-b64b-40e2-8858-aad26cf4de87-1582574650.jpg",
+    "url_thumb": "https://www.astrobin.com/vawtug/0/rawthumb/thumb/",
+    "user": "Datalord",
+    "views": 53,
+    "w": 4245
+}

@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "4.943",
+    "description": "The rosette nebula it's the first image with my new camera ASI1600MMCooled\r\nand the CFF 102/635 with the ts reducer 3\"",
+    "h": 1380,
+    "hash": null,
+    "id": 284422,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cooled ASI 1600"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes 102/635 apo triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798105/"
+    ],
+    "orientation": "180.796",
+    "pixscale": "1.522",
+    "published": "2017-02-20T18:05:56.735707",
+    "ra": "97.985",
+    "radius": "1.218",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/284422/",
+    "revisions": [
+        "/api/v1/imagerevision/134477/",
+        "/api/v1/imagerevision/225027/",
+        "/api/v1/imagerevision/225029/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "ROSETTE NEBULA",
+    "updated": "2021-03-22T11:13:38.735602",
+    "uploaded": "2017-02-20T18:05:57.718753",
+    "url_duckduckgo": "https://www.astrobin.com/284422/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/284422/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/284422/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/284422/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/284422/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/284422/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/284422/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1184/2017/623dc7a3-66a1-4bd1-aaf4-d42e283842a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/623dc7a3-66a1-4bd1-aaf4-d42e283842a3-1488319938.jpg",
+    "url_thumb": "https://www.astrobin.com/284422/0/rawthumb/thumb/",
+    "user": "stephane55",
+    "views": 1227,
+    "w": 1824
+}

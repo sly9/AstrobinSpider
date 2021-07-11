@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "9.909",
+    "description": "Fox Fur Nebula\r\nShot with the SC Observatories 4x Officina Stellare RH300 array\r\n87 hours total integration of Ha, O3, S2, B\r\nO3 - 210 x 300 = 17.5\r\nS2 - 194 x 300 = 16.16\r\nHa - 499 x 300 = 41.58\r\nB - 132 x 300 = 11 \r\nStars:\r\nR - 32 x 30 = .25\r\nG - 31 x 30 = .25\r\nB - 38 x 30 = .25\r\nSC Observatory Team: Andy Chatman, Stefan Schmidt, Mike Selby",
+    "h": 1152,
+    "hash": null,
+    "id": 337749,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation PL 16803",
+        "FLI Proline PL29052",
+        "Finger Lakes Instrumentation ML 29052"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare 4xArray RH300AT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805619/"
+    ],
+    "orientation": "181.994",
+    "pixscale": "1.268",
+    "published": "2018-03-17T15:54:08.094627",
+    "ra": "100.204",
+    "radius": "1.315",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337749/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "Fox Fur Nebula",
+    "updated": "2021-03-17T16:11:47.839841",
+    "uploaded": "2018-03-17T15:54:12.381350",
+    "url_duckduckgo": "https://www.astrobin.com/337749/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337749/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337749/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337749/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337749/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337749/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337749/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/125949e0-c282-498e-93e3-b12625a2b7fb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/125949e0-c282-498e-93e3-b12625a2b7fb-1521302478.jpg",
+    "url_thumb": "https://www.astrobin.com/337749/0/rawthumb/thumb/",
+    "user": "mselby",
+    "views": 212,
+    "w": 1824
+}

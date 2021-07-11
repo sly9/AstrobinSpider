@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "56.676",
+    "description": "SHO  > 30 hours total exposure",
+    "h": 883,
+    "hash": null,
+    "id": 312611,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 8,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "180.194",
+    "pixscale": "1.610",
+    "published": "2017-09-17T15:48:08.332838",
+    "ra": "13.282",
+    "radius": "0.274",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312611/",
+    "revisions": [
+        "/api/v1/imagerevision/133815/"
+    ],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "ngc 281 pillars",
+    "updated": "2021-03-17T19:49:23.988972",
+    "uploaded": "2017-09-17T16:48:10.190853",
+    "url_duckduckgo": "https://www.astrobin.com/312611/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312611/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312611/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312611/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312611/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312611/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312611/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11713/2017/bfe78ef4-22d2-460f-8bb6-14e9ebc8208b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bfe78ef4-22d2-460f-8bb6-14e9ebc8208b-1505672221.jpg",
+    "url_thumb": "https://www.astrobin.com/312611/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 55,
+    "w": 850
+}

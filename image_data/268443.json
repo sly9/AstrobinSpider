@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "61.293",
+    "description": "2016/11/05  Details exposures at : http://www.astrobin.com/271101/user\r\n--------------\r\n2016/11/02   Improved red color\r\n---------------\r\n2016/10/17   New Luminance Ha + OIII\r\n---------------\r\nA 6.500 AL dans la constellation de Cassiopée :\r\nRenseignements sur cette constellation en collant le lien ci-dessous dans votre navigateur :\r\nhttps://fr.wikipedia.org/wiki/Cassiop%C3%A9e_(constellation)\r\n\r\nLa nébuleuse à émission du Coeur IC 1805 s'étend sur 200 AL. Elle contient l'amas ouvert Melotte 15 et la nébuleuse planétaire WeBo 1 la petite tâche bleutée au milieu et à gauche de l'image.\r\nPour avoir une idée de la dimension apparente de cette région dans le ciel dites vous que l'image pourrait contenir près de 3 fois la pleine Lune !",
+    "h": 1810,
+    "hash": null,
+    "id": 268443,
+    "imaging_cameras": [
+        "QSI 640 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800894/"
+    ],
+    "orientation": "179.836",
+    "pixscale": null,
+    "published": "2016-10-16T16:19:43.625517",
+    "ra": "38.480",
+    "radius": "1.129",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268443/",
+    "revisions": [
+        "/api/v1/imagerevision/102337/",
+        "/api/v1/imagerevision/103304/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC 1805 Heart Nebula in HOO RGB",
+    "updated": "2021-05-23T12:50:17.459797",
+    "uploaded": "2016-10-16T17:19:43.625517",
+    "url_duckduckgo": "https://www.astrobin.com/268443/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268443/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268443/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268443/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268443/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268443/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268443/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/c2f0796a-de69-45d4-9b8c-b773d2fad415.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c2f0796a-de69-45d4-9b8c-b773d2fad415.jpg",
+    "url_thumb": "https://www.astrobin.com/268443/0/rawthumb/thumb/",
+    "user": "Douroux",
+    "views": 629,
+    "w": 1824
+}

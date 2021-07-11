@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "PRO_DATA",
+    "dec": "33.028",
+    "description": "This famous object really do not need much introduction.\r\nThis is a HaRGB image while most of the other high resolution images of the Ring that I have seen are narrow band images, which may make this one a bit special. It contains more Ha data than most of the others from LT data that I have processed, which helped a lot to reveal the outer shells of this planetary nebula.\r\n\r\nFilters and exposures used:\r\nsdss-r  17 x 90 s\r\nHa  15 x 120 s (mixed 50:50 with sdss-r for red channel)\r\nBessell B 21 x 90 s (blue channel)\r\nBessell V 16 x 90 s (green channel)\r\nSo totally 1.85 hours of data stacked in Nebulosity 4 and processed in PS CS5",
+    "h": 1912,
+    "hash": null,
+    "id": 295927,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "90.015",
+    "pixscale": "0.303",
+    "published": "2017-05-17T15:56:30.171345",
+    "ra": "283.396",
+    "radius": "0.116",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295927/",
+    "revisions": [
+        "/api/v1/imagerevision/116736/",
+        "/api/v1/imagerevision/119204/",
+        "/api/v1/imagerevision/119206/",
+        "/api/v1/imagerevision/119213/",
+        "/api/v1/imagerevision/119250/"
+    ],
+    "subjects": [
+        "IC 1296",
+        "IC1296",
+        "M 57",
+        "M57",
+        "NGC 6720",
+        "PK063+13.1",
+        "Ring nebula",
+        "Ring nebula in Lyra"
+    ],
+    "title": "The Ring Nebula M57 with outer shells in HaRGB",
+    "updated": "2021-04-23T06:22:38.576385",
+    "uploaded": "2017-05-17T16:56:30.916112",
+    "url_duckduckgo": "https://www.astrobin.com/295927/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295927/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295927/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295927/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295927/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295927/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295927/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/e06bd4dc-409c-45db-9cf7-75c196e4d13a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/e06bd4dc-409c-45db-9cf7-75c196e4d13a-1582579727.jpg",
+    "url_thumb": "https://www.astrobin.com/295927/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 607,
+    "w": 1975
+}

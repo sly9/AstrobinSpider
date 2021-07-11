@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "36.456",
+    "description": "",
+    "h": 1611,
+    "hash": null,
+    "id": 293760,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806981/"
+    ],
+    "orientation": "357.181",
+    "pixscale": "2.060",
+    "published": "2017-04-30T06:52:35.487818",
+    "ra": "250.424",
+    "radius": "0.746",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293760/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205",
+        "NGC 6207"
+    ],
+    "title": "M13: The Great Globular Cluster in Hercules",
+    "updated": "2021-03-17T21:03:12.586104",
+    "uploaded": "2017-04-30T07:52:36.105515",
+    "url_duckduckgo": "https://www.astrobin.com/293760/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293760/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293760/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293760/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293760/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293760/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293760/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/b38e468a-ed44-4e88-8dc4-96942aed41aa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/b38e468a-ed44-4e88-8dc4-96942aed41aa-1582599035.jpg",
+    "url_thumb": "https://www.astrobin.com/293760/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 137,
+    "w": 2048
+}

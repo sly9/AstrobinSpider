@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "18.221",
+    "description": "MBM54 molecular cloud and NGC 7947 galaxy in Pegasus",
+    "h": 2000,
+    "hash": null,
+    "id": 381067,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RIFAst 300"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "http://www.astrogb.com/mbm54.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798111/",
+        "/api/v1/location/2800276/"
+    ],
+    "orientation": "2.347",
+    "pixscale": "1.736",
+    "published": "2018-12-14T05:52:18.255855",
+    "ra": "347.273",
+    "radius": "0.682",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/381067/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7497"
+    ],
+    "title": "MBM54 molecular cloud and NGC 7497 galaxy in Pegasus",
+    "updated": "2021-06-14T13:10:11.419737",
+    "uploaded": "2018-12-14T05:52:18.443633",
+    "url_duckduckgo": "https://www.astrobin.com/381067/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/381067/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/381067/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/381067/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/381067/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/381067/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/381067/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1201/2020/a576826b-d048-4c44-9fcc-4b92b355ea02.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1201/2020/a576826b-d048-4c44-9fcc-4b92b355ea02-1597570164.jpg",
+    "url_thumb": "https://www.astrobin.com/381067/0/rawthumb/thumb/",
+    "user": "gbenint",
+    "views": 371,
+    "w": 2000
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "33.681",
+    "description": "Shot over 3 nights but I forgot to turn TEC on the last night, so only 2 nights integration time : ( \r\nFirst attempt at RGB (10% each channel) and narrowband to get better star colors. O3 = R, Ha = B, synthetic G + RGB for the stars. Only darks, still need to add flats and flat darks... ; )",
+    "h": 1333,
+    "hash": null,
+    "id": 328678,
+    "imaging_cameras": [
+        "QHYCCD 163m"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics GT71"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807834/"
+    ],
+    "orientation": "156.117",
+    "pixscale": "2.311",
+    "published": "2018-01-08T01:32:32.035334",
+    "ra": "79.539",
+    "radius": "1.803",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328678/",
+    "revisions": [
+        "/api/v1/imagerevision/134318/",
+        "/api/v1/imagerevision/134565/",
+        "/api/v1/imagerevision/140204/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "NGC 1893",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "Tadpoles and the Flaming Star",
+    "updated": "2021-03-17T16:53:09.564246",
+    "uploaded": "2018-01-08T01:32:33.720935",
+    "url_duckduckgo": "https://www.astrobin.com/328678/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328678/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328678/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328678/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328678/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328678/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328678/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23525/2018/30834ea8-f390-4d31-82cf-05c5920b8551.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/30834ea8-f390-4d31-82cf-05c5920b8551-1515376214.png",
+    "url_thumb": "https://www.astrobin.com/328678/0/rawthumb/thumb/",
+    "user": "huerbsch",
+    "views": 137,
+    "w": 1824
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 58,
+    "comments": 101,
+    "data_source": "BACKYARD",
+    "dec": "1.877",
+    "description": "LDN1622 is always an interesting object to me. The most interesting part for me is the Parsamian 3 (HBC515, HD288313) area. Anyhow, it looks like a fish trying pretty hard swimming toward the Orion nebula and about to cross the red river of Barnard's Loop...\r\n\r\nIt has been a year since the last Ha<I>L</I>RGB image. It's about time.\r\n\r\nOn and off I captured about 50+ hours of Ha data from the backyard (Guess I had nothing else in mind at that time. LOL). But only got 7.6 hours of RGB data from Atoka dark site. I assume the dark site data is far away from enough. But can't resist the temptation to take a peek what it would look like. Then here it is.\r\n\r\nAs expected the dark cloud is not showing up enough. I consider this is a project in progress. More data will be added in next couple of years to get the \"desired\" result.\r\n\r\nLacking RGB data indeed push the post-processing to the limit. A lot of Range Selection + PixelMath combinations used to extract every single drop of the signal. The starless version of the RGB masters look exactly like heavily pounded battle ground - all kinds of holes. :)\r\n\r\nThe synthetic luminance master was created from starless Ha master joined with the luminance data extracted from combined RGB master. Another fun process to put the pre-main-sequence star area back into the final luminance master.\r\n\r\n<I>Well that's it for now. Looking forward to the next round on this target.</I> &#128065;\r\n\r\n<B>Pre-processing of Narrowband Masters</B>\r\n\r\n– Calibration / Integration, Astro Pixel Processor\r\n– Deconvolution, PixInsight (Only for H-Alpha)\r\n– MultiscaleLinearTransform (Denoise), PixInsight\r\n- Range Selection, PixInsight\r\n- PixelMath, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Pre-processing of RGB Masters</B>\r\n\r\n– Calibration / Integration, Astro Pixel Processor\r\n– Dynamic Background Extraction, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>RGB Combination</B>\r\n\r\n– LRGBCombination, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Narrowband Combination</B>\r\n\r\n– PixelMath, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Narrband & RGB Combination</B>\r\n\r\n– PixelMath, PixInsight\r\n- Detail adjustments, Adobe Lightroom Classic\r\n– Final Export, Photoshop</I>",
+    "h": 2196,
+    "hash": "26zj1a",
+    "id": 454121,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 392,
+    "link": "https://apod.nasa.gov/apod/ap200221.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/",
+        "/api/v1/location/2809968/"
+    ],
+    "orientation": "2.479",
+    "pixscale": "3.022",
+    "published": "2020-02-09T05:28:20.417057",
+    "ra": "89.022",
+    "radius": "1.621",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/454121/",
+    "revisions": [
+        "/api/v1/imagerevision/211604/",
+        "/api/v1/imagerevision/214009/"
+    ],
+    "subjects": [
+        "The star 56Ori",
+        "The star 59Ori"
+    ],
+    "title": "The Boogie Man in Orion",
+    "updated": "2021-06-14T12:06:39.755516",
+    "uploaded": "2020-02-09T04:44:14.875782",
+    "url_duckduckgo": "https://www.astrobin.com/26zj1a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/26zj1a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/26zj1a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/26zj1a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/26zj1a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/26zj1a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/26zj1a/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/fcc443bf-fbe1-489b-8a82-462bed467cb5.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/fcc443bf-fbe1-489b-8a82-462bed467cb5-1581465027.png",
+    "url_thumb": "https://www.astrobin.com/26zj1a/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 4327,
+    "w": 3175
+}

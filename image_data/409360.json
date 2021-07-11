@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "50.528",
+    "description": "Lum : 220 x 30 sec\r\nOIII : 12 x 5min / 60 x 2min / 300 x 2sec\r\nColour : 13 x 5minutes Moravian G3-11000C / Quattro 10\" at FL 2700mm (Barlow 2,67x)\r\nTotal : 6hrs",
+    "h": 1802,
+    "hash": null,
+    "id": 409360,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 190,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.630",
+    "pixscale": "0.605",
+    "published": "2019-06-08T12:49:40.420082",
+    "ra": "296.213",
+    "radius": "0.214",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409360/",
+    "revisions": [
+        "/api/v1/imagerevision/182067/"
+    ],
+    "subjects": [
+        "Blinking planetary",
+        "NGC 6826"
+    ],
+    "title": "C 15 Blinking Planetary (Lum + OIII + Colour)",
+    "updated": "2021-03-17T10:40:20.082532",
+    "uploaded": "2019-06-08T13:37:36.507200",
+    "url_duckduckgo": "https://www.astrobin.com/409360/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409360/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409360/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409360/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409360/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409360/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409360/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/a610d20c-e8b1-4b36-8c4f-02d0d001043c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/a610d20c-e8b1-4b36-8c4f-02d0d001043c-1582640322.jpg",
+    "url_thumb": "https://www.astrobin.com/409360/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 645,
+    "w": 1802
+}

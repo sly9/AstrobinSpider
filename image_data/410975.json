@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.460",
+    "description": "Star Clusters are a different processing challenge to be sure.  With globulars, I've found the challenge is to resolve and maintain star color in the core.   I've tried M13 several times in the past, mostly using short exposures to try and keep from saturating stars.  \r\n\r\nMy approach this time was to not shoot Luminance and use fairly long, 5 minute RGB subs only.  I then stretched the same data twice.  Once very dimly for the core and once more normally for the rest of the image.  These were blended with a luminance mask in Photoshop.",
+    "h": 2304,
+    "hash": null,
+    "id": 410975,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "349.296",
+    "pixscale": "0.728",
+    "published": "2019-06-19T04:46:09.955235",
+    "ra": "250.422",
+    "radius": "0.475",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/410975/",
+    "revisions": [
+        "/api/v1/imagerevision/183130/",
+        "/api/v1/imagerevision/183132/"
+    ],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "M13 RGB Only",
+    "updated": "2021-03-17T10:32:33.447128",
+    "uploaded": "2019-06-19T05:46:10.077657",
+    "url_duckduckgo": "https://www.astrobin.com/410975/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410975/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410975/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410975/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410975/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410975/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410975/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/47b5ea8e-5aa1-44cb-9a5d-31c4688bb0f0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/47b5ea8e-5aa1-44cb-9a5d-31c4688bb0f0-1560924825.jpg",
+    "url_thumb": "https://www.astrobin.com/410975/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 360,
+    "w": 4096
+}

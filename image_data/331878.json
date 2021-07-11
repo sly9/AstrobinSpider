@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "57.092",
+    "description": "SE London, on a SuperMoon.\r\n10 x 3min Luminance\r\n12 x 90secs binned RED\r\n10 x 90 secs binned GREEN\r\n9 x 90 secs Binned BLUE\r\nSkywatcher 130PDS & Atik460EX Baader coma corrector, HEQ5\r\n\r\nTotal  1 hour 16.5 mins\r\nMy first attempt at this target after 8 years of imaging !!!",
+    "h": 1092,
+    "hash": null,
+    "id": 331878,
+    "imaging_cameras": [
+        "Atik 460 EX Mono Atik460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Explorer 130PDS f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798364/"
+    ],
+    "orientation": "265.400",
+    "pixscale": "2.867",
+    "published": "2018-02-01T23:04:36.873252",
+    "ra": "35.156",
+    "radius": "0.696",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331878/",
+    "revisions": [
+        "/api/v1/imagerevision/136041/"
+    ],
+    "subjects": [
+        "Double cluster",
+        "NGC 869",
+        "NGC 884",
+        "The star 7Per"
+    ],
+    "title": "Double Cluster on a Supermoon (SE London)",
+    "updated": "2021-03-17T16:38:53.596594",
+    "uploaded": "2018-02-01T23:04:37.804825",
+    "url_duckduckgo": "https://www.astrobin.com/331878/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331878/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331878/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331878/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331878/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331878/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331878/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/358/2018/6a78def7-9784-4927-bf89-b47840c8719c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/358/2018/6a78def7-9784-4927-bf89-b47840c8719c-1582621629.png",
+    "url_thumb": "https://www.astrobin.com/331878/0/rawthumb/thumb/",
+    "user": "carastro",
+    "views": 250,
+    "w": 1365
+}

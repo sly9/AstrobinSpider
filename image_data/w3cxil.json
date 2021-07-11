@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "-11.873",
+    "description": "Processed with synthetic L derived from RGB.\r\nI did take 130 subs on the Np127is in L, but I get a better result just using the synthetic L from the RGB.\r\nImaged on nights of 8/24/2019 and 8/25/2019.\r\n\r\nNGC 246, known as the Skull Nebula, is a planetary nebula in the constellation Cetus. The nebula and the stars associated with it are listed in several catalogs, as summarized by the SIMBAD database. It is roughly 1,600 light-years away. The nebula's central star is the 12th magnitude white dwarf HIP 3678.\r\n\r\nAmong some amateur astronomers, NGC 246 is known as the \"Pac-Man Nebula\" because of the arrangement of its central stars and the surrounding star field.\r\n(Wikipedia)",
+    "h": 1600,
+    "hash": "w3cxil",
+    "id": 466132,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "358.116",
+    "pixscale": "0.701",
+    "published": "2020-03-17T22:32:41.671305",
+    "ra": "11.765",
+    "radius": "0.249",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/466132/",
+    "revisions": [],
+    "subjects": [
+        "NGC 246",
+        "NGC246",
+        "PGC2800923",
+        "PGC959801",
+        "PK118-74.1"
+    ],
+    "title": "NGC 246 Skull Nebula",
+    "updated": "2021-03-17T04:11:12.964101",
+    "uploaded": "2020-03-17T22:21:12.661692",
+    "url_duckduckgo": "https://www.astrobin.com/w3cxil/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w3cxil/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w3cxil/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w3cxil/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w3cxil/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w3cxil/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w3cxil/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2020/764f0b9c-dc29-4311-acae-16f98ed3910e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2020/764f0b9c-dc29-4311-acae-16f98ed3910e-1584484011.jpg",
+    "url_thumb": "https://www.astrobin.com/w3cxil/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 320,
+    "w": 2000
+}

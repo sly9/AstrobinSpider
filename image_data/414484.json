@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "42.645",
+    "description": "Technical card : \r\n- Takahashi FSQ85 + Corrector\r\n- QHY 163m\r\n- Filters Astrodon Ha, OIII, SII 5nm\r\n- Guiding QHY5LII-m \r\n- Mont AZEQ6GT\r\n\r\n- HA : 62 x 300 s\r\n- OIII : 58 x 300 s\r\n- SII : 39 x 300 s\r\n\r\nTotal : 13h15\r\n\r\nProcessing Pixinsight & Photoshop CS6\r\n\r\nMade over 4 nights from June 1st to June 4th in the Paris region.",
+    "h": 4024,
+    "hash": null,
+    "id": 414484,
+    "imaging_cameras": [
+        "QHYCCD 163m"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Takahasahi FSQ-85EDX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "https://www.astropixels.fr",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.703",
+    "pixscale": "1.707",
+    "published": "2019-07-09T17:38:04.983193",
+    "ra": "312.745",
+    "radius": "1.268",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/414484/",
+    "revisions": [],
+    "subjects": [
+        "IC 5068"
+    ],
+    "title": "IC5068 Narrowband",
+    "updated": "2021-05-09T07:36:15.141494",
+    "uploaded": "2019-07-09T18:38:05.255382",
+    "url_duckduckgo": "https://www.astrobin.com/414484/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414484/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414484/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414484/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414484/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414484/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414484/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d5972970-29f2-4c08-bbed-aaa2dfdd1e45.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d5972970-29f2-4c08-bbed-aaa2dfdd1e45-1562697660.jpg",
+    "url_thumb": "https://www.astrobin.com/414484/0/rawthumb/thumb/",
+    "user": "NicolasKizilian",
+    "views": 636,
+    "w": 3522
+}

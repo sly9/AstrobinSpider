@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "44.016",
+    "description": "A reprocessing of data taken on August 3 2014.\r\n\r\nThis one: http://www.astrobin.com/111378/C/?nc=user",
+    "h": 3274,
+    "hash": null,
+    "id": 283143,
+    "imaging_cameras": [
+        "QSI 683 wsg8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801728/"
+    ],
+    "orientation": "341.513",
+    "pixscale": "2.097",
+    "published": "2017-02-09T16:07:28.242045",
+    "ra": "312.903",
+    "radius": "1.191",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283143/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "NGC 6997",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "The Pelican Nebula",
+    "updated": "2021-03-17T21:47:55.729909",
+    "uploaded": "2017-02-09T14:34:22.982268",
+    "url_duckduckgo": "https://www.astrobin.com/283143/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283143/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283143/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283143/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283143/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283143/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283143/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4527/2020/93a1b8b5-234b-4b4a-abcd-6d9b96f571d2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4527/2020/93a1b8b5-234b-4b4a-abcd-6d9b96f571d2-1582532015.jpg",
+    "url_thumb": "https://www.astrobin.com/283143/0/rawthumb/thumb/",
+    "user": "mesone",
+    "views": 756,
+    "w": 2454
+}

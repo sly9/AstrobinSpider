@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-24.436",
+    "description": "Object : IC 4603\r\nDate : Jan.- Mar. 2018\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-20ºC)\r\nFilter : Astrodon LRGB\r\nExposure : R:300sx22, G:300sx24, B:300sx24, L:300sx23 (~7.75hr )\r\nGuiding: OAG ASI174, \r\nProcessing: PI、PS-CC",
+    "h": 2412,
+    "hash": null,
+    "id": 416019,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "https://astro-noodle.blogspot.com/2019/07/ic-4603.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.676",
+    "pixscale": "0.740",
+    "published": "2019-07-19T01:59:36.634546",
+    "ra": "246.380",
+    "radius": "0.317",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/416019/",
+    "revisions": [],
+    "subjects": [
+        "IC 4603",
+        "IC4603"
+    ],
+    "title": "ic 4603",
+    "updated": "2021-03-17T10:08:11.991834",
+    "uploaded": "2019-07-19T02:59:36.908216",
+    "url_duckduckgo": "https://www.astrobin.com/416019/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416019/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416019/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416019/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416019/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416019/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416019/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/ec92f8ab-15dd-49cf-af61-4d29bfeb18a7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/ec92f8ab-15dd-49cf-af61-4d29bfeb18a7-1563505594.png",
+    "url_thumb": "https://www.astrobin.com/416019/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 964,
+    "w": 1920
+}

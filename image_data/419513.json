@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 26,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "-13.841",
+    "description": "This is the first image acquisition from my newly built roll-off observatory. Still working on a more complete automation, but already fully enjoying its easy of use... and the better pier mechanics!",
+    "h": 1840,
+    "hash": null,
+    "id": 419513,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 268,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "4.033",
+    "pixscale": "0.887",
+    "published": "2019-08-06T16:47:21.099151",
+    "ra": "274.730",
+    "radius": "0.378",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/419513/",
+    "revisions": [
+        "/api/v1/imagerevision/188109/"
+    ],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "M16 in SHO - First Light from Backyard Obs",
+    "updated": "2021-06-13T09:22:29.031193",
+    "uploaded": "2019-08-06T17:47:21.251179",
+    "url_duckduckgo": "https://www.astrobin.com/419513/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419513/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419513/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419513/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419513/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419513/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419513/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2019/7d17b3a3-8150-4aac-97e8-1752934fbe1f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2019/7d17b3a3-8150-4aac-97e8-1752934fbe1f-1582509742.jpg",
+    "url_thumb": "https://www.astrobin.com/419513/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 2264,
+    "w": 2453
+}

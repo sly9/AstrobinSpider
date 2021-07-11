@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.479",
+    "description": "Telescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400\r\nFilters : Astrodon true-balance gen2 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : SBIG RemoteGuideHead\r\nExposure : L 600s x 32(1bin), RGB each 600s x 10(2bin) total 10h 20m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 4020,
+    "hash": null,
+    "id": 370580,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "359.045",
+    "pixscale": "3.483",
+    "published": "2018-10-08T06:43:22.292882",
+    "ra": "324.769",
+    "radius": "2.750",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/370580/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 Emission Nebula in Cepheus",
+    "updated": "2021-03-17T13:42:14.865785",
+    "uploaded": "2018-10-08T07:43:22.851340",
+    "url_duckduckgo": "https://www.astrobin.com/370580/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/370580/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/370580/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/370580/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/370580/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/370580/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/370580/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/e4111e65-b977-4960-8ec0-5c1e34b53854.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e4111e65-b977-4960-8ec0-5c1e34b53854-1538984876.jpg",
+    "url_thumb": "https://www.astrobin.com/370580/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 308,
+    "w": 4020
+}

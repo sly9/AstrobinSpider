@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.288",
+    "description": "Lx14，Rx18，Gx16，Bx15，15min per frame.",
+    "h": 1971,
+    "hash": null,
+    "id": 394899,
+    "imaging_cameras": [
+        "QHY695a"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 130/650 PDS Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810710/"
+    ],
+    "orientation": "90.729",
+    "pixscale": "1.437",
+    "published": "2019-03-10T02:37:50.513816",
+    "ra": "184.748",
+    "radius": "0.618",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/394899/",
+    "revisions": [
+        "/api/v1/imagerevision/195706/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106",
+    "updated": "2021-03-17T11:48:29.504445",
+    "uploaded": "2019-03-10T02:37:50.642263",
+    "url_duckduckgo": "https://www.astrobin.com/394899/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394899/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394899/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394899/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394899/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394899/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394899/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24344/2019/618ce66c-41aa-473e-a406-768f001e53ec.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/618ce66c-41aa-473e-a406-768f001e53ec-1552185661.png",
+    "url_thumb": "https://www.astrobin.com/394899/0/rawthumb/thumb/",
+    "user": "QHY695A",
+    "views": 626,
+    "w": 2391
+}

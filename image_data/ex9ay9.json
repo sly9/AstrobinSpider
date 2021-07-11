@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-23.043",
+    "description": "I recently got an AP 1100 with absolute encoders, and I'm trying out unguided imaging.  I'm also learning PixInsight.  So far I'm just doing the pre-processing and basic processing for light pollution gradients and doing LRGB combine.  This will no doubt benefit using the more advanced processes, so there will be revisions to come.",
+    "h": 2442,
+    "hash": "ex9ay9",
+    "id": 598717,
+    "imaging_cameras": [
+        "SBIG STT-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics AP 130 GTX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800251/"
+    ],
+    "orientation": "270.402",
+    "pixscale": "1.283",
+    "published": "2021-07-08T04:50:14.478479",
+    "ra": "270.608",
+    "radius": "0.725",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/598717/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "M 21",
+        "NGC 6514",
+        "NGC 6531",
+        "Trifid Nebula"
+    ],
+    "title": "M20",
+    "updated": "2021-07-10T21:03:12.941997",
+    "uploaded": "2021-06-20T02:50:46.396933",
+    "url_duckduckgo": "https://www.astrobin.com/ex9ay9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ex9ay9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ex9ay9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ex9ay9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ex9ay9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ex9ay9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ex9ay9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6300/2021/1dcf2bdb-7525-47c2-881f-3580757e0fcd.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6300/2021/1dcf2bdb-7525-47c2-881f-3580757e0fcd-1624157965.png",
+    "url_thumb": "https://www.astrobin.com/ex9ay9/0/rawthumb/thumb/",
+    "user": "ranous",
+    "views": 27,
+    "w": 3249
+}

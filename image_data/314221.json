@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "22.722",
+    "description": "Image LRGB-Ha-OIII avec la combinaison suivante : (L-Ha-OIII)  - RHa - GOIII - BOIII\r\n\r\nL = L + Ha + OIII (mix en mode linéaire sous Pix avec le script SHO-AIP)\r\nR = R + Ha \r\nG = G + OIII\r\nB = B + OIII\r\n(mix en mode linéaire sous Pix avec PixelMath pour les couches RGB)\r\n\r\nL'aspect des étoiles à été corrigé avec une image réalisée à la TSA102 l'année dernière (celle-ci : <a href=\"http://astrob.in/196408/C/\"><img src=\"http://astrob.in/196408/C/rawthumb/gallery/get.jpg\"/></a>).",
+    "h": 2269,
+    "hash": null,
+    "id": 314221,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Meade LX-50 8\" SCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "https://millenniumphoton.com/portfolios/m27/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804493/"
+    ],
+    "orientation": "355.878",
+    "pixscale": "0.871",
+    "published": "2017-10-08T20:39:49.369572",
+    "ra": "299.902",
+    "radius": "0.443",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/314221/",
+    "revisions": [
+        "/api/v1/imagerevision/126989/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M27 in LRGB-Ha-OIII (SC8\"/AtikOne6)",
+    "updated": "2021-06-01T06:02:29.556195",
+    "uploaded": "2017-09-27T21:52:00.390594",
+    "url_duckduckgo": "https://www.astrobin.com/314221/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/314221/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/314221/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/314221/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/314221/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/314221/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/314221/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2200/2017/e258a1bd-bbbd-46d4-8eca-e448aedea882.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/2200/2017/e258a1bd-bbbd-46d4-8eca-e448aedea882-1582526480.png",
+    "url_thumb": "https://www.astrobin.com/314221/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 441,
+    "w": 2871
+}

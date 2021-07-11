@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "43.656",
+    "description": "Ha 15x600 bin1\r\nSII OIII 30x600s bin2",
+    "h": 1461,
+    "hash": null,
+    "id": 318818,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "269.662",
+    "pixscale": "1.368",
+    "published": "2017-10-27T08:13:50.124334",
+    "ra": "303.923",
+    "radius": "1.101",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318818/",
+    "revisions": [
+        "/api/v1/imagerevision/131522/",
+        "/api/v1/imagerevision/179417/",
+        "/api/v1/imagerevision/209699/",
+        "/api/v1/imagerevision/217356/"
+    ],
+    "subjects": [],
+    "title": "L'hélice SHO.   Propeller Nebula. ",
+    "updated": "2021-03-17T19:23:34.768315",
+    "uploaded": "2017-10-27T09:09:00.568479",
+    "url_duckduckgo": "https://www.astrobin.com/318818/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318818/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318818/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318818/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318818/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318818/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318818/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1744/2020/1b0224fe-60c2-4990-a9b6-00742367982f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1744/2020/1b0224fe-60c2-4990-a9b6-00742367982f-1580289913.jpg",
+    "url_thumb": "https://www.astrobin.com/318818/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 293,
+    "w": 1824
+}

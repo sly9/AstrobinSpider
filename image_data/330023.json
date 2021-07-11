@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This Image Taken From My Urban Austin Texas Backyard observatory. 37 hours of total exposure time!\r\n\r\nNorth America Nebula (NGC7000) & The Cygnus Wall\r\nThe North America Nebula (NGC 7000 or Caldwell 20) is an emission nebula in the constellation Cygnus, close to Deneb (the tail of the swan and its brightest star). The remarkable shape of the nebula resembles that of the continent of North America, complete with a prominent Gulf of Mexico. \r\n\r\nWilliams Optics 81GTF 81mm Refactor F6.6\r\nQHY9 Mono Cooled -25c KAF8300 \r\nHydrogen Alpha (HA) bin1x1 28x1200s (9 Hours 20 Minutes)\r\nOxygen III (OIII) bin1x1 78x1200s (26 Hours)\r\nRED bin1x1 8x300s  (40 Minutes)\r\nGREEN bin1x1 8x300s (40 Minutes)\r\nBLUE bin1x1 7x300s (35 Minutes)\r\nTotal Integration = 37 Hours\r\n50 Dark Frames\r\n50 Flat Frames\r\n200 Bias Frames\r\nProcessed in PixInsight and Photoshop",
+    "h": 4095,
+    "hash": null,
+    "id": 330023,
+    "imaging_cameras": [
+        "QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics F81GT APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808398/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-01-19T19:48:07.302521",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330023/",
+    "revisions": [],
+    "subjects": [],
+    "title": "North America Nebula (NGC7000) & The Cygnus Wall",
+    "updated": "2021-03-17T16:47:07.959622",
+    "uploaded": "2018-01-19T19:48:08.149972",
+    "url_duckduckgo": "https://www.astrobin.com/330023/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330023/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330023/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330023/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330023/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330023/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330023/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/330023/0/rawthumb/thumb/",
+    "user": "nathancmorgan@gmail.com",
+    "views": 188,
+    "w": 6162
+}

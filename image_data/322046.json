@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.465",
+    "description": "S2: 21x1800s\r\nO3: 20x1800s\r\nHa: 23x1800s\r\n\r\nFirst SHO unguided image from remote setup in Spain.",
+    "h": 3552,
+    "hash": null,
+    "id": 322046,
+    "imaging_cameras": [
+        "Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Televue NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807353/"
+    ],
+    "orientation": "261.220",
+    "pixscale": "1.830",
+    "published": "2017-11-18T12:54:50.554522",
+    "ra": "38.154",
+    "radius": "1.449",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/322046/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805"
+    ],
+    "title": "IC 1805 Heart Nebula",
+    "updated": "2021-03-17T19:11:00.046684",
+    "uploaded": "2017-11-18T12:44:35.527465",
+    "url_duckduckgo": "https://www.astrobin.com/322046/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/322046/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/322046/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/322046/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/322046/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/322046/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/322046/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/58498373-b854-4e0e-a033-3f9aa7938de3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/58498373-b854-4e0e-a033-3f9aa7938de3-1511009700.jpg",
+    "url_thumb": "https://www.astrobin.com/322046/0/rawthumb/thumb/",
+    "user": "Peque",
+    "views": 161,
+    "w": 4460
+}

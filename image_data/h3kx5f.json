@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "60.972",
+    "description": "IC 63 Gamma Cas Nebula, using Astrodon Ha, SII, and OIII.  150 exposures per filter, each 300s over September and October.",
+    "h": 3492,
+    "hash": "h3kx5f",
+    "id": 432992,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-C Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150B"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802017/"
+    ],
+    "orientation": "90.812",
+    "pixscale": "0.357",
+    "published": "2019-10-12T23:57:02.919735",
+    "ra": "14.956",
+    "radius": "0.274",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/432992/",
+    "revisions": [
+        "/api/v1/imagerevision/197232/"
+    ],
+    "subjects": [
+        "IC 63",
+        "gamma Cas nebula"
+    ],
+    "title": "IC 63 Gamma Cas Nebula",
+    "updated": "2021-03-17T08:43:54.998266",
+    "uploaded": "2019-10-13T00:57:03.077673",
+    "url_duckduckgo": "https://www.astrobin.com/h3kx5f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h3kx5f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h3kx5f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h3kx5f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h3kx5f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h3kx5f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h3kx5f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9930/2019/16f25e90-96f6-4610-9303-f4970a2d0467.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9930/2019/16f25e90-96f6-4610-9303-f4970a2d0467-1582570349.jpg",
+    "url_thumb": "https://www.astrobin.com/h3kx5f/0/rawthumb/thumb/",
+    "user": "pmont1",
+    "views": 116,
+    "w": 4284
+}

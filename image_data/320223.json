@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "68.192",
+    "description": "After capturing the data in fall 2016, I initially stacked and processed it with Deep Sky Stacker and Fitswork. Due to light pollution gradients and some partial image deformations caused by tilting in the optical train I was only able to use 46 of 65 lightframes. Now after six months of practicing the use of Pixinsight I turned toward the data again and was able to use 62 of 65 lightframes and get a much better contrast thanks to Dynamic Background Extraction and Distortion Correction. Somehow comforting to see that all these hours of missing the real life outside yield some improvements:-)",
+    "h": 1192,
+    "hash": null,
+    "id": 320223,
+    "imaging_cameras": [
+        "Canon EOS 1000Da"
+    ],
+    "imaging_telescopes": [
+        "TS OPTICS ONTC 1010"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805383/"
+    ],
+    "orientation": "64.778",
+    "pixscale": "2.347",
+    "published": "2017-11-04T23:16:09.848713",
+    "ra": "315.413",
+    "radius": "0.719",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320223/",
+    "revisions": [
+        "/api/v1/imagerevision/129162/"
+    ],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "NGC 7023 The Iris Nebula",
+    "updated": "2021-03-17T19:18:07.435520",
+    "uploaded": "2017-11-04T23:16:10.197472",
+    "url_duckduckgo": "https://www.astrobin.com/320223/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320223/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320223/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320223/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320223/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320223/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320223/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17314/2017/9e8b02ab-3f3c-4ecd-a3f3-ed2ffc7440cd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9e8b02ab-3f3c-4ecd-a3f3-ed2ffc7440cd-1509837858.jpg",
+    "url_thumb": "https://www.astrobin.com/320223/0/rawthumb/thumb/",
+    "user": "BastiH",
+    "views": 365,
+    "w": 1824
+}

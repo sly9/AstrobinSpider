@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "22.538",
+    "description": "Only 28x600s Ha bin1 and 6x600s OIII bin2\r\nHa : blue\r\nOIII : red\r\nVery bad weather conditions !",
+    "h": 3520,
+    "hash": null,
+    "id": 330170,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "88.628",
+    "pixscale": "1.368",
+    "published": "2018-01-20T19:38:26.038354",
+    "ra": "94.171",
+    "radius": "1.085",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330170/",
+    "revisions": [
+        "/api/v1/imagerevision/217353/"
+    ],
+    "subjects": [
+        "IC 443",
+        "The star Propus (ηGem)"
+    ],
+    "title": "IC443 Ha OIII",
+    "updated": "2021-03-17T16:46:28.884010",
+    "uploaded": "2018-01-20T19:34:14.288869",
+    "url_duckduckgo": "https://www.astrobin.com/330170/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330170/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330170/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330170/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330170/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330170/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330170/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2c69f8bf-b031-4337-94d5-f60211cb5725.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2c69f8bf-b031-4337-94d5-f60211cb5725-1516477147.jpg",
+    "url_thumb": "https://www.astrobin.com/330170/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 463,
+    "w": 4496
+}

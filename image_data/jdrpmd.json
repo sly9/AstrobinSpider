@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "-37.688",
+    "description": "NGC300 taken with \"Sadr Observatoire\" in Chili with the Newton 355cm\r\nDon't hesitate to look at the annotated version to see all the small galaxies on this frame.\r\n\r\nNGC 300 and the irregular galaxy NGC 55 have traditionally been identified as members of the Sculptor Group, a nearby group of galaxies in the constellation of the same name. \r\nHowever, recent distance measurements indicate that these two galaxies actually lie in the foreground. It is likely that NGC 300 and NGC 55 form a gravitationally bound pair.\r\nNGC300 is estimated the distance  to be 6.1 millions Light years away.\r\n\r\nRed 9 subs@120s -20°C gain high\r\nBlue 10 subs@120s -20°C gain high\r\nGreen 10 subs@120s -20°C gain high\r\nLight 19 subs@600s -20°C, gain high",
+    "h": 3373,
+    "hash": "jdrpmd",
+    "id": 440417,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "",
+    "link_to_fits": "https://www.sadr.fr/",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "273.751",
+    "pixscale": "0.695",
+    "published": "2019-11-26T06:15:35.474380",
+    "ra": "13.727",
+    "radius": "0.522",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/440417/",
+    "revisions": [
+        "/api/v1/imagerevision/201369/",
+        "/api/v1/imagerevision/201375/",
+        "/api/v1/imagerevision/215961/"
+    ],
+    "subjects": [
+        "NGC 300"
+    ],
+    "title": "NGC300  in Sculptor -  with Sadr Chili",
+    "updated": "2021-03-17T06:17:09.240125",
+    "uploaded": "2019-11-25T23:36:27.829037",
+    "url_duckduckgo": "https://www.astrobin.com/jdrpmd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jdrpmd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jdrpmd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jdrpmd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jdrpmd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jdrpmd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jdrpmd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/049dd578-e032-46e1-833f-798933d7fda8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/049dd578-e032-46e1-833f-798933d7fda8-1574746629.jpg",
+    "url_thumb": "https://www.astrobin.com/jdrpmd/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 344,
+    "w": 4223
+}

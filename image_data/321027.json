@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "60.989",
+    "description": "HaRGB image with 12 hours of integration time (6h Ha and 6h RGB)",
+    "h": 1824,
+    "hash": null,
+    "id": 321027,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "http://delsaert.files.wordpress.com/2017/11/ic63_hargb.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.844",
+    "pixscale": "1.685",
+    "published": "2017-11-10T21:49:31.385363",
+    "ra": "14.222",
+    "radius": "0.993",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/321027/",
+    "revisions": [],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "IC59 & IC63",
+    "updated": "2021-03-17T19:15:12.142389",
+    "uploaded": "2017-11-10T21:49:31.846991",
+    "url_duckduckgo": "https://www.astrobin.com/321027/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/321027/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/321027/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/321027/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/321027/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/321027/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/321027/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9513ec2f-6ab4-457b-a720-670aa69c465c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9513ec2f-6ab4-457b-a720-670aa69c465c-1510350922.jpg",
+    "url_thumb": "https://www.astrobin.com/321027/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 362,
+    "w": 1824
+}

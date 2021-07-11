@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "40.833",
+    "description": "",
+    "h": 2698,
+    "hash": "iyw0dy",
+    "id": 439990,
+    "imaging_cameras": [
+        "QHYCCD QHY600",
+        "QHY367C"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806965/"
+    ],
+    "orientation": "358.636",
+    "pixscale": "2.991",
+    "published": "2019-11-23T16:41:48.709642",
+    "ra": "338.308",
+    "radius": "2.037",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439990/",
+    "revisions": [
+        "/api/v1/imagerevision/201088/"
+    ],
+    "subjects": [
+        "The star 12Lac"
+    ],
+    "title": "LBN 437 in Lacerta",
+    "updated": "2021-03-17T06:19:25.048467",
+    "uploaded": "2019-11-23T16:41:49.696057",
+    "url_duckduckgo": "https://www.astrobin.com/iyw0dy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iyw0dy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iyw0dy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iyw0dy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iyw0dy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iyw0dy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iyw0dy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2019/fdcc318b-a61f-4913-b001-e0abe83c3532.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2019/fdcc318b-a61f-4913-b001-e0abe83c3532-1582290598.jpg",
+    "url_thumb": "https://www.astrobin.com/iyw0dy/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 317,
+    "w": 4095
+}

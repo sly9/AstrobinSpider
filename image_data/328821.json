@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "22.402",
+    "description": "Exposure time Lum: 19x300sec + Ha: 19x300sec.\r\nRaw frames taken at Brorfelde, a dark site in DK, 7 -> 8 Jan-2018, by Niels Haagh & Niels V. Christensen\r\nPicture processing done in CCDStack2 & PS CS6 by me.\r\nKind regards Niels",
+    "h": 1317,
+    "hash": null,
+    "id": 328821,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cooled ZWO mono"
+    ],
+    "imaging_telescopes": [
+        "TeleVue NP127is @f/5.2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 99,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "244.675",
+    "pixscale": "2.955",
+    "published": "2018-01-09T10:02:56.715886",
+    "ra": "94.139",
+    "radius": "0.884",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328821/",
+    "revisions": [
+        "/api/v1/imagerevision/135090/"
+    ],
+    "subjects": [
+        "IC 443",
+        "The star Propus (ηGem)"
+    ],
+    "title": "IC443, a BW Lum/Ha picture",
+    "updated": "2021-05-11T19:37:33.499044",
+    "uploaded": "2018-01-09T10:02:57.376590",
+    "url_duckduckgo": "https://www.astrobin.com/328821/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328821/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328821/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328821/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328821/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328821/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328821/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/eaa63e8b-ff10-47cb-9545-0b842b2fee80.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/eaa63e8b-ff10-47cb-9545-0b842b2fee80-1515492624.jpg",
+    "url_thumb": "https://www.astrobin.com/328821/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 244,
+    "w": 1704
+}

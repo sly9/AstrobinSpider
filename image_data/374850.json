@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-36.128",
+    "description": "",
+    "h": 2996,
+    "hash": null,
+    "id": 374850,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO RC   8\"  f/8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800658/"
+    ],
+    "orientation": "0.340",
+    "pixscale": "0.650",
+    "published": "2018-11-02T16:48:44.450472",
+    "ra": "53.413",
+    "radius": "0.459",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/374850/",
+    "revisions": [
+        "/api/v1/imagerevision/160844/",
+        "/api/v1/imagerevision/160888/"
+    ],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "NGC 1365 Galaxy",
+    "updated": "2021-03-17T13:21:34.668812",
+    "uploaded": "2018-11-02T16:48:45.070100",
+    "url_duckduckgo": "https://www.astrobin.com/374850/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/374850/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/374850/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/374850/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/374850/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/374850/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/374850/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3873/2018/9509c2a3-3f57-4740-9431-0f2782eed6f5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3873/2018/9509c2a3-3f57-4740-9431-0f2782eed6f5-1582464507.jpg",
+    "url_thumb": "https://www.astrobin.com/374850/0/rawthumb/thumb/",
+    "user": "gpinto",
+    "views": 614,
+    "w": 4109
+}

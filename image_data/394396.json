@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.285",
+    "description": "Photo By Fluorine Z.\r\n\r\nImage Telescope/Lens : Takahashi FSQ106N\r\nImage Camera : SBIG STL-11000M\r\nMount : Sky-Watcher NEQ6\r\nFrames : L(4*900sec , 11*60sec)/R(9*900sec , 6*60sec)/G(7*900sec , 9*60sec)/B(6*900sec , 10*60sec)\r\n\r\nIntegration : 7.1h\r\n\r\nLocation : Dabancheng , Xinjiang , China （Gaoyazi Observatory，高崖子天文台）",
+    "h": 1235,
+    "hash": null,
+    "id": 394396,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106N"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 199,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810664/"
+    ],
+    "orientation": "272.668",
+    "pixscale": "3.532",
+    "published": "2019-03-06T22:48:34.957520",
+    "ra": "10.648",
+    "radius": "1.981",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/394396/",
+    "revisions": [
+        "/api/v1/imagerevision/185162/",
+        "/api/v1/imagerevision/221633/"
+    ],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31~Andromeda Galaxy",
+    "updated": "2021-03-17T11:50:51.050974",
+    "uploaded": "2019-03-06T22:48:35.391605",
+    "url_duckduckgo": "https://www.astrobin.com/394396/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394396/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394396/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394396/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394396/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394396/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394396/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/a469632b-6966-4191-a59d-e51eecbbb343.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a469632b-6966-4191-a59d-e51eecbbb343-1551912762.jpg",
+    "url_thumb": "https://www.astrobin.com/394396/0/rawthumb/thumb/",
+    "user": "Fluorine7",
+    "views": 1177,
+    "w": 1824
+}

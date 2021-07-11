@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "19.006",
+    "description": "Image Data:\r\nDate: 28.11., 02.12.2016\r\nLocation: Vockenroth / Bavaria Germany\r\nTelescope: 10\" Orion UK f4,8\r\nCorrector: Gyulai GPU\r\nCamera: Atik 383L+ at -20°C\r\nintegration time: LRGB 210:66:60:60min at 6min\r\nGuiding: Ts Off Axis Guider and M-Gen ll\r\nProcessing: DSS, Fitswork, Photo Shop CS6, Startools",
+    "h": 1333,
+    "hash": null,
+    "id": 283044,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Orion Optics UK CT10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 201,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799021/"
+    ],
+    "orientation": "-2.336",
+    "pixscale": "1.298",
+    "published": "2017-02-08T14:12:13.242273",
+    "ra": "29.824",
+    "radius": "0.494",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283044/",
+    "revisions": [],
+    "subjects": [
+        "NGC 770",
+        "NGC 772"
+    ],
+    "title": "NGC 772 with integrated Flux",
+    "updated": "2021-04-23T19:31:45.938405",
+    "uploaded": "2017-02-08T14:12:14.052349",
+    "url_duckduckgo": "https://www.astrobin.com/283044/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283044/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283044/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283044/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283044/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283044/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283044/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b3752f30-e162-477b-8b8a-583c0e768037.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b3752f30-e162-477b-8b8a-583c0e768037-1486563478.jpg",
+    "url_thumb": "https://www.astrobin.com/283044/0/rawthumb/thumb/",
+    "user": "Chillspeedy",
+    "views": 988,
+    "w": 1824
+}

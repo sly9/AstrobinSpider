@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "47.197",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 295892,
+    "imaging_cameras": [
+        "Fli pl09000 FLI-PL09000"
+    ],
+    "imaging_telescopes": [
+        "Planewave 24\" CDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807136/"
+    ],
+    "orientation": "-91.960",
+    "pixscale": "0.631",
+    "published": "2017-05-17T03:51:45.822406",
+    "ra": "202.470",
+    "radius": "0.344",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295892/",
+    "revisions": [],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 - Whirlpool Galaxy - T24",
+    "updated": "2021-03-17T20:55:14.334101",
+    "uploaded": "2017-05-17T04:45:15.013393",
+    "url_duckduckgo": "https://www.astrobin.com/295892/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295892/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295892/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295892/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295892/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295892/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295892/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/f018f971-cfb1-4a39-b312-45e7f0346df2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/f018f971-cfb1-4a39-b312-45e7f0346df2-1494993003.png",
+    "url_thumb": "https://www.astrobin.com/295892/0/rawthumb/thumb/",
+    "user": "jshortt",
+    "views": 159,
+    "w": 1824
+}

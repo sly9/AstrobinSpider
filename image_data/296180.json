@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "47.237",
+    "description": "Astronomik B 1.25\": 5x550\" bin 1x1\r\nAstronomik G 1.25\": 5x500\" bin 1x1\r\nAstronomik Ha 12nm: 5x550\" bin 1x1\r\nAstronomik L 1.25\" : 16x500\" bin 1x1\r\nAstronomik R 1.25\": 5x500\" bin 1x1",
+    "h": 1320,
+    "hash": null,
+    "id": 296180,
+    "imaging_cameras": [
+        "Atik 428EX Mono"
+    ],
+    "imaging_telescopes": [
+        "William Optics GTF-81 Apo Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805571/"
+    ],
+    "orientation": "83.808",
+    "pixscale": "1.730",
+    "published": "2017-05-27T21:19:36.098959",
+    "ra": "202.546",
+    "radius": "0.511",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/296180/",
+    "revisions": [],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 VER III",
+    "updated": "2021-03-17T20:54:07.633922",
+    "uploaded": "2017-05-20T04:34:43.775554",
+    "url_duckduckgo": "https://www.astrobin.com/296180/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/296180/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/296180/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/296180/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/296180/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/296180/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/296180/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16535/2017/6d60bba8-d3e6-432f-8346-aa2efeed994e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16535/2017/6d60bba8-d3e6-432f-8346-aa2efeed994e-1582482849.jpg",
+    "url_thumb": "https://www.astrobin.com/296180/0/rawthumb/thumb/",
+    "user": "alpheratzlaboratory",
+    "views": 197,
+    "w": 1670
+}

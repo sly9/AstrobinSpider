@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "PRO_DATA",
+    "dec": "21.763",
+    "description": "This is RGB data I processed from the Liverpool Telescope of what appears to be a rarely imaged galaxy and this is possibly the best image of it so far. At least I have not found much on the net. You cannot even read about it on Wikipedia :)\r\n\r\nFilters and exposures:\r\nsdss-r 20 x 90 s\r\nBessell B 13 x 90 s (blue channel)\r\nBessell V 15 x 90 s (green channel)",
+    "h": 1540,
+    "hash": null,
+    "id": 295659,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "179.927",
+    "pixscale": "0.304",
+    "published": "2017-05-14T15:22:52.654279",
+    "ra": "27.674",
+    "radius": "0.099",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295659/",
+    "revisions": [
+        "/api/v1/imagerevision/117429/",
+        "/api/v1/imagerevision/117431/",
+        "/api/v1/imagerevision/117460/"
+    ],
+    "subjects": [
+        "NGC 691"
+    ],
+    "title": "Rarely imaged galaxy - NGC691",
+    "updated": "2021-03-17T20:56:08.805464",
+    "uploaded": "2017-05-14T16:22:53.521755",
+    "url_duckduckgo": "https://www.astrobin.com/295659/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295659/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295659/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295659/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295659/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295659/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295659/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/e7cdf2f5-a830-4b99-bfa0-83af79fe7bb4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/e7cdf2f5-a830-4b99-bfa0-83af79fe7bb4-1582579735.jpg",
+    "url_thumb": "https://www.astrobin.com/295659/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 205,
+    "w": 1766
+}

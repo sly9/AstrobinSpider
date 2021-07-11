@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 10,
+    "data_source": "UNKNOWN",
+    "dec": "55.018",
+    "description": "Messier 97 (NGC 3587) is a planetary nebula approximately 2,030 light years away (though sources vary considerably in this estimate) in the constellation of Ursa Major.  It is estimated to be around 6,000 to 8,000 years old.  \r\n\r\nM97 was first observed by Pierre Méchain on 16 February 1781.  Early sketches - notably the 1848 sketch of William Parsons, 3rd Earl of Rosse (and owner/operator of the 'Leviathan of Parsonstown') - showed a circular object with two dark shadows - resembling the face of an owl.  The object has been known as the Owl Nebula ever since.\r\n\r\nI have imaged this target twice: once in 2017 from my home observatory in the UK using a Skywatcher Esprit 120 and QSI 690 camera; and again in 2019 using a TEC 140ED along with the same camera, but from a remote imaging rig in Spain owned and operated by Barry Wilson and me.  For this image, I decided to combine both data sets.\r\n\r\nI found that the OIII signal was significanly stronger than the Ha, and it  was a challenge to make the Ha visible at all.  In my previous attempt to process just the 2017 data, I think I erred in making the Ha much more prominent than is, in fact, the case.  I hope that this is a more balanced and 'realistic' presentation.   \r\n\r\nThe image is uploaded at 100% resolution.  However, I found nothing of any great significance surrounding M97 and I decided, therefore, to crop the image to make the object more prominent in reduced size previews.\r\n\r\nCapture Details:\r\n\r\n14 to 27 May 2017:\r\n\r\nTelescope: Skywatcher Esprit 120\r\nCamera: QSI 690\r\nFilters: Astrodon 3nm NB\r\nMount: Mesu 200\r\n\r\nHa: 12 x 1800s\r\nOIII: 12 x 1800s\r\n\r\n25 February to 11 March 2019:\r\n\r\nTelescope: TEC 140 \r\nCamera: QSI 690\r\nFilters: Astrodon 3nm NB \r\nMount: 10 Micron GM2000HPS\r\n\r\nHa: 18 x 1200s\r\nOIII: 18 x 1200s\r\n\r\nGiving a total exposure time of 24 hours\r\n\r\nData: Steve Milne & Barry Wilson\r\nProcessing: Steve Milne",
+    "h": 1423,
+    "hash": null,
+    "id": 397324,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120ED Super APO Triplet",
+        "TEC-140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "https://stevemilne.smugmug.com/Photos/Sky/Nebulae/i-4w8ckd5",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808074/",
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "269.754",
+    "pixscale": "0.744",
+    "published": "2019-03-25T11:34:55.114932",
+    "ra": "168.698",
+    "radius": "0.238",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/397324/",
+    "revisions": [],
+    "subjects": [
+        "M 97",
+        "NGC 3587",
+        "Owl nebula"
+    ],
+    "title": "Messier 97 - the Owl Nebula in Ursa Major",
+    "updated": "2021-06-20T19:38:00.376473",
+    "uploaded": "2019-03-25T11:34:55.222378",
+    "url_duckduckgo": "https://www.astrobin.com/397324/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397324/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397324/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397324/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397324/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397324/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397324/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2019/815c9fa6-bb49-48b3-b761-170fc005fd80.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2019/815c9fa6-bb49-48b3-b761-170fc005fd80-1582605903.jpg",
+    "url_thumb": "https://www.astrobin.com/397324/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 879,
+    "w": 1813
+}

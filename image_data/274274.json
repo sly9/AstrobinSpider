@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "28.003",
+    "description": "\r\n<b>PixInsight-Processing:</b> Gerald Wechselberger\r\n\r\nTotal Exposure: 36 hours\r\n<EM>\r\nFilters:\r\nBaader H-Alpha Narrowband 7 nm\r\nBaader OIII  Narrowband 8,5 nm\r\n</EM>",
+    "h": 1423,
+    "hash": null,
+    "id": 274274,
+    "imaging_cameras": [
+        "SBIG-CCD STL-11000M C1-CCP"
+    ],
+    "imaging_telescopes": [
+        "Canon Lens EF 300 mm f/2.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806352/"
+    ],
+    "orientation": "-3.378",
+    "pixscale": "6.345",
+    "published": "2016-12-01T11:39:04.390502",
+    "ra": "84.945",
+    "radius": "3.536",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/274274/",
+    "revisions": [],
+    "subjects": [
+        "The star 125Tau"
+    ],
+    "title": "Simeis 147",
+    "updated": "2021-03-17T22:22:34.626305",
+    "uploaded": "2016-12-01T11:39:07.408500",
+    "url_duckduckgo": "https://www.astrobin.com/274274/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/274274/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/274274/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/274274/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/274274/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/274274/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/274274/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/368fc871-30a8-4b47-959b-e92236d04e91.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/368fc871-30a8-4b47-959b-e92236d04e91-1480592863.jpg",
+    "url_thumb": "https://www.astrobin.com/274274/0/rawthumb/thumb/",
+    "user": "franziii",
+    "views": 570,
+    "w": 1824
+}

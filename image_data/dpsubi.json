@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 20,
+    "data_source": "OWN_REMOTE",
+    "dec": "28.052",
+    "description": "Imaged on nights of 12/21/2020, 12/22/2020, 12/23/2020, 12/24/2020\r\nUnguided\r\nNo Dithering\r\n\r\nAfter years of wanting to do this target, I finally felt I had enough FOV to do it.\r\nThis is a very large target for me at about 3 degrees in diameter.\r\nThis required a 6 panel mosaic with a 20% overlap on each 2x3 degree panel produced by the NP127is refractor with the ASI6200MM full frame camera.\r\nA lot of work putting this together, and my first mosaic in several years.\r\nAnd of course, there are 6 panels for each filter, so a total of 18.  Not for the faint of heart.\r\n\r\nThis image uses equal exposures of the Ha, Oiii, and Sii filters.  Both Ha and Sii are fairly strong and largely overlap.  the Oiii is somewhat weaker, but still a good signal.  It shows up in many areas that have little Ha and Sii, which the SHO format displays distinctly as the blue areas.\r\nThere is tremendous fine detail to be teased out of these intertwining tendrils.\r\n\r\nWikipedia:\r\nSimeis 147, also known as the Spaghetti Nebula, SNR G180.0-01.7 or Sharpless 2-240, is a supernova remnant (SNR) in the Milky Way, straddling the border between the constellations Auriga and Taurus. Discovered in 1952 at the Crimean Astrophysical Observatory using a 25-inch Schmidt-Cassegrain telescope, it is difficult to observe due to its extremely low brightness.\r\n\r\nThe nebulous area is fairly large with an almost spherical shell and filamentary structure. The remnant has an apparent diameter of approximately 3 degrees, an estimated distance of approximately 3000 (±350) light-years, and an age of approximately 40,000 years.\r\n\r\nIt is believed that after its stellar explosion a rapidly spinning neutron star known as pulsar PSR J0538+2817 was left behind in the nebula core, emitting a strong radio signal.\r\n\r\nMy Collections:\r\n<a href=\"https://www.astrobin.com/users/jmacon/collections/2482/\" target=\"_new\">Abell Planetary Nebulae (Complete)</a>\r\n<a href=\"https://www.astrobin.com/users/jmacon/collections/2627/\" target=\"_new\">Planetary Nebulae</a>\r\n<a href=\"https://www.astrobin.com/users/jmacon/collections/2626/\" target=\"_new\">Galaxies</a>\r\n<a href=\"https://www.astrobin.com/users/jmacon/collections/2625/\" target=\"_new\">Sharpless 2 Objects</a>",
+    "h": 3650,
+    "hash": "dpsubi",
+    "id": 602475,
+    "imaging_cameras": [
+        "ZWO ASI6200MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2816222/"
+    ],
+    "orientation": "90.753",
+    "pixscale": "4.563",
+    "published": "2021-07-08T16:33:19.023816",
+    "ra": "85.281",
+    "radius": "3.315",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/602475/",
+    "revisions": [],
+    "subjects": [
+        "12.14",
+        "125 Tau",
+        "87 Sylvia",
+        "NGC 1996",
+        "PK178-02.1",
+        "Sh2-240",
+        "The star 125Tau"
+    ],
+    "title": "Sh2-240 (Simeis 147) Supernova Remnant - SHO",
+    "updated": "2021-07-10T16:42:12.383601",
+    "uploaded": "2021-07-08T02:36:19.255314",
+    "url_duckduckgo": "https://www.astrobin.com/dpsubi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dpsubi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dpsubi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dpsubi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dpsubi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dpsubi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dpsubi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2021/6e0b304f-e92d-4eaf-8170-aa8f40183fde.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2021/6e0b304f-e92d-4eaf-8170-aa8f40183fde-1625712888.jpg",
+    "url_thumb": "https://www.astrobin.com/dpsubi/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 183,
+    "w": 3746
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "33.873",
+    "description": "Date: 26., 27.01.2017\r\nLocation: Nuremberg / My Frontyard\r\nTelescope: SGN 44 f3,9\r\nCorrector: Gyulai GPU\r\nCamera: Atik 383L+ at -20°C\r\nintegration time: Ha (OIII+B) SII  290 : (260+64) : 240min\r\nGuiding: Ts Off Axis Guider and M-Gen ll\r\nProcessing: DSS, Fitswork, Photo Shop CS6, Startools",
+    "h": 2544,
+    "hash": null,
+    "id": 288218,
+    "imaging_cameras": [
+        "Atik 383L+"
+    ],
+    "imaging_telescopes": [
+        "Selfmade SGN 4,4\" f3,9 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799020/"
+    ],
+    "orientation": "-175.598",
+    "pixscale": "3.087",
+    "published": "2017-03-24T11:07:50.865421",
+    "ra": "78.885",
+    "radius": "1.327",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/288218/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "The star 16Aur"
+    ],
+    "title": "Flaming Star Nebula IC 405",
+    "updated": "2021-03-17T21:28:19.685168",
+    "uploaded": "2017-03-24T11:07:51.224093",
+    "url_duckduckgo": "https://www.astrobin.com/288218/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/288218/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/288218/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/288218/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/288218/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/288218/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/288218/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/1e92e6b8-eef7-4bb1-80d5-9583d96f325e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1e92e6b8-eef7-4bb1-80d5-9583d96f325e-1490353989.jpg",
+    "url_thumb": "https://www.astrobin.com/288218/0/rawthumb/thumb/",
+    "user": "Chillspeedy",
+    "views": 311,
+    "w": 1760
+}

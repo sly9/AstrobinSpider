@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "68.047",
+    "description": "The Iris Nebula (NGC 7023, Caldwell 4, LBN 487) is a bright reflection nebula in the constellation Cepheus. The nebula (LBN 487) is lit by a magnitude 7 star (SAO 19158). It is located 1,300 light years away and it is 6 light years across.\r\n\r\nThis image is the result of a combination of data collected over two years. Last year, I collected color data with the Tak FSQ106 refractor, but only collected a limited amount of luminance data. I wanted to attempt to achieve sufficient SNR in the dust surrounding the nebula, which is challenging in my home Bortle 5 skies. I opted to use the TS ONTC 10in Newt to collect luminance data. The much higher efficiency and etendue of the large mirror combined with bigger pixels (KAF8300) boosted SNR collection per unit time compared to the 10cm refractor with tiny pixels, at roughly the same image scale. \r\n\r\nTo emphasize the nebula I chose to apply slight star de-emphasis using Adam Block's technique. It is a wonderful method to reduce star presence in an image, which results in more natural presentation than morphological transformation. In panels D and E, you can see the effect of star de-emphasis right after LRGB combination. \r\n\r\nColor data (2018): Tak FSQ106 with ZWO ASI183MM Pro (Gain: 54, Offset:10)\r\nLuminance data (2019): TS ONTC 10in f4 with Atik 383L+",
+    "h": 2388,
+    "hash": null,
+    "id": 419457,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro",
+        "Atik 383L+ Monochrome"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4",
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "276.321",
+    "pixscale": "0.974",
+    "published": "2019-08-07T12:41:33.078960",
+    "ra": "315.333",
+    "radius": "0.534",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/419457/",
+    "revisions": [
+        "/api/v1/imagerevision/188111/",
+        "/api/v1/imagerevision/188155/",
+        "/api/v1/imagerevision/188156/",
+        "/api/v1/imagerevision/188182/",
+        "/api/v1/imagerevision/188235/",
+        "/api/v1/imagerevision/188248/"
+    ],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "The Iris Nebula (NGC 7023)",
+    "updated": "2021-04-21T14:16:26.258300",
+    "uploaded": "2019-08-06T12:51:09.804978",
+    "url_duckduckgo": "https://www.astrobin.com/419457/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419457/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419457/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419457/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419457/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419457/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419457/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/ae7ebba5-c433-4d95-baca-fa534a3df0c4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/ae7ebba5-c433-4d95-baca-fa534a3df0c4-1582640101.jpg",
+    "url_thumb": "https://www.astrobin.com/419457/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 1169,
+    "w": 3141
+}

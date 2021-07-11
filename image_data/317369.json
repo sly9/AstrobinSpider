@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "0.211",
+    "description": "",
+    "h": 3073,
+    "hash": null,
+    "id": 317369,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807895/"
+    ],
+    "orientation": "358.734",
+    "pixscale": "0.965",
+    "published": "2017-10-19T02:56:52.991879",
+    "ra": "101.278",
+    "radius": "0.495",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/317369/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-284 in Monceros",
+    "updated": "2021-03-17T19:29:47.612041",
+    "uploaded": "2017-10-19T03:56:53.961986",
+    "url_duckduckgo": "https://www.astrobin.com/317369/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/317369/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/317369/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/317369/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/317369/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/317369/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/317369/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/b8e1edba-9919-4cb9-8469-927250af67ad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/b8e1edba-9919-4cb9-8469-927250af67ad-1582598825.jpg",
+    "url_thumb": "https://www.astrobin.com/317369/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 288,
+    "w": 2048
+}

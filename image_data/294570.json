@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "PRO_DATA",
+    "dec": "51.577",
+    "description": "This is a collaboration between Wim van Berlo and me. Processing data from the Liverpool Telescope, we came up with two slightly different versions that each had some good qualities. Here we made a 50:50 mix of the nebula and I think that in this case the sum became better than the separate versions (mine is here: http://www.astrobin.com/292461/C)\r\n\r\nThis is about 4 hours of data from Bessell B, Bessell V, sdss-r and Ha filters, so a HaRGB image",
+    "h": 1949,
+    "hash": null,
+    "id": 294570,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "359.926",
+    "pixscale": "0.304",
+    "published": "2017-05-05T14:48:08.694381",
+    "ra": "25.584",
+    "radius": "0.117",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294570/",
+    "revisions": [],
+    "subjects": [
+        "Little Dumbbell",
+        "M 76",
+        "M76",
+        "NGC 650",
+        "NGC650",
+        "NGC651",
+        "PK130-10.1"
+    ],
+    "title": "M76 Little Dumbbell Nebula",
+    "updated": "2021-03-17T21:00:17.116626",
+    "uploaded": "2017-05-05T15:48:09.103891",
+    "url_duckduckgo": "https://www.astrobin.com/294570/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294570/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294570/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294570/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294570/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294570/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294570/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/bd67f443-785e-46d4-8ad6-85f2263c6290.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/bd67f443-785e-46d4-8ad6-85f2263c6290-1582579766.jpg",
+    "url_thumb": "https://www.astrobin.com/294570/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 606,
+    "w": 1968
+}

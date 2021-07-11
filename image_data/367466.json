@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "60.882",
+    "description": "",
+    "h": 2431,
+    "hash": null,
+    "id": 367466,
+    "imaging_cameras": [
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 257,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "180.951",
+    "pixscale": "1.633",
+    "published": "2018-09-18T15:25:08.847844",
+    "ra": "14.651",
+    "radius": "0.918",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/367466/",
+    "revisions": [
+        "/api/v1/imagerevision/157016/"
+    ],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "Ghost of Cassiopeia",
+    "updated": "2021-03-17T13:56:58.000477",
+    "uploaded": "2018-09-18T16:18:26.633182",
+    "url_duckduckgo": "https://www.astrobin.com/367466/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/367466/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/367466/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/367466/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/367466/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/367466/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/367466/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2341d5ac-198f-4caf-b984-5e47d3626269.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2341d5ac-198f-4caf-b984-5e47d3626269-1537287716.jpg",
+    "url_thumb": "https://www.astrobin.com/367466/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 1130,
+    "w": 3235
+}

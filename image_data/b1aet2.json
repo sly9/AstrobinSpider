@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.403",
+    "description": "IC405 presents a reasonable amount of SII and I shot 45x600 subs of SII.  But searching for the color mix I wanted, HOO ended up feeling right.  That HOO mix was laid over a luminance channel of straight Ha.  \r\n\r\nThis is one of my first sets of data with the ASI1600 and FQS106 mounted on top of the Planewave.  The Planewave was used to guide via the OAG on the Planewave.   That is probably not ideal, but with an image scale of 1.46 on the FSQ/ZWO it seems to be fine.\r\n\r\nTo be sure, the ZWO performs much better on narrowband than broadband.  This is due to the lack of reflections with NB.  \r\n\r\nLinear processing in CCDStack, including sharpening.  Post-processing in Photoshop, including unsharp masking, and color enhancement.  Topaz de-noise 5.1 was also used.",
+    "h": 2300,
+    "hash": "b1aet2",
+    "id": 438670,
+    "imaging_cameras": [
+        "ZWO ASI1600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 226,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "152.661",
+    "pixscale": "1.476",
+    "published": "2019-11-13T23:24:09.608232",
+    "ra": "78.977",
+    "radius": "0.855",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/438670/",
+    "revisions": [
+        "/api/v1/imagerevision/201032/"
+    ],
+    "subjects": [
+        "AE Aur",
+        "Flaming Star nebula",
+        "IC 405",
+        "IC405",
+        "Sh2-229"
+    ],
+    "title": "Flaming Star Nebula | IC 405 | H[HOO]",
+    "updated": "2021-07-07T14:00:42.518392",
+    "uploaded": "2019-11-13T23:12:38.149311",
+    "url_duckduckgo": "https://www.astrobin.com/b1aet2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b1aet2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b1aet2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b1aet2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b1aet2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b1aet2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b1aet2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/ac6a0cb5-5454-4250-8d1f-6924ac9b745f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/ac6a0cb5-5454-4250-8d1f-6924ac9b745f-1582460078.jpg",
+    "url_thumb": "https://www.astrobin.com/b1aet2/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 986,
+    "w": 3476
+}

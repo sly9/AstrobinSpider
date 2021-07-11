@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Due to the waxing moon and the lack of astronomical darkness during june and july at my location (52° N), I have finished my project of documenting the comet's development by imaging it every two weeks. Above the result ( this time north is on top ;) - and here's the tech data and info:\r\n\r\nEQUIPMENT:\r\n\r\nTS ONTC 10\" f/4 Newton on Sykwatcher EQ8\r\n60/240mm Guiding Scope with Lacerta M-GEN\r\nCanon EOS 6D modified with Baader BCF\r\n\r\nIMAGES:\r\n\r\nupper row 1: 8x 2min at iso 1600, 2017-03-28\r\nupper row 2: 8x 1min at iso 3200, 2017-04-17\r\nupper row 3: 8x 1min at iso3200, 2017-04-29\r\nupper row 4: 8x 1min at iso3200, 2017-05-17\r\nupper row 5: 8x 1min at iso3200, 2017-05-29\r\n\r\nlower row 1: 31x 2min at iso1600, 2017-03-28\r\nlower row 2: 31x 1min at iso3200, 2017-04-17\r\nlower row 3: 31x 1min at iso3200, 2017-04-29\r\nlower row 4: 31x 1min at iso3200, 2017-05-17\r\nlower row 5: 31x 1min at iso3200, 2017-05-29\r\n\r\nEach image preprocessed with a master flat made from 100 single frames and a superbias made from 200 bias frames (PixInsight), identical postprocessing and cropping to the same size and aspect ratio.\r\n\r\nEXPLANATION:\r\n\r\nMy intention was to follow the comet's development by imaging it every two weeks. Although the lack of astronomical darkness at 52° N in June and July and the waxing moon ended my efforts, I was lucky with the weather that allowed me to meet the two-week intervals quite accurately. \r\nDuring the first imaging session on 28th of march, the comet showed hardly any movement relative to the sky backgrund (0.00' in RA and 0.07' in DEC per hour) so I was able to do long exposures without getting startrails or having to process comet and stars seperately (which I'm not overwhelmingly good at). At the time of the second session on 17th of april, the comet's apparent movement had accelerated to 0.06' in RA and 0.28' in DEC so I doubled iso speed from 1600 to 3200 and halved single frame exposure time from 120 to 60 seconds to get \"more light in less time\" while providing comparability. I had tested the settings previously to find out that both iso speeds scale reasonably linear with the 6D's sensor, the signal strenght of raw images at iso 3200 seems to be at a similar level to the signal strenght of images taken at iso 1600 with double exposure time. Apart from that, there was only a little bit more noise in the frames taken at iso 3200 and a bit more saturation in the frames taken at 1600 - not a very big difference though. \r\nAt the time of the fifth session, the comet's apparent speed had increased to 0.08' in RA and 2.46' in DEC. So I calculated the maximum exposure time and the necessary downsizing to ensure a piont-shaped comet core from the last session that I could stack and applied that to the images of all five sessions. Because the ion tail almost wasn't visible when stacking 8x1min, I also did five stacks of 31 frames each that I just aligned on the comet. \r\nThe increasingly blurred stars (resulting from the sigma stacking method that I used, with a different method there would have been elongating startrails) illustrate the acceleration of the comet relative to the sky background.",
+    "h": 826,
+    "hash": null,
+    "id": 298368,
+    "imaging_cameras": [
+        "Canon EOS 6Da"
+    ],
+    "imaging_telescopes": [
+        "TS OPTICS ONTC 1010"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805383/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-06-04T09:13:10.376392",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298368/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet C/2015 V2 Johnson Approaching Perihelion 2017",
+    "updated": "2021-03-17T20:45:14.011901",
+    "uploaded": "2017-06-04T10:13:11.036649",
+    "url_duckduckgo": "https://www.astrobin.com/298368/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298368/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298368/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298368/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298368/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298368/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298368/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/298368/0/rawthumb/thumb/",
+    "user": "BastiH",
+    "views": 244,
+    "w": 1910
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "57.139",
+    "description": "Initially a very quick image, all 60sec subs taken on one night (26 Aug 2017). Processed in PixInsight using the new PhotometricColorCalibration (PCC) process. Then finished off in PhotoShop.\r\n\r\nThis is another in my series of star clusters showing Ha regions not normally seen. This is a basic RGB image taken in about an hour. Then another 20 hours of Ha data taken as 40 x 1800s subs bin 1x1. The Ha is then added as a tonemap, (i.e. stars removed)\r\n\r\nThis Ha nebula is extremely faint requiring lots of integration.\r\n\r\nThe other cluster images with Ha I have published here on Astrobin are <a HREF=\"http://www.astrobin.com/323184/C/\">NGC 7789</a> & <a HREF=\"http://www.astrobin.com/316789/B/\">M39</a>.",
+    "h": 2762,
+    "hash": null,
+    "id": 325347,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 137,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "0.123",
+    "pixscale": "1.435",
+    "published": "2017-12-10T18:48:49.308927",
+    "ra": "35.099",
+    "radius": "0.869",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325347/",
+    "revisions": [
+        "/api/v1/imagerevision/132220/"
+    ],
+    "subjects": [
+        "Double cluster",
+        "NGC 869",
+        "NGC 884",
+        "The star 7Per"
+    ],
+    "title": "Double Cluster in Perseus (with Ha) (NGC 884 & NGC 869)",
+    "updated": "2021-03-17T18:57:03.560507",
+    "uploaded": "2017-12-10T18:48:50.649067",
+    "url_duckduckgo": "https://www.astrobin.com/325347/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325347/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325347/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325347/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325347/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325347/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325347/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5290/2017/f02c3c5a-8de3-4145-a335-8b9ccc42c62f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5290/2017/f02c3c5a-8de3-4145-a335-8b9ccc42c62f-1582449919.jpg",
+    "url_thumb": "https://www.astrobin.com/325347/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 749,
+    "w": 3373
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 48,
+    "comments": 71,
+    "data_source": "BACKYARD",
+    "dec": "59.828",
+    "description": "<I>... The plan was to go to TAS-Atoka dark site one more time for the Ou4 ...</I>\r\n\r\nLooking at the weather over the new moon weekend, The trip is not going to happen. Decided to go with available data for the processing.\r\n\r\nThis target was planned at the beginning of the year as the first light target for the pre-owned Mach1. From the backyard, the effort failed miserably. Just can't scratch it off the back once it started. Here is the result of the second try. \r\n\r\nComparing to the first attempt, the biggest differences are:\r\n<I>- Use 0.73x reducer to drop the f-stop from f5.35 to f3.89\r\n- Capture Ou4 from dark site (not doable from the backyard)</I>\r\n\r\nThe data for this image is all from backyard except the Ou4. There were three trips from DFW to TAS-Atoka site. Collected about 20 hours of O3 data (Yeah, it was a little crazy using 3 nights at dark site to shoot 3nm narrowband data...). The O3 data is still not enough (maybe it will never be). Processing for the Ou4 is indeed challenging. A side-by-side comparison of all 4 masters is also uploaded. Ou4 signal is tangled with the its surrounding. Combining color layers in Photoshop definitely is a joy to work with. The same O3 signal from the calibrated master frame is used without extra stretching. The Ou4 looks cleaner this way and that's what I would preferred.\r\n\r\nSh2-129 has an unusual shape and indeed it has lots of textures. In this project, data amount for the Ha is even more than the O3. Of course, for Ha and S2 channels, backyard has much much lower cost of time and energy. 16 hours of S2 contributes a very faint touch of the gold tune along the border of the Sh2-129 (maybe it's totally unnecessary, but I can't accept the fact that there is no S2 data! LOL).\r\n\r\nThe little friend at the bottom left corner - the star in the middle should be <I><B>V421 Cep</B></I>, but the name of this little cloud structure could not be found anywhere. Tried Simbad and NED without luck. Anybody know? Another interesting thing is that I can't find any official words about how far away the Ou4 is. Is it actually in the Sh2-129 or much further away?\r\n\r\nThanks for looking! <I>(Special thanks to Nico Carver and Jon Rista for the encouragement and technical guidance.)</I>\r\n\r\n<B><I>Comments are welcome! </I></B>\r\n<I>09.29.2019 from Coppell, Texas </I>\r\n<BR>\r\n------\r\n\r\n<I><B>Pre-processing of Narrowband Masters</B></I>\r\n\r\n- Calibration / Integration, Astro Pixel Processor\r\n- Deconvolution, PixInsight (Ha and O3)\r\n- MultiscaleMedianTransform (Denoise), PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B><I>Pre-processing of RGB Masters</I></B>\r\n\r\n- Calibration / Integration, Astro Pixel Processor\r\n- Dynamic Background Extraction, PixInsight\r\n- MorphologicalTransformation, PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<I><B>RGB Combination</B></I>\r\n\r\n- LRGBCombination, PixInsight\r\n- MorphologicalTransformation, PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<I><B>Narrowband Combination</B></I>\r\n\r\n- Color Combination, Photoshop\r\n\r\n<I><B>Narrband & RGB Combination</B></I>\r\n\r\n- Star Layer Combination, Photoshop \r\n- HR8119 Star Glow, Star Spike Pro, Photoshop",
+    "h": 2769,
+    "hash": "p7mhjv",
+    "id": 430107,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 438,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/",
+        "/api/v1/location/2809968/"
+    ],
+    "orientation": "359.793",
+    "pixscale": "3.921",
+    "published": "2019-09-29T19:36:02.527992",
+    "ra": "318.070",
+    "radius": "1.885",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/430107/",
+    "revisions": [
+        "/api/v1/imagerevision/212064/"
+    ],
+    "subjects": [],
+    "title": "The Flying Bat, the Giant Squid & the Little Friend",
+    "updated": "2021-06-13T04:06:44.386156",
+    "uploaded": "2019-09-29T05:01:11.125842",
+    "url_duckduckgo": "https://www.astrobin.com/p7mhjv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/p7mhjv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/p7mhjv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/p7mhjv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/p7mhjv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/p7mhjv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/p7mhjv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/bd7afdec-55e8-455e-9cf8-dc9e2437ad04.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/bd7afdec-55e8-455e-9cf8-dc9e2437ad04-1582003580.png",
+    "url_thumb": "https://www.astrobin.com/p7mhjv/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 2099,
+    "w": 2074
+}

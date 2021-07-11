@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "18.156",
+    "description": "il file L è media di 5 pose da 300sec fatte col filtro B questo perchè la cometa emette quasi completamente nel blu",
+    "h": 2000,
+    "hash": null,
+    "id": 329561,
+    "imaging_cameras": [
+        "FLI ProLine PL11002M"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 16\" F/3.8 Fast Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799071/"
+    ],
+    "orientation": "359.674",
+    "pixscale": "2.144",
+    "published": "2018-01-15T19:44:19.316533",
+    "ra": "62.694",
+    "radius": "0.745",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329561/",
+    "revisions": [],
+    "subjects": [],
+    "title": "cometa C/2016 R2 Panstarrs",
+    "updated": "2021-03-17T16:49:08.390001",
+    "uploaded": "2018-01-15T19:44:20.054604",
+    "url_duckduckgo": "https://www.astrobin.com/329561/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329561/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329561/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329561/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329561/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329561/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329561/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c4766fa4-c192-49b4-93c5-7630f2da394e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c4766fa4-c192-49b4-93c5-7630f2da394e-1516045598.jpg",
+    "url_thumb": "https://www.astrobin.com/329561/0/rawthumb/thumb/",
+    "user": "astroligu60",
+    "views": 581,
+    "w": 1500
+}

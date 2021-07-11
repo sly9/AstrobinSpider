@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "43.674",
+    "description": "This is a reprocessing of Cygnus Wall data using Steve Milne’s PI Pixel Math formula for a “natural” color palette with narrowband data (Ha, OIII, and SII). In addition, in this version I created a master luminance layer using Ha and SII sub lights with HFR <1.8, only 4 hours of data total. For my taste, I prefer the look of this image to my earlier post in which I used a HST palette approach.  I find this image has more subtle detail and values. What do you think?",
+    "h": 3099,
+    "hash": null,
+    "id": 416258,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "94.272",
+    "pixscale": "0.862",
+    "published": "2019-07-20T16:59:17.159749",
+    "ra": "314.783",
+    "radius": "0.615",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/416258/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Cygnus Wall in NB Natural",
+    "updated": "2021-07-07T00:23:01.214676",
+    "uploaded": "2019-07-20T17:59:17.386615",
+    "url_duckduckgo": "https://www.astrobin.com/416258/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416258/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416258/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416258/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416258/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416258/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416258/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4aae0698-8ced-42da-a5dc-a208ad3621b0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4aae0698-8ced-42da-a5dc-a208ad3621b0-1563655333.jpg",
+    "url_thumb": "https://www.astrobin.com/416258/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 346,
+    "w": 4099
+}

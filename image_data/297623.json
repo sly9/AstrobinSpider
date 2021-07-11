@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 7,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "M51, the Whirlpool galaxy (NGC 5194), and its companion, NGC 5195, are among the most recognizable deep sky objects.  Interestingly, the distance of this interacting pair is a matter of some debate, having been estimated at anywhere from 15 million light years to 35 million light years.  \r\n\r\nThis image is in LRGB format with L(Ha)GB highlights added to demarcate the hydrogen emission nebulae.  The H-alpha data were taken from my light-polluted, urban back yard on two nights when I could not travel to a dark site.  The RGB data were taken from one of my dark sites, while the luminance data were taken from the other on a different night.  It was good to get out to my two favorite dark sites after being confined to the city since last August.  \r\n\r\nI have stretched this image rather aggressively to show the myriad of faint galaxies in the background, but as a result, the sky background may be a little bit too bright for some imagers' tastes.",
+    "h": 2180,
+    "hash": null,
+    "id": 297623,
+    "imaging_cameras": [
+        "QSI 660 WS"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 245,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799365/",
+        "/api/v1/location/2801691/",
+        "/api/v1/location/2802719/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-05-30T03:02:14.392815",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/297623/",
+    "revisions": [
+        "/api/v1/imagerevision/123753/",
+        "/api/v1/imagerevision/271545/"
+    ],
+    "subjects": [],
+    "title": "M51 and NGC 5195 imaged from three different locations",
+    "updated": "2021-05-26T11:42:36.851229",
+    "uploaded": "2017-05-30T03:40:32.045750",
+    "url_duckduckgo": "https://www.astrobin.com/297623/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/297623/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/297623/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/297623/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/297623/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/297623/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/297623/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/297623/0/rawthumb/thumb/",
+    "user": "rhedden",
+    "views": 739,
+    "w": 2728
+}

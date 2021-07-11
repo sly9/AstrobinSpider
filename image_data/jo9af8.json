@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "25.849",
+    "description": "IC2087\r\nDate: Oct.-Nov. 2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : Tak e-180\r\nMount : SkyWatcher EQ8\r\nCamera : ZWO ASI094MC(-15ºC)\r\nExposure : 180sx88 , ( RGB~4.4hr)\r\nGuiding: Borg50/ASI174,\r\nProcessing: PI、PS-CC",
+    "h": 4487,
+    "hash": "jo9af8",
+    "id": 443262,
+    "imaging_cameras": [
+        "ZWO ASI094MC-PRO"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "https://astro-noodle.blogspot.com/2019/12/ic2087.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "272.333",
+    "pixscale": "1.993",
+    "published": "2019-12-14T03:58:37.144052",
+    "ra": "69.874",
+    "radius": "2.252",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/443262/",
+    "revisions": [],
+    "subjects": [
+        "95 Tau",
+        "B14",
+        "B22",
+        "B220",
+        "IC 2087",
+        "IC2087"
+    ],
+    "title": "IC 2087",
+    "updated": "2021-03-17T06:03:29.651256",
+    "uploaded": "2019-12-14T03:58:37.994399",
+    "url_duckduckgo": "https://www.astrobin.com/jo9af8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jo9af8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jo9af8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jo9af8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jo9af8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jo9af8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jo9af8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/1e6d153f-d478-4e90-a979-d6e4c3814595.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/1e6d153f-d478-4e90-a979-d6e4c3814595-1582285979.png",
+    "url_thumb": "https://www.astrobin.com/jo9af8/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 278,
+    "w": 6790
+}

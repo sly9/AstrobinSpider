@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "61.466",
+    "description": "SW Equinox 80, aplanisseur Hotech, ASI183 MM-Pro, RAF ZWO avec Ha, SII et OIII Astrodon 5nm, AZ-EQ6, Guidage par ASI290MM sur diviseur optique ZWO\r\n\r\nPour chaque couche, pas de bias, 31 darks, 51 flats et 51 darks de flats\r\n\r\nIntégration 14 heures :\r\nHa : 42 x 600\" @ gain 200\r\nSII et OIII : 42 x 300\" @ gain 270\r\n\r\nSirilic, PixInsight et PS pour la palette de couleurs finale",
+    "h": 1744,
+    "hash": "am6kad",
+    "id": 428446,
+    "imaging_cameras": [
+        "ZWO 183MM pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Equinox 80ED refractor / F L: 500mm (f/6.25)"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803118/"
+    ],
+    "orientation": "359.952",
+    "pixscale": "1.994",
+    "published": "2019-09-21T19:06:42.027423",
+    "ra": "38.475",
+    "radius": "0.871",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/428446/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Melotte 15 [ASI183MM-Pro]",
+    "updated": "2021-03-17T09:05:19.805541",
+    "uploaded": "2019-09-21T20:06:42.161141",
+    "url_duckduckgo": "https://www.astrobin.com/am6kad/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/am6kad/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/am6kad/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/am6kad/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/am6kad/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/am6kad/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/am6kad/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2125/2019/62057550-1e9e-4be0-9a1e-e57663b4b513.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2125/2019/62057550-1e9e-4be0-9a1e-e57663b4b513-1582523324.jpg",
+    "url_thumb": "https://www.astrobin.com/am6kad/0/rawthumb/thumb/",
+    "user": "krotdebouk",
+    "views": 687,
+    "w": 2620
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "22.721",
+    "description": "",
+    "h": 2561,
+    "hash": null,
+    "id": 294937,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "359.510",
+    "pixscale": "1.009",
+    "published": "2017-05-08T05:30:06.562097",
+    "ra": "299.903",
+    "radius": "0.460",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294937/",
+    "revisions": [
+        "/api/v1/imagerevision/116056/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M27: The Dumbbell Nebula",
+    "updated": "2021-03-17T20:58:49.545331",
+    "uploaded": "2017-05-08T06:30:06.949109",
+    "url_duckduckgo": "https://www.astrobin.com/294937/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294937/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294937/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294937/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294937/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294937/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294937/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/42b2923a-e72f-4bbd-80f7-5b6ff841e89c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/42b2923a-e72f-4bbd-80f7-5b6ff841e89c-1582599021.jpg",
+    "url_thumb": "https://www.astrobin.com/294937/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 679,
+    "w": 2048
+}

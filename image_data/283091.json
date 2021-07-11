@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "5.063",
+    "description": "First Bi-Color using Pixel Math.   HA 32 subs , OII 30 subs.  Center of the Rosette Nebula",
+    "h": 1381,
+    "hash": null,
+    "id": 283091,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/8 RC telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801406/"
+    ],
+    "orientation": "-175.640",
+    "pixscale": "0.986",
+    "published": "2017-02-08T23:03:10.657581",
+    "ra": "97.967",
+    "radius": "0.551",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283091/",
+    "revisions": [
+        "/api/v1/imagerevision/110117/",
+        "/api/v1/imagerevision/110122/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "ngc 2244 and ngc 2239 ",
+    "updated": "2021-03-17T21:48:06.739253",
+    "uploaded": "2017-02-08T23:03:11.364243",
+    "url_duckduckgo": "https://www.astrobin.com/283091/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283091/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283091/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283091/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283091/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283091/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283091/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/098a4744-b666-4901-8539-9688f7853fe5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/098a4744-b666-4901-8539-9688f7853fe5-1486595388.jpg",
+    "url_thumb": "https://www.astrobin.com/283091/0/rawthumb/thumb/",
+    "user": "dennis1951",
+    "views": 229,
+    "w": 1824
+}

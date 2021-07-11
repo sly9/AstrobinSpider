@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-36.888",
+    "description": "4 hrs total. Still noisy - more work yet!",
+    "h": 1266,
+    "hash": null,
+    "id": 343506,
+    "imaging_cameras": [
+        "SBIG STF-8300C"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799211/"
+    ],
+    "orientation": "1.647",
+    "pixscale": "4.938",
+    "published": "2018-04-24T01:46:38.740484",
+    "ra": "285.430",
+    "radius": "1.441",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/343506/",
+    "revisions": [
+        "/api/v1/imagerevision/143414/",
+        "/api/v1/imagerevision/144048/",
+        "/api/v1/imagerevision/144348/",
+        "/api/v1/imagerevision/144461/",
+        "/api/v1/imagerevision/144575/",
+        "/api/v1/imagerevision/151225/"
+    ],
+    "subjects": [
+        "NGC 6723",
+        "Part of the constellation Corona Austrina (CrA)",
+        "The star γCrA",
+        "The star εCrA"
+    ],
+    "title": "Corona Australis",
+    "updated": "2021-03-17T15:44:44.584067",
+    "uploaded": "2018-04-24T02:46:41.064421",
+    "url_duckduckgo": "https://www.astrobin.com/343506/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/343506/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/343506/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/343506/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/343506/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/343506/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/343506/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4311d0df-fa9c-48ff-afa2-076bb14a6644.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4311d0df-fa9c-48ff-afa2-076bb14a6644-1524535120.jpg",
+    "url_thumb": "https://www.astrobin.com/343506/0/rawthumb/thumb/",
+    "user": "LewisM",
+    "views": 288,
+    "w": 1676
+}

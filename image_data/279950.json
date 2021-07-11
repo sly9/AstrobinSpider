@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "44.419",
+    "description": "",
+    "h": 2266,
+    "hash": null,
+    "id": 279950,
+    "imaging_cameras": [
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "RCOS 16\" RC f/9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 229,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "-72.095",
+    "pixscale": "0.507",
+    "published": "2017-01-12T11:07:37.377975",
+    "ra": "312.700",
+    "radius": "0.294",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/279950/",
+    "revisions": [
+        "/api/v1/imagerevision/239662/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula"
+    ],
+    "title": "Pelican Nebula - Hubble Palette - detail",
+    "updated": "2021-06-16T23:56:19.276414",
+    "uploaded": "2017-01-12T11:07:38.433682",
+    "url_duckduckgo": "https://www.astrobin.com/279950/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/279950/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/279950/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/279950/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/279950/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/279950/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/279950/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/9b110f8d-6e77-4109-a540-2d6b1a2b9cd0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9b110f8d-6e77-4109-a540-2d6b1a2b9cd0-1484219506.jpg",
+    "url_thumb": "https://www.astrobin.com/279950/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 965,
+    "w": 1824
+}

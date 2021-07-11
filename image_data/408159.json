@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "38.148",
+    "description": "Not a high resolution image as I chose to take this at bin 4x4 and 2x2 to speed up the image acquisition and I really wanted to get the Soap Bubble Nebula and with the shorter lighter nights approaching I did not want to let this one run till next year.\r\n\r\nNarrowband images taken as bins 4x4 and 2x2 and stars taken at bin 2x2 and a few at 1x1. Narrowband data processed after star removal with Starnet++ and RGB stars added back.\r\n\r\nStarnet++ removed all the stars and I did not need to do any manual touching up, a fantastic program.\r\n\r\nImaged over 6 nights May 11-21 2019",
+    "h": 2122,
+    "hash": null,
+    "id": 408159,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "359.747",
+    "pixscale": "1.942",
+    "published": "2019-06-01T21:04:51.482514",
+    "ra": "303.471",
+    "radius": "0.880",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408159/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 (Crescent Nebula) & Soap Bubble (PN G75.5+1.7)",
+    "updated": "2021-06-25T12:38:09.648555",
+    "uploaded": "2019-06-01T15:15:28.441972",
+    "url_duckduckgo": "https://www.astrobin.com/408159/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408159/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408159/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408159/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408159/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408159/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408159/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5290/2019/ed32abc1-7d00-44f0-af90-3245996206fe.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5290/2019/ed32abc1-7d00-44f0-af90-3245996206fe-1582449860.jpg",
+    "url_thumb": "https://www.astrobin.com/408159/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 317,
+    "w": 2478
+}

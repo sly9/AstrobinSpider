@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "-22.953",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThe Trifid Nebula (catalogued as Messier 20 or M20 and as NGC 6514) is an H II region located in Sagittarius. It was discovered by Charles Messier on June 5, 1764. Its name means 'divided into three lobes'. The object is an unusual combination of an open cluster of stars; an emission nebula (the lower, red portion), a reflection nebula (the upper, blue portion) and a dark nebula (the apparent 'gaps' within the emission nebula that cause the trifurcated appearance; these are also designated Barnard 85). Viewed through a small telescope, the Trifid Nebula is a bright and peculiar object, and is thus a perennial favorite of amateur astronomers.\r\n\r\nThe Trifid Nebula is a star-forming region in the Scutum spiral arm of the Milky Way. The most massive star that has formed in this region is HD 164492A, an O7.5III star with a mass more than 20 times the mass of the Sun. This star is surrounded by a cluster of approximately 3100 young stars.\r\n\r\nThe Trifid Nebula was the subject of an investigation by astronomers using the Hubble Space Telescope in 1997, using filters that isolate emission from hydrogen atoms, ionized sulfur atoms, and doubly ionized oxygen atoms. The images were combined into a false-color composite picture to suggest how the nebula might look to the eye.\r\n\r\nThe close-up images show a dense cloud of dust and gas, which is a stellar nursery full of embryonic stars. This cloud is about 8 ly away from the nebula's central star. A stellar jet protrudes from the head of the cloud and is about 0.75 ly long. The jet's source is a young stellar object deep within the cloud. Jets are the exhaust gasses of star formation and radiation from the nebula's central star makes the jet glow.\r\n\r\nThe images also showed a finger-like stalk to the right of the jet. It points from the head of the dense cloud directly toward the star that powers the Trifid nebula. This stalk is a prominent example of evaporating gaseous globules, or 'EGGs'. The stalk has survived because its tip is a knot of gas that is dense enough to resist being eaten away by the powerful radiation from the star.\r\n\r\nIn January 2005, NASA's Spitzer Space Telescope discovered 30 embryonic stars and 120 newborn stars not seen in visible light images.\r\n\r\nIt is approximately 5000 ly away from Earth. Its apparent magnitude is 6.3.\r\n(Wikipedia)",
+    "h": 2650,
+    "hash": null,
+    "id": 409779,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "357.703",
+    "pixscale": "0.701",
+    "published": "2019-06-10T17:20:26.735492",
+    "ra": "270.652",
+    "radius": "0.418",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/409779/",
+    "revisions": [],
+    "subjects": [
+        "B85",
+        "M 20",
+        "M20",
+        "NGC 6514",
+        "Sh2-30",
+        "Trifid nebula"
+    ],
+    "title": "M20 Trifid Nebula",
+    "updated": "2021-04-08T14:00:03.247921",
+    "uploaded": "2019-06-10T18:10:56.096943",
+    "url_duckduckgo": "https://www.astrobin.com/409779/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409779/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409779/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409779/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409779/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409779/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409779/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/9fac65e4-cd14-43d6-82e9-8438a978960f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/9fac65e4-cd14-43d6-82e9-8438a978960f-1582590812.jpg",
+    "url_thumb": "https://www.astrobin.com/409779/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 470,
+    "w": 3383
+}

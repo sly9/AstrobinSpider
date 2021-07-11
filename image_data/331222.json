@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "42.930",
+    "description": "Don't zoom in on this one, folks! This was a last minute pick for what to image while waiting for my main targets to rise. I really like this object, but I underestimated its difficulty: First off, it's a little fainter than I thought it was going to be. Secondly, there are SO MANY stars in this field. I really had a tough time merging the Ha data with the red data without destroying the stars. I'm not satisfied with this - it's really noisy and lacks detail, but I'm not going to add more to it since it's galaxy season and I'm itching to take the refractor down and get started on it. I might work on it again next fall/winter if I have my refractor up. If I were to do it over (and I am planning on it someday), I'd give the Ha at least 20 hours and I'd try to construct a bicolor HOO version to make it easier to merge with the star field. Besides - there seems to be an OIII signal in this one I originally wasn't aware of. I really had to pull out all the tricks to get the star size under control. And yet, neither the nebula nor the stars look great. I still continue to struggle with star color when imaging in monochrome.",
+    "h": 2902,
+    "hash": null,
+    "id": 331222,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 80mm Carbon Fiber Air-Spaced Triplet ED APO Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "89.406",
+    "pixscale": "2.082",
+    "published": "2018-01-31T15:39:58.432986",
+    "ra": "81.662",
+    "radius": "1.404",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331222/",
+    "revisions": [
+        "/api/v1/imagerevision/138337/"
+    ],
+    "subjects": [],
+    "title": "Sh2-224",
+    "updated": "2021-03-17T16:41:46.727420",
+    "uploaded": "2018-01-28T05:57:51.223939",
+    "url_duckduckgo": "https://www.astrobin.com/331222/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331222/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331222/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331222/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331222/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331222/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331222/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/24075b89-87d7-4568-8645-0fbaad29e0ad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/24075b89-87d7-4568-8645-0fbaad29e0ad-1517194749.jpg",
+    "url_thumb": "https://www.astrobin.com/331222/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 326,
+    "w": 3893
+}

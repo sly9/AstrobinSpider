@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "37.452",
+    "description": "NGC 5395&5394 2018.03.05 crop\r\nC14HD edge F7 (2500mm focal length)\r\nG3-16200 bin 2x2\r\nCLS filter\r\n25x300sec -30°C (calibration DARK/BIAS)",
+    "h": 476,
+    "hash": null,
+    "id": 340619,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200 internal FW classe 1 G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798883/"
+    ],
+    "orientation": "110.291",
+    "pixscale": "0.898",
+    "published": "2018-04-06T19:38:57.622889",
+    "ra": "209.672",
+    "radius": "0.125",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340619/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5394",
+        "NGC 5395",
+        "NGC5394",
+        "NGC5395",
+        "Other"
+    ],
+    "title": "NGC 5395&5394 2018.03.05 crop",
+    "updated": "2021-03-24T13:54:44.268539",
+    "uploaded": "2018-04-06T20:38:59.663449",
+    "url_duckduckgo": "https://www.astrobin.com/340619/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340619/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340619/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340619/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340619/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340619/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340619/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/adc257a2-8c46-4110-ae7e-b0083152772a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/adc257a2-8c46-4110-ae7e-b0083152772a-1523043821.png",
+    "url_thumb": "https://www.astrobin.com/340619/0/rawthumb/thumb/",
+    "user": "sulcis2000",
+    "views": 239,
+    "w": 885
+}

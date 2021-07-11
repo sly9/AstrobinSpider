@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "55.378",
+    "description": "Had a free night and was able to capture these two Messier objects in one FOV.",
+    "h": 3600,
+    "hash": null,
+    "id": 335002,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "320.384",
+    "pixscale": "1.104",
+    "published": "2018-02-24T00:10:59.126647",
+    "ra": "168.315",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/335002/",
+    "revisions": [],
+    "subjects": [
+        "M 108",
+        "M 97",
+        "M108",
+        "M97",
+        "NGC 3556",
+        "NGC 3587",
+        "NGC3594",
+        "Owl nebula",
+        "PK148+57.1"
+    ],
+    "title": "M97 and M108 RGB Image",
+    "updated": "2021-03-17T16:24:38.048397",
+    "uploaded": "2018-02-24T00:11:01.138929",
+    "url_duckduckgo": "https://www.astrobin.com/335002/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335002/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335002/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335002/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335002/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335002/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335002/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/de5bdbc2-3550-46e9-afd1-7138fd476bb2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/de5bdbc2-3550-46e9-afd1-7138fd476bb2-1582415667.jpg",
+    "url_thumb": "https://www.astrobin.com/335002/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 680,
+    "w": 4500
+}

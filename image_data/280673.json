@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "25.501",
+    "description": "",
+    "h": 2199,
+    "hash": null,
+    "id": 280673,
+    "imaging_cameras": [
+        "SBIG STF-8300M",
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Selfmade Newton 16\" F4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799661/"
+    ],
+    "orientation": "181.739",
+    "pixscale": "0.594",
+    "published": "2017-01-20T17:57:34.289333",
+    "ra": "192.604",
+    "radius": "0.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/280673/",
+    "revisions": [
+        "/api/v1/imagerevision/108759/",
+        "/api/v1/imagerevision/109135/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725"
+    ],
+    "title": "NGC4725 One Armed Spiral Galaxy",
+    "updated": "2021-03-17T21:57:46.004800",
+    "uploaded": "2017-01-20T17:57:35.132797",
+    "url_duckduckgo": "https://www.astrobin.com/280673/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/280673/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/280673/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/280673/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/280673/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/280673/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/280673/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3728/2017/a25af1cf-e596-454f-bc64-db7f0e6d7e6c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3728/2017/a25af1cf-e596-454f-bc64-db7f0e6d7e6c-1582607619.jpg",
+    "url_thumb": "https://www.astrobin.com/280673/0/rawthumb/thumb/",
+    "user": "Letman",
+    "views": 577,
+    "w": 2749
+}

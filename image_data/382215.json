@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "9.498",
+    "description": "Deep image of comet 46P / Wirtanen\r\nDec 13, 2018\r\n\r\nLarson-Sekanina processing with PixInsight\r\n79 x 30 s (ISO 400) with Sony a7s (a), Celestron 11 EdgeHD, Hyperstar mode. Baader UV/IR cut 2\" filter\r\nSpicheren, France",
+    "h": 1280,
+    "hash": null,
+    "id": 382215,
+    "imaging_cameras": [
+        "Sony A7s CentralDS"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809974/"
+    ],
+    "orientation": "0.342",
+    "pixscale": "6.804",
+    "published": "2018-12-21T17:52:22.196266",
+    "ra": "53.226",
+    "radius": "2.181",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/382215/",
+    "revisions": [],
+    "subjects": [
+        "The star 6Tau",
+        "The star ξTau",
+        "Comet"
+    ],
+    "title": "46P/Wirtanen, Dec 13, 2018",
+    "updated": "2021-03-17T12:46:02.250418",
+    "uploaded": "2018-12-21T17:52:22.316335",
+    "url_duckduckgo": "https://www.astrobin.com/382215/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382215/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382215/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382215/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382215/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382215/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382215/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27077/2018/0c925e0b-07db-4148-9537-1429955eb34d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27077/2018/0c925e0b-07db-4148-9537-1429955eb34d-1586265709.jpg",
+    "url_thumb": "https://www.astrobin.com/382215/0/rawthumb/thumb/",
+    "user": "SebastianVoltmer",
+    "views": 776,
+    "w": 1920
+}

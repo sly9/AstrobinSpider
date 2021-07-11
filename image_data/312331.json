@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 22,
+    "data_source": "UNSET",
+    "dec": "34.423",
+    "description": "This has been a struggle to acquire and process. \r\n\r\nMy original plan was to go deep on this target at high resolution.. However, during the time I had good seeing, the moon was large and bright and couldn't shoot any broad band (ended up shooting M1) and everytime I tried shooting L on this target, the seeing was terrible and I had to eke out subs out of multiple nights.  \r\n\r\nThe color data had horrible gradients as well as I did bad framing (or may be it was mirror flop and I had badly framed images as well that had to be discarded).  I pushed the processing as much as I could but it has fallen well short of my target. I will keep trying to collect data but the forecast isn't looking good and the target is going to hit meridian early before long (and I cant shoot past it).\r\n\r\nThe stars are big and fluffy.. cant do much about up ... If only I had some good seeing on moonless nights.\r\n\r\n\r\nVersion B: Collected more L subs and threw out a bunch of less quality subs\r\nL - 162*3 mins\r\nR/G/B - 50/60/55 * 3min\r\n",
+    "h": 1607,
+    "hash": null,
+    "id": 312331,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "287.343",
+    "pixscale": "0.558",
+    "published": "2017-09-15T16:26:53.161203",
+    "ra": "339.331",
+    "radius": "0.187",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312331/",
+    "revisions": [
+        "/api/v1/imagerevision/125370/"
+    ],
+    "subjects": [
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7337",
+        "NGC7331",
+        "NGC7333",
+        "NGC7335",
+        "NGC7336",
+        "NGC7337",
+        "NGC7338",
+        "NGC7340"
+    ],
+    "title": "NGC7331: Deer lick Group",
+    "updated": "2021-03-20T12:31:05.455400",
+    "uploaded": "2017-09-15T17:26:54.826945",
+    "url_duckduckgo": "https://www.astrobin.com/312331/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312331/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312331/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312331/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312331/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312331/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312331/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/0906f056-6b38-438a-9d05-5c1fb8bdc60f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/0906f056-6b38-438a-9d05-5c1fb8bdc60f-1505493183.png",
+    "url_thumb": "https://www.astrobin.com/312331/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 1187,
+    "w": 1800
+}

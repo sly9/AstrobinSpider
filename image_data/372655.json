@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "3.355",
+    "description": "",
+    "h": 2712,
+    "hash": null,
+    "id": 372655,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "92.257",
+    "pixscale": "0.591",
+    "published": "2018-10-19T19:20:35.108205",
+    "ra": "19.924",
+    "radius": "0.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/372655/",
+    "revisions": [],
+    "subjects": [
+        "NGC 467",
+        "NGC 470",
+        "NGC 474"
+    ],
+    "title": "NGC474 Region in LRGB",
+    "updated": "2021-07-08T20:03:06.893061",
+    "uploaded": "2018-10-19T20:20:35.413940",
+    "url_duckduckgo": "https://www.astrobin.com/372655/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/372655/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/372655/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/372655/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/372655/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/372655/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/372655/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b031c4c3-dea7-4397-99d7-7f178583cd24.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b031c4c3-dea7-4397-99d7-7f178583cd24-1540074834.jpg",
+    "url_thumb": "https://www.astrobin.com/372655/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 448,
+    "w": 3388
+}

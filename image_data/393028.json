@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "69.679",
+    "description": "Image taken from 23.02.19 to 26.02.19\r\n\r\n67x180\" L\r\n25x180\" R\r\n26x180\" G\r\n26x180\" B\r\n22x600\" Ha\r\ntotal: ca.11h",
+    "h": 1200,
+    "hash": null,
+    "id": 393028,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM-C"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 300/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805645/"
+    ],
+    "orientation": "2.276",
+    "pixscale": "0.267",
+    "published": "2019-02-27T21:06:20.501887",
+    "ra": "148.965",
+    "radius": "0.197",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/393028/",
+    "revisions": [
+        "/api/v1/imagerevision/171676/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82 LRGBHa",
+    "updated": "2021-03-17T11:57:06.464010",
+    "uploaded": "2019-02-27T21:06:21.192040",
+    "url_duckduckgo": "https://www.astrobin.com/393028/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/393028/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/393028/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/393028/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/393028/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/393028/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/393028/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18217/2019/8e0f208b-f18e-44bd-b24d-333010e524e0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/8e0f208b-f18e-44bd-b24d-333010e524e0-1551330769.png",
+    "url_thumb": "https://www.astrobin.com/393028/0/rawthumb/thumb/",
+    "user": "Algorab",
+    "views": 228,
+    "w": 1800
+}

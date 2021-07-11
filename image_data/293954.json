@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "36.458",
+    "description": "Messier 13 (M13), called the Great Globular Cluster in Hercules, is about 145 light-years in diameter, and is composed of several hundred thousand stars (~300,000), the brightest of which is a red giant, the variable star V11, with an apparent visual magnitude of 11.95. M13 is 25,100 light-years away from Earth.\r\n\r\nThe Arecibo message of 1974, which contained encoded information about the human race, DNA, atomic numbers, Earth's position and other information, was beamed from the Arecibo Observatory radio telescope towards M13 as an experiment in contacting potential extraterrestrial civilizations in the cluster. While the cluster will move through space during the transit time, the proper motion is small enough that the cluster will only move 24 light years, only a fraction of the diameter of the cluster. Thus, the message will still arrive near the center of the cluster.  (Wikipedia)\r\n",
+    "h": 2255,
+    "hash": null,
+    "id": 293954,
+    "imaging_cameras": [
+        "QHYCCD QHY10 Color"
+    ],
+    "imaging_telescopes": [
+        "Telescope-Service Ritchey-Chrétien 12\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "92.512",
+    "pixscale": "0.642",
+    "published": "2017-05-01T01:56:49.594481",
+    "ra": "250.422",
+    "radius": "0.358",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293954/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "M13 Hercules Globular Cluster",
+    "updated": "2021-05-14T12:05:47.630152",
+    "uploaded": "2017-05-01T00:31:43.546851",
+    "url_duckduckgo": "https://www.astrobin.com/293954/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293954/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293954/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293954/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293954/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293954/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293954/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14978/2017/0074ea26-1005-431d-b2b7-58b043014bb1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14978/2017/0074ea26-1005-431d-b2b7-58b043014bb1-1582591054.jpg",
+    "url_thumb": "https://www.astrobin.com/293954/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 587,
+    "w": 3319
+}

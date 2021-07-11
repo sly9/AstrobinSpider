@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "9.867",
+    "description": "The Cone Nebula is an H II region approximately 2,700 light-years distant in the constellation of Monoceros.  The Cone is part of the nebulosity around the Christmas Tree Cluster.  Both the nebula and the cluster are catalogued as NGC 2264.\r\n\r\nThis was photographed between 15 and 22 January 2018 from our remote imaging rig in Extremadura, Spain.  It consists:\r\n\r\nHa: 21 x 1200s\r\nLum: 31 x 600s\r\nRed: 24 x 600s\r\nGreen: 24 x 600s\r\nBlue: 24 x 600s\r\n\r\nA total of 25.8 hours exposure.\r\n\r\nCapture: Steve Milne & Barry Wilson\r\nProcessing: Steve Milne",
+    "h": 3303,
+    "hash": null,
+    "id": 330957,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "0.988",
+    "pixscale": "2.096",
+    "published": "2018-01-26T09:36:08.744233",
+    "ra": "100.065",
+    "radius": "1.202",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330957/",
+    "revisions": [
+        "/api/v1/imagerevision/135721/"
+    ],
+    "subjects": [
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "Cone Nebula in Monoceros",
+    "updated": "2021-03-17T16:42:57.469170",
+    "uploaded": "2018-01-26T09:36:09.896771",
+    "url_duckduckgo": "https://www.astrobin.com/330957/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330957/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330957/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330957/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330957/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330957/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330957/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/1ce3cbfb-f125-4879-8571-e4ab22356871.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/1ce3cbfb-f125-4879-8571-e4ab22356871-1582606118.jpg",
+    "url_thumb": "https://www.astrobin.com/330957/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 301,
+    "w": 2479
+}

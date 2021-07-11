@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "54.354",
+    "description": "Add 6 hours more exposure to January image.\r\nThis night was also first test with CCDciel autofocus integrated in the sequence.\r\n",
+    "h": 987,
+    "hash": null,
+    "id": 293639,
+    "imaging_cameras": [
+        "Atik 314L+"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Equinox 80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801911/"
+    ],
+    "orientation": "190.661",
+    "pixscale": "2.665",
+    "published": "2017-04-29T08:22:53.077521",
+    "ra": "210.812",
+    "radius": "0.614",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293639/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5477"
+    ],
+    "title": "M 101",
+    "updated": "2021-03-17T21:03:40.171398",
+    "uploaded": "2017-04-29T09:22:53.823773",
+    "url_duckduckgo": "https://www.astrobin.com/293639/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293639/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293639/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293639/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293639/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293639/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293639/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9701/2017/3a48fe6b-38dc-41d2-a9c0-5ff8db24af46.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9701/2017/3a48fe6b-38dc-41d2-a9c0-5ff8db24af46-1582621394.jpg",
+    "url_thumb": "https://www.astrobin.com/293639/0/rawthumb/thumb/",
+    "user": "PatrickChevalley",
+    "views": 247,
+    "w": 1333
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "68.833",
+    "description": "",
+    "h": 2224,
+    "hash": null,
+    "id": 335032,
+    "imaging_cameras": [
+        "Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS Optics Photoline 130 f/6.62"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808516/"
+    ],
+    "orientation": "269.502",
+    "pixscale": "2.868",
+    "published": "2018-02-24T06:30:25.542954",
+    "ra": "148.914",
+    "radius": "1.424",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335032/",
+    "revisions": [
+        "/api/v1/imagerevision/144552/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 2976",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077",
+        "Other"
+    ],
+    "title": "M81-M82 LRGB",
+    "updated": "2021-03-17T16:24:30.298952",
+    "uploaded": "2018-02-24T06:30:27.759723",
+    "url_duckduckgo": "https://www.astrobin.com/335032/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335032/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335032/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335032/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335032/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335032/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335032/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26502/2018/b71a68e5-fad6-48e9-af47-b666e0514018.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26502/2018/b71a68e5-fad6-48e9-af47-b666e0514018-1582531542.jpg",
+    "url_thumb": "https://www.astrobin.com/335032/0/rawthumb/thumb/",
+    "user": "SkyEyE",
+    "views": 319,
+    "w": 2800
+}

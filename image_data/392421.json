@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "33.398",
+    "description": "",
+    "h": 3262,
+    "hash": null,
+    "id": 392421,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher N 150/750 PDS Explorer"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804400/"
+    ],
+    "orientation": "354.857",
+    "pixscale": "1.037",
+    "published": "2019-02-24T11:55:58.770413",
+    "ra": "80.695",
+    "radius": "0.763",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/392421/",
+    "revisions": [
+        "/api/v1/imagerevision/171365/",
+        "/api/v1/imagerevision/180751/",
+        "/api/v1/imagerevision/182765/",
+        "/api/v1/imagerevision/182766/"
+    ],
+    "subjects": [
+        "IC 410",
+        "IC410",
+        "NGC 1893",
+        "NGC1893",
+        "Sh2-236"
+    ],
+    "title": "ic410 NarrowBand",
+    "updated": "2021-03-17T11:59:48.852653",
+    "uploaded": "2019-02-24T11:55:58.930530",
+    "url_duckduckgo": "https://www.astrobin.com/392421/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/392421/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/392421/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/392421/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/392421/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/392421/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/392421/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14949/2019/169a35f4-7cc0-4875-9295-b26633a77fb9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14949/2019/169a35f4-7cc0-4875-9295-b26633a77fb9-1582590533.jpg",
+    "url_thumb": "https://www.astrobin.com/392421/0/rawthumb/thumb/",
+    "user": "asterisme32",
+    "views": 435,
+    "w": 4175
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "13.306",
+    "description": "This is a mosaic of the Leo Triplet.\r\nBasis image was the an image from February this year, taken with my Apo with 420mm focal length.\r\nNGC 3628 was taken at the same time with my 10\" Newton with 1000m focal length.\r\nThe images of M65 and M66 are older ones from 2012, also taken with a 10\" Newton but with a Canon Rebel XT.\r\nAll of this images were combined with the mosaic funczion in PI to get the final result.",
+    "h": 1201,
+    "hash": null,
+    "id": 338768,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-8300FW",
+        "QSI 583ws"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 250/1000",
+        "TS Optics TS Imaging Star APO65Q"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808564/"
+    ],
+    "orientation": "303.996",
+    "pixscale": "2.635",
+    "published": "2018-03-24T09:06:27.110705",
+    "ra": "169.942",
+    "radius": "0.733",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338768/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet",
+    "updated": "2021-03-17T16:06:43.229652",
+    "uploaded": "2018-03-24T09:06:28.588140",
+    "url_duckduckgo": "https://www.astrobin.com/338768/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338768/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338768/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338768/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338768/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338768/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338768/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26592/2018/c45ca881-5132-4356-8eec-688ddad52533.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26592/2018/c45ca881-5132-4356-8eec-688ddad52533-1582612619.jpg",
+    "url_thumb": "https://www.astrobin.com/338768/0/rawthumb/thumb/",
+    "user": "Sterntaucher",
+    "views": 172,
+    "w": 1602
+}

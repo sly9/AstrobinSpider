@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "13.588",
+    "description": "LRGB",
+    "h": 1312,
+    "hash": null,
+    "id": 404079,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "AstroTech AT10RC truss"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "273.746",
+    "pixscale": "1.042",
+    "published": "2019-05-04T14:13:29.742801",
+    "ra": "170.071",
+    "radius": "0.305",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404079/",
+    "revisions": [
+        "/api/v1/imagerevision/178491/",
+        "/api/v1/imagerevision/178503/",
+        "/api/v1/imagerevision/178624/"
+    ],
+    "subjects": [
+        "NGC 3628",
+        "NGC3628"
+    ],
+    "title": "NGC3628",
+    "updated": "2021-03-17T11:05:34.315191",
+    "uploaded": "2019-05-04T15:13:29.867818",
+    "url_duckduckgo": "https://www.astrobin.com/404079/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404079/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404079/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404079/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404079/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404079/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404079/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6fad4bb6-cd31-433e-b363-b7b72b5cca82.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/6fad4bb6-cd31-433e-b363-b7b72b5cca82-1556983038.png",
+    "url_thumb": "https://www.astrobin.com/404079/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 354,
+    "w": 1647
+}

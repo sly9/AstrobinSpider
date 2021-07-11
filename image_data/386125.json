@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "-10.482",
+    "description": "",
+    "h": 2667,
+    "hash": null,
+    "id": 386125,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 223,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "272.034",
+    "pixscale": "0.590",
+    "published": "2019-01-16T05:50:07.469001",
+    "ra": "106.130",
+    "radius": "0.351",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/386125/",
+    "revisions": [],
+    "subjects": [
+        "IC 2177"
+    ],
+    "title": "IC2177 LRGB+Ha",
+    "updated": "2021-05-27T19:42:19.747049",
+    "uploaded": "2019-01-16T05:50:07.652123",
+    "url_duckduckgo": "https://www.astrobin.com/386125/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/386125/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/386125/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/386125/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/386125/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/386125/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/386125/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/5b39a4d3-d587-475c-8c6b-c11d9248904a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/5b39a4d3-d587-475c-8c6b-c11d9248904a-1584417212.jpg",
+    "url_thumb": "https://www.astrobin.com/386125/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 1141,
+    "w": 3343
+}

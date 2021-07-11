@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-72.077",
+    "description": "30 second LRGB unguided images of one of the best southern sky globular clusters 15 000 light years away",
+    "h": 998,
+    "hash": null,
+    "id": 328655,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Alluna RC18"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804934/"
+    ],
+    "orientation": "227.194",
+    "pixscale": "1.982",
+    "published": "2018-01-15T12:13:42.738709",
+    "ra": "6.033",
+    "radius": "0.389",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328655/",
+    "revisions": [],
+    "subjects": [
+        "47 Tuc",
+        "NGC 104"
+    ],
+    "title": "47 Tucanae 2017-10-7",
+    "updated": "2021-03-17T16:53:16.581732",
+    "uploaded": "2018-01-07T21:38:42.182409",
+    "url_duckduckgo": "https://www.astrobin.com/328655/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328655/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328655/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328655/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328655/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328655/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328655/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/971f0ea4-d175-4020-aff3-794af6e9c35c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/971f0ea4-d175-4020-aff3-794af6e9c35c-1515361699.jpg",
+    "url_thumb": "https://www.astrobin.com/328655/0/rawthumb/thumb/",
+    "user": "peterbrack",
+    "views": 66,
+    "w": 1000
+}

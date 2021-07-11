@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 22,
+    "data_source": "TRAVELLER",
+    "dec": "39.413",
+    "description": "",
+    "h": 2496,
+    "hash": null,
+    "id": 400444,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/",
+        "/api/v1/location/2809076/"
+    ],
+    "orientation": "359.549",
+    "pixscale": "0.511",
+    "published": "2019-04-11T11:28:46.382662",
+    "ra": "182.637",
+    "radius": "0.306",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/400444/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4151",
+        "NGC 4156"
+    ],
+    "title": "NGC 4151",
+    "updated": "2021-04-05T09:26:08.624375",
+    "uploaded": "2019-04-11T12:28:46.564821",
+    "url_duckduckgo": "https://www.astrobin.com/400444/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400444/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400444/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400444/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400444/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400444/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400444/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2019/baf4325b-fa19-43bd-a0ab-8fafebfa9290.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2019/baf4325b-fa19-43bd-a0ab-8fafebfa9290-1582598355.jpg",
+    "url_thumb": "https://www.astrobin.com/400444/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 541,
+    "w": 3524
+}

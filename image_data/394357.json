@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "23.065",
+    "description": "I was surprised to see the signal levels in the three channels - very strong HA and SII, and very little OIII. Straight forward SOH or SHO combinations lead to very fancy psychedelic colours. In the end  I settled for SII as red, a blend of SII and OIII as green, and OII as blue which created a RGB image that I combined with HA as luminance. \r\n\r\nMy TS APO with 520 mm and the ASI 1600 do not give the optimal field here - a  smaller focal length (or a larger chip) would have allowed to include more of the diffuse features below the jelly fish.",
+    "h": 3028,
+    "hash": null,
+    "id": 394357,
+    "imaging_cameras": [
+        "ZWO Optical ASI 1600 MMC"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TS-Optics Imaging Star 102 mm f/5,1"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "104.521",
+    "pixscale": "1.729",
+    "published": "2019-03-08T08:43:06.194398",
+    "ra": "94.381",
+    "radius": "1.205",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394357/",
+    "revisions": [],
+    "subjects": [
+        "IC 443"
+    ],
+    "title": "IC443",
+    "updated": "2021-03-17T11:51:02.046893",
+    "uploaded": "2019-03-06T19:30:03.453906",
+    "url_duckduckgo": "https://www.astrobin.com/394357/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394357/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394357/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394357/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394357/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394357/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394357/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19681/2019/fa1a94f2-ca21-472c-b32d-02f3ce9e48a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19681/2019/fa1a94f2-ca21-472c-b32d-02f3ce9e48a9-1582597465.jpg",
+    "url_thumb": "https://www.astrobin.com/394357/0/rawthumb/thumb/",
+    "user": "vgutsmann",
+    "views": 280,
+    "w": 4000
+}

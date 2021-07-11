@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "69.680",
+    "description": "Complex set of data from Lloyd including HDR for the L.  Image drizzled, L HDR produced, HA combined with RGB using AIP Script then L added to RGB-HA.  There are probably 12 permutations to this sequence.  ",
+    "h": 6432,
+    "hash": null,
+    "id": 292399,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804426/"
+    ],
+    "orientation": "-66.107",
+    "pixscale": "0.275",
+    "published": "2017-04-19T14:09:30.301516",
+    "ra": "148.959",
+    "radius": "0.344",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292399/",
+    "revisions": [
+        "/api/v1/imagerevision/114833/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82 LRGB H-alpha from Deep Sky West",
+    "updated": "2021-03-17T21:08:15.766807",
+    "uploaded": "2017-04-19T15:09:31.744841",
+    "url_duckduckgo": "https://www.astrobin.com/292399/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292399/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292399/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292399/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292399/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292399/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292399/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/e68e84a4-5a97-461d-865a-90b679dcd7bb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e68e84a4-5a97-461d-865a-90b679dcd7bb-1492611311.jpg",
+    "url_thumb": "https://www.astrobin.com/292399/0/rawthumb/thumb/",
+    "user": "jerryyyyy",
+    "views": 252,
+    "w": 6288
+}

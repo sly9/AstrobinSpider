@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "67.211",
+    "description": "Cederblad 214, also designated Sharpless 171 is an emission nebula imaged under high levels of  light pollution (Bortle 6.2) in the Washington DC suburbs.  Image consists of 39 x 5 minute narrowband Ha, OIII & SII subframes, with dark, bias and flat frames subtracted.\r\n\r\nPixinsight, linear processing: Mure denoise, background extraction & deconvolution.  Each channel stretched separately, using masked stretch for OIII & SII with curves transforms to bring out highlights and suppress background.\r\n\r\nNon-linear processing involved TGV denoise, curves transform, saturation adjustment and multistage median transformation",
+    "h": 3380,
+    "hash": "2l5yj0",
+    "id": 427977,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED127CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 14,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805576/"
+    ],
+    "orientation": "294.550",
+    "pixscale": "1.129",
+    "published": "2019-09-18T23:40:45.902556",
+    "ra": "0.859",
+    "radius": "0.895",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427977/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "Ced 214 or Sh 171 Emission Nebula in Cepheus",
+    "updated": "2021-03-17T09:07:45.680749",
+    "uploaded": "2019-09-19T00:16:31.983844",
+    "url_duckduckgo": "https://www.astrobin.com/2l5yj0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2l5yj0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2l5yj0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2l5yj0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2l5yj0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2l5yj0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2l5yj0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16777/2019/ded91d0d-eac1-455e-b072-e506800ba06a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16777/2019/ded91d0d-eac1-455e-b072-e506800ba06a-1582421796.jpg",
+    "url_thumb": "https://www.astrobin.com/2l5yj0/0/rawthumb/thumb/",
+    "user": "Alastairmk",
+    "views": 61,
+    "w": 4596
+}

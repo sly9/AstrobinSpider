@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "-63.251",
+    "description": "",
+    "h": 1368,
+    "hash": null,
+    "id": 289056,
+    "imaging_cameras": [
+        "QSI-683wsg"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV115T f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805514/",
+        "/api/v1/location/2805630/",
+        "/api/v1/location/2806907/"
+    ],
+    "orientation": "-88.678",
+    "pixscale": "1.392",
+    "published": "2017-03-29T09:25:42.750360",
+    "ra": "174.653",
+    "radius": "0.773",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/289056/",
+    "revisions": [],
+    "subjects": [
+        "IC 2944",
+        "IC 2948",
+        "IC2948",
+        "The star λCen",
+        "lam Cen",
+        "lambda Cen nebula"
+    ],
+    "title": "IC2944 Running Chicken Nebula in SHO with RGB Stars",
+    "updated": "2021-07-07T23:31:30.207762",
+    "uploaded": "2017-03-29T10:09:10.281412",
+    "url_duckduckgo": "https://www.astrobin.com/289056/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/289056/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/289056/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/289056/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/289056/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/289056/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/289056/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/0d903546-2178-443a-bde7-4258b81e05b9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0d903546-2178-443a-bde7-4258b81e05b9-1490779064.jpg",
+    "url_thumb": "https://www.astrobin.com/289056/0/rawthumb/thumb/",
+    "user": "TWF",
+    "views": 204,
+    "w": 1824
+}

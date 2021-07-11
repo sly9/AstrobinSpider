@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "47.209",
+    "description": "M51 with the C11 and the Starizona LF\r\n\r\nFinal image: \r\n5x300\"\r\n14x600\"\r\n\r\nSelection, calibration, stacking of images with PixInsight\r\nNon-linear processing with PS",
+    "h": 915,
+    "hash": null,
+    "id": 336520,
+    "imaging_cameras": [
+        "Nikon DAW Modified D750"
+    ],
+    "imaging_telescopes": [
+        "C11"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 84,
+    "link": "http://www.drogenberg.be",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800192/"
+    ],
+    "orientation": "104.751",
+    "pixscale": "0.980",
+    "published": "2018-03-07T17:01:13.339727",
+    "ra": "202.423",
+    "radius": "0.332",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336520/",
+    "revisions": [
+        "/api/v1/imagerevision/139176/",
+        "/api/v1/imagerevision/139236/",
+        "/api/v1/imagerevision/139237/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 Whirlpool Galaxy",
+    "updated": "2021-03-17T16:17:37.293222",
+    "uploaded": "2018-03-07T17:01:15.886152",
+    "url_duckduckgo": "https://www.astrobin.com/336520/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336520/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336520/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336520/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336520/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336520/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336520/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6d7e158c-c0ff-4603-8ec3-c865880a387d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/6d7e158c-c0ff-4603-8ec3-c865880a387d-1520442357.png",
+    "url_thumb": "https://www.astrobin.com/336520/0/rawthumb/thumb/",
+    "user": "Joostie",
+    "views": 953,
+    "w": 1824
+}

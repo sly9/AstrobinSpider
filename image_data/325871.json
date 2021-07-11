@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "58.067",
+    "description": "This is the second processed image from my first light session with my new FLI ML16200.\r\n\r\nNGC 7380 is commonly called the Wizard Nebula.  It is located in Cepheus.  Distance is on the order of 7,200 ly and is composed of an open cluster and predominantly Hydrogen region.  The star forming region is about 100 ly across.\r\n\r\nThis region is devoid of background galaxies given its location in or near the Milky Way band.  I have annotated brighter stars using the Tycho catalog but refrained from labeling even more from UCAC as the amount of annotation in this rich star field was overwhelming.\r\n\r\nOverall I'm pleased with how this came out.  As is usual, the OIII signal in particular was weak, and I could stand to at least double my integration time with this filter.  Ironically it is supposed to be fairly bright in OIII, but that wasn't my experience.  It was right around the full moon, and despite using 3nm wide NB filters I may have had interference particularly with OIII.\r\n\r\nI actually did have more data in all channels acquired over several nights, but I was fighting thin cloud layers, so I was very selective with the frames and only kept about half of them.  Another thing I've been applying with my NB processing lately are some PixelMath equations in PixInsight to neutralize the bright magenta star colors that result from the SHO color comination and green neutralization.  This results in almost completely white stars with some interlaced in the brownish gas color.  I have plans at some future date to include true RGB data of bright stars in these nebular regions to combine with the SHO images.",
+    "h": 2280,
+    "hash": null,
+    "id": 325871,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" EdgeHD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "0.576",
+    "pixscale": "0.629",
+    "published": "2017-12-16T04:25:00.237260",
+    "ra": "341.745",
+    "radius": "0.497",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325871/",
+    "revisions": [
+        "/api/v1/imagerevision/132507/",
+        "/api/v1/imagerevision/132508/",
+        "/api/v1/imagerevision/132509/"
+    ],
+    "subjects": [
+        "NGC 7380",
+        "NGC7380",
+        "Sh2-142"
+    ],
+    "title": "NGC7380 Wizard Nebula - First Light with FLI ML16200 - Image #2",
+    "updated": "2021-04-22T08:03:09.726714",
+    "uploaded": "2017-12-16T03:09:10.876148",
+    "url_duckduckgo": "https://www.astrobin.com/325871/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325871/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325871/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325871/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325871/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325871/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325871/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7e1dc5f7-7634-4d4f-9f92-9440f672f066.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7e1dc5f7-7634-4d4f-9f92-9440f672f066-1513394766.jpg",
+    "url_thumb": "https://www.astrobin.com/325871/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 327,
+    "w": 1824
+}

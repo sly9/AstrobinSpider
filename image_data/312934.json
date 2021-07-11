@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "64.627",
+    "description": "A obscure cluster. Kinda a bit of a mini Rosette. The associated nebulae is SH2-170\r\n\r\nData from Simbad.\r\n\r\nBasic data :\tsendBySAMP\r\nCl Stock 18 -- Open (galactic) Cluster\r\nOther object types:\tCl* (C,Cl,...), OpC (Ref)\r\nICRS coord. (ep=J2000) :\t00 01 35.3 +64 37 30 (Optical) [ ] E 2013A&A...558A..53K\r\nFK5 coord. (ep=J2000 eq=2000) :\t00 01 35.3 +64 37 30 [ ]\r\nFK4 coord. (ep=B1950 eq=1950) :\t23 59 01.4 +64 20 48 [ ]\r\nGal coord. (ep=J2000) :\t117.6215 +02.2685 [ ]\r\nProper motions mas/yr :\t-3.59 -1.15 [0.54 0.54 90] D 2013A&A...558A..53K",
+    "h": 2026,
+    "hash": null,
+    "id": 312934,
+    "imaging_cameras": [
+        "Canon  60Da"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800025/"
+    ],
+    "orientation": "177.359",
+    "pixscale": "2.024",
+    "published": "2017-09-19T23:52:07.813510",
+    "ra": "0.418",
+    "radius": "0.959",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312934/",
+    "revisions": [],
+    "subjects": [
+        "The star 10Cas",
+        "Other"
+    ],
+    "title": "Stock 18",
+    "updated": "2021-03-17T19:47:59.494145",
+    "uploaded": "2017-09-20T00:39:00.017496",
+    "url_duckduckgo": "https://www.astrobin.com/312934/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312934/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312934/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312934/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312934/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312934/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312934/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5306/2017/3c88e63a-096a-453d-aaa1-99152aa4b945.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5306/2017/3c88e63a-096a-453d-aaa1-99152aa4b945-1582613348.jpg",
+    "url_thumb": "https://www.astrobin.com/312934/0/rawthumb/thumb/",
+    "user": "Starry-Eyes",
+    "views": 306,
+    "w": 2745
+}

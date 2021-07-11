@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-19.310",
+    "description": "A 4 panel mosaic of IC4952, the Blue Horse Nebula.  This was taken over 4 nights with a QHY6168C and an AT65EDQ.   This was my first mosaic with this combination.",
+    "h": 2520,
+    "hash": null,
+    "id": 297460,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "AstroTech AT65EDQ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 195,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801427/"
+    ],
+    "orientation": "-3.496",
+    "pixscale": "4.662",
+    "published": "2017-05-29T03:27:50.367943",
+    "ra": "244.568",
+    "radius": "3.031",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/297460/",
+    "revisions": [],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star νSco",
+        "The star χOph",
+        "The star ψOph"
+    ],
+    "title": "IC 4592 the Blue Horsehead Nebula Mosaic",
+    "updated": "2021-03-17T20:48:53.915593",
+    "uploaded": "2017-05-29T04:27:51.428202",
+    "url_duckduckgo": "https://www.astrobin.com/297460/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/297460/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/297460/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/297460/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/297460/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/297460/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/297460/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/e93140d5-cfad-43c0-b1e1-438c195e0c85.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/e93140d5-cfad-43c0-b1e1-438c195e0c85-1496028973.png",
+    "url_thumb": "https://www.astrobin.com/297460/0/rawthumb/thumb/",
+    "user": "fbzolt",
+    "views": 1615,
+    "w": 3945
+}

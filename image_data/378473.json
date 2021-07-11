@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-45.002",
+    "description": "",
+    "h": 4096,
+    "hash": null,
+    "id": 378473,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "T9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 105,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803383/"
+    ],
+    "orientation": "181.136",
+    "pixscale": "2.726",
+    "published": "2018-11-25T22:28:21.150695",
+    "ra": "130.648",
+    "radius": "2.193",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/378473/",
+    "revisions": [
+        "/api/v1/imagerevision/163177/"
+    ],
+    "subjects": [],
+    "title": "Vela supernova remnant centered on ngc 2659",
+    "updated": "2021-03-17T13:03:25.861050",
+    "uploaded": "2018-11-25T22:28:22.017486",
+    "url_duckduckgo": "https://www.astrobin.com/378473/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378473/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378473/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378473/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378473/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378473/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378473/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12691/2018/bed2ea6d-0d0f-4a90-a957-03051acc6324.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12691/2018/bed2ea6d-0d0f-4a90-a957-03051acc6324-1582510172.jpg",
+    "url_thumb": "https://www.astrobin.com/378473/0/rawthumb/thumb/",
+    "user": "andrealuna",
+    "views": 351,
+    "w": 4096
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "41.997",
+    "description": "",
+    "h": 1117,
+    "hash": null,
+    "id": 292274,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "ASTRO TECH 111"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801229/"
+    ],
+    "orientation": "1.567",
+    "pixscale": "1.710",
+    "published": "2017-04-18T11:10:00.289534",
+    "ra": "198.957",
+    "radius": "0.343",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292274/",
+    "revisions": [
+        "/api/v1/imagerevision/114514/",
+        "/api/v1/imagerevision/114521/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "Messier 63",
+    "updated": "2021-03-17T21:08:42.707195",
+    "uploaded": "2017-04-18T12:10:00.432180",
+    "url_duckduckgo": "https://www.astrobin.com/292274/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292274/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292274/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292274/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292274/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292274/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292274/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4574/2017/f220f0b1-565e-4e19-a6e4-ad93f5381fc9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f220f0b1-565e-4e19-a6e4-ad93f5381fc9-1492513947.jpg",
+    "url_thumb": "https://www.astrobin.com/292274/0/rawthumb/thumb/",
+    "user": "astronono",
+    "views": 162,
+    "w": 913
+}

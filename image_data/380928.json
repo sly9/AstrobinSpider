@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "-2.337",
+    "description": "My last attempt on the Horsehead Nebula was one year ago - with my astro-modified Nikon D500 on the SkyWatcher Star Adventurer. Still remember that night at Fort Griffin Historical Site, with so much trouble trying to aim the Nikkor 70-200mm lens, could only track for 60 seconds, cranking up all the way up to ISO 5000. Finally only saw the faint horsehead showing up on the view finder - Pure Joy at that moment. \r\n\r\nHere comes the revisit. The H-Alpha data was collected at home and RGB data was from TAS Atoka site this Monday. It was freezing cold (-4C). \r\n\r\nSomehow I still feel something is missing. I haven't figure it out yet. The resolving power of the GT-81 is not enough to bring up the most important details. I tried to order an Astrodon Sloan i' filter for this target for the infrared data. The order never delivered. It will happen later, I hope. \r\n \r\n \r\n<B>Pre-processing of Ha Master</B>\r\n\r\n<I>- Calibration / Integration, Astro Pixel Processor\r\n- Dynamic Background Extraction, PixInsight\r\n- Deconvolution, PixInsight\r\n- MultiscaleLinearTransformation (Denoise), PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.</I>\r\n\r\n<B>Pre-processing of RGB Masters</B>\r\n\r\n<I>- Calibration / Integration, Astro Pixel Processor\r\n- Dynamic Background Extraction, PixInsight\r\n- MultiscaleLinearTransformation (Denoise), PixInsight\r\n- MorphologicalTransformation, PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.</I>\r\n\r\n<B>HaRGB Combination & Post-processing</B>\r\n\r\n<I>- LRGBCombination (Ha master as the Lum), PixInsight\r\n- Final Touch-up, Photoshop</I>",
+    "h": 1371,
+    "hash": null,
+    "id": 380928,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Gran Turismo 81 APO (2018)",
+        "William Optics Camera Angle Rotator"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/",
+        "/api/v1/location/2809968/"
+    ],
+    "orientation": "102.574",
+    "pixscale": "3.140",
+    "published": "2018-12-13T05:29:44.597465",
+    "ra": "85.170",
+    "radius": "1.029",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/380928/",
+    "revisions": [],
+    "subjects": [
+        "Horsehead nebula",
+        "IC 432",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "HaRGB - B33 - Horsehead Nebula",
+    "updated": "2021-03-17T12:51:55.778285",
+    "uploaded": "2018-12-13T05:11:31.596220",
+    "url_duckduckgo": "https://www.astrobin.com/380928/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/380928/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/380928/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/380928/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/380928/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/380928/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/380928/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/acb80460-719c-4f38-b36d-8dfbca4d1f9b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/acb80460-719c-4f38-b36d-8dfbca4d1f9b-1582003667.png",
+    "url_thumb": "https://www.astrobin.com/380928/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1707,
+    "w": 1920
+}

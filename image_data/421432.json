@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.306",
+    "description": "",
+    "h": 3600,
+    "hash": null,
+    "id": 421432,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "140.860",
+    "pixscale": "1.103",
+    "published": "2019-08-18T10:54:46.724455",
+    "ra": "305.242",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/421432/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6910",
+        "NGC6910"
+    ],
+    "title": "LBN 248 LHRGB Image",
+    "updated": "2021-03-17T09:41:47.833928",
+    "uploaded": "2019-08-18T11:54:47.022038",
+    "url_duckduckgo": "https://www.astrobin.com/421432/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/421432/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/421432/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/421432/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/421432/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/421432/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/421432/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/9951749c-920f-489e-8a50-3a5f8b8f513c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/9951749c-920f-489e-8a50-3a5f8b8f513c-1582636468.jpg",
+    "url_thumb": "https://www.astrobin.com/421432/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 326,
+    "w": 4500
+}

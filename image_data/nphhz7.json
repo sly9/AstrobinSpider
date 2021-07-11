@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "33.714",
+    "description": "<B><I>... Sorry, re-upload, deleted the original upload by mistake and lost all the comments! </I><p>&#128566;</p><I> ...</I></B>\r\n\r\nFirst all-backyarder into the winter of 2019. Good thing is that -20C sensor temperature is back. It’s also my first IC405 attempt. Plan changed couple of times from all narrowband to HaRGB, then back to backyard project again after failed attempt to capture the RGB data at Atoka. The 0.73x QE Reducer sure generated enough halos on the RGB light frames for me to give up the precious dark site data.\r\n\r\nI was a little surprised to see how much blue signal could be extracted from the 36 minutes of blue channel light frames imaged from the white zone backyard. Maybe the reflection of blue light is that strong at the core of IC 405, or maybe one more night on the blue channel from the backyard could bring back more contrast and details… Well, I am done with it and the moon is bright.\r\n\r\n<I>This project also got interrupted multiple time by dark site visits and RASA8 test sessions. More focus will be shifted to RASA8 from now on.\r\n\r\n<B>Pre-processing of Narrowband Masters</B>\r\n\r\n– Calibration / Integration, Astro Pixel Processor\r\n– Deconvolution, PixInsight (Only for H-Alpha)\r\n– MultiscaleLinearTransform (Denoise), PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Pre-processing of RGB Masters</B>\r\n\r\n– Calibration / Integration, Astro Pixel Processor\r\n– Dynamic Background Extraction, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>RGB Combination</B>\r\n\r\n– LRGBCombination, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Narrowband Combination</B>\r\n\r\n– SHO-AIP Script, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Narrband & RGB Combination</B>\r\n\r\n– Star adjustment, Photoshop/StarSpike Pro V4\r\n– Final Touch-up, Photoshop</I>",
+    "h": 4234,
+    "hash": "nphhz7",
+    "id": 443599,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/"
+    ],
+    "orientation": "359.626",
+    "pixscale": "2.356",
+    "published": "2019-12-16T02:40:18.762557",
+    "ra": "79.009",
+    "radius": "1.696",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/443599/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "Backyard - IC405 – Flaming Star Nebula",
+    "updated": "2021-05-26T09:11:56.077282",
+    "uploaded": "2019-12-16T02:25:44.563584",
+    "url_duckduckgo": "https://www.astrobin.com/nphhz7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nphhz7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nphhz7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nphhz7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nphhz7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nphhz7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nphhz7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/051d5b44-56d2-4999-a30b-b494653b3dd2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/051d5b44-56d2-4999-a30b-b494653b3dd2-1581997308.png",
+    "url_thumb": "https://www.astrobin.com/nphhz7/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 464,
+    "w": 2990
+}

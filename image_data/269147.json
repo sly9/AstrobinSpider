@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "43.681",
+    "description": "I am not a big fan of narrowband imaging, partially because I never know when to stop with infinite color adjustments, but this object was a pleasure to process! \r\n\r\nThis is a crop of initial FOV, so yeah, sharpness isn't the best...\r\n\r\nRevision C shows some interesting details of the wall. Would be great to take a photo of this region with a larger FL.\r\n\r\nAlso, this is my first time using Star Spikes Pro. Turned out to be a very nice plugin to improve star shapes in general (I always struggle with them) and to repair spikes that were originally in the image, but were damaged during the processing). Thanks to Christopher Gomez for advice! I am more happy with my stars now. ",
+    "h": 1213,
+    "hash": null,
+    "id": 269147,
+    "imaging_cameras": [
+        " QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805312/"
+    ],
+    "orientation": "-179.315",
+    "pixscale": "2.097",
+    "published": "2016-10-22T23:38:05.819842",
+    "ra": "314.738",
+    "radius": "0.737",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269147/",
+    "revisions": [
+        "/api/v1/imagerevision/102688/",
+        "/api/v1/imagerevision/102689/"
+    ],
+    "subjects": [],
+    "title": "Great Wall of Cygnus",
+    "updated": "2021-03-17T22:40:34.019981",
+    "uploaded": "2016-10-23T00:38:05.819842",
+    "url_duckduckgo": "https://www.astrobin.com/269147/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269147/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269147/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269147/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269147/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269147/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269147/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/8e431233-1a97-4d4e-be8a-ccba12465678.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8e431233-1a97-4d4e-be8a-ccba12465678.jpg",
+    "url_thumb": "https://www.astrobin.com/269147/0/rawthumb/thumb/",
+    "user": "nekitmm",
+    "views": 238,
+    "w": 1824
+}

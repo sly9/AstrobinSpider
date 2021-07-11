@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "31.472",
+    "description": "A two frame mosaic taken with a Python based scheduler/sequence manager I'm calling RASS.  You give it sequence requests (filter, duration, etc) and it will schedule and execute those requests during the night.    Still extremely early in development but I'm encourage I was able to get this dataset with minimal intervention.\r\n\r\nAlso this is the first time I've used AstroPixelProcessor (APP) and specifically its great support for stitching mosaics.  Thanks to my friend Rowland for showing me how to do this.  It took me only a few minutes and I produced much better results than after tinkering with Pixinsight for an hour.",
+    "h": 2253,
+    "hash": null,
+    "id": 417877,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "303.507",
+    "pixscale": "1.956",
+    "published": "2019-07-29T22:32:55.702134",
+    "ra": "313.991",
+    "radius": "1.057",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/417877/",
+    "revisions": [
+        "/api/v1/imagerevision/187236/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "IC1340",
+        "NGC 6992",
+        "NGC 6995",
+        "NGC6992",
+        "NGC6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "NGC6992 SHO Medium Field Mosaic",
+    "updated": "2021-03-17T09:59:41.343487",
+    "uploaded": "2019-07-29T23:19:00.193056",
+    "url_duckduckgo": "https://www.astrobin.com/417877/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417877/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417877/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417877/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417877/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417877/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417877/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1959/2019/230bb7c8-7b8c-4ef6-b1c7-ddb01d87daef.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1959/2019/230bb7c8-7b8c-4ef6-b1c7-ddb01d87daef-1582569922.png",
+    "url_thumb": "https://www.astrobin.com/417877/0/rawthumb/thumb/",
+    "user": "mikefulb",
+    "views": 394,
+    "w": 3172
+}

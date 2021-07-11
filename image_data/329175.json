@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 16,
+    "data_source": "UNSET",
+    "dec": "60.582",
+    "description": "First light with the Mach1GTO. \r\nWell, mostly. I did another combine of old and new data. I used my RC8 on the Mach1 to get 900s Ha subs of IC 1871 and then used old O3 and Ha data from my Stellarvue from my Heart and Soul mosaic for color data. This time I skipped deconvolution. Mostly because I was fighting to get the colors I wanted. I thought about going back and trying to do deconvolution on the Lum/Ha data, but there isn't a ton of fine structures so I am not sure how much improvement I'd get. I used ArcinhStretch on the Ha/Lum which gave me much smaller more controlled stars.",
+    "h": 1373,
+    "hash": null,
+    "id": 329175,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8",
+        "Stellarvue SV80ST-25SV"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 145,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "91.090",
+    "pixscale": "1.065",
+    "published": "2018-01-13T17:46:55.744532",
+    "ra": "44.221",
+    "radius": "0.556",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329175/",
+    "revisions": [
+        "/api/v1/imagerevision/134586/"
+    ],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "IC 1871 Soul Nebula",
+    "updated": "2021-03-17T16:50:57.245201",
+    "uploaded": "2018-01-12T20:58:46.272523",
+    "url_duckduckgo": "https://www.astrobin.com/329175/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329175/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329175/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329175/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329175/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329175/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329175/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b28ee0a7-76e4-486d-88eb-101ddf9fd58c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b28ee0a7-76e4-486d-88eb-101ddf9fd58c-1515791318.png",
+    "url_thumb": "https://www.astrobin.com/329175/0/rawthumb/thumb/",
+    "user": "FireManDan",
+    "views": 730,
+    "w": 1824
+}

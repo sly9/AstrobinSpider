@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "31.329",
+    "description": "This is the third time I've imaged this interesting part of the sky.  The first was at about 600mm, the second was at 135mm, and now, about 350mm.  My goal was to bring out the dust around NGC 1333 as there is a lot of it.  L 28x200s, RGB 12x100s 2x2 binned.",
+    "h": 1452,
+    "hash": null,
+    "id": 280385,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "0.105",
+    "pixscale": "2.444",
+    "published": "2017-01-17T02:56:31.163776",
+    "ra": "52.309",
+    "radius": "1.179",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/280385/",
+    "revisions": [
+        "/api/v1/imagerevision/108504/"
+    ],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "NGC 1333 and surrounding dust",
+    "updated": "2021-03-17T21:59:03.559592",
+    "uploaded": "2017-01-17T02:40:53.451098",
+    "url_duckduckgo": "https://www.astrobin.com/280385/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/280385/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/280385/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/280385/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/280385/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/280385/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/280385/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7159/2017/138009d1-cf37-4e90-8d4b-e438cb72a68b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/138009d1-cf37-4e90-8d4b-e438cb72a68b-1484621577.jpg",
+    "url_thumb": "https://www.astrobin.com/280385/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 190,
+    "w": 1824
+}

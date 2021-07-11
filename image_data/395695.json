@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "13.341",
+    "description": "Unguided image using tandem mounted C14's with Hyperstar including ZWO EFW filter wheels on Paramount ME2.\r\n\r\n60 second exposures on ZWO ASI183M at gain 53, offset 8\r\n30 second exposures on ZWO ASI1600M LRGB at gain 75, offset 50, and 60 sec O3\r\n\r\nTotal exposures on 183M : 53 Red, 13 Green, 59 Blue, 181 Lum, 660 Ha (16.1 Hours) \r\nTotal exposures on 1600M : 159 Red, 158 Green , 69 Blue, 670 O3 (14.4 Hours)\r\n\r\n\r\nAll exposures dithered and drizzled final image (30.5 Hours Total)",
+    "h": 3241,
+    "hash": null,
+    "id": 395695,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro",
+        "ASI 1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.127",
+    "pixscale": "0.570",
+    "published": "2019-03-15T01:09:28.810589",
+    "ra": "112.226",
+    "radius": "0.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395695/",
+    "revisions": [
+        "/api/v1/imagerevision/173400/"
+    ],
+    "subjects": [],
+    "title": "Medusa LRGB+Ha+O3",
+    "updated": "2021-03-17T11:44:48.746046",
+    "uploaded": "2019-03-15T01:09:29.089333",
+    "url_duckduckgo": "https://www.astrobin.com/395695/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395695/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395695/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395695/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395695/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395695/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395695/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17923/2019/62e8507e-6577-407c-91ae-0819e08b880b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17923/2019/62e8507e-6577-407c-91ae-0819e08b880b-1582516057.jpg",
+    "url_thumb": "https://www.astrobin.com/395695/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 358,
+    "w": 3113
+}

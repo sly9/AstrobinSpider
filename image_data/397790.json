@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "13.240",
+    "description": "This object, also known as Sh2-274, is a large planetary nebula located 1500 light years away in the constellation of Gemini.  It was discovered in 1955 by Dr. George Abell who classified it as the 21st item in his catalog.  The nebula spans a distance of 4 light years.  It is nickcamed Medusa because the arcing gas filaments remind some of the living venomous snakes that take the place of hair for the female monster of ancient Greek mythology. \r\n\r\nIn some images of this object,  the arcing gas fronts look like this could be a supernova remnant instead of a planetary nebula.  In fact, this object was thought to be a SNR until the early 1970s.  But in this image the gas fronts do not look as crisp and detailed as those of a typical SNR, so it  looks more like a planetary nebula to me, albeit a very unsymmetrical one.  \r\n\r\nStrong interstellar winds are likely responsible for the unusual shape.  Faint arcs are visible on the lower right of the image, mirroring the brighter arcs at upper left.  Because of its large size (10 arc-minutes in apparent diameter), its surface brightness is very low and this is a tough object to see visually.\r\n\r\nThis is the third time I have imaged this nebula, and each time I struggle more than usual with the image processing.  The Ha signal is so dominant that it makes the resulting image look poor to me using the Hubble (SHO) palette. The palette used here was determined by trial and error, with different percentages of Ha, OIII, and SII assigned to each of the RGB channels until I arrived at something that didn't make me sick to my stomach.  Also, I felt that the image looked too \"flat\" at first, so I tweaked it a bit to bring out some of the darker areas for a more 3D feel to my eyes.",
+    "h": 2227,
+    "hash": null,
+    "id": 397790,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130NFB"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805974/"
+    ],
+    "orientation": "271.760",
+    "pixscale": "0.803",
+    "published": "2019-03-28T13:52:07.234423",
+    "ra": "112.264",
+    "radius": "0.467",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/397790/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Abell 21",
+    "updated": "2021-04-13T17:57:13.071845",
+    "uploaded": "2019-03-28T13:18:28.414637",
+    "url_duckduckgo": "https://www.astrobin.com/397790/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397790/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397790/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397790/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397790/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397790/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397790/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3d8fab2e-b7af-44fc-9331-3afc133f2004.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/3d8fab2e-b7af-44fc-9331-3afc133f2004-1553780885.JPG",
+    "url_thumb": "https://www.astrobin.com/397790/0/rawthumb/thumb/",
+    "user": "GaryI",
+    "views": 369,
+    "w": 3550
+}

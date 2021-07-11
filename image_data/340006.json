@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "11.248",
+    "description": "Data capture credit: John Kasianowicz, Josh Balsam, Justin Lian, Scott Johnson., Michael Bushell., Mike Selby., Rich Johnson. and Dhaval Brahmbhatt.\r\n\r\nImage Processing: Dhaval Brahmbhatt",
+    "h": 7469,
+    "hash": null,
+    "id": 340006,
+    "imaging_cameras": [
+        "FLI Proline 16803 FLI"
+    ],
+    "imaging_telescopes": [
+        "Planewave 17\" CDK Panewave"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806667/"
+    ],
+    "orientation": "269.207",
+    "pixscale": "0.318",
+    "published": "2018-04-01T04:03:50.601381",
+    "ra": "189.138",
+    "radius": "0.479",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340006/",
+    "revisions": [
+        "/api/v1/imagerevision/141575/"
+    ],
+    "subjects": [
+        "IC 3578",
+        "IC3578",
+        "NGC 4564",
+        "NGC 4567",
+        "NGC 4568",
+        "NGC4564",
+        "NGC4567",
+        "NGC4568",
+        "Siamese Twins"
+    ],
+    "title": "NGC 4567 & NGC 4568 - The Siamese Twins (Butterfly Galaxy)",
+    "updated": "2021-03-17T16:01:03.342699",
+    "uploaded": "2018-04-01T05:03:56.384212",
+    "url_duckduckgo": "https://www.astrobin.com/340006/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340006/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340006/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340006/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340006/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340006/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340006/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1641/2018/b819c512-c1b4-4f0a-bf93-9e978342e83e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1641/2018/b819c512-c1b4-4f0a-bf93-9e978342e83e-1582489944.jpg",
+    "url_thumb": "https://www.astrobin.com/340006/0/rawthumb/thumb/",
+    "user": "dhavalbbhatt",
+    "views": 566,
+    "w": 7854
+}

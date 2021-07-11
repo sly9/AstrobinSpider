@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "21.641",
+    "description": "LPS D2 filter",
+    "h": 2481,
+    "hash": "x2zn89",
+    "id": 467995,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 8\" f/5 ONTC,  hand made mirror"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802444/"
+    ],
+    "orientation": "1.013",
+    "pixscale": "1.126",
+    "published": "2020-03-24T08:14:46.473194",
+    "ra": "142.807",
+    "radius": "0.636",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467995/",
+    "revisions": [
+        "/api/v1/imagerevision/221241/"
+    ],
+    "subjects": [
+        "NGC 2903"
+    ],
+    "title": "NGC 2903",
+    "updated": "2021-03-17T04:01:07.618461",
+    "uploaded": "2020-03-23T21:35:49.737365",
+    "url_duckduckgo": "https://www.astrobin.com/x2zn89/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/x2zn89/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/x2zn89/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/x2zn89/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/x2zn89/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/x2zn89/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/x2zn89/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10524/2020/011a8c71-097e-4a8b-a5c6-f76e6b73623d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10524/2020/011a8c71-097e-4a8b-a5c6-f76e6b73623d-1585000849.jpg",
+    "url_thumb": "https://www.astrobin.com/x2zn89/0/rawthumb/thumb/",
+    "user": "echosud",
+    "views": 91,
+    "w": 3218
+}

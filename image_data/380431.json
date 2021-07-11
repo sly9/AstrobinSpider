@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-7.583",
+    "description": "Single exposure, because DSS comet stacking of multiple sub exposure image was losing the green of the coma. Camera Gain 120. I used DSS' scores to select the best single sub exposure to use for the image.",
+    "h": 1090,
+    "hash": null,
+    "id": 380431,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "C11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801656/"
+    ],
+    "orientation": "270.836",
+    "pixscale": "4.423",
+    "published": "2018-12-10T01:34:16.845679",
+    "ra": "44.605",
+    "radius": "1.189",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/380431/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet Wirtanen 46P. C11 @ f/2 with Hyperstar. ZWO ASI294MC Pro. Single 15 sec exposure",
+    "updated": "2021-03-17T12:54:16.090544",
+    "uploaded": "2018-12-10T01:22:12.297782",
+    "url_duckduckgo": "https://www.astrobin.com/380431/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/380431/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/380431/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/380431/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/380431/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/380431/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/380431/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9216/2018/16b62cbd-6e73-4b03-ad43-de9e813a2fef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9216/2018/16b62cbd-6e73-4b03-ad43-de9e813a2fef-1588103512.jpg",
+    "url_thumb": "https://www.astrobin.com/380431/0/rawthumb/thumb/",
+    "user": "morrienz",
+    "views": 297,
+    "w": 1600
+}

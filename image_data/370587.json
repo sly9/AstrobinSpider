@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "67.223",
+    "description": "25 hours of Ha OIII",
+    "h": 3571,
+    "hash": null,
+    "id": 370587,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 185,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "89.146",
+    "pixscale": "1.368",
+    "published": "2018-10-08T08:25:39.401793",
+    "ra": "0.846",
+    "radius": "1.088",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/370587/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "NGC7822",
+    "updated": "2021-04-16T12:37:05.656076",
+    "uploaded": "2018-10-08T09:20:52.443581",
+    "url_duckduckgo": "https://www.astrobin.com/370587/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/370587/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/370587/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/370587/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/370587/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/370587/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/370587/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/836e52b1-4964-4c2d-ae36-70f5c8a3722c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/836e52b1-4964-4c2d-ae36-70f5c8a3722c-1538990727.jpg",
+    "url_thumb": "https://www.astrobin.com/370587/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 1000,
+    "w": 4474
+}

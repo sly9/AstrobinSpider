@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "-40.399",
+    "description": "The Prawn in Hubble Palette (SHO), was a good target to test out my focuser backlash compensation. Worked pretty well and was able to consistently achieve the V curve throughout the imaging and refocusing process routine in SGP. Unfortunately limited clear skies opportunity and visibility only 2-3 hours a night before it disappears behind the house. After a couple of nights decided to see what I can pull out with my first attempt using PixInsight. Hope you like it!\r\n17x 300” Ha\r\n17x 300” Oiii\r\n19x 300” Sii\r\nSharpstar CF80/500 + FF\r\nHEQ5PRO\r\nZwo1600mm pro + EFW + 7nm filters\r\nZwo120mm mini + 130mm f4 mini guide scope\r\nPegasus Astro PPB\r\nPegasus Astro FC1\r\nAcquisition via SGPRO, PHD2, Sharpcap PA\r\nCalibrated with 20x darks, flats and bias each.",
+    "h": 2309,
+    "hash": null,
+    "id": 420365,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "Sharpstar Optics SharpStar CF-80II EDT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "110.620",
+    "pixscale": "2.007",
+    "published": "2019-08-11T10:22:42.139505",
+    "ra": "254.295",
+    "radius": "1.161",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/420365/",
+    "revisions": [],
+    "subjects": [
+        "IC 4628"
+    ],
+    "title": "The flaming Prawn Nebula IC4628",
+    "updated": "2021-03-17T09:47:06.173619",
+    "uploaded": "2019-08-11T11:22:42.283355",
+    "url_duckduckgo": "https://www.astrobin.com/420365/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420365/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420365/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420365/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420365/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420365/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420365/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32757/2019/83faa50c-cf9e-4e9b-8fb4-be0092e856a5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32757/2019/83faa50c-cf9e-4e9b-8fb4-be0092e856a5-1582538345.jpg",
+    "url_thumb": "https://www.astrobin.com/420365/0/rawthumb/thumb/",
+    "user": "7imlooi",
+    "views": 328,
+    "w": 3464
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "22.714",
+    "description": "",
+    "h": 1454,
+    "hash": null,
+    "id": 270620,
+    "imaging_cameras": [
+        "ATIK 490 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Skyvision astrograph mtn250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798105/"
+    ],
+    "orientation": "3.104",
+    "pixscale": "1.139",
+    "published": "2016-11-03T22:56:09.809153",
+    "ra": "299.920",
+    "radius": "0.640",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270620/",
+    "revisions": [
+        "/api/v1/imagerevision/141563/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853",
+        "The star 14Vul"
+    ],
+    "title": "M27 HORVB",
+    "updated": "2021-07-07T06:00:28.909091",
+    "uploaded": "2016-11-03T22:56:10.793933",
+    "url_duckduckgo": "https://www.astrobin.com/270620/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270620/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270620/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270620/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270620/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270620/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270620/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1184/2016/0310f140-3453-4065-b31a-8240c52962b3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0310f140-3453-4065-b31a-8240c52962b3-1478213984.jpg",
+    "url_thumb": "https://www.astrobin.com/270620/0/rawthumb/thumb/",
+    "user": "stephane55",
+    "views": 491,
+    "w": 1824
+}

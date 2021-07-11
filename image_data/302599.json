@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "57.529",
+    "description": "Widefield image of the Elephant Trunk (IC 1396) region in Cepheus.  \r\n\r\nAstrodon E Series Ha filter 12 X 600 seconds, unbinned\r\nAstrodon E Series Red 5 X 600 seconds binned 2X2\r\nAstrodon E Series Green 5 X 600 seconds binned 2X2\r\nAstrodon E Series Blue 5 X 600 seconds binned 2X2\r\n",
+    "h": 1767,
+    "hash": null,
+    "id": 302599,
+    "imaging_cameras": [
+        "QSI 660 WSG"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV70T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805818/"
+    ],
+    "orientation": "179.965",
+    "pixscale": "3.507",
+    "published": "2017-07-09T18:39:39.399658",
+    "ra": "324.727",
+    "radius": "1.377",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302599/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC 1396 widefield",
+    "updated": "2021-06-06T19:36:15.612810",
+    "uploaded": "2017-07-08T19:12:07.977421",
+    "url_duckduckgo": "https://www.astrobin.com/302599/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302599/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302599/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302599/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302599/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302599/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302599/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18910/2017/26252dee-2b36-461a-9b4d-67f0c906606f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18910/2017/26252dee-2b36-461a-9b4d-67f0c906606f-1582389190.jpg",
+    "url_thumb": "https://www.astrobin.com/302599/0/rawthumb/thumb/",
+    "user": "dweixelman",
+    "views": 270,
+    "w": 2207
+}

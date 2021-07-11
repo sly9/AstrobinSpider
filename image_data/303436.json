@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "-16.208",
+    "description": "I am currently shooting a tight field of view (8300 chip at 2563mm) and I wanted to focus on the central ridge of the Swan.  This may seem upside-down but I felt this orientation better presented this area of the Swan Nebula.  \r\n\r\nI am developing a habit of calibrating and \"pruning\" subs in CCDStack and then assembling the initial image in Pixinsight.  Finishing touches, color tweaks in Photoshop, noise reduction via Topaz, and final checking everything on my MacBook.  The MacBook comes in because it has the best calibrated screen!\r\n\r\nSubs ranged from 1.5 to 3.0 arc-seconds FWHM.  Median was around 2 a-s.  37 SII, 36 Ha, and 45 OIII subs made the cut.  All were 900 seconds for a total integration time of 29.5 hours.",
+    "h": 1376,
+    "hash": null,
+    "id": 303436,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 77,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "155.250",
+    "pixscale": "0.437",
+    "published": "2017-07-15T19:44:15.421074",
+    "ra": "275.240",
+    "radius": "0.242",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/303436/",
+    "revisions": [
+        "/api/v1/imagerevision/132558/"
+    ],
+    "subjects": [
+        "M 17",
+        "NGC 6618",
+        "Omega nebula"
+    ],
+    "title": "Swan Central Ridge",
+    "updated": "2021-03-17T20:26:15.072575",
+    "uploaded": "2017-07-15T20:44:16.477510",
+    "url_duckduckgo": "https://www.astrobin.com/303436/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303436/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303436/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303436/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303436/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303436/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303436/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17450/2017/3ba17091-0f78-49cc-8d0c-62d2c9fc7c88.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3ba17091-0f78-49cc-8d0c-62d2c9fc7c88-1500148953.jpg",
+    "url_thumb": "https://www.astrobin.com/303436/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 197,
+    "w": 1824
+}

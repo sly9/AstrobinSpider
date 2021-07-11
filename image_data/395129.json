@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "33.416",
+    "description": "Last try with better skies and better filters.\r\nOnly few days ago it was finish the widefield version https://www.astrobin.com/392050.\r\n\r\nInside you find the NGC 1893, it is an open cluster in the constellation Auriga.\r\nIt is about 3,280 light years away. The star cluster is embedded in the HII region IC 410 (TadPoles Nebula)\r\n\r\nOriginally shoot at 0.5 arc/px under the best skies.",
+    "h": 3520,
+    "hash": null,
+    "id": 395129,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Altair Astro RC250-TT 10\" RC Truss Tube"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810166/"
+    ],
+    "orientation": "269.527",
+    "pixscale": "0.503",
+    "published": "2019-03-12T17:40:04.631560",
+    "ra": "80.684",
+    "radius": "0.408",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/395129/",
+    "revisions": [
+        "/api/v1/imagerevision/173475/",
+        "/api/v1/imagerevision/173476/"
+    ],
+    "subjects": [
+        "IC 410",
+        "IC410",
+        "NGC 1893",
+        "NGC1893",
+        "Sh2-236"
+    ],
+    "title": "TadPoles Nebula (IC410) close up in SII/Hα/OIII/rgb",
+    "updated": "2021-04-20T22:04:24.464771",
+    "uploaded": "2019-03-11T11:08:47.269506",
+    "url_duckduckgo": "https://www.astrobin.com/395129/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395129/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395129/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395129/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395129/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395129/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395129/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0925389c-cb16-4cb6-8a41-32436be33e68.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/0925389c-cb16-4cb6-8a41-32436be33e68-1552303300.png",
+    "url_thumb": "https://www.astrobin.com/395129/0/rawthumb/thumb/",
+    "user": "Carballada",
+    "views": 554,
+    "w": 4656
+}

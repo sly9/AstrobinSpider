@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-42.402",
+    "description": "Undersampled original Hyperstar exposures stacked with 2x Drizzle in Astro Pixel Processor to get enough resolution to enable a hefty crop of the final image yet still see some details in the individual galaxies.",
+    "h": 2331,
+    "hash": "kauagt",
+    "id": 444517,
+    "imaging_cameras": [
+        "ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "C11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 14,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801656/"
+    ],
+    "orientation": "179.604",
+    "pixscale": "0.856",
+    "published": "2019-12-23T06:02:08.599668",
+    "ra": "349.454",
+    "radius": "0.490",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/444517/",
+    "revisions": [],
+    "subjects": [
+        "IC 5294",
+        "IC 5308",
+        "NGC 7552",
+        "NGC 7582",
+        "NGC 7590",
+        "NGC 7599"
+    ],
+    "title": "Grus Quartet",
+    "updated": "2021-03-17T05:57:33.711278",
+    "uploaded": "2019-12-23T04:56:02.636573",
+    "url_duckduckgo": "https://www.astrobin.com/kauagt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kauagt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kauagt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kauagt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kauagt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kauagt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kauagt/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9216/2019/1ddcc4d5-539c-44ac-a4f9-289beccaa321.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9216/2019/1ddcc4d5-539c-44ac-a4f9-289beccaa321-1582284253.jpg",
+    "url_thumb": "https://www.astrobin.com/kauagt/0/rawthumb/thumb/",
+    "user": "morrienz",
+    "views": 170,
+    "w": 3396
+}

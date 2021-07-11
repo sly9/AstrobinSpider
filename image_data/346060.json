@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 12,
+    "data_source": "UNKNOWN",
+    "dec": "22.844",
+    "description": "Equipment:  \r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nSoftware:  \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition:  \r\nLocation: Flower Mound, TX (Bortle 7)\r\nDates: 12/9/17, 12/10/17, 12/11/17, 12/13/17, 12/20/17, 1/12/18, 1/13/18, 1/14/18, 1/16/18, 1/30/18, 1/31/18, 2/4/18\r\nGain: 200 Offset: 50\r\nCamera temp: -20C\r\nSII:   179x300\"  Astrodon 3nm\r\nHa:  283x300\" Astrodon 5nm\r\nOIII: 119x600\"   Astrodon 3nm\r\nTotal integration time: 58hr 20min\r\n64x darks per calibration (master from library)\r\n32x flats per calibration\r\n200x bias per calibration (master from library)\r\n\r\nProcessing steps for original revision:\r\n\r\nPreprocessing:\r\nBatch PreProcessing script to generate calibrated images\r\nStarAlignment\r\nLocalNormalization (except OIII)\r\nImageIntegration (Linear Fit rejection)\r\nDrizzleIntegration\r\nDynamicCrop\r\nDBE\r\nLinearFit to SII\r\n\r\nDuplicated all three masters. One set used for tonemap creation, and one set used for a synthetic Lum.\r\n\r\nPreparing masters for the tonemap (all processes applied to each master individually):\r\nTGV and MMT noise reduction (via Jon Rista's method)\r\nHistogram Transformation x2 (linear -> non-linear)\r\nCreated a starmask and removed stars via MMT and MorphologicalTransformation\r\nFurther eliminated stars by bringing into Photoshop and using \"Dust & Scratches\"\r\n\r\nTonemap processing:\r\nSHO masters assigned to RGB channels respectively to create a color image\r\nHistogramTransformation\r\nAbout 5 different curves adjustments (a and b channels) using ColorMask Script to target individual colors and adjust them to an aesthetically pleasing composition\r\nSCNR green\r\n\r\nL Processing:\r\nCreated a synthetic luminance with PixelMath using the following formula: Ha*0.7 + Oiii*0.2 + Sii*0.1\r\nDeconvolution\r\nHistogramTransformation x2 (linear -> non-linear)\r\nExponentialTransformation to push nebulosity\r\nLHE\r\nMMT for slight sharpening\r\n\r\nCombined the Luminance with the Tonemap using LRGBCombination\r\n\r\nPost-combination adjustments:\r\nHistogramTransformation\r\nCurvesTransformation for slight contrast\r\nSCNR green\r\nMorphologicalTransformation for slight star size reduction\r\nDarkStructureEnhance Script\r\nACDNR for slight noise reduction\r\nCurvesTransformation for slight saturation\r\nResampled to 50% for web posting",
+    "h": 3300,
+    "hash": null,
+    "id": 346060,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808933/"
+    ],
+    "orientation": "0.452",
+    "pixscale": "2.022",
+    "published": "2018-05-10T00:21:07.742298",
+    "ra": "94.849",
+    "radius": "1.548",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/346060/",
+    "revisions": [
+        "/api/v1/imagerevision/228366/"
+    ],
+    "subjects": [
+        "IC 443",
+        "IC 444",
+        "Part of the constellation Gemini (Gem)",
+        "The star Propus (ηGem)",
+        "The star μGem"
+    ],
+    "title": "The Jellyfish Nebula (IC443) imaged in SHO",
+    "updated": "2021-03-17T15:33:57.605679",
+    "uploaded": "2018-05-10T01:21:10.805084",
+    "url_duckduckgo": "https://www.astrobin.com/346060/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/346060/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/346060/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/346060/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/346060/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/346060/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/346060/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8f06bab3-2dc7-4544-a2ae-88755ccc38b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8f06bab3-2dc7-4544-a2ae-88755ccc38b6-1525911843.jpg",
+    "url_thumb": "https://www.astrobin.com/346060/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 1220,
+    "w": 4414
+}

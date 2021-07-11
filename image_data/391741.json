@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "0.084",
+    "description": "McNeil’s nebula is a variable nebula near Messier 78 in Orion. It was discovered by Jay McNeil on 2004 January 23rd. It has disappeared from view on an image taken using the University of Iowa’s 500mm Gemini telescope on 2018 November 5th.",
+    "h": 1230,
+    "hash": null,
+    "id": 391741,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Homemade Newtonian 300/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 105,
+    "link": "https://pleiades.hu",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800460/"
+    ],
+    "orientation": "277.947",
+    "pixscale": "1.514",
+    "published": "2019-02-19T15:17:40.356189",
+    "ra": "86.686",
+    "radius": "0.441",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391741/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "Messier 78 - the McNeil's Nebula had disappeared",
+    "updated": "2021-03-17T12:02:46.201841",
+    "uploaded": "2019-02-19T15:17:40.509253",
+    "url_duckduckgo": "https://www.astrobin.com/391741/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391741/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391741/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391741/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391741/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391741/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391741/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/cbf8ffe0-4443-4f9c-b725-a039b2c0d31e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cbf8ffe0-4443-4f9c-b725-a039b2c0d31e-1550589905.jpg",
+    "url_thumb": "https://www.astrobin.com/391741/0/rawthumb/thumb/",
+    "user": "f.lorand",
+    "views": 471,
+    "w": 1700
+}

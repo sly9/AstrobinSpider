@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "18.188",
+    "description": "",
+    "h": 2700,
+    "hash": null,
+    "id": 293117,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "http://astro.ioda.by/en/m-85#full",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804384/"
+    ],
+    "orientation": "355.975",
+    "pixscale": "0.633",
+    "published": "2017-04-24T18:35:21.368213",
+    "ra": "186.352",
+    "radius": "0.336",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293117/",
+    "revisions": [],
+    "subjects": [
+        "M 85",
+        "NGC 4382",
+        "NGC 4394"
+    ],
+    "title": "M85",
+    "updated": "2021-05-11T05:51:12.512701",
+    "uploaded": "2017-04-24T19:35:21.847930",
+    "url_duckduckgo": "https://www.astrobin.com/293117/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293117/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293117/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293117/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293117/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293117/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293117/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14911/2017/4a67c7ae-bb50-4d41-a095-92d76813293e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14911/2017/4a67c7ae-bb50-4d41-a095-92d76813293e-1582587153.jpg",
+    "url_thumb": "https://www.astrobin.com/293117/0/rawthumb/thumb/",
+    "user": "Ioda",
+    "views": 273,
+    "w": 2700
+}

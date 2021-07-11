@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "44.281",
+    "description": "Taken from my suburban Orange County CA backyard.  The data was from shortly after I first acquired a narrowband setup.  I got my AO-8 and SBIG STT 8300M to track using the AO (hadn't figured out traditional guiding yet) and had very nice subs with <2 pixel FWHM on some subs.  Since this was some of the first data I had gathered, I figured that was normal!\r\n\r\nThis was really fun to revisit as I've learned much more about how to process the data.  \r\n\r\n30 minutes subs, 7 Ha, 16 OIII, and 8 SII.  15.5 hours total.  Ha was blended in to the OIII at 3:1 and into the SII at 3:1.  The Green channel is a combination of the blended OIII and SII data.  Since the Green was essentially a psuedo-luminance, I blended that with the Straight Ha data for the luminance channel.  Masters and RGB created in CCDStack.  The rest of the processing was done in Photoshop.  \r\n\r\nStar reduction with minimum filter, fine sharpening with unsharp mask, large scale sharpening with a high pass filter.",
+    "h": 1494,
+    "hash": null,
+    "id": 345024,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Televue NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806071/"
+    ],
+    "orientation": "179.180",
+    "pixscale": "1.677",
+    "published": "2018-05-03T19:24:50.722976",
+    "ra": "312.817",
+    "radius": "0.843",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345024/",
+    "revisions": [
+        "/api/v1/imagerevision/144236/",
+        "/api/v1/imagerevision/144422/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Suburban Pelican Nebula",
+    "updated": "2021-03-17T15:38:33.801551",
+    "uploaded": "2018-05-03T20:24:51.952186",
+    "url_duckduckgo": "https://www.astrobin.com/345024/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345024/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345024/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345024/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345024/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345024/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345024/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2018/7bb3dfc0-00c9-4f81-be23-12a5c374d602.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7bb3dfc0-00c9-4f81-be23-12a5c374d602-1525376092.jpg",
+    "url_thumb": "https://www.astrobin.com/345024/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 230,
+    "w": 1824
+}

@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 30,
+    "data_source": "OWN_REMOTE",
+    "dec": "-19.301",
+    "description": "3 frame mosaic\r\nTelescope/lens: FSQ-106ED\r\nCamera: FLI Proline 16803\r\nExposure and filters: LRGB 70 hours total exposure. \r\nMount: DDM60 PRO\r\nLocation: San Pedro De Atacama, Chile \r\nDates: Jun –August  2014 \r\nProcessed just now\r\n\r\nImage data acquired remotely\r\nProcessing: PixInsight, Photoshop",
+    "h": 1956,
+    "hash": null,
+    "id": 419034,
+    "imaging_cameras": [
+        "FLI PROLINE PL16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 278,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810964/"
+    ],
+    "orientation": "179.396",
+    "pixscale": "7.134",
+    "published": "2019-08-04T16:24:11.519644",
+    "ra": "245.439",
+    "radius": "5.476",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/419034/",
+    "revisions": [],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star Graffias (β1Sco)",
+        "The star β2Sco",
+        "The star νSco",
+        "The star χOph",
+        "The star ψOph",
+        "The star ω1Sco",
+        "The star ω2Sco"
+    ],
+    "title": "Blue Horse Head",
+    "updated": "2021-05-25T11:39:36.418002",
+    "uploaded": "2019-08-04T17:24:11.817767",
+    "url_duckduckgo": "https://www.astrobin.com/419034/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419034/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419034/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419034/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419034/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419034/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419034/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33375/2019/ecbaeb70-009d-421a-896a-ed37054449cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33375/2019/ecbaeb70-009d-421a-896a-ed37054449cf-1582535988.jpg",
+    "url_thumb": "https://www.astrobin.com/419034/0/rawthumb/thumb/",
+    "user": "StanislavVolskiy",
+    "views": 1486,
+    "w": 5169
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-26.370",
+    "description": "",
+    "h": 3520,
+    "hash": "139oca",
+    "id": 459466,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/"
+    ],
+    "orientation": "359.944",
+    "pixscale": "0.654",
+    "published": "2020-02-26T12:35:31.147503",
+    "ra": "118.226",
+    "radius": "0.531",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/459466/",
+    "revisions": [
+        "/api/v1/imagerevision/216217/"
+    ],
+    "subjects": [
+        "NGC 2467"
+    ],
+    "title": "The Skull and Crossbones Nebula (NGC 2467)",
+    "updated": "2021-03-17T04:43:50.864937",
+    "uploaded": "2020-02-26T10:44:43.561195",
+    "url_duckduckgo": "https://www.astrobin.com/139oca/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/139oca/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/139oca/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/139oca/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/139oca/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/139oca/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/139oca/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2020/a22f6a6f-31bd-49dc-ab65-6fe1cd70eeb8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2020/a22f6a6f-31bd-49dc-ab65-6fe1cd70eeb8-1582714559.jpg",
+    "url_thumb": "https://www.astrobin.com/139oca/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 214,
+    "w": 4656
+}

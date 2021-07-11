@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "59.349",
+    "description": "- 110x120s L\r\n- 40x 120s x R|G|B",
+    "h": 1258,
+    "hash": null,
+    "id": 303856,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "124.100",
+    "pixscale": "0.972",
+    "published": "2017-07-18T20:05:51.329744",
+    "ra": "234.784",
+    "radius": "0.676",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303856/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5976",
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985"
+    ],
+    "title": "Draco Triplet - NGC 5985, 5982, 5981 - L-RGB",
+    "updated": "2021-03-17T20:24:39.447974",
+    "uploaded": "2017-07-18T20:59:59.081244",
+    "url_duckduckgo": "https://www.astrobin.com/303856/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303856/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303856/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303856/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303856/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303856/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303856/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/c9cce825-8469-41c4-b798-d7de588df5b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c9cce825-8469-41c4-b798-d7de588df5b6-1500408302.jpg",
+    "url_thumb": "https://www.astrobin.com/303856/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 352,
+    "w": 1824
+}

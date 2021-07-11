@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "22.013",
+    "description": "The supernova remnant M1 is calle Crab Nebula. Its distance from earth is about 6500 lightyears. When it was seen in the year 1054 in China it was brighter than Venus and visible at daylight. It is expanding wuth a speed of ca. 1300 km/s.\r\n\r\n15 x 240 s Ha \r\n50 s 200 s Ha\r\n15 x 240 s OIII\r\n12 x 200 s OIIO\r\n\r\nTS 130/910 apo and ASI1600mmpro. Baader 36 mm Ha- and OIII narrowband filters.",
+    "h": 1291,
+    "hash": "t664jj",
+    "id": 448717,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 154,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "98.296",
+    "pixscale": "0.866",
+    "published": "2020-01-11T19:04:09.374948",
+    "ra": "83.639",
+    "radius": "0.258",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/448717/",
+    "revisions": [
+        "/api/v1/imagerevision/207619/",
+        "/api/v1/imagerevision/207621/",
+        "/api/v1/imagerevision/207623/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "M1 - Crab Nebula",
+    "updated": "2021-04-17T09:54:50.280496",
+    "uploaded": "2020-01-11T18:56:51.293882",
+    "url_duckduckgo": "https://www.astrobin.com/t664jj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t664jj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t664jj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t664jj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t664jj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t664jj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t664jj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/f9c94f84-5200-4f03-a6e4-1d5936b43e8c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/f9c94f84-5200-4f03-a6e4-1d5936b43e8c-1582278807.jpg",
+    "url_thumb": "https://www.astrobin.com/t664jj/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 874,
+    "w": 1710
+}

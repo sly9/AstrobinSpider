@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 21,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.319",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix (RGB)\r\nTV127is+ASI183MM at .75 asec/pix. (L)\r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\nThis image was unguided.\r\n\r\nNGC7479 (also known as Caldwell 44) is a barred spiral galaxy about 105 million light-years away in the constellation Pegasus. It was discovered by William Herschel in 1784. Supernovae SN 1990U and SN2009jf occurred in NGC 7479. NGC 7479 is also recognized as a Seyfert galaxy and a Liner undergoing starburst activity not only on the nucleus and the outer arms, but also across the bar of the galaxy, where most of the stars were formed in the last 100 million years. Polarization studies of this galaxy indicate that it recently underwent a minor merger and that it is unique in the radio continuum, with arms opening in a direction opposite to the optical arms. This feature, along with the asymmetrical arms of the galaxy and the intense star formation activity are attributed to a merger with a smaller galaxy. This galaxy is similar in both size and morphology to the barred spiral NGC 1300.\r\n(Wikipedia)",
+    "h": 1600,
+    "hash": "hztje7",
+    "id": 438088,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 182,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.940",
+    "pixscale": "0.701",
+    "published": "2019-11-10T18:55:05.603770",
+    "ra": "346.239",
+    "radius": "0.265",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/438088/",
+    "revisions": [
+        "/api/v1/imagerevision/200533/"
+    ],
+    "subjects": [
+        "NGC 7479",
+        "NGC7479"
+    ],
+    "title": "NGC 7479 Spiral Galaxy",
+    "updated": "2021-05-28T11:36:48.599266",
+    "uploaded": "2019-11-10T18:47:48.530354",
+    "url_duckduckgo": "https://www.astrobin.com/hztje7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hztje7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hztje7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hztje7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hztje7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hztje7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hztje7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/b7336386-3daa-490c-833f-176537aebd2a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/b7336386-3daa-490c-833f-176537aebd2a-1582590765.jpg",
+    "url_thumb": "https://www.astrobin.com/hztje7/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 535,
+    "w": 2200
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "13.661",
+    "description": "",
+    "h": 1628,
+    "hash": null,
+    "id": 335781,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5 IDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802334/"
+    ],
+    "orientation": "178.872",
+    "pixscale": "1.803",
+    "published": "2018-03-01T14:14:46.027855",
+    "ra": "25.667",
+    "radius": "0.581",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335781/",
+    "revisions": [
+        "/api/v1/imagerevision/138559/"
+    ],
+    "subjects": [
+        "NGC 660"
+    ],
+    "title": "NGC 660",
+    "updated": "2021-03-17T16:21:17.050473",
+    "uploaded": "2018-03-01T14:14:47.963933",
+    "url_duckduckgo": "https://www.astrobin.com/335781/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335781/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335781/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335781/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335781/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335781/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335781/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8a6db6f4-58f1-4ed6-8104-5d0038940620.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8a6db6f4-58f1-4ed6-8104-5d0038940620-1519914725.jpg",
+    "url_thumb": "https://www.astrobin.com/335781/0/rawthumb/thumb/",
+    "user": "Benoit_Gagnon",
+    "views": 205,
+    "w": 1650
+}

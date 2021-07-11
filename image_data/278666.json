@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "8.531",
+    "description": "The Raspberry nebula is in the center.( SH2-263 is the red emission nebula and VDB38 is the blue reflection nebula.) The central star is HD34989.  To the right is SH2-265 and lower left shows a section of the Lambda Orionis ring SH2-264. The blue light from the star Bellatrix \"shines\" from the lower right.\r\n\r\nImage dates: 24,25,26,27 and 28 december 2016\r\nThis is enough data so i could use only basic processing in PI: DBE, HistogramTransformation, a little SCNR to remove green and a little curves adjustment. So no BackgroundNeutralisation, no ColorCorrection, no Noise reduction etc.  \r\n\r\nISO 1600 was used.",
+    "h": 1562,
+    "hash": null,
+    "id": 278666,
+    "imaging_cameras": [
+        "Canon EOS 6D mod."
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "82.177",
+    "pixscale": "4.830",
+    "published": "2017-01-03T12:40:53.753855",
+    "ra": "80.332",
+    "radius": "2.106",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/278666/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The Raspberry Nebula SH2-263/ VDB38, SH2-265, SH-2-264 in Orion. DSLR Image",
+    "updated": "2021-03-17T22:05:44.027268",
+    "uploaded": "2017-01-03T12:40:54.124085",
+    "url_duckduckgo": "https://www.astrobin.com/278666/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/278666/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/278666/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/278666/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/278666/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/278666/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/278666/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/78fd8770-5826-4b27-a8c4-97f1ea86f6e7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/78fd8770-5826-4b27-a8c4-97f1ea86f6e7-1582209706.jpg",
+    "url_thumb": "https://www.astrobin.com/278666/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 808,
+    "w": 2722
+}

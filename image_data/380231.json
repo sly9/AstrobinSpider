@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "11.533",
+    "description": "Messier 60 (M60 or NGC 4649) is an elliptical galaxy in Virgo.  It lies about 55   million light years away.  Sharing the field is NGC 4647 which together make up Arp 116.  Although these galaxies appear to overlap, little evidence of gravitational interaction is seen.  However, recent studies with the Hubble Space Telescope show some signs of interactions beginning.\r\n \r\nDate: Feb 27-Mar 16 2018\r\nLocation: Blue Mountain Vista Observatories,New Ringgold PA\r\n\r\nOptics: Celestron EdgeHD 1100 on Paramount MX\r\nCamera: Sbig STL-11000 for RGB\r\n\r\nOptics: Starizona Hyperion f/8 12.5 inch, FL 2540 mm on Paramount ME\r\nCamera: Apogee U8300 for Lum\r\n\r\nExposure: LRGB  L:34x11 min R:22x10 min, G:19x10 min, B:17x10 min Total 15.9 hrs (92 subs at an avg of 622 sec)\r\n\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.",
+    "h": 2282,
+    "hash": null,
+    "id": 380231,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11",
+        "Starizona Hyperion"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "21.218",
+    "pixscale": "0.440",
+    "published": "2018-12-09T02:35:42.008598",
+    "ra": "190.841",
+    "radius": "0.236",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/380231/",
+    "revisions": [],
+    "subjects": [
+        "M 60",
+        "NGC 4637",
+        "NGC 4638",
+        "NGC 4647",
+        "NGC 4649"
+    ],
+    "title": "M60",
+    "updated": "2021-06-13T14:00:22.294446",
+    "uploaded": "2018-12-09T02:35:42.600770",
+    "url_duckduckgo": "https://www.astrobin.com/380231/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/380231/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/380231/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/380231/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/380231/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/380231/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/380231/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2021/d044a934-75e1-48ee-a865-9dc10d01fe7b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2021/d044a934-75e1-48ee-a865-9dc10d01fe7b-1620256926.jpg",
+    "url_thumb": "https://www.astrobin.com/380231/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 350,
+    "w": 3124
+}

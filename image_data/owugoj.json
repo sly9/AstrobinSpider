@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "61.340",
+    "description": "Finally got the OIII data I've been waiting on to finish up this project. I was pleased to see the small PN WeBo 1 make an appearance at the far left edge of the frame. The platesolve database doesn't pick it up, but it is plainly visible as a small ellipse.",
+    "h": 3583,
+    "hash": "owugoj",
+    "id": 436027,
+    "imaging_cameras": [
+        "QHYCCD QHY 16200A"
+    ],
+    "imaging_telescopes": [
+        "TEC APO140ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "341.799",
+    "pixscale": "1.733",
+    "published": "2019-10-31T06:20:08.048762",
+    "ra": "37.906",
+    "radius": "1.383",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/436027/",
+    "revisions": [
+        "/api/v1/imagerevision/198496/",
+        "/api/v1/imagerevision/198497/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC1795",
+        "IC1805",
+        "NGC 896",
+        "NGC896",
+        "Sh2-190"
+    ],
+    "title": "Heart Nebula and WeBo 1",
+    "updated": "2021-04-07T21:02:17.161889",
+    "uploaded": "2019-10-31T05:58:48.434987",
+    "url_duckduckgo": "https://www.astrobin.com/owugoj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/owugoj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/owugoj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/owugoj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/owugoj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/owugoj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/owugoj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25844/2019/c97b2fca-b9e5-4899-8266-36845c5eeb49.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25844/2019/c97b2fca-b9e5-4899-8266-36845c5eeb49-1582560781.png",
+    "url_thumb": "https://www.astrobin.com/owugoj/0/rawthumb/thumb/",
+    "user": "Monkeybird747",
+    "views": 790,
+    "w": 4493
+}

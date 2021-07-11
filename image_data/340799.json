@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-47.499",
+    "description": "",
+    "h": 1000,
+    "hash": null,
+    "id": 340799,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Alluna RC18"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804934/"
+    ],
+    "orientation": "179.729",
+    "pixscale": "1.939",
+    "published": "2018-04-08T09:32:12.950429",
+    "ra": "201.706",
+    "radius": "0.381",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340799/",
+    "revisions": [
+        "/api/v1/imagerevision/141830/"
+    ],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "Omega Centauri",
+    "updated": "2021-03-17T15:57:21.542133",
+    "uploaded": "2018-04-08T10:19:16.304441",
+    "url_duckduckgo": "https://www.astrobin.com/340799/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340799/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340799/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340799/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340799/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340799/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340799/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16057/2018/493e45a6-ff1a-4973-a463-d7229db6e56c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/493e45a6-ff1a-4973-a463-d7229db6e56c-1523179478.jpg",
+    "url_thumb": "https://www.astrobin.com/340799/0/rawthumb/thumb/",
+    "user": "peterbrack",
+    "views": 99,
+    "w": 1000
+}

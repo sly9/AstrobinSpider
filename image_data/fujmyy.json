@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Now that Neptune is close to opposition it is also close to its maximum apparent diameter of 2.4\", less than twice the apparent diameter of Jupiter's moon Ganymede.\r\nI began with a 3 minute capture with the ZWO ASI 1600MC, so OSC. This gave me a nice image with the beautiful blue of Neptune. I then did 5 runs of 20 minutes duration with the IR 642nm BP filter. This is the limit before the planet's rotation would have a significant effect. I integrated the best 3 runs with WinJUPOS to produce a monochrome image. It was clear on sharpening that some detail has come through and in all the captures the south pole of the planet was significantly brighter that the remainder. \r\nI used the IR642nm BP image as Luminance in combination with the RGB image from the colour camera.\r\nAlthough the patterns are not inconsistent with the orientation of the planet as determined from Triton's location, beyond the generally light coloured southern region, I cannot be sure how real the pattens of shading are. The disrupted nature of the capture made it difficult to identify them with the planet's rotation which is the surest way of determining that they are real.\r\nNevertheless this is my best image of Neptune.",
+    "h": 801,
+    "hash": "fujmyy",
+    "id": 428613,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-09-22T11:41:16.856896",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/428613/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Neptune 2019-09-11",
+    "updated": "2021-03-17T09:04:25.675433",
+    "uploaded": "2019-09-22T12:33:07.481312",
+    "url_duckduckgo": "https://www.astrobin.com/fujmyy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fujmyy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fujmyy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fujmyy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fujmyy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fujmyy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fujmyy/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/fujmyy/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 704,
+    "w": 800
+}

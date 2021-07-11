@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "33.471",
+    "description": "Around New Year's Eve 2019/20 I used five clear nights for taking Hα and [OIII]-filtered exposures of IC 410, the Tadpole Nebula, with my 4.9\" Wright-Newtonian telescope in my backyard in Vienna, Austria. Conditions varied from windy to calm and humid, with air temperatures between -3 and +3 degrees Celsius. Transparency was not always good, I had to discard many sub-optimal exposures when either thin clouds passed through or the object was too low in the light-polluted sky or guiding errors resulted in trailed stars. Nonetheless, I acquired 10 hours of usable Hα exposures and 5 hours of [OIII], enough for a decent image. I did not attempt [SII] exposures.\r\n\r\nProcessing steps: File selection and bias/dark/flat calibration, star alignment and image integration, noise reduction, deconvolution, non-linearization, star-background separation, local contrast enhancement, color synthesis using tone mapping, color correction, star size reduction, re-adding of the stars\r\n\r\nTonemap composition:\r\n\r\nRed = Hα\r\nGreen = [OIII]\r\nBlue = [OIII] + 15% Hα to compensate for missing Hβ\r\n\r\nMaster Luminance composition:\r\n\r\nL = Hα  + 30% [OIII]\r\n\r\nSome color-tweaking was required after tone mapping because the result was too greenish.  The nebula's center glows bright in [OIII] light, colored blue, while the Tadpoles, which protrude into the center from the upper left, and all of the nebula's outskirts are dominated by red-colored Hα emission. Red structures in the upper right corner belong to the neighboring Flaming Star Nebula IC 405.",
+    "h": 1361,
+    "hash": "az5okw",
+    "id": 450395,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Japan Special Optics LS-12D Wright Väisälä Camera"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "https://nightsky.at/Photo/Neb/IC410_WN.html",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810645/"
+    ],
+    "orientation": "359.207",
+    "pixscale": "4.314",
+    "published": "2020-01-21T09:54:26.746368",
+    "ra": "80.792",
+    "radius": "1.352",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450395/",
+    "revisions": [],
+    "subjects": [
+        "IC 410",
+        "NGC 1893",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "IC 410 - Tadpole Nebula",
+    "updated": "2021-03-17T05:28:58.452216",
+    "uploaded": "2020-01-21T09:04:01.807458",
+    "url_duckduckgo": "https://www.astrobin.com/az5okw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/az5okw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/az5okw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/az5okw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/az5okw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/az5okw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/az5okw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29756/2020/d254d0fd-7789-447e-ace0-d060083da3da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29756/2020/d254d0fd-7789-447e-ace0-d060083da3da-1582477287.jpg",
+    "url_thumb": "https://www.astrobin.com/az5okw/0/rawthumb/thumb/",
+    "user": "Walter_Koprolin",
+    "views": 136,
+    "w": 1800
+}

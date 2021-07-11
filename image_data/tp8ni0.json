@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 43,
+    "comments": 37,
+    "data_source": "OWN_REMOTE",
+    "dec": "45.412",
+    "description": "Hartl-Dengel-Weinberger 3 (HDW 3, PK149-09.1, PNG149.4-09.2) is an extremely faint ancient planetary nebula in the constellation Perseus. It is so faint that it is very rarely imaged.\r\nThe progenitor star is the small blue star at the 5 o-clock position just below the large yellow star in HDW 3. The progenitor is not, as one would expect, in the centre of the nebula. This is because it is moving rapidly in a north-westerly direction. It is moving through a dense area of interstellar medium (ISM). This ISM is slowing down HDW 3, creating a shock front and the unusual \"braided\" appearance.  As the star isn't slowed by the ISM it has continued to move and is thus no longer at the centre of HDW 3 and is slowly overtaking HDW 3.  This causes the shock front to be brighter as it's getting more ultraviolet radiation, whereas of opposite side of HDW 3 is getting less UV radiation and has become invisible. This movement of the star causes differential excitation of the shell. OIII emission, which requires higher energy of the ionizing radiation than HII emission, only happens close to the star.",
+    "h": 2691,
+    "hash": "tp8ni0",
+    "id": 443656,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 308,
+    "link": "https://www.imagingdeepspace.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "3.811",
+    "pixscale": "0.534",
+    "published": "2019-12-16T17:37:43.532601",
+    "ra": "51.818",
+    "radius": "0.364",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/443656/",
+    "revisions": [
+        "/api/v1/imagerevision/203752/",
+        "/api/v1/imagerevision/204013/"
+    ],
+    "subjects": [
+        "PK149-09.1"
+    ],
+    "title": "Hartl-Dengel-Weinberger 3 (HDW 3)",
+    "updated": "2021-06-13T09:06:38.118596",
+    "uploaded": "2019-12-16T17:37:43.702290",
+    "url_duckduckgo": "https://www.astrobin.com/tp8ni0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/tp8ni0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/tp8ni0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/tp8ni0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/tp8ni0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/tp8ni0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/tp8ni0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2019/c85c78fd-2fe5-4fbc-bcbe-5458ca6b61be.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2019/c85c78fd-2fe5-4fbc-bcbe-5458ca6b61be-1582285543.jpg",
+    "url_thumb": "https://www.astrobin.com/tp8ni0/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 1814,
+    "w": 4108
+}

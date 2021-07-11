@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "57.666",
+    "description": "IC 1396 Elephant Trunk Nebula. Imaged on clear nights between May and August 2012. \r\n\r\nHA                    50x900 Seconds\r\nLuminance     32x900 Seconds\r\nRed                  15x600 Seconds Bin 2x2\r\nGreen              17x600 Seconds Bin 2x2\r\nBlue                 20x600 Seconds Bin 2x2",
+    "h": 1371,
+    "hash": null,
+    "id": 273674,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Intes Micro MN65"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806365/"
+    ],
+    "orientation": "0.174",
+    "pixscale": "1.234",
+    "published": "2016-11-27T16:55:05.745047",
+    "ra": "324.381",
+    "radius": "0.715",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/273674/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC 1396 Elephant Trunk Nebula ",
+    "updated": "2021-03-17T22:24:47.060937",
+    "uploaded": "2016-11-27T16:55:06.218163",
+    "url_duckduckgo": "https://www.astrobin.com/273674/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/273674/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/273674/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/273674/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/273674/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/273674/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/273674/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/5a074af2-0a38-453b-8248-43f8be0dc58c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5a074af2-0a38-453b-8248-43f8be0dc58c-1480265998.jpg",
+    "url_thumb": "https://www.astrobin.com/273674/0/rawthumb/thumb/",
+    "user": "JoshuaHufford",
+    "views": 167,
+    "w": 1824
+}

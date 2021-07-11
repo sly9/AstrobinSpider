@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-10.881",
+    "description": "",
+    "h": 2446,
+    "hash": null,
+    "id": 291800,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801293/"
+    ],
+    "orientation": "40.330",
+    "pixscale": "2.099",
+    "published": "2017-04-14T17:05:19.963924",
+    "ra": "106.356",
+    "radius": "1.194",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291800/",
+    "revisions": [],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335",
+        "NGC 2343"
+    ],
+    "title": "IC 2177 Seagull Nebula (DSWRO)",
+    "updated": "2021-03-17T21:10:28.009133",
+    "uploaded": "2017-04-14T18:05:20.942949",
+    "url_duckduckgo": "https://www.astrobin.com/291800/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291800/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291800/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291800/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291800/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291800/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291800/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8466/2017/285fa954-e88c-488f-aea2-e85b7063d791.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8466/2017/285fa954-e88c-488f-aea2-e85b7063d791-1582575034.jpg",
+    "url_thumb": "https://www.astrobin.com/291800/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 164,
+    "w": 3287
+}

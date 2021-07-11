@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 43,
+    "comments": 40,
+    "data_source": "TRAVELLER",
+    "dec": "41.262",
+    "description": "I present to you my Fall project, the Andromeda Galaxy. The last time I imaged M31 was two years ago with my DSLR, but all other equipment being generally the same. I'm glad to finally give M31 a proper go with the astronomy camera, as it just explodes with color and little red nebulous regions within.\r\n\r\nEquipment: \r\nOTA: William Optics GT81 w/0.8x reducer/flattener (382mm fl at f/4.7)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nAccessories:\r\nQHYCCD PoleMaster\r\n\r\nSoftware: \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition: \r\nLocation: Atoka, OK and Ft. Griffin State Historic Park, TX for LRGB(Bortle 3), Flower Mound, TX for Ha(Bortle 7)\r\nDates: 11/2/18, 11/5/18, 12/1/18, 12/9/18, 12/15/18, 12/22/18, 12/23/18\r\nGain: 76 Offset: 15 for LRGB\r\nGain: 200 Offset: 50 for Ha\r\nCamera temp: -20C\r\nL: 143x300\" ZWO\r\nR: 46x300\" ZWO\r\nG: 44x300\" ZWO\r\nB: 40x300\" ZWO\r\nHa: 115x300\" Astrodon 5nm\r\nTotal integration time: 32hr 20min\r\n64x darks per calibration (master from library)\r\n30x flats per calibration\r\n200x bias per calibration (master from library)\r\n\r\nPreprocessing:\r\nBatch PreProcessing script to generate calibrated images\r\nStarAlignment\r\nLocalNormalization\r\nImageIntegration\r\nDrizzleIntegration\r\nDynamicCrop each master\r\nDBE each master\r\n\r\nLuminance Processing:\r\nDeconvolution\r\nTGV & MMT noise reduction (via Jon Rista's method)\r\nHistogramTransformation x2 (Linear > Non-Linear)\r\nHDRMultiscaleTransform\r\nLocalHistogramEqualization\r\nMLT sharpening\r\nMMT for slight star reduction\r\n\r\nPreparing separate R,G,B masters for combination (applied to each master individually):\r\nTGV & MMT noise reduction (via Jon Rista's method)\r\nLinearFit to B master\r\n\r\nPreparing Ha master for combination:\r\nTGV & MMT noise reduction (via Jon Rista's method)\r\nRemoved stars with several iterations of MMT and MT\r\nMMT to remove any artifacts left in the background\r\nDBE to even out the background\r\n\r\nCombined processed Red and Ha master with PixelMath:\r\nRed*0.9 + Ha*0.1\r\n\r\nCreated HaRGB image with ChannelCombination\r\n\r\nHaRGB Processing:\r\nBackgroundNeutralization\r\nColorCalibration\r\nSCNR Green\r\nArcsinhStretch x2\r\nHistogramTransformation (Linear > Non-Linear)\r\nHDRMultiscaleTransform\r\nCurvesTransformation for saturation\r\nColorSaturation tool to specifically saturate the Ha regions\r\n\r\n\r\nCombined HaRGB with Luminance using LRGBCombination\r\n\r\nLHaRGB Processing:\r\nMT for slight star reduction\r\nUnsharpMask to harden up the soft stars slightly\r\nSCNR Green\r\nCurvesTransformation for final saturation tweak\r\nResampled to 40% for web posting",
+    "h": 3558,
+    "hash": null,
+    "id": 385080,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 301,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808932/",
+        "/api/v1/location/2808933/"
+    ],
+    "orientation": "181.083",
+    "pixscale": "2.527",
+    "published": "2019-01-09T07:12:44.570986",
+    "ra": "10.683",
+    "radius": "1.551",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/385080/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "The Andromeda Galaxy - M31",
+    "updated": "2021-04-29T08:04:31.055750",
+    "uploaded": "2019-01-09T07:12:44.745677",
+    "url_duckduckgo": "https://www.astrobin.com/385080/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385080/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385080/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385080/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385080/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385080/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385080/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27683/2020/17d7a771-4b11-4485-9fdb-83c4f578dc1f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27683/2020/17d7a771-4b11-4485-9fdb-83c4f578dc1f-1582583424.jpg",
+    "url_thumb": "https://www.astrobin.com/385080/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 3703,
+    "w": 2619
+}

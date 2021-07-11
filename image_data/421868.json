@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "58.076",
+    "description": "I love how the EdgeHD 11\" frames this target up so nicely. I didn't know the Wizard's eye actually has a small star right next to the big one... it is hardly ever resolved in images taken by smaller telescopes, and none of my planetarium apps even show it.\r\n\r\nThe channel combination was as follows: First, Ha was scaled to 0.25x, then applied as described below.\r\nR: Ha 50% + SII 50%\r\nG: Ha 50% + OIII 50%\r\nB: OIII 100%",
+    "h": 4618,
+    "hash": null,
+    "id": 421868,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-P"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 1100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801820/"
+    ],
+    "orientation": "0.324",
+    "pixscale": "0.392",
+    "published": "2019-08-21T16:17:34.714059",
+    "ra": "341.848",
+    "radius": "0.315",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/421868/",
+    "revisions": [
+        "/api/v1/imagerevision/189746/",
+        "/api/v1/imagerevision/190065/"
+    ],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "The Wizard Nebula NGC7380",
+    "updated": "2021-03-17T09:39:33.229067",
+    "uploaded": "2019-08-21T17:17:34.886640",
+    "url_duckduckgo": "https://www.astrobin.com/421868/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/421868/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/421868/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/421868/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/421868/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/421868/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/421868/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9574/2019/4a952cd4-ecef-4184-bd1e-a6ed5001226d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9574/2019/4a952cd4-ecef-4184-bd1e-a6ed5001226d-1582602549.jpg",
+    "url_thumb": "https://www.astrobin.com/421868/0/rawthumb/thumb/",
+    "user": "rathijit",
+    "views": 299,
+    "w": 3487
+}

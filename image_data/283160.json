@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "33.840",
+    "description": "First Light for my new FSQ106 EDXIII with reducer at F3.6.  The Ha image is an integration of subs as I set the reducer and its grub screws (argh!), rotation angle of the QSI683 and also filter offsets for auto focusing.  You can see edge artefacts arising from the rotation as I set the ccd angle, LOL!  However, this image is simply for my own test.",
+    "h": 1373,
+    "hash": null,
+    "id": 283160,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803531/"
+    ],
+    "orientation": "91.354",
+    "pixscale": "2.869",
+    "published": "2017-02-09T20:16:02.688625",
+    "ra": "78.947",
+    "radius": "1.647",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283160/",
+    "revisions": [
+        "/api/v1/imagerevision/111393/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "First Light FSQ106  IC405 Flaming Star Nebula",
+    "updated": "2021-03-17T21:47:51.265762",
+    "uploaded": "2017-02-09T20:16:03.123034",
+    "url_duckduckgo": "https://www.astrobin.com/283160/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283160/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283160/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283160/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283160/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283160/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283160/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5519/2017/f947355c-abf0-4ae1-9d5a-88410aaf1511.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f947355c-abf0-4ae1-9d5a-88410aaf1511-1486672017.jpg",
+    "url_thumb": "https://www.astrobin.com/283160/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 430,
+    "w": 1824
+}

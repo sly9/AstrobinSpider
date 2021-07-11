@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-58.874",
+    "description": "",
+    "h": 3800,
+    "hash": null,
+    "id": 387763,
+    "imaging_cameras": [
+        "QHYCCD QHY10 Color"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 98 Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803750/",
+        "/api/v1/location/2808720/"
+    ],
+    "orientation": "29.500",
+    "pixscale": "2.013",
+    "published": "2019-01-25T14:33:52.979111",
+    "ra": "160.412",
+    "radius": "1.271",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/387763/",
+    "revisions": [],
+    "subjects": [
+        "Foramen",
+        "NGC 3293",
+        "NGC 3324",
+        "NGC3293",
+        "NGC3324",
+        "eta Car",
+        "t02 Car"
+    ],
+    "title": "NGC 3372 Carina zone - NGC 3293 - NGC 3324 - IC 2599 Gabriela Mistral Nebula",
+    "updated": "2021-04-30T14:35:09.392742",
+    "uploaded": "2019-01-25T14:33:53.201141",
+    "url_duckduckgo": "https://www.astrobin.com/387763/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/387763/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/387763/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/387763/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/387763/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/387763/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/387763/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/080b596e-cf8b-40d8-8c0f-49b2af43501e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/080b596e-cf8b-40d8-8c0f-49b2af43501e-1548427105.jpg",
+    "url_thumb": "https://www.astrobin.com/387763/0/rawthumb/thumb/",
+    "user": "ASTROBINARIO",
+    "views": 207,
+    "w": 2500
+}

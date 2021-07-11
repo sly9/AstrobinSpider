@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "47.302",
+    "description": "Newton 250/1250 on NEQ-6 + ASI 178MM-C  + Baader LRGB\r\nL - 1200 x 11s (gain 82%)\r\nRGB - 400 x 15s (gain 86%) per channel\r\nHa35nm - 200 x 30s (gain 88%)",
+    "h": 1443,
+    "hash": null,
+    "id": 406988,
+    "imaging_cameras": [
+        "ZWO ASI 178-Cool (mono)"
+    ],
+    "imaging_telescopes": [
+        "Sky Watcher 250/1200 Newtonian Sky Watcher 250/1200 "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 256,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/",
+        "/api/v1/location/2804621/"
+    ],
+    "orientation": "291.973",
+    "pixscale": "0.514",
+    "published": "2019-05-23T11:23:17.090114",
+    "ra": "184.743",
+    "radius": "0.197",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/406988/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4258"
+    ],
+    "title": "Messier 106",
+    "updated": "2021-04-23T12:37:48.510481",
+    "uploaded": "2019-05-23T12:18:21.738628",
+    "url_duckduckgo": "https://www.astrobin.com/406988/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406988/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406988/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406988/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406988/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406988/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406988/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10412/2019/fb1c370d-d65d-4fdf-8325-1b811ec1e70a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10412/2019/fb1c370d-d65d-4fdf-8325-1b811ec1e70a-1582540575.jpg",
+    "url_thumb": "https://www.astrobin.com/406988/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 1459,
+    "w": 2358
+}

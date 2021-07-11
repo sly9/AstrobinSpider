@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "PRO_DATA",
+    "dec": "-25.871",
+    "description": "I am trying to process most of the planetary nebula data in the Liverpool Telescope data base. For this one there was not much data, only 8 usable subs and totally 9 min of exposures. Considering the low amount of data the image did not turn out to be too bad, and this is in any case a rather featureless nebula.\r\n\r\nFilters and exposures:\r\nsdss-r  30 s and 120 s (red channel)\r\nHa  30 s (red channel)\r\nBessell V  30 s and 120 s (green channel)\r\nBessell B  30 s and 120 s (blue channel)\r\nsdss-g  30 s (blue channel)",
+    "h": 1983,
+    "hash": null,
+    "id": 297066,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "269.965",
+    "pixscale": "0.304",
+    "published": "2017-05-27T10:04:45.373879",
+    "ra": "53.309",
+    "radius": "0.119",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/297066/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1360",
+        "NGC1360",
+        "PK220-53.1"
+    ],
+    "title": "NGC1360 The Egg Nebula - 9 min data",
+    "updated": "2021-03-17T20:50:33.572777",
+    "uploaded": "2017-05-27T11:04:46.386851",
+    "url_duckduckgo": "https://www.astrobin.com/297066/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/297066/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/297066/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/297066/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/297066/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/297066/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/297066/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/4fcab10a-c86c-4c73-9678-1b254e2a8a98.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/4fcab10a-c86c-4c73-9678-1b254e2a8a98-1582579705.jpg",
+    "url_thumb": "https://www.astrobin.com/297066/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 225,
+    "w": 2014
+}

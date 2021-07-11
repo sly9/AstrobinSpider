@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 18,
+    "data_source": "UNKNOWN",
+    "dec": null,
+    "description": "When I processed my data from 25/07/2019, WinJupos limited the derotation to 6 videos (channel R) for a duration of 23 minutes  and 23,500 images. Beyond the artifacts have appeared (which is normal). I still had 4 videos of good quality. \r\n\r\nI remembered a \"time\" when I used IRIS software to process images in FIT format. Thanks to the \"add a sequence\" function, my 10 videos (channel R) have become perfectly integrated. This corresponds in the end to 48 minutes (21:07 UT at 21:55 UT) and 34,500 images. \r\n\r\nThe gain in definition is better. I think this method is only applicable for Saturn (which has few details) and for a low or medium aperture telescope.\r\n\r\nThese two views allow us to better appreciate the structure of Saturn's atmosphere organized in parallel bands. The darker \"bands\" are descending air while the lighter \"areas\" are ascending air. The strongest winds reach 1,800 km/h at the equator.\r\n\r\n-Altitude : 23°\r\n-Diameter : 18,3“",
+    "h": 454,
+    "hash": null,
+    "id": 419979,
+    "imaging_cameras": [
+        "ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808173/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-08-09T10:07:50.626015",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/419979/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Saturn : South up / North up",
+    "updated": "2021-03-17T09:49:06.143609",
+    "uploaded": "2019-08-09T11:07:50.744939",
+    "url_duckduckgo": "https://www.astrobin.com/419979/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419979/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419979/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419979/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419979/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419979/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419979/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/419979/0/rawthumb/thumb/",
+    "user": "MAILLARD",
+    "views": 292,
+    "w": 756
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "22.500",
+    "description": "Mapping is:\r\nR:  Ha     G:  (Ha+SIII)/2    B: SIII\r\nThen remove green tint using SCNR.\r\n\r\nIC 443 (also known as the Jellyfish Nebula and Sharpless 248 (Sh2-248)) is a Galactic supernova remnant (SNR) in the constellation Gemini. On the plan of the sky, it is located near the star Eta Geminorum. Its distance is roughly 5,000 light years from Earth.\r\n\r\nIC 443 may be the remains of a supernova that occurred 3,000 - 30,000 years ago. The same supernova event likely created the neutron star CXOU J061705.3+222127, the collapsed remnant of the stellar core. IC 443 is one of the best-studied cases of supernova remnants interacting with surrounding molecular clouds.\r\n\r\nThe SNR optical and radio morphology is shell-like, consisting of two connected sub-shells with different centers and radii. A third, larger sub-shell—initially attributed to IC 443—is now recognized as a different and older (100,000 years) SNR.\r\nNotably, IC 443 X-ray morphology is centrally peaked and a very soft X-ray shell is barely visible Unlike plerion remnants, e.g. the Crab Nebula, the inner X-ray emission is not dominated by the central pulsar wind nebula. It has indeed a thermal origin. IC 443 shows very similar features to the class of mixed morphology SNRs. Both optical and X-ray emission are heavily absorbed by a giant molecular cloud in the foreground, crossing the whole remnant body from northwest to southeast.\r\n(Wikipedia)",
+    "h": 2804,
+    "hash": null,
+    "id": 330748,
+    "imaging_cameras": [
+        "ZWOASI1600M-C"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "269.569",
+    "pixscale": "1.182",
+    "published": "2018-01-24T15:22:33.553450",
+    "ra": "94.274",
+    "radius": "0.761",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330748/",
+    "revisions": [],
+    "subjects": [
+        "IC 443",
+        "IC443",
+        "PGC2817561",
+        "Sh2-248"
+    ],
+    "title": "IC443 JellyFish Nebula - HSS",
+    "updated": "2021-04-26T07:51:12.690040",
+    "uploaded": "2018-01-24T15:04:24.029230",
+    "url_duckduckgo": "https://www.astrobin.com/330748/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330748/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330748/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330748/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330748/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330748/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330748/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2018/1f7e2ab0-f6e7-4c31-acfa-4c2945c0a00e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2018/1f7e2ab0-f6e7-4c31-acfa-4c2945c0a00e-1582590983.jpg",
+    "url_thumb": "https://www.astrobin.com/330748/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 260,
+    "w": 3696
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-10.507",
+    "description": "Gum 1 is the smaller companion to IC 2177, the Seagull Nebula. This is the first target test for my 8RC and an ASI ZWO 1600MM; the scope is reduced ~.74x with the CCDT67 by Astro=Physics.  I am reasonably happy with both the FOV and the image quality; needs some additional noise reduction. At this FOV you can begin to see details of the nebula, especially its wispy nature. And the lightning strike dark lane is quite prominent.",
+    "h": 1892,
+    "hash": null,
+    "id": 395984,
+    "imaging_cameras": [
+        "ASI ZWO 1600MM-cooled"
+    ],
+    "imaging_telescopes": [
+        "TPO 8\" f/8 Ritchey-Chretien Carbon Fiber Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 9,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809683/"
+    ],
+    "orientation": "98.474",
+    "pixscale": "1.126",
+    "published": "2019-03-16T22:48:24.428020",
+    "ra": "106.120",
+    "radius": "0.474",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395984/",
+    "revisions": [],
+    "subjects": [
+        "IC 2177",
+        "IC2177",
+        "PK223-02.1",
+        "Sh2-292",
+        "VdB91"
+    ],
+    "title": "Gum 1, Ha",
+    "updated": "2021-03-17T11:43:28.938587",
+    "uploaded": "2019-03-16T22:48:24.557091",
+    "url_duckduckgo": "https://www.astrobin.com/395984/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395984/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395984/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395984/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395984/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395984/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395984/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27236/2019/daa68a0a-3fcb-4c1c-83f6-baea9faf1e60.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27236/2019/daa68a0a-3fcb-4c1c-83f6-baea9faf1e60-1582482099.jpg",
+    "url_thumb": "https://www.astrobin.com/395984/0/rawthumb/thumb/",
+    "user": "StephenGarretson",
+    "views": 71,
+    "w": 2363
+}

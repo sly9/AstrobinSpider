@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "PRO_DATA",
+    "dec": null,
+    "description": "This HaRGB close up of the \"Ghost of Cassiopeia\" is processed from data from the Liverpool Telescope. Since it is almost 2 hours of data from a 2 meter scope I expected to see more detail, but maybe the face of a ghost does not have much detail. Possibly there is dust in between us and the ghost that blur the image, since this big scope is normally excellent at capturing the fine details.\r\nExposures (average times given) and filters used:\r\nsdss-r 19 x 90 s\r\nHa 17 x 120 s\r\nBessell B 14 x 90 s\r\nsdss-g 6 x 90 s\r\nBessell V 12 x 90 s\r\nsdss-r and Ha was combined 50:50 for the red channel\r\nBessell B and sdss-g was combined 67:33 for the blue channel\r\nBessell V was used for the green channel",
+    "h": 1718,
+    "hash": null,
+    "id": 293542,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-04-28T07:43:37.852475",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293542/",
+    "revisions": [],
+    "subjects": [],
+    "title": "The face of the Ghost (IC63)",
+    "updated": "2021-03-17T21:04:01.369993",
+    "uploaded": "2017-04-28T08:43:38.680920",
+    "url_duckduckgo": "https://www.astrobin.com/293542/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293542/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293542/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293542/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293542/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293542/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293542/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/293542/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 127,
+    "w": 1716
+}

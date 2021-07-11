@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 14,
+    "data_source": "MIX",
+    "dec": "31.015",
+    "description": "Here is the continuation of my large summer-2018 project.\r\n\r\nI had imaged this region for about 13 nights altogether between July and October 2018. You can call me crazy, using so many nights for just one object, in a region where clear nights are rare :) But I really wanted to see if I could catch this beautiful Supernova remnant, and I'm glad it succeeded :)\r\n\r\n\r\nRecently Pixinsight was supplied with the new Starnet++ module, which you can use to completely separate the stars from the background. I used this software to enhance the very weak nebulosity and was astonished to see how much more could be drawn from the background compared to the processing I did last year. All other processing was performed using Astropixelprocessor and photoshop.\r\n\r\nSupernova remnants (SNR) are formed when a large star ends its life in a supernova explosion. About 300 of these remnants are currently known in our galaxy. One of the most famous remnants, the Veil Nebula, is located in the constellation of Cygnus. Although this is the most famous one in this constellation, it’s not the only SNR. Cygnus contains several obscure SNR’s, among which SNR 65.3+5.7 (also known as SNR 65.2+5.7).\r\n\r\nSNR G65.3+5.7 was discovered by Gull et al. (1977) during an OIII survey of the Milky Way. Some parts of this SNR were already catalogued by Stewart Sharpless in his SH2 catalog as SH2-91, SH2-94 and SH2-96, but they were not recognized as being part of a bigger structure at that time. The idea that they could be part of a larger SNR was postulated by Sidney van den Bergh in 1960, but it took until 1977 for this to be confirmed.\r\n\r\nThis is one of the larger SNR in the sky spanning a region of roughly 4.0x3.3 degrees. Mavromatakis et al. (2002) determined the age of the SNR to be 20.000-25.000 years and the distance about 2.600 – 3.200 lightyears. The shell has a diameter of roughly 230 lightyears! This SNR is a predominantly OIII shell with also some H-alpha signal.\r\n\r\nThis supernova shell is quite weak and there are hardly any high-resolution images of this region. In the internet maybe 5-10 deep images of this shell can be found and, in most cases, they don’t cover the entire shell or the resolution is quite low because it was done by using photo lenses at short focal lengths. That’s why I decided to see if I could try to image the entire shell using my equipment, a TMB92 refractor in combination with a QSI583ws ccd camera. Because of its large size I needed to make a 3x3 mosaic to cover the whole region.\r\n\r\nAs so many nights were already necessary to cover the region in OIII I didn’t succeed in grabbing the H-alpha data, but on the internet I found the MDWsurvey (mdwskysurvey.org) initiated by David Mittelman (†), Dennis di Cicco, and Sean Walker (MDW). This is a marvelous project with the goal to image the entire northern sky in H-alpha at a resolution of 3.17”/pixel. I contacted them and told them of my effort to grab imagery of this SNR and they were very kind to provide me with the H-alpha imagery of this region, so that the entire SNR could be brought into view in reasonable high resolution.\r\n\r\nThis bicolor image shows a combination of about 53h of OIII data (made by myself) and 20 hours of Ha-data (made by the MDW survey) in a single image. In this way the full span of the shell can be seen in all its glory.\r\n\r\nImage info:\r\n\r\nH-alpha (astrodon 3nm, mdwskysurvey.org):\r\nTelescope: Astro-physics AP130mm starfire\r\nCamera: Fli Proline 16803\r\n5 frames of 12x1200s each\r\n\r\nOIII (astrodon 3nm):\r\nTelescope: TMB92SS\r\nCamera: QSI583ws\r\n9 frames, 158 x 1200s total",
+    "h": 2362,
+    "hash": "1wj4ba",
+    "id": 439201,
+    "imaging_cameras": [
+        "QSI 583 wsg"
+    ],
+    "imaging_telescopes": [
+        "TMB-92SS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 240,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798445/"
+    ],
+    "orientation": "336.198",
+    "pixscale": "6.491",
+    "published": "2019-11-17T20:57:53.992526",
+    "ra": "293.299",
+    "radius": "3.358",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439201/",
+    "revisions": [],
+    "subjects": [
+        "The star 2Cyg",
+        "The star 9Cyg",
+        "The star φCyg"
+    ],
+    "title": "G65.3+5.7 Little Veil Nebula",
+    "updated": "2021-06-15T09:26:52.920303",
+    "uploaded": "2019-11-17T20:57:54.149043",
+    "url_duckduckgo": "https://www.astrobin.com/1wj4ba/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1wj4ba/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1wj4ba/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1wj4ba/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1wj4ba/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1wj4ba/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1wj4ba/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1790/2019/f65a0bc3-0d77-4173-8c4b-c3b2e60f566f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1790/2019/f65a0bc3-0d77-4173-8c4b-c3b2e60f566f-1582542336.jpg",
+    "url_thumb": "https://www.astrobin.com/1wj4ba/0/rawthumb/thumb/",
+    "user": "avdhoeven",
+    "views": 1342,
+    "w": 2881
+}

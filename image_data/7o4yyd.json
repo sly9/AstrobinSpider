@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 51,
+    "data_source": "BACKYARD",
+    "dec": "61.347",
+    "description": "In the center of the Heart Nebula (IC 1805), in the constellation, Cassiopeia, are snaking clouds of dust and gas, sculpted by the stellar winds and radiation from a newborn cluster of massive O-type supergiant stars. Only 1.5 million years old, the stars are scattered in a vast sea of atomic gases that glow and silhouette the dark dust clouds. Discovered by Philibert Jacques Melotte, it is the 15th object in his catalog, Melotte 15.\r\n\r\nMelotte 15 is one of my favorite DSO’s. This is my third attempt to make an image of this spectacular object. Previous efforts, in 2017 and again in 2018, fell short due to equipment problems, smoke from wildfires in the western U.S., and uncooperative weather. This time the “astrogods” gave me a break. Through the Fall I have collected more than 30 hours of narrowband data. For this image I only used subs with HFR ranging from 2.3 to 2.8, which reduced the total integration time to 20.6 hours. I also created a master luminance using Ha, OIII, and SII subs with HFR less than 2.5, totaling 11.85 hours. This SHO image uses a standard HST palette. I have also posted a second version, Version B, in which the luminance mask used all of the Ha data (HFR 2.4-3.0). This version has a bit less detail, especially in the billowing clouds around the perimeter, but I like this soft look as it frames the angular structures in the center of the image. Version C is a compromise between the two approaches, with a detailed core and soften perimeter (for people like me that can't make a decision).  What is your preference?",
+    "h": 3055,
+    "hash": "7o4yyd",
+    "id": 433396,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 217,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "347.174",
+    "pixscale": "0.863",
+    "published": "2019-10-15T13:37:15.148067",
+    "ra": "38.707",
+    "radius": "0.607",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/433396/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Radiance and Shadows at the Center of the Heart (Melotte 15)",
+    "updated": "2021-07-07T00:14:33.642152",
+    "uploaded": "2019-10-15T14:37:15.475979",
+    "url_duckduckgo": "https://www.astrobin.com/7o4yyd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7o4yyd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7o4yyd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7o4yyd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7o4yyd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7o4yyd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7o4yyd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/c7b4c4e1-ab85-4f3a-8c64-6dbcb1010614.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/c7b4c4e1-ab85-4f3a-8c64-6dbcb1010614-1582039677.jpg",
+    "url_thumb": "https://www.astrobin.com/7o4yyd/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 983,
+    "w": 4041
+}

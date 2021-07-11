@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-69.099",
+    "description": "Combined L and Ha , with RGB\r\nImages taken between 20190202 to 202190425",
+    "h": 1792,
+    "hash": null,
+    "id": 402842,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Alluna RC18"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804934/"
+    ],
+    "orientation": "338.631",
+    "pixscale": "0.478",
+    "published": "2019-04-27T06:33:15.742084",
+    "ra": "84.636",
+    "radius": "0.375",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/402842/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2070",
+        "Tarantula nebula"
+    ],
+    "title": "NGC 2070 in LHaRGB",
+    "updated": "2021-06-07T21:23:49.677473",
+    "uploaded": "2019-04-27T07:24:47.001025",
+    "url_duckduckgo": "https://www.astrobin.com/402842/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402842/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402842/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402842/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402842/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402842/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402842/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18e29231-b13f-4909-8682-386b069a696a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18e29231-b13f-4909-8682-386b069a696a-1556350399.jpg",
+    "url_thumb": "https://www.astrobin.com/402842/0/rawthumb/thumb/",
+    "user": "peterbrack",
+    "views": 82,
+    "w": 1824
+}

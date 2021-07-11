@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "4.921",
+    "description": "Resampled to 75% due to current problems getting larger files to upload to the site.\r\n\r\n65x60\" Ha with QHY183M\r\n28x60\" OSC with QHY367C\r\n\r\nColor data is from <a href=\"https://www.astrobin.com/389756\">this image</a>.",
+    "h": 2806,
+    "hash": null,
+    "id": 391508,
+    "imaging_cameras": [
+        "QHYCCD QHY183M",
+        "QHY367C"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "http://cosmic-colors.com/nebulae/ngc-2244-heart-of-the-rosette-nebula/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809002/"
+    ],
+    "orientation": "133.534",
+    "pixscale": "1.069",
+    "published": "2019-02-18T04:52:54.142354",
+    "ra": "97.967",
+    "radius": "0.735",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391508/",
+    "revisions": [
+        "/api/v1/imagerevision/170807/"
+    ],
+    "subjects": [
+        "12 Mon",
+        "NGC 2239",
+        "NGC 2244",
+        "NGC2237",
+        "NGC2238",
+        "NGC2239",
+        "NGC2244",
+        "NGC2246",
+        "Rosette nebula",
+        "Sh2-275",
+        "The star 12Mon"
+    ],
+    "title": "NGC 2244 The Heart of the Rosette",
+    "updated": "2021-03-21T00:59:49.499937",
+    "uploaded": "2019-02-18T04:42:38.268064",
+    "url_duckduckgo": "https://www.astrobin.com/391508/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391508/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391508/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391508/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391508/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391508/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391508/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22385/2019/e480f093-7f60-46b4-80e3-98802bf47388.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22385/2019/e480f093-7f60-46b4-80e3-98802bf47388-1582601688.png",
+    "url_thumb": "https://www.astrobin.com/391508/0/rawthumb/thumb/",
+    "user": "jtrezzo",
+    "views": 595,
+    "w": 4082
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-49.791",
+    "description": "",
+    "h": 1920,
+    "hash": null,
+    "id": 339453,
+    "imaging_cameras": [
+        "QHYCCD QHY10 Color"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 98 Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803750/"
+    ],
+    "orientation": "14.302",
+    "pixscale": "2.012",
+    "published": "2018-03-28T17:27:24.710897",
+    "ra": "196.702",
+    "radius": "1.117",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339453/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4945",
+        "NGC 4976",
+        "NGC4945",
+        "NGC4976",
+        "The star ξ1Cen",
+        "The star ξ2Cen",
+        "ksi01 Cen",
+        "ksi02 Cen"
+    ],
+    "title": "NGC 4945",
+    "updated": "2021-06-27T10:25:29.945320",
+    "uploaded": "2018-03-28T18:27:26.623375",
+    "url_duckduckgo": "https://www.astrobin.com/339453/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339453/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339453/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339453/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339453/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339453/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339453/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/fc049ded-966b-41bc-9a1f-ec254652dfcd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fc049ded-966b-41bc-9a1f-ec254652dfcd-1522258203.jpg",
+    "url_thumb": "https://www.astrobin.com/339453/0/rawthumb/thumb/",
+    "user": "ASTROBINARIO",
+    "views": 157,
+    "w": 1920
+}

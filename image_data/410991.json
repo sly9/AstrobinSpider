@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "The night this data was collected had pretty good transparency and reasonable seeing, but I was a bit concerned about the data quality nonetheless ... for some reason, I always struggle with the stability of my CEM60 when the OTA is on the east side of the mount. My imaging targets bounce around a lot, almost like the mount is being affected by wind (but with no wind or breeze to speak of). Maybe I need to adjust the counterweights/balance for this circumstance? Any tips/ideas on this one appreciated!\r\n\r\nIn the end I had 18 x 90s captures with decent data to stack and de-rotate - total time elapsed between the first and last capture is almost exactly 30mins. Between the vibration in the mount and the seeing I had to be pretty brutal with the frame quality selection, stacking the top 15% in each case. Thus the final images contain just shy of 20,000 frames of data.\r\n\r\nI went back-and-forth with the processing on this one, initially producing an image that looked nice and crisp - sharpening taken just far enough to remove the blur, but possibly over-sharpened for some tastes (<a href=\"https://www.astrobin.com/410991/B/\">Rev B</a>). \r\n\r\nBut I then decided that \"some tastes\" included my own, so I made a version with the sharpening backed off a little (<a href=\"https://www.astrobin.com/410991/0/\">Rev A</a>).\r\n\r\nArguably a quite subtle difference, but let me know which you prefer.  :)\r\n\r\nFinally, I have produced an animation by de-rotating a moving average of 6 captures/stacks (<a href=\"https://www.astrobin.com/410991/C/\">Rev C</a>).\r\n\r\nThanks for looking!",
+    "h": 529,
+    "hash": null,
+    "id": 410991,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-06-19T14:08:16.555467",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410991/",
+    "revisions": [
+        "/api/v1/imagerevision/183151/",
+        "/api/v1/imagerevision/183152/"
+    ],
+    "subjects": [],
+    "title": "Jupiter: 2019-06-15 (UT 18:05 2019-06-14)",
+    "updated": "2021-03-17T10:32:28.131019",
+    "uploaded": "2019-06-19T12:28:33.474283",
+    "url_duckduckgo": "https://www.astrobin.com/410991/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410991/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410991/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410991/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410991/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410991/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410991/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/410991/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 982,
+    "w": 577
+}

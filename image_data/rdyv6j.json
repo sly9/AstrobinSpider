@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-36.131",
+    "description": "A renewed attempt to control my telescope that's just too large for my mount and image a galaxy. Lo and behold, NGC 1365. 51 frames of the 93 taken were acceptable enough for pixinsight to want to star align them with the loosest settings possible. It's definitely a subject I want to return to once I got a better setup!",
+    "h": 3439,
+    "hash": "rdyv6j",
+    "id": 437281,
+    "imaging_cameras": [
+        "Nikon D7500"
+    ],
+    "imaging_telescopes": [
+        "GSO Ritchey-Chrétien  8\" Carbon"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810665/"
+    ],
+    "orientation": "93.554",
+    "pixscale": "0.542",
+    "published": "2019-11-06T05:27:10.402676",
+    "ra": "53.368",
+    "radius": "0.472",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/437281/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1365",
+        "NGC1365"
+    ],
+    "title": "NGC 1365",
+    "updated": "2021-03-17T08:22:58.020486",
+    "uploaded": "2019-11-06T05:27:10.715565",
+    "url_duckduckgo": "https://www.astrobin.com/rdyv6j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rdyv6j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rdyv6j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rdyv6j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rdyv6j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rdyv6j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rdyv6j/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4b289e14-6dd7-49b1-8a96-128903c79b0f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4b289e14-6dd7-49b1-8a96-128903c79b0f-1573018464.jpg",
+    "url_thumb": "https://www.astrobin.com/rdyv6j/0/rawthumb/thumb/",
+    "user": "boelaars",
+    "views": 371,
+    "w": 5236
+}

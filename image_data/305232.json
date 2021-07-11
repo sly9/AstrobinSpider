@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "33.402",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 2144,
+    "hash": null,
+    "id": 305232,
+    "imaging_cameras": [
+        "QSI 690WSG QSI"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics AP 130mm f/6.3 Starfire EDF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803830/"
+    ],
+    "orientation": "179.957",
+    "pixscale": "1.120",
+    "published": "2017-07-30T00:11:56.678866",
+    "ra": "80.638",
+    "radius": "0.534",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305232/",
+    "revisions": [
+        "/api/v1/imagerevision/121779/"
+    ],
+    "subjects": [
+        "IC 410",
+        "NGC 1893"
+    ],
+    "title": "Tadpoles",
+    "updated": "2021-04-06T03:43:46.344032",
+    "uploaded": "2017-07-30T00:08:16.840204",
+    "url_duckduckgo": "https://www.astrobin.com/305232/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305232/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305232/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305232/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305232/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305232/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305232/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11158/2017/ca2d885c-eaf6-4da8-89ae-569eb15c8c0c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11158/2017/ca2d885c-eaf6-4da8-89ae-569eb15c8c0c-1582524240.jpg",
+    "url_thumb": "https://www.astrobin.com/305232/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 364,
+    "w": 2678
+}

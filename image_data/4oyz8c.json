@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "-4.806",
+    "description": "This is a L-RGB(OSC) image of the Running Man nebula\r\nColour taken on 02. jan  2020 with Moravian G3-11000c/  18 x 5min (1,5 h)\r\nLuminance taken on 23. jan 2020 with ASI174mm",
+    "h": 1170,
+    "hash": "4oyz8c",
+    "id": 451071,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 211,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.884",
+    "pixscale": "1.211",
+    "published": "2020-01-24T14:23:13.276084",
+    "ra": "83.824",
+    "radius": "0.375",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451071/",
+    "revisions": [
+        "/api/v1/imagerevision/209137/"
+    ],
+    "subjects": [
+        "NGC 1973",
+        "NGC 1975",
+        "NGC 1977",
+        "The star 42Ori",
+        "The star 45Ori"
+    ],
+    "title": "Running Man",
+    "updated": "2021-03-17T05:25:43.449740",
+    "uploaded": "2020-01-24T14:05:04.799887",
+    "url_duckduckgo": "https://www.astrobin.com/4oyz8c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4oyz8c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4oyz8c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4oyz8c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4oyz8c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4oyz8c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4oyz8c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/05e7b75b-952e-40da-a58a-037f0b1e913a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/05e7b75b-952e-40da-a58a-037f0b1e913a-1579875100.jpg",
+    "url_thumb": "https://www.astrobin.com/4oyz8c/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 510,
+    "w": 1900
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "68.164",
+    "description": "Object : NGC7023 iris nebula  \r\nDate : Sept.2018-Nov.2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure : R:300sx21, G:300sx25, B:300sx27, L:300sx59, ~11.04hr\r\nGuiding: OAG ASI174,\r\nProcessing: PI、PS-CC",
+    "h": 2098,
+    "hash": "ebmofi",
+    "id": 444730,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "https://astro-noodle.blogspot.com/2019/12/ngc-7023-iris-nebula.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "268.644",
+    "pixscale": "0.669",
+    "published": "2019-12-24T12:07:22.279179",
+    "ra": "315.358",
+    "radius": "0.314",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/444730/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023",
+        "NGC7023",
+        "VdB139"
+    ],
+    "title": "NGC 7023 Iris nebula",
+    "updated": "2021-07-07T07:23:27.901389",
+    "uploaded": "2019-12-24T12:07:22.970166",
+    "url_duckduckgo": "https://www.astrobin.com/ebmofi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ebmofi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ebmofi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ebmofi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ebmofi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ebmofi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ebmofi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/81dd5bda-31a6-4441-b686-4d572fe8fc9f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/81dd5bda-31a6-4441-b686-4d572fe8fc9f-1582283942.png",
+    "url_thumb": "https://www.astrobin.com/ebmofi/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 393,
+    "w": 2656
+}

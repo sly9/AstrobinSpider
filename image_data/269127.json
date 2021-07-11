@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "56.682",
+    "description": "This is 5 hours each of Ha, OIII and SII.  It is combined as follows:\r\n\r\nRed Channel:  50% Ha & 50% SII\r\nGreen Channel: 0.15% Ha & 0.85% OIII\r\nBlue Channel: 100% OIII",
+    "h": 1534,
+    "hash": null,
+    "id": 269127,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "93.458",
+    "pixscale": "1.524",
+    "published": "2016-10-22T21:02:08.158673",
+    "ra": "13.138",
+    "radius": "0.520",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269127/",
+    "revisions": [],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "Pacman Nebula - Tricolour NB",
+    "updated": "2021-03-17T22:40:39.085916",
+    "uploaded": "2016-10-22T22:02:08.158673",
+    "url_duckduckgo": "https://www.astrobin.com/269127/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269127/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269127/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269127/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269127/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269127/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269127/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2016/c5f2d96c-474e-416a-b32e-8dd6372edc4a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2016/c5f2d96c-474e-416a-b32e-8dd6372edc4a-1582606462.jpg",
+    "url_thumb": "https://www.astrobin.com/269127/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 267,
+    "w": 1920
+}

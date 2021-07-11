@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-43.027",
+    "description": "New Lum data from my RC8 was combined with previous RGB data from a previous setup.\r\n\r\nThe extremely short subs are an attempt to battle the severe light pollution in my backyard.\r\n\r\nEnjoy, cheers",
+    "h": 3520,
+    "hash": null,
+    "id": 298879,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805165/"
+    ],
+    "orientation": "18.153",
+    "pixscale": "0.475",
+    "published": "2017-06-08T18:40:04.499141",
+    "ra": "201.367",
+    "radius": "0.385",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298879/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5128"
+    ],
+    "title": "NGC 5128",
+    "updated": "2021-03-17T20:43:17.980141",
+    "uploaded": "2017-06-08T19:40:08.359226",
+    "url_duckduckgo": "https://www.astrobin.com/298879/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298879/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298879/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298879/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298879/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298879/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298879/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16652/2017/227540c7-3775-472f-83c6-d51a9f42277e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/16652/2017/227540c7-3775-472f-83c6-d51a9f42277e-1582453455.png",
+    "url_thumb": "https://www.astrobin.com/298879/0/rawthumb/thumb/",
+    "user": "gvarouha",
+    "views": 310,
+    "w": 4656
+}

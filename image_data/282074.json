@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "4.969",
+    "description": "Ha-OIII-RGB-Image",
+    "h": 1304,
+    "hash": null,
+    "id": 282074,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool",
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph",
+        "TSOptics TS100Q"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 151,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "93.997",
+    "pixscale": "2.263",
+    "published": "2017-01-31T12:35:28.514809",
+    "ra": "98.103",
+    "radius": "1.728",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282074/",
+    "revisions": [
+        "/api/v1/imagerevision/110038/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula in Ha-OIII-RGB",
+    "updated": "2021-04-21T14:15:03.890352",
+    "uploaded": "2017-01-31T12:35:32.335977",
+    "url_duckduckgo": "https://www.astrobin.com/282074/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282074/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282074/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282074/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282074/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282074/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282074/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20996/2017/379c48b4-6cef-4243-90b0-c8bf900d79a0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/379c48b4-6cef-4243-90b0-c8bf900d79a0-1485866422.png",
+    "url_thumb": "https://www.astrobin.com/282074/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1095,
+    "w": 1824
+}

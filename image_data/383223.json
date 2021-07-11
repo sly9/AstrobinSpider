@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "3.792",
+    "description": "<strong>NGC 520</strong>\r\n\r\nCelestron CPC1100 Edge HD running in Alt/Az mode at f/10. 97 x 20 seconds with a ZWO ASI1600MM Pro at 300 gain binned 3x3. Frames acquired with a ZWO ASIair and processed in PixInsight.",
+    "h": 1075,
+    "hash": null,
+    "id": 383223,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 1100 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 8,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810300/"
+    ],
+    "orientation": "141.592",
+    "pixscale": "0.838",
+    "published": "2018-12-29T21:20:49.544428",
+    "ra": "21.141",
+    "radius": "0.211",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/383223/",
+    "revisions": [],
+    "subjects": [
+        "NGC 520",
+        "NGC520"
+    ],
+    "title": "NGC 520 - the Flying Ghost Galaxy",
+    "updated": "2021-03-17T12:41:26.409593",
+    "uploaded": "2018-12-29T21:20:49.652881",
+    "url_duckduckgo": "https://www.astrobin.com/383223/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/383223/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/383223/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/383223/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/383223/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/383223/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/383223/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1709/2018/ff4df85e-591d-42ba-905e-13bf13e41373.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1709/2018/ff4df85e-591d-42ba-905e-13bf13e41373-1582612944.png",
+    "url_thumb": "https://www.astrobin.com/383223/0/rawthumb/thumb/",
+    "user": "clasley",
+    "views": 106,
+    "w": 1464
+}

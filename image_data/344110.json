@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "40.410",
+    "description": "This is a remarkable group and shows 2, almost 3 major spirals along multiple elliptical galaxies. I am very pleased with the level of detail in the spirals, considering the smallish frac I used :>. HAve already taken color and will add it. Lum data got drizzled, dbe, decon, ht and some curves. No noise reduction, yet. I tried to bring out more detail in the spirals with HDRMultiscaletransform in PI, but to much luminosity would have been lost in the process and the result would have looke too flat, albei with a lot of detail :)",
+    "h": 3878,
+    "hash": null,
+    "id": 344110,
+    "imaging_cameras": [
+        "Atik 460EX mono"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 123"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "185.697",
+    "pixscale": "0.635",
+    "published": "2018-04-27T17:14:08.740711",
+    "ra": "208.605",
+    "radius": "0.556",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/344110/",
+    "revisions": [
+        "/api/v1/imagerevision/143650/"
+    ],
+    "subjects": [
+        "NGC 5350",
+        "NGC 5353",
+        "NGC 5354",
+        "NGC 5371",
+        "NGC5350",
+        "NGC5353",
+        "NGC5354",
+        "NGC5355",
+        "NGC5358",
+        "NGC5371"
+    ],
+    "title": "NGC 5371 and friends",
+    "updated": "2021-04-11T12:35:11.437269",
+    "uploaded": "2018-04-27T18:14:12.161604",
+    "url_duckduckgo": "https://www.astrobin.com/344110/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/344110/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/344110/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/344110/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/344110/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/344110/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/344110/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12522/2020/9133f8ef-e65c-4b60-af13-cc4505237e51.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12522/2020/9133f8ef-e65c-4b60-af13-cc4505237e51-1582645346.png",
+    "url_thumb": "https://www.astrobin.com/344110/0/rawthumb/thumb/",
+    "user": "Micha_Lj",
+    "views": 437,
+    "w": 4968
+}

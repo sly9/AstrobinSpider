@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "30.681",
+    "description": "3rd visit to M33, but this time with 12.5\" AG Optical iDK.  Might combine this data on some rainy day.",
+    "h": 1824,
+    "hash": null,
+    "id": 328903,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation FLI ML 16803"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 158,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "180.013",
+    "pixscale": "0.874",
+    "published": "2018-01-10T04:46:48.133904",
+    "ra": "23.472",
+    "radius": "0.697",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328903/",
+    "revisions": [
+        "/api/v1/imagerevision/134434/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 - Deep Sky West Remote Observatory",
+    "updated": "2021-03-17T16:52:09.045361",
+    "uploaded": "2018-01-10T04:39:49.396480",
+    "url_duckduckgo": "https://www.astrobin.com/328903/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328903/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328903/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328903/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328903/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328903/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328903/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2018/18c70084-9116-4522-9931-f3a300a2b313.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18c70084-9116-4522-9931-f3a300a2b313-1515559490.jpg",
+    "url_thumb": "https://www.astrobin.com/328903/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 403,
+    "w": 1824
+}

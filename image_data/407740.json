@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 36,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.118",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThere are countless small galaxies sprinkled throughout this image.  It's fun finding them.  All these subs were taken before the moon rose for the evening.\r\n\r\nMessier 94 (M94), also known as NGC 4736, Cat’s Eye Galaxy or Croc’s Eye Galaxy, is a spiral galaxy in the northern constellation Canes Venatici (Hunting Dogs), some 15 million light-years away from us.\r\n\r\nThis galaxy was discovered by the French astronomer Pierre Méchain on March 22, 1781, and catalogued by Charles Messier two days later.\r\n\r\nAstronomers estimate that Messier 94 has a mass of about 60 billion solar masses and is approximately 50,000 light-years across. It has a faint outer ring that extends for at least another 30,000 light-years.\r\n\r\nIn 1975, the French-born U.S. astronomer Gérard de Vaucouleurs listed the galaxy as a member of a nearby group of galaxies, the M94 Group (also known as the Canes Venatici I Cloud) – a group that contains 16 to 24 galaxies.\r\n\r\nWithin the galaxy’s bright ring new stars are forming at a high rate and many young, bright stars are present within it – thanks to this, this feature is called a starburst ring.\r\n\r\nThe cause of this star-forming region is likely a pressure wave going outwards from the galaxy’s core, compressing the gas and dust in the outer region.\r\n\r\nThe compression of material means the gas starts to collapse into dense clouds.\r\n\r\nInside these clouds, gravity pulls the gas and dust together until temperature and pressure are high enough for stars to be born.\r\n(http://www.sci-news.com)",
+    "h": 3520,
+    "hash": null,
+    "id": 407740,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 238,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.536",
+    "pixscale": "0.701",
+    "published": "2019-05-29T12:54:25.930278",
+    "ra": "192.721",
+    "radius": "0.568",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/407740/",
+    "revisions": [
+        "/api/v1/imagerevision/181044/"
+    ],
+    "subjects": [
+        "M 94",
+        "NGC 4736"
+    ],
+    "title": "M94 Croc's Eye Galaxy",
+    "updated": "2021-04-17T01:07:08.547228",
+    "uploaded": "2019-05-29T13:43:37.388921",
+    "url_duckduckgo": "https://www.astrobin.com/407740/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/407740/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/407740/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/407740/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/407740/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/407740/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/407740/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/7a2c199a-140a-4926-b1b5-d57bb4002301.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/7a2c199a-140a-4926-b1b5-d57bb4002301-1582590828.jpg",
+    "url_thumb": "https://www.astrobin.com/407740/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 986,
+    "w": 4656
+}

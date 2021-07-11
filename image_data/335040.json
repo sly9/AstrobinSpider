@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 16,
+    "data_source": "UNSET",
+    "dec": "-13.230",
+    "description": "I have already uploaded a bicolour (HOO) version of Thor's Helmet - <a href=\"https://astrob.in/332674/B/\">Thor&#39;s Helmet (NGC 2359) in Canis Major - Bicolour</a>  However, I have now added 12 hours of RGB data for star colour.  I hope, therefore, that this is a suffciently different data set to warrant a new post. \r\n\r\nNGC 2359 is an emission nebula located around 12,000 light years away in the constellation of Canis Major. The gases are being ejected by a 'Wolf-Rayet' star (WR7). These are hot, giant stars at the end of their stellar evolution - in a a 'pre-supernova' phase. The nebula is estimated to be around 30 light years in diameter.\r\n\r\nThis is from the Deep Sky West remote imaging facility in New Mexico. Data collection took place over several nights between 27 December 2017 and 6 February 2018.\r\n\r\nHa: 28 x 1800s\r\nOIII: 14 x 1800s\r\nRed: 16 x 900s\r\nGreen: 16 x 900s\r\nBlue: 16 x 900s\r\n\r\nA total of 33 hours exposure.",
+    "h": 1813,
+    "hash": null,
+    "id": 335040,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "90.062",
+    "pixscale": "2.103",
+    "published": "2018-02-24T08:00:17.384926",
+    "ra": "109.679",
+    "radius": "0.883",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335040/",
+    "revisions": [
+        "/api/v1/imagerevision/152422/"
+    ],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet (NGC 2359) in Canis Major - HaOIII RGB",
+    "updated": "2021-03-17T16:24:28.599442",
+    "uploaded": "2018-02-24T08:00:19.266211",
+    "url_duckduckgo": "https://www.astrobin.com/335040/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335040/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335040/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335040/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335040/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335040/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335040/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/621e875f-f5ce-42c5-92f4-d3c160d11528.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/621e875f-f5ce-42c5-92f4-d3c160d11528-1582606084.jpg",
+    "url_thumb": "https://www.astrobin.com/335040/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 461,
+    "w": 2418
+}

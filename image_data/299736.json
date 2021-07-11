@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "57.584",
+    "description": "This image is a variation close to the natural color.\r\n\r\nH-Alpha 24 x 300sec\r\nSII 24 x 300sec\r\nOIII 24 x 300sec",
+    "h": 5130,
+    "hash": null,
+    "id": 299736,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806969/"
+    ],
+    "orientation": "0.961",
+    "pixscale": "2.095",
+    "published": "2017-06-16T15:20:06.705283",
+    "ra": "324.834",
+    "radius": "1.910",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299736/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 (4 frames mosaic, natural color version)",
+    "updated": "2021-03-17T20:40:13.807216",
+    "uploaded": "2017-06-16T16:20:08.895023",
+    "url_duckduckgo": "https://www.astrobin.com/299736/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299736/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299736/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299736/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299736/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299736/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299736/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/e03bbe06-80a4-4ac3-97dd-b7f13ef9a16d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/e03bbe06-80a4-4ac3-97dd-b7f13ef9a16d-1582598942.jpg",
+    "url_thumb": "https://www.astrobin.com/299736/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 248,
+    "w": 4096
+}

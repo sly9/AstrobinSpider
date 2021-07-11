@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "41.117",
+    "description": "APOD: https://apod.nasa.gov/apod/ap191014.html\r\n\r\nAirplanes, satellites, Muon's, Worm's/ Gamma rays and hot pixels. This is a stacked image made with calibrated subs (But hot pixels keep popping up anyway because my last set of masters is a few month's old) For the stack i used the \"max\" option in DSS.",
+    "h": 3469,
+    "hash": "ba32r5",
+    "id": 431542,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 199,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "270.480",
+    "pixscale": "2.221",
+    "published": "2019-10-05T14:55:05.146020",
+    "ra": "10.762",
+    "radius": "1.723",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/431542/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "The Andromeda Galaxy in a crowded Sky",
+    "updated": "2021-03-17T08:50:22.794929",
+    "uploaded": "2019-10-05T15:29:08.137521",
+    "url_duckduckgo": "https://www.astrobin.com/ba32r5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ba32r5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ba32r5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ba32r5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ba32r5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ba32r5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ba32r5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/63a7e304-a456-460c-a70d-06fcc15a8a77.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/63a7e304-a456-460c-a70d-06fcc15a8a77-1582622319.jpg",
+    "url_thumb": "https://www.astrobin.com/ba32r5/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 1139,
+    "w": 4379
+}

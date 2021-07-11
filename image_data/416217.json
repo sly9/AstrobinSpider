@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "61.459",
+    "description": "Data acquired on the following dates\r\nHA  Sept 22nd ,2015\r\nOIII Nov 19th,2018\r\nSII   Nov 25th,2018",
+    "h": 1039,
+    "hash": null,
+    "id": 416217,
+    "imaging_cameras": [
+        "Atik 314L+ Mono",
+        "Atik 428EX"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BKP P200 DS",
+        "Skywatcher BKP 150 DS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799422/"
+    ],
+    "orientation": "357.836",
+    "pixscale": "1.329",
+    "published": "2019-07-20T12:57:08.547447",
+    "ra": "38.325",
+    "radius": "0.320",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/416217/",
+    "revisions": [
+        "/api/v1/imagerevision/212061/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC 1805",
+    "updated": "2021-06-08T16:56:43.651578",
+    "uploaded": "2019-07-20T13:37:28.198419",
+    "url_duckduckgo": "https://www.astrobin.com/416217/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416217/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416217/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416217/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416217/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416217/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416217/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2545/2020/99e466e3-e732-472f-ac25-7e60a7363679.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2545/2020/99e466e3-e732-472f-ac25-7e60a7363679-1582630179.png",
+    "url_thumb": "https://www.astrobin.com/416217/0/rawthumb/thumb/",
+    "user": "northisup2",
+    "views": 236,
+    "w": 1391
+}

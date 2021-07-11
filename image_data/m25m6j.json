@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "First light on my Coronado 70mm DS. I absolutely love this scope's performance, though I have only had 2 weekends to work with it so far due to conflicting working hours. I am trying to curb my impatience since I know for a fact that sitting under a blackout towel in 100 degree summer heat trying to see my laptop screen is not going to be enjoyable. The only downside is that due to the scope using tilt tuners, Newton Rings are an issue, but I found that Flats were able to (mostly) effectively remove them. \r\n\r\nIn this image, the Sun's north pole should be up. Sunspot 2757, which apparently contains a polarity from the previous solar cycle, is just past the meridian.\r\n\r\nChromosphere Exposure:\r\n - Gain: 200, 4ms exposure, 1k total frames\r\n - Stacked 25% best frames in Autostakkert!3\r\n\r\nProminence Exposure: \r\n - Gain 139, 10ms exposure, 500 total frames\r\n - Stacked 100% frames in Autostakkert!3\r\n\r\n - 200 Flat frames taken using clear plastic bag, stacked in AS!3 and applied to each stack to mostly remove Newton Rings\r\n\r\n\r\nPost (PixInsight): \r\n - Range Mask for Protection of Solar disc edge\r\n - 2 passes Restoration filter\r\n - MMT for further sharpening of varying pixel scales\r\n - Unsharp Mask, 3 passes\r\n\r\nPhotoshop Processing:\r\n - Aligned Prominence image onto Chromosphere, shrunk by about 1%\r\n - Convolution & Levels applied to mask to minimize chromosphere / prom transition\r\n - High Pass / Overlay blending for further sharpening\r\n - Cropped out, added dull red background\r\n - Custom Color Balance applied",
+    "h": 3000,
+    "hash": "m25m6j",
+    "id": 451972,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Coronado SolarMax III DS 70mm"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "https://www.astronewton.com/solar-photography",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808438/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-01-28T04:57:58.292179",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451972/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Solar Disk in 0.5Å Hα (26 January, 2020)",
+    "updated": "2021-03-17T05:21:19.274560",
+    "uploaded": "2020-01-28T04:57:58.517520",
+    "url_duckduckgo": "https://www.astrobin.com/m25m6j/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m25m6j/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m25m6j/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m25m6j/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m25m6j/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m25m6j/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m25m6j/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/m25m6j/0/rawthumb/thumb/",
+    "user": "brent1123",
+    "views": 296,
+    "w": 4000
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "-13.848",
+    "description": "Another test image, this time with Ha 7nm filter.\r\nSince a few days we have hier really high temperatures, daytime 34-35 C°, in the night 25C° and pretty high humidity. My DIY cooling on the ASI 174mm works hard, but it could not sink the sensor temp below 12 C° :-)\r\n\r\nUpdate : Now I collected additionally 1 hour Oiii data.\r\nFilter Optolong OIII 12nm 2\".\r\nThis is my very first try to process nb data to a bicolor image :-)",
+    "h": 1220,
+    "hash": null,
+    "id": 358832,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 208,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.975",
+    "pixscale": "0.881",
+    "published": "2018-07-30T11:42:08.203369",
+    "ra": "274.707",
+    "radius": "0.268",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/358832/",
+    "revisions": [
+        "/api/v1/imagerevision/152098/"
+    ],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "M16 (Ha Oiii  bicolor)",
+    "updated": "2021-03-17T14:38:30.987443",
+    "uploaded": "2018-07-30T12:42:08.390438",
+    "url_duckduckgo": "https://www.astrobin.com/358832/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/358832/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/358832/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/358832/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/358832/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/358832/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/358832/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/69b38044-318f-410d-abd1-bcd03b24195e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/69b38044-318f-410d-abd1-bcd03b24195e-1532954763.jpg",
+    "url_thumb": "https://www.astrobin.com/358832/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 1048,
+    "w": 1820
+}

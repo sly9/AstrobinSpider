@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-59.586",
+    "description": "This is an 8 panel mosaic that contains approximately 8 hours worth of imaging.",
+    "h": 16182,
+    "hash": null,
+    "id": 338149,
+    "imaging_cameras": [
+        "ZWO ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "GSO GS800 f/4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "88.926",
+    "pixscale": "0.331",
+    "published": "2018-03-20T12:13:17.050686",
+    "ra": "160.923",
+    "radius": "1.152",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338149/",
+    "revisions": [
+        "/api/v1/imagerevision/140207/"
+    ],
+    "subjects": [
+        "NGC 3372",
+        "eta Car nebula"
+    ],
+    "title": "Carina Nebula with H2 Region",
+    "updated": "2021-03-17T16:09:49.222352",
+    "uploaded": "2018-03-20T12:13:30.460937",
+    "url_duckduckgo": "https://www.astrobin.com/338149/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338149/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338149/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338149/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338149/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338149/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338149/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19555/2018/c464390a-42ff-47fc-b919-76ac97eca660.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19555/2018/c464390a-42ff-47fc-b919-76ac97eca660-1582599412.jpg",
+    "url_thumb": "https://www.astrobin.com/338149/0/rawthumb/thumb/",
+    "user": "djldn",
+    "views": 287,
+    "w": 19188
+}

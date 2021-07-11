@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 42,
+    "data_source": "UNSET",
+    "dec": "11.696",
+    "description": "Here we have a look at M95, even on a 14.5\" scope this is quite a small (barred spiral) galaxy ~38Mly away.  Despite the challenge, I think it is a nice example of a SB(r)b galaxy and some nice details are showing.\r\nIn order to realise the detail and keep to a decent size image I had to first ensure the scale of the image was sufficient to work out through drizzling all the data.  Once complete I was able gently, through many iterations release the detail that was present.  This is certainly a good example of many smaller iterations of process applications having more impact than a few larger ones.  Hope you enjoy.\r\n\r\nPS: For the pixel peepers out there is a strange blue star towards the bottom of the image - I wondered what I had done wrong .  Having reviewed this is actually correct and not an aberration, It is SDSS J104429.50+113042.0 an RR lyrae variable star - the SDSS data shows this to be the correct colour.......",
+    "h": 6153,
+    "hash": null,
+    "id": 332667,
+    "imaging_cameras": [
+        "SBIG STX KAF-16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 398,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803061/"
+    ],
+    "orientation": "52.778",
+    "pixscale": "0.275",
+    "published": "2018-02-08T10:38:47.674380",
+    "ra": "160.996",
+    "radius": "0.358",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332667/",
+    "revisions": [
+        "/api/v1/imagerevision/136491/"
+    ],
+    "subjects": [
+        "M 95",
+        "NGC 3351"
+    ],
+    "title": "M95 in Leo",
+    "updated": "2021-03-17T16:35:24.552746",
+    "uploaded": "2018-02-08T09:57:45.059152",
+    "url_duckduckgo": "https://www.astrobin.com/332667/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332667/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332667/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332667/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332667/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332667/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332667/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9158/2018/ee5cd25f-c3b5-4fff-97d7-101e99422b21.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9158/2018/ee5cd25f-c3b5-4fff-97d7-101e99422b21-1582547774.png",
+    "url_thumb": "https://www.astrobin.com/332667/0/rawthumb/thumb/",
+    "user": "patrickgilliland",
+    "views": 1644,
+    "w": 7044
+}

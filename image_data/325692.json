@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "-13.983",
+    "description": "",
+    "h": 3200,
+    "hash": null,
+    "id": 325692,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.966",
+    "pixscale": "2.590",
+    "published": "2017-12-14T01:48:43.128372",
+    "ra": "274.692",
+    "radius": "1.428",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325692/",
+    "revisions": [
+        "/api/v1/imagerevision/132411/"
+    ],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "M16 Eagle Nebula (RGBSHO)",
+    "updated": "2021-03-17T18:55:32.872885",
+    "uploaded": "2017-12-14T01:48:43.855709",
+    "url_duckduckgo": "https://www.astrobin.com/325692/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325692/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325692/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325692/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325692/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325692/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325692/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/09ea851c-fe66-4333-8fc4-7d8af97aedb2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/09ea851c-fe66-4333-8fc4-7d8af97aedb2-1513216242.jpg",
+    "url_thumb": "https://www.astrobin.com/325692/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 521,
+    "w": 2350
+}

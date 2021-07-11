@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "60.873",
+    "description": "",
+    "h": 1359,
+    "hash": null,
+    "id": 335352,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "53.937",
+    "pixscale": "0.486",
+    "published": "2018-02-25T23:51:43.888057",
+    "ra": "61.723",
+    "radius": "0.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335352/",
+    "revisions": [
+        "/api/v1/imagerevision/138229/"
+    ],
+    "subjects": [
+        "NGC 1501"
+    ],
+    "title": "NGC 1501 - O3-RGB",
+    "updated": "2021-04-14T18:35:22.775070",
+    "uploaded": "2018-02-25T23:47:28.113834",
+    "url_duckduckgo": "https://www.astrobin.com/335352/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335352/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335352/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335352/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335352/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335352/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335352/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/24dc99d3-c2c4-4ff1-84b4-68d280b7509d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/24dc99d3-c2c4-4ff1-84b4-68d280b7509d-1519603866.jpg",
+    "url_thumb": "https://www.astrobin.com/335352/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 306,
+    "w": 1824
+}

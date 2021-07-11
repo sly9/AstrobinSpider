@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "-37.030",
+    "description": "Corona Australis\r\nTS 115/800\r\nZWO ASI 1600 MONO COOLED\r\nLRGB\r\nL: 51x300\r\nRGB: ( 40 minutes each channel)\r\nTotal: 375 Minutes (6 hours and 15 minutes)\r\nDSS + PIXINSIGHT + PS6\r\n",
+    "h": 1019,
+    "hash": null,
+    "id": 308052,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "301.909",
+    "pixscale": "4.009",
+    "published": "2017-08-21T00:59:36.727805",
+    "ra": "285.265",
+    "radius": "0.901",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/308052/",
+    "revisions": [
+        "/api/v1/imagerevision/212275/"
+    ],
+    "subjects": [
+        "NGC 6723",
+        "NGC 6726",
+        "The star εCrA"
+    ],
+    "title": "Corona Australis NGC 6729",
+    "updated": "2021-03-17T20:07:53.069453",
+    "uploaded": "2017-08-21T01:59:37.360690",
+    "url_duckduckgo": "https://www.astrobin.com/308052/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/308052/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/308052/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/308052/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/308052/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/308052/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/308052/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b84efa11-3b80-428a-a109-78ffff482086.jpg",
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/308052/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 574,
+    "w": 1258
+}

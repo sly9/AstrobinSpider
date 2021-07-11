@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 18,
+    "data_source": "TRAVELLER",
+    "dec": "13.273",
+    "description": "a closeup of the Leo triplet, using my Lacerta 10\" f/4 Photonewton and ZWO ASI1600MMPro (gen.1, gain zero) and Astronomik Deepsky LRGB filters. The sharpest L frames were selected and stacked separately for the highlight details, while (almost) all frames were used to get the weak signal and best background.",
+    "h": 3520,
+    "hash": null,
+    "id": 406190,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 355,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810093/"
+    ],
+    "orientation": "64.696",
+    "pixscale": "0.784",
+    "published": "2019-05-16T20:09:34.532510",
+    "ra": "170.006",
+    "radius": "0.635",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/406190/",
+    "revisions": [
+        "/api/v1/imagerevision/179860/",
+        "/api/v1/imagerevision/179861/",
+        "/api/v1/imagerevision/179862/",
+        "/api/v1/imagerevision/179863/"
+    ],
+    "subjects": [
+        "IC2745",
+        "Leo Triplet",
+        "M 65",
+        "M 66",
+        "M65",
+        "M66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628",
+        "NGC3628"
+    ],
+    "title": "Leo Triplet closeup",
+    "updated": "2021-04-22T19:08:26.368682",
+    "uploaded": "2019-05-16T21:09:34.845549",
+    "url_duckduckgo": "https://www.astrobin.com/406190/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406190/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406190/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406190/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406190/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406190/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406190/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/77da5f30-6c57-4521-9215-8548ca02c871.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/77da5f30-6c57-4521-9215-8548ca02c871-1582080127.png",
+    "url_thumb": "https://www.astrobin.com/406190/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 3379,
+    "w": 4656
+}

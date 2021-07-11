@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "22.642",
+    "description": "Selecting Jellyfish as the target for my newly acquired TEC140 turned out a bit challenge. The bright star caused microlensing and reflection, exposed weakness from ASI1600. Luckily these issues could be taken care in post processing.  Other than that, I am very happy with my new toy. Stars are perfectly round, image is sharp.\r\n\r\nHa: 38x600s\r\nO3: 60x600s\r\nS2: 42x600s\r\nR/G/B: 20x60s each",
+    "h": 2400,
+    "hash": "qbjd1s",
+    "id": 448462,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 140 APO ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 86,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810896/"
+    ],
+    "orientation": "300.033",
+    "pixscale": "2.001",
+    "published": "2020-01-10T06:34:24.444266",
+    "ra": "94.385",
+    "radius": "0.833",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/448462/",
+    "revisions": [],
+    "subjects": [
+        "Gem A",
+        "IC 443",
+        "IC 444",
+        "The star Propus (ηGem)"
+    ],
+    "title": "IC443  Jellyfish",
+    "updated": "2021-03-21T09:30:25.638440",
+    "uploaded": "2020-01-10T06:34:25.288338",
+    "url_duckduckgo": "https://www.astrobin.com/qbjd1s/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qbjd1s/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qbjd1s/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qbjd1s/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qbjd1s/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qbjd1s/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qbjd1s/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27942/2020/dab95269-9ae5-45e9-a1f7-9c75415e7a63.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27942/2020/dab95269-9ae5-45e9-a1f7-9c75415e7a63-1586473082.jpg",
+    "url_thumb": "https://www.astrobin.com/qbjd1s/0/rawthumb/thumb/",
+    "user": "weili616",
+    "views": 306,
+    "w": 1795
+}

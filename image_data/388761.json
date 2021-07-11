@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "68.089",
+    "description": "",
+    "h": 2870,
+    "hash": null,
+    "id": 388761,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED - 150mm f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805897/"
+    ],
+    "orientation": "181.301",
+    "pixscale": "0.731",
+    "published": "2019-02-01T15:35:22.345972",
+    "ra": "56.596",
+    "radius": "0.503",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/388761/",
+    "revisions": [
+        "/api/v1/imagerevision/169610/"
+    ],
+    "subjects": [
+        "IC 342"
+    ],
+    "title": "IC 342",
+    "updated": "2021-03-17T12:16:33.416062",
+    "uploaded": "2019-02-01T15:35:22.508410",
+    "url_duckduckgo": "https://www.astrobin.com/388761/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388761/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388761/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388761/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388761/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388761/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388761/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19155/2019/681b9098-aaa4-4fc4-b090-d99d2d63bb34.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19155/2019/681b9098-aaa4-4fc4-b090-d99d2d63bb34-1582578625.jpg",
+    "url_thumb": "https://www.astrobin.com/388761/0/rawthumb/thumb/",
+    "user": "flywaldo@gmail.com",
+    "views": 213,
+    "w": 4034
+}

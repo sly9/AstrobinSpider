@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "68.955",
+    "description": "",
+    "h": 2504,
+    "hash": null,
+    "id": 277006,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FQS 106 EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "119.624",
+    "pixscale": "2.097",
+    "published": "2016-12-23T06:56:02.658489",
+    "ra": "43.107",
+    "radius": "1.212",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277006/",
+    "revisions": [
+        "/api/v1/imagerevision/108248/",
+        "/api/v1/imagerevision/108687/"
+    ],
+    "subjects": [],
+    "title": "vDB9_LRGB",
+    "updated": "2021-03-17T22:11:57.995410",
+    "uploaded": "2016-12-23T06:56:03.191004",
+    "url_duckduckgo": "https://www.astrobin.com/277006/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277006/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277006/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277006/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277006/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277006/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277006/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14300/2016/896541f3-2c0b-445d-8a5f-0d7357a964f8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14300/2016/896541f3-2c0b-445d-8a5f-0d7357a964f8-1582486418.jpg",
+    "url_thumb": "https://www.astrobin.com/277006/0/rawthumb/thumb/",
+    "user": "EZM42",
+    "views": 93,
+    "w": 3326
+}

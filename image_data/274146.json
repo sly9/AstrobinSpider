@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "Seeing 3.13 arc/sec",
+    "h": 2074,
+    "hash": null,
+    "id": 274146,
+    "imaging_cameras": [
+        "QSI 683 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FS-128"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798261/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2016-11-30T14:22:15.697286",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/274146/",
+    "revisions": [
+        "/api/v1/imagerevision/105289/",
+        "/api/v1/imagerevision/106331/",
+        "/api/v1/imagerevision/119100/",
+        "/api/v1/imagerevision/119188/"
+    ],
+    "subjects": [],
+    "title": "NGC 891",
+    "updated": "2021-03-17T22:23:05.715626",
+    "uploaded": "2016-11-30T14:22:16.199069",
+    "url_duckduckgo": "https://www.astrobin.com/274146/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/274146/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/274146/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/274146/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/274146/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/274146/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/274146/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/274146/0/rawthumb/thumb/",
+    "user": "zoyah",
+    "views": 151,
+    "w": 3061
+}

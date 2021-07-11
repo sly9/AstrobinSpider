@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 17,
+    "data_source": "UNSET",
+    "dec": "59.977",
+    "description": "This image shows the Flying Bat Nebula (aka SH2-129, colored in red) enveloping the Squid Nebula (aka OU4, colored in blue). Both nebulae are very faint and required a good deal of exposure time to get a reasonable integration (particularly OU4, which could have easily used another 30 hours!). \r\n\r\nI knew going in that this target was faint and tough to process... but what struck me during intermediate processing of the data was just how *distinct* these two nebulae are in narrowband - there's actually very little overlap between the Ha and OIII. It was almost like processing two completely different images and then trying to merge them together, very interesting! I think I processed this a dozen times before I finally broke down and used the tonemapping technique to finally get a result that I was satisfied with. Go go tonemapping - it was definitely more work (and I had to step out of my Photoshop comfort zone), but I won't resist it so much on future images! :-)",
+    "h": 2152,
+    "hash": null,
+    "id": 320880,
+    "imaging_cameras": [
+        "Atik One"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics STAR 71"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "269.705",
+    "pixscale": "2.651",
+    "published": "2017-11-09T15:27:28.691857",
+    "ra": "318.188",
+    "radius": "1.272",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320880/",
+    "revisions": [
+        "/api/v1/imagerevision/129506/"
+    ],
+    "subjects": [],
+    "title": "Flying Bat and Squid Nebulae, SH2-129 & OU4 (HaOIIIRGB)",
+    "updated": "2021-03-17T19:15:48.612098",
+    "uploaded": "2017-11-09T14:51:26.979111",
+    "url_duckduckgo": "https://www.astrobin.com/320880/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320880/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320880/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320880/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320880/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320880/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320880/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13286/2017/c4d9c504-6518-4215-b3d5-bb64b41d943e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13286/2017/c4d9c504-6518-4215-b3d5-bb64b41d943e-1582523537.png",
+    "url_thumb": "https://www.astrobin.com/320880/0/rawthumb/thumb/",
+    "user": "qbool",
+    "views": 718,
+    "w": 2701
+}

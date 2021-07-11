@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.424",
+    "description": "SkyEyE Observatory, Extremadura, Spain\r\nSHO script\r\nR=HA+SII\r\nG=HA+OII\r\nB=OIII",
+    "h": 1454,
+    "hash": null,
+    "id": 364996,
+    "imaging_cameras": [
+        "G3-16200"
+    ],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "262.618",
+    "pixscale": "4.235",
+    "published": "2018-09-05T16:55:18.944441",
+    "ra": "0.525",
+    "radius": "1.505",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/364996/",
+    "revisions": [
+        "/api/v1/imagerevision/219269/"
+    ],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "NGC7822",
+    "updated": "2021-03-17T14:08:58.879205",
+    "uploaded": "2018-09-05T17:55:19.340195",
+    "url_duckduckgo": "https://www.astrobin.com/364996/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/364996/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/364996/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/364996/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/364996/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/364996/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/364996/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1cc3608e-2cb9-46ea-82eb-2530707efe8e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1cc3608e-2cb9-46ea-82eb-2530707efe8e-1536170340.png",
+    "url_thumb": "https://www.astrobin.com/364996/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 378,
+    "w": 1824
+}

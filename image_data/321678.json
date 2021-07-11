@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "31.415",
+    "description": "This is the first publication from a fresh new team composed by David Attié, Didier Rediger-Lizlov and Stefan Schramm. Didier is located in France @ Paris,  David and Stephan are in Abu Dhabi (United Arab Emirates).\r\nThe remote observatory is located in Fregenal de la Sierra,  South of Spain: we are renting a place in the remote telescope hosting service \"e-Eye\".\r\n\r\nAcquisition and processing are a complete team collaboration.\r\n\r\nFor our first light we chose an object that we found very aesthetic but definitely not easy to process.\r\n\r\nThe acquisition has been done from 25th of October 2017 to 30th of October 2017",
+    "h": 1819,
+    "hash": null,
+    "id": 321678,
+    "imaging_cameras": [
+        "Moravian Instruments G2-4000"
+    ],
+    "imaging_telescopes": [
+        "ALTAIR Astro 130 EDT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 151,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808057/"
+    ],
+    "orientation": "185.296",
+    "pixscale": "1.653",
+    "published": "2017-11-15T17:37:28.187888",
+    "ra": "52.324",
+    "radius": "0.661",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/321678/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "NGC 1333 : First light from our new remote observatory @e-Eye, Spain",
+    "updated": "2021-04-27T09:17:52.953043",
+    "uploaded": "2017-11-15T15:51:27.039079",
+    "url_duckduckgo": "https://www.astrobin.com/321678/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/321678/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/321678/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/321678/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/321678/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/321678/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/321678/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/86270ff8-5de0-4aae-a7de-1f3846ee5f42.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/86270ff8-5de0-4aae-a7de-1f3846ee5f42-1510762152.png",
+    "url_thumb": "https://www.astrobin.com/321678/0/rawthumb/thumb/",
+    "user": "DDS_Observatory",
+    "views": 729,
+    "w": 1824
+}

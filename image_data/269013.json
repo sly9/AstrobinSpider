@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "40.843",
+    "description": "NGC 7640 is a medium size but dim galaxy in Camelopardalis. It has a low surface brightness, and the lack of symmetry in the arms shows signs of interaction with another galaxy.\r\n\r\nI have posted two versions - in the first, I removed any luminosity gradient in PixInsight. In the second, I left it in - a version of this galaxy by [Bob Franke](http://bf-astro.com/ngc7640/ngc7640.htm) shows IFN in the same areas I was seeing the gradient - but of course it might just be a gradient :).",
+    "h": 2032,
+    "hash": null,
+    "id": 269013,
+    "imaging_cameras": [
+        "Atik 460 EX"
+    ],
+    "imaging_telescopes": [
+        "Ian King Ikharos 8\" RC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798545/"
+    ],
+    "orientation": "359.775",
+    "pixscale": "0.577",
+    "published": "2016-10-21T18:02:20.133071",
+    "ra": "350.530",
+    "radius": "0.266",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269013/",
+    "revisions": [
+        "/api/v1/imagerevision/102571/"
+    ],
+    "subjects": [
+        "NGC 7640",
+        "NGC7640"
+    ],
+    "title": "NGC 7640",
+    "updated": "2021-03-17T22:41:03.518069",
+    "uploaded": "2016-10-21T19:02:20.133071",
+    "url_duckduckgo": "https://www.astrobin.com/269013/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269013/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269013/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269013/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269013/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269013/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269013/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1938/2016/1f7b697a-2be1-432f-9f52-b3116900570a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1938/2016/1f7b697a-2be1-432f-9f52-b3116900570a-1582521604.jpg",
+    "url_thumb": "https://www.astrobin.com/269013/0/rawthumb/thumb/",
+    "user": "mcgillca",
+    "views": 749,
+    "w": 2620
+}

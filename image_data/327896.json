@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 37,
+    "data_source": "UNSET",
+    "dec": "0.146",
+    "description": "M78 is a reflection nebula that's a part of the Orion Molecular Cloud complex.  This area is a complex combination of reflection nebula and dark dust lanes and it's a region that I've wanted to image for many years.  Now that I have a good view of the southern sky, it was finally possible.  Unfortunately, mediocre seeing and occasional windy nights through the new moon cycle made it tough to accumulate enough high quality images to finish this image.  I would have liked 1.5 x- 2x  as much data but the conditions just wouldn't cooperate (at least for now.)  Correctly color calibrating this image was particularly challenging because blue light from many of the stars in this region is filtered out so that they appear more red than they would in open space.  Photometric calibration simply doesn't work well.  I tried virtually every reference standard available before simply using the balance determined by the filters themselves (i.e. no calibration other than background neutralization.)  Maybe I'll gather more data on this one to try to clean it up a bit but for now, I think that it's a pretty good start.\r\n\r\nAs always, C&C is welcome so let me know what you think.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 327896,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 316,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.807",
+    "pixscale": "0.476",
+    "published": "2018-01-01T01:50:13.141035",
+    "ra": "86.703",
+    "radius": "0.374",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327896/",
+    "revisions": [
+        "/api/v1/imagerevision/133766/",
+        "/api/v1/imagerevision/133877/",
+        "/api/v1/imagerevision/133934/"
+    ],
+    "subjects": [
+        "M 78",
+        "M78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071",
+        "NGC2064",
+        "NGC2067",
+        "NGC2071",
+        "VdB59",
+        "VdB60"
+    ],
+    "title": "M78 - Another Beautiful Reflection Nebula in Orion",
+    "updated": "2021-03-31T14:05:31.250338",
+    "uploaded": "2018-01-01T00:32:17.079801",
+    "url_duckduckgo": "https://www.astrobin.com/327896/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327896/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327896/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327896/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327896/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327896/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327896/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/140c76d6-b6c2-40e4-af49-6114c410d78c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/140c76d6-b6c2-40e4-af49-6114c410d78c-1514768060.jpg",
+    "url_thumb": "https://www.astrobin.com/327896/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 2041,
+    "w": 1824
+}

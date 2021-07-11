@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is 21.5 minutes of Jupiter in the red channel that I captured last year (9 July 2018).  The raw data has been sitting in a drawer piled with 2TB and 4TB hard drives full of Jupiter and Saturn captures from last year.  Now during idle time when DSO imaging I processes my accumulated planetary data.\r\n\r\nIn the capture the Great Red Spot is rotating off the limb to the right.  (The true rotation is left to right, the pause is at the end). North is up. Some clouds appear to be floating above others as the planet rotates. The approach is to attempt a natural realistic photographic quality and taking it very easy on wavelet processing.  I try to be consistent, systematic and minimalistic in processing.\r\n\r\nMany thanks for the great Astrobin community and those titans who labored hard to generate  the indispensable  software.\r\n\r\n<b>Technobabble (Original Version)</b>\r\n\r\nStrictly this was not lucky imaging because I used every frame.  As it was, the amount of processing time and effort was huge. Stacking was just straight averaging using WinJUPOS \"derotation of video streams\" applied to a 5 minute sliding (rectangular) video window generated from PIPP. The sliding window shifts by 30 seconds to generate each output frame.  Because of Jupiter's fast rotation one can see rotation even after 20 seconds(†).  Note that two parts of the final video more than 10 minutes apart are completely independent, which is a form of cross-validation.  There is no global Jupiter map done here, just sequential local (sliding) processing, which is at the mercy of the consistency of the seeing conditions. Doing \"unlucky\" imaging gives softer results but more dynamic range (realism).\r\n\r\n<b>Technobabble (Final Version)</b>\r\nThis version I used PIPP to keep 80% of the frames for each output movie frame, which helped bring out more detail (discarded junk frames). The original just used a straight average and light wavelet processing.\r\n\r\nScope=LX200GPS\r\nCamera=ZWO ASI183MM Pro\r\nFilter=R\r\nDiameter=40.44\"\r\nMagnitude=-2.25\r\nCMI=151.6° CMII=359.7° CMIII=240.6°  (during mid of capture)\r\nFocalLength=6050mm (F/23)\r\nResolution=0.08\"\r\nDate=090718\r\nStart(UT)=083203.763\r\nMid(UT)=083933.772\r\nEnd(UT)=084703.781\r\n\r\n(†) The interval 20 seconds is at the low end of recommended integration times of 30-120 seconds with 60 seconds integration being a common recommendation when imaging Jupiter.  However, some of this overestimation of integration time is due to the dependence on Autostakkert which, because of the way it does spatially localized processing, can alleviate the blurring due to limited amounts of rotation (even for up to 180 seconds integration). For this type of movie result Autostakkert is not recommended (because it would cause local spatial anomalies between adjacent frames) and even lucky imaging is not strictly recommended (because it would cause local temporal anomalies between adjacent frames).  Well, in my view anyway.",
+    "h": 608,
+    "hash": null,
+    "id": 421384,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200GPS 10\""
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811056/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-08-23T15:35:27.956615",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/421384/",
+    "revisions": [
+        "/api/v1/imagerevision/193170/"
+    ],
+    "subjects": [],
+    "title": "Jupiter from my spaceship",
+    "updated": "2021-03-31T15:28:29.503533",
+    "uploaded": "2019-08-18T00:09:29.301263",
+    "url_duckduckgo": "https://www.astrobin.com/421384/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/421384/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/421384/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/421384/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/421384/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/421384/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/421384/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/421384/0/rawthumb/thumb/",
+    "user": "astrod",
+    "views": 166,
+    "w": 680
+}

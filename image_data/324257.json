@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "31.810",
+    "description": "I've  imaged this area before with a wider field and thought it would be interesting with a bit more focal length.  I've recently acquired a .6x focal reducer/flattener (Primalucelab) for my AT80EDT refractor and smallish sensor Atik 460ex as I wanted to get a bit wider field than the usual .8x.  The reducer does have issues with elongated stars in the corners so either my spacing isn't quite right or more likely, it just doesn't work well out to the corners as the documentation does say it's only flat for 11-14mm diagonal.   I cheated on the final image by rounding the stars in the corners thus I included the unmodified lum master.  Colors came out a bit different than other images of this area as there was a bit more blue reflection nebula and the dark nebula at the center came out nearly black.  L 32x150s, RGB 12x150s 2x2 binned.",
+    "h": 1450,
+    "hash": null,
+    "id": 324257,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "181.263",
+    "pixscale": "3.181",
+    "published": "2017-12-01T03:37:42.666670",
+    "ra": "55.111",
+    "radius": "1.458",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/324257/",
+    "revisions": [
+        "/api/v1/imagerevision/131555/",
+        "/api/v1/imagerevision/131751/"
+    ],
+    "subjects": [
+        "IC 348",
+        "The star οPer"
+    ],
+    "title": "Ced 18 and IC348",
+    "updated": "2021-03-17T19:01:28.661775",
+    "uploaded": "2017-12-01T03:02:23.778138",
+    "url_duckduckgo": "https://www.astrobin.com/324257/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324257/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324257/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324257/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324257/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324257/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324257/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2017/ca8222e1-8e0a-48b7-8c21-4a1658a901a1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ca8222e1-8e0a-48b7-8c21-4a1658a901a1-1512099371.jpg",
+    "url_thumb": "https://www.astrobin.com/324257/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 284,
+    "w": 1824
+}

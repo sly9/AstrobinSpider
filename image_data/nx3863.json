@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.496",
+    "description": "LRGB",
+    "h": 2386,
+    "hash": "nx3863",
+    "id": 465305,
+    "imaging_cameras": [
+        "Moravian Instrument G2-8300"
+    ],
+    "imaging_telescopes": [
+        "Vixen VC200L Visac"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812841/"
+    ],
+    "orientation": "90.023",
+    "pixscale": "0.856",
+    "published": "2020-03-14T16:41:15.667110",
+    "ra": "143.044",
+    "radius": "0.480",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/465305/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903"
+    ],
+    "title": "NGC 2903",
+    "updated": "2021-03-17T04:15:46.662375",
+    "uploaded": "2020-03-14T16:41:16.081520",
+    "url_duckduckgo": "https://www.astrobin.com/nx3863/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nx3863/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nx3863/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nx3863/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nx3863/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nx3863/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nx3863/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28079/2020/dde25aef-2c21-487a-894a-df09de782be9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28079/2020/dde25aef-2c21-487a-894a-df09de782be9-1584204405.jpg",
+    "url_thumb": "https://www.astrobin.com/nx3863/0/rawthumb/thumb/",
+    "user": "AstroGearTH",
+    "views": 144,
+    "w": 3256
+}

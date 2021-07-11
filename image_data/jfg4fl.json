@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "5.035",
+    "description": "This is the Hubble pallet version of the Rosett nebula I shot in early December, with the synthetic Sulphur-II (Red channel) mixed from of 80% H-alpha and 20% Oxygen-3",
+    "h": 3510,
+    "hash": "jfg4fl",
+    "id": 442972,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "SharpStar 107PH"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811361/"
+    ],
+    "orientation": "267.834",
+    "pixscale": "1.117",
+    "published": "2019-12-11T07:18:26.821651",
+    "ra": "97.975",
+    "radius": "0.878",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442972/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "The Rosett Nebula in Hubble Pallet",
+    "updated": "2021-03-17T06:04:48.470183",
+    "uploaded": "2019-12-11T07:18:27.190267",
+    "url_duckduckgo": "https://www.astrobin.com/jfg4fl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jfg4fl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jfg4fl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jfg4fl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jfg4fl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jfg4fl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jfg4fl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18756/2019/c61e5df7-1102-4f80-99a6-4fb4e3789b0f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18756/2019/c61e5df7-1102-4f80-99a6-4fb4e3789b0f-1582286316.png",
+    "url_thumb": "https://www.astrobin.com/jfg4fl/0/rawthumb/thumb/",
+    "user": "D.T.Duong",
+    "views": 199,
+    "w": 4435
+}

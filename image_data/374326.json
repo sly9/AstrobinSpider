@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "60.975",
+    "description": "Exceptionally good seeing reveals great detail :)\r\n\r\nNewton 250/1250 on NEQ-6 + ASI 178MM-C  + Baader LRGB\r\nLRGB composition\r\nL - 1000 x 5 s (gain 82%), unguided\r\nRGB - 300 x 6 s (gain 86%) per channel\r\nOffset -  50\r\n300 darks per channel",
+    "h": 1963,
+    "hash": null,
+    "id": 374326,
+    "imaging_cameras": [
+        "ZWO ASI 178-Cool (mono)"
+    ],
+    "imaging_telescopes": [
+        "Sky Watcher 250/1200 Newtonian Sky Watcher 250/1200 "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 185,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": "111.366",
+    "pixscale": "0.274",
+    "published": "2018-10-29T23:01:12.720964",
+    "ra": "61.703",
+    "radius": "0.130",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/374326/",
+    "revisions": [
+        "/api/v1/imagerevision/160542/",
+        "/api/v1/imagerevision/160568/",
+        "/api/v1/imagerevision/160569/",
+        "/api/v1/imagerevision/160582/"
+    ],
+    "subjects": [
+        "NGC 1501"
+    ],
+    "title": "NGC 1501 - Oyster Nebula",
+    "updated": "2021-03-30T07:48:28.672543",
+    "uploaded": "2018-10-29T22:56:23.548644",
+    "url_duckduckgo": "https://www.astrobin.com/374326/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/374326/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/374326/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/374326/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/374326/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/374326/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/374326/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10412/2018/64f4e4bc-a323-4e22-8e26-234b27253cee.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10412/2018/64f4e4bc-a323-4e22-8e26-234b27253cee-1582540606.jpg",
+    "url_thumb": "https://www.astrobin.com/374326/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 1199,
+    "w": 2775
+}

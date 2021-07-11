@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "27.941",
+    "description": "A widefield Ha/OIII/RGB image of the Simeis 147 (Sh2-240) supernova remnant taken with Rokinon 135mm f2 lens and ZWO ASI1600MM Pro camera over December 2018-April 2019. The lens was riding piggyback on the Stellarvue APO SVA130T triplet mounted on the Orion HDX-110 EQ-G mount.\r\n\r\nThe image is a combination of narrowband (Ha and OIII) and RGB data. The synthetic luminance was produced using Ha, OIII and R data. R and B color channels are a blend of the broadband and narrowband images: R(R and Ha) and B(B and OIII). The narrowband Ha exposures were taken with lens stopped at f2.8 and camera gain 50, while OIII data was accumulated at f2.0 and gain 200. The RGB data was captured at f4.0 and gain 0.\r\n\r\nHa: 43x2000s (@ f2.8, Gain 50, bin1x1)\r\nOIII: 28x600s (@ f2.0, Gain 200, bin1x1)\r\nR: 19x300s (@ f4.0, Gain 0, bin1x1)\r\nG: 30x180s (@ f4.0, Gain 0, bin1x1)\r\nB: 40x180s (@ f4.0, Gain 0, bin1x1)\r\n\r\nTotal exposure: 33.6 hours",
+    "h": 2664,
+    "hash": null,
+    "id": 401747,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Rokinon 135mm f/2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 148,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "0.705",
+    "pixscale": "6.064",
+    "published": "2019-04-19T05:36:34.223527",
+    "ra": "85.462",
+    "radius": "3.515",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/401747/",
+    "revisions": [
+        "/api/v1/imagerevision/212730/"
+    ],
+    "subjects": [
+        "125 Tau",
+        "136 Tau",
+        "PK178-02.1",
+        "PK181+00.1",
+        "Sh2-240",
+        "Sh2-242",
+        "The star 125Tau",
+        "The star 136Tau"
+    ],
+    "title": "Simeis 147 widefield HaOIIIRGB",
+    "updated": "2021-03-17T11:16:50.945286",
+    "uploaded": "2019-04-19T06:09:25.234229",
+    "url_duckduckgo": "https://www.astrobin.com/401747/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/401747/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/401747/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/401747/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/401747/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/401747/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/401747/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/ccfdd5d5-47f1-4f7c-828b-7c79d9a6b3da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/ccfdd5d5-47f1-4f7c-828b-7c79d9a6b3da-1582632463.jpg",
+    "url_thumb": "https://www.astrobin.com/401747/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 1024,
+    "w": 3212
+}

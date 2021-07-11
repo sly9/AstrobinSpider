@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "BiColor Ha Oiii image of NGC 3579\r\n\r\nThis image is intentionally left uncropped to see the full field of the asi-1600.\r\n\r\nNGC 3579 is also known as the Statue of Liberty Nebula - because if you imagine rotating the image 90 degrees clockwise - the dark nebula in the center has somewhat of a resemblance to same.\r\n\r\nThe Ha channel was directly mapped to RGB based on perceptual values for the visual impression of the H-alpha and H-beta lines. Oiii was mapped to a similar RGB for the Oiii line.\r\n\r\nThe Oiii is fairly strong in this nebula so it  was left unscaled compared to Ha and linearly combined with the Ha RGB. The resulting RGB was then stretched using levels in PhotoShop. No other processing, sharpening, or denoising was performed.\r\n\r\nThe image was acquired and stacked using custom software - including automated plate solving, focus, and acquisition of the OAG guidestar by rotation of the Pyxis to the specified angle.",
+    "h": 3520,
+    "hash": null,
+    "id": 338756,
+    "imaging_cameras": [
+        "ASI16000mm-cooled"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804126/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-03-24T07:30:02.916673",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338756/",
+    "revisions": [],
+    "subjects": [],
+    "title": "NGC 3579",
+    "updated": "2021-03-17T16:06:46.513841",
+    "uploaded": "2018-03-24T07:12:12.308500",
+    "url_duckduckgo": "https://www.astrobin.com/338756/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338756/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338756/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338756/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338756/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338756/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338756/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/338756/0/rawthumb/thumb/",
+    "user": "Freestar8n",
+    "views": 645,
+    "w": 4656
+}

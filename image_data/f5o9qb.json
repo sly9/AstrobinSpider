@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "22.432",
+    "description": "",
+    "h": 2667,
+    "hash": "f5o9qb",
+    "id": 424190,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "91.894",
+    "pixscale": "0.591",
+    "published": "2019-09-01T15:14:51.449760",
+    "ra": "5.407",
+    "radius": "0.351",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/424190/",
+    "revisions": [],
+    "subjects": [
+        "IC 1542",
+        "NGC 80",
+        "NGC 82",
+        "NGC 83",
+        "NGC 91"
+    ],
+    "title": "NGC91 Galaxy field",
+    "updated": "2021-03-17T09:27:32.202665",
+    "uploaded": "2019-09-01T16:14:51.663274",
+    "url_duckduckgo": "https://www.astrobin.com/f5o9qb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f5o9qb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f5o9qb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f5o9qb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f5o9qb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f5o9qb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f5o9qb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8e53d6eb-2863-43f9-bf66-40148b4af248.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8e53d6eb-2863-43f9-bf66-40148b4af248-1567354665.jpg",
+    "url_thumb": "https://www.astrobin.com/f5o9qb/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 258,
+    "w": 3340
+}

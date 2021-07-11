@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "58.940",
+    "description": "",
+    "h": 2425,
+    "hash": null,
+    "id": 329413,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804197/"
+    ],
+    "orientation": "316.393",
+    "pixscale": "1.391",
+    "published": "2018-01-14T20:50:48.490205",
+    "ra": "335.044",
+    "radius": "0.784",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329413/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-135"
+    ],
+    "title": "Sh 2-135 HSS",
+    "updated": "2021-03-17T16:49:48.343658",
+    "uploaded": "2018-01-14T20:50:49.235797",
+    "url_duckduckgo": "https://www.astrobin.com/329413/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329413/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329413/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329413/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329413/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329413/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329413/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/35a861b3-576c-4a2a-a3ec-2a250677c030.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/35a861b3-576c-4a2a-a3ec-2a250677c030-1515963285.jpg",
+    "url_thumb": "https://www.astrobin.com/329413/0/rawthumb/thumb/",
+    "user": "pbkoden",
+    "views": 165,
+    "w": 3250
+}

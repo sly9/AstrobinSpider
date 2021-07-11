@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "25.517",
+    "description": "NGC 4725 is a barred spiral galaxy in the constellation Coma Berenices with an apparent magnitude of 9.2 and an apparent diameter of 11.0 arc minutes.",
+    "h": 3288,
+    "hash": null,
+    "id": 295274,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "147.173",
+    "pixscale": "0.551",
+    "published": "2017-05-11T13:45:59.874300",
+    "ra": "192.587",
+    "radius": "0.383",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295274/",
+    "revisions": [
+        "/api/v1/imagerevision/116247/",
+        "/api/v1/imagerevision/116263/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725"
+    ],
+    "title": "NGC 4725 @DSW",
+    "updated": "2021-03-17T20:57:31.980195",
+    "uploaded": "2017-05-11T14:39:09.630148",
+    "url_duckduckgo": "https://www.astrobin.com/295274/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295274/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295274/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295274/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295274/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295274/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295274/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2017/02af3cd4-4ee4-414b-b4fc-1cb5c588fe08.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2017/02af3cd4-4ee4-414b-b4fc-1cb5c588fe08-1582616231.jpg",
+    "url_thumb": "https://www.astrobin.com/295274/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 293,
+    "w": 3786
+}

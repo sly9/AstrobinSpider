@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "25.609",
+    "description": "First image of the galaxy season.. 2017. After loading the RC8 and waiting for some clear skies, I finally got 3 nights and totally mucked it up with multiple mistakes.. not tightening the auto focuser clutch, bad PA, messed up flats.. and lost all data. This is basically salvaged set consisting of about 45x5 minute luminance from that set. Hoping to get more data\r\n\r\nVersion B: 132x5 minute.  Shot with pretty bad seeing and high clouds. The background did clean up a bit better than version A",
+    "h": 1236,
+    "hash": null,
+    "id": 281273,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "116.258",
+    "pixscale": "1.405",
+    "published": "2017-01-25T03:06:31.391970",
+    "ra": "192.675",
+    "radius": "0.394",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/281273/",
+    "revisions": [
+        "/api/v1/imagerevision/109169/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725",
+        "NGC 4747",
+        "NGC4712",
+        "NGC4725",
+        "NGC4747"
+    ],
+    "title": "NGC4725 - WIP",
+    "updated": "2021-03-17T21:55:23.257340",
+    "uploaded": "2017-01-25T03:06:32.025836",
+    "url_duckduckgo": "https://www.astrobin.com/281273/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/281273/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/281273/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/281273/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/281273/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/281273/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/281273/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/cf366561-54b7-476c-9ff8-87e577b094ee.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/cf366561-54b7-476c-9ff8-87e577b094ee-1485313781.png",
+    "url_thumb": "https://www.astrobin.com/281273/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 464,
+    "w": 1600
+}

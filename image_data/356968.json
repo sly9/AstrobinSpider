@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "38.326",
+    "description": "The Crescent Nebula and the fainter Soap Bubble Nebula in bicolor captured from the backyard.\r\n\r\nThis target was actually a bit tricky to process. The outer OIII shell is iconic and should be brought out. However, I noticed it reduces the contrast of the more interesting HA structures underneath quite a bit. Thus, I chose to bring out the OIII shell just enough so that we can see it is there and still preserving enough contrast to show off the HA regions. Still not sure if this is a good decision since it is my first time capturing and processing this object.",
+    "h": 3503,
+    "hash": null,
+    "id": 356968,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 135,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806503/"
+    ],
+    "orientation": "0.132",
+    "pixscale": "1.107",
+    "published": "2018-07-24T09:15:33.434134",
+    "ra": "303.043",
+    "radius": "0.894",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/356968/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 - The Crescent Nebula",
+    "updated": "2021-07-07T03:43:24.068957",
+    "uploaded": "2018-07-21T02:46:24.602783",
+    "url_duckduckgo": "https://www.astrobin.com/356968/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/356968/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/356968/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/356968/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/356968/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/356968/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/356968/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20633/2020/cc653c2d-4066-4a57-b3ff-817e5bc3388d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20633/2020/cc653c2d-4066-4a57-b3ff-817e5bc3388d-1582382464.jpg",
+    "url_thumb": "https://www.astrobin.com/356968/0/rawthumb/thumb/",
+    "user": "PlanetOrion",
+    "views": 1684,
+    "w": 4640
+}

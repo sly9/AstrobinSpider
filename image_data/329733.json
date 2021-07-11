@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-6.056",
+    "description": "Another try with the ASI071 color camera.    I  tried NGC2170 previously with a mono camera but didn't really like the result as I didn't acquire enough subs to really bring out the colors and dust.  I've found that it takes a lot of subs to get a nice image using the color camera and this image had 65 250s subs.   Another goal was to bring out some of the surrounding dust in the area as there is quite a bit.  One problem with the image is some poor stars in the upper left corner as I have a bit of tilt due to the focuser.",
+    "h": 1234,
+    "hash": null,
+    "id": 329733,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "267.665",
+    "pixscale": "3.491",
+    "published": "2018-01-17T03:43:26.829143",
+    "ra": "92.208",
+    "radius": "1.380",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329733/",
+    "revisions": [
+        "/api/v1/imagerevision/135265/"
+    ],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC 2185"
+    ],
+    "title": "NGC 2170, NGC 2182, NGC 2184, and assorted dark nebulae",
+    "updated": "2021-03-17T16:48:25.893583",
+    "uploaded": "2018-01-17T03:32:37.752138",
+    "url_duckduckgo": "https://www.astrobin.com/329733/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329733/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329733/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329733/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329733/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329733/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329733/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2018/28b05309-6882-4dbe-b0be-0c04c4e46dfa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/28b05309-6882-4dbe-b0be-0c04c4e46dfa-1516160588.jpg",
+    "url_thumb": "https://www.astrobin.com/329733/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 830,
+    "w": 1824
+}

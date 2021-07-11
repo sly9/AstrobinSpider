@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 27,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.471",
+    "description": "This goes by many names - I even saw someone call it the Garlic Nebula.  I see a balloon that someone just poked with a needle.  Since this is a supernova remnant it is more likely that the balloon finally reached its breaking point and we are lucky to see the initial breakthrough of the gasses.\r\n\r\nThis is an interesting processing challenge in that it is very faint and the structure of the bubble is very similar in brightness the background (or foreground?) nebulosity.  I found that the SII was relatively stronger in the shell than the background, while the Ha showed less contrast.  So I tried to use the SII to help separate in both color and structure.  \r\n\r\nThis is 110 twenty minute subs of SHO.  Total time almost 37 hours.",
+    "h": 3909,
+    "hash": null,
+    "id": 374494,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 300,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "170.869",
+    "pixscale": "0.728",
+    "published": "2018-10-31T07:07:19.050102",
+    "ra": "359.786",
+    "radius": "0.552",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/374494/",
+    "revisions": [
+        "/api/v1/imagerevision/160631/"
+    ],
+    "subjects": [],
+    "title": "The Popped Balloon (Abell 85 - CTB1 - LBN 576)",
+    "updated": "2021-06-14T22:36:29.568722",
+    "uploaded": "2018-10-31T07:07:19.198623",
+    "url_duckduckgo": "https://www.astrobin.com/374494/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/374494/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/374494/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/374494/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/374494/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/374494/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/374494/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d2c7a734-de6f-490a-b9fa-6aa44e4b7c1d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d2c7a734-de6f-490a-b9fa-6aa44e4b7c1d-1540970533.jpg",
+    "url_thumb": "https://www.astrobin.com/374494/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1799,
+    "w": 3811
+}

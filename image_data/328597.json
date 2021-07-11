@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "22.947",
+    "description": "",
+    "h": 2648,
+    "hash": null,
+    "id": 328597,
+    "imaging_cameras": [
+        "Moravian Instruments G2 8300",
+        "Moravian Instrument G3 11000"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD100F3.8",
+        "TEC 140 TEC140"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808260/"
+    ],
+    "orientation": "89.953",
+    "pixscale": "2.449",
+    "published": "2018-01-07T14:42:44.468821",
+    "ra": "94.745",
+    "radius": "1.607",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328597/",
+    "revisions": [
+        "/api/v1/imagerevision/134261/"
+    ],
+    "subjects": [
+        "IC 443",
+        "IC 444"
+    ],
+    "title": "IC443 The Jellyfish Nebula",
+    "updated": "2021-03-17T16:53:29.837364",
+    "uploaded": "2018-01-07T14:42:44.826831",
+    "url_duckduckgo": "https://www.astrobin.com/328597/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328597/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328597/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328597/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328597/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328597/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328597/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22318/2018/48b9ac0f-2bb5-4280-81c4-cb4cb8204613.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22318/2018/48b9ac0f-2bb5-4280-81c4-cb4cb8204613-1582504107.jpg",
+    "url_thumb": "https://www.astrobin.com/328597/0/rawthumb/thumb/",
+    "user": "Gordon_Wright",
+    "views": 563,
+    "w": 3911
+}

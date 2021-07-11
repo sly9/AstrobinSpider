@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "54.352",
+    "description": "I think I went a little too hard on the deconvolution. Oh well - I'm still learning!",
+    "h": 3150,
+    "hash": null,
+    "id": 395753,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific PN-208/812 Carbon Fiber OTA"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 191,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "89.987",
+    "pixscale": "0.913",
+    "published": "2019-03-15T15:15:43.957730",
+    "ra": "210.818",
+    "radius": "0.707",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395753/",
+    "revisions": [
+        "/api/v1/imagerevision/173438/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5473",
+        "NGC 5477"
+    ],
+    "title": "M101: Pinwheel Galaxy",
+    "updated": "2021-04-03T21:04:21.127347",
+    "uploaded": "2019-03-15T14:57:50.506814",
+    "url_duckduckgo": "https://www.astrobin.com/395753/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395753/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395753/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395753/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395753/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395753/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395753/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/71965f13-42c6-4191-9d1b-5563d9b75274.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/71965f13-42c6-4191-9d1b-5563d9b75274-1582837242.jpg",
+    "url_thumb": "https://www.astrobin.com/395753/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 1484,
+    "w": 4600
+}

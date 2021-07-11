@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "43.135",
+    "description": "Messier 92 (also known as M92, M 92, or NGC 6341) is a globular cluster of stars in the northern constellation of Hercules. It was discovered by Johann Elert Bode in 1777, then published in the Jahrbuch during 1779. The cluster was independently rediscovered by Charles Messier on March 18, 1781 and added as the 92nd entry in his catalogue. M92 is at a distance of about 26,700 light-years away from Earth.\r\n\r\nM92 is one of the brighter globular clusters in the northern hemisphere, but it is often overlooked by amateur astronomers because of its proximity to the even more spectacular Messier 13. It is visible to the naked eye under very good conditions.\r\n\r\nAmong the Milky Way population of globular clusters, Messier 92 is among the brighter clusters in terms of absolute magnitude. It is also one of the oldest clusters. Messier 92 is located around 16×103 ly (4.9 kpc) above the galactic plane and 33×103 ly (10 kpc) from the Galactic Center. The heliocentric distance of Messier 92 is 26.7×103 ly (8.2 kpc). The half-light radius, or radius containing half of the light emission from the cluster, is 1.09 arcminutes, while the tidal radius is 15.17 arcminutes. It appears only slightly flattened, with the minor axis being about 89% ± 3% as large as the major axis.\r\nCharacteristic of other globulars, Messier 92 has a very low abundance of elements other than hydrogen and helium; what astronomers term its metallicity. Relative to the Sun, the abundance of iron in the cluster is given by [Fe/H] = –2.29 dex, which equates to only 0.5% of the solar abundance. This puts the estimated age range for the cluster at 14.2 ± 1.2 billion years, or roughly the age of the Universe.\r\n(Wikipedia)",
+    "h": 1536,
+    "hash": null,
+    "id": 368972,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "266.589",
+    "pixscale": "1.181",
+    "published": "2018-09-28T16:37:33.830014",
+    "ra": "259.280",
+    "radius": "0.414",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/368972/",
+    "revisions": [],
+    "subjects": [
+        "M 92",
+        "M92",
+        "NGC 6341",
+        "PGC2220717",
+        "PGC3096541",
+        "PGC59984"
+    ],
+    "title": "M92 Globular Cluster",
+    "updated": "2021-06-29T08:46:45.767454",
+    "uploaded": "2018-09-28T17:28:37.632269",
+    "url_duckduckgo": "https://www.astrobin.com/368972/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/368972/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/368972/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/368972/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/368972/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/368972/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/368972/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2018/4e3e6977-6acc-4b56-a264-6e80054b3a51.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2018/4e3e6977-6acc-4b56-a264-6e80054b3a51-1582590909.jpg",
+    "url_thumb": "https://www.astrobin.com/368972/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 257,
+    "w": 2000
+}

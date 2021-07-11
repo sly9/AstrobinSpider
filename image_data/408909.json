@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "21.586",
+    "description": "Just seeing what an 8 inch scope can do on an extremely tiny mag 16 galaxy under Bortle 7-8 skies. It's a super interesting target but detail is basically non-existent. EDIT: I forgot to mention that this is the farthest 'main object' I've imaged - it's over 600 million ly away.\r\n\r\nWhile ring galaxies aren’t unknown, Hoag’s Object (PGC54559) is particularly interesting as the older core is perfectly spherical and the ring lacks an arm-like structure. Ring galaxies generally arise through collisions – a smaller galaxy will crash into a spiral galaxy at high velocity pushing stars outwards and leaving an outer ring separated from the remainder of the core. But with the perfectly spherical shape of Hoag’s Object, the complete lack of any trace of a galaxy collision and with the stars in the ring being much younger than the stars in the core, it doesn’t look like it formed that way. It’s on just about every list of the ‘strangest objects in the universe’ and it’s still unknown how a galaxy like this could have formed.",
+    "h": 2200,
+    "hash": null,
+    "id": 408909,
+    "imaging_cameras": [
+        "QHYCCD 183"
+    ],
+    "imaging_telescopes": [
+        "TPO/GSO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 167,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "271.069",
+    "pixscale": "0.569",
+    "published": "2019-06-05T14:22:37.804863",
+    "ra": "229.309",
+    "radius": "0.310",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408909/",
+    "revisions": [
+        "/api/v1/imagerevision/181708/",
+        "/api/v1/imagerevision/181709/"
+    ],
+    "subjects": [],
+    "title": "Hoag's Object (PGC 54559)",
+    "updated": "2021-06-07T08:39:12.648422",
+    "uploaded": "2019-06-05T15:05:11.801439",
+    "url_duckduckgo": "https://www.astrobin.com/408909/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408909/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408909/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408909/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408909/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408909/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408909/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/70e3f9cc-32eb-47f3-b530-8ed30e7065e9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/70e3f9cc-32eb-47f3-b530-8ed30e7065e9-1559750612.png",
+    "url_thumb": "https://www.astrobin.com/408909/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 1731,
+    "w": 3250
+}

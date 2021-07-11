@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "61.461",
+    "description": "",
+    "h": 3348,
+    "hash": null,
+    "id": 316137,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Synta BK P150750"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805180/"
+    ],
+    "orientation": "3.488",
+    "pixscale": "1.036",
+    "published": "2017-10-11T08:35:57.371908",
+    "ra": "38.192",
+    "radius": "0.805",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316137/",
+    "revisions": [
+        "/api/v1/imagerevision/127108/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC 1805, bicolor",
+    "updated": "2021-03-17T19:35:18.960357",
+    "uploaded": "2017-10-11T09:35:58.840475",
+    "url_duckduckgo": "https://www.astrobin.com/316137/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316137/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316137/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316137/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316137/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316137/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316137/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16701/2017/c3516ed8-3cb4-4f97-81c1-f637ab3f0cdf.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/16701/2017/c3516ed8-3cb4-4f97-81c1-f637ab3f0cdf-1582529712.png",
+    "url_thumb": "https://www.astrobin.com/316137/0/rawthumb/thumb/",
+    "user": "Rakshas",
+    "views": 312,
+    "w": 4482
+}

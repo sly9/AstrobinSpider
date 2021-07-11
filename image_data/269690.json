@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "61.167",
+    "description": "This is my very FIRST narrowband image using only Ha, O3, and S2 filters.  I think with a little practice in processing, it could be great.  It's good, but not great the way it is now.  Have to do better processing on the stars and the colors.  But with my first narrowband, I'm pleased.",
+    "h": 2478,
+    "hash": null,
+    "id": 269690,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5 Takahashi FSQ 106ED "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801785/"
+    ],
+    "orientation": "272.489",
+    "pixscale": "2.103",
+    "published": "2016-10-28T18:33:14.648366",
+    "ra": "38.462",
+    "radius": "1.193",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269690/",
+    "revisions": [
+        "/api/v1/imagerevision/103271/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Heart Nebula",
+    "updated": "2021-03-17T22:38:33.968779",
+    "uploaded": "2016-10-28T19:33:14.648366",
+    "url_duckduckgo": "https://www.astrobin.com/269690/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269690/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269690/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269690/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269690/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269690/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269690/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9461/2016/7325b07e-e414-40c0-9ef7-2d4c0ec2314e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9461/2016/7325b07e-e414-40c0-9ef7-2d4c0ec2314e-1582610710.jpg",
+    "url_thumb": "https://www.astrobin.com/269690/0/rawthumb/thumb/",
+    "user": "cpatt1976",
+    "views": 130,
+    "w": 3247
+}

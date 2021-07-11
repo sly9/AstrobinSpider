@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "STARLESS version : with the starless version it is easier to see the small details of the different \"veils\" without all the stars around\r\nDon't hesitate to see the version with the stars ! \r\n\r\n<a href=\"https://astrob.in/0izn1c/0/\"><img src=\"https://astrob.in/0izn1c/0/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n\r\nVela SNR project in Puppis => collaborative work made in collaboration with Fabien Trébuchet , Patrick Delay, and David Néel, thanks to Fabien for the pre-processing and mosaic interation\r\n\r\nMosaic of 4 panels, 746 images in total in HaRGB still a very large field of about 8 ° wide\r\n\r\nTotal 452 subs in Halpha , OIII, et RVB,\r\n- RGB 182 subs@120s -20°C bin 1 gain zero\r\n- Halpha and OIII 270 subs@120s -20°C bin 1 gain 200\r\n\r\n8314x6232 px => soit 5.2° x 3.9°\r\nExposure 28hours 36 minutes",
+    "h": 6232,
+    "hash": "uxo7md",
+    "id": 464525,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "TS Optics Imaging Star 71/347 f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "https://www.sadr.fr/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-03-10T20:08:04.729410",
+    "ra": null,
+    "radius": null,
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/464525/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Vela Super Nova Remnant in Puppis Starless- with SADR Chile",
+    "updated": "2021-03-17T04:19:50.295245",
+    "uploaded": "2020-03-10T20:03:55.732939",
+    "url_duckduckgo": "https://www.astrobin.com/uxo7md/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uxo7md/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uxo7md/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uxo7md/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uxo7md/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uxo7md/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uxo7md/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/uxo7md/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 431,
+    "w": 8314
+}

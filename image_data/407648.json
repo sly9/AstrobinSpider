@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-48.167",
+    "description": "This is a quick shot of a new object for me - NGC 6165.   Only 11x5m in each channel in a single imaging session - but the object is bright enough to see a lot of detail.  Seeing was not great with fwhm's in the low 2\" - so this is reduced 50%.\r\n\r\nColors are based on perceptual responses to Ha, HB and Oiii - with no aesthetic scaling on Oiii.  The only aesthetic choice in this image is the cropping and the stretching (levels in photoshop).  No other processing.\r\n\r\nYou can see that the main nebulosity is primarily Ha emission, while the faint extended envelope is primarily Oiii.",
+    "h": 1560,
+    "hash": null,
+    "id": 407648,
+    "imaging_cameras": [
+        "ASI16000mm-cooled"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804126/"
+    ],
+    "orientation": "10.536",
+    "pixscale": "0.802",
+    "published": "2019-05-28T09:24:18.300052",
+    "ra": "248.555",
+    "radius": "0.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/407648/",
+    "revisions": [],
+    "subjects": [
+        "NGC6164",
+        "NGC6165",
+        "PK336-00.1"
+    ],
+    "title": "NGC 6165 - quick shot in HaOiii with EdgeHD11 f/7 and ASI1600",
+    "updated": "2021-03-17T10:49:07.559240",
+    "uploaded": "2019-05-28T10:15:15.221921",
+    "url_duckduckgo": "https://www.astrobin.com/407648/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/407648/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/407648/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/407648/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/407648/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/407648/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/407648/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14454/2019/2a775b55-f32f-4521-834c-0be69f5f78c4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14454/2019/2a775b55-f32f-4521-834c-0be69f5f78c4-1582600391.jpg",
+    "url_thumb": "https://www.astrobin.com/407648/0/rawthumb/thumb/",
+    "user": "Freestar8n",
+    "views": 185,
+    "w": 1588
+}

@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-0.038",
+    "description": "NGC 3521 (The Bubble Galaxy)\r\nOTA: \t\tTAO 150 175 (f/7.3)\r\nCamera:\tFLI - ML16200\r\nObservatory:     Deep Sky West, Chile\r\nEXPOSURES:\r\n\tRed: \t\t9 x 600 sec.\t\t\t\r\n\tBlue:\t\t14 x 600\r\n\tGreen:\t\t25 x 600\r\n\tLum.:\t\t60 x 600\r\n\t\tTotal exposure ~17 hours\r\nImage Width:\t~2/3 deg\r\nProcessed by Alex Woronow (2019) using PixInsight, Topaz, Aurora HDR\r\n\r\n (Source: largely Wikipedia)\r\nNGC 3521 has be classified as a “flocculent” spiral galaxy, referring to the patchiness of its spiral arms. Apparently, this feature arises because the stellar winds from some recently formed giant stars produce shock waves that compress the surrounding gasses and initiate the gasses’ condensation into additional stars. This has been called, “Infection propagation.”  \r\nNGC 3521 lies about 26.2M light-years from us and is at about 11 magnitude and about 11 arc minutes across (excluding the extended cloud), making it accessible to observers with modest telescopes.000\r\nSomewhat arduous processing procedures (and 60 frames of luminosity!!), have revealed a surrounding halo of stars and dust in this rendition--there even some structure visible.. Thanks DSW!\r\nAlso, notice the very small spiral galaxy at about 4:00 from the galaxy’s center, just outside the cloud. This is PGC 135772. Many other small fuzzy galaxies can be spotted in this image.\r\n\r\nNote: this image is from a test sequence on the image rig executed from New Mexico. The rig is now in N. Chile and taking images of southern-sky objects. Cannot wait until it completes its first images.",
+    "h": 1100,
+    "hash": null,
+    "id": 415285,
+    "imaging_cameras": [
+        "FLI MICROLINE KAF-16200"
+    ],
+    "imaging_telescopes": [
+        "TOA 150 Chile"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "277.911",
+    "pixscale": "2.264",
+    "published": "2019-07-14T14:06:10.462732",
+    "ra": "166.481",
+    "radius": "0.489",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/415285/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3521",
+        "NGC3521"
+    ],
+    "title": "NGC 3121 (Bubble Galaxy)",
+    "updated": "2021-03-17T10:11:40.491341",
+    "uploaded": "2019-07-14T15:06:10.646228",
+    "url_duckduckgo": "https://www.astrobin.com/415285/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/415285/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/415285/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/415285/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/415285/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/415285/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/415285/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32963/2019/b3c1caac-23f3-4cf2-a9b0-759c7afab589.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32963/2019/b3c1caac-23f3-4cf2-a9b0-759c7afab589-1582596856.jpg",
+    "url_thumb": "https://www.astrobin.com/415285/0/rawthumb/thumb/",
+    "user": "Alex_Woronow",
+    "views": 106,
+    "w": 1100
+}

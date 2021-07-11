@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "44.033",
+    "description": "The Pelican nebula done with a modified SHO-AIP in Pixinsight with RGB data from TV85/QHY9M and L, HA, SII, and OIII data from NP127is/QHY16200A.",
+    "h": 1347,
+    "hash": null,
+    "id": 365551,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "QHY9 Monocromo QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Televue TV85",
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "79.428",
+    "pixscale": "0.960",
+    "published": "2018-09-08T19:01:57.150834",
+    "ra": "312.802",
+    "radius": "1.326",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/365551/",
+    "revisions": [
+        "/api/v1/imagerevision/170411/",
+        "/api/v1/imagerevision/170415/",
+        "/api/v1/imagerevision/170436/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC5070 LRGBSHO",
+    "updated": "2021-03-17T14:06:22.458759",
+    "uploaded": "2018-09-08T20:01:57.857751",
+    "url_duckduckgo": "https://www.astrobin.com/365551/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/365551/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/365551/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/365551/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/365551/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/365551/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/365551/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5806/2018/ba5e7ef5-3174-4458-a0c7-5d85122db8f6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ba5e7ef5-3174-4458-a0c7-5d85122db8f6-1536437518.jpg",
+    "url_thumb": "https://www.astrobin.com/365551/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 216,
+    "w": 1824
+}

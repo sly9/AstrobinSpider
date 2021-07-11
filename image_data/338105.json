@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 27,
+    "comments": 20,
+    "data_source": "TRAVELLER",
+    "dec": "42.342",
+    "description": "This is a LRGB of famous edge on spiral NGC891, using Lacerta 10\" f/4 Photonewton and ASI1600MM-cool and Astronomiks Deepsky RGB Filters.  3min subframes at zero gain,  62xL 21xR 18xG 20xB altogether. \r\nDont miss to check the full field for the many field galaxies, some of them are quite interesting if not spectacular! It's good to have a fourthird chip at high res at this filed.\r\nThe bright red star is not Almach Gamma Andromedae, but HD 14771. Good to memorize if you want to find big and weak NGC891 in your Dobsonian!\r\nNorth is left.",
+    "h": 1157,
+    "hash": null,
+    "id": 338105,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 356,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "88.445",
+    "pixscale": "0.786",
+    "published": "2018-03-19T23:34:29.572149",
+    "ra": "35.637",
+    "radius": "0.209",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338105/",
+    "revisions": [
+        "/api/v1/imagerevision/140083/",
+        "/api/v1/imagerevision/140084/"
+    ],
+    "subjects": [
+        "NGC 891",
+        "NGC891"
+    ],
+    "title": "NGC891",
+    "updated": "2021-03-17T16:10:01.590513",
+    "uploaded": "2018-03-19T23:34:32.543075",
+    "url_duckduckgo": "https://www.astrobin.com/338105/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338105/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338105/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338105/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338105/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338105/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338105/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/81083b53-8ef0-463a-9c7a-c0d4c548e0f0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/81083b53-8ef0-463a-9c7a-c0d4c548e0f0-1582612003.png",
+    "url_thumb": "https://www.astrobin.com/338105/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 5048,
+    "w": 1530
+}

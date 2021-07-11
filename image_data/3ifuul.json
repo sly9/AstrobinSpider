@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "-69.530",
+    "description": "Thanks a lot to OlivDeso for the acquisition of a great Luminance 105 subs 300s with the Sadr association setup , Newton 14'' in Chile. I completed the RGB  and a few Halpha with the same setup , and processed the image (Pixinsight and PS).\r\n\r\nNGC 2442 is an intermediate spiral galaxy located in the constellation of Volans (Flying Fish) commonly known as the Meathook Galaxy but also sometimes described as the Cobra and the Mouse ..  I 'd rather prefer this second naming, but choose what you prefer!\r\n\r\n... approximately 67 million light years from the Milky Way. It was discovered by the British astronomer John Herschel in 1834. Herschel twice registered this galaxy the same night, which explains the other inscription (NGC 2443) in the catalog of John Dreyer. Herschel may have observed the southern and northern portions of NGC 2442 and concluded that these were two galaxies.\r\n\r\nAccording to the site \"An Atlas of the Universe\" by Richard Powel, NGC 2442 is the main member of a small group of galaxies that bears his name. The group of NGC 2442 includes the galaxies NGC 2397 and NGC 2434 and NGC 24427. This group is also mentioned in an article by A.M. Garcia published in 19938, but the latter added the galaxy PGC 20690 to it.\r\n\r\nThe brightness class of NGC 2442 is II-III and it has a wide HI line.\r\nThe mouse Galaxy is the \"small\" PGC 21457\r\n\r\n---------------------------------------------\r\nRed 10 subs@120s -20°C bin 2 gain high\r\nBlue 10 subs@120s -20°C bin 2 gain high\r\nGreen 10 subs@120s -20°C bin 2 gain high\r\nLight 105 subs@300s -20°C, gain high\r\nHalpha 3 subs@300s -20°C, gain high",
+    "h": 3406,
+    "hash": "3ifuul",
+    "id": 452190,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 242,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "97.807",
+    "pixscale": "0.695",
+    "published": "2020-01-29T15:59:36.881055",
+    "ra": "114.105",
+    "radius": "0.537",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/452190/",
+    "revisions": [
+        "/api/v1/imagerevision/209726/",
+        "/api/v1/imagerevision/209727/",
+        "/api/v1/imagerevision/209729/"
+    ],
+    "subjects": [
+        "NGC 2434",
+        "NGC 2442",
+        "NGC2434",
+        "NGC2442"
+    ],
+    "title": "NGC2442 The Cobra and the Mouse in Volans - Sadr Chile",
+    "updated": "2021-03-17T05:20:20.062248",
+    "uploaded": "2020-01-29T10:44:12.976727",
+    "url_duckduckgo": "https://www.astrobin.com/3ifuul/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3ifuul/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3ifuul/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3ifuul/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3ifuul/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3ifuul/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3ifuul/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/59fb0e68-0a24-420f-8fb2-36f407ef10d1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/59fb0e68-0a24-420f-8fb2-36f407ef10d1-1582273906.jpg",
+    "url_thumb": "https://www.astrobin.com/3ifuul/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 1795,
+    "w": 4404
+}

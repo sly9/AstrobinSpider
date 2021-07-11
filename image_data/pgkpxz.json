@@ -1,0 +1,71 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "-5.219",
+    "description": "",
+    "h": 3504,
+    "hash": "pgkpxz",
+    "id": 441834,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "TAKAHASHI Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807127/"
+    ],
+    "orientation": "0.565",
+    "pixscale": "2.870",
+    "published": "2019-12-04T14:32:02.544309",
+    "ra": "83.673",
+    "radius": "2.255",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/441834/",
+    "revisions": [
+        "/api/v1/imagerevision/202558/",
+        "/api/v1/imagerevision/217349/"
+    ],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "M 43",
+        "NGC 1973",
+        "NGC 1975",
+        "NGC 1976",
+        "NGC 1977",
+        "NGC 1980",
+        "NGC 1981",
+        "NGC 1982",
+        "The star 42Ori",
+        "The star 45Ori",
+        "The star θ1Ori",
+        "The star θ2Ori",
+        "The star ιOri"
+    ],
+    "title": "M42",
+    "updated": "2021-03-17T06:10:13.862989",
+    "uploaded": "2019-12-04T14:32:02.950386",
+    "url_duckduckgo": "https://www.astrobin.com/pgkpxz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/pgkpxz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/pgkpxz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/pgkpxz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/pgkpxz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/pgkpxz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/pgkpxz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22869/2019/cf1eaa35-26de-498c-9696-d239da6bb3c3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22869/2019/cf1eaa35-26de-498c-9696-d239da6bb3c3-1582287786.jpg",
+    "url_thumb": "https://www.astrobin.com/pgkpxz/0/rawthumb/thumb/",
+    "user": "Atsushi_Ono",
+    "views": 339,
+    "w": 4439
+}

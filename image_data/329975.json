@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "22.433",
+    "description": "IC 443 - the Jellyfish Nebula - is a possible supernova remnant around 5,000 light years distant in the constellation of Gemini.  \r\n\r\nThis was imaged over several nights between 28 December 2017 and 18 January 2018 at the Deep Sky West facility in New Mexico.  It consists:\r\n\r\nSII: 16 x 1880s\r\nHa: 16 x 1800s\r\nOIII: 15 x 1800s\r\n\r\nA total of 23.5 hours exposure.",
+    "h": 2473,
+    "hash": null,
+    "id": 329975,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "1.950",
+    "pixscale": "2.101",
+    "published": "2018-01-19T11:42:29.439481",
+    "ra": "94.363",
+    "radius": "1.198",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329975/",
+    "revisions": [
+        "/api/v1/imagerevision/136563/"
+    ],
+    "subjects": [
+        "IC 443",
+        "IC 444",
+        "The star Propus (ηGem)"
+    ],
+    "title": "Jellyfish Nebula - IC 443 in Gemini - SHO",
+    "updated": "2021-03-17T16:47:21.381514",
+    "uploaded": "2018-01-19T11:42:30.005057",
+    "url_duckduckgo": "https://www.astrobin.com/329975/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329975/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329975/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329975/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329975/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329975/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329975/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/b03f8236-99e9-4479-918b-4ad2b9c93e94.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/b03f8236-99e9-4479-918b-4ad2b9c93e94-1582606125.jpg",
+    "url_thumb": "https://www.astrobin.com/329975/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 215,
+    "w": 3280
+}

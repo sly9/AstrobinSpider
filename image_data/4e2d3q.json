@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 28,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.126",
+    "description": "Inspired by the stunning WR 134 images recently Steve and I trained the TEC/QSI690 on this target whilst we persevered with the 6 panel NAN-Pelican mosaic on the FSQ106/QSI683 rig.  The 0.74\"/px scale has captured the detail well fulfilling the promise we sensed when watching the OIII subs roll in.  It is a striking target, looking almost like an abstract painting.\r\n\r\nWikipedia remarks: \"WR 134 is a variable Wolf-Rayet star located around 6,000 light years away from Earth in the constellation of Cygnus, surrounded by a faint bubble nebula blown by the intense radiation and fast wind from the star. It is five times the radius of the sun, but due to a temperature over 63,000 K it is 400,000 times as luminous as the sun. WR 134 was one of three stars in Cygnus observed in 1867 to have unusual spectra consisting of intense emission lines rather than the more normal continuum and absorption lines. These were the first members of the class of stars that came to be called Wolf-Rayet stars (WR stars) after Charles Wolf and Georges Rayet who discovered their unusual appearance.[6] It is a member of the nitrogen sequence of WR stars, while the other two (WR 135 and WR 137) are both members of the carbon sequence that also have OB companions. WR 134 has a spectrum with NIII and NIV emission between two and five times stronger than NV, leading to the assignment of a WN6 spectral type. The spectrum also shows strong HeII emission and weaker lines of HeI and CIV.[7] \"\r\n\r\nProcessing was a delight, I first created a bi-colour image from a starless HOO channel mapping and then adding a combined Ha/OIII as luminance to capture the splendid emission nebula.  We captured the RGB over the last few nights and these were added with Pixel Math using a star mask and replacing the 'a' and 'b' channels of the CieLab extracted HOO bi-colour.\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 2688,
+    "hash": "4e2d3q",
+    "id": 423931,
+    "imaging_cameras": [
+        "QSI 690 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "TEC 140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 267,
+    "link": "https://barrywilson.smugmug.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "269.635",
+    "pixscale": "0.743",
+    "published": "2019-08-31T15:50:57.486714",
+    "ra": "302.479",
+    "radius": "0.444",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/423931/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Wolf-Rayet 134 bi-colour with RGB stars",
+    "updated": "2021-03-17T09:28:54.762323",
+    "uploaded": "2019-08-31T16:50:57.827869",
+    "url_duckduckgo": "https://www.astrobin.com/4e2d3q/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4e2d3q/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4e2d3q/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4e2d3q/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4e2d3q/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4e2d3q/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4e2d3q/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3c89b58d-db10-4bb3-9452-f8b726b77750.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3c89b58d-db10-4bb3-9452-f8b726b77750-1567270900.jpg",
+    "url_thumb": "https://www.astrobin.com/4e2d3q/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 614,
+    "w": 3361
+}

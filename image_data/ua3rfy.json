@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-0.041",
+    "description": "NGC 3521\r\n\r\nObject : ngc 3521\r\nDate : Apr.2019- Feb. 2020 (RC10) , Jan.2020(e-180)\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure :\r\nRC10/SX-H694 :R:300sx35,G:300sx35,B:300sx30,L:300sx38,Ha:1200sx3 (~12.5hr)    \r\ne-180 /ASI094MC : 3min x43     (~2.15hr)\r\n\r\nGuiding  :Borg 50/ asi174 , OAG asi174\r\nProcessing:  PI、PS-CC\r\n\r\nDetail image :\r\nhttps://cdn.astrobin.com/thumbs/j3DRes1Meiaq_16536x16536_kWXURFLk.png\r\n\r\nhttps://astro-noodle.blogspot.com/2020/02/ngc-3521.html?view=flipcard",
+    "h": 2055,
+    "hash": "ua3rfy",
+    "id": 453727,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "https://astro-noodle.blogspot.com/2020/02/ngc-3521.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "88.474",
+    "pixscale": "0.669",
+    "published": "2020-02-07T03:45:41.118851",
+    "ra": "166.457",
+    "radius": "0.313",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/453727/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3521",
+        "NGC3521"
+    ],
+    "title": "ngc 3521",
+    "updated": "2021-04-14T14:17:12.123389",
+    "uploaded": "2020-02-07T03:45:50.468716",
+    "url_duckduckgo": "https://www.astrobin.com/ua3rfy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ua3rfy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ua3rfy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ua3rfy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ua3rfy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ua3rfy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ua3rfy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/5b9b9878-be60-4173-8616-2a1a4e6b784a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/5b9b9878-be60-4173-8616-2a1a4e6b784a-1582271905.png",
+    "url_thumb": "https://www.astrobin.com/ua3rfy/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 758,
+    "w": 2663
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "30.652",
+    "description": "M33 Shot in LRGB from home",
+    "h": 2075,
+    "hash": "mhyqfz",
+    "id": 439924,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV105-3SV"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804168/"
+    ],
+    "orientation": "273.352",
+    "pixscale": "2.932",
+    "published": "2019-11-23T04:53:54.598204",
+    "ra": "23.471",
+    "radius": "1.368",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439924/",
+    "revisions": [],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 LRGB",
+    "updated": "2021-03-17T06:19:45.118515",
+    "uploaded": "2019-11-23T04:53:54.772409",
+    "url_duckduckgo": "https://www.astrobin.com/mhyqfz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mhyqfz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mhyqfz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mhyqfz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mhyqfz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mhyqfz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mhyqfz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14525/2019/c3eb835c-54c2-4c1e-b70b-7209f1399e69.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14525/2019/c3eb835c-54c2-4c1e-b70b-7209f1399e69-1582290691.jpg",
+    "url_thumb": "https://www.astrobin.com/mhyqfz/0/rawthumb/thumb/",
+    "user": "jnorris",
+    "views": 193,
+    "w": 2644
+}

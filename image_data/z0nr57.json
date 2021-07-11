@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-66.465",
+    "description": "The N11 complex is an extremely large HII star-forming region in the Large Magellanic Cloud (LMC), seen within the Dorado constellation. It is second only in size to the more famous Tarantula Nebula. \r\n\r\nThe blue coloured ‘beans’, including NGC  1763 and NGC1769, shine incredibly brightly amongst all the other objects of interest.\r\n\r\nThe picture was formed by combining individual images taken with three different filters: ionised Hydrogen (Ha), Oxygen (OIII) and Sulphur (SII).  It was processed in PixInsight using the Hubble Space Telescope palette (Red = SII, Green = Ha, Blue = OIII) and a synthetic luminance blended from all three colour components.  The final image was re-sampled by 120% for aesthetic reasons.",
+    "h": 2868,
+    "hash": "z0nr57",
+    "id": 437399,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "0.285",
+    "pixscale": "1.016",
+    "published": "2019-11-06T21:19:04.088577",
+    "ra": "74.205",
+    "radius": "0.673",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/437399/",
+    "revisions": [
+        "/api/v1/imagerevision/228381/"
+    ],
+    "subjects": [
+        "IC2115",
+        "IC2116",
+        "NGC 1763",
+        "NGC1733",
+        "NGC1760",
+        "NGC1761",
+        "NGC1763",
+        "NGC1769",
+        "NGC1773",
+        "NGC1776",
+        "PGC16243",
+        "PGC16244",
+        "PGC89996"
+    ],
+    "title": "LMC-N11 [NB SHO]",
+    "updated": "2021-05-13T08:54:57.402001",
+    "uploaded": "2019-11-06T21:03:39.521703",
+    "url_duckduckgo": "https://www.astrobin.com/z0nr57/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z0nr57/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z0nr57/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z0nr57/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z0nr57/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z0nr57/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z0nr57/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2019/bf2e6a13-cd58-49fc-bdb0-7b739dfc4c85.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2019/bf2e6a13-cd58-49fc-bdb0-7b739dfc4c85-1582516409.jpg",
+    "url_thumb": "https://www.astrobin.com/z0nr57/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 98,
+    "w": 3812
+}

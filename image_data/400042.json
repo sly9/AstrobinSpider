@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 1,
+    "data_source": "TRAVELLER",
+    "dec": "-22.950",
+    "description": "I took some luminance data (just under 2.5 hours) at a dark sky site recently, then colourised it with an old image (2017) from a QHY8 one shot colour camera.\r\n\r\nThe image was cropped to focus in on the core of the nebula to try to bring out some details.\r\n\r\nIt could have done with some more luminance data though … and slightly better seeing.",
+    "h": 2980,
+    "hash": null,
+    "id": 400042,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/",
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "0.071",
+    "pixscale": "0.647",
+    "published": "2019-04-09T10:17:41.107794",
+    "ra": "270.610",
+    "radius": "0.412",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/400042/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "The Trifid Nebula",
+    "updated": "2021-06-07T23:01:32.141868",
+    "uploaded": "2019-04-09T06:44:37.966615",
+    "url_duckduckgo": "https://www.astrobin.com/400042/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400042/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400042/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400042/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400042/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400042/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400042/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2019/2bf994b0-843e-4ef2-ace6-4079cdd71c13.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2019/2bf994b0-843e-4ef2-ace6-4079cdd71c13-1582593971.jpg",
+    "url_thumb": "https://www.astrobin.com/400042/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 341,
+    "w": 3480
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "5.023",
+    "description": "",
+    "h": 2503,
+    "hash": null,
+    "id": 278398,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 20,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805133/"
+    ],
+    "orientation": "88.521",
+    "pixscale": "2.104",
+    "published": "2017-01-02T01:42:50.225175",
+    "ra": "98.113",
+    "radius": "1.216",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/278398/",
+    "revisions": [
+        "/api/v1/imagerevision/108123/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2237 complesso nebuloso",
+    "updated": "2021-03-17T22:06:43.483834",
+    "uploaded": "2017-01-02T01:42:50.589765",
+    "url_duckduckgo": "https://www.astrobin.com/278398/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/278398/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/278398/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/278398/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/278398/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/278398/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/278398/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10535/2017/2c2c1538-c92a-4e54-acd6-15aba628c34e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10535/2017/2c2c1538-c92a-4e54-acd6-15aba628c34e-1582466049.jpg",
+    "url_thumb": "https://www.astrobin.com/278398/0/rawthumb/thumb/",
+    "user": "Federico",
+    "views": 96,
+    "w": 3325
+}

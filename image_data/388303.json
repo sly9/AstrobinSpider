@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 25,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.303",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 388303,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 163,
+    "link": "http://delsaert.files.wordpress.com/2019/01/leo-triplet_lrgb.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.697",
+    "pixscale": "1.543",
+    "published": "2019-01-28T22:33:28.051350",
+    "ra": "169.933",
+    "radius": "0.970",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/388303/",
+    "revisions": [
+        "/api/v1/imagerevision/169002/"
+    ],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet",
+    "updated": "2021-03-17T12:18:45.746045",
+    "uploaded": "2019-01-28T22:33:29.054166",
+    "url_duckduckgo": "https://www.astrobin.com/388303/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388303/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388303/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388303/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388303/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388303/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388303/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2019/145afddb-9b14-4fe5-89a5-0318dd386d44.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/145afddb-9b14-4fe5-89a5-0318dd386d44-1548714972.jpg",
+    "url_thumb": "https://www.astrobin.com/388303/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 651,
+    "w": 1824
+}

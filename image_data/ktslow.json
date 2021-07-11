@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-29.867",
+    "description": "Cropped after calibration down to about 1/10th of the full FOV for this FLI camera, TOA 1100mm focal length and target.  Registered to the crop w/drizzle enabled, integrated w/drizzle files, then DrizzleIntegration to produce larger version for each channel. \r\n\r\nLRGB result.\r\n\r\nReducing magenta, similar to how we do with SHO images, commonly, also works well on galaxies and stars, leaving a more balanced blue and red galaxy, less purple or magenta (when saturation is increased) - then, reduce blue slightly to allow the red to emerge more.\r\n\r\nUsed deconvolution w/PSF on the luminance, and MSLT noise reduction, then stretched, HDRMT and various tweaks with GAME script generated mask and Curves and LocalHistogramEqualization, CloneStamp to manually fix several bad/dark pixels noticeable in a few bright stars resulting from DrizzleIntegration with pixel rejection enabled for a minimal set of subframes.\r\n\r\nR = 12x 600s\r\nG = 14x 600s\r\nB = 12x 600s\r\nL = 18x 600s\r\nH = 12x 1800s",
+    "h": 1111,
+    "hash": "ktslow",
+    "id": 462956,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Apochromatic"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 99,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811616/"
+    ],
+    "orientation": "173.911",
+    "pixscale": "1.129",
+    "published": "2020-03-08T01:20:52.883752",
+    "ra": "204.250",
+    "radius": "0.252",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/462956/",
+    "revisions": [
+        "/api/v1/imagerevision/218156/",
+        "/api/v1/imagerevision/218734/",
+        "/api/v1/imagerevision/218804/"
+    ],
+    "subjects": [
+        "M 83",
+        "M83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy",
+        "Southern Pinwheel galaxy"
+    ],
+    "title": "Messier 83",
+    "updated": "2021-03-17T04:26:14.022920",
+    "uploaded": "2020-03-07T23:19:52.293719",
+    "url_duckduckgo": "https://www.astrobin.com/ktslow/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ktslow/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ktslow/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ktslow/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ktslow/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ktslow/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ktslow/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2020/c8f0a6ab-7dc4-4843-bd95-589fc0cc8b15.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2020/c8f0a6ab-7dc4-4843-bd95-589fc0cc8b15-1583623783.jpg",
+    "url_thumb": "https://www.astrobin.com/ktslow/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 300,
+    "w": 1164
+}

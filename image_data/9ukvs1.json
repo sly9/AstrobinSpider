@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "34.209",
+    "description": "all behind LPS D2 filter",
+    "h": 2472,
+    "hash": "9ukvs1",
+    "id": 426756,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 8\" f/5 ONTC,  hand made mirror"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 77,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802444/"
+    ],
+    "orientation": "270.778",
+    "pixscale": "1.125",
+    "published": "2019-09-11T14:14:35.504862",
+    "ra": "339.214",
+    "radius": "0.646",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/426756/",
+    "revisions": [
+        "/api/v1/imagerevision/192563/"
+    ],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7337",
+        "NGC 7343",
+        "Stephan's Quintet"
+    ],
+    "title": "NGC 7331",
+    "updated": "2021-03-17T09:14:04.530636",
+    "uploaded": "2019-09-11T15:09:54.472133",
+    "url_duckduckgo": "https://www.astrobin.com/9ukvs1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9ukvs1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9ukvs1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9ukvs1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9ukvs1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9ukvs1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9ukvs1/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/355aa1ba-8008-4950-b6e5-c768d017e2df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/355aa1ba-8008-4950-b6e5-c768d017e2df-1568214828.jpg",
+    "url_thumb": "https://www.astrobin.com/9ukvs1/0/rawthumb/thumb/",
+    "user": "echosud",
+    "views": 813,
+    "w": 3315
+}

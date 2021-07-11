@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 81,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I imaged Saturn one day short of opposition on July 9th. I was astounded by its appearance with the rings being so bright compared to what I am used to. I realised that this is due to the Seeliger Effect, named for the man, Hugo von Seeliger, who first proposed the explanation of the sudden surge in brightness of the rings around opposition. \r\nThe rings are made up of countless chunks of ice orbiting the planet. When seen from the side, as we see the rings before and after opposition, the reflected light is diminished for two reasons. Firstly during these times we don’t see the fully lit face of each chunk since the dark back of it is in our line of sight. So just like a gibbous moon is less bright than the full moon so each ice particle is dimmer then when the fully lit face is towards us at opposition. Secondly the bodies that make up the rings are so close to each other that in fact their shadows fall onto their neighbouring chunks and this of course dims the appearance of the rings. However at opposition we are seeing the fully lit face of each chunk and their shadows go directly behind them. Where they fall on another chunk we don't see that surface anyway because it is obscured by the chunk in front. Effectively every visible face is fully lit and as a consequence the rings brighten appreciably. There will also be some effect due to the angle of the reflected light per Lambert's Law.\r\nSo how great is the effect? I decided it would be interesting to compare two images with and without the effect. The first was captured only 11 days earlier on 2019-06-28_1328 UT before the more recent one on 2019-07-09_1334 UT. Unfortunately the seeing wasn't as good for the second capture and so the planet's features and banding are not as well resolved, but that doesn't detract too much from the comparison. \r\nI resized the images so they were identical, even though the difference was small. I also matched the brightness of the planet so the comparison is fair.\r\nAnd so here it is......the Seeliger Effect.",
+    "h": 2325,
+    "hash": null,
+    "id": 415058,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 238,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-07-13T03:42:12.753506",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/415058/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Saturn: the Seeliger Effect 28th June versus 9th July",
+    "updated": "2021-06-28T05:54:49.566750",
+    "uploaded": "2019-07-13T03:59:59.721383",
+    "url_duckduckgo": "https://www.astrobin.com/415058/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/415058/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/415058/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/415058/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/415058/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/415058/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/415058/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/415058/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 1382,
+    "w": 4000
+}

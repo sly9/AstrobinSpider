@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "47.302",
+    "description": "Unguided image on Paramount MEII and MX+ using Hyperstar and ZWO EFW. Subs acquired over two year span.\r\n\r\n11hrs 60 sec Lum\r\n22hrs 60 sec Ha\r\n5Hrs 60sec Blue\r\n4Hrs 60 sec Green\r\n5.5 Hrs 60 sec Red\r\n\r\n47.5 Hrs total",
+    "h": 2250,
+    "hash": null,
+    "id": 404162,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro",
+        "ASI 1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.273",
+    "pixscale": "0.722",
+    "published": "2019-05-05T00:55:42.547629",
+    "ra": "184.691",
+    "radius": "0.344",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404162/",
+    "revisions": [
+        "/api/v1/imagerevision/182485/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106",
+    "updated": "2021-03-17T11:05:09.705866",
+    "uploaded": "2019-05-05T01:55:42.691893",
+    "url_duckduckgo": "https://www.astrobin.com/404162/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404162/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404162/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404162/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404162/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404162/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404162/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17923/2019/5fc66a05-7a41-48f8-a6a5-7631cb34e30d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17923/2019/5fc66a05-7a41-48f8-a6a5-7631cb34e30d-1582516049.jpg",
+    "url_thumb": "https://www.astrobin.com/404162/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 464,
+    "w": 2595
+}

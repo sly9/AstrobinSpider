@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-23.595",
+    "description": "UPDATE 20/12/2018: Reprocessed with new workflow\r\nUPDATE 21/06/2018: Added OIII data for M8 and reworked completely as HOO with RGB stars.\r\n\r\nOriginal description 05/06/2017:\r\nThe Lagoon and Trifid nebulae are two very bright stellar nurseries, surrounded by gas and dust. I also included the open cluster M21 near the top of the frame.\r\n\r\nFrom my northern location, these hydrogen regions only reach a maximum altitude of 14-16 degrees. I captured this a couple months ago along with some RGB, unfortunately not enough for a good HaRGB image. I ended up reprocessing the Ha only. The DarkStructureEnhance script in PixInsight worked really well on this image!",
+    "h": 4656,
+    "hash": null,
+    "id": 312167,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service Triplet FPL-53 APO 80/480"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809734/"
+    ],
+    "orientation": "4.523",
+    "pixscale": "2.017",
+    "published": "2017-09-13T23:25:26.359222",
+    "ra": "270.929",
+    "radius": "1.636",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312167/",
+    "revisions": [
+        "/api/v1/imagerevision/148704/",
+        "/api/v1/imagerevision/165187/",
+        "/api/v1/imagerevision/165422/"
+    ],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 20",
+        "M 21",
+        "M 8",
+        "NGC 6514",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "NGC 6531",
+        "NGC 6546",
+        "The star 4Sgr",
+        "The star 7Sgr",
+        "The star 9Sgr",
+        "Trifid nebula"
+    ],
+    "title": "M8 - Lagoon Nebula",
+    "updated": "2021-05-28T19:53:51.586862",
+    "uploaded": "2017-09-13T23:27:59.680046",
+    "url_duckduckgo": "https://www.astrobin.com/312167/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312167/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312167/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312167/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312167/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312167/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312167/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/3dd71d72-d038-441f-b9c6-5a77b190f943.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/3dd71d72-d038-441f-b9c6-5a77b190f943-1582517391.jpg",
+    "url_thumb": "https://www.astrobin.com/312167/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 416,
+    "w": 3520
+}

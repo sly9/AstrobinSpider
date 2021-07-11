@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "4.973",
+    "description": "A combination of a 2 panel Ha mosaic and OSC data.  Ha 2x15x500s, OSC 50x200s.  Spacing is still not quite right with the Hotech flattener but it's getting close.  It is about 3mm more than the recommended 55mm distance and probably needs another mm or two.  I used APP to make the mosaic as well as align all the subs.  Now that I've used it a bit I've found it to be quite easy and it produces very good results.",
+    "h": 2545,
+    "hash": null,
+    "id": 334973,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool",
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "90.634",
+    "pixscale": "2.480",
+    "published": "2018-02-26T20:40:41.615363",
+    "ra": "98.241",
+    "radius": "1.519",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334973/",
+    "revisions": [
+        "/api/v1/imagerevision/148305/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Another Rosette Nebula",
+    "updated": "2021-03-17T16:24:46.055048",
+    "uploaded": "2018-02-23T20:39:29.862017",
+    "url_duckduckgo": "https://www.astrobin.com/334973/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334973/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334973/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334973/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334973/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334973/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334973/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7199f2b9-60f9-4884-a043-3d4083a56d95.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7199f2b9-60f9-4884-a043-3d4083a56d95-1519431015.jpg",
+    "url_thumb": "https://www.astrobin.com/334973/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 460,
+    "w": 1824
+}

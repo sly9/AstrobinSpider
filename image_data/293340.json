@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "41.113",
+    "description": "",
+    "h": 1235,
+    "hash": null,
+    "id": 293340,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "104.277",
+    "pixscale": "1.379",
+    "published": "2017-04-26T10:43:59.525988",
+    "ra": "192.729",
+    "radius": "0.396",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293340/",
+    "revisions": [
+        "/api/v1/imagerevision/268908/"
+    ],
+    "subjects": [
+        "M 94",
+        "NGC 4736"
+    ],
+    "title": "M94",
+    "updated": "2021-03-17T21:04:46.284731",
+    "uploaded": "2017-04-26T11:43:59.806150",
+    "url_duckduckgo": "https://www.astrobin.com/293340/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293340/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293340/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293340/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293340/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293340/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293340/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2020/a10e938b-7ed9-417a-83ae-96e2ec59d280.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8751/2020/a10e938b-7ed9-417a-83ae-96e2ec59d280-1582608925.jpg",
+    "url_thumb": "https://www.astrobin.com/293340/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 458,
+    "w": 1660
+}

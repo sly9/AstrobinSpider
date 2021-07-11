@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "41.271",
+    "description": "This is a 2-panel mosaic of Andromeda which I took from 3 different locations in two states and it is one of my most extensive projects to date. I started this from a local Bortle 2 Star Party which was hastily organized at the end of August where I captured Luminance, captured the RGB and Ha (7nm) from my Bortle 4 home, and finally ended the project with another night of Luminance at the OkieTex Star Party in late September. My primary motivation in shooting this as a mosaic was avoidance of yet another generic diagonal M31 image - I think giving the galaxy some framing on all sides just looks better.\r\n\r\nChallenges associated with this project can be found by following the attached link to my website Astronewton.com, but I will say here that, as with every other new imaging project, I learned a lot. Unfortunately my experimentation in new techniques led to an extensive delay between image capture and releasing this final image.\r\n\r\nPre-Processing:\r\n - Darks & Flats Calibration, Cosmic Correction\r\n - Subframe Selection & Local Normalization\r\n - Star Align of all channels to the best Ha frame of each panel\r\n - 2x Drizzle Integration\r\n\r\nHousekeeping:\r\n - Common Crop per panel\r\n - Combined into Mosaic per Light Vortex Tutorials page\r\n - Second crop\r\n - DBE for each channel\r\n - RGB Combine\r\n - Photometric Color Calibration\r\n - HDR combine of 240s, 120s into Master Light channel (also used Ha image for finer core detail)\r\n \r\nHa+R & L:\r\n - Copied Ha image, ran STF stretch\r\n - Starnet to remove stars, creation of Star Mask\r\n - Erosion and removal of stars on Linear Ha image\r\n - Isolation of Ha from Red Continuum, addition to Red channel using PixelMath\r\n - Background Neutralization of HaRGB\r\n - Same process for adding isolated Hydrogen to Luminance master\r\n\r\nMain Processing:\r\n - HSV Repair on HaRGB\r\n - TGVD, MMT noise reduction (Jon Rista method) on HaRGB, L\r\n - SCNR for removing excessive green\r\n\r\nNon-Linear:\r\n - ArcSinH for L, HaRGB\r\n - Histogram Transformation to match Histogram peaks\r\n - LRGB Combine\r\n\r\nFine Tuning, or quite literally about 100 varying Curves, HDRMT, Histogram changes to correct:\r\n - Addition of HDR detail into the brighter core using dust lane mask to preserve core luminosity)\r\n - Masked brightening of larger pixel scale dust (per Inside PixInsight book)\r\n - Color correction to \"cool\" Blue tones, turn pinkish Ha highlights more Red, and careful increase of color\r\n - Finally, MT for star reduction",
+    "h": 3000,
+    "hash": "dqz3dt",
+    "id": 451462,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star 71 APO Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "https://www.astronewton.com/the-andromeda-galaxy",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807450/",
+        "/api/v1/location/2808438/",
+        "/api/v1/location/2811960/"
+    ],
+    "orientation": "230.393",
+    "pixscale": "2.084",
+    "published": "2020-01-26T00:35:20.569210",
+    "ra": "10.685",
+    "radius": "2.258",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451462/",
+    "revisions": [
+        "/api/v1/imagerevision/209222/"
+    ],
+    "subjects": [
+        "Andromeda Galaxy",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "The Andromeda Galaxy [LHARGB]",
+    "updated": "2021-03-17T05:23:44.976760",
+    "uploaded": "2020-01-26T00:35:20.935371",
+    "url_duckduckgo": "https://www.astrobin.com/dqz3dt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dqz3dt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dqz3dt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dqz3dt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dqz3dt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dqz3dt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dqz3dt/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18457/2020/3c404e64-f975-4971-b9fa-9dc26c8be8bd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18457/2020/3c404e64-f975-4971-b9fa-9dc26c8be8bd-1601227852.jpg",
+    "url_thumb": "https://www.astrobin.com/dqz3dt/0/rawthumb/thumb/",
+    "user": "brent1123",
+    "views": 190,
+    "w": 7200
+}

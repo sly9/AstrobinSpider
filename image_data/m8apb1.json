@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 34,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "RGB image with enhanced colors, processed in Pixinsight.",
+    "h": 2557,
+    "hash": "m8apb1",
+    "id": 442613,
+    "imaging_cameras": [
+        "QHY 163M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 232,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-12-08T18:15:16.835710",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442613/",
+    "revisions": [
+        "/api/v1/imagerevision/202896/",
+        "/api/v1/imagerevision/203944/"
+    ],
+    "subjects": [],
+    "title": "Mineral Moon",
+    "updated": "2021-06-03T18:18:33.037872",
+    "uploaded": "2019-12-08T18:15:16.986132",
+    "url_duckduckgo": "https://www.astrobin.com/m8apb1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m8apb1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m8apb1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m8apb1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m8apb1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m8apb1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m8apb1/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/m8apb1/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 2256,
+    "w": 3409
+}

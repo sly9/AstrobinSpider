@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.485",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilters : Astrodon 50mm square Ha, O3, S2 3nm\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposure : Ha 1200s x 25(1bin), O3/S2 each 1200s x 29(1x1bin) total 27h 40m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)",
+    "h": 3900,
+    "hash": null,
+    "id": 369923,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 105,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "269.259",
+    "pixscale": "0.730",
+    "published": "2018-10-04T23:24:14.381345",
+    "ra": "323.730",
+    "radius": "0.559",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/369923/",
+    "revisions": [],
+    "subjects": [],
+    "title": "vdb142 Elephant Trunk Nebula SHO",
+    "updated": "2021-03-17T13:45:35.778848",
+    "uploaded": "2018-10-05T00:24:15.662848",
+    "url_duckduckgo": "https://www.astrobin.com/369923/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/369923/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/369923/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/369923/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/369923/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/369923/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/369923/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12177b01-6e19-4f4a-b596-ac114ff6d228.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/12177b01-6e19-4f4a-b596-ac114ff6d228-1539004305.jpg",
+    "url_thumb": "https://www.astrobin.com/369923/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 835,
+    "w": 3900
+}

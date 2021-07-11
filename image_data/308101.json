@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "44.023",
+    "description": "Un essai de réglage du ASA la nuit dernière",
+    "h": 2271,
+    "hash": null,
+    "id": 308101,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "358.647",
+    "pixscale": "1.368",
+    "published": "2017-08-21T11:41:13.629611",
+    "ra": "312.826",
+    "radius": "1.087",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/308101/",
+    "revisions": [
+        "/api/v1/imagerevision/131638/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Pelican Nebula SHO",
+    "updated": "2021-03-17T20:07:40.546836",
+    "uploaded": "2017-08-21T12:37:12.065892",
+    "url_duckduckgo": "https://www.astrobin.com/308101/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/308101/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/308101/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/308101/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/308101/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/308101/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/308101/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1744/2017/d7f2f0e9-39a1-440e-93ad-78428bbddf0d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d7f2f0e9-39a1-440e-93ad-78428bbddf0d-1503315678.jpg",
+    "url_thumb": "https://www.astrobin.com/308101/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 387,
+    "w": 1824
+}

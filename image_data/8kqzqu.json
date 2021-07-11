@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "35.320",
+    "description": "In the constallation cygnus lies one of my favorite emissions nebula: The Tulip Nebula.  As seen on the right-hand side of my [widefield shot](https://www.reddit.com/r/astrophotography/comments/daio1q/tulip_and_wr134_in_cygnus/) this nebula stands out brightly against larger structures of gas illuminating the northern part of our Milky Way and is roughly six thousand light-years away.  This image was taken in narrowband the colors are a combination of the three primary gases being emitted: Hydrogen Alpha, Oxygen and Sodium taken across nine different nights from September to November 2019. All images were taken with the target over 60* in altitude as it passed very close to zenith through the meridian on each night of acquisition. As I am still fairly new to narrowband imaging I played  different exposure times, camera settings and even took a quite a few number of attempts to get the image where it is today.  I struggled most with managing star color through my numerous attempts, but found much inspiration from [Steve Milne's rendition of this nebula](https://www.astrobin.com/367669/D/?image_list_page=2&nc=&nce=)\r\nIf you'd like to try processing the data itself, the individual masters have been made available [here](https://1drv.ms/f/s!Aqj1xKshGkvkg5ZhvgWiaeiBujBC4A) and licensed through Creative Common with Attribution.\r\n\r\n\r\nAll individual frames were sifted through using the \"Blink\" process in PixInsight to eliminate frames that contained clouds, or symptoms from bad guiding or significant trailing.  All images were calibrated with 30 dark frames of matching duration/gain/offset and 20 flat-frames each calibrated with matching dark-flats for each filter. Mid-way through acquisition I ended up rotating my camera 90 degrees to help eliminate horizontal banding structures that show up as a result of me not being able to dither in dec.  That is why the crop ended up being a fairly square image instead of the traditional aspect ratio. All individual frames were weighted with the Subframe Selector process with a priority on SNR Weight and Number of Stars, with minimum weighting on eccentricity and FWHM.\r\n\r\n\r\nTotal Acquisition Time (including rejected frames):\r\n```\r\nHa:   09 hours 24 minutes\r\nOiii: 07 hours 39 minutes\r\nSii:  07 hours 44 minutes\r\n=========================\r\n      24 hours 47 minutes (total)\r\n```\r\n\r\n\r\nTotal Integration Time:\r\n```\r\nHa:   07 hours 50 minutes\r\nOiii: 06 hours 09 minutes\r\nSii:  06 hours 22 minutes\r\n=========================\r\n      20 hours 21 minutes (total)\r\n```\r\n\r\n\r\nProcessing Steps:\r\n\r\n* All acceptable frames were integrated together using the Linear Fit pixel rejection option and carefully tuned linear fit high/low options to create a Super Luminance\r\n\r\n* The individual frames for each filter were integrated together to create master Ha, Oiii and Sii images.\r\n\r\n* All masters were then cropped free of stacking edge artifacts\r\n\r\nThe Super Luminance was processed with the following steps:\r\n\r\n* Noise Reduction (on a separate copy of the luminance)\r\n\r\n   * TGV Denoise using a low-contrast mask and very strong edge protection\r\n\r\n* Deconvolution (on a separate copy of the luminance)\r\n\r\n   * No deringing\r\n\r\n   * wavelet regularization with 5 layers and strong but reducing amounts/thresholds\r\n\r\n   * A starmask was created from the Noise Reduction copy to replace the stars with the origional superluminance, eliminating the ringing artifacts from deconvolution as similarly [documented](https://www.youtube.com/watch?v=R4bK_InTGWI)  by [/u/OkeWoke](https://www.reddit.com/user/OkeWoke/)\r\n\r\n* The noise reduced image and the deconvolution image were re-combined by\r\n\r\n   * A combination mask was created by clipping and aggressively smoothing an additional copy of the superluminance\r\n\r\n   * The high signal regions from the deconvolution image and the low signal regions from the noise reduction were then blended using the following equation:\r\n\r\n      *  ``NR*~CombineMask+Decon2*CombineMask``\r\n\r\n\r\n* An additional round of TGV Denoise was run on the resulting image\r\n\r\n* The resulting image was then copied and then stretched two different ways and then combined:\r\n\r\n   * Masked Stretch with 1000 iterations\r\n\r\n   * Histogram Stretch using the STF\r\n\r\n   * The two stretched images were blended 50%/50%\r\n\r\n* A round of Morphological Selection was performed on the resulting super luminance to reduce the intensity of the stars\r\n \r\n\r\n\r\nNarrowband Color Processing:\r\n\r\n* Each master Ha, Oiii and Sii image were cropped to match the synthetic luminance, and then Linear Fit was used to match their data to the Sii master\r\n\r\n* The three were combined to produce a color image using LRGB combination using Sii as Red, Ha as Green and Oiii as blue (classic SHO combination from the Hubble Pallet)\r\n\r\n* An automatic histogram transformation was applied to the color image while extending the white-point to minimize white-pixel clipping\r\n\r\n* A series of steps were performed to completely remove the stars from the color image with a star mask:\r\n\r\n   * Multiple rounds of Morphological Transformation using Erosion and a decending value of amount\r\n\r\n   * Remaining magenta was removed by inverting the image and SCNR->Green and Re-Inverting\r\n\r\n   * The holes created by Erosion were then filled with MultiscaleMedianTransformation removing all but the residual of 8 layers\r\n\r\n* The green was reduced slightly in the overall image by running SCNR->Green  with 15% twice\r\n\r\n* The image was noise reduced using TGV Denoise and ACDNR\r\n\r\n* The darker-region's colors were shifted towards the reds and blues to taste using the Curves transformation process\r\n\r\n\r\nCombining the SHO color data with the processed Superluminance:\r\n\r\n\r\n* Channel Combination was used in the LAB mode to add the SuperLuminace to the SHO image\r\n\r\n   * This technique seems to minimize the overall star color, but really seems to provide a more pleasing result of the stars throughout the image.\r\n\r\n\r\n* Lightness and Saturation was boosted using the curves transformation process\r\n\r\n\r\n* Elongated Star cores were rounded a bit using motion blur Deconvolution and morphological selection\r\n\r\n* Two rounds of Local Histogram Equalization and HDR Multiscale Transform were used to enhance local contrast throughout and around the nebula\r\n\r\n* Additional round of TGV Denoise was applied to the midrange regions of the nebula\r\n\r\n* Final touches of sharpening was performed using multiscale linear transform and unsharp mask with a very strong mask \r\n\r\n\r\n\r\n\r\n\r\n\r\nThe full list of nights, filters, gain, offset and exposure times is cataloged here for my historical purposes:\r\n* 20190908 -  Ha   g 111  o 8    - 38x 240s = 02:32:00\r\n* 20190908 -  Oiii g 111  o 8    - 3x 240s = 00:12:00\r\n* 20190908 -  Sii  g 111  o 8    - 38x 240s = 02:32:00\r\n* 20190920 -  Oiii g 111  o 8    - 1x 240s = 00:04:00\r\n* 20190920 -  Sii  g 111  o 8    - 1x 240s = 00:04:00\r\n* 20190920 -  Ha   g 111  o 8    - 1x 240s = 00:04:00\r\n* 20190924 -  Ha   g 53   o 10   - 7x 240s = 00:28:00\r\n* 20190924 -  Oiii g 53   o 10   - 2x 240s = 00:08:00\r\n* 20190924 -  Sii  g 53   o 10   - 2x 240s = 00:08:00\r\n* 20190924 -  Oiii g 53   o 10   - 6x 300s = 00:30:00\r\n* 20190924 -  Sii  g 53   o 10   - 5x 300s = 00:25:00\r\n* 20190925 -  Ha   g 53   o 10   - 13x 240s = 00:52:00\r\n* 20190925 -  Oiii g 53   o 10   - 19x 300s = 01:35:00\r\n* 20190925 -  Sii  g 53   o 10   - 17x 300s = 01:25:00\r\n* 20190926 -  Oiii g 53   o 10   - 6x 300s = 00:30:00\r\n* 20190926 -  Sii  g 53   o 10   - 6x 300s = 00:30:00\r\n* 20190926 -  Ha   g 53   o 10   - 2x 240s = 00:08:00\r\n* 20191011 -  Ha   g 53   o 10   - 14x 600s = 02:20:00\r\n* 20191011 -  Oiii g 53   o 10   - 3x 600s = 00:30:00\r\n* 20191014 -  Oiii g 53   o 10   - 13x 600s = 02:10:00\r\n* 20191014 -  Sii  g 53   o 10   - 6x 600s = 01:00:00\r\n* 20191106 -  Ha   g 53   o 10   - 15x 600s = 02:30:00\r\n* 20191108 -  Ha   g 53   o 10   - 3x 600s = 00:30:00\r\n* 20191108 -  Oiii g 53   o 10   - 12x 600s = 02:00:00\r\n* 20191109 -  Sii  g 53   o 10   - 10x 600s = 01:40:00",
+    "h": 3098,
+    "hash": "8kqzqu",
+    "id": 440068,
+    "imaging_cameras": [
+        "ZWO ASI183MM-pro"
+    ],
+    "imaging_telescopes": [
+        "Orion 203/1000 f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.867",
+    "pixscale": "0.498",
+    "published": "2019-11-24T02:15:36.290242",
+    "ra": "299.978",
+    "radius": "0.317",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440068/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-101"
+    ],
+    "title": "Tulip Nebula - Sh2-101 (SHO)",
+    "updated": "2021-04-26T20:34:28.290677",
+    "uploaded": "2019-11-24T02:15:40.437781",
+    "url_duckduckgo": "https://www.astrobin.com/8kqzqu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8kqzqu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8kqzqu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8kqzqu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8kqzqu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8kqzqu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8kqzqu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25575/2019/7b9231b2-f449-441a-b6ec-e1d69bd40c82.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25575/2019/7b9231b2-f449-441a-b6ec-e1d69bd40c82-1582290481.jpg",
+    "url_thumb": "https://www.astrobin.com/8kqzqu/0/rawthumb/thumb/",
+    "user": "eigenVector",
+    "views": 268,
+    "w": 3373
+}

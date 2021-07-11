@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "60.374",
+    "description": "",
+    "h": 1261,
+    "hash": null,
+    "id": 284929,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "FSQ-106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803719/"
+    ],
+    "orientation": "356.891",
+    "pixscale": "3.507",
+    "published": "2017-02-24T19:01:34.674389",
+    "ra": "43.770",
+    "radius": "1.681",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/284929/",
+    "revisions": [
+        "/api/v1/imagerevision/111110/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "SH2-199",
+    "updated": "2021-03-17T21:40:49.701178",
+    "uploaded": "2017-02-24T19:01:35.054265",
+    "url_duckduckgo": "https://www.astrobin.com/284929/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/284929/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/284929/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/284929/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/284929/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/284929/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/284929/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12406/2017/c4fbaed4-5944-410e-a3bb-61c7c9f930dc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c4fbaed4-5944-410e-a3bb-61c7c9f930dc-1487963133.jpg",
+    "url_thumb": "https://www.astrobin.com/284929/0/rawthumb/thumb/",
+    "user": "boximer",
+    "views": 206,
+    "w": 1824
+}

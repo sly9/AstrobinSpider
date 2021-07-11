@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "57.522",
+    "description": "",
+    "h": 1548,
+    "hash": null,
+    "id": 299142,
+    "imaging_cameras": [
+        "Atik 460 EX Color"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton 8\" f/4 Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2814877/"
+    ],
+    "orientation": "121.192",
+    "pixscale": "1.571",
+    "published": "2017-06-11T08:02:50.920358",
+    "ra": "324.334",
+    "radius": "0.559",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299142/",
+    "revisions": [
+        "/api/v1/imagerevision/118275/"
+    ],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC1396",
+    "updated": "2021-03-17T20:42:20.435451",
+    "uploaded": "2017-06-11T09:02:51.649657",
+    "url_duckduckgo": "https://www.astrobin.com/299142/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299142/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299142/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299142/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299142/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299142/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299142/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14133/2017/bc0d18f5-0fed-467c-9ae5-4743d100dd15.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/bc0d18f5-0fed-467c-9ae5-4743d100dd15-1497168416.JPG",
+    "url_thumb": "https://www.astrobin.com/299142/0/rawthumb/thumb/",
+    "user": "SJK",
+    "views": 169,
+    "w": 1824
+}

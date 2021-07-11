@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "58.814",
+    "description": "* Chandra: Cas A (Red: Cas A 0.5-1.5 keV; Green: Cas A 1.5-3.0 keV; Blue: Cas A 4.0-6.0 keV). \r\n* LCO: Background stars (Bessell filters). \r\n\r\nCassiopeia A (Cas A) is a supernova remnant (SNR) in the constellation Cassiopeia and the brightest extrasolar radio source in the sky at frequencies above 1 GHz. \r\n\r\nThe supernova occurred approximately 11,000 light-years away within the Milky Way. The expanding cloud of material left over from the supernova now appears approximately 10 light-years across from Earth's perspective. \r\n\r\nIn wavelengths of visible light taken by LCO (0,2h exposure), the neutron star is not visible with RGB filters.\r\n\r\nIt is estimated that light from the stellar explosion first reached Earth approximately 300 years ago, but there are no historical records of any sightings of the supernova that created the remnant.\r\n\r\nYou can learn more accessing the course <a href=\"https://www.coursera.org/learn/analyze/\">Analyzing the Universe</a> or in this <a href=\"http://www.astropt.org/2018/04/02/143665/\">article</a>.",
+    "h": 1746,
+    "hash": null,
+    "id": 339742,
+    "imaging_cameras": [
+        "fs02"
+    ],
+    "imaging_telescopes": [
+        "Chandra X-Ray Observatory",
+        "Las Cumbres Observatory"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "http://chandra.harvard.edu/photo/openFITS/casa.html",
+    "locations": [],
+    "orientation": "175.245",
+    "pixscale": "0.285",
+    "published": "2018-03-30T12:45:24.097863",
+    "ra": "350.857",
+    "radius": "0.103",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339742/",
+    "revisions": [
+        "/api/v1/imagerevision/141126/"
+    ],
+    "subjects": [],
+    "title": "Cassiopeia A, a Supernova Remnant",
+    "updated": "2021-03-17T16:02:05.622880",
+    "uploaded": "2018-03-30T13:25:40.586947",
+    "url_duckduckgo": "https://www.astrobin.com/339742/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339742/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339742/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339742/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339742/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339742/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339742/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21170/2018/80089e27-326a-4833-ac7b-422252448f71.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21170/2018/80089e27-326a-4833-ac7b-422252448f71-1582570863.jpg",
+    "url_thumb": "https://www.astrobin.com/339742/0/rawthumb/thumb/",
+    "user": "RRBBarbosa",
+    "views": 546,
+    "w": 1940
+}

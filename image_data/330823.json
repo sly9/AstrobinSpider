@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 1,
+    "data_source": "TRAVELLER",
+    "dec": "-34.144",
+    "description": "NGC 6357 is a diffuse nebula spanning about 400 light years, approximately 6,000-8,000 light years from Earth, and can be seen in the constellation Scorpius. It is also known as the ‘Lobster Nebula’ or the ‘War and Peace Nebula’. \r\n\r\nThe central blue region in this image is home to Pismis 24, a star cluster that includes some of the most massive stars in our galaxy, some hundreds of times more massive than our own sun.\r\n\r\nThe picture was formed by combing individual images taken with three different filters that allow imaging of ionised Hydrogen (Ha), Oxygen (OIII) and Sulphur (SII).  It was processed in PixInsight using the Hubble Space Telescope palette (Red = SII, Green = Ha, Blue = OIII).  The final image was re-sampled by 120% for aesthetic reasons.",
+    "h": 2953,
+    "hash": null,
+    "id": 330823,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "181.401",
+    "pixscale": "1.016",
+    "published": "2018-01-25T08:29:43.843469",
+    "ra": "261.249",
+    "radius": "0.696",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330823/",
+    "revisions": [
+        "/api/v1/imagerevision/150221/"
+    ],
+    "subjects": [
+        "NGC 6357",
+        "NGC6357",
+        "Sh2-11"
+    ],
+    "title": "NGC 6357 (Lobster Nebula)",
+    "updated": "2021-06-16T15:24:33.935517",
+    "uploaded": "2018-01-25T04:49:13.328362",
+    "url_duckduckgo": "https://www.astrobin.com/330823/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330823/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330823/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330823/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330823/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330823/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330823/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/00a6ce65-4a11-4572-88ed-546232ceb34c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/00a6ce65-4a11-4572-88ed-546232ceb34c-1522822402.jpg",
+    "url_thumb": "https://www.astrobin.com/330823/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 1754,
+    "w": 3954
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "35.844",
+    "description": "mosaique de 3 panneaux dans la constellation du cygne.\r\nIl s'agit d'un nouveau traitement avec une couche S créée pour donner l'illusion d'une image en SHO. La couche luminance est basée sur la couche Ha avec addition du O3 uniquement sur la nébuleuse qui entoure WR134 pour faire ressortir son intense rayonnement.\r\ntraitement pixinsight et photoshop\r\nhyperstar sur CPC 925\r\nzwo asi 1600 mm pro\r\nHa: 3x120x120sec\r\nO3: 3x120*120sec\r\nprise de vue entre mi aout et mi septembre",
+    "h": 4256,
+    "hash": null,
+    "id": 402087,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "27.893",
+    "pixscale": "1.441",
+    "published": "2019-04-21T12:21:43.263018",
+    "ra": "301.444",
+    "radius": "2.166",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/402087/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6871",
+        "NGC 6883",
+        "The star 27Cyg",
+        "The star 28Cyg"
+    ],
+    "title": "mosaic sh2-101 and WR134",
+    "updated": "2021-05-25T11:51:10.185384",
+    "uploaded": "2019-04-21T13:21:43.764213",
+    "url_duckduckgo": "https://www.astrobin.com/402087/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402087/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402087/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402087/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402087/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402087/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402087/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2020/5a0f5477-289f-446c-8d6a-c9412136690b.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2020/5a0f5477-289f-446c-8d6a-c9412136690b-1582561397.jpeg",
+    "url_thumb": "https://www.astrobin.com/402087/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 555,
+    "w": 9948
+}

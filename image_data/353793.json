@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.054",
+    "description": "Nearby and bright, spiral galaxies M65 (right) and M66 from Leo Triplet of galaxies. They are just 35 million light-years distant and around 100,000 light-years across, about the size of our own spiral Milky Way.\r\n\r\n52x 300sec for Luminance\r\n30x 300sec for R,G,B\r\n24x 600sec for HAlpha",
+    "h": 2068,
+    "hash": null,
+    "id": 353793,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG 660WSG-8 OAG"
+    ],
+    "imaging_telescopes": [
+        "Cave Astrola 10\" f/5 Newtonian Reflector"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 20,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803092/"
+    ],
+    "orientation": "2.599",
+    "pixscale": "0.754",
+    "published": "2018-07-01T12:39:16.356541",
+    "ra": "169.904",
+    "radius": "0.329",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/353793/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627"
+    ],
+    "title": "M65 & M66",
+    "updated": "2021-03-17T15:01:05.027359",
+    "uploaded": "2018-07-01T13:39:19.741184",
+    "url_duckduckgo": "https://www.astrobin.com/353793/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/353793/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/353793/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/353793/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/353793/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/353793/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/353793/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12231/2020/a25c203e-354b-475b-9ece-43ba6c1cce5a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12231/2020/a25c203e-354b-475b-9ece-43ba6c1cce5a-1582464120.png",
+    "url_thumb": "https://www.astrobin.com/353793/0/rawthumb/thumb/",
+    "user": "patdufour",
+    "views": 102,
+    "w": 2368
+}

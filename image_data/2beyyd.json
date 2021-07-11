@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "43.987",
+    "description": "Image done without any OIII layer because of the polluted sky near Paris.",
+    "h": 2392,
+    "hash": "2beyyd",
+    "id": 602348,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon-130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803484/"
+    ],
+    "orientation": "88.126",
+    "pixscale": "2.589",
+    "published": "2021-07-07T15:49:39.006004",
+    "ra": "319.684",
+    "radius": "1.438",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/602348/",
+    "revisions": [],
+    "subjects": [
+        "The star 68Cyg"
+    ],
+    "title": "SH2-119",
+    "updated": "2021-07-10T00:32:46.935197",
+    "uploaded": "2021-07-07T15:22:15.743494",
+    "url_duckduckgo": "https://www.astrobin.com/2beyyd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2beyyd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2beyyd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2beyyd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2beyyd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2beyyd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2beyyd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8327/2021/19a5bdcf-c462-4d2e-be6d-6ed94d3f6be2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8327/2021/19a5bdcf-c462-4d2e-be6d-6ed94d3f6be2-1625671706.jpg",
+    "url_thumb": "https://www.astrobin.com/2beyyd/0/rawthumb/thumb/",
+    "user": "ZlochTeam",
+    "views": 66,
+    "w": 3204
+}

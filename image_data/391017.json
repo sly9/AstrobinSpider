@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "45.557",
+    "description": "NGC 3198 is a spiral galaxy in the constellation Ursa Major.  It is about 47 million light years away.  It has apparent dimensions of 7.4 x 2.3 arc minutes and a visual brightness of 10.3 magnitude.  \r\n\r\nImaging data:\r\nDate: Mar 2012  Processing Feb 2019\r\nLocation: New Ringgold PA\r\nOptics: Hyperion 12.5 inch f/9 2532mm focal length\r\nMount: Paramount ME\r\nCamera/Filters: Apogee Alta U8300 Camera with LRGB Baader filters and ONAG guider\r\nExposure: Luminance: 28x10 minutes 2x2, R:18x8 min G:23x6 min B:31x8 min, all binned 3x3. The total time was 13.5 hours with 100 subs at average 486 sec\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing using Photoshop.",
+    "h": 2072,
+    "hash": null,
+    "id": 391017,
+    "imaging_cameras": [
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "359.983",
+    "pixscale": "0.379",
+    "published": "2019-02-15T20:27:54.514997",
+    "ra": "154.971",
+    "radius": "0.153",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391017/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3198",
+        "NGC3198"
+    ],
+    "title": "NGC 3198",
+    "updated": "2021-03-17T12:05:58.983112",
+    "uploaded": "2019-02-15T20:27:54.631757",
+    "url_duckduckgo": "https://www.astrobin.com/391017/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391017/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391017/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391017/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391017/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391017/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391017/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/8443df2b-0975-4855-9e02-54aca42d129b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/8443df2b-0975-4855-9e02-54aca42d129b-1582435084.jpg",
+    "url_thumb": "https://www.astrobin.com/391017/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 326,
+    "w": 2400
+}

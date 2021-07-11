@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "13.292",
+    "description": "",
+    "h": 2460,
+    "hash": null,
+    "id": 335824,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 with external FW"
+    ],
+    "imaging_telescopes": [
+        "10\" Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800418/"
+    ],
+    "orientation": "89.372",
+    "pixscale": "1.226",
+    "published": "2018-03-01T23:03:16.715927",
+    "ra": "169.923",
+    "radius": "0.698",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335824/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplett",
+    "updated": "2021-03-17T16:21:06.370212",
+    "uploaded": "2018-03-01T23:03:18.418965",
+    "url_duckduckgo": "https://www.astrobin.com/335824/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335824/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335824/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335824/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335824/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335824/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335824/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4117/2018/b0e1ad42-41ba-4dc9-b0f8-1482f5c90802.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4117/2018/b0e1ad42-41ba-4dc9-b0f8-1482f5c90802-1582466247.jpg",
+    "url_thumb": "https://www.astrobin.com/335824/0/rawthumb/thumb/",
+    "user": "chlopak",
+    "views": 378,
+    "w": 3279
+}

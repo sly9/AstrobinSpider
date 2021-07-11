@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "I obtained this image with a 40 mm H-alpha solar telescope (single stack.) I purchased the scope used, and after a bit of adjustment and modification, was able to get it to perform reasonably well. Initially I was not able to resolve any surface detail on the sun. Closer inspection of the ITF bandpass filter revealed that it was coated with rust. Fortunately, after using a heat gun to loosen up the eyepiece housing assembly, I was able to remove it without too much difficulty. A suitable replacement was available from a small company specializing in optical filters. I also adjusted the alignment of the pentaprism which (I think) helped to improve the image quality.\r\n\r\nOn the West Coast, the Mercury transit was already in progress at sunrise. The sun was hidden behind clouds initially, but I was able to capture the last ~75 min of the transit. I captured images at roughly 15 minute intervals until the end of the transit to produce the composite above. The final image was acquired roughly 2 minutes before 3rd contact.",
+    "h": 1877,
+    "hash": "9wwf1a",
+    "id": 452806,
+    "imaging_cameras": [
+        "ZWO ASI 178MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Coronado PST40"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812508/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-02-02T06:16:17.416716",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/452806/",
+    "revisions": [],
+    "subjects": [],
+    "title": "2019 Mercury transit (composite image)",
+    "updated": "2021-03-17T05:17:21.662580",
+    "uploaded": "2020-02-02T06:16:17.577237",
+    "url_duckduckgo": "https://www.astrobin.com/9wwf1a/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9wwf1a/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9wwf1a/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9wwf1a/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9wwf1a/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9wwf1a/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9wwf1a/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/9wwf1a/0/rawthumb/thumb/",
+    "user": "rdk_CA",
+    "views": 111,
+    "w": 2898
+}

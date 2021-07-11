@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-43.017",
+    "description": "NGC 5128 (Centaurus A)\r\nOTA: \t\tTAO 150 (f/7.3)\r\nCamera:\tFLI - ML16200\r\nObservatory:     Deep Sky West, Chile\r\nEXPOSURES:  \t\t(used/taken)          \r\n\tRed: \t\t11/16 x 900 sec.\t\t\t\r\n\tBlue:\t\t15/17 x 900\r\n\tGreen:\t\t11/16 x 900\r\n\tLum.:\t\t17/24 x 900\r\nH:\t\t22/27 x 1800\r\n\t\tTotal exposure used 24.5 hours\r\nImage Width:\t~1.3 deg\r\nProcessed by Alex Woronow using PixInsight, SWT*, StarNet++ and Topaz in 2019\r\n\r\nCentaurus A is the 5th brightest galaxy in the sky. This galaxy, lying at a distance of ~12M light-years, is the nearest active-core galaxy (actively generating a plethora of new stars). It is called a “star-burst” galaxy and is an active radio-wave, X-ray, and gamma-ray emitter with a super-massive black hole at its center. Jets of aged stars and dust, streaming outward above and below the galactic plane, reach speeds approaching 50% the speed of light! Modeling suggests that the shape of this peculiar galaxy resulted from a collision and merging of a large elliptical galaxy with a smaller spiral galaxy**.\r\n (Source: largely Wikipedia)\r\n\r\nThis Image: The highlight of this image is the detail in the equatorial dust lane, I believe. The star colors are photometrically calibrated, as is the broader galaxy. The dust lane has been reddened slightly to enhance some of the lateral color variations. Measurement of the selected and stacked Luminosity images yielded a median FWHM for the larger stars of 2.18 pixels or a point diffraction σ close to 1.0 arcsecond. With pixel size of 1.13 arcseconds, the instrument’s Nyquist resolution of ~3.4 arcseconds is  being easily achieved.\r\n\r\n*SWT  (Subframe Weighting Tool) is an Excel Spreadsheet I developed for assigning weights to subframes based on user-selected image attributes and relative weights. SWT is available upon request: Alex(-at-)awkml.com.\r\n**Many details can be perused in Internal Kinematics and Dynamics of Galaxies (p.334).",
+    "h": 1760,
+    "hash": null,
+    "id": 416796,
+    "imaging_cameras": [
+        "FLI MICROLINE KAF-16200"
+    ],
+    "imaging_telescopes": [
+        "TOA 150 Chile"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "7.424",
+    "pixscale": "2.259",
+    "published": "2019-07-24T14:35:50.464774",
+    "ra": "201.372",
+    "radius": "0.884",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/416796/",
+    "revisions": [
+        "/api/v1/imagerevision/186568/"
+    ],
+    "subjects": [
+        "NGC 5128",
+        "NGC5128"
+    ],
+    "title": "NGC 5128 - Centaurus A",
+    "updated": "2021-03-17T10:04:45.042776",
+    "uploaded": "2019-07-24T15:35:50.616539",
+    "url_duckduckgo": "https://www.astrobin.com/416796/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416796/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416796/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416796/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416796/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416796/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416796/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32963/2019/f0f6911b-5292-42f2-88b2-d68951d3d745.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32963/2019/f0f6911b-5292-42f2-88b2-d68951d3d745-1582596855.jpg",
+    "url_thumb": "https://www.astrobin.com/416796/0/rawthumb/thumb/",
+    "user": "Alex_Woronow",
+    "views": 536,
+    "w": 2200
+}

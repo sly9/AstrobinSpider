@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 28,
+    "data_source": "UNSET",
+    "dec": "-11.626",
+    "description": "M104 - The Sombrero Galaxy in Virgo. \r\n\r\nMy first completed image in 2 months...Late winter/early spring has typically been bad AP weather here in Austin, so clear nights haven't been many. I did manage to eke out enough frames on this to call it done. I literally shot 4-5 frames a night on it with high clouds to complete this one.\r\n\r\nI have been trying to shoot this galaxy for a long time but due to its declination (-11 degrees), I don't get a good view on this one and each year I ended up missing it. This time I was determined to keep at it.  I probably pushed it too hard but at this point, I am quite happy given the precious few color subs I got to work with.\r\n\r\n45x5 min for L\r\n5x3 min for R/G/B",
+    "h": 2034,
+    "hash": null,
+    "id": 337334,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 231,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "359.217",
+    "pixscale": "0.441",
+    "published": "2018-03-13T20:10:14.313472",
+    "ra": "190.001",
+    "radius": "0.184",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337334/",
+    "revisions": [
+        "/api/v1/imagerevision/139725/",
+        "/api/v1/imagerevision/139786/",
+        "/api/v1/imagerevision/139827/",
+        "/api/v1/imagerevision/140324/",
+        "/api/v1/imagerevision/143448/"
+    ],
+    "subjects": [
+        "M 104",
+        "M104",
+        "NGC 4594",
+        "Sombrero galaxy"
+    ],
+    "title": "M104 - Sombrero Galaxy",
+    "updated": "2021-03-17T19:46:21.194784",
+    "uploaded": "2018-03-13T20:10:20.840757",
+    "url_duckduckgo": "https://www.astrobin.com/337334/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337334/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337334/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337334/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337334/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337334/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337334/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8ac94d5d-97fe-4ffb-8387-86b308139597.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/8ac94d5d-97fe-4ffb-8387-86b308139597-1520972034.png",
+    "url_thumb": "https://www.astrobin.com/337334/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 979,
+    "w": 1824
+}

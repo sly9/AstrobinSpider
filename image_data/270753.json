@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "-25.297",
+    "description": "Hi all!\r\nHere is the Sculptor galaxy. This picture was taken by two very different 'scopes and sites.\r\nLuminance: C11 at 2000 mm (bin 1x1) from Pollino mountain  (2012-09-08)\r\nRGB: Equinox 120ED at 900 mm (bin 2x2) from my heavily light polluted home balcony (2016-10-30).\r\nMerging all together was not an easy task, because of the very different image scales and quality.\r\nAnyway, the result is submitted to your comments and criticism.\r\nCiao\r\nLorenzo\r\n\r\nUpdate #1: curves and colours tweaking\r\nUpdate #2: sharpened a little more...",
+    "h": 1021,
+    "hash": null,
+    "id": 270753,
+    "imaging_cameras": [
+        "SBIG ST8XME"
+    ],
+    "imaging_telescopes": [
+        "C11",
+        "Skywatcher Equinox 120ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 263,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800296/",
+        "/api/v1/location/2800298/"
+    ],
+    "orientation": "359.799",
+    "pixscale": "0.925",
+    "published": "2016-11-04T22:09:37.451090",
+    "ra": "11.885",
+    "radius": "0.220",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270753/",
+    "revisions": [
+        "/api/v1/imagerevision/103707/",
+        "/api/v1/imagerevision/103711/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "Sculptor galaxy"
+    ],
+    "title": "NGC 253",
+    "updated": "2021-03-17T22:34:57.528671",
+    "uploaded": "2016-11-04T21:56:46.419661",
+    "url_duckduckgo": "https://www.astrobin.com/270753/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270753/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270753/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270753/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270753/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270753/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270753/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1485/2016/aadc72bb-8d24-4462-8f5f-4fd4492c8df1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1485/2016/aadc72bb-8d24-4462-8f5f-4fd4492c8df1-1582564648.jpg",
+    "url_thumb": "https://www.astrobin.com/270753/0/rawthumb/thumb/",
+    "user": "LorenzoSiciliano",
+    "views": 1219,
+    "w": 1378
+}

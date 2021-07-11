@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 16,
+    "data_source": "UNSET",
+    "dec": "47.214",
+    "description": "",
+    "h": 4167,
+    "hash": null,
+    "id": 331265,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "ZWO ASI1600MM-Cool",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 229,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806980/"
+    ],
+    "orientation": "0.120",
+    "pixscale": "0.511",
+    "published": "2018-01-28T15:04:15.316294",
+    "ra": "202.475",
+    "radius": "0.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331265/",
+    "revisions": [],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51  The Whirlpool Galaxy",
+    "updated": "2021-03-17T16:41:34.002446",
+    "uploaded": "2018-01-28T15:04:16.080588",
+    "url_duckduckgo": "https://www.astrobin.com/331265/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331265/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331265/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331265/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331265/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331265/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331265/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/17949c94-b596-4668-84e9-80675c895062.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/17949c94-b596-4668-84e9-80675c895062-1582598715.jpg",
+    "url_thumb": "https://www.astrobin.com/331265/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 1324,
+    "w": 2783
+}

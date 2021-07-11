@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "33.768",
+    "description": "Ha : 4x15mn en novembre 2018\r\nOIII : 10x10mn le 18 décembre 2019 (essai d'un filtre Astrodon...)\r\nMontage Ha(luminance)-HOO \r\nAcquisition : Romainville",
+    "h": 1373,
+    "hash": "bwv1tq",
+    "id": 444205,
+    "imaging_cameras": [
+        "QSI583wsg5"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85 EDX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 59,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810329/"
+    ],
+    "orientation": "1.494",
+    "pixscale": "3.392",
+    "published": "2019-12-21T09:22:33.648196",
+    "ra": "79.596",
+    "radius": "1.961",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/444205/",
+    "revisions": [
+        "/api/v1/imagerevision/204241/",
+        "/api/v1/imagerevision/204404/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "NGC 1893",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "IC405&410",
+    "updated": "2021-03-17T05:59:05.767079",
+    "uploaded": "2019-12-21T09:22:33.835224",
+    "url_duckduckgo": "https://www.astrobin.com/bwv1tq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bwv1tq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bwv1tq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bwv1tq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bwv1tq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bwv1tq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bwv1tq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7491b3b6-acae-4814-93ff-3d7d343fc56b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7491b3b6-acae-4814-93ff-3d7d343fc56b-1576920611.jpg",
+    "url_thumb": "https://www.astrobin.com/bwv1tq/0/rawthumb/thumb/",
+    "user": "bruno58",
+    "views": 155,
+    "w": 1824
+}

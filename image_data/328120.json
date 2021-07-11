@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "32.329",
+    "description": "LRGB about 8 hours of data",
+    "h": 1286,
+    "hash": null,
+    "id": 328120,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "178.355",
+    "pixscale": "1.661",
+    "published": "2018-01-03T04:58:20.386079",
+    "ra": "190.702",
+    "radius": "0.497",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328120/",
+    "revisions": [
+        "/api/v1/imagerevision/230432/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC 4656",
+        "NGC 4657"
+    ],
+    "title": "Whale and the Hockey stick",
+    "updated": "2021-03-17T18:45:11.107943",
+    "uploaded": "2018-01-03T04:58:21.009875",
+    "url_duckduckgo": "https://www.astrobin.com/328120/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328120/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328120/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328120/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328120/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328120/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328120/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d4c6b291-7678-47b7-ace1-785ea4e748ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d4c6b291-7678-47b7-ace1-785ea4e748ca-1514955671.jpg",
+    "url_thumb": "https://www.astrobin.com/328120/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 100,
+    "w": 1731
+}

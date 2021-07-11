@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "25.618",
+    "description": "Imaging dates:\r\n27 sep 2017, \r\n21,22,23,24,27,28 oct 2017\r\n11,12,15,16,17,18,19,20,21 dec 2017\r\n\r\nThe Taurus molecular cloud 1 in the constellation of Taurus is notable for containing many complex molecules, including cyanopolyynes HCnN for n=3,5,7,9.\r\n\r\nIt was extremely difficult to image this object in such a way that the typical blue-ish glow in the background came out enough to make the dark clouds \"float\".",
+    "h": 1492,
+    "hash": null,
+    "id": 326751,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 144,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "269.742",
+    "pixscale": "4.448",
+    "published": "2017-12-23T09:56:01.352241",
+    "ra": "69.907",
+    "radius": "1.507",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/326751/",
+    "revisions": [],
+    "subjects": [
+        "IC 2087"
+    ],
+    "title": "Taurus Moleculair Cloud 1 CP Region, Barnard22",
+    "updated": "2021-03-17T18:50:52.677798",
+    "uploaded": "2017-12-23T09:18:34.091811",
+    "url_duckduckgo": "https://www.astrobin.com/326751/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/326751/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/326751/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/326751/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/326751/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/326751/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/326751/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/b8372286-f78c-4085-b1d1-71836173c56d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/b8372286-f78c-4085-b1d1-71836173c56d-1582119336.jpg",
+    "url_thumb": "https://www.astrobin.com/326751/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 241,
+    "w": 1929
+}

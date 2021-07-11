@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "-20.832",
+    "description": "First try at processing 45 hours of data (15 hrs per each channel) acquired during late August and first days of September, from my backyard observatory. Very hard object to do purely in NB. Will likely give it another go to the post-processing in the near future.",
+    "h": 1892,
+    "hash": "zby5c4",
+    "id": 425241,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 175,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "3.941",
+    "pixscale": "0.888",
+    "published": "2019-09-05T15:49:29.112335",
+    "ra": "337.414",
+    "radius": "0.368",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/425241/",
+    "revisions": [
+        "/api/v1/imagerevision/192764/",
+        "/api/v1/imagerevision/211423/",
+        "/api/v1/imagerevision/211449/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix in SHO",
+    "updated": "2021-03-17T09:22:02.184820",
+    "uploaded": "2019-09-05T16:49:29.230980",
+    "url_duckduckgo": "https://www.astrobin.com/zby5c4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zby5c4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zby5c4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zby5c4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zby5c4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zby5c4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zby5c4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2019/1a98a955-2411-44f4-b8d2-0a5744629886.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2019/1a98a955-2411-44f4-b8d2-0a5744629886-1582509731.JPG",
+    "url_thumb": "https://www.astrobin.com/zby5c4/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 1088,
+    "w": 2311
+}

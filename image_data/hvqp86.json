@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.245",
+    "description": "This is the final image for IC405. It's an RGB image with additional detail and highlights added with H-alpha data.",
+    "h": 4371,
+    "hash": "hvqp86",
+    "id": 444314,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "359.988",
+    "pixscale": "1.103",
+    "published": "2019-12-22T00:20:26.760285",
+    "ra": "79.003",
+    "radius": "0.853",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/444314/",
+    "revisions": [],
+    "subjects": [
+        "17 AR Aur",
+        "AE Aur",
+        "Flaming Star nebula",
+        "IC 405",
+        "IC405",
+        "Sh2-229"
+    ],
+    "title": "IC405 HRGB",
+    "updated": "2021-03-17T05:58:33.272121",
+    "uploaded": "2019-12-22T00:20:26.993411",
+    "url_duckduckgo": "https://www.astrobin.com/hvqp86/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/hvqp86/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/hvqp86/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/hvqp86/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/hvqp86/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/hvqp86/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/hvqp86/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/c9a287a7-d99c-481e-8bef-1768bd2a8119.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/c9a287a7-d99c-481e-8bef-1768bd2a8119-1581979536.jpg",
+    "url_thumb": "https://www.astrobin.com/hvqp86/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 434,
+    "w": 3447
+}

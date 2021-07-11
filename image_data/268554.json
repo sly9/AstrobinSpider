@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "57.856",
+    "description": "SHO Blend. Added 5.5hrs of SII data.",
+    "h": 1450,
+    "hash": null,
+    "id": 268554,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798308/"
+    ],
+    "orientation": "-89.581",
+    "pixscale": null,
+    "published": "2016-10-17T03:01:58.469738",
+    "ra": "324.398",
+    "radius": "0.854",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268554/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "Elephant Trunk Tricolor",
+    "updated": "2021-03-17T22:42:38.096333",
+    "uploaded": "2016-10-17T04:01:58.469738",
+    "url_duckduckgo": "https://www.astrobin.com/268554/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268554/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268554/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268554/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268554/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268554/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268554/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/ca40a4df-7aad-47b9-a48d-f31c55f8ebfd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ca40a4df-7aad-47b9-a48d-f31c55f8ebfd.jpg",
+    "url_thumb": "https://www.astrobin.com/268554/0/rawthumb/thumb/",
+    "user": "Wembley2000",
+    "views": 125,
+    "w": 1824
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-43.038",
+    "description": "",
+    "h": 4096,
+    "hash": null,
+    "id": 275105,
+    "imaging_cameras": [
+        "FLI MicroLine MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Alluna Optics Alluna RC 20\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806405/"
+    ],
+    "orientation": "2.712",
+    "pixscale": "0.445",
+    "published": "2016-12-06T10:26:00.950315",
+    "ra": "201.387",
+    "radius": "0.358",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/275105/",
+    "revisions": [],
+    "subjects": [
+        "Centaurus A",
+        "NGC 5128"
+    ],
+    "title": "NGC 5128 \"Centaurus A\"",
+    "updated": "2021-03-17T22:19:17.918808",
+    "uploaded": "2016-12-06T10:26:02.819816",
+    "url_duckduckgo": "https://www.astrobin.com/275105/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/275105/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/275105/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/275105/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/275105/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/275105/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/275105/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20980/2020/2e8a25f4-e7ce-46c7-8882-d949f775119b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20980/2020/2e8a25f4-e7ce-46c7-8882-d949f775119b-1590961306.jpg",
+    "url_thumb": "https://www.astrobin.com/275105/0/rawthumb/thumb/",
+    "user": "cutejac",
+    "views": 713,
+    "w": 4096
+}

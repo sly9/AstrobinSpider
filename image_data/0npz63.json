@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 24,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "46.961",
+    "description": "I typically don't like Green colors in SHO images and usually adjust those to close to the \"Hubble Blue\". This time I actually like the different shades of Blue all the way to almost Teal color on the right side. Similarly, I try to adjust my Yellow's to have that Golden hue but in this case left the more Reddish cast on it, seen especially on the upper left corner. Hope you like it too...\r\n\r\n\r\n- Mikko\r\n\r\nPS. I'm still having problems when I upload an image from PixInsight. The uploaded version is less saturated and less sharp than the one on my hard-drive. I partly solved this problem when started to use ICCProfileTransformation and uploading the images as PNG, yet they are not identical when carefully studied.",
+    "h": 2808,
+    "hash": "0npz63",
+    "id": 440582,
+    "imaging_cameras": [
+        "QSI 6120WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 200,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808334/"
+    ],
+    "orientation": "269.230",
+    "pixscale": "1.200",
+    "published": "2019-11-27T13:10:38.198599",
+    "ra": "308.588",
+    "radius": "0.842",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440582/",
+    "revisions": [],
+    "subjects": [
+        "PK085+04.1",
+        "Sh2-115",
+        "Sh2-116"
+    ],
+    "title": "Sh2-115 - Diffuse Nebula in Cygnus",
+    "updated": "2021-03-17T06:16:20.497185",
+    "uploaded": "2019-11-27T02:37:02.927072",
+    "url_duckduckgo": "https://www.astrobin.com/0npz63/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0npz63/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0npz63/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0npz63/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0npz63/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0npz63/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0npz63/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24166/2020/97f2bd98-5f9b-4dd7-b382-78a86c6bdc4e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24166/2020/97f2bd98-5f9b-4dd7-b382-78a86c6bdc4e-1582289607.png",
+    "url_thumb": "https://www.astrobin.com/0npz63/0/rawthumb/thumb/",
+    "user": "mikko.viljamaa@gmail.com",
+    "views": 1385,
+    "w": 4200
+}

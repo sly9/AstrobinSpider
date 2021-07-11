@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "65.602",
+    "description": "This image is a fresh look at NGC2403, Caldwell 7, with data gathered in collaboration with Steve Milne.  Both of used our scopes at native FL, Steve used his Esprit 120/QSI690/Mesu200 combination to gather the luminance and I my WOFLT132/QSI683/GM1000HPS for the RGB.  We set out to gather more data but were thwarted by the lousy cloudy weather the UK has had this winter.\r\n\r\nWhen combining the data, I also included the luminance data I shot 2 years ago using my Atik 460 on my WOFLT132 at F7 mounted on an Avalon Linear Fast Reverse.  This added 3.6 hours more luminance and has helped with the detail in the core I think.  I processed entirely in PixInsight, Steve using a combination of PixInsight and Photoshop.\r\n\r\nThanks Steve for your good humour and encouragement.",
+    "h": 1434,
+    "hash": null,
+    "id": 286551,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "https://barrywilson.smugmug.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803531/"
+    ],
+    "orientation": "271.411",
+    "pixscale": "0.882",
+    "published": "2017-03-08T17:28:23.300083",
+    "ra": "114.240",
+    "radius": "0.517",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286551/",
+    "revisions": [
+        "/api/v1/imagerevision/111962/"
+    ],
+    "subjects": [
+        "NGC 2403",
+        "NGC2403",
+        "NGC2404"
+    ],
+    "title": "NGC2403 Collaboration with Steve Milne",
+    "updated": "2021-05-27T20:01:04.935310",
+    "uploaded": "2017-03-08T17:28:23.674623",
+    "url_duckduckgo": "https://www.astrobin.com/286551/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286551/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286551/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286551/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286551/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286551/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286551/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5519/2017/0b75be5c-6d21-491d-88d2-f3ce603ac49d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0b75be5c-6d21-491d-88d2-f3ce603ac49d-1488994556.jpg",
+    "url_thumb": "https://www.astrobin.com/286551/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 562,
+    "w": 1824
+}

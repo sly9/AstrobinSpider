@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "56.666",
+    "description": "This is the result of a really bad night of imaging.  For the last year, I've been using my main imaging scope for testing some design ideas and I regularly take it apart (like all the way,) fiddle with it, and put it back together.  Unfortunately, the last time I had it apart, I believe that I may have stressed the main mirror a bit when it was re-bonded.  That creates a bit of anamorphic surface error, which in simple terms, produces field independent astigmatism.  Unfortunately, I won't have time to fix it for a few weeks so I've got to live with it for a while.  :(   Still, it's not totally unusable and while I was messing with it, I took some Ha data of the Pacman thinking that I'd try for a NB Hubble image.  I was in a bit of hurry and didn't realize that I didn't have the secondary very well aligned.  I also discovered that my autofocus system was slightly screwed up by the additional astigmatic signal in my system.  So the focus was a bit soft and the stars weren't very round.  On top of that, the seeing was bad, and for some reason my guiding was terrible (much worst than it should have been for the conditions.)  Sheeze...I spent most of the night producing a lot of crummy images!\r\n \r\nStill, I managed to pull out 8, 20 minute Ha subs that measured below about 2.6 arc-sec FWHM (normally I can easily go below 2 arc-sec when things are dialed in--so this was pretty bad!)  Then I went to work on it with PI and after quite a bit of work,  I finally came up with the attached image.  At first glance, it's not as bad looking as maybe it should--just don't look too hard.  Right after I snagged this data, the skies closed in and it's been low clouds, rain, wind, and cold so I gave up trying for any O3 or S2 data.  So by necessity, this is my first monochrome image.\r\n\r\nHopefully, I can get the scope cleaned up, the clouds will part, and I can get back to producing some better images.",
+    "h": 3904,
+    "hash": null,
+    "id": 269156,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808024/"
+    ],
+    "orientation": "179.854",
+    "pixscale": "0.475",
+    "published": "2016-10-23T04:10:16.500300",
+    "ra": "13.236",
+    "radius": "0.365",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269156/",
+    "revisions": [],
+    "subjects": [
+        "IC1590",
+        "NGC 281",
+        "NGC281",
+        "Sh2-184"
+    ],
+    "title": "NGC 281 The Pacman in Ha",
+    "updated": "2021-03-17T22:40:31.667084",
+    "uploaded": "2016-10-23T05:10:16.500300",
+    "url_duckduckgo": "https://www.astrobin.com/269156/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269156/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269156/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269156/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269156/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269156/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269156/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/1e5b4b96-257e-466e-9c73-8959e3086eb9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1e5b4b96-257e-466e-9c73-8959e3086eb9.jpg",
+    "url_thumb": "https://www.astrobin.com/269156/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 366,
+    "w": 3904
+}

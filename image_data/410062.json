@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "54.352",
+    "description": "m101 captured at 0.46 arcsec/pixel downsampled by 2 to roughly 1\". North is up. Subframes were captured over three nights. Two with lots of water vapor in the air (and on the equipment!), and one good dry night.\r\n\r\nL: 13 x 5min, R,G,B: 23 x 5 min each",
+    "h": 1363,
+    "hash": null,
+    "id": 410062,
+    "imaging_cameras": [
+        "ASI ZWO ASI 1600 pro mono"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10 inch Truss iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806952/"
+    ],
+    "orientation": "0.481",
+    "pixscale": "0.938",
+    "published": "2019-06-12T14:33:25.882753",
+    "ra": "210.820",
+    "radius": "0.373",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410062/",
+    "revisions": [
+        "/api/v1/imagerevision/182654/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457"
+    ],
+    "title": "m101 LRGB ~1 arcsec/pixel",
+    "updated": "2021-03-20T08:17:42.316259",
+    "uploaded": "2019-06-12T15:33:26.035238",
+    "url_duckduckgo": "https://www.astrobin.com/410062/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410062/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410062/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410062/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410062/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410062/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410062/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8406eddc-6a6b-4114-b9ad-0fe0a308e162.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8406eddc-6a6b-4114-b9ad-0fe0a308e162-1560354195.jpg",
+    "url_thumb": "https://www.astrobin.com/410062/0/rawthumb/thumb/",
+    "user": "st_armen5",
+    "views": 154,
+    "w": 1824
+}

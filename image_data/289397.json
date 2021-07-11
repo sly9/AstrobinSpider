@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "47.300",
+    "description": "L 54x300s bin 2\r\nRVB 3x7x300s bin2",
+    "h": 1375,
+    "hash": null,
+    "id": 289397,
+    "imaging_cameras": [
+        "Atik 383LC+"
+    ],
+    "imaging_telescopes": [
+        "GSO / Teleskop-Service RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "0.777",
+    "pixscale": "0.691",
+    "published": "2017-03-31T10:06:23.227833",
+    "ra": "184.747",
+    "radius": "0.403",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/289397/",
+    "revisions": [
+        "/api/v1/imagerevision/114048/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106",
+    "updated": "2021-03-17T21:23:48.975814",
+    "uploaded": "2017-03-31T11:04:11.931858",
+    "url_duckduckgo": "https://www.astrobin.com/289397/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/289397/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/289397/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/289397/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/289397/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/289397/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/289397/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1744/2017/5c40c807-79c4-4d5f-a659-f1f4f6392e15.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5c40c807-79c4-4d5f-a659-f1f4f6392e15-1490954812.jpg",
+    "url_thumb": "https://www.astrobin.com/289397/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 697,
+    "w": 1824
+}

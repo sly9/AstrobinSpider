@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "47.100",
+    "description": "Mix data from 2018 and 2020\r\nTaken from my backyard home observatory in Norway",
+    "h": 3802,
+    "hash": "yulrgm",
+    "id": 465778,
+    "imaging_cameras": [
+        "Nikon D800",
+        "Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "176.935",
+    "pixscale": "3.898",
+    "published": "2020-03-16T18:07:19.589039",
+    "ra": "308.578",
+    "radius": "2.589",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/465778/",
+    "revisions": [
+        "/api/v1/imagerevision/219679/"
+    ],
+    "subjects": [
+        "The star Deneb (αCyg)",
+        "The star ω1Cyg",
+        "Other"
+    ],
+    "title": "Sh2-115",
+    "updated": "2021-03-17T04:13:09.616763",
+    "uploaded": "2020-03-16T18:07:20.336892",
+    "url_duckduckgo": "https://www.astrobin.com/yulrgm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yulrgm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yulrgm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yulrgm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yulrgm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yulrgm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yulrgm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2020/4e6168cc-f3f5-4175-9e78-9feb159711e1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2020/4e6168cc-f3f5-4175-9e78-9feb159711e1-1584382307.png",
+    "url_thumb": "https://www.astrobin.com/yulrgm/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 138,
+    "w": 2900
+}

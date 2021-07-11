@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "56.646",
+    "description": "The Pacman nebula is another jewel of Cassiopeia.   It's a large, fairly bright emission nebula located at a distance of about 9,200 ly.  One of the most interesting features of this region is that it contains a number of Bok globules, which have always fascinated me.  Back when I was a young student studying physics and astronomy at the University of Arizona, I used to go to various lectures in the Astronomy department that weren't a part of the official curriculum.  At one of those lectures, professor Bok came in to talk about stellar formation and these globules were one of the things that he spoke about.  Bok looked the part of a distinguished astronomer with snow white hair that was balding from the front.  He was a wonderful speaker and very friendly with the students so we all loved his seminars.  It turns out that Bok had first observed these globules back in the 1940's and he hypothesized that they were regions of material collapsing to form photo-stars.  Subsequent observations have shown both embedded warm sources and Herbig-Haro objects associated with these dark globules.  If you take a look at the full resolution version of this image, you can get a pretty good look at a number of these objects backlit against the nebula.  It is amazing to realize how much easier it is to image these objects using small telescopes equipped with modern cooled digital sensors compared to the film that Bok had to use back in the 1940s!\r\n\r\nI've finally gotten my system configured so that is mostly pretty reliable.  It is still not what I would call \"error tolerant\", but if nothing stops it, it will run pretty reliably all night.  Still, gathering data for this image involved a little drama; though, not the usual kind.  While I was working on this object, I made a quick visit to the observatory on my way to an important meeting to install a new dew shield, additional heater straps, and some new dew-control software.  Unfortunately, I didn't check the weather very carefully before my visit and while I was working on the scope it started to rain.  It rained continuously for hours and although I had once been warned about the mud on the plateau, I set off after dark to drive my rental car up to the owner's house.  I won't go into all the gory details, but I wound up accidentally sliding off the driveway in the dark--where I was totally stuck until I could get a tow truck all the way out there for a rescue!  The mud is epic and I've never seen anything like it.  It grew quite deep, unbelievably slippery, and it was everywhere.  Fortunately, I had a little food and it stopped raining late the next day.  It took most of the day and a lot of calls to finally find someone willing to make the nearly 40 mile drive out with a four-wheel drive tow truck.  In the end, I made it to my meeting but I was late and still covered in mud!\r\n\r\nThe data for this image was pretty good although at first, I didn't think that I had enough O3 and S2 data.  So I started out to simply process a quick \"test image\" and I finished it in record time--maybe in only 1.5 hours.  I did minimal NR with very little sharpening and I think that I might have only used a single mask.  Not only was it finished quickly, but I was pretty happy with how it turned out so I called it quits.  Hopefully I didn't miss anything.\r\n\r\nAs usual, C&C are always welcome and I always enjoy comments either way so fire a way.\r\n\r\nJohn\r\n\r\n\r\nPS  I sure wish that I could get this image to look as good on this site as it looks on my local computer!  The original is a lot more crisp and somewhat more vibrant in the details.",
+    "h": 1824,
+    "hash": null,
+    "id": 375696,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 233,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "359.903",
+    "pixscale": "0.477",
+    "published": "2018-11-08T06:15:34.824895",
+    "ra": "13.235",
+    "radius": "0.339",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/375696/",
+    "revisions": [
+        "/api/v1/imagerevision/161567/"
+    ],
+    "subjects": [],
+    "title": "The Heart of the Pacman, NGC 281",
+    "updated": "2021-03-17T13:17:11.418795",
+    "uploaded": "2018-11-08T04:47:40.054369",
+    "url_duckduckgo": "https://www.astrobin.com/375696/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/375696/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/375696/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/375696/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/375696/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/375696/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/375696/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/047a995c-3aee-494b-84b9-404bea368e49.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/047a995c-3aee-494b-84b9-404bea368e49-1541654808.jpg",
+    "url_thumb": "https://www.astrobin.com/375696/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1176,
+    "w": 1824
+}

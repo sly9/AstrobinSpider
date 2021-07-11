@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-29.932",
+    "description": "Trying new gain settings with the ASI1600MMC (gain 75, offset 15) to see if that can improve quality of the results. Learning more post processing techniques - seems harder than capturing the data..",
+    "h": 3132,
+    "hash": null,
+    "id": 342304,
+    "imaging_cameras": [
+        "ASI 1600 MM - Cooled ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8\" GSO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "187.455",
+    "pixscale": "0.491",
+    "published": "2018-04-25T11:42:17.063993",
+    "ra": "204.163",
+    "radius": "0.355",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/342304/",
+    "revisions": [
+        "/api/v1/imagerevision/143404/",
+        "/api/v1/imagerevision/143413/"
+    ],
+    "subjects": [
+        "M 83",
+        "NGC 5236"
+    ],
+    "title": "M 83 Southern Pinwheel Galaxy",
+    "updated": "2021-03-17T15:50:00.782644",
+    "uploaded": "2018-04-19T10:35:40.055765",
+    "url_duckduckgo": "https://www.astrobin.com/342304/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/342304/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/342304/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/342304/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/342304/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/342304/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/342304/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25669/2018/c2f34663-d610-4b6e-9362-7e2f90c5784c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25669/2018/c2f34663-d610-4b6e-9362-7e2f90c5784c-1582424213.png",
+    "url_thumb": "https://www.astrobin.com/342304/0/rawthumb/thumb/",
+    "user": "ttaig",
+    "views": 236,
+    "w": 4152
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "33.584",
+    "description": "Bicolor 2-panel mosaic (my first and last?) manually aligned. I messed up my framing of the (basically pointless) O3 in the Flaming Star, so I had to crop out more than I wanted to  - even on the Tadpoles - in order to keep the subject roughly centered. Oh well - I'm still pretty happy with it.\r\n\r\nI did take RGB subs for the stars in both panels, but the data came out pretty strange. There's a slight chance that if I become more familiar with PixInsight, I can use that data to keep from cropping it as tight, but don't bet on it. My first sub for this was taken on November 10, but I had to trash all my early data due to a loose objective on the refractor.",
+    "h": 4000,
+    "hash": null,
+    "id": 329654,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 80mm Carbon Fiber Air-Spaced Triplet ED APO Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "132.537",
+    "pixscale": "2.085",
+    "published": "2018-01-16T14:18:58.154164",
+    "ra": "79.599",
+    "radius": "2.017",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329654/",
+    "revisions": [
+        "/api/v1/imagerevision/145108/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "NGC 1893",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "IC 405 and IC 410: The Flaming Star and Tadpoles",
+    "updated": "2021-03-17T16:48:44.538579",
+    "uploaded": "2018-01-16T13:30:57.998077",
+    "url_duckduckgo": "https://www.astrobin.com/329654/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329654/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329654/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329654/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329654/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329654/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329654/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/6ff009b3-715f-497d-bd63-706d1e87a52d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/6ff009b3-715f-497d-bd63-706d1e87a52d-1582624905.jpg",
+    "url_thumb": "https://www.astrobin.com/329654/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 403,
+    "w": 5700
+}

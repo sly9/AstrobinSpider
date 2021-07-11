@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.465",
+    "description": "Building on previously captured data, now adding SII signal and able to create the Hubble palette\r\nI think it's worth looking at the full resolution version, if I can say so myself :-)",
+    "h": 950,
+    "hash": null,
+    "id": 369515,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "0.266",
+    "pixscale": "1.536",
+    "published": "2018-10-01T21:50:38.956949",
+    "ra": "43.768",
+    "radius": "1.443",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/369515/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "IC1848 - The Soul Nebula - Hubble Palette",
+    "updated": "2021-03-17T13:47:31.784595",
+    "uploaded": "2018-10-01T22:50:39.221912",
+    "url_duckduckgo": "https://www.astrobin.com/369515/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/369515/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/369515/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/369515/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/369515/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/369515/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/369515/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4b4c48e6-f4e2-4ac8-a005-a71795cc331b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4b4c48e6-f4e2-4ac8-a005-a71795cc331b-1538434550.jpg",
+    "url_thumb": "https://www.astrobin.com/369515/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 285,
+    "w": 1824
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "47.222",
+    "description": "Unguided image on Paramount MX+ using ProTrack\r\n\r\n50x45sec R,G,B\r\n320x30sec Lum\r\n80x90sec Ha",
+    "h": 1660,
+    "hash": null,
+    "id": 294616,
+    "imaging_cameras": [
+        "QHYCCD QHY178MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "89.749",
+    "pixscale": "0.722",
+    "published": "2017-05-05T22:50:43.718158",
+    "ra": "202.468",
+    "radius": "0.291",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294616/",
+    "revisions": [
+        "/api/v1/imagerevision/115829/",
+        "/api/v1/imagerevision/115971/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 LRGB+HA",
+    "updated": "2021-03-17T21:00:07.024215",
+    "uploaded": "2017-05-05T23:50:44.444790",
+    "url_duckduckgo": "https://www.astrobin.com/294616/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294616/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294616/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294616/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294616/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294616/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294616/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17923/2017/787d3bcf-6b54-43aa-9071-ef86a248425e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/17923/2017/787d3bcf-6b54-43aa-9071-ef86a248425e-1582516194.jpg",
+    "url_thumb": "https://www.astrobin.com/294616/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 913,
+    "w": 2384
+}

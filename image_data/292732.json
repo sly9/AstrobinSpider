@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "54.140",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 292732,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.275",
+    "pixscale": "1.236",
+    "published": "2017-04-22T10:00:20.318513",
+    "ra": "210.876",
+    "radius": "0.971",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292732/",
+    "revisions": [
+        "/api/v1/imagerevision/127066/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5474",
+        "NGC 5477"
+    ],
+    "title": "M101 - First light from my remote observatory",
+    "updated": "2021-03-17T21:06:59.311384",
+    "uploaded": "2017-04-22T11:00:20.875856",
+    "url_duckduckgo": "https://www.astrobin.com/292732/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292732/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292732/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292732/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292732/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292732/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292732/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7344/2017/936aaf9b-1c74-4ed9-b303-0db83dfeba01.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/936aaf9b-1c74-4ed9-b303-0db83dfeba01-1492855512.jpg",
+    "url_thumb": "https://www.astrobin.com/292732/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 592,
+    "w": 1824
+}

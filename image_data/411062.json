@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "73.748",
+    "description": "This is an area rich in cosmic dust. There are many galaxies, large and small, hidden in IFN. To show this area, I used the remote observatory to control the 70SA telescope to target the sky near the constellation Dragon. The total exposure time is nearly 160 hours.Now this nebula is called the Angel Nebula. She is like an angel dancing with her arms outstretched.",
+    "h": 1404,
+    "hash": null,
+    "id": 411062,
+    "imaging_cameras": [
+        "QHY CCD qhy695A"
+    ],
+    "imaging_telescopes": [
+        "Sky Rover 70SA"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810394/"
+    ],
+    "orientation": "270.734",
+    "pixscale": "2.682",
+    "published": "2019-06-20T11:37:19.029823",
+    "ra": "158.612",
+    "radius": "1.257",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/411062/",
+    "revisions": [
+        "/api/v1/imagerevision/183221/",
+        "/api/v1/imagerevision/183279/",
+        "/api/v1/imagerevision/183384/"
+    ],
+    "subjects": [
+        "NGC 3252",
+        "Other"
+    ],
+    "title": "150-hour angel nebula",
+    "updated": "2021-07-08T21:25:57.586460",
+    "uploaded": "2019-06-20T12:37:19.183369",
+    "url_duckduckgo": "https://www.astrobin.com/411062/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/411062/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/411062/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/411062/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/411062/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/411062/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/411062/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/48cdde49-14d6-4341-ba4d-1228d916097e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/48cdde49-14d6-4341-ba4d-1228d916097e-1561034708.jpg",
+    "url_thumb": "https://www.astrobin.com/411062/0/rawthumb/thumb/",
+    "user": "yijia007love-cat",
+    "views": 562,
+    "w": 1824
+}

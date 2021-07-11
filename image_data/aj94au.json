@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "31.070",
+    "description": "A 31-hour close up of the heart of the Eastern Veil. I decided to deviate from my usual workflow and to just \"wing it\", so experimented with a bunch of new things in Pixinsight including Mure denoise and narrowband photometric calibration. Noise reduction was not really required given high SNR, while narrowband PCC did a good job with the colors. Feedback much appreciated.",
+    "h": 1070,
+    "hash": "aj94au",
+    "id": 442872,
+    "imaging_cameras": [
+        "QHY16200A"
+    ],
+    "imaging_telescopes": [
+        "Telescope Engineering Company TEC140 TEC140FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809730/"
+    ],
+    "orientation": "269.190",
+    "pixscale": "1.757",
+    "published": "2019-12-10T06:08:46.112121",
+    "ra": "314.188",
+    "radius": "0.403",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442872/",
+    "revisions": [
+        "/api/v1/imagerevision/203053/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "IC1340",
+        "NGC 6995",
+        "NGC6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "The heart of the Eastern Veil - 31 hours",
+    "updated": "2021-03-17T06:05:17.007797",
+    "uploaded": "2019-12-10T05:54:56.879153",
+    "url_duckduckgo": "https://www.astrobin.com/aj94au/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/aj94au/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/aj94au/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/aj94au/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/aj94au/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/aj94au/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/aj94au/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24362/2020/26483eda-1ad0-439a-8129-19b241a4f5ed.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24362/2020/26483eda-1ad0-439a-8129-19b241a4f5ed-1582286434.jpg",
+    "url_thumb": "https://www.astrobin.com/aj94au/0/rawthumb/thumb/",
+    "user": "rebelxt",
+    "views": 569,
+    "w": 1260
+}

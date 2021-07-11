@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.230",
+    "description": "Thor's Helmet shines strongest in the OIII channel which allows for some non-conventional processing.  I was thinking bi-color and shot 20 OIII and 45 Ha, but then added 17 SII later to see if it would help.  The SII was too weak to stand on it's own so I added the Ha and SII together 3:1.  I used the Ha+SII for Red, Ha+OIII for Green, and just OIII for Blue.  So it's sort of an SII enhanced Bi-color.\r\n\r\nSubs were all 20 minutes for a total time of about 27 hours.\r\n\r\nProcessing was in CCDStack and Photoshop.  Sharpened with Unsharpmask and noise reduction in Topaz de-noise.",
+    "h": 2095,
+    "hash": null,
+    "id": 325968,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 203,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "57.047",
+    "pixscale": "0.729",
+    "published": "2017-12-16T21:27:00.439673",
+    "ra": "109.636",
+    "radius": "0.335",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/325968/",
+    "revisions": [
+        "/api/v1/imagerevision/227923/"
+    ],
+    "subjects": [
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "Thor's Helmet Bi-color/SHO hybrid",
+    "updated": "2021-03-17T18:54:16.326092",
+    "uploaded": "2017-12-16T21:27:00.902683",
+    "url_duckduckgo": "https://www.astrobin.com/325968/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325968/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325968/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325968/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325968/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325968/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325968/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7b22174b-52c2-430d-aaab-724fb291e457.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7b22174b-52c2-430d-aaab-724fb291e457-1513460174.jpg",
+    "url_thumb": "https://www.astrobin.com/325968/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 511,
+    "w": 2567
+}

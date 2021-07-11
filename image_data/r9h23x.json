@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "44.266",
+    "description": "Ever since I learned of the Pelican Nebula Herbig-Haro (HH) Object 555 (HH555), I have been wanting to image this field of view. In order to get higher resolution data near the HH555 object, I imaged only that section with the Celestron EdgeHD 11\" telescope at 1960mm and blended the luminance data into the rest of the image taken with my Stellarvue SVR102-T at 714mm.",
+    "h": 3401,
+    "hash": "r9h23x",
+    "id": 426554,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-P"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVR102T",
+        "Celestron EdgeHD 1100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801820/"
+    ],
+    "orientation": "180.826",
+    "pixscale": "1.090",
+    "published": "2019-09-10T15:04:46.962275",
+    "ra": "313.045",
+    "radius": "0.878",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/426554/",
+    "revisions": [
+        "/api/v1/imagerevision/192463/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Pelican Nebula in HybridSHO",
+    "updated": "2021-03-17T09:15:05.182178",
+    "uploaded": "2019-09-10T15:55:54.519843",
+    "url_duckduckgo": "https://www.astrobin.com/r9h23x/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r9h23x/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r9h23x/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r9h23x/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r9h23x/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r9h23x/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r9h23x/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3f33f7b7-3248-410d-96e8-6b3c5c651567.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3f33f7b7-3248-410d-96e8-6b3c5c651567-1568131505.jpg",
+    "url_thumb": "https://www.astrobin.com/r9h23x/0/rawthumb/thumb/",
+    "user": "rathijit",
+    "views": 246,
+    "w": 4697
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "36.452",
+    "description": "A 2x1 mosaic of NGC 1499 taken at DSW.\r\n\r\nSorry for the orientation; Tried to upload a portrait oriented image, but failed twice. See https://www.facebook.com/photo.php?fbid=1118407958213513&set=a.936166226437688.1073741834.100001329586177&type=3&theater for a rotated version.",
+    "h": 3270,
+    "hash": null,
+    "id": 270669,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5 FSQ 106ED f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "168.507",
+    "pixscale": "2.097",
+    "published": "2016-11-04T06:57:40.898817",
+    "ra": "60.345",
+    "radius": "1.637",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270669/",
+    "revisions": [
+        "/api/v1/imagerevision/103505/",
+        "/api/v1/imagerevision/103506/"
+    ],
+    "subjects": [
+        "California nebula",
+        "NGC 1499",
+        "The star ξPer"
+    ],
+    "title": "California Nebula (NGC 1499) 2x1 Mosaic",
+    "updated": "2021-03-17T22:35:15.715208",
+    "uploaded": "2016-11-04T06:57:41.636432",
+    "url_duckduckgo": "https://www.astrobin.com/270669/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270669/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270669/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270669/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270669/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270669/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270669/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2016/3f9ec384-38d2-4dd6-8a4e-b7980fd89f9c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2016/3f9ec384-38d2-4dd6-8a4e-b7980fd89f9c-1582616393.jpg",
+    "url_thumb": "https://www.astrobin.com/270669/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 122,
+    "w": 4572
+}

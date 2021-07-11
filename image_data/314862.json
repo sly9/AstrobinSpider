@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "41.273",
+    "description": "2 panel mosaic.",
+    "h": 1703,
+    "hash": null,
+    "id": 314862,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "Nikon D810A"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D",
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806964/"
+    ],
+    "orientation": "268.136",
+    "pixscale": "4.512",
+    "published": "2017-10-01T07:37:01.269480",
+    "ra": "10.675",
+    "radius": "1.669",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/314862/",
+    "revisions": [
+        "/api/v1/imagerevision/126488/",
+        "/api/v1/imagerevision/126522/",
+        "/api/v1/imagerevision/126596/",
+        "/api/v1/imagerevision/126610/",
+        "/api/v1/imagerevision/141550/"
+    ],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31: The Andromeda Galaxy ",
+    "updated": "2021-03-17T19:40:28.273219",
+    "uploaded": "2017-10-01T08:37:02.110172",
+    "url_duckduckgo": "https://www.astrobin.com/314862/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/314862/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/314862/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/314862/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/314862/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/314862/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/314862/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/2a52efb3-b2d5-4645-b1fb-7fd763677d8f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/2a52efb3-b2d5-4645-b1fb-7fd763677d8f-1582598841.jpg",
+    "url_thumb": "https://www.astrobin.com/314862/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 1010,
+    "w": 2048
+}

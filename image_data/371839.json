@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-20.755",
+    "description": "Not a great image as I was limited to one night of data (only 15 lum)  plus the object only gets to 36 degrees in elevation.   Plus, seeing was poor thus I decided to try imaging the luminance data binned 2x2 but blew the stars out as the subs were too long.  L 15x 150s 2x2 binned, RGB 10x100s 3x3 binned.",
+    "h": 931,
+    "hash": null,
+    "id": 371839,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron C-11"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "86.187",
+    "pixscale": "1.305",
+    "published": "2018-10-15T03:56:54.656162",
+    "ra": "11.799",
+    "radius": "0.299",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/371839/",
+    "revisions": [],
+    "subjects": [
+        "NGC 247"
+    ],
+    "title": "NGC 247",
+    "updated": "2021-03-17T13:35:41.123623",
+    "uploaded": "2018-10-15T04:26:07.014864",
+    "url_duckduckgo": "https://www.astrobin.com/371839/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371839/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371839/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371839/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371839/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371839/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371839/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2020/89291c05-5d0a-4819-bfef-2f15f6f9fdb1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7159/2020/89291c05-5d0a-4819-bfef-2f15f6f9fdb1-1601564217.jpg",
+    "url_thumb": "https://www.astrobin.com/371839/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 304,
+    "w": 1364
+}

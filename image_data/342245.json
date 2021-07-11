@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 37,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.497",
+    "description": "NGC 2905 is a bright barred spiral galaxy in the constellation of Leo.  It lies at a distance of 30 Mly and has a diameter of 80,000 ly -- just a little smaller than the Milky Way.  It's one of the brighter galaxies in the northern sky, which makes it surprising that it wasn't cataloged by Messier.  Stellar formation is very active in the core, which is also bright in the UV, Xray, and Infrared bands.  The spiral arms are littered with young, bright, blue stars and clusters.  The complex web of dust lanes running throughout the core make this galaxy a particularly interesting target for high-resolution imaging.\r\n\r\nI spent over a month taking this data.  Along the way, I had to install and commission a new computer after my high-end industrial computer died when the display chip failed on the motherboard.  The replacement home-brew computer has locked up, blue-screened, and gave me endless troubles while I tried to get this data.  (I now have yet another computer on order, which will be the fourth one I've had out there in only 6 months.)  On top of that, fog, frost, poor seeing, wind, and clouds seemed to coincide with the darkest new moon nights.  The net result is that even though I'm operating at a remote dark site, my throughput has been pretty pathetic lately.  At this point, I try not to think about how much each one of these images cost and I'm trying Zen out on the journey.  I hope that you enjoy it as much as I did taking it!  As always, C&C is welcome.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 342245,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 240,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "90.764",
+    "pixscale": "0.478",
+    "published": "2018-04-19T20:06:09.120994",
+    "ra": "143.051",
+    "radius": "0.240",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/342245/",
+    "revisions": [
+        "/api/v1/imagerevision/142723/",
+        "/api/v1/imagerevision/142724/",
+        "/api/v1/imagerevision/142835/"
+    ],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905",
+        "NGC2903",
+        "NGC2905"
+    ],
+    "title": "NGC 2905 - A Sometimes Overlooked Gem in Leo",
+    "updated": "2021-03-31T13:03:24.100330",
+    "uploaded": "2018-04-18T23:38:47.745127",
+    "url_duckduckgo": "https://www.astrobin.com/342245/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/342245/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/342245/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/342245/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/342245/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/342245/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/342245/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/f640151e-8a80-48d6-afac-d900b50cc247.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f640151e-8a80-48d6-afac-d900b50cc247-1524166658.jpg",
+    "url_thumb": "https://www.astrobin.com/342245/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1344,
+    "w": 1824
+}

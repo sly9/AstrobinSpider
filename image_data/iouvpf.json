@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "33.430",
+    "description": "",
+    "h": 2400,
+    "hash": "iouvpf",
+    "id": 432968,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.905",
+    "pixscale": "1.700",
+    "published": "2019-10-12T20:00:33.463677",
+    "ra": "80.756",
+    "radius": "0.802",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/432968/",
+    "revisions": [],
+    "subjects": [
+        "IC 410",
+        "NGC 1893"
+    ],
+    "title": "IC410 in Hubble Palette",
+    "updated": "2021-03-17T08:43:57.426171",
+    "uploaded": "2019-10-12T21:00:33.668285",
+    "url_duckduckgo": "https://www.astrobin.com/iouvpf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iouvpf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iouvpf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iouvpf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iouvpf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iouvpf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iouvpf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/b904eef4-48ed-4a2d-a018-df691431fe3d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/b904eef4-48ed-4a2d-a018-df691431fe3d-1582638957.jpg",
+    "url_thumb": "https://www.astrobin.com/iouvpf/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 461,
+    "w": 2400
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "0.334",
+    "description": "This is a combination of a recent data set shot in HaLRGB with a RH305 at DSW and a LRGB data set shot in 2016 with an FSQ also at DSW.  In total there are 35+ hours of lights.",
+    "h": 2456,
+    "hash": null,
+    "id": 327891,
+    "imaging_cameras": [
+        "QSI 683wsg-8",
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi 106FSQ",
+        "AstroPhysics RH-305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806451/"
+    ],
+    "orientation": "0.085",
+    "pixscale": "2.098",
+    "published": "2017-12-31T23:20:18.768808",
+    "ra": "87.038",
+    "radius": "1.124",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327891/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M78 (NGC2068) Reflection Nebula - Stardust & Starlight in LHaRGB (2 Data Sets)",
+    "updated": "2021-03-17T18:46:12.424121",
+    "uploaded": "2017-12-31T23:20:19.151245",
+    "url_duckduckgo": "https://www.astrobin.com/327891/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327891/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327891/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327891/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327891/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327891/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327891/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21126/2017/fc8aa731-269f-44a8-86ff-beb6ffb4e51d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21126/2017/fc8aa731-269f-44a8-86ff-beb6ffb4e51d-1582548631.jpg",
+    "url_thumb": "https://www.astrobin.com/327891/0/rawthumb/thumb/",
+    "user": "Richard_Bratt",
+    "views": 197,
+    "w": 2974
+}

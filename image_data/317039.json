@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "61.346",
+    "description": "I am trying to make other cuts from the same image. It does change the look and feel while the raw data are the same",
+    "h": 2205,
+    "hash": null,
+    "id": 317039,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800442/"
+    ],
+    "orientation": "49.950",
+    "pixscale": "0.941",
+    "published": "2017-10-17T07:20:22.832578",
+    "ra": "38.778",
+    "radius": "0.396",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/317039/",
+    "revisions": [
+        "/api/v1/imagerevision/214401/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC1805 more specific details",
+    "updated": "2021-05-29T15:22:05.689211",
+    "uploaded": "2017-10-17T07:51:10.772711",
+    "url_duckduckgo": "https://www.astrobin.com/317039/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/317039/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/317039/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/317039/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/317039/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/317039/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/317039/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6737/2020/715fe2de-df40-4d6e-b626-d5c9c43baa49.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6737/2020/715fe2de-df40-4d6e-b626-d5c9c43baa49-1582623068.jpg",
+    "url_thumb": "https://www.astrobin.com/317039/0/rawthumb/thumb/",
+    "user": "christian.hennes",
+    "views": 228,
+    "w": 2040
+}

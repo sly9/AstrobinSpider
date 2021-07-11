@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "48.505",
+    "description": "This object is a faint dwarf elliptical galaxy located 2 million light years away in the constellation of Cassiopeia.  It is a small satellite galaxy of the Andromeda Galaxy (M31).  The stars of the galaxy are not able to be resolved.  This galaxy, with a diameter of 12,000 light years, is about the same size as nearby NGC 185 and likely revolves around it as a binary system.  M31 and its four brightest companions (NGC 147, NGC 185, M32, and M110) are all members of the Coma-Sculptor Galaxy Cloud.",
+    "h": 2250,
+    "hash": null,
+    "id": 327007,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm ED Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805974/"
+    ],
+    "orientation": "283.058",
+    "pixscale": "0.851",
+    "published": "2017-12-28T13:56:39.666158",
+    "ra": "8.296",
+    "radius": "0.543",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327007/",
+    "revisions": [],
+    "subjects": [
+        "NGC 147",
+        "NGC147"
+    ],
+    "title": "NGC 147",
+    "updated": "2021-03-17T18:49:47.657661",
+    "uploaded": "2017-12-25T14:39:44.918704",
+    "url_duckduckgo": "https://www.astrobin.com/327007/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327007/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327007/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327007/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327007/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327007/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327007/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18133/2017/6dc8dcea-5046-4e8e-a4c3-ebf3f93fa185.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18133/2017/6dc8dcea-5046-4e8e-a4c3-ebf3f93fa185-1582624272.JPG",
+    "url_thumb": "https://www.astrobin.com/327007/0/rawthumb/thumb/",
+    "user": "GaryI",
+    "views": 196,
+    "w": 4000
+}

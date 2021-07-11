@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "59.980",
+    "description": "The Squid part of this nebula is I think by far the dimmest object I have ever attempted. I had to pull out every trick I know to make it show up, including some cheating with layer masks in Photoshop to bring out the Squid (this shows way more contrast than I really had). But I wanted to see if I could capture it, and I did. I used the ST-80 scope for this, which presented some problems (this is the first time I’ve used the ST-80 with the ASI1600MM-C camera) because this scope definitely needs and does not have a field flattener and it also definitely needs and does not have a good absolute focuser. I can fix the latter by building another MyFocuserPro setup; this would be my third so I’m getting experienced at that and I guess I’ll be ordering parts pretty soon. I used StarTools’ “Lens” module to attempt to address the nasty aberrations around the outside of the field. I'm curious to see if the plate solver will work after doing that. I played around with different gain settings for the camera to try and see what works best for very faint objects, eventually returning to unity gain although ZWO’s web site says zero gain is best for long exposures and my gut wants me to set the gain higher to try and stretch out the very faint stuff; I don’t care if I saturate the stars in an image like this so I’m willing to give up some dynamic range to bring up the faint parts. I binned the data 2x2 to improve the signal-to-noise. I definitely need and probably will acquire more OIII for this; I’m already at 15 minute subs which is about as long as my mount and my patience can tolerate. Right now I’ve got too much Moon and too much smoke in the air and I got impatient to post the image, but as the Moon wanes I’ll get more OIII as I suspect I need conditions to be as dark as possible. Still, I thought it was OK to get this from my back yard. The “Flying Bat” looks more to me like Utah’s signature Delicate Arch landmark. Pretty cool to see a giant squid flying through it.\r\n\r\nDate: 1-4 Sep 2017\r\nSubject: Sh2-129 (Flying Bat Nebula) and OU-4 (Giant Squid Nebula)\r\nScope: Orion ST-80\r\nFilters: ZWO 31 mm diameter unmounted Hα and OIII (7 nm bandpass)\r\nMount: EQ-6 (EQMOD 2.000j)+PEC\r\nGuiding: Orion Thin Off-axis Guider + DSI +PHD 2.6.3.7 (Win 10 ASCOM) using predictive PEC algorithm\r\nCamera: ASI1600MM-Cool, -20 °C, Gain 139 Offset 21 \r\nAcquisition: Sequence Generator Pro 2.6.0.24\r\nExposure: 47x600 Hα, 24x900 OIII\r\nStacking: Neb 4.1.6, flats & darks, trans+rot align, Nebulosity 1.5σ stack and align.\r\nProcessing: StarTools 1.4.328: Binned everything 2x2 in StarTools after acquiring 1x1. Stretched and deconvoluted Hα in StarTools, but was not particularly aggressive because I saw no improvement. Stretched the OIII very aggressively in StarTools and then more with Levels and Curves in Photoshop. Used Annie’s Astro Actions to produce the HO bicolor image initially, but later used Hα for R, a 50:50 mix of Hα and OIII for G, and heavily enhanced OIII for B. Finally resorted to a heavy stretch of just the squid using layer masks in Photoshop to make it show up above the background (and I consider that cheating!). Need more OIII!",
+    "h": 1682,
+    "hash": null,
+    "id": 311207,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Orion ShortTube 80 f/5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798185/"
+    ],
+    "orientation": "270.189",
+    "pixscale": "3.907",
+    "published": "2017-09-06T01:20:37.881094",
+    "ra": "317.953",
+    "radius": "1.475",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/311207/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-129 (Flying Bat Nebula) and OU-4 (Giant Squid Nebula), HO, 1-4 Sep 2017",
+    "updated": "2021-03-17T19:55:02.820967",
+    "uploaded": "2017-09-06T02:20:38.790432",
+    "url_duckduckgo": "https://www.astrobin.com/311207/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311207/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311207/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311207/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311207/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311207/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311207/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/88d7674c-70a0-4077-9b13-fcb1ec2054dc.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/88d7674c-70a0-4077-9b13-fcb1ec2054dc-1504661170.png",
+    "url_thumb": "https://www.astrobin.com/311207/0/rawthumb/thumb/",
+    "user": "dvdearden",
+    "views": 264,
+    "w": 2134
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "38.114",
+    "description": "Ha and OIII bi-color image",
+    "h": 1824,
+    "hash": null,
+    "id": 303601,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "http://delsaert.files.wordpress.com/2017/07/ngc6888_haoiii.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "-179.252",
+    "pixscale": "1.685",
+    "published": "2017-07-16T21:54:40.033600",
+    "ra": "303.444",
+    "radius": "0.993",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303601/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "IC 4996",
+        "NGC 6888"
+    ],
+    "title": "NGC6888 and PN G75.5+1.7",
+    "updated": "2021-03-17T20:25:37.303607",
+    "uploaded": "2017-07-16T22:54:40.406950",
+    "url_duckduckgo": "https://www.astrobin.com/303601/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303601/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303601/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303601/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303601/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303601/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303601/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/ee058c9b-d785-4272-be0d-44c3292d3e8e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ee058c9b-d785-4272-be0d-44c3292d3e8e-1500242373.jpg",
+    "url_thumb": "https://www.astrobin.com/303601/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 278,
+    "w": 1824
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 21,
+    "data_source": "OWN_REMOTE",
+    "dec": "-37.651",
+    "description": "NGC 300 is a beautify spiral galaxy in the constellation Sculptor.  It is a popular target as it is one of the closest and most prominent spiral galaxies in the southern skies and bright enough to view easily through binoculars.  With an apparent magnitude of 9.0, and an apparent size of 21’.9 X 15’.5 arcmin, it presents a reasonable size for imaging.  To give some perspective or scale of this object, our moon is around 31’ arcmin across.  \r\n\r\nNGC 300 is approximately 6 million light-years away.    It is the brightest of the five main spirals in the direction of the Sculptor Group.   It is likely to be gravitationally bound to NGC 55 located in Sculptor, and they are slowly spinning around and toward each other, in the early stages of a lengthy merging process.  \r\n\r\nThis is a Lum RGB image blended with Ha to highlight the star-forming areas present in the galaxy.  I love the number of small galaxies scattered throughout the field.\r\nI found this to be a difficult galaxy to process.    Perhaps the most difficult component were the colours as they seem very subtle in the initial combination of the data.  Another variable unexpected variable I had to deal with was replacing the main imaging camera with another.  I was surprised at how different the resulting data streams were from each camera.   Calibrating the data, and the data rejection process where the extraneous signal is removed in each sub (bad columns, hot pixels, cosmic rays, vignetting) was a little challenging as I did not want to remove good data from the final compilation inadvertently.\r\n\r\nInstruments:\r\n10 Inch RCOS fl 9.1\r\nAstro Physics AP-900 Mount\r\nSBIG STL 11000m\r\nFLI Filter Wheel\r\nAstrodon Lum, Red, Green, Blue Filters\r\nBaader Planetarium H-alpha 7nm Narrowband-Filter\r\n\r\nExposure Details:\r\n40 X 900 Bin 1X1 Lum\r\n14 X 450 Bin 2X2 Red\r\n21 X 450 Bin 2X2 Green\r\n13 X 450 Bin 2X2 Blue\r\n50 X 900 Bin 1X1 Ha\r\nTotal Hours:  28.5\r\n \r\nLocation\r\nAustralia, Central Victoria",
+    "h": 2051,
+    "hash": "fsynv8",
+    "id": 454100,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 10\" Ritchey-Chrétien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 152,
+    "link": "https://www.flickr.com/photos/97807083@N00/49507935723/in/dateposted/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "153.774",
+    "pixscale": "0.804",
+    "published": "2020-02-09T01:59:19.963351",
+    "ra": "13.763",
+    "radius": "0.413",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/454100/",
+    "revisions": [
+        "/api/v1/imagerevision/211476/"
+    ],
+    "subjects": [
+        "NGC 300"
+    ],
+    "title": "NGC 300 - Spiral Galaxy in Sculptor",
+    "updated": "2021-04-18T23:02:07.098907",
+    "uploaded": "2020-02-09T01:59:20.182924",
+    "url_duckduckgo": "https://www.astrobin.com/fsynv8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fsynv8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fsynv8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fsynv8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fsynv8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fsynv8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fsynv8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15508/2020/5c7f91b2-b19d-4818-8c07-4db2a77767ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15508/2020/5c7f91b2-b19d-4818-8c07-4db2a77767ea-1581213810.jpg",
+    "url_thumb": "https://www.astrobin.com/fsynv8/0/rawthumb/thumb/",
+    "user": "trobison",
+    "views": 462,
+    "w": 3077
+}

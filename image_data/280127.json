@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "61.178",
+    "description": "A Bubble Nebula color picture.\r\nThe raw data were taken from 2014->2016 by Mr. Morten la Cour and Niels V. Christensen.\r\n\r\nThe equipment/gear used by Morten:\r\nOrion Optics ultra 300 f/4 mirror. TS 2.5 inch Wynne corrector, AP1600GTO, Qsi660wsg, SX superstar OAG guiding, Astrodon 5 nm filters, Ha.\r\n\r\nThe best Ha frames (with the lowest FWHM) was used as Luminace info. to make this detailed picture of the Bubble Nebula.\r\nIt is shown as a Lum(80%Ha)-LRHaGOIIIBOIII picture.\r\nHa exposure data from Morten la Cour: 71x300sec.\r\n\r\nHere's a dropbox link to Morten's Ha picture,\r\nhttps://www.dropbox.com/s/5tdzvysfapu9sly/BubbleMlC-HaCrop100pct.jpg?dl=0\r\n\r\nMore picture/exposure details can also be seen here:\r\nhttp://meade4m.com/index.php?/topic/4425-the-bubble-nebula/\r\n\r\nMore exposure/picture details have been added, please see below in the comments section, thanks a lot. Now added here also:\r\nExposure times: Lum=32x30sec+17x60sec+21x120sec=75min. Ha=4x600sec=40min and OIII=13x300sec=65min. R,G,B=61,49,40x60sec=150min. SII=23x300sec.\r\n\r\nOn request I will be happy to share/show tif/fit files/stack info, please just let me know, thanks.\r\nKind regards Niels",
+    "h": 874,
+    "hash": null,
+    "id": 280127,
+    "imaging_cameras": [
+        "Atik 460 EX Mono Atik 460EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Meade Lx200ACF 16\" F6.2 Meade SCT 16\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 367,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806588/"
+    ],
+    "orientation": "159.069",
+    "pixscale": "0.949",
+    "published": "2017-01-14T14:59:01.098828",
+    "ra": "350.184",
+    "radius": "0.149",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/280127/",
+    "revisions": [
+        "/api/v1/imagerevision/108322/"
+    ],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "Bubble Nebula, 2014->2016",
+    "updated": "2021-05-29T00:19:55.931416",
+    "uploaded": "2017-01-14T14:59:01.572184",
+    "url_duckduckgo": "https://www.astrobin.com/280127/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/280127/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/280127/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/280127/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/280127/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/280127/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/280127/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/9699acfb-83a0-4b40-8b65-08c8f1a4b426.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9699acfb-83a0-4b40-8b65-08c8f1a4b426-1484406548.jpg",
+    "url_thumb": "https://www.astrobin.com/280127/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 1752,
+    "w": 714
+}

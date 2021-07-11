@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I made 7 RGB runs of 90 secs per colour channel with a wide field aspect to pick up Saturn's major moons. The wider FOV reduces the frame rate, although not the exposure time, due to the time taken to download the extra data, so I ended up with a frame rate of ~ 20 fps, compared to 50 fps normally. This reduced the total number of frames captured, yet the quality of the Saturn image obtained was very good, with significant atmospheric detail visible in the North Polar Region.\r\nI processed the moons separately, which was a lot of work. For the 4 big moons Titan, Rhea, Dione & Tethys I made RGB combinations, which except for Titan was a fairly theoretical exercise since the moons are not highly coloured, in fact in some instances I pulled back the saturation to more closely match images from Cassini. Titan's colour was pretty much as it dropped out from the RGB combination. I also scaled the images to the correct size relative to Saturn, which except for Titan, makes them rather tiny and then brightened them. For Enceladus and Mimas I could only see them in the brightened Luminance image and so the images taken from there are monochrome. Nevertheless they are also not highly coloured and on this scale cover only a few pixels anyway.\r\nFor the 4 big moons I was able to use a monochrome image acquired through the green filter with the same timestamp as the final colour image of Saturn as a template to identify the positions of the moons, before inserting them with Photoshop. For Enceladus and Mimas which weren't recorded in this green monochrome image, I used the Ephemerides graphic from WinJUPOS, with the same timestamp to identify their positions.\r\nThe breadth of the orbits of Saturn's moons is hard to imagine and because of the angle at which we view the planet, the orbits trace out a broad ellipse.\r\nThe uncaptioned version can be seen in Image B",
+    "h": 1542,
+    "hash": "wgplto",
+    "id": 427651,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-09-17T06:34:18.401369",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427651/",
+    "revisions": [
+        "/api/v1/imagerevision/222018/"
+    ],
+    "subjects": [],
+    "title": "Saturn wide field",
+    "updated": "2021-03-17T09:09:24.119038",
+    "uploaded": "2019-09-17T07:06:15.153588",
+    "url_duckduckgo": "https://www.astrobin.com/wgplto/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wgplto/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wgplto/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wgplto/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wgplto/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wgplto/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wgplto/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/wgplto/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 424,
+    "w": 1938
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 19,
+    "data_source": "TRAVELLER",
+    "dec": "53.065",
+    "description": "A peculiar warped spiral galaxy, NGC 3718 (Arp 214) and its companion NGC 3729 imaged with the 250mm f4.0 Lacerta PhotoNewton and ZWO ASI183MM Pro camera over several nights in February and March 2020. Also seen in the image is a more distant group of galaxies Hickson 56. \r\n\r\nThe luminance data was captured with camera gain 0, while the RGB exposures were taken at gain 53:\r\n\r\nL: 82x300s (Gain 0, bin 1x1)\r\nR: 27x300s (Gain 53, bin 1x1)\r\nG: 25x300s (Gain 53, bin 1x1)\r\nB: 24x300s (Gain 53, bin 1x1)\r\n\r\nTotal exposure: 13.2 hours",
+    "h": 3212,
+    "hash": "xk4hp3",
+    "id": 466801,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 208,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/"
+    ],
+    "orientation": "359.425",
+    "pixscale": "0.495",
+    "published": "2020-03-20T18:18:02.119738",
+    "ra": "173.219",
+    "radius": "0.413",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/466801/",
+    "revisions": [
+        "/api/v1/imagerevision/220161/",
+        "/api/v1/imagerevision/222218/"
+    ],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "NGC 3718",
+    "updated": "2021-06-22T21:53:06.834978",
+    "uploaded": "2020-03-20T17:56:47.047921",
+    "url_duckduckgo": "https://www.astrobin.com/xk4hp3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xk4hp3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xk4hp3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xk4hp3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xk4hp3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xk4hp3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xk4hp3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/1a449b13-b4e1-4dc6-817d-dbf5ba914d4f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/1a449b13-b4e1-4dc6-817d-dbf5ba914d4f-1584727901.jpg",
+    "url_thumb": "https://www.astrobin.com/xk4hp3/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 742,
+    "w": 5084
+}

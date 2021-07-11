@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "-35.874",
+    "description": "In 1837, John Herschel discovered NGC 6334, or The Cats Paw Nebula.  It’s an emission nebula located in the constellation Scorpius.  Its distance to Earth is 5,500 light years.  \r\n\r\nI wanted to try something a little different with the data set that I have collected over the years on this object.  In the RGB colour space, this object can be a little overwhelming with its strong reds. (note: just my personal tastes coming through)   The strong reds result from the hydrogen rich areas that completely conceal many hot young stars deep within the nebula.  In many cases, these stars are 10 times heavier that our sun and emit massive amounts of ultraviolet light.  The surrounding hydrogen gas absorbs this light, which is then re-emitted as a deep red seen in most photos of this object.   \r\n\r\nIt should be noted that this area is one of the most active stellar nurseries of massive stars in our galaxy.    \r\n\r\nLuminance, Red, Green, and Blue filters where used to create the base of the image.  Narrowband channels consisting of Ha, SII, and OIII where added as support data to enhance textures and highlight many areas within this large gas complex.\r\n\r\nWhile the colours may not truly represent the typical RGB colour image, it does highlight many interesting features within.  I like the area that looks like a miniature version of the “Running Man Nebula” found near Orion.  This can be located just above the area that looks like a shark fin (or Star Fleet Icon), just left from the centre part of the image.  It has a slight bluish colour like a reflection nebula.  (Zoom in to 100 percent) \r\n\r\nField of View / Plate Solving\r\nCenter (RA, Dec):(259.955, -35.874)\r\nCenter (RA, hms):17h 19m 49.220s\r\nCenter (Dec, dms):-35° 52' 27.816\"\r\nSize:\t52.4 x 34.9 arcmin\r\nRadius:\t0.525 deg\r\nPixel scale:0.804 arcsec/pixel\r\nOrientation:\tUp is 314 degrees E of N\r\n\r\nExposure Details:\r\nLum 75X900\r\nRed 30X450\r\nGreen 23X450\r\nBlue 24X450\r\nHa 19X1800\r\nSII 23X1800\r\nOIII 34X1800\r\nTotal time 66.4 hours\r\n\r\nInstruments Used:\r\n10 Inch RCOS fl 9.1\r\nAstro Physics AP-900 Mount\r\nSBIG STL 11000m\r\nFLI Filter Wheel\r\nAstrodon Lum, Red, Green, Blue Filters\r\nBaader Planetarium H-alpha, SII, OIII Narrowband-Filters\r\n\r\nSoftware Used\r\nCCDStack (calibration, alignment, data rejection, stacking)\r\nPhotoshop CS 6 (Image processing)\r\n\r\nThanks for looking",
+    "h": 2608,
+    "hash": null,
+    "id": 368802,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 10\" Ritchey-Chrétien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "313.796",
+    "pixscale": "0.803",
+    "published": "2018-09-27T08:31:10.551024",
+    "ra": "259.955",
+    "radius": "0.524",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/368802/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6334"
+    ],
+    "title": "NGC 6334 - The Cats Paw Nebula",
+    "updated": "2021-04-03T15:09:32.765480",
+    "uploaded": "2018-09-27T09:31:11.831454",
+    "url_duckduckgo": "https://www.astrobin.com/368802/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/368802/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/368802/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/368802/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/368802/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/368802/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/368802/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/ec26362c-aa2f-4017-bf7c-e7e5f26cc327.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ec26362c-aa2f-4017-bf7c-e7e5f26cc327-1538040873.jpg",
+    "url_thumb": "https://www.astrobin.com/368802/0/rawthumb/thumb/",
+    "user": "trobison",
+    "views": 588,
+    "w": 3912
+}

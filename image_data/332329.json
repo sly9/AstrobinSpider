@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 5,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "20.914",
+    "description": "Serge Brunier :\r\n\r\n\"La nébuleuse NGC 2392, baptisée \"nébuleuse de l'esquimau\", vue ici avec le télescope de 1 mètre C2PU du plateau de Calern. La photographie a été prise en compagnie de David Vernet, le télescope a été utilisé en mode \"canon de 105\" avec une focale de... 12 mètres ! \r\nNikon D850, \r\n170 poses de 5 secondes à 6400 ISO. \r\nimages par Serge Brunier (173 images pas de flat, ni offset ni dark) \r\ntraitement par Frédéric Tapissier \"\r\n\r\n---\r\n\r\n\r\nFrederic Tapissier :\r\n\r\n\"Traitement  Pixinsight : debayer en superpixel\r\nregistration + empillement\r\npsf sur des etoiles types, \r\ndeconvolution vancitter 7 itérations\r\ntgvdenoise 600 itérations\r\najustement niveau et courbe dans photoshop\"",
+    "h": 1808,
+    "hash": null,
+    "id": 332329,
+    "imaging_cameras": [
+        "Nikon D850"
+    ],
+    "imaging_telescopes": [
+        "C2PU Newton-Cassegrain"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "https://www.avex-asso.org/forum/viewtopic.php?f=16&t=5893",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808484/"
+    ],
+    "orientation": "182.766",
+    "pixscale": "0.136",
+    "published": "2018-02-05T16:14:23.440904",
+    "ra": "112.299",
+    "radius": "0.062",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/332329/",
+    "revisions": [],
+    "subjects": [
+        "Eskimo nebula",
+        "NGC 2392"
+    ],
+    "title": "NGC 2392, eskimo nebula by S. Brunier and F. Tapissier",
+    "updated": "2021-06-22T00:30:56.478577",
+    "uploaded": "2018-02-05T16:14:23.738721",
+    "url_duckduckgo": "https://www.astrobin.com/332329/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332329/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332329/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332329/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332329/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332329/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332329/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1393/2020/44517c86-c12f-41ba-8361-e499d3bf43b1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1393/2020/44517c86-c12f-41ba-8361-e499d3bf43b1-1582195497.jpg",
+    "url_thumb": "https://www.astrobin.com/332329/0/rawthumb/thumb/",
+    "user": "ftapissier",
+    "views": 902,
+    "w": 2720
+}

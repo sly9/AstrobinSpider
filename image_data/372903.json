@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "5.256",
+    "description": "NGC 488 is a magnitude 10.4 spiral galaxy in the constellation of Pisces.  It is oriented almost perfectly face-on from our point of view.  It lies at a distance of about 98 million light years from us and has an apparent size of 5.4 x 3 arc minutes.\r\n\r\nLocation: New Ringgold PA\r\nDate: Sep 29-Oct 19 2018\r\n\r\nOptics: Celestron EdgeHD 1100 on Paramount MX\r\nCamera: Sbig STL-11000 for RGB\r\n\r\nOptics: Starizona Hyperion f/8 12.5 inch, FL 2540 mm on Paramount ME\r\nCamera: Apogee U8300 for Lum\r\n\r\nExposure: LRGB  L:42x10 min R:16x10 min, G:12x10 min, B:17x10 min Total 14.5 hrs\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.",
+    "h": 2504,
+    "hash": null,
+    "id": 372903,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11",
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "50.193",
+    "pixscale": "0.440",
+    "published": "2018-10-20T12:46:40.392792",
+    "ra": "20.443",
+    "radius": "0.255",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/372903/",
+    "revisions": [],
+    "subjects": [
+        "NGC 488",
+        "NGC486",
+        "NGC488",
+        "NGC490",
+        "NGC492"
+    ],
+    "title": "NGC 488",
+    "updated": "2021-03-17T13:31:13.549237",
+    "uploaded": "2018-10-20T13:46:41.460299",
+    "url_duckduckgo": "https://www.astrobin.com/372903/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/372903/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/372903/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/372903/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/372903/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/372903/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/372903/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/06a54746-5d90-4a0f-85d4-dd60179aaade.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/06a54746-5d90-4a0f-85d4-dd60179aaade-1582435219.jpg",
+    "url_thumb": "https://www.astrobin.com/372903/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 190,
+    "w": 3326
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "42.350",
+    "description": "Imaged over several nights from my home observatory and poor skies.",
+    "h": 886,
+    "hash": null,
+    "id": 332002,
+    "imaging_cameras": [
+        "FLI ML8300"
+    ],
+    "imaging_telescopes": [
+        "AG Optical AGO Newt"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799890/"
+    ],
+    "orientation": "268.470",
+    "pixscale": "1.325",
+    "published": "2018-02-03T04:20:51.891172",
+    "ra": "35.621",
+    "radius": "0.263",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332002/",
+    "revisions": [],
+    "subjects": [
+        "NGC 891"
+    ],
+    "title": "NGC891",
+    "updated": "2021-03-25T10:48:58.308376",
+    "uploaded": "2018-02-03T04:20:52.110662",
+    "url_duckduckgo": "https://www.astrobin.com/332002/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332002/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332002/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332002/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332002/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332002/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332002/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2525/2020/20d55f71-222b-4115-9c50-279bd5963ff6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2525/2020/20d55f71-222b-4115-9c50-279bd5963ff6-1582420020.jpg",
+    "url_thumb": "https://www.astrobin.com/332002/0/rawthumb/thumb/",
+    "user": "deans",
+    "views": 398,
+    "w": 1119
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-38.993",
+    "description": "",
+    "h": 903,
+    "hash": null,
+    "id": 275606,
+    "imaging_cameras": [
+        "QSI 583ws CCD Camera"
+    ],
+    "imaging_telescopes": [
+        "Philipp Keller (Astrooptik) Cassegrain 500/1500 (IAS, Hakos, Namibia)"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 12,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806405/"
+    ],
+    "orientation": "358.381",
+    "pixscale": "2.040",
+    "published": "2016-12-09T17:17:50.910673",
+    "ra": "99.798",
+    "radius": "0.426",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/275606/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "Comet Lovejoy C/2014 Q2",
+    "updated": "2021-03-17T22:17:14.355124",
+    "uploaded": "2016-12-09T17:17:51.316174",
+    "url_duckduckgo": "https://www.astrobin.com/275606/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/275606/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/275606/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/275606/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/275606/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/275606/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/275606/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20980/2020/247bddda-a06c-469d-916e-ebaabfcb9fdb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20980/2020/247bddda-a06c-469d-916e-ebaabfcb9fdb-1592112039.jpg",
+    "url_thumb": "https://www.astrobin.com/275606/0/rawthumb/thumb/",
+    "user": "cutejac",
+    "views": 83,
+    "w": 1200
+}

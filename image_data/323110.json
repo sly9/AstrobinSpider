@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "28.247",
+    "description": "",
+    "h": 2420,
+    "hash": null,
+    "id": 323110,
+    "imaging_cameras": [
+        "QSI 583ws"
+    ],
+    "imaging_telescopes": [
+        "Carl Zeiss apo-sonnar t* 2/135 zf.2"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807141/",
+        "/api/v1/location/2807438/"
+    ],
+    "orientation": "359.888",
+    "pixscale": "8.512",
+    "published": "2017-11-24T12:32:13.702550",
+    "ra": "85.529",
+    "radius": "4.822",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323110/",
+    "revisions": [],
+    "subjects": [
+        "El Nath (βTau)",
+        "The star 125Tau",
+        "The star 136Tau",
+        "The star 139Tau",
+        "The star 26Aur",
+        "The star Elnath"
+    ],
+    "title": "SH2-240",
+    "updated": "2021-03-17T19:06:19.509415",
+    "uploaded": "2017-11-24T12:32:14.410222",
+    "url_duckduckgo": "https://www.astrobin.com/323110/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323110/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323110/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323110/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323110/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323110/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323110/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0ffd8f32-a832-4ac4-b5ed-b256147b87cd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0ffd8f32-a832-4ac4-b5ed-b256147b87cd-1511526809.jpg",
+    "url_thumb": "https://www.astrobin.com/323110/0/rawthumb/thumb/",
+    "user": "Marukawa",
+    "views": 526,
+    "w": 3284
+}

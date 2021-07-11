@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "4.948",
+    "description": "Narrowband. Modified Hubble.",
+    "h": 2504,
+    "hash": null,
+    "id": 285533,
+    "imaging_cameras": [
+        "SBIG ST-8300M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FQS 106 EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804022/"
+    ],
+    "orientation": "96.519",
+    "pixscale": "2.922",
+    "published": "2017-02-28T22:27:51.741070",
+    "ra": "97.983",
+    "radius": "1.692",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/285533/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula",
+    "updated": "2021-03-17T21:38:23.106860",
+    "uploaded": "2017-02-28T22:21:32.690329",
+    "url_duckduckgo": "https://www.astrobin.com/285533/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/285533/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/285533/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/285533/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/285533/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/285533/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/285533/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14291/2017/174dc1f9-728b-4614-8a50-07e4594e1b6a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14291/2017/174dc1f9-728b-4614-8a50-07e4594e1b6a-1582420920.jpg",
+    "url_thumb": "https://www.astrobin.com/285533/0/rawthumb/thumb/",
+    "user": "aznights",
+    "views": 101,
+    "w": 3332
+}

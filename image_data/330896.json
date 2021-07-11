@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-20.836",
+    "description": "In November the helix nebula was hidden soon. I needed 13 sessions to acquire an exposure of more than 11 hours. I added little OIII component to the final image, because I think that an excess of OIII made the image less beautiful. \r\n\r\nR: (21 X 6’) +( 8 X 4’) =158’\r\nG: 20 X 6’ = 120’\r\nB: 21 X 6’ = 126’\r\nOIII:  24 X 10’ = 240’\r\nL: 15 X 4’ = 60’\r\nTOTAL:  704’ =  11 h 44 min",
+    "h": 2100,
+    "hash": null,
+    "id": 330896,
+    "imaging_cameras": [
+        "ATIK 383L Mono CCD"
+    ],
+    "imaging_telescopes": [
+        "TMB - LZOS TMB 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802906/"
+    ],
+    "orientation": "97.209",
+    "pixscale": "0.926",
+    "published": "2018-01-25T19:28:39.429997",
+    "ra": "337.415",
+    "radius": "0.450",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330896/",
+    "revisions": [],
+    "subjects": [
+        "Helix Nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix nebula (NGC7293) RGB+OIII",
+    "updated": "2021-07-06T12:19:25.192549",
+    "uploaded": "2018-01-25T19:28:39.682398",
+    "url_duckduckgo": "https://www.astrobin.com/330896/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330896/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330896/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330896/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330896/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330896/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330896/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11793/2020/7b8aeb94-2792-4b81-8620-0c9d53c41b27.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11793/2020/7b8aeb94-2792-4b81-8620-0c9d53c41b27-1597104097.jpg",
+    "url_thumb": "https://www.astrobin.com/330896/0/rawthumb/thumb/",
+    "user": "PepeLopez",
+    "views": 134,
+    "w": 2800
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "13.317",
+    "description": "Leo Triplet including the tidal tail from NGC 3628. LRGB filters, taken over 5 nights from 1/4/2019 thru 3/8/2019.",
+    "h": 1460,
+    "hash": null,
+    "id": 394893,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810264/"
+    ],
+    "orientation": "268.549",
+    "pixscale": "2.322",
+    "published": "2019-03-10T01:51:25.414891",
+    "ra": "170.093",
+    "radius": "0.791",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394893/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet with Tidal Tail LRGB",
+    "updated": "2021-03-27T16:21:34.201457",
+    "uploaded": "2019-03-10T01:51:25.880807",
+    "url_duckduckgo": "https://www.astrobin.com/394893/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394893/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394893/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394893/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394893/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394893/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394893/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14338/2019/edd793b7-ac0a-4729-813c-20908da59d5d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14338/2019/edd793b7-ac0a-4729-813c-20908da59d5d-1582593658.jpg",
+    "url_thumb": "https://www.astrobin.com/394893/0/rawthumb/thumb/",
+    "user": "pbkoden",
+    "views": 793,
+    "w": 1973
+}

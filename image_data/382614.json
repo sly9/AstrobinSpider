@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "14.599",
+    "description": "This tight pair of galaxies in Coma Berenices is made up of the edge-on NGC 4302 on the left and a more face-on NGC 4298 on the right.  The are estimated at 60 million light years distance.  NGC 4302 is 5.2x1 arc minute while the other is 3.2 x 2 arc minutes.\r\n\r\nDate: Apr 12,29, May 4,6,10,11 2008 processed Dec 2018\r\nLocation: New Ringgold PA\r\nOptics: Meade LX200R 12 inch at f/10\r\nMount: Paramount ME\r\nCamera: SBIG ST-8XME / CFW-8\r\nGuiding: ST-8XME integral guiding chip controlled by Maxim CCD\r\nExposure: LRGB (color 2x2 bin): Luminance: 10x10 min, R:5x8 min, G:5x8 min, B:10x9 min for a total of 4.5 hrs. (30 subs at 540 sec avg each)\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.\r\n\r\nComments:  The f/10 imaging system lets me zoom in on these relatively small (as CCD FOVs go) galaxies.  What an interesting pair!  I can't remember looking at these visually.",
+    "h": 1788,
+    "hash": null,
+    "id": 382614,
+    "imaging_cameras": [
+        "SBIG ST-8XME"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 131,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "27.648",
+    "pixscale": "0.313",
+    "published": "2018-12-24T23:44:17.492975",
+    "ra": "185.412",
+    "radius": "0.116",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/382614/",
+    "revisions": [
+        "/api/v1/imagerevision/276220/"
+    ],
+    "subjects": [
+        "NGC 4298",
+        "NGC 4302",
+        "NGC4298",
+        "NGC4302"
+    ],
+    "title": "NGC 4302 and NGC 4298",
+    "updated": "2021-04-29T11:58:42.674676",
+    "uploaded": "2018-12-24T23:44:17.586604",
+    "url_duckduckgo": "https://www.astrobin.com/382614/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382614/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382614/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382614/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382614/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382614/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382614/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/ed1c705e-27b0-4119-8d06-c4ca1e988e2b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/ed1c705e-27b0-4119-8d06-c4ca1e988e2b-1582435102.jpg",
+    "url_thumb": "https://www.astrobin.com/382614/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 525,
+    "w": 1981
+}

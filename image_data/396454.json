@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.262",
+    "description": "M31 is the our neighborhood, it's so beautiful even from the view of a small telescope like 70SA.\r\n\r\nHa: 600s x 20\r\nR: 300s x 70\r\nG: 300s x 80\r\nB: 300s x 90",
+    "h": 2199,
+    "hash": null,
+    "id": 396454,
+    "imaging_cameras": [
+        "Atik One 6.0"
+    ],
+    "imaging_telescopes": [
+        "SKYROVER 70SA"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 140,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808835/"
+    ],
+    "orientation": "271.110",
+    "pixscale": "2.662",
+    "published": "2019-03-19T16:02:35.701371",
+    "ra": "10.693",
+    "radius": "1.292",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/396454/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31 from the view of a 3-inch telescope (70SA)",
+    "updated": "2021-03-24T22:35:24.670370",
+    "uploaded": "2019-03-19T16:02:35.820840",
+    "url_duckduckgo": "https://www.astrobin.com/396454/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396454/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396454/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396454/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396454/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396454/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396454/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d7a4d196-4183-4461-abfd-f0457fa434d3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d7a4d196-4183-4461-abfd-f0457fa434d3-1553011960.jpg",
+    "url_thumb": "https://www.astrobin.com/396454/0/rawthumb/thumb/",
+    "user": "rayliao",
+    "views": 1352,
+    "w": 2749
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-3.303",
+    "description": "Rarely imaged nebula, just over famous Witch Head Nebula in Orionis.\r\nPicture was made in paralell by two setups : OS Veloce and ATIK ONE 9M on ASA DDM 60 : luminance - 20x600 secs ;FSQ 106N, STL 11000 M on Takahashi EM-10 - colour - 6x600 secs each channel.",
+    "h": 1540,
+    "hash": null,
+    "id": 273274,
+    "imaging_cameras": [
+        "ATIK ONE 9 M",
+        "SBIG STL-11000M STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200",
+        "Takahashi FSQ 106N"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "357.164",
+    "pixscale": "2.142",
+    "published": "2016-11-24T22:27:11.972364",
+    "ra": "76.707",
+    "radius": "0.751",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/273274/",
+    "revisions": [
+        "/api/v1/imagerevision/104733/",
+        "/api/v1/imagerevision/105542/"
+    ],
+    "subjects": [
+        "NGC 1788"
+    ],
+    "title": "NGC 1788/VdB 33 in Orionis",
+    "updated": "2021-03-17T22:26:07.623531",
+    "uploaded": "2016-11-24T22:27:13.053567",
+    "url_duckduckgo": "https://www.astrobin.com/273274/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/273274/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/273274/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/273274/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/273274/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/273274/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/273274/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7649/2016/019781fe-a355-4a2e-b336-eedf0111f1fb.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7649/2016/019781fe-a355-4a2e-b336-eedf0111f1fb-1582512923.png",
+    "url_thumb": "https://www.astrobin.com/273274/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 237,
+    "w": 2000
+}

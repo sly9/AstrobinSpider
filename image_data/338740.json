@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-58.633",
+    "description": "BiColor Ha Oiii image of NGC 3324, aka Gabriela Mistral nebula due to similarity of the shape with the facial profile of the Chilean Nobel poet.  Her nose is on the right.\r\n\r\nThis image is intentionally left uncropped to see the full field of the asi-1600.\r\n\r\nThe Ha channel was directly mapped to RGB based on perceptual values for the visual impression of the H-alpha and H-beta lines.  Oiii was mapped to a similar RGB for the Oiii line.\r\n\r\nThe Oiii is relatively weak in this nebula so it was boosted by a factor of two and linearly combined with the Ha RGB.  The resulting RGB was then stretched using levels in PhotoShop.  No other processing, sharpening, or denoising was performed.\r\n\r\nThe image was acquired and stacked using custom software - including automated plate solving, focus, and acquisition of the OAG guidestar by rotation of the Pyxis to the specified angle.",
+    "h": 3520,
+    "hash": null,
+    "id": 338740,
+    "imaging_cameras": [
+        "ASI16000mm-cooled"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804126/"
+    ],
+    "orientation": "15.665",
+    "pixscale": "0.397",
+    "published": "2018-03-24T03:22:49.208445",
+    "ra": "159.437",
+    "radius": "0.322",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338740/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3324",
+        "NGC3324"
+    ],
+    "title": "NGC 3324 Gabriela Mistral Nebula",
+    "updated": "2021-03-17T16:06:51.880650",
+    "uploaded": "2018-03-24T02:49:21.440181",
+    "url_duckduckgo": "https://www.astrobin.com/338740/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338740/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338740/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338740/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338740/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338740/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338740/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14454/2018/28a43506-4ec6-4e9f-b9bc-a5b8352f5782.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14454/2018/28a43506-4ec6-4e9f-b9bc-a5b8352f5782-1582600432.jpg",
+    "url_thumb": "https://www.astrobin.com/338740/0/rawthumb/thumb/",
+    "user": "Freestar8n",
+    "views": 191,
+    "w": 4656
+}

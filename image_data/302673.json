@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "38.388",
+    "description": "This is a reprocessed version of my NGC6888 data from 2016.\r\nI just tried to find a new base for my planned RGB - HaOIII version.\r\nHope i can collect some RGB data soon ;-) !\r\n",
+    "h": 2504,
+    "hash": null,
+    "id": 302673,
+    "imaging_cameras": [
+        "Moravian G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/5 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800383/"
+    ],
+    "orientation": "88.975",
+    "pixscale": "1.220",
+    "published": "2017-07-09T12:51:22.487488",
+    "ra": "303.007",
+    "radius": "0.707",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302673/",
+    "revisions": [
+        "/api/v1/imagerevision/120089/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "NGC6888 HaOIII - reprocessed",
+    "updated": "2021-03-17T20:29:07.587505",
+    "uploaded": "2017-07-09T13:22:31.759178",
+    "url_duckduckgo": "https://www.astrobin.com/302673/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302673/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302673/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302673/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302673/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302673/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302673/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6530/2017/ec9cd0e1-0281-4e97-a514-ad74c3de9322.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6530/2017/ec9cd0e1-0281-4e97-a514-ad74c3de9322-1582601369.jpg",
+    "url_thumb": "https://www.astrobin.com/302673/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 399,
+    "w": 3335
+}

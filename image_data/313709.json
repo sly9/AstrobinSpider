@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "68.281",
+    "description": "LRGB image of VdB 141, The Ghost Nebula.  The RGB data is noisy as I had only one night thus only 5 subs for each.  I have recently been processing images without bias, flats, or darks as I've found that using dithering and removing vignetting via software works pretty well.  My camera is also fairly low noise so that helps too.  I've been simplifying the stacking process as that is my least favorite part of astrophotography.  L 22x300s, RGB 5x200s 2x2 binned.  ",
+    "h": 1852,
+    "hash": null,
+    "id": 313709,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron C-11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "177.984",
+    "pixscale": "0.652",
+    "published": "2017-09-25T19:19:13.986236",
+    "ra": "319.132",
+    "radius": "0.275",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313709/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Vdb 141",
+    "updated": "2021-03-17T19:44:35.253345",
+    "uploaded": "2017-09-25T20:11:46.457903",
+    "url_duckduckgo": "https://www.astrobin.com/313709/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313709/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313709/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313709/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313709/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313709/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313709/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/0db76fde-6e76-4ce5-92a9-90eff8352358.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0db76fde-6e76-4ce5-92a9-90eff8352358-1506367762.jpg",
+    "url_thumb": "https://www.astrobin.com/313709/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 872,
+    "w": 1824
+}

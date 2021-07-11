@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 35,
+    "comments": 58,
+    "data_source": "BACKYARD",
+    "dec": "-11.091",
+    "description": "The Seagull Nebula is my \"cross-decade\" project. &#128515;\r\n\r\nTo me, this target is hard - it's right above mega Dallas downtown light pollution dome and travel low on top of the neighbors' roof. The data came back really broke my heart. Half frame of the the O3 master is bright light pollution. Indeed, the challenge was managed well. \r\n\r\nOverall I love the final result, got the details under the wings I was expecting. I did a more \"Traditional\" color scheme with warm colors. \r\n\r\n<I>Hope you guys like it!</I> &#128065;\r\n\r\n<B>Pre-processing of Narrowband Masters</B>\r\n\r\n– Calibration / Integration, Astro Pixel Processor\r\n– Deconvolution, PixInsight (Only for H-Alpha)\r\n– MultiscaleLinearTransform (Denoise), PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Pre-processing of RGB Masters</B>\r\n\r\n– Calibration / Integration, Astro Pixel Processor\r\n– Dynamic Background Extraction, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>RGB Combination</B>\r\n\r\n– LRGBCombination, PixInsight\r\n– MorphologicalTransformation, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Narrowband Combination</B>\r\n\r\n– PixelMath, PixInsight\r\n– ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B>Narrband & RGB Combination</B>\r\n\r\n– PixelMath, PixInsight\r\n- Detail adjustments, Adobe Lightroom Classic\r\n– Final Export, Photoshop</I>",
+    "h": 3316,
+    "hash": "nm3clg",
+    "id": 448811,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 366,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/"
+    ],
+    "orientation": "358.451",
+    "pixscale": "3.294",
+    "published": "2020-01-12T07:26:10.651209",
+    "ra": "106.689",
+    "radius": "1.898",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/448811/",
+    "revisions": [
+        "/api/v1/imagerevision/212063/"
+    ],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335",
+        "NGC 2343"
+    ],
+    "title": "Backyard - IC 2177 - The Flying Seagull",
+    "updated": "2021-03-17T05:36:45.840939",
+    "uploaded": "2020-01-12T06:22:44.940392",
+    "url_duckduckgo": "https://www.astrobin.com/nm3clg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nm3clg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nm3clg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nm3clg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nm3clg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nm3clg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nm3clg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/cd02f8e7-c0b4-46fc-a3a2-d759b02186b1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/cd02f8e7-c0b4-46fc-a3a2-d759b02186b1-1582278705.png",
+    "url_thumb": "https://www.astrobin.com/nm3clg/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 2459,
+    "w": 2495
+}

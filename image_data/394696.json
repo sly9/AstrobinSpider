@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-6.418",
+    "description": "NGC 2170 HaLRGB: 1000x60s Lum, 50x300s Ha and 200x60s each RGB",
+    "h": 5736,
+    "hash": null,
+    "id": 394696,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806719/"
+    ],
+    "orientation": "2.325",
+    "pixscale": "0.739",
+    "published": "2019-03-09T00:01:35.677580",
+    "ra": "92.050",
+    "radius": "0.981",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394696/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC 2185"
+    ],
+    "title": "NGC 2170 HaLRGB",
+    "updated": "2021-03-17T11:49:25.645835",
+    "uploaded": "2019-03-09T00:01:36.192492",
+    "url_duckduckgo": "https://www.astrobin.com/394696/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394696/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394696/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394696/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394696/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394696/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394696/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21879/2019/7856e484-8321-461a-b188-f721da05c254.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21879/2019/7856e484-8321-461a-b188-f721da05c254-1582543282.jpg",
+    "url_thumb": "https://www.astrobin.com/394696/0/rawthumb/thumb/",
+    "user": "spokeshave",
+    "views": 1284,
+    "w": 7648
+}

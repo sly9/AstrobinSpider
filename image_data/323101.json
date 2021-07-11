@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "44.603",
+    "description": "",
+    "h": 2032,
+    "hash": null,
+    "id": 323101,
+    "imaging_cameras": [
+        "Atik One 6.0M Plus OAG"
+    ],
+    "imaging_telescopes": [
+        "Canon EF 200mm 2.8 L II USM"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808098/"
+    ],
+    "orientation": "0.663",
+    "pixscale": "4.824",
+    "published": "2017-11-24T09:32:18.511134",
+    "ra": "314.145",
+    "radius": "2.210",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323101/",
+    "revisions": [
+        "/api/v1/imagerevision/131067/",
+        "/api/v1/imagerevision/131068/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star ξCyg"
+    ],
+    "title": "NGC7000  EF200 f/2.8  /  ATIK ONE  /  EQ3-2 (unguided !)",
+    "updated": "2021-03-17T19:06:22.028376",
+    "uploaded": "2017-11-24T09:32:19.026082",
+    "url_duckduckgo": "https://www.astrobin.com/323101/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323101/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323101/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323101/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323101/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323101/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323101/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5412/2018/9aaf458d-ad72-453d-8934-ed9ee7cef730.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5412/2018/9aaf458d-ad72-453d-8934-ed9ee7cef730-1582516983.jpg",
+    "url_thumb": "https://www.astrobin.com/323101/0/rawthumb/thumb/",
+    "user": "Pulsar59",
+    "views": 348,
+    "w": 2598
+}

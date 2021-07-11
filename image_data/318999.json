@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "36.458",
+    "description": "",
+    "h": 2460,
+    "hash": null,
+    "id": 318999,
+    "imaging_cameras": [
+        "QSI 583ws"
+    ],
+    "imaging_telescopes": [
+        "TAKAHASHI FSQ-106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807107/"
+    ],
+    "orientation": "0.333",
+    "pixscale": "2.871",
+    "published": "2017-10-28T09:50:20.848536",
+    "ra": "60.154",
+    "radius": "1.631",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318999/",
+    "revisions": [
+        "/api/v1/imagerevision/128871/"
+    ],
+    "subjects": [
+        "California nebula",
+        "NGC 1499",
+        "The star ξPer"
+    ],
+    "title": "NGC1499 California Nebula SHO",
+    "updated": "2021-06-13T09:17:09.836048",
+    "uploaded": "2017-10-28T10:50:21.969277",
+    "url_duckduckgo": "https://www.astrobin.com/318999/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318999/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318999/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318999/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318999/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318999/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318999/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22865/2017/f182d0bf-6bc9-469e-a9bc-7bfa44d7f3e2.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22865/2017/f182d0bf-6bc9-469e-a9bc-7bfa44d7f3e2-1582583612.jpeg",
+    "url_thumb": "https://www.astrobin.com/318999/0/rawthumb/thumb/",
+    "user": "MasahiroTakahashi",
+    "views": 436,
+    "w": 3267
+}

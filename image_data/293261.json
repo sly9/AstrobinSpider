@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "69.437",
+    "description": "",
+    "h": 7173,
+    "hash": null,
+    "id": 293261,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801147/"
+    ],
+    "orientation": "91.942",
+    "pixscale": "1.166",
+    "published": "2017-04-25T19:48:31.074854",
+    "ra": "148.582",
+    "radius": "1.867",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293261/",
+    "revisions": [
+        "/api/v1/imagerevision/230875/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "M81 & M82 with IFN",
+    "updated": "2021-03-17T21:05:01.028469",
+    "uploaded": "2017-04-25T20:48:32.645621",
+    "url_duckduckgo": "https://www.astrobin.com/293261/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293261/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293261/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293261/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293261/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293261/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293261/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6697/2017/802d050d-be10-4cbd-acc1-c508f88c11ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6697/2017/802d050d-be10-4cbd-acc1-c508f88c11ea-1582462874.jpg",
+    "url_thumb": "https://www.astrobin.com/293261/0/rawthumb/thumb/",
+    "user": "MrFavro",
+    "views": 314,
+    "w": 9023
+}

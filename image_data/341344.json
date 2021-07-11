@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "55.002",
+    "description": "My version of the owl nebula. I had some bad conditions while gathering my OIII data, so that in the end I couldn't manage to bring out the halo around the nebula properly. But nevertheless I could get some nice structures , which are shown in the H-Alpha areas.",
+    "h": 1255,
+    "hash": null,
+    "id": 341344,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" Carbon"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 144,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "93.968",
+    "pixscale": "0.978",
+    "published": "2018-04-12T08:37:25.014343",
+    "ra": "168.736",
+    "radius": "0.291",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341344/",
+    "revisions": [],
+    "subjects": [
+        "M 97",
+        "M97",
+        "NGC 3587",
+        "Owl Nebula",
+        "Owl nebula"
+    ],
+    "title": "M97 - Owl Nebula (Bicolor)",
+    "updated": "2021-03-17T15:54:50.573457",
+    "uploaded": "2018-04-12T01:09:19.571418",
+    "url_duckduckgo": "https://www.astrobin.com/341344/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341344/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341344/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341344/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341344/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341344/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341344/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2018/ae026e12-7b2d-4a0a-baff-d3bb01403c50.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2018/ae026e12-7b2d-4a0a-baff-d3bb01403c50-1585562354.jpg",
+    "url_thumb": "https://www.astrobin.com/341344/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 803,
+    "w": 1735
+}

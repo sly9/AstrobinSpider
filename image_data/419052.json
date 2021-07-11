@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "60.148",
+    "description": "Revisiting the Fireworks Galaxy a year later now that everything is dialed in pretty well.\r\n\r\n3 hours in each color channel really helps with color fidelity and low noise. \r\n\r\nI collected 10 hours of luminance but only kept 6 with the lowest FWHM. The full 10 hours had a marginally smoother background noise, but really no more detail. The best 6 hours yielded noticeably sharper detail and rounder stars.\r\n\r\nThe relatively dark skies (21.5), low humidity and long exposure helped expose the extent of the spiral arms hidden behind the dust of our own galaxy.\r\n\r\nI believe the color is accurate with PI Photometric Color Calibration. IMHO, some images, like Robert Gendler's APOD with the Subaru Telescope, appear to have a bluish tint and less spiral struture...\r\n\r\nhttps://apod.nasa.gov/apod/ap180224.html\r\n\r\n\"From our vantage point in the Milky Way Galaxy, we see NGC 6946 face-on. The big, beautiful spiral galaxy is located just 20 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation of Cepheus. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, since the early 20th century ten confirmed supernovae, the death explosions of massive stars, were discovered in NGC 6946. Nearly 40,000 light-years across, NGC 6946 is also known as the Fireworks Galaxy.\"\r\n\r\nComments are always welcome!",
+    "h": 2240,
+    "hash": null,
+    "id": 419052,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "269.229",
+    "pixscale": "0.468",
+    "published": "2019-08-04T17:54:01.065654",
+    "ra": "308.716",
+    "radius": "0.220",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/419052/",
+    "revisions": [],
+    "subjects": [
+        "Fireworks Galaxy",
+        "NGC 6946",
+        "NGC6946"
+    ],
+    "title": "Fireworks Galaxy",
+    "updated": "2021-03-17T09:53:53.166418",
+    "uploaded": "2019-08-04T18:54:01.178568",
+    "url_duckduckgo": "https://www.astrobin.com/419052/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419052/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419052/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419052/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419052/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419052/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419052/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/8a104b0b-a477-48e7-ae28-0ad132e95f1e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/8a104b0b-a477-48e7-ae28-0ad132e95f1e-1585754051.jpg",
+    "url_thumb": "https://www.astrobin.com/419052/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 633,
+    "w": 2528
+}

@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "60.921",
+    "description": "HaLRGB presentation.\r\nHa:19x1200 secs, LRGB: 6x600 secs each channel.",
+    "h": 1508,
+    "hash": null,
+    "id": 331979,
+    "imaging_cameras": [
+        "ATIK ONE 9 M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/",
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "3.951",
+    "pixscale": "2.088",
+    "published": "2018-02-02T23:15:25.189753",
+    "ra": "14.886",
+    "radius": "0.726",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331979/",
+    "revisions": [
+        "/api/v1/imagerevision/136206/",
+        "/api/v1/imagerevision/136208/",
+        "/api/v1/imagerevision/136218/",
+        "/api/v1/imagerevision/136224/",
+        "/api/v1/imagerevision/138580/",
+        "/api/v1/imagerevision/139758/",
+        "/api/v1/imagerevision/139759/",
+        "/api/v1/imagerevision/139804/",
+        "/api/v1/imagerevision/139839/"
+    ],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "Gamma Cas, IC 59 and IC 63",
+    "updated": "2021-03-17T16:38:28.513825",
+    "uploaded": "2018-02-02T23:15:25.565499",
+    "url_duckduckgo": "https://www.astrobin.com/331979/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331979/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331979/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331979/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331979/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331979/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331979/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7649/2018/27698228-5d8f-4b28-a5aa-d08e9264f60e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7649/2018/27698228-5d8f-4b28-a5aa-d08e9264f60e-1582512448.png",
+    "url_thumb": "https://www.astrobin.com/331979/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 401,
+    "w": 2000
+}

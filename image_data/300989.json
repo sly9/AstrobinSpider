@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "44.375",
+    "description": "Here's my rendition of the Pelican Nebula IC 5070.  The total integration time is 26.6 Hours.  H-Alpha 3.5nm 30 subs @1200s, OIII 3nm 25 subs @1200s, and SII 3nm 25 subs @1200s.  R=60%SII+40%H-Alpha, G=25%SII+25%H-Alpha+50%OIII,  B=15%H-Alpha+85%OIII, and Luminance is synthetically created from the three.",
+    "h": 2286,
+    "hash": null,
+    "id": 300989,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "-170.149",
+    "pixscale": "1.328",
+    "published": "2017-06-26T06:48:30.486734",
+    "ra": "312.713",
+    "radius": "1.416",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300989/",
+    "revisions": [],
+    "subjects": [
+        "56 Cyg",
+        "57 Cyg",
+        "B349",
+        "IC 5070",
+        "IC5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC5070 Pelican Nebula Modified SHO",
+    "updated": "2021-05-06T02:54:21.585809",
+    "uploaded": "2017-06-26T07:48:31.536800",
+    "url_duckduckgo": "https://www.astrobin.com/300989/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300989/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300989/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300989/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300989/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300989/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300989/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/97a2eee5-6da0-4b8c-a9c2-0adbebb77c62.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/97a2eee5-6da0-4b8c-a9c2-0adbebb77c62-1498460983.jpg",
+    "url_thumb": "https://www.astrobin.com/300989/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 201,
+    "w": 1824
+}

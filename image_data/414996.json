@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 58,
+    "data_source": "OWN_REMOTE",
+    "dec": "43.598",
+    "description": "Back when I first started trying to take images of the sky using film in the late 60's, the North American nebula was the second object that I managed to capture (after M42).  It was faint and it proved to be more challenging than the Orion nebula but it was big so I could go after it with my dad's Argus C3 attached to my mount using hand guiding.   I've since imaged it with my C14/HyperStar setup from Bend using an OSC camera, but I've never seriously gone after a narrow-field image of the Wall with the C14 Edge.  The weather out at the observatory continued to be up and down through May and June and after having to abandon a number of galaxy projects to bad weather, the moon, and eventually having them sink out of view, it was time for a new project.  With Cygnus rising, it seemed like the time was right to finally go after the Great Wall.\r\n\r\nAs usual, nothing was easy.  I've continued to have intermittent trouble with my guide camera so I made a trip out to New Mexico to replace the old ASI-1600MM-C with a new \"Pro\" version.  I got it replaced and did some quick testing before heading home.  As soon as I got home and tried it again, it kept intermittently freezing up!  My system was almost bricked and it was panic time.  After some discussions with Gaston at IFI, he did a quick test for me and sent me a screen grab.  That was my ah-ha moment.  I spotted his version numbers and realized that I forgot to update all my drivers.  DUH.  Once I got everything updated, it has since worked pretty much flawlessly.  Updating MaximDL broke it's ability to slew, plate solve and re-sync the mount to the new coordinates so now I've got a new problem to track down.   This is why I still have a love/hate relationship with updates.\r\n\r\nThis narrow band image shows the convoluted emission nebula and dust along the west coast of the Mexico region of the North American nebula.  This is a region rich in star formation and it contains numerous tadpoles and Bok globules.  They are visible in the lower right side image dominated by O3 emissions.  In spite of weather that went up and down for two months, I was able to gather a fair amount of high quality data to produce a pretty clean image.  On two nights, I captured 15 out of 18 images that were good, which is much higher than my normal yield.  Some of the images approached 1.5\" FWHM.   After stacking, I used the Mure Denoise algorithm to gently clean up the stacked data, which produced some of the cleanest data that I've ever worked with.  It's so clean that I'm a bit concerned that some might think that it's \"over smoothed\" and that's definitely not the case.  Zoom in and look around.  There's a lot going on in this view that isn't so easily seen in wider field images.\r\n\r\nI always welcome comments (both good and bad) so feel free to let me know what you think.\r\n\r\nJohn\r\n\r\n\r\nPS  I sure wish that I could get AB to display the image the way it appears on my local screen.  Here it appears a bit soft and lower contrast compared to how I see the original.",
+    "h": 1824,
+    "hash": null,
+    "id": 414996,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 290,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "359.604",
+    "pixscale": "0.477",
+    "published": "2019-07-12T18:28:24.949247",
+    "ra": "314.894",
+    "radius": "0.330",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/414996/",
+    "revisions": [
+        "/api/v1/imagerevision/185543/"
+    ],
+    "subjects": [],
+    "title": "The Great Wall in NGC 7000",
+    "updated": "2021-05-21T22:48:27.190882",
+    "uploaded": "2019-07-12T18:25:24.742799",
+    "url_duckduckgo": "https://www.astrobin.com/414996/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414996/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414996/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414996/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414996/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414996/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414996/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0a77f13e-9461-4d1e-bc00-9021ff19cdba.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0a77f13e-9461-4d1e-bc00-9021ff19cdba-1562958660.jpg",
+    "url_thumb": "https://www.astrobin.com/414996/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 2356,
+    "w": 1824
+}

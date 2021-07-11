@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "A starless version of the cygnus wall in SHO (revision).\r\nI used the first time the star removal programm Starnet++ by Nikita Misiura.\r\nMany Thanks to Nikita, it is a great star removal software.\r\n\r\nData:\r\nSII: 22x180s\r\nH-alpha: 72x150s\r\nOIII: 24x150s",
+    "h": 2849,
+    "hash": null,
+    "id": 404252,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM-C"
+    ],
+    "imaging_telescopes": [
+        "TS 80 Individual ED Apo"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808402/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-05-05T13:05:47.275514",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404252/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Cygnus wall - SHO (starless)",
+    "updated": "2021-03-17T11:04:39.574046",
+    "uploaded": "2019-05-05T14:05:48.323309",
+    "url_duckduckgo": "https://www.astrobin.com/404252/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404252/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404252/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404252/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404252/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404252/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404252/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/404252/0/rawthumb/thumb/",
+    "user": "U-ranus",
+    "views": 474,
+    "w": 4242
+}

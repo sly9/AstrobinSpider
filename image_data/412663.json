@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "25.985",
+    "description": "Finally got around to processing this data I had from The Needle Galaxy back from end of March.\r\n\r\nExposures as follows..\r\n\r\nR: 88 minutes\r\nG: 86 minutes\r\nB: 76 minutes\r\n\r\nA mix of 240s and 120s subs.\r\n\r\nA synthetic luminance was created by stacking all RGB subs together.\r\n\r\nCaptured with the wonderful NINA imaging software, pre-processed with APP, Linear processing and stretching in Pixinsight, last tweaks and resampling to 50% done in PS.",
+    "h": 1232,
+    "hash": null,
+    "id": 412663,
+    "imaging_cameras": [
+        "Altair Astro HyperCam 183m v2"
+    ],
+    "imaging_telescopes": [
+        "Skywtacher Evostar 80ED ds-Pro"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809697/"
+    ],
+    "orientation": "106.956",
+    "pixscale": "1.900",
+    "published": "2019-07-01T19:00:48.427729",
+    "ra": "189.098",
+    "radius": "0.849",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/412663/",
+    "revisions": [
+        "/api/v1/imagerevision/184210/"
+    ],
+    "subjects": [
+        "NGC 4555",
+        "NGC 4562",
+        "NGC 4565"
+    ],
+    "title": "The Needle Galaxy in RGB",
+    "updated": "2021-03-17T10:24:12.302421",
+    "uploaded": "2019-06-30T20:31:39.607040",
+    "url_duckduckgo": "https://www.astrobin.com/412663/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/412663/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/412663/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/412663/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/412663/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/412663/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/412663/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1068742b-a9de-4663-afa6-46fdc7f2828f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1068742b-a9de-4663-afa6-46fdc7f2828f-1561927406.jpg",
+    "url_thumb": "https://www.astrobin.com/412663/0/rawthumb/thumb/",
+    "user": "jjosefsen",
+    "views": 371,
+    "w": 1824
+}

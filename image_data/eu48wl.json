@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 30,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "42.896",
+    "description": "23.JAN.2020 - Celestron Edge HD 1100 + Hyperstar v4\r\n20 x 600s Baader O3 HighSpeed f/2 Filter\r\n\r\n29.DEZ.2019 - Celestron Edge HD 1100 + Hyperstar v4\r\n14 x 600s Baader Ha HighSpeed f/2 Filter\r\n\r\n29.DEZ.2019 + 23.JAN.2020 - Takahashi FSQ-85 + Moravian G2-8300 FW\r\n28 x 120s Astronomik LRGB",
+    "h": 1758,
+    "hash": "eu48wl",
+    "id": 452472,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW",
+        "ZWO ASI 1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 339,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "359.815",
+    "pixscale": "2.915",
+    "published": "2020-01-31T05:00:06.887446",
+    "ra": "81.642",
+    "radius": "0.892",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/452472/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-224"
+    ],
+    "title": "Sh2-224 in HaO3-LRGB",
+    "updated": "2021-03-17T05:18:57.290510",
+    "uploaded": "2020-01-31T05:00:07.038135",
+    "url_duckduckgo": "https://www.astrobin.com/eu48wl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/eu48wl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/eu48wl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/eu48wl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/eu48wl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/eu48wl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/eu48wl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/91262722-5a6a-4cbb-9acc-4fe33f116069.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/91262722-5a6a-4cbb-9acc-4fe33f116069-1582273587.jpg",
+    "url_thumb": "https://www.astrobin.com/eu48wl/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 946,
+    "w": 1327
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.536",
+    "description": "The RGB were taken on the AG12+ASI1600MM at .70 asec/pix, the L on TV127is+ASI183MM at .75 asec/pix. Using L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThis PN is very small, 2.2 arcmin across, and is particularly challenging to bring out the core detail because the core is so bright.  A wide range of exposures is required to provide the required dynamic range.  \r\n\r\nRevision C does not use the 5,10,20 second exposures.  I discovered that the 60 + 300 second exposures gave plenty of dynamic range.  I also did less of a crop to give a larger FOV.\r\n\r\nNGC 7662, also known as the Blue Snowball Nebula or Snowball Nebula, is a planetary nebula located in the constellation Andromeda.\r\n\r\nIt has a faint central star that is variable, with a magnitude range of 12 to 16. The central star is a bluish dwarf with a continuous spectrum and a computed temperature of about 75,000K. The nuclei of the planetary nebulae are among the hottest stars known.\r\n\r\nNGC 7662 is a popular planetary nebula for casual observers. A small telescope will reveal a star-like object with slight nebulosity. A 6\" telescope with a magnification around 100x will reveal a slightly bluish disk, while telescopes with a primary mirror at least 16\" in diameter may reveal slight color and brightness variations in the interior.\r\n(Wikipedia)",
+    "h": 1145,
+    "hash": null,
+    "id": 389574,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 163,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "357.803",
+    "pixscale": "0.489",
+    "published": "2019-02-06T17:21:29.657856",
+    "ra": "351.474",
+    "radius": "0.125",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/389574/",
+    "revisions": [
+        "/api/v1/imagerevision/169719/"
+    ],
+    "subjects": [
+        "Blue Snowball",
+        "NGC 7662"
+    ],
+    "title": "NGC7662 Blue Snowball",
+    "updated": "2021-03-17T12:12:38.299866",
+    "uploaded": "2019-02-06T16:49:17.059200",
+    "url_duckduckgo": "https://www.astrobin.com/389574/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/389574/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/389574/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/389574/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/389574/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/389574/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/389574/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/20123e73-be0f-4ff4-9681-89ff4bfe1db1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/20123e73-be0f-4ff4-9681-89ff4bfe1db1-1582590875.jpg",
+    "url_thumb": "https://www.astrobin.com/389574/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 461,
+    "w": 1431
+}

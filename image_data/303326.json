@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 25,
+    "data_source": "UNSET",
+    "dec": "22.710",
+    "description": "The Dumbbell Nebula in Narrowband. This was shot at F10 (0.28 arcsec/pix) with ASI1600 in unity gain.  ",
+    "h": 1529,
+    "hash": null,
+    "id": 303326,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 199,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "295.039",
+    "pixscale": "0.543",
+    "published": "2017-07-14T22:30:32.577560",
+    "ra": "299.898",
+    "radius": "0.167",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303326/",
+    "revisions": [
+        "/api/v1/imagerevision/124412/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M27 High res",
+    "updated": "2021-03-17T20:26:36.868508",
+    "uploaded": "2017-07-14T23:30:33.614499",
+    "url_duckduckgo": "https://www.astrobin.com/303326/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303326/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303326/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303326/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303326/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303326/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303326/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7483/2017/f20bcab0-dcde-4caa-9b28-1c3a4eb2556a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/f20bcab0-dcde-4caa-9b28-1c3a4eb2556a-1500071720.png",
+    "url_thumb": "https://www.astrobin.com/303326/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 1147,
+    "w": 1600
+}

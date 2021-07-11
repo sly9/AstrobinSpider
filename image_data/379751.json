@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-15.723",
+    "description": "Comet Wirtanen is making a close pass to the Earth, and although it's moving very quickly here's a first run of 1 hour's data.",
+    "h": 1827,
+    "hash": null,
+    "id": 379751,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA 16N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799640/"
+    ],
+    "orientation": "356.523",
+    "pixscale": "0.760",
+    "published": "2018-12-06T10:45:06.857211",
+    "ra": "40.553",
+    "radius": "0.322",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/379751/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "46P Wirtanen",
+    "updated": "2021-03-17T12:57:11.949311",
+    "uploaded": "2018-12-06T10:45:07.003315",
+    "url_duckduckgo": "https://www.astrobin.com/379751/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/379751/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/379751/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/379751/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/379751/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/379751/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/379751/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1473/2018/94cc9609-2bb9-4daf-b8ac-ccd23acb74c3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1473/2018/94cc9609-2bb9-4daf-b8ac-ccd23acb74c3-1597399060.jpg",
+    "url_thumb": "https://www.astrobin.com/379751/0/rawthumb/thumb/",
+    "user": "alocky",
+    "views": 212,
+    "w": 2445
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "73.103",
+    "description": "Jaws",
+    "h": 1824,
+    "hash": null,
+    "id": 303743,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "http://delsaert.files.wordpress.com/2017/07/ldn1235_lrgb.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "-179.075",
+    "pixscale": "1.606",
+    "published": "2017-07-17T20:19:36.223891",
+    "ra": "332.391",
+    "radius": "0.946",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303743/",
+    "revisions": [
+        "/api/v1/imagerevision/120707/"
+    ],
+    "subjects": [],
+    "title": "LDN1235",
+    "updated": "2021-05-08T15:52:07.142989",
+    "uploaded": "2017-07-17T21:19:37.102530",
+    "url_duckduckgo": "https://www.astrobin.com/303743/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303743/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303743/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303743/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303743/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303743/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303743/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/8881c458-d83a-450b-a5b7-80fba2e44b40.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8881c458-d83a-450b-a5b7-80fba2e44b40-1500322954.jpg",
+    "url_thumb": "https://www.astrobin.com/303743/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 772,
+    "w": 1824
+}

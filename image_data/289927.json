@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "41.366",
+    "description": "Data capture for this was completed in October 2015.  I have put a single date in October in order that the total amount of data for each filter/exposure duration is clearer.    ",
+    "h": 2574,
+    "hash": null,
+    "id": 289927,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "285.201",
+    "pixscale": "2.664",
+    "published": "2017-04-02T17:10:41.442012",
+    "ra": "10.842",
+    "radius": "1.188",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/289927/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31",
+    "updated": "2021-03-17T21:21:58.435986",
+    "uploaded": "2017-04-02T18:10:42.503339",
+    "url_duckduckgo": "https://www.astrobin.com/289927/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/289927/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/289927/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/289927/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/289927/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/289927/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/289927/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2017/ab9b868e-261a-4e98-b8f8-2ef1c604de4c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2017/ab9b868e-261a-4e98-b8f8-2ef1c604de4c-1582606360.jpg",
+    "url_thumb": "https://www.astrobin.com/289927/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 368,
+    "w": 1920
+}

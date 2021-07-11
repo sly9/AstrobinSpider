@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 15,
+    "data_source": "UNSET",
+    "dec": "38.334",
+    "description": "I went with the HOO palette on the Crescent nebula (Ha in the \"Red Channel\" and OIII in the \"Green and Blue Channels\".  All stacking and post-processing was done in PixInsight.",
+    "h": 2890,
+    "hash": null,
+    "id": 310326,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Nexstar 8SE"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "346.701",
+    "pixscale": "0.583",
+    "published": "2017-08-31T19:41:13.028592",
+    "ra": "303.035",
+    "radius": "0.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310326/",
+    "revisions": [
+        "/api/v1/imagerevision/124062/",
+        "/api/v1/imagerevision/124115/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "Crescent Nebula (NGC 6888) Captured with Ha and OIII",
+    "updated": "2021-03-17T19:58:34.240362",
+    "uploaded": "2017-08-31T20:11:39.947500",
+    "url_duckduckgo": "https://www.astrobin.com/310326/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310326/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310326/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310326/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310326/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310326/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310326/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22932/2017/87e381d3-0a83-450f-acb0-b736eac2595a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22932/2017/87e381d3-0a83-450f-acb0-b736eac2595a-1582569512.jpg",
+    "url_thumb": "https://www.astrobin.com/310326/0/rawthumb/thumb/",
+    "user": "YobSnob",
+    "views": 407,
+    "w": 3753
+}

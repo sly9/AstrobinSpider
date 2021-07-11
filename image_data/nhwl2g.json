@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "13.643",
+    "description": "",
+    "h": 2304,
+    "hash": "nhwl2g",
+    "id": 451677,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 with external FW"
+    ],
+    "imaging_telescopes": [
+        "10\" Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800418/"
+    ],
+    "orientation": "89.456",
+    "pixscale": "1.225",
+    "published": "2020-01-26T21:00:58.116923",
+    "ra": "25.758",
+    "radius": "0.674",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451677/",
+    "revisions": [
+        "/api/v1/imagerevision/209355/"
+    ],
+    "subjects": [
+        "NGC 660"
+    ],
+    "title": "NGC660",
+    "updated": "2021-03-17T05:22:45.673518",
+    "uploaded": "2020-01-26T21:00:58.322006",
+    "url_duckduckgo": "https://www.astrobin.com/nhwl2g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nhwl2g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nhwl2g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nhwl2g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nhwl2g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nhwl2g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nhwl2g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4117/2020/363b0d2f-a4e3-4554-b9b2-237f2fe7463e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4117/2020/363b0d2f-a4e3-4554-b9b2-237f2fe7463e-1582274439.jpg",
+    "url_thumb": "https://www.astrobin.com/nhwl2g/0/rawthumb/thumb/",
+    "user": "chlopak",
+    "views": 133,
+    "w": 3222
+}

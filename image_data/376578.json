@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "-36.142",
+    "description": "",
+    "h": 1774,
+    "hash": null,
+    "id": 376578,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 131,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810008/"
+    ],
+    "orientation": "281.977",
+    "pixscale": "0.991",
+    "published": "2018-11-14T08:30:01.544409",
+    "ra": "53.408",
+    "radius": "0.387",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/376578/",
+    "revisions": [
+        "/api/v1/imagerevision/162050/",
+        "/api/v1/imagerevision/162053/",
+        "/api/v1/imagerevision/162114/"
+    ],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "NGC 1365",
+    "updated": "2021-04-16T16:54:58.282936",
+    "uploaded": "2018-11-13T13:14:02.755143",
+    "url_duckduckgo": "https://www.astrobin.com/376578/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/376578/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/376578/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/376578/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/376578/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/376578/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/376578/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2018/ca33621c-bdd5-41e8-8187-f86f660cd4ef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2018/ca33621c-bdd5-41e8-8187-f86f660cd4ef-1582593983.jpg",
+    "url_thumb": "https://www.astrobin.com/376578/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 614,
+    "w": 2181
+}

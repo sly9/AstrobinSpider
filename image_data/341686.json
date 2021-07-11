@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.313",
+    "description": "",
+    "h": 1649,
+    "hash": null,
+    "id": 341686,
+    "imaging_cameras": [
+        "Atik One 6.0"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808835/"
+    ],
+    "orientation": "258.395",
+    "pixscale": "0.917",
+    "published": "2018-04-14T17:00:36.327209",
+    "ra": "184.700",
+    "radius": "0.336",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/341686/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106 HaLRGB",
+    "updated": "2021-03-17T15:53:05.045423",
+    "uploaded": "2018-04-14T18:00:37.652308",
+    "url_duckduckgo": "https://www.astrobin.com/341686/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341686/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341686/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341686/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341686/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341686/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341686/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/dc127606-cb31-4d46-b339-da27dfd0257e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dc127606-cb31-4d46-b339-da27dfd0257e-1523725593.jpg",
+    "url_thumb": "https://www.astrobin.com/341686/0/rawthumb/thumb/",
+    "user": "rayliao",
+    "views": 1796,
+    "w": 2062
+}

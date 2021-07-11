@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-23.921",
+    "description": "Sharpless 2-308 in HaOIII.  Sh2-308 is a bubble nebula associated with a Wolf-Rayet star (SAO 172546, HD 50896, WR6 or EZ CMa, the bright star left of center).  It is about 6000 light years away in the constellation Canis Major.  At this distance its angular diameter subtends around 19 parsecs across.\r\n\r\nOIII dominates this nebula, although there is quite a bit of Ha along the western limb and the background.  Due to the low elevation, it took about 4 months to obtain the subframes for this image, sometimes taking just a pair of OII or Ha frames a night.  This is a two frame mosaic and the cropping was a bit tight as I had a slight rotation in my frames of about 6 degrees.",
+    "h": 2772,
+    "hash": null,
+    "id": 285120,
+    "imaging_cameras": [
+        "QHY22"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics AP155EDFS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 137,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801427/"
+    ],
+    "orientation": "-6.260",
+    "pixscale": "1.090",
+    "published": "2017-02-26T03:25:26.617423",
+    "ra": "103.630",
+    "radius": "0.561",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/285120/",
+    "revisions": [],
+    "subjects": [
+        "The star ο1CMa"
+    ],
+    "title": "Sharpless2-308 in HaOIII Mosaic",
+    "updated": "2021-03-17T21:40:04.944328",
+    "uploaded": "2017-02-26T03:25:27.199260",
+    "url_duckduckgo": "https://www.astrobin.com/285120/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/285120/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/285120/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/285120/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/285120/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/285120/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/285120/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b420f7ba-c7a1-473b-96b3-0d164e8c6b6f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b420f7ba-c7a1-473b-96b3-0d164e8c6b6f-1488079766.png",
+    "url_thumb": "https://www.astrobin.com/285120/0/rawthumb/thumb/",
+    "user": "fbzolt",
+    "views": 644,
+    "w": 2456
+}

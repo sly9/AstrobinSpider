@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "43.689",
+    "description": "The Great Wall in SHO\r\nASI1600 on an MN190, gain 200\r\nHa - 84 x 120s\r\nOIII - 82 x 120s\r\nSII - 85 - 120s",
+    "h": 2499,
+    "hash": null,
+    "id": 319750,
+    "imaging_cameras": [
+        "zwo ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher MN190"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 13,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801917/"
+    ],
+    "orientation": "88.379",
+    "pixscale": "0.784",
+    "published": "2017-11-01T15:36:55.115998",
+    "ra": "314.910",
+    "radius": "0.451",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319750/",
+    "revisions": [
+        "/api/v1/imagerevision/135564/"
+    ],
+    "subjects": [],
+    "title": "The Great Wall NGC 7000",
+    "updated": "2021-03-17T19:19:52.769256",
+    "uploaded": "2017-11-01T15:36:56.052890",
+    "url_duckduckgo": "https://www.astrobin.com/319750/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319750/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319750/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319750/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319750/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319750/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319750/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7727/2017/268aa56d-f641-4e5f-b03c-fe3d5140ec1d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7727/2017/268aa56d-f641-4e5f-b03c-fe3d5140ec1d-1582447337.jpg",
+    "url_thumb": "https://www.astrobin.com/319750/0/rawthumb/thumb/",
+    "user": "rkayakr",
+    "views": 193,
+    "w": 3307
+}

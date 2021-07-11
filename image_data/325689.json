@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 24,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "18.991",
+    "description": "NGC772 in Aries takes almost 6 pages in Annals of the Deep Sky Vol.2  so there is a lot to say about it. Discovered by John Herschel in 1785 it later became Nr. 78 in Halton Arp's catalogue of peculiar galaxies. And peculiar it is. Tidal streams seem to connect to a line of neighbour galaxies, but some of the individual redshifts are very different from NGC772. The only true companion is NGC770, the spheroidal galaxy with the thicker star stream beneath. Interaction with it is also considered to be the probable cause of the disturbance so pronounced visible in NGC772.\r\n\r\nLRGB of 56+11+8+10 x 3min subframes, Lacerta 10\" f/4 photonewton with ASI1600MMC",
+    "h": 2340,
+    "hash": null,
+    "id": 325689,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 303,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "88.954",
+    "pixscale": "1.177",
+    "published": "2017-12-14T00:15:27.787933",
+    "ra": "29.835",
+    "radius": "0.629",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325689/",
+    "revisions": [
+        "/api/v1/imagerevision/132401/",
+        "/api/v1/imagerevision/132402/"
+    ],
+    "subjects": [
+        "NGC 770",
+        "NGC 772",
+        "NGC770",
+        "NGC772"
+    ],
+    "title": "NGC772",
+    "updated": "2021-03-17T18:55:33.908295",
+    "uploaded": "2017-12-14T00:15:29.688598",
+    "url_duckduckgo": "https://www.astrobin.com/325689/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325689/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325689/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325689/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325689/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325689/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325689/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/1debec61-0816-4f32-8c5c-126573529979.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/1debec61-0816-4f32-8c5c-126573529979-1582612022.png",
+    "url_thumb": "https://www.astrobin.com/325689/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 2439,
+    "w": 3054
+}

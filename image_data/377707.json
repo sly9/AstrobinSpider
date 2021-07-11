@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "30.649",
+    "description": "The galaxy M33 - data captured over two nights. The flats ended up a bit underexposed (still unsure why...), so had to do a lot of work on flattening the image in post. Might give it another go at a later time, but pleased with what I got so far.",
+    "h": 1364,
+    "hash": null,
+    "id": 377707,
+    "imaging_cameras": [
+        "QHYCCD QHY163m"
+    ],
+    "imaging_telescopes": [
+        "TS Photoline 102mm F7 Triplet Apo"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806710/"
+    ],
+    "orientation": "84.260",
+    "pixscale": "2.718",
+    "published": "2018-11-20T07:06:43.977923",
+    "ra": "23.437",
+    "radius": "1.070",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/377707/",
+    "revisions": [],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "Triangulum Galaxy M33",
+    "updated": "2021-03-26T09:45:14.152590",
+    "uploaded": "2018-11-20T07:06:44.120017",
+    "url_duckduckgo": "https://www.astrobin.com/377707/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/377707/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/377707/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/377707/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/377707/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/377707/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/377707/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/308e5597-f2a5-436a-9bee-95b75a278a16.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/308e5597-f2a5-436a-9bee-95b75a278a16-1542697910.png",
+    "url_thumb": "https://www.astrobin.com/377707/0/rawthumb/thumb/",
+    "user": "Lasastard",
+    "views": 397,
+    "w": 1824
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 35,
+    "data_source": "BACKYARD",
+    "dec": "-13.221",
+    "description": "It has been three years since I last imaged the beautiful emission nebula NGC 2359 or Thor's Helmet.  Located in Canis Major Thor's Helmet is approximately 12,000 light-years away and is about 30 light-years across.  The central star is a Wolf-Rayet star (hot star in a pre-supernova stage) which is creating the bubble structure as the fast moving solar winds interact with the surrounding molecular cloud.  This has a strong oxygen signal which produces the blue color although there is some hydrogen.  There is a lot of faint nebulosity surrounding the main bright areas which was one reason why I did not crop it any further.\r\n\r\nI was not at all planning on imaging this this year, however, weather and available objects in my field of view made this an 'ideal' target.  Ideal is questionable as it sits low in the south sky where there is heavy light pollution and my FOV only allows a maximum of less than 2 hrs on it.  Oddly enough the Ha data was not great as I had trouble with getting good focus.  I had to toss the first night of data.  The transparency was not good and given the normal light pollution to the south made good focus challenging.  I had slightly better focus subsequent nights as transparency was better and decided to go with the data.  Conversely, the OIII data was very good, usually that is worse than the Ha but this time.  This turned out much better than I expected after seeing the initial data.  This image, not surprisingly, much better than my not so good image from 3 years ago - before PixInsight, smaller telescope, and DSLR.\r\n\r\nFinally, this is my first image taken with the HoTech Field Flattener as I will not be using the Focal Reducer/Field Flatter combo for galaxy season.  Although I will be concentrating on galaxies for a couple of months I wanted to see how it worked on a nebula since - the other reason I went with Thor.  I wrote with extensive help from Gary Imm a webpost on How Focal Reducers Work and attached the link here.  I also created a video How Focal Reducers Work as well.\r\n\r\nWebpost on How Focal Reducers Work:\r\n <a href=\"http://astroquest1.blogspot.com/2020/03/how-do-focal-reducers-work.html\"_new\">Link to Webpost article</a>\r\n\r\nYouTube on How Focal Reducers Work:\r\n <a href=\"https://youtu.be/4ins4hXIzLM\"; target=\"_new\">Link to Video </a>",
+    "h": 2003,
+    "hash": "aply79",
+    "id": 466871,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "http://astroquest1.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "93.029",
+    "pixscale": "0.988",
+    "published": "2020-03-20T21:52:44.199059",
+    "ra": "109.657",
+    "radius": "0.468",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/466871/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "NGC 2359 - Thor's Helmet (2020) - HOO",
+    "updated": "2021-04-25T11:48:57.644631",
+    "uploaded": "2020-03-20T21:52:44.394405",
+    "url_duckduckgo": "https://www.astrobin.com/aply79/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/aply79/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/aply79/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/aply79/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/aply79/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/aply79/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/aply79/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/f4451ab4-307b-4c7f-9542-75cb90546809.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/f4451ab4-307b-4c7f-9542-75cb90546809-1584741520.jpg",
+    "url_thumb": "https://www.astrobin.com/aply79/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 387,
+    "w": 2757
+}

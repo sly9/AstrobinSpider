@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "0.225",
+    "description": "A night session for equipment testing turns into a nice opportunity to image the recently discovered supernova SN2018icv. Another great night at the AAGC - Agrupacion Astronomica de Gran Canaria.",
+    "h": 2268,
+    "hash": null,
+    "id": 378911,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806901/"
+    ],
+    "orientation": "90.260",
+    "pixscale": "1.522",
+    "published": "2018-11-30T00:46:00.319439",
+    "ra": "40.565",
+    "radius": "0.768",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/378911/",
+    "revisions": [
+        "/api/v1/imagerevision/163518/",
+        "/api/v1/imagerevision/163520/",
+        "/api/v1/imagerevision/163524/",
+        "/api/v1/imagerevision/163874/",
+        "/api/v1/imagerevision/163877/"
+    ],
+    "subjects": [
+        "M 77",
+        "NGC 1055",
+        "NGC 1068",
+        "NGC 1072",
+        "Other"
+    ],
+    "title": "SN2018ivc in M77",
+    "updated": "2021-03-17T13:01:18.469940",
+    "uploaded": "2018-11-30T00:46:00.448019",
+    "url_duckduckgo": "https://www.astrobin.com/378911/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378911/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378911/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378911/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378911/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378911/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378911/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14824/2018/14748ca0-785c-4ab8-84bf-2feb8e589769.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14824/2018/14748ca0-785c-4ab8-84bf-2feb8e589769-1582525462.jpg",
+    "url_thumb": "https://www.astrobin.com/378911/0/rawthumb/thumb/",
+    "user": "Viper",
+    "views": 1304,
+    "w": 2835
+}

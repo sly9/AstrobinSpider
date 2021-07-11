@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "-25.286",
+    "description": "This was shot very low in the sky with some of the subs coming in as low as 18 degrees.  The highest was around 24-45 degrees.  Being so low in the sky gradients were an issue.  I used PI ABE and DBE to resolve as best I could.  \r\n\r\n24L, 19R, 23 G, and 15 B.  All 10 minute subs, total of 13.5 hours.  I created a super-luminance by adding the luminance data from the color subs to the luminance data itself.  That increased SN significantly and helped allow more sharpening to be applied.\r\n\r\nI plan to add some Ha and see what that does.   Also some more Blue to help out.  I sharpened the Luminance prior to creating the LRGB and it looks much more detailed that the final LRGB.  I do shoot color bin 1 so I may just need a bit more?",
+    "h": 2628,
+    "hash": null,
+    "id": 324183,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 174,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "359.647",
+    "pixscale": "0.728",
+    "published": "2017-11-30T18:39:48.183181",
+    "ra": "11.881",
+    "radius": "0.425",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/324183/",
+    "revisions": [
+        "/api/v1/imagerevision/197324/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "Sculptor galaxy"
+    ],
+    "title": "Sculptor Galaxy NGC 253",
+    "updated": "2021-03-17T19:01:41.785839",
+    "uploaded": "2017-11-30T18:39:49.084863",
+    "url_duckduckgo": "https://www.astrobin.com/324183/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324183/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324183/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324183/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324183/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324183/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324183/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/df42d816-e2cd-44b2-b686-ed6e2359a181.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/df42d816-e2cd-44b2-b686-ed6e2359a181-1512067699.jpg",
+    "url_thumb": "https://www.astrobin.com/324183/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 446,
+    "w": 3285
+}

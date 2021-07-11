@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 36,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Looking at the capture data for Mars on the 17th of August 2018 I felt that I could do a better job with the processing. At this time, nearly 3 weeks after closest approach, the planet had shrunk marginally in apparent diameter and once again started to show some phase at 97% illumination. The dust storm continued to subside, now approximately 7 weeks after it peaked and although the albedo areas were now markedly less encumbered by dust clouds, the dust seems to still have been pooling in the low lying areas such as the Valles Marineris. The three large shield volcanoes of the Tharsis Montes region on the western limb can be seen clearly and their sunlit slopes have a slightly red hue. \r\nThe intensity of the blue clouds around the north polar region is remarkable, although they appear whiter when further from the pole.\r\nThe mouseover shows the previous version which was too red in colour and lacking in detail. I was able to extract much more detail this time around, without over-sharpening. There is a slight difference in the timestamp of each as I chose to eliminate some lower quality datasets in the revised image. This explains the apparent rotation you see with the mouse over.\r\nThe H image shows the major features visible on the planet's surface.",
+    "h": 800,
+    "hash": "qnn2c1",
+    "id": 450994,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 189,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-01-24T04:48:07.699779",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450994/",
+    "revisions": [
+        "/api/v1/imagerevision/208904/",
+        "/api/v1/imagerevision/208905/"
+    ],
+    "subjects": [],
+    "title": "Mars 17th August 2018 - a reworked image",
+    "updated": "2021-03-17T05:26:04.976806",
+    "uploaded": "2020-01-24T02:54:58.055109",
+    "url_duckduckgo": "https://www.astrobin.com/qnn2c1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qnn2c1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qnn2c1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qnn2c1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qnn2c1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qnn2c1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qnn2c1/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/qnn2c1/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 709,
+    "w": 800
+}

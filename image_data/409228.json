@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 43,
+    "comments": 59,
+    "data_source": "BACKYARD",
+    "dec": "47.212",
+    "description": "M 51 high resolution picture using Lucky Imaging and deep field using normal exposures.\r\n\r\nHigh lights : 7000 x 1 sec. with ASI 290 MM\r\nMedium lights and core colors : ASI 1600 MCC 38 x 90sec. (2017)\r\nField and extensions : ASI 294 MC Pro : 45 x 180 sec.\r\n\r\nIn the last version, the 2000 best Lucky Imaging frames have been isolated (version F) and  a highpass filter has been Added using it on the full image.\r\n\r\nClear skies.\r\n\r\nJF",
+    "h": 2431,
+    "hash": null,
+    "id": 409228,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro",
+        "ZWO Optical ASI 290MM",
+        "ZWO Optical ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 662,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": "71.122",
+    "pixscale": "0.484",
+    "published": "2019-06-07T16:12:00.952247",
+    "ra": "202.477",
+    "radius": "0.270",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409228/",
+    "revisions": [
+        "/api/v1/imagerevision/181984/",
+        "/api/v1/imagerevision/182011/",
+        "/api/v1/imagerevision/182128/",
+        "/api/v1/imagerevision/182129/",
+        "/api/v1/imagerevision/183291/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M 51- High resolution and deep field with Newton 350",
+    "updated": "2021-06-28T06:01:23.369991",
+    "uploaded": "2019-06-07T17:03:37.034362",
+    "url_duckduckgo": "https://www.astrobin.com/409228/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409228/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409228/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409228/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409228/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409228/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409228/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2019/2d7c3a62-3062-4bf7-8465-f667f663de15.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2019/2d7c3a62-3062-4bf7-8465-f667f663de15-1582572689.jpg",
+    "url_thumb": "https://www.astrobin.com/409228/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 4573,
+    "w": 3185
+}

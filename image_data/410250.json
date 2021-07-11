@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "61.340",
+    "description": "Reworked Melotte 15 from 2017",
+    "h": 2208,
+    "hash": null,
+    "id": 410250,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800442/"
+    ],
+    "orientation": "49.716",
+    "pixscale": "1.051",
+    "published": "2019-06-13T19:24:12.780531",
+    "ra": "38.842",
+    "radius": "0.406",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410250/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Melotte 15",
+    "updated": "2021-06-06T01:37:47.157690",
+    "uploaded": "2019-06-13T20:19:01.627702",
+    "url_duckduckgo": "https://www.astrobin.com/410250/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410250/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410250/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410250/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410250/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410250/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410250/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6737/2020/3dabab4a-6448-4f2e-a913-0596cebf4cf9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6737/2020/3dabab4a-6448-4f2e-a913-0596cebf4cf9-1582622939.jpg",
+    "url_thumb": "https://www.astrobin.com/410250/0/rawthumb/thumb/",
+    "user": "christian.hennes",
+    "views": 305,
+    "w": 1692
+}

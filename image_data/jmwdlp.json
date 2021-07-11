@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "6.514",
+    "description": "NGC 6781 is a planetary nebula in the summer constellation of Aquila.  This is an example of the end stage of a star too small to go supernova, such as our own Sun.  After the hydrogen-fusing period of such a star ends, it will expand to a red giant during which it fuses helium to carbon and oxygen in its core. After it sheds its outer layers, forming a planetary nebula, it will leave behind a core, which is a white dwarf.  This central star is visible in the image.\r\n\r\nDate: Jul-Aug 2014 data collection, Mar 2020 processing\r\n\r\nLocation: Blue Mountain Vista Observatories,New Ringgold PA\r\n\r\nOptics: Starizona Hyperion f/8 12.5 inch, FL 2540 mm on Paramount ME\r\n\r\nCamera: Apogee U8300 \r\n\r\nGuiding: ST-402 on Innovations Foresight On-Axis Guider and STL-11000 Self guiding\r\n\r\nExposure: HaRGB: Ha:21x20 min R:13x8 min, G:23x4 min, B:23x11 min for a total of 14.5 hrs (80  subs at avg of 652 sec) Ha at bin 2, RGB bin 3\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.  Ha data was blended with the R channel and used as the Luminance channel.  Ha data was also added to the Red channel.",
+    "h": 3011,
+    "hash": "jmwdlp",
+    "id": 467602,
+    "imaging_cameras": [
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "224.402",
+    "pixscale": "0.365",
+    "published": "2020-03-22T18:27:22.719053",
+    "ra": "289.607",
+    "radius": "0.254",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467602/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6781",
+        "NGC6781",
+        "PK041-02.1"
+    ],
+    "title": "NGC 6781",
+    "updated": "2021-04-02T23:34:45.959979",
+    "uploaded": "2020-03-22T18:27:22.855086",
+    "url_duckduckgo": "https://www.astrobin.com/jmwdlp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/jmwdlp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/jmwdlp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/jmwdlp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/jmwdlp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/jmwdlp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/jmwdlp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/bac747aa-8ae7-4fa7-b579-a51e515c2620.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/bac747aa-8ae7-4fa7-b579-a51e515c2620-1584909121.jpg",
+    "url_thumb": "https://www.astrobin.com/jmwdlp/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 221,
+    "w": 4000
+}

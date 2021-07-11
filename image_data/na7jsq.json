@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "36.377",
+    "description": "Date : 2013.11 /  2019.10\r\n\r\nLocation : yangpyung / dongbaek, Yongin-si (Korea)\r\n\r\nOTA : FSQ106ED(645RD) / WO STAR71II\r\n\r\nMOUNT : ADT MC200GE / Hobym CRUX320HD\r\n\r\nCCD : QSI683WS / ASI1600mm-pro\r\n\r\nGUIDE : WO SD66 + ST-i color 2bin\r\n\r\nFilter : Astrodon SHO 5nm 1.25\" / 31mm\r\n\r\nExp : 34 hour\r\n\r\nHa 300s * 173, 120s * 444 / OIII 1200s * 6 / SII 1200s * 8\r\n\r\n(DARK/FLAT/BIAS)\r\n\r\nFOCUSER : FLI PDF / FLI DF-2",
+    "h": 2168,
+    "hash": "na7jsq",
+    "id": 462868,
+    "imaging_cameras": [
+        "ASI 1600 MM Pro - Cooled",
+        "QSI 683 wsg-8",
+        "Starlight Xpress SXVR-H35"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106 ED",
+        "Pentax 125SDP",
+        "Williams Optics STAR 71 II"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 25,
+    "link": "https://blog.naver.com/troopa102/221679208326",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803971/"
+    ],
+    "orientation": "114.525",
+    "pixscale": "2.936",
+    "published": "2020-03-07T18:06:22.039732",
+    "ra": "60.312",
+    "radius": "1.520",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/462868/",
+    "revisions": [],
+    "subjects": [
+        "California Nebula",
+        "NGC 1499",
+        "The star ξPer"
+    ],
+    "title": "NGC1499 California Nebula",
+    "updated": "2021-06-17T02:04:33.794753",
+    "uploaded": "2020-03-07T18:06:22.216529",
+    "url_duckduckgo": "https://www.astrobin.com/na7jsq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/na7jsq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/na7jsq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/na7jsq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/na7jsq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/na7jsq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/na7jsq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1631/2020/d8c3a88d-a748-4a41-b0d3-5afa59a10699.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1631/2020/d8c3a88d-a748-4a41-b0d3-5afa59a10699-1583606063.jpg",
+    "url_thumb": "https://www.astrobin.com/na7jsq/0/rawthumb/thumb/",
+    "user": "seo102",
+    "views": 122,
+    "w": 3031
+}

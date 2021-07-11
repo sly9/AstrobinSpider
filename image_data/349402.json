@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 11,
+    "data_source": "UNKNOWN",
+    "dec": "-29.864",
+    "description": "M83 - Data aquired in May 2018 at the HAKOS Astrofarm Namibia.\r\n\r\n50 x 180 L (G 53)\r\n45 x 180 RGB (each) (G 53)\r\n\r\nZWO 183mm Pro on a GSO 150/750 Newton - ca. 20% crop around the edges.\r\n\r\nProcessing Pixinsight & PS.",
+    "h": 3132,
+    "hash": null,
+    "id": 349402,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO 150 mm f/5 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 267,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "331.697",
+    "pixscale": "0.658",
+    "published": "2018-05-31T08:19:28.590127",
+    "ra": "204.247",
+    "radius": "0.451",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/349402/",
+    "revisions": [],
+    "subjects": [
+        "M 83",
+        "NGC 5236"
+    ],
+    "title": "M83 - The Southern Pinwheel Galaxy",
+    "updated": "2021-06-13T09:16:06.260386",
+    "uploaded": "2018-05-31T09:13:29.590960",
+    "url_duckduckgo": "https://www.astrobin.com/349402/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/349402/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/349402/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/349402/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/349402/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/349402/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/349402/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14332/2018/92f3af18-4703-434d-bbab-b67cf7b13481.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14332/2018/92f3af18-4703-434d-bbab-b67cf7b13481-1582518977.jpg",
+    "url_thumb": "https://www.astrobin.com/349402/0/rawthumb/thumb/",
+    "user": "astroaffairs",
+    "views": 2531,
+    "w": 3819
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "56.586",
+    "description": "",
+    "h": 2838,
+    "hash": null,
+    "id": 359100,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Kenko SE200N",
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "359.919",
+    "pixscale": "0.712",
+    "published": "2018-08-01T06:31:13.247848",
+    "ra": "13.181",
+    "radius": "0.506",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/359100/",
+    "revisions": [],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "NGC 281 - The Pacman Nebula",
+    "updated": "2021-03-17T14:37:22.392431",
+    "uploaded": "2018-08-01T07:31:13.460814",
+    "url_duckduckgo": "https://www.astrobin.com/359100/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/359100/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/359100/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/359100/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/359100/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/359100/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/359100/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/781e8af8-5277-4865-bf98-c29318a223ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/781e8af8-5277-4865-bf98-c29318a223ff-1582598573.jpg",
+    "url_thumb": "https://www.astrobin.com/359100/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 216,
+    "w": 4250
+}

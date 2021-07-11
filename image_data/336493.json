@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "72.251",
+    "description": "",
+    "h": 1650,
+    "hash": null,
+    "id": 336493,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "VIXEN VMC200L"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805403/"
+    ],
+    "orientation": "179.173",
+    "pixscale": "0.935",
+    "published": "2018-03-07T09:04:15.038412",
+    "ra": "148.249",
+    "radius": "0.372",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336493/",
+    "revisions": [
+        "/api/v1/imagerevision/143702/"
+    ],
+    "subjects": [
+        "NGC 2985",
+        "NGC 3027"
+    ],
+    "title": "NGC 2985 and 3027",
+    "updated": "2021-03-17T16:17:45.877944",
+    "uploaded": "2018-03-07T09:04:16.687635",
+    "url_duckduckgo": "https://www.astrobin.com/336493/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336493/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336493/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336493/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336493/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336493/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336493/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14613/2018/558f205b-e20a-4269-af20-b2376710818d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14613/2018/558f205b-e20a-4269-af20-b2376710818d-1582449218.jpg",
+    "url_thumb": "https://www.astrobin.com/336493/0/rawthumb/thumb/",
+    "user": "ghubing",
+    "views": 713,
+    "w": 2343
+}

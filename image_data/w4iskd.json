@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "8.891",
+    "description": "Abell 31, aka PK 219+31.1 or Sharpless 290, is one of the largest observable planetary nebula, located in Cancer.\r\n\r\nThe PN was discovered in 1955 by George Abell on the POSS plates. The optical diameter is 970\", which is nearly the diameter of the Helix Nebula. It is apparently an ancient planetary that is interacting with the surrounding interstellar medium. \r\n\r\nAs the nebula is so big, its surface brightness is very low, with surface magnitudes of 27 arc-sec-1. The nebula is brighter in [OIII] signal than [HII].The OIII portion sits close to the progenitor star.  The southern portion is bounded by a wide \"bow shock\" where the nebular material is apparently interacting with the surrounding medium.",
+    "h": 2000,
+    "hash": "w4iskd",
+    "id": 430622,
+    "imaging_cameras": [
+        "ATIK 383L+"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810358/"
+    ],
+    "orientation": "355.525",
+    "pixscale": "2.140",
+    "published": "2019-10-01T08:02:38.389783",
+    "ra": "133.579",
+    "radius": "0.841",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/430622/",
+    "revisions": [
+        "/api/v1/imagerevision/195062/",
+        "/api/v1/imagerevision/195063/"
+    ],
+    "subjects": [
+        "IC523",
+        "PK219+31.1",
+        "Sh2-290"
+    ],
+    "title": "Abell31 HaO3 + RGB",
+    "updated": "2021-03-22T11:38:21.529598",
+    "uploaded": "2019-10-01T08:58:50.610279",
+    "url_duckduckgo": "https://www.astrobin.com/w4iskd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w4iskd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w4iskd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w4iskd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w4iskd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w4iskd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w4iskd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23626/2020/44fc5bb5-ae72-414a-962b-1299518fa426.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23626/2020/44fc5bb5-ae72-414a-962b-1299518fa426-1582634831.jpg",
+    "url_thumb": "https://www.astrobin.com/w4iskd/0/rawthumb/thumb/",
+    "user": "Sergiy_Vakulenko",
+    "views": 273,
+    "w": 2000
+}

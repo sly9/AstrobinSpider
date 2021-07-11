@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "13.148",
+    "description": "",
+    "h": 759,
+    "hash": null,
+    "id": 300714,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "-88.607",
+    "pixscale": "1.661",
+    "published": "2017-06-24T03:59:37.203869",
+    "ra": "183.977",
+    "radius": "0.280",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300714/",
+    "revisions": [],
+    "subjects": [
+        "IC 3064",
+        "NGC 4206",
+        "NGC 4216",
+        "NGC 4222"
+    ],
+    "title": "ngc 4216",
+    "updated": "2021-03-17T20:36:27.363286",
+    "uploaded": "2017-06-24T04:59:37.763749",
+    "url_duckduckgo": "https://www.astrobin.com/300714/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300714/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300714/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300714/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300714/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300714/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300714/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/77a0ee53-fbfd-43f0-8b22-562c505a94a8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/77a0ee53-fbfd-43f0-8b22-562c505a94a8-1498277080.png",
+    "url_thumb": "https://www.astrobin.com/300714/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 169,
+    "w": 945
+}

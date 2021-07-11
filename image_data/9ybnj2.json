@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "57.509",
+    "description": "The Elephant's Trunk Nebula is a concentration of interstellar gas and dust within the much larger ionized gas region IC 1396 located in the constellation Cepheus about 2,400 light years away from Earth\r\n\r\nSetup:\r\nT: TS Super APO 80/500\r\nM: SW EQ6-r guided ASI120MM\r\nC: QHY163M\r\nFilters: Baader Ha 7nm | Baader OIII 8.5nm\r\nFrames: Gain180/OffSet90 | bin 1x1 | -10ºC\r\nHa: 41x180s\r\nOIII 67x240s\r\nTotal exposure: ~7 hours\r\n\r\nCrop1:2\r\n\r\nAcquisition: APT\r\nEdition: PixInsight Core + PS\r\n27/09/2019 ;29/09/2019",
+    "h": 2432,
+    "hash": "9ybnj2",
+    "id": 431412,
+    "imaging_cameras": [
+        "QHY163m"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 80/500 TS Super APO 80/500"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "271.309",
+    "pixscale": "1.682",
+    "published": "2019-10-04T19:55:09.147000",
+    "ra": "323.665",
+    "radius": "0.754",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/431412/",
+    "revisions": [
+        "/api/v1/imagerevision/214477/"
+    ],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC1396 - Elephant's Trunk Nebula",
+    "updated": "2021-04-24T13:38:10.922678",
+    "uploaded": "2019-10-04T20:55:09.430744",
+    "url_duckduckgo": "https://www.astrobin.com/9ybnj2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9ybnj2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9ybnj2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9ybnj2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9ybnj2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9ybnj2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9ybnj2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4ca83475-1c6d-40d9-8e1d-d277b1f864ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4ca83475-1c6d-40d9-8e1d-d277b1f864ca-1570222788.jpg",
+    "url_thumb": "https://www.astrobin.com/9ybnj2/0/rawthumb/thumb/",
+    "user": "Henrique_Silva",
+    "views": 199,
+    "w": 1824
+}

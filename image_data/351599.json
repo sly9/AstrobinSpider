@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "-19.423",
+    "description": "Blue Horsehead Nebula",
+    "h": 3920,
+    "hash": null,
+    "id": 351599,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106EDX4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806719/"
+    ],
+    "orientation": "180.277",
+    "pixscale": "2.316",
+    "published": "2018-06-17T16:38:10.902214",
+    "ra": "243.876",
+    "radius": "2.284",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/351599/",
+    "revisions": [],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star νSco"
+    ],
+    "title": "Blue Horsehead Nebula",
+    "updated": "2021-03-17T15:09:34.328708",
+    "uploaded": "2018-06-17T17:38:14.891780",
+    "url_duckduckgo": "https://www.astrobin.com/351599/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/351599/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/351599/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/351599/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/351599/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/351599/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/351599/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21879/2018/5cb0397f-ed72-473e-9d0b-5899ebe94a14.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21879/2018/5cb0397f-ed72-473e-9d0b-5899ebe94a14-1582543300.jpg",
+    "url_thumb": "https://www.astrobin.com/351599/0/rawthumb/thumb/",
+    "user": "spokeshave",
+    "views": 697,
+    "w": 5920
+}

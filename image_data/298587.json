@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "50.526",
+    "description": "Another one of the unfinished targets this year. Have had a long run of pretty horrible astro weather and this one of the targets I was hoping to get lot of data but that didnt happen. I  almost decided to leave it for next year but with no clear weather in the forecast, I processed the data.\r\n\r\nLayered the Ha and OIII data with series of stretch to handle the dynamic range from core to halo. This is a good target to go deep to pull structure in the halo. The OIII especially has nicer structure.\r\nI will file the data to add more data next year. \r\n\r\nI also tried shooting at 0 gain but had pretty heavy pattern noise compared to unity (even with very high dither etc). I am going to go back to unity gain... which seems far cleaner IMO\r\n\r\nC&C welcome",
+    "h": 1049,
+    "hash": null,
+    "id": 298587,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "-115.683",
+    "pixscale": "0.744",
+    "published": "2017-06-05T22:56:32.589295",
+    "ra": "296.202",
+    "radius": "0.165",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298587/",
+    "revisions": [],
+    "subjects": [
+        "Blinking planetary",
+        "NGC 6826"
+    ],
+    "title": "NGC6826 - Blinking Eye",
+    "updated": "2021-03-17T20:44:22.348212",
+    "uploaded": "2017-06-05T23:56:34.597306",
+    "url_duckduckgo": "https://www.astrobin.com/298587/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298587/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298587/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298587/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298587/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298587/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298587/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/0805376c-cdbf-443c-a225-9c7609bb490e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/0805376c-cdbf-443c-a225-9c7609bb490e-1496703856.png",
+    "url_thumb": "https://www.astrobin.com/298587/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 394,
+    "w": 1200
+}

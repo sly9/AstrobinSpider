@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "-5.549",
+    "description": "Reprocessed version with ASI 1600 MCC bin 2.\r\n\r\n4 series of 1sec / 5sec / 30 sec / 90 sec.",
+    "h": 1551,
+    "hash": null,
+    "id": 336972,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 208,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": "88.472",
+    "pixscale": "1.373",
+    "published": "2018-03-10T21:28:02.067379",
+    "ra": "83.734",
+    "radius": "0.484",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336972/",
+    "revisions": [
+        "/api/v1/imagerevision/139399/",
+        "/api/v1/imagerevision/139823/",
+        "/api/v1/imagerevision/165577/",
+        "/api/v1/imagerevision/200956/"
+    ],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "M 43",
+        "NGC 1976",
+        "NGC 1980",
+        "NGC 1982",
+        "The star θ1Ori",
+        "The star θ2Ori",
+        "The star ιOri"
+    ],
+    "title": "M 42 - Grande nébuleuse d'Orion",
+    "updated": "2021-05-17T17:49:45.213511",
+    "uploaded": "2018-03-10T21:28:03.985634",
+    "url_duckduckgo": "https://www.astrobin.com/336972/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336972/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336972/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336972/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336972/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336972/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336972/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2018/7063ab48-a19f-47d0-bcba-374fb8311ea6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2018/7063ab48-a19f-47d0-bcba-374fb8311ea6-1582572719.jpg",
+    "url_thumb": "https://www.astrobin.com/336972/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 1180,
+    "w": 2010
+}

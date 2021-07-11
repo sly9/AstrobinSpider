@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "13.582",
+    "description": "NGC 3628 is a mag 10.3 unbarred spiral galaxy in Leo, part of the triplet with M65 and M66.  It is estimated at 35 million light years distance.  It was discovered by William Herschel in 1784. It has an approximately 300,000 light-years long tidal tail. The gravitional pull of the neighboring galaxies has most likely tipped the plane of NGC 3628 and made its central dust lane \"wobbled\" in appearence. Spectroscopic analysis of the stars and gas in the disk reveal interesting motion. The stars orbit the galaxy in the opposite direction of the gas. It is conjectured that galactic mergers have created this phenomena. Note the dim dwarf satellite galaxy beneath the main galaxy.\r\n  \r\n\r\nImaging data:\r\nDate: Mar 26,Apr 2, 2008 Processed in Nov 2018\r\nLocation: New Ringgold PA\r\nOptics: Meade LX200R 12 inch at f/10\r\nMount: Paramount ME\r\nCamera: SBIG ST-8XME / CFW-8\r\nGuiding: ST-8XME integral guiding chip controlled by Maxim CCD\r\nExposure: LRGB: Luminance: 12x10 minutes unbinned; RGB: 5 each binned 2x2 - 8 min for R,G, and 9 min for B for a total of 27 subs and 4 hours at an average of 544 sec each.\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.",
+    "h": 1588,
+    "hash": null,
+    "id": 379078,
+    "imaging_cameras": [
+        "SBIG ST-8XME"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 175,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "309.556",
+    "pixscale": "0.387",
+    "published": "2018-12-01T14:10:26.940043",
+    "ra": "170.078",
+    "radius": "0.155",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/379078/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "NGC 3628",
+    "updated": "2021-04-23T17:21:32.829994",
+    "uploaded": "2018-12-01T14:10:27.054010",
+    "url_duckduckgo": "https://www.astrobin.com/379078/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/379078/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/379078/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/379078/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/379078/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/379078/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/379078/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/a5678fc7-837b-432d-8180-5b1d81b31593.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/a5678fc7-837b-432d-8180-5b1d81b31593-1582435164.jpg",
+    "url_thumb": "https://www.astrobin.com/379078/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 970,
+    "w": 2400
+}

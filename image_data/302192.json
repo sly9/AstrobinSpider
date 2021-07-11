@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "30.819",
+    "description": "Ha: 16x900 secs, LRGB : 10x300 secs each.",
+    "h": 1872,
+    "hash": null,
+    "id": 302192,
+    "imaging_cameras": [
+        "SBIG STL-11000M STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/",
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "358.568",
+    "pixscale": "5.767",
+    "published": "2017-07-05T13:54:50.408524",
+    "ra": "312.810",
+    "radius": "2.194",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302192/",
+    "revisions": [
+        "/api/v1/imagerevision/119831/"
+    ],
+    "subjects": [
+        "Filamentary nebula",
+        "IC 1340",
+        "Lace-work nebula",
+        "NGC 6960",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "Cygnus Loop HaLRGB",
+    "updated": "2021-06-27T19:02:22.278799",
+    "uploaded": "2017-07-05T14:47:36.987374",
+    "url_duckduckgo": "https://www.astrobin.com/302192/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302192/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302192/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302192/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302192/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302192/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302192/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7649/2017/c94188ce-2f59-46b9-84ef-6511d3548375.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7649/2017/c94188ce-2f59-46b9-84ef-6511d3548375-1582512626.png",
+    "url_thumb": "https://www.astrobin.com/302192/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 140,
+    "w": 2000
+}

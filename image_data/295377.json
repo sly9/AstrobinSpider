@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.192",
+    "description": "I struggled to get both the fainter details to show without noise while at the same time getting the brighter parts to retain detail and sharpening.  So I ended up using a subset of the sharpest Luminance and color subs to create a sharp Synthetic Luminance.  I processed that in CCDStack with all of the color data I had which was bin 1x1.   This \"sharp\" version was sharpened in CCDStack an had a limited stretch.   Then I restacked all of the data, fuzzy subs and all, and stretched this more aggressively. \r\n\r\nMoving to Photoshop, the more stretched version received a Topaz Denoise and then the brighter parts of the sharp version were layered on the fuzzy one.  I then flattened and processed as normal.  I should add that when selecting the bright regions from the Sharp version, removed any stars with ringing artifacts from the sharpening process.  \r\n\r\nTotal dataset: 34 Luminance, 18 Red, 29 Green, 16 Blue, and 12 Ha.  All 15 minute subs.",
+    "h": 1270,
+    "hash": null,
+    "id": 295377,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "-87.341",
+    "pixscale": "0.437",
+    "published": "2017-05-12T01:22:02.502041",
+    "ra": "202.458",
+    "radius": "0.216",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/295377/",
+    "revisions": [],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51",
+    "updated": "2021-06-02T06:54:53.466455",
+    "uploaded": "2017-05-12T02:22:02.855702",
+    "url_duckduckgo": "https://www.astrobin.com/295377/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295377/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295377/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295377/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295377/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295377/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295377/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/045b70dc-80bd-4f7c-afeb-ee04b905e1b4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/045b70dc-80bd-4f7c-afeb-ee04b905e1b4-1494561256.jpg",
+    "url_thumb": "https://www.astrobin.com/295377/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 477,
+    "w": 1824
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "-47.478",
+    "description": "",
+    "h": 3157,
+    "hash": null,
+    "id": 330560,
+    "imaging_cameras": [
+        "Apogee Aspen CG16070 Class 1 CCD t33"
+    ],
+    "imaging_telescopes": [
+        "Fast Newtonian Astrograph T33"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803383/"
+    ],
+    "orientation": "93.655",
+    "pixscale": "1.068",
+    "published": "2018-01-23T09:28:02.260857",
+    "ra": "201.689",
+    "radius": "0.703",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330560/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "Omega Centauri",
+    "updated": "2021-06-26T05:16:16.081157",
+    "uploaded": "2018-01-23T09:28:04.210968",
+    "url_duckduckgo": "https://www.astrobin.com/330560/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330560/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330560/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330560/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330560/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330560/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330560/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12691/2018/6dfc0897-323f-4974-b996-5156607145d5.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12691/2018/6dfc0897-323f-4974-b996-5156607145d5-1582510378.png",
+    "url_thumb": "https://www.astrobin.com/330560/0/rawthumb/thumb/",
+    "user": "andrealuna",
+    "views": 168,
+    "w": 3529
+}

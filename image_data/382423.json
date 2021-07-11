@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "-18.488",
+    "description": "Comet 46P/Wirtanen\r\n\r\nEXIF: \r\n1 x 5 min Lum, 1 x 3 min R, 1 x 3 min G, 1 x 3 min B\r\nDate: 01/12/2018 10:34 - 11:00 UT\r\nTotal exposure time: 14 min\r\niTelescope - T9, Siding Spring Observatory, Australia\r\nCamera: FLI Microline 16803\r\nTelescope: Tele Vue 127/680 mm ED refractor\r\nMount: 10Micron 2000 HPS\r\nFocal ratio, length: f/5.3, 680 mm\r\nProcessing: PixInsight, Adobe Lightroom, Adobe Photoshop",
+    "h": 2400,
+    "hash": null,
+    "id": 382423,
+    "imaging_cameras": [
+        "FLI Proline 16803 CCD camera"
+    ],
+    "imaging_telescopes": [
+        "TeleVue 127/680 mm ED refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "https://www.lionelmajzik.com/en/wirtanen_01122018/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810249/"
+    ],
+    "orientation": "2.326",
+    "pixscale": "3.789",
+    "published": "2018-12-23T10:46:26.629268",
+    "ra": "39.199",
+    "radius": "1.786",
+    "remote_source": "iT",
+    "resource_uri": "/api/v1/image/382423/",
+    "revisions": [],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "46P/Wirtanen",
+    "updated": "2021-03-17T12:45:07.605797",
+    "uploaded": "2018-12-23T10:46:26.786008",
+    "url_duckduckgo": "https://www.astrobin.com/382423/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382423/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382423/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382423/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382423/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382423/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382423/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21800/2018/c0c6b094-4ce0-4299-97b4-8d3425193cc3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21800/2018/c0c6b094-4ce0-4299-97b4-8d3425193cc3-1582431412.jpg",
+    "url_thumb": "https://www.astrobin.com/382423/0/rawthumb/thumb/",
+    "user": "gunnerlio",
+    "views": 174,
+    "w": 2400
+}

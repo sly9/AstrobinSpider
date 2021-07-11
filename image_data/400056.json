@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-36.824",
+    "description": "Combined some luminance taken at a dark sky site with some colour data taken last year at home in the suburbs.",
+    "h": 3520,
+    "hash": null,
+    "id": 400056,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/",
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "122.001",
+    "pixscale": "0.654",
+    "published": "2019-04-09T10:17:14.869305",
+    "ra": "285.212",
+    "radius": "0.530",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/400056/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6723",
+        "NGC 6726",
+        "NGC 6729"
+    ],
+    "title": "Corona Australis",
+    "updated": "2021-03-17T11:24:28.674083",
+    "uploaded": "2019-04-09T10:17:09.304049",
+    "url_duckduckgo": "https://www.astrobin.com/400056/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400056/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400056/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400056/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400056/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400056/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400056/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2019/577015dd-88c9-4486-a9f1-898198de32c3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2019/577015dd-88c9-4486-a9f1-898198de32c3-1582593969.jpg",
+    "url_thumb": "https://www.astrobin.com/400056/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 124,
+    "w": 4656
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "-20.839",
+    "description": "The Helix Nebula!  This is one of the closest \"Planetary\" nebula at 700 light years and surely one of the largest.  The age is estimated at 10,000 years and was a star similar to our Sun.\r\n\r\nI tried this many times but could not get a decent guide star with my STI based, 640x480 guide camera.  I replaced that with a QHY174 at 1920x1080 and a MMOAG and now I have guide stars!\r\n\r\nI used at total of 28.83 hours of Ha and OIII data for this.  The central highlights are 20 minutes 1x1 subs and the dimmer parts also include 30 minute 2x2 subs.  Unfortunately the smoke from nearby fires in Yosemite park limited what I could capture on the most extended parts of the nebula.  I guess that gives me something to look forward to improving next year.\r\n\r\nThe Core is a bi-color of Ha for Red, OIII for Blue, and an OIII heavy mix for Green.  The rest is an HOO blend.  I chose those mixes to get a more appropriate red color for the extended Ha nebulosity and to get the maximum separation of detail in the core.",
+    "h": 2828,
+    "hash": null,
+    "id": 361764,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 281,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "350.348",
+    "pixscale": "0.728",
+    "published": "2018-08-16T22:59:20.071092",
+    "ra": "337.423",
+    "radius": "0.452",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/361764/",
+    "revisions": [
+        "/api/v1/imagerevision/153696/",
+        "/api/v1/imagerevision/229726/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293",
+        "NGC7293",
+        "PK036-57.1"
+    ],
+    "title": "Helix Nebula NGC7293",
+    "updated": "2021-03-17T14:24:22.943438",
+    "uploaded": "2018-08-16T23:59:20.470450",
+    "url_duckduckgo": "https://www.astrobin.com/361764/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/361764/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/361764/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/361764/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/361764/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/361764/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/361764/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2018/5619a4b4-96f8-4216-ace9-f943a70e9931.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5619a4b4-96f8-4216-ace9-f943a70e9931-1534464622.jpg",
+    "url_thumb": "https://www.astrobin.com/361764/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1635,
+    "w": 3509
+}

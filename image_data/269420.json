@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "68.087",
+    "description": "",
+    "h": 1182,
+    "hash": null,
+    "id": 269420,
+    "imaging_cameras": [
+        "QHY10"
+    ],
+    "imaging_telescopes": [
+        "250mm F/4 Photonewton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 116,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803077/"
+    ],
+    "orientation": "93.314",
+    "pixscale": "1.072",
+    "published": "2016-10-25T12:49:24.753690",
+    "ra": "56.788",
+    "radius": "0.668",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269420/",
+    "revisions": [
+        "/api/v1/imagerevision/102938/",
+        "/api/v1/imagerevision/103033/",
+        "/api/v1/imagerevision/106036/",
+        "/api/v1/imagerevision/107416/"
+    ],
+    "subjects": [
+        "IC 342"
+    ],
+    "title": "IC 342",
+    "updated": "2021-07-09T19:22:16.210138",
+    "uploaded": "2016-10-25T13:49:24.753690",
+    "url_duckduckgo": "https://www.astrobin.com/269420/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269420/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269420/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269420/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269420/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269420/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269420/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12187/2016/50af2553-f92c-4bbd-8b9c-3231c54c57e9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/50af2553-f92c-4bbd-8b9c-3231c54c57e9.jpg",
+    "url_thumb": "https://www.astrobin.com/269420/0/rawthumb/thumb/",
+    "user": "Lepidopterous",
+    "views": 710,
+    "w": 1824
+}

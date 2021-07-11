@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 35,
+    "comments": 31,
+    "data_source": "OWN_REMOTE",
+    "dec": "-6.402",
+    "description": "Imaged on nights of  2018-11-5, 2018-11-9, 2018-11-12, 2018-11-13.\r\nThe RGB were taken on the AG12+ASI1600MM at .70 asec/pix, the L on TV127is+ASI183MM at .75 asec/pix. Using L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThis target contains the most amazing collection of different colors.  The two listed NGC nebulas are only a very small part of the whole image.\r\n\r\nNGC 2170 is a reflection nebula in the constellation Monoceros. It was discovered on October 16, 1784 by William Herschel.\r\n(Wikipedia)",
+    "h": 3520,
+    "hash": null,
+    "id": 379038,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 304,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "357.895",
+    "pixscale": "0.701",
+    "published": "2018-12-01T03:07:27.505484",
+    "ra": "92.067",
+    "radius": "0.546",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/379038/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC2170",
+        "NGC2182",
+        "PGC1032282",
+        "VdB68",
+        "VdB69"
+    ],
+    "title": "NGC2170 NGC2182 Reflection Nebula",
+    "updated": "2021-03-17T13:00:39.554065",
+    "uploaded": "2018-12-01T02:51:56.743725",
+    "url_duckduckgo": "https://www.astrobin.com/379038/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/379038/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/379038/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/379038/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/379038/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/379038/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/379038/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/757a2c04-d3ba-49a3-b4c2-54cd773f6e68.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/757a2c04-d3ba-49a3-b4c2-54cd773f6e68-1543633003.jpg",
+    "url_thumb": "https://www.astrobin.com/379038/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 1952,
+    "w": 4360
+}

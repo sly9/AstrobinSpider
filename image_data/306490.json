@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "61.456",
+    "description": "Melotte 15 in SHO version. Shot with unity gain at a image scale of 0.28 arcsec/px\r\n\r\nWent with a bold mapping this time that seems to extract the nebula from the background. This is very Ha heavy , Moderate SII and almost no OIII region.",
+    "h": 1169,
+    "hash": null,
+    "id": 306490,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 207,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "-114.283",
+    "pixscale": "0.763",
+    "published": "2017-08-07T21:20:44.539663",
+    "ra": "38.371",
+    "radius": "0.202",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306490/",
+    "revisions": [
+        "/api/v1/imagerevision/125527/",
+        "/api/v1/imagerevision/141611/",
+        "/api/v1/imagerevision/276066/"
+    ],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Melotte 15 - SHO",
+    "updated": "2021-03-20T13:09:51.749796",
+    "uploaded": "2017-08-07T22:20:45.918249",
+    "url_duckduckgo": "https://www.astrobin.com/306490/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306490/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306490/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306490/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306490/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306490/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306490/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b3947cc1-9b64-4589-a294-d4842052a4a1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b3947cc1-9b64-4589-a294-d4842052a4a1-1502141077.png",
+    "url_thumb": "https://www.astrobin.com/306490/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 698,
+    "w": 1500
+}

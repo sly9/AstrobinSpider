@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 24,
+    "comments": 23,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "This is started out as one of the early images I was shooting with the Planewave and STX.  I tried to fit M81 and M82 in the same frame with both in the corner.  Bad idea....  \r\n\r\nAfter starting over twice with a focus just on M81, due to registration problems, I found the only part of the of the original data I could use was the core.  I almost always use a Super-luminance of all color and luminance subs and I did here as well.  So that core includes data from at least 35 hours of subs.  But the rest of the galaxy is a Super-luminance of the sharpest half of the Luminance, Red, Green, and Blue subs.   Ha was used to enhance the nebulae - I added it in photoshop as a colorized layer in lighten mode.\r\n\r\nOne goal I had when processing was to get detail out of the core while retaining the \"domed\" look that it has naturally.  By that I mean the core is thicker than the spiral arms and I wanted to make sure it looked that way.\r\n\r\nGiven the depth of the Super-Luminance data, I have a good base to add IFN data later.  But for now I just want to have a COMPLETED M81!",
+    "h": 2577,
+    "hash": null,
+    "id": 384852,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 353,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-01-07T22:25:58.569866",
+    "ra": null,
+    "radius": null,
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/384852/",
+    "revisions": [],
+    "subjects": [],
+    "title": "M81 HaLRGB",
+    "updated": "2021-04-07T19:41:55.256592",
+    "uploaded": "2019-01-07T22:25:58.699978",
+    "url_duckduckgo": "https://www.astrobin.com/384852/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/384852/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/384852/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/384852/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/384852/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/384852/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/384852/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/384852/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 2193,
+    "w": 3169
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "-23.014",
+    "description": "Due to the low altitude in the sky,  pretty difficult object for me. This time I imaged it with Ha and OIII filters.Because of the wall of my observatory, I have an imaging window of approx 1h, between 10pm - 11pm.",
+    "h": 1416,
+    "hash": null,
+    "id": 416800,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 262,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.559",
+    "pixscale": "0.989",
+    "published": "2019-07-24T15:33:54.231745",
+    "ra": "270.599",
+    "radius": "0.350",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/416800/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "The Trifid Nebula  (Ha - OIII)",
+    "updated": "2021-06-12T20:27:54.690504",
+    "uploaded": "2019-07-24T16:03:22.021458",
+    "url_duckduckgo": "https://www.astrobin.com/416800/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416800/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416800/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416800/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416800/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416800/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416800/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/cca5bb16-d5f8-45e8-aed7-b9484b59cd9d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cca5bb16-d5f8-45e8-aed7-b9484b59cd9d-1563984507.jpg",
+    "url_thumb": "https://www.astrobin.com/416800/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 676,
+    "w": 2116
+}

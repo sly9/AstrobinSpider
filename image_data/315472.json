@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 18,
+    "data_source": "UNSET",
+    "dec": "-25.294",
+    "description": "lum taken in one session with seeing better than 2 arcsec\r\n\r\nlum 240x20sec\r\nR 97x60s\r\nG 69x60s\r\nB 71x90s",
+    "h": 1341,
+    "hash": null,
+    "id": 315472,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Newtonian 250/1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "217.133",
+    "pixscale": "0.763",
+    "published": "2017-10-05T08:39:53.239016",
+    "ra": "11.901",
+    "radius": "0.356",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/315472/",
+    "revisions": [
+        "/api/v1/imagerevision/126755/",
+        "/api/v1/imagerevision/126766/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "Sculptor galaxy"
+    ],
+    "title": "ngc253 2017",
+    "updated": "2021-04-27T12:52:33.145617",
+    "uploaded": "2017-10-05T09:39:53.832719",
+    "url_duckduckgo": "https://www.astrobin.com/315472/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/315472/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/315472/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/315472/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/315472/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/315472/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/315472/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8340/2017/ab6ac82e-e291-450d-bea6-44434c22d8df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ab6ac82e-e291-450d-bea6-44434c22d8df-1507193004.jpg",
+    "url_thumb": "https://www.astrobin.com/315472/0/rawthumb/thumb/",
+    "user": "Shiraz",
+    "views": 1056,
+    "w": 1824
+}

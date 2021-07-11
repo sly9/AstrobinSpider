@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "PRO_DATA",
+    "dec": "51.577",
+    "description": "An image I processed from data from the Liverpool Telescope. The following filters and subs were used (90s is an approximate mean of 60-120s subs):\r\nBessell B 33 x 90s\r\nBessell V 28 x 90s\r\nrdss-r  42 x 90s\r\nHa 18 x 120s\r\nSo totally about 3.6 hours of data from this 2 m RC telescope",
+    "h": 1949,
+    "hash": null,
+    "id": 292461,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "359.930",
+    "pixscale": "0.304",
+    "published": "2017-04-19T22:01:50.296808",
+    "ra": "25.584",
+    "radius": "0.117",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292461/",
+    "revisions": [
+        "/api/v1/imagerevision/114639/"
+    ],
+    "subjects": [
+        "Little Dumbbell",
+        "M 76",
+        "NGC 650"
+    ],
+    "title": "M76 Little Dumbbell Nebula",
+    "updated": "2021-03-17T21:08:02.800453",
+    "uploaded": "2017-04-19T23:01:50.616005",
+    "url_duckduckgo": "https://www.astrobin.com/292461/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292461/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292461/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292461/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292461/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292461/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292461/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/ab888803-2fef-4a9a-9dc3-572f3946f934.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/ab888803-2fef-4a9a-9dc3-572f3946f934-1582579799.jpg",
+    "url_thumb": "https://www.astrobin.com/292461/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 186,
+    "w": 1968
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "57.489",
+    "description": "This is my second attempt to do narrowband imaging and processing in SHO. The RAW data were hard to handle - even with a focal lenght of 800mm there is no region without nebula... :-)\r\n\r\nThis time I tried to produce three varying looks by using different color weights:\r\n\r\na) classic hubble composition with a shade of orange color\r\nb) the \"real\" hubble composition\r\nc) RGB-style",
+    "h": 2363,
+    "hash": null,
+    "id": 315147,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 63,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "291.372",
+    "pixscale": "0.778",
+    "published": "2017-10-04T09:24:02.122003",
+    "ra": "323.713",
+    "radius": "0.470",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/315147/",
+    "revisions": [
+        "/api/v1/imagerevision/126585/",
+        "/api/v1/imagerevision/126586/",
+        "/api/v1/imagerevision/126587/",
+        "/api/v1/imagerevision/126588/",
+        "/api/v1/imagerevision/126589/"
+    ],
+    "subjects": [],
+    "title": "IC 1396 - Elephant's Trunk Nebula (SHO)",
+    "updated": "2021-03-17T19:39:18.349909",
+    "uploaded": "2017-10-02T23:31:09.145949",
+    "url_duckduckgo": "https://www.astrobin.com/315147/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/315147/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/315147/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/315147/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/315147/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/315147/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/315147/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22761/2017/01b643db-578f-4b17-b9ab-bc249bb4aa4f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22761/2017/01b643db-578f-4b17-b9ab-bc249bb4aa4f-1581978517.jpg",
+    "url_thumb": "https://www.astrobin.com/315147/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 283,
+    "w": 3260
+}

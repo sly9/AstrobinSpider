@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "Mercury images taken with remotely operated 1 m telescope in Chile.\r\nNot the best seeing conditions, so the images are rather scarcely detailed. However, three ray crater systems are clearly seen as bright spots near the limb (Amaral, Enwonwu and Eastman craters), as well as Caloris Planitia can be spotted as a pale spot at the northern part of the planet (South is up).\r\n\r\nJoined result with <a href=\"https://www.astrobin.com/users/Astronominsk/\">Astronominsk</a> team.\r\n\r\nData acquisition: Dzmitry Kananovich; Michail Abgarian\r\nImage Processing: Yuri Goryachko.\r\n\r\nMore information and identification of albedo markings can be found here:\r\n<a href=\"http://www.astronominsk.org/Planets/Merc/20190409/Mercury_20190409.htm\">9 April image</a> \r\n<a href=\"http://www.astronominsk.org/Planets/Merc/20190412/Mercury_20190412.htm\">12 April image</a>",
+    "h": 1200,
+    "hash": "sv30ir",
+    "id": 451117,
+    "imaging_cameras": [
+        "ASI ZWO 174MM"
+    ],
+    "imaging_telescopes": [
+        "ASA Astrosysteme 1000 mm Richey-Chretien"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "http://www.astronominsk.org/Planets/Merc/20190409/Mercury_20190409.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809224/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-01-24T18:08:41.981547",
+    "ra": null,
+    "radius": null,
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/451117/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Mercury from Chilescope (April 2019)",
+    "updated": "2021-05-18T20:42:41.033222",
+    "uploaded": "2020-01-24T17:30:52.511014",
+    "url_duckduckgo": "https://www.astrobin.com/sv30ir/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sv30ir/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sv30ir/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sv30ir/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sv30ir/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sv30ir/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sv30ir/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/sv30ir/0/rawthumb/thumb/",
+    "user": "Dzmitry_Kananovich",
+    "views": 1168,
+    "w": 900
+}

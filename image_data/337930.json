@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "60.384",
+    "description": "Suddenly, several clear nights now and this is a mix of various data from last night and two weeks ago. It is a two frame mosaic with the Ha collected with my ES 5\" refractor and a Canon 60Da with Baader 7nm Ha filter (mostly 25 min subs at ISO1600). The colour is from my Canon 300mm f/4 and a Canon 60D without any filter. It has been around -12°C so not much noise (but a lot of stiff hurting hands).\r\n\r\nI have to admit I mainly used the Ha for Lum but I think I did a rather good job at controlling the stars, which is usually a problem, by an elaborate use of masking.\r\n\r\nStacked in PI and processed in PS.\r\nIn version H some deconcolution in PI has been selectively added\r\n\r\nThanks for looking and please comment/suggest. Maybe I should pull back a bit on the colour saturation?",
+    "h": 2098,
+    "hash": null,
+    "id": 337930,
+    "imaging_cameras": [
+        "Canon 60Da",
+        "Canon 60D"
+    ],
+    "imaging_telescopes": [
+        "Canon EF 300mm F/4 L USM",
+        "Explore Scientific 127mm ED APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805185/"
+    ],
+    "orientation": "14.331",
+    "pixscale": "2.316",
+    "published": "2018-03-18T20:37:25.379768",
+    "ra": "43.770",
+    "radius": "1.255",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337930/",
+    "revisions": [
+        "/api/v1/imagerevision/139984/",
+        "/api/v1/imagerevision/139993/",
+        "/api/v1/imagerevision/139995/",
+        "/api/v1/imagerevision/140024/",
+        "/api/v1/imagerevision/141600/",
+        "/api/v1/imagerevision/147256/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "Soul Nebula HaRGB",
+    "updated": "2021-04-11T18:48:38.079863",
+    "uploaded": "2018-03-18T20:37:28.071346",
+    "url_duckduckgo": "https://www.astrobin.com/337930/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337930/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337930/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337930/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337930/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337930/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337930/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2018/263d91b2-35c8-4e39-9f36-5f8430704a1b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2018/263d91b2-35c8-4e39-9f36-5f8430704a1b-1582579471.jpg",
+    "url_thumb": "https://www.astrobin.com/337930/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 317,
+    "w": 3288
+}

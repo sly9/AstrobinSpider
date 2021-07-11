@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "57.669",
+    "description": "2-panel Mosaic of Elephant Trunk nebula.",
+    "h": 737,
+    "hash": null,
+    "id": 302130,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT98"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 10,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805455/"
+    ],
+    "orientation": "0.058",
+    "pixscale": "3.847",
+    "published": "2017-07-11T00:24:14.106014",
+    "ra": "324.599",
+    "radius": "1.541",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302130/",
+    "revisions": [
+        "/api/v1/imagerevision/120201/"
+    ],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC1396",
+    "updated": "2021-03-17T20:31:05.092682",
+    "uploaded": "2017-07-04T22:55:32.713361",
+    "url_duckduckgo": "https://www.astrobin.com/302130/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302130/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302130/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302130/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302130/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302130/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302130/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/15435/2017/f45349b1-68fa-45e3-8ac6-9dda7fa622d2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f45349b1-68fa-45e3-8ac6-9dda7fa622d2-1499205695.jpg",
+    "url_thumb": "https://www.astrobin.com/302130/0/rawthumb/thumb/",
+    "user": "RogerLiu",
+    "views": 28,
+    "w": 1824
+}

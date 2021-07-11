@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "41.226",
+    "description": "Using 2018 RGB data and 2019 Luminance data i made a new M31 version, now LRGB and using 2x drizzle. To make this LRGB version a little bit different i made this cropped version.\r\n\r\nThe V1 annotation (need full scale to see) shows the \"Star that changed the universe\" a Cepheid variable named \"V1\" by Edwin Hubble. He used V1 in 1923 to prove that the Andromeda \"Nebula\" was in fact a Galaxy outside our own Milky Way.\r\n\r\nhttps://www.nasa.gov/mission_pages/hubble/science/star-v1.html",
+    "h": 1417,
+    "hash": "o09qed",
+    "id": 444052,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "233.805",
+    "pixscale": "1.114",
+    "published": "2019-12-20T10:10:01.449352",
+    "ra": "10.613",
+    "radius": "1.072",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/444052/",
+    "revisions": [],
+    "subjects": [
+        "Andromeda Galaxy",
+        "M 31",
+        "NGC 224"
+    ],
+    "title": "Gorgeous Galaxy",
+    "updated": "2021-03-17T05:59:48.187171",
+    "uploaded": "2019-12-20T09:36:41.829243",
+    "url_duckduckgo": "https://www.astrobin.com/o09qed/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/o09qed/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/o09qed/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/o09qed/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/o09qed/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/o09qed/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/o09qed/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/54fc0d4f-e925-4d5d-b9ef-3903f2f59804.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/54fc0d4f-e925-4d5d-b9ef-3903f2f59804-1609250854.jpg",
+    "url_thumb": "https://www.astrobin.com/o09qed/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 633,
+    "w": 6782
+}

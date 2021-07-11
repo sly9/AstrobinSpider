@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "1.917",
+    "description": "LDN 1622 on the FSQ and 10Mic GM1000.  From APOD:\r\n\r\nThe silhouette of an intriguing dark nebula inhabits this cosmic scene, based on images from the Palomar Observatory Sky Survey. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only easily seen in long telescopic exposures of the region. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop - a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. But the obscuring dust of LDN 1622 is thought to be much closer than Orion's more famous nebulae, perhaps only 500 light-years away. At that distance, this 1 degree wide field of view would span less than 10 light-years.",
+    "h": 2280,
+    "hash": null,
+    "id": 331092,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation ML 16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 172,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "106.074",
+    "pixscale": "2.335",
+    "published": "2018-01-27T11:31:18.280590",
+    "ra": "88.288",
+    "radius": "1.869",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331092/",
+    "revisions": [
+        "/api/v1/imagerevision/135621/",
+        "/api/v1/imagerevision/135622/",
+        "/api/v1/imagerevision/136018/"
+    ],
+    "subjects": [
+        "The star 56Ori",
+        "The star 59Ori"
+    ],
+    "title": "LDN 1622 - Deep Sky West Remote Observatory",
+    "updated": "2021-07-07T22:10:41.036734",
+    "uploaded": "2018-01-27T11:08:28.653305",
+    "url_duckduckgo": "https://www.astrobin.com/331092/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331092/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331092/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331092/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331092/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331092/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331092/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2018/a16f2011-b605-412a-9f79-676d46943ea0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a16f2011-b605-412a-9f79-676d46943ea0-1517051618.jpg",
+    "url_thumb": "https://www.astrobin.com/331092/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 486,
+    "w": 1824
+}

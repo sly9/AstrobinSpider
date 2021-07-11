@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "38.210",
+    "description": "25 hours 30 minutes total integration (Ha 20x1800s + 22x600s all bin x1, OIII 12x1800s bin x1, 29x600 bin x2)",
+    "h": 2308,
+    "hash": null,
+    "id": 336210,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Altair Astro 115 ED/APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808634/"
+    ],
+    "orientation": "154.667",
+    "pixscale": "1.396",
+    "published": "2018-03-04T22:55:28.854520",
+    "ra": "303.402",
+    "radius": "0.725",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336210/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "NGC6888 The Crescent Nebula",
+    "updated": "2021-03-17T16:19:05.823133",
+    "uploaded": "2018-03-04T22:55:30.916192",
+    "url_duckduckgo": "https://www.astrobin.com/336210/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336210/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336210/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336210/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336210/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336210/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336210/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/723588b5-1bb9-4cc4-9a63-3166cbbc0608.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/723588b5-1bb9-4cc4-9a63-3166cbbc0608-1520204344.jpg",
+    "url_thumb": "https://www.astrobin.com/336210/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 188,
+    "w": 2943
+}

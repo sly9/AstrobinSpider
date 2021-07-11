@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "46.888",
+    "description": "L 166x300s\r\nR 77x300s\r\nG 60x300s\r\nB 60x300s\r\nNewton selfmade 10” f4 + mpcc\r\nSW Az eq6\r\nSX h694\r\nAcquisition CCDAutopilot + TheSkyX, Elaboration PI",
+    "h": 1452,
+    "hash": null,
+    "id": 269709,
+    "imaging_cameras": [
+        "Starlight Xpress Loadstar",
+        "Starlight Xpress Trius-SX694"
+    ],
+    "imaging_telescopes": [
+        "Selfmade Newton 10\" f4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806260/"
+    ],
+    "orientation": "101.517",
+    "pixscale": "0.930",
+    "published": "2016-10-28T23:21:08.272739",
+    "ra": "320.505",
+    "radius": "0.450",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269709/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Dark Nebulae in Cygnus",
+    "updated": "2021-03-17T22:38:28.927289",
+    "uploaded": "2016-10-29T00:21:08.272739",
+    "url_duckduckgo": "https://www.astrobin.com/269709/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269709/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269709/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269709/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269709/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269709/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269709/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/2a34008b-ed92-4b99-8bfd-c6213477947d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2a34008b-ed92-4b99-8bfd-c6213477947d-1477697458.jpg",
+    "url_thumb": "https://www.astrobin.com/269709/0/rawthumb/thumb/",
+    "user": "speedking80",
+    "views": 139,
+    "w": 1824
+}

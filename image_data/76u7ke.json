@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "-39.215",
+    "description": "\"Everything has to come to an end, sometime.\" <I>L. Frank Baum, The Marvelous Land of Oz\r\n</I>\r\nI have been trying to process this target for dozens of hours before I finally found relief with this final version.\r\n\r\nThere are some outstanding images of this target on astrobin, my favorites are Terry Robison's and Vadim's versions. They were very inspiring for me. Both show incredible crispy details, that I tried to bring out during my first processing attempts. Honestly, I get lost in PI deconvolution, unsharpening and noise reduction trials and errors. After many fails, I realized that me or my data may just not be good enough to bring out this kind of details.\r\n\r\nSo I began to have another approach, and simply tried to bring out the significant and interesting details that I could. I was really happy to get those little pixels of blue and red clusters along the Galaxy, trying to keep noise at low level, also working on color balance. This last version comes from a different approach than the previous ones and I am happy to come to an end with it.\r\n\r\nThe crop version is from a drizzle x2 image reduced to 66%.\r\nThe full image is at native 1.7\" sampling resolution.\r\n\r\nL:43x600\r\nRGB 9:9:9x600\r\nHa 4x900",
+    "h": 1200,
+    "hash": "76u7ke",
+    "id": 439651,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes CFF 105"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806424/"
+    ],
+    "orientation": "1.046",
+    "pixscale": "1.289",
+    "published": "2019-11-21T11:11:42.237629",
+    "ra": "3.797",
+    "radius": "0.405",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439651/",
+    "revisions": [
+        "/api/v1/imagerevision/207973/"
+    ],
+    "subjects": [
+        "NGC 55",
+        "NGC55"
+    ],
+    "title": "NGC55 LRGB Ha",
+    "updated": "2021-03-17T06:21:05.056054",
+    "uploaded": "2019-11-21T09:33:37.991339",
+    "url_duckduckgo": "https://www.astrobin.com/76u7ke/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/76u7ke/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/76u7ke/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/76u7ke/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/76u7ke/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/76u7ke/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/76u7ke/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21019/2020/09512411-f412-4f50-ace4-ffc1021ac110.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21019/2020/09512411-f412-4f50-ace4-ffc1021ac110-1582291113.jpg",
+    "url_thumb": "https://www.astrobin.com/76u7ke/0/rawthumb/thumb/",
+    "user": "yeb",
+    "views": 302,
+    "w": 1920
+}

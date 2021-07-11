@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.595",
+    "description": "Sh2-155 was first named \"the Cave Nebula\" by Patric Moore.  It is a relatively large region in the sky that's full of both emission and dark nebula located in the constellation of Cepheus at a distance of about 2,400 ly.  Even though the visual magnitude is listed at 7.7, this is a very challenging narrow band object due to the very low brightness of both SII and OIII emissions.  It requires a pretty serious commitment in exposure time to successfully image this object in narrowband, which I suspect is why most images are taken in LRGB.\r\n\r\nI started on this project after shooting galaxies when the moon was waxing and I needed a new narrowband project.  My feeling at first was, \"How hard can it be?\" and I learned first hand.  This is definitely a hard one!  I started in early September and took my last data set in late November.   Along the way, I took a 3-week trip to New Zealand so I got to experience running my scope from the other side of the planet.  The problem was that I had to start the scope at about 3 pm NZ time, which was tough because I was usually out having fun until early evening.  So, I lost a lot of available sky time.  Fortunately my scope performed reasonably well during this whole period with only a few unexpected hang ups.  The spectacular October weather in New Mexico slowly deteriorated so I had to relax my standards a bit to keep roughly half of the data that I gathered.\r\n\r\nIn spite of over 50 hours of data, this was still a challenging processing project.  The signals are very weak, which always increases the difficulty of noise mitigation.  Furthermore, the cave doesn't include much of the kind of fascinating detail that I like to see in emission nebula.  There's some but with the low SNR, it's hard to emphasize it.  Still, it's an interesting NB object.\r\n\r\nAs always, I'm happy to hear your C&C so feel free to let me know what you think. \r\n\r\n- John",
+    "h": 3117,
+    "hash": "bzul1c",
+    "id": 441350,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "90.134",
+    "pixscale": "0.478",
+    "published": "2019-12-01T22:35:53.141964",
+    "ra": "344.327",
+    "radius": "0.293",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/441350/",
+    "revisions": [
+        "/api/v1/imagerevision/202086/"
+    ],
+    "subjects": [
+        "Sh2-155"
+    ],
+    "title": "Sh2-155 The Cave Nebula in Narrow Band",
+    "updated": "2021-03-17T06:12:34.051554",
+    "uploaded": "2019-12-01T20:30:28.497992",
+    "url_duckduckgo": "https://www.astrobin.com/bzul1c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bzul1c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bzul1c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bzul1c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bzul1c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bzul1c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bzul1c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/52d721eb-e041-45f1-a970-e5ce6576222b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/52d721eb-e041-45f1-a970-e5ce6576222b-1582288492.jpg",
+    "url_thumb": "https://www.astrobin.com/bzul1c/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1048,
+    "w": 3117
+}

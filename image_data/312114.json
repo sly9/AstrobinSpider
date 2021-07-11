@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-23.606",
+    "description": "",
+    "h": 1287,
+    "hash": null,
+    "id": 312114,
+    "imaging_cameras": [
+        "QHYCCD QHY10 Color"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 98 Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803750/"
+    ],
+    "orientation": "4.558",
+    "pixscale": "2.013",
+    "published": "2017-09-13T15:11:32.822951",
+    "ra": "260.660",
+    "radius": "1.311",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312114/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6325",
+        "The star 44Oph"
+    ],
+    "title": "Barnard 72 The Snake Nebula",
+    "updated": "2021-04-14T21:33:22.739234",
+    "uploaded": "2017-09-13T16:11:34.911843",
+    "url_duckduckgo": "https://www.astrobin.com/312114/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312114/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312114/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312114/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312114/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312114/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312114/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/c03e48ba-48dd-4847-9131-3b039ef32332.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c03e48ba-48dd-4847-9131-3b039ef32332-1505323327.jpg",
+    "url_thumb": "https://www.astrobin.com/312114/0/rawthumb/thumb/",
+    "user": "ASTROBINARIO",
+    "views": 69,
+    "w": 1920
+}

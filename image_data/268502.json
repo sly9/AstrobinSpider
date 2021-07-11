@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 21,
+    "data_source": "UNSET",
+    "dec": "4.964",
+    "description": "Rosette nebulae is a Ha region with a circular shape, located close to a giant molecular cloud in Monoceros.  Associated with the the nebula, the open cluster NGC 2244 has been formed with material from the nebula \r\n\r\nThe Rosette Nebula is an emission nebula which is about 5,000 light years away from Earth in the constellation of Monoceros. The nebula spans about 130 light years in diameter and the central cavity of the  nebula is about 50 light years in diameter. The symmetric shape of the petals are sculpted by the winds and radiation from the hot young stars in the central region\r\n\r\nLike most emission nebulae, however, the central young stars emit high intensity radiation that also excites other types of elements within the cloud to emit at their own characteristic wavelengths.  For instance, sulfur (SII) emits at 673.0 nm, and OIII emits at 500.7 nm (most intense) and, to a lesser extent, at 495.9 nm.  By using filters that capture SII, Ha, and OIII emission, it is possible to map these colors into the more conventional R, G, and B color palette, respectively.  Assigning these narrowband images in this order (highest to lowest wavelengths) to R, G, and B defines the Hubble Palette, which is how the above image was constructed.\r\nOserve the dark filaments present on the nebula.\r\n\r\nCharacteristics:\r\nMagnitude:  4.8 (for NGC 2244 star cluster in center)\r\nDistance: 5500 light years\r\nRA: 6h 32m 33s\r\nDec: 4 degrees 57' 05\"\r\nPosition Angle:  0 degrees\r\n\r\nImage:\r\nStack: 8x1200sec for each channel of Ha. S2 and O3\r\nScope: Skywatcher QuatroCF 10\" f/4\r\nCamera: Sx-694 trius  ",
+    "h": 2200,
+    "hash": null,
+    "id": 268502,
+    "imaging_cameras": [
+        "Starlight Xpress Trius SX-694 mono"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4 Carbon Fibre Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798804/"
+    ],
+    "orientation": "326.963",
+    "pixscale": "0.941",
+    "published": "2016-10-16T22:46:08.135011",
+    "ra": "98.004",
+    "radius": "0.460",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268502/",
+    "revisions": [
+        "/api/v1/imagerevision/113223/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula - Caldwel 49 -  in High Resolution",
+    "updated": "2021-03-17T22:42:45.420294",
+    "uploaded": "2016-10-16T23:46:08.135011",
+    "url_duckduckgo": "https://www.astrobin.com/268502/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268502/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268502/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268502/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268502/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268502/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268502/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2566/2016/300f0047-e336-48b6-a1d8-2456feb063df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2566/2016/300f0047-e336-48b6-a1d8-2456feb063df-1582627790.jpg",
+    "url_thumb": "https://www.astrobin.com/268502/0/rawthumb/thumb/",
+    "user": "nandopg",
+    "views": 664,
+    "w": 2750
+}

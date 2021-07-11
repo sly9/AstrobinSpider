@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 41,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "66.622",
+    "description": "The Cat's Eye Nebula is a planetary nebula in the Constellation Draco. The outer shell is built mostly from ionized OIII gas with minor attributes of hydrogen gas. The inner core is very bright but shows some interesting structures.\r\n\r\nThe image is a combination of narrowband images for the shell and RGB images for the core and the stars.\r\n\r\nTS 130/910 mm apo refractor and ZWO ASI1600mmp.\r\n\r\nBaader Ha\r\n57 x 300s gain 139\r\n\r\nBaader OIII\r\n59 x 300s gain 139\r\n\r\nBaader RGB filters 36 mm gain 76\r\n26 x 60s red\r\n20 x 60s green\r\n26 x 60s blue\r\n\r\nStarnet++, APP and PS CC2019",
+    "h": 1147,
+    "hash": null,
+    "id": 422945,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 336,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "42.940",
+    "pixscale": "0.865",
+    "published": "2019-08-26T17:39:29.593135",
+    "ra": "269.660",
+    "radius": "0.231",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/422945/",
+    "revisions": [],
+    "subjects": [
+        "IC 4677",
+        "NGC 6543"
+    ],
+    "title": "NGC6543 - Cat's Eye Nebula (crop)",
+    "updated": "2021-06-24T14:57:27.115268",
+    "uploaded": "2019-08-26T18:39:30.630500",
+    "url_duckduckgo": "https://www.astrobin.com/422945/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/422945/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/422945/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/422945/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/422945/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/422945/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/422945/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2019/78ca4560-5fea-45e3-ada0-1f98a67ee375.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2019/78ca4560-5fea-45e3-ada0-1f98a67ee375-1582617042.jpg",
+    "url_thumb": "https://www.astrobin.com/422945/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 3039,
+    "w": 1543
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "UNKNOWN",
+    "dec": "-61.290",
+    "description": "Image acquisition by Martin Pugh, processing by Jeff A. Brown.\r\n\r\nS = 11 x 1800\"\r\nH = 13 x 1800\"\r\nO = 12 x 1800\"\r\n\r\nFor RGB Stars:\r\nR = 3 x 600\"\r\nG = 3 x 600\"\r\nB = 3 x 600\"",
+    "h": 2327,
+    "hash": null,
+    "id": 347037,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH 305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807940/"
+    ],
+    "orientation": "270.397",
+    "pixscale": "1.106",
+    "published": "2018-05-15T22:19:23.683735",
+    "ra": "168.372",
+    "radius": "0.657",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/347037/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3576",
+        "NGC 3603",
+        "Other"
+    ],
+    "title": "NGC 3576 The Statue of Liberty Nebula from NSW, Australia",
+    "updated": "2021-03-17T15:29:26.732873",
+    "uploaded": "2018-05-15T23:19:25.362260",
+    "url_duckduckgo": "https://www.astrobin.com/347037/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/347037/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/347037/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/347037/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/347037/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/347037/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/347037/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2db0b089-b305-450f-92a2-8a7abdbd709b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2db0b089-b305-450f-92a2-8a7abdbd709b-1526422988.jpg",
+    "url_thumb": "https://www.astrobin.com/347037/0/rawthumb/thumb/",
+    "user": "pullaqua",
+    "views": 144,
+    "w": 1824
+}

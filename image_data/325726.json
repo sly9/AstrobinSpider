@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "33.467",
+    "description": "IC 410 is an emission nebula more than 100 light-years across and some 12,000 light years from Earth in the constellation of Auriga.  Embedded within the nebula is the open star cluster NGC 1893.  The ‘Tadpoles’ are approximately 10 light-years long and point their tails outwards from the centre of the nebula.\r\n\r\nData for this image were captured between 30 November and 13 December 2017 from our remote imaging rig at the e-EyE facility in Extremadura, Spain.\r\n\r\nCapture: Steve Milne & Barry Wilson\r\nProcessing: Steve Milne",
+    "h": 2437,
+    "hash": null,
+    "id": 325726,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "91.047",
+    "pixscale": "2.095",
+    "published": "2017-12-14T15:08:46.459744",
+    "ra": "80.646",
+    "radius": "1.194",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325726/",
+    "revisions": [
+        "/api/v1/imagerevision/132427/",
+        "/api/v1/imagerevision/135840/",
+        "/api/v1/imagerevision/218392/"
+    ],
+    "subjects": [
+        "IC 410",
+        "NGC 1893",
+        "The star 19Aur"
+    ],
+    "title": "IC 410 (Tadpoles) in Auriga - SHO from E-EyE",
+    "updated": "2021-03-17T18:55:24.763595",
+    "uploaded": "2017-12-14T15:08:47.263333",
+    "url_duckduckgo": "https://www.astrobin.com/325726/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325726/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325726/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325726/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325726/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325726/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325726/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2017/2f07bab5-a181-44ed-84bb-5af4e886e8d9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2017/2f07bab5-a181-44ed-84bb-5af4e886e8d9-1582606165.jpg",
+    "url_thumb": "https://www.astrobin.com/325726/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 350,
+    "w": 3301
+}

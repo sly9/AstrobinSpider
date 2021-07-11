@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "26.467",
+    "description": "L : 319x20sec\r\nR: 74x30sec\r\nG: 74x30sec\r\nB: 73x30sec",
+    "h": 2332,
+    "hash": null,
+    "id": 275001,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806328/"
+    ],
+    "orientation": "-1.937",
+    "pixscale": "2.271",
+    "published": "2016-12-05T22:11:09.242589",
+    "ra": "61.319",
+    "radius": "1.198",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/275001/",
+    "revisions": [],
+    "subjects": [
+        "IC 360"
+    ],
+    "title": "LBN777",
+    "updated": "2021-03-17T22:19:42.119010",
+    "uploaded": "2016-12-05T20:55:31.198807",
+    "url_duckduckgo": "https://www.astrobin.com/275001/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/275001/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/275001/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/275001/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/275001/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/275001/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/275001/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/41b48681-5bc0-4df4-9f09-036097da0b28.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/41b48681-5bc0-4df4-9f09-036097da0b28-1480972474.jpg",
+    "url_thumb": "https://www.astrobin.com/275001/0/rawthumb/thumb/",
+    "user": "astrowicht",
+    "views": 273,
+    "w": 3000
+}

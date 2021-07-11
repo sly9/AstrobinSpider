@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 16,
+    "data_source": "UNSET",
+    "dec": "-47.504",
+    "description": "Omega Centauri\r\nTS 115/800\r\nZWO ASI 1600 Mono Cooled\r\nLRGB (20 min + 4 min + 4 min + 4 min)\r\nTotal 32 minutos\r\nFrames de 2 minutos\r\nL Bin 1x1\r\nRGB Bin 2x2\r\nProcessamento: PixInsight + PS6",
+    "h": 3510,
+    "hash": null,
+    "id": 301867,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 196,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "289.353",
+    "pixscale": "1.209",
+    "published": "2017-07-02T17:30:42.036686",
+    "ra": "201.619",
+    "radius": "0.979",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301867/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "Omega Centauri NGC 5139",
+    "updated": "2021-04-03T17:25:47.089654",
+    "uploaded": "2017-07-02T18:30:42.762346",
+    "url_duckduckgo": "https://www.astrobin.com/301867/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301867/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301867/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301867/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301867/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301867/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301867/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22145/2017/4b74ac10-cebf-464f-909c-31afda1a01cb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22145/2017/4b74ac10-cebf-464f-909c-31afda1a01cb-1582616928.jpg",
+    "url_thumb": "https://www.astrobin.com/301867/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 1203,
+    "w": 4650
+}

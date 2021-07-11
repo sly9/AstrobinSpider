@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "5.021",
+    "description": "",
+    "h": 1379,
+    "hash": null,
+    "id": 271979,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 322,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803396/"
+    ],
+    "orientation": "172.005",
+    "pixscale": "2.955",
+    "published": "2016-11-13T01:01:11.347460",
+    "ra": "98.104",
+    "radius": "1.198",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271979/",
+    "revisions": [
+        "/api/v1/imagerevision/104073/",
+        "/api/v1/imagerevision/104092/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula HaRGB,  QHY163M",
+    "updated": "2021-04-08T11:58:16.861606",
+    "uploaded": "2016-11-13T01:01:11.800297",
+    "url_duckduckgo": "https://www.astrobin.com/271979/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271979/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271979/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271979/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271979/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271979/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271979/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7505/2016/823008b1-7e53-44ee-a73e-9f04c51b2780.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/823008b1-7e53-44ee-a73e-9f04c51b2780-1478999078.jpg",
+    "url_thumb": "https://www.astrobin.com/271979/0/rawthumb/thumb/",
+    "user": "dvalid",
+    "views": 3118,
+    "w": 1824
+}

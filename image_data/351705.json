@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 15,
+    "data_source": "TRAVELLER",
+    "dec": "-19.508",
+    "description": "2-part mosaic of Blue Horsehead reflection Nebula, based on combined data from 3 summer nights in 2018 and 2019 that I collected in Negev Desert. Due to its low altitude at my geographical location I had to dedicate 3 nights to get the data. Somehow, hunting for Blue Horse falls on a season when camels herd is wandering in the desert just nearby, so I could rightfully name this object the Blue Camel Nebula ;)\r\n\r\nIt appears that what looks like a single star (Nu Scorpii, or Jabbah) right at the Horse Blue Eye, in most of existing images of the Blue Horse Nebula I've seen - are actually two blue stars, as you can see in my version. Actually, Jabbah is one of the biggest multiple star system that we have so far discovered. It's considered to be a quintuple star system consisting of about two groups of stars but it is now thought it might be a septuple (7) star system [1].\r\n\r\nA blue light on the left edge is not an artifact but leaked light from a nearby blue star outside frame of view.\r\n\r\n[1] https://www.universeguide.com/star/jabbah",
+    "h": 2395,
+    "hash": null,
+    "id": 351705,
+    "imaging_cameras": [
+        "QHYCCD QHY367c"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 130ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 135,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802274/"
+    ],
+    "orientation": "179.282",
+    "pixscale": "4.702",
+    "published": "2018-06-18T18:16:02.379848",
+    "ra": "243.660",
+    "radius": "2.454",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/351705/",
+    "revisions": [],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star νSco",
+        "The star ω1Sco",
+        "The star ω2Sco"
+    ],
+    "title": "Blue Horsehead Nebula from Negev Desert",
+    "updated": "2021-03-19T20:55:24.152496",
+    "uploaded": "2018-06-18T09:03:32.339903",
+    "url_duckduckgo": "https://www.astrobin.com/351705/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/351705/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/351705/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/351705/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/351705/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/351705/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/351705/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10039/2020/3d502506-c255-4784-97dc-73053f6d2e71.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10039/2020/3d502506-c255-4784-97dc-73053f6d2e71-1600465763.jpg",
+    "url_thumb": "https://www.astrobin.com/351705/0/rawthumb/thumb/",
+    "user": "spinlock",
+    "views": 839,
+    "w": 2895
+}

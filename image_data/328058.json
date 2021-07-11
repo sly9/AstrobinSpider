@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "41.431",
+    "description": "",
+    "h": 2412,
+    "hash": null,
+    "id": 328058,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801293/"
+    ],
+    "orientation": "233.116",
+    "pixscale": "2.096",
+    "published": "2018-01-02T16:37:38.223352",
+    "ra": "10.705",
+    "radius": "1.941",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328058/",
+    "revisions": [
+        "/api/v1/imagerevision/133865/",
+        "/api/v1/imagerevision/134024/",
+        "/api/v1/imagerevision/134038/"
+    ],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31 (two panels mosaic) - DSWRO",
+    "updated": "2021-03-17T18:45:25.657165",
+    "uploaded": "2018-01-02T16:37:39.686786",
+    "url_duckduckgo": "https://www.astrobin.com/328058/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328058/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328058/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328058/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328058/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328058/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328058/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8466/2018/93da47ad-bd50-490b-914c-24c8098d9ead.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8466/2018/93da47ad-bd50-490b-914c-24c8098d9ead-1582574965.jpg",
+    "url_thumb": "https://www.astrobin.com/328058/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 233,
+    "w": 6216
+}

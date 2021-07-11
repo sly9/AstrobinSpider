@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 11,
+    "data_source": "UNSET",
+    "dec": "0.021",
+    "description": "",
+    "h": 1344,
+    "hash": null,
+    "id": 278825,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10\" 250mm Carbon"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 287,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807056/"
+    ],
+    "orientation": "171.283",
+    "pixscale": "0.880",
+    "published": "2017-01-04T08:26:30.349565",
+    "ra": "86.592",
+    "radius": "0.311",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/278825/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068"
+    ],
+    "title": "M78",
+    "updated": "2021-05-22T15:35:39.984464",
+    "uploaded": "2017-01-04T08:26:31.564424",
+    "url_duckduckgo": "https://www.astrobin.com/278825/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/278825/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/278825/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/278825/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/278825/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/278825/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/278825/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/82270d09-2907-46a3-a9ed-936f011284d4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/82270d09-2907-46a3-a9ed-936f011284d4-1483523899.jpg",
+    "url_thumb": "https://www.astrobin.com/278825/0/rawthumb/thumb/",
+    "user": "fotojerry999",
+    "views": 1992,
+    "w": 1824
+}

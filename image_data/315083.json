@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "57.485",
+    "description": "",
+    "h": 3197,
+    "hash": null,
+    "id": 315083,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8 Carbon Fiber"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806069/"
+    ],
+    "orientation": "272.399",
+    "pixscale": "0.735",
+    "published": "2017-10-04T20:21:42.966305",
+    "ra": "323.882",
+    "radius": "0.535",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/315083/",
+    "revisions": [
+        "/api/v1/imagerevision/126545/",
+        "/api/v1/imagerevision/126547/",
+        "/api/v1/imagerevision/126549/"
+    ],
+    "subjects": [
+        "VdB142"
+    ],
+    "title": "Close Up to Elephant Trunk Nebula (IC1396) HST",
+    "updated": "2021-03-17T19:39:34.115372",
+    "uploaded": "2017-10-02T15:35:20.958979",
+    "url_duckduckgo": "https://www.astrobin.com/315083/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/315083/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/315083/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/315083/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/315083/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/315083/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/315083/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/19267/2017/7f4edcf3-05a8-49f1-a21f-e7b81effb226.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/19267/2017/7f4edcf3-05a8-49f1-a21f-e7b81effb226-1582602976.jpg",
+    "url_thumb": "https://www.astrobin.com/315083/0/rawthumb/thumb/",
+    "user": "Carballada",
+    "views": 376,
+    "w": 4158
+}

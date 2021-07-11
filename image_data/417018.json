@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-23.863",
+    "description": "",
+    "h": 1370,
+    "hash": null,
+    "id": 417018,
+    "imaging_cameras": [
+        "ZWO ASI 071MC PRO"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Newton 254 f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810537/"
+    ],
+    "orientation": "258.057",
+    "pixscale": "1.403",
+    "published": "2019-07-25T22:29:43.827284",
+    "ra": "272.443",
+    "radius": "0.472",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/417018/",
+    "revisions": [
+        "/api/v1/imagerevision/186692/",
+        "/api/v1/imagerevision/186695/"
+    ],
+    "subjects": [
+        "IC 1274",
+        "IC 1275",
+        "IC 4684",
+        "IC 4685",
+        "NGC 6559"
+    ],
+    "title": "IC Nebulae in Sagittarius",
+    "updated": "2021-03-17T10:03:40.882484",
+    "uploaded": "2019-07-25T22:38:19.033166",
+    "url_duckduckgo": "https://www.astrobin.com/417018/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417018/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417018/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417018/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417018/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417018/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417018/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13199/2019/299650ae-a769-4bf2-a161-decc0c56620f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13199/2019/299650ae-a769-4bf2-a161-decc0c56620f-1582539764.png",
+    "url_thumb": "https://www.astrobin.com/417018/0/rawthumb/thumb/",
+    "user": "tim.anderson",
+    "views": 61,
+    "w": 2000
+}

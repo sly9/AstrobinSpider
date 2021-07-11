@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "13.670",
+    "description": "",
+    "h": 1341,
+    "hash": null,
+    "id": 283159,
+    "imaging_cameras": [
+        "QHY CCD AL ccd 9m"
+    ],
+    "imaging_telescopes": [
+        "Orion uk 12\" f4 Newton 1200 mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800954/"
+    ],
+    "orientation": "6.501",
+    "pixscale": "1.169",
+    "published": "2017-02-09T20:12:54.095242",
+    "ra": "25.726",
+    "radius": "0.371",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283159/",
+    "revisions": [
+        "/api/v1/imagerevision/164059/",
+        "/api/v1/imagerevision/164060/",
+        "/api/v1/imagerevision/164063/",
+        "/api/v1/imagerevision/164065/"
+    ],
+    "subjects": [
+        "NGC 660"
+    ],
+    "title": "NGC 660",
+    "updated": "2021-03-17T21:47:51.507995",
+    "uploaded": "2017-02-09T20:12:54.709363",
+    "url_duckduckgo": "https://www.astrobin.com/283159/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283159/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283159/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283159/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283159/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283159/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283159/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7650/2017/e12c4f2f-fb17-4988-a36f-acc8efdf9683.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7650/2017/e12c4f2f-fb17-4988-a36f-acc8efdf9683-1582535648.png",
+    "url_thumb": "https://www.astrobin.com/283159/0/rawthumb/thumb/",
+    "user": "martin.armbrecht",
+    "views": 222,
+    "w": 1849
+}

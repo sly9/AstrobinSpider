@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.274",
+    "description": "Telesocpe : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilters : Astrodon true-balance gen2 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : SBIG RemoteGuideHead\r\nExposure : L 600s x 24(1bin), RGB each 600s x 14(1bin), Ha 1200x x 15(1bin) total 16h\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 4000,
+    "hash": null,
+    "id": 362599,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "271.354",
+    "pixscale": "3.487",
+    "published": "2018-08-21T02:01:56.712184",
+    "ra": "10.697",
+    "radius": "2.739",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/362599/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "The star 32And",
+        "The star νAnd"
+    ],
+    "title": "M31 Andromeda galaxy Ha enhanced",
+    "updated": "2021-03-17T14:20:11.598245",
+    "uploaded": "2018-08-21T03:01:57.150560",
+    "url_duckduckgo": "https://www.astrobin.com/362599/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/362599/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/362599/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/362599/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/362599/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/362599/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/362599/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c78eb775-bb0e-410c-b5e6-ae8e14663bfb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c78eb775-bb0e-410c-b5e6-ae8e14663bfb-1534821300.jpg",
+    "url_thumb": "https://www.astrobin.com/362599/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 824,
+    "w": 4000
+}

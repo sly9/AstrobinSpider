@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "61.443",
+    "description": "This target was difficult to capture because the weather was windy and the mount was shaking. Fortunatly the autoguider managed to keep the stars round.\r\nI decided to take a lot of Oiii and Ha subs to make a HOO image, but I finally took a little bit of Sii just for the Hubble Palette colors.\r\n\r\nThank you to my friend Pau who lent me a bit of his garden to capture this beautiful nebula!\r\nHope you enjoy it!",
+    "h": 3274,
+    "hash": null,
+    "id": 313864,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 112,
+    "link": "http://astrovinch.ch/mel15-2/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806512/"
+    ],
+    "orientation": "356.985",
+    "pixscale": "0.981",
+    "published": "2017-09-26T16:29:14.305622",
+    "ra": "38.300",
+    "radius": "0.711",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313864/",
+    "revisions": [
+        "/api/v1/imagerevision/126126/",
+        "/api/v1/imagerevision/133946/"
+    ],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "IC 1805 - SHO",
+    "updated": "2021-03-17T19:43:54.086628",
+    "uploaded": "2017-09-26T17:05:02.223965",
+    "url_duckduckgo": "https://www.astrobin.com/313864/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313864/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313864/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313864/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313864/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313864/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313864/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/19616/2017/1508c82d-c159-4432-9e1d-03b6e32d000c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/19616/2017/1508c82d-c159-4432-9e1d-03b6e32d000c-1582538485.jpg",
+    "url_thumb": "https://www.astrobin.com/313864/0/rawthumb/thumb/",
+    "user": "Vinch",
+    "views": 357,
+    "w": 4064
+}

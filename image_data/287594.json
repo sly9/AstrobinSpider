@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 13,
+    "data_source": "UNSET",
+    "dec": "69.130",
+    "description": "RGB with a synthetic luminance for detail. Lot of the IFN in the data but I couldn't stretch it too much because of reflection issues I'm tracking down. Added 3.6 hours of Ha data.\r\n\r\n128 x 2min Red \r\n130 x 2min Green\r\n126 x 2min Blue\r\n108 x 2min Ha\r\n\r\nRGB at gain 75, offset 14\r\nHa at gain 200, offset 50\r\n\r\nProcessed in PixInsight\r\n\r\nThanks for looking!\r\n\r\n\r\nRevision B - Annotated version\r\n\r\n",
+    "h": 1459,
+    "hash": null,
+    "id": 287594,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 130 GTX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "320.676",
+    "pixscale": "1.336",
+    "published": "2017-03-18T12:52:55.027854",
+    "ra": "149.507",
+    "radius": "1.099",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/287594/",
+    "revisions": [
+        "/api/v1/imagerevision/112487/",
+        "/api/v1/imagerevision/112494/",
+        "/api/v1/imagerevision/112542/",
+        "/api/v1/imagerevision/112613/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "Galaxies in Ursa Major",
+    "updated": "2021-03-17T21:30:42.598270",
+    "uploaded": "2017-03-18T12:52:56.830552",
+    "url_duckduckgo": "https://www.astrobin.com/287594/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/287594/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/287594/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/287594/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/287594/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/287594/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/287594/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16311/2017/922bd475-1f29-4d34-94f2-a794886f24a6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/922bd475-1f29-4d34-94f2-a794886f24a6-1489841879.png",
+    "url_thumb": "https://www.astrobin.com/287594/0/rawthumb/thumb/",
+    "user": "Dan.Goelling",
+    "views": 903,
+    "w": 1824
+}

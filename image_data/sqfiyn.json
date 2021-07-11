@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "68.996",
+    "description": "I wanted to annotate my mosaic data (ref.6) with the M81 group members as listed in the Wikipedia article (ref. 1) and found extra information in a number of articles (ref. 2-5) that i used for a visual match with images made with large telescopes. This was not an easy task, but i could add/annotate 22 members ( of >33 in total). In image revision \"Original\" you can find a version also annotated with PGC catalog numbers.  The image needs to be viewed in full resolution (to be able to read the text and see the actual dwarf galaxies.......).\r\n\r\n\r\nref.1:\"Wikipedia: The M81 group\"\r\nhttps://en.wikipedia.org/wiki/M81_Group\r\n\r\nref. 2:\"The M 81 group of galaxies: New distances, kinematics and structure\" \r\nhttps://www.aanda.org/articles/aa/pdf/2002/07/aa1940.pdf\r\n\r\nref.3:\"Dwarf spheroidal galaxies in the M81 group imaged with WFPC2\"\r\nhttps://pdfs.semanticscholar.org/1c03/a8a1da90a8e139743335d50b4a70408261a0.pdf\r\n\r\nref.4:\"Discovery of new dwarf galaxies in the M81 group\"\r\nhttps://arxiv.org/pdf/0805.1250.pdf\r\n\r\nref.5:\"New Hydrogen Clouds in the M81 Group of Galaxies\"\r\n\r\nref.6:\"Volcano and Angel, Mandel-Wilson 15 panel annotated version\"\r\nhttps://www.astrobin.com/389783/?nc=user\r\n\r\nref.7:\"DD78 and it's Globular Cluster, members of the M81 group\"\r\nhttps://www.astrobin.com/gxkxed/?nc=user",
+    "h": 10945,
+    "hash": "sqfiyn",
+    "id": 440626,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "0.979",
+    "pixscale": "2.202",
+    "published": "2019-11-28T08:39:42.740359",
+    "ra": "150.795",
+    "radius": "4.377",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440626/",
+    "revisions": [
+        "/api/v1/imagerevision/201522/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "IC 2574",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "The star 22UMa",
+        "The star 24UMa",
+        "The star 27UMa"
+    ],
+    "title": "Reference image: 22 members of the M81 galaxy Group",
+    "updated": "2021-03-17T06:16:07.273425",
+    "uploaded": "2019-11-27T11:51:00.687448",
+    "url_duckduckgo": "https://www.astrobin.com/sqfiyn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/sqfiyn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/sqfiyn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/sqfiyn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/sqfiyn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/sqfiyn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/sqfiyn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/72c4952c-5ba6-4a3a-8240-d73d7dc348fb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/72c4952c-5ba6-4a3a-8240-d73d7dc348fb-1582289524.jpg",
+    "url_thumb": "https://www.astrobin.com/sqfiyn/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 529,
+    "w": 9218
+}

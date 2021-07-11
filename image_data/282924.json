@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-11.227",
+    "description": "Takahashi FSQ-85ED + Atik 11000 + Baader 3.5nm Ha Filter\r\n29.JAN.2017: 6 x 1800s\r\n28.JAN.2017: 6 x 1800s\r\n27.JAN.2017: 6 x 1800s\r\n26.JAN.2017: 5 x 1800s",
+    "h": 2659,
+    "hash": null,
+    "id": 282924,
+    "imaging_cameras": [
+        "Atik 11000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 206,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "0.440",
+    "pixscale": "4.123",
+    "published": "2017-02-07T05:06:33.170411",
+    "ra": "107.584",
+    "radius": "2.749",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282924/",
+    "revisions": [
+        "/api/v1/imagerevision/110042/"
+    ],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335",
+        "NGC 2343",
+        "NGC 2353"
+    ],
+    "title": "IC2177 Seagull Nebula in Ha",
+    "updated": "2021-03-17T21:48:46.408388",
+    "uploaded": "2017-02-07T05:06:33.578071",
+    "url_duckduckgo": "https://www.astrobin.com/282924/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282924/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282924/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282924/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282924/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282924/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282924/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/c5fa76b9-fbf1-4c4e-9167-d5f8a8b78007.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/c5fa76b9-fbf1-4c4e-9167-d5f8a8b78007-1582645045.jpg",
+    "url_thumb": "https://www.astrobin.com/282924/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 557,
+    "w": 3997
+}

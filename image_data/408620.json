@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.455",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nM13 was discovered by Edmond Halley in 1714, and cataloged by Charles Messier on June 1, 1764 into his list of objects not to mistake for comets; Messier's list, including Messier 13, eventually became known as the Messier Catalog.\r\n\r\nTraditional binoculars make the Hercules Globular Cluster look similar to a round patch of light. At least four inches of telescope aperture will allow observing the stars that constitute M13 as small pinpoints of light. However, only larger telescopes allow resolving stars further into the center of the cluster.  For this image, both the 12\" Newtonian and the 5\" refractor are able to resolve stars in the center of the cluster.\r\n\r\nM13 is about 145 light-years in diameter, and it is composed of several hundred thousand stars, the brightest of which is a red giant, the variable star V11, with an apparent visual magnitude of 11.95. M13 is about 22,200 light-years away from Earth.\r\n\r\nIt wasn't until 1779 that the single stars in this globular cluster were resolved. Compared to the stars in the neighborhood of the Sun, the stars in M13's stellar population are more than a hundred times denser. They are so densely packed together that they sometimes collide and produce new stars. The newly-formed, young stars, so-called \"blue stragglers,\" are particularly interesting to astronomers.\r\n\r\nThe Arecibo message of 1974, which contained encoded information about the human race, DNA, atomic numbers, Earth's position and other information, was beamed from the Arecibo Observatory radio telescope towards M13 as an experiment in contacting potential extraterrestrial civilizations in the cluster. The cluster will move through space during the transit time; opinions differ as to whether or not the cluster will be in a position to receive the message by the time it arrives.\r\n(Wikipedia)",
+    "h": 3472,
+    "hash": null,
+    "id": 408620,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 202,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.616",
+    "pixscale": "0.701",
+    "published": "2019-06-03T21:53:22.631697",
+    "ra": "250.421",
+    "radius": "0.565",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/408620/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "Hercules globular cluster",
+        "IC4617",
+        "M 13",
+        "M13",
+        "NGC 6205"
+    ],
+    "title": "M13 Hercules Globular Cluster",
+    "updated": "2021-03-17T10:44:12.559125",
+    "uploaded": "2019-06-03T22:42:58.681167",
+    "url_duckduckgo": "https://www.astrobin.com/408620/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408620/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408620/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408620/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408620/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408620/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408620/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/cdb4fe2c-efcd-4dec-a14a-c6e812b704fc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/cdb4fe2c-efcd-4dec-a14a-c6e812b704fc-1582590823.jpg",
+    "url_thumb": "https://www.astrobin.com/408620/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 876,
+    "w": 4656
+}

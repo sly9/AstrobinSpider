@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.415",
+    "description": "I've acquired around 50% of the data for this mosaic.  I'm not getting into a hurry as I hope to present a rich and smooth representation of this ancient supernova remnant.  I plan to shoot 6 panels and capture the entire Cygnus Loop.  I'm really liking the color I've managed to capture over the last few months.  This is a span of two panels to complete the structure in Cygnus.  \r\n\r\nImage statistics: \r\nL-   20 x 180s\r\nR-   20 x 180s\r\nG-   20 x 180s\r\nB-   20 x 180s \r\nHA- 20 x 600s \r\nO3- 20 x 600s\r\n\r\nMaking it around 10.5 hours per panel at present.  Image acquired during July and August in Marathon Texas.",
+    "h": 1166,
+    "hash": null,
+    "id": 420793,
+    "imaging_cameras": [
+        "QHY 16200A 16200 #2",
+        "QHY 16200A"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO WOFLT132",
+        "William Optics FLT 132 Triplet APO Scope #2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800646/",
+        "/api/v1/location/2807773/",
+        "/api/v1/location/2809665/"
+    ],
+    "orientation": "319.702",
+    "pixscale": "1.823",
+    "published": "2019-08-13T17:02:55.531861",
+    "ra": "313.986",
+    "radius": "1.503",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/420793/",
+    "revisions": [
+        "/api/v1/imagerevision/189545/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "The Eastern Veil in Cygnus",
+    "updated": "2021-06-02T06:48:12.651859",
+    "uploaded": "2019-08-13T18:02:55.738277",
+    "url_duckduckgo": "https://www.astrobin.com/420793/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420793/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420793/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420793/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420793/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420793/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420793/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5954/2019/4a042e49-e4cb-4575-ac3f-8c7b6fb4ebdb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4a042e49-e4cb-4575-ac3f-8c7b6fb4ebdb-1565719791.jpg",
+    "url_thumb": "https://www.astrobin.com/420793/0/rawthumb/thumb/",
+    "user": "CosmicWreckingBall",
+    "views": 205,
+    "w": 1824
+}

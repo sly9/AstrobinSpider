@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "61.015",
+    "description": "",
+    "h": 1252,
+    "hash": null,
+    "id": 276882,
+    "imaging_cameras": [
+        "QSI 683 ws"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10 inch Truss iDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806465/"
+    ],
+    "orientation": "87.600",
+    "pixscale": "1.333",
+    "published": "2016-12-21T17:14:53.018847",
+    "ra": "14.981",
+    "radius": "0.385",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/276882/",
+    "revisions": [
+        "/api/v1/imagerevision/106484/"
+    ],
+    "subjects": [
+        "IC 63",
+        "gamma Cas nebula"
+    ],
+    "title": "IC63 H-alpha",
+    "updated": "2021-03-17T22:12:29.808883",
+    "uploaded": "2016-12-21T17:14:53.736998",
+    "url_duckduckgo": "https://www.astrobin.com/276882/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/276882/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/276882/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/276882/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/276882/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/276882/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/276882/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20784/2016/97f4e14f-753f-4abb-963d-8bcf4db3d93a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/97f4e14f-753f-4abb-963d-8bcf4db3d93a-1482340879.jpg",
+    "url_thumb": "https://www.astrobin.com/276882/0/rawthumb/thumb/",
+    "user": "st_armen5",
+    "views": 97,
+    "w": 1663
+}

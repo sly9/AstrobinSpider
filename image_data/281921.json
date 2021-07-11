@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "25.925",
+    "description": "",
+    "h": 2416,
+    "hash": null,
+    "id": 281921,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106EDXIII Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805510/"
+    ],
+    "orientation": "270.091",
+    "pixscale": "2.098",
+    "published": "2017-01-30T07:09:31.041241",
+    "ra": "69.848",
+    "radius": "1.142",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/281921/",
+    "revisions": [
+        "/api/v1/imagerevision/109467/"
+    ],
+    "subjects": [
+        "IC 2087"
+    ],
+    "title": "B22",
+    "updated": "2021-03-17T21:52:49.779104",
+    "uploaded": "2017-01-30T07:09:32.788147",
+    "url_duckduckgo": "https://www.astrobin.com/281921/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/281921/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/281921/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/281921/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/281921/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/281921/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/281921/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3586/2017/a45c08be-ace0-43ef-afd7-c8c29dad1b84.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/3586/2017/a45c08be-ace0-43ef-afd7-c8c29dad1b84-1582646318.png",
+    "url_thumb": "https://www.astrobin.com/281921/0/rawthumb/thumb/",
+    "user": "trombone76",
+    "views": 349,
+    "w": 3088
+}

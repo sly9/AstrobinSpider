@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 24,
+    "data_source": "TRAVELLER",
+    "dec": "-34.194",
+    "description": "There are a lot of names for this intricate nebula, however none of them really seem to fit the bill. \"The Lobster Nebula\" as well as the \"War and Peace Nebula\" are used often but I personally see a scorpion with raised claws and a faint curved tail. Not to mention this nebula resides in the constellation Scorpius, a fitting home. So hear me out astronomical community and lets make this happen!\r\n\r\nIn this false-color narrowband image, I display the Sulphur and Hydrogen emissions as the warm red-orange colors and the Oxygen emissions as the teal-blue range. I typically save narrowband imaging for home, but since this target never rose above 22° I used my dark site's unobstructed view to capture this nebula. In the core of this nebula lie some of the most massive stars known, and the surrounding nebulosity shows off a chaotic display of gas and dark dust.\r\n\r\nEquipment:  \r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\n74mm aperture stop-down ring (brings scope to f/5.2)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nAccessories:\r\nQHYCCD PoleMaster\r\n\r\nSoftware:  \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\nStarnet++\r\n\r\nAcquisition:  \r\nLocation: Atoka, OK (Bortle 3)\r\nDates: 5/31/19, 6/26/19, 6/27/19\r\nGain: 200 Offset: 50\r\nCamera temp: -10C\r\nSii: 34x300\" Astrodon 3nm\r\nHa: 35x300\" Astrodon 5nm\r\nOiii: 33x300\" Astrodon 3nm\r\nTotal integration time: 8hr 30min\r\n64x darks per calibration (master from library)\r\n30x flats per calibration\r\n200x bias per calibration (master from library)\r\n\r\nPreprocessing:\r\nBatch PreProcessing script to generate calibrated images\r\nStarAlignment\r\nLocalNormalization\r\nImageIntegration\r\nDynamicCrop each master\r\nDBE each master\r\n\r\nLuminance Processing:\r\nDuplicated the master Ha to use as the luminance\r\nDeconvolution\r\nTGV noise reduction (via Jon Rista's method)\r\nArcsinhStretch and HistogramTransformation to bring to non-linear\r\nHDRMultiscaleTransform to reveal core\r\nLocalHistogramEqualization\r\nMultiscaleLinearTransform for sharpening\r\nCurvesTransformation for slight contrast\r\n\r\nPreparing separate Sii, Ha, and Oiii linear masters for tonemapping (applied to each master individually):\r\nTGV & MMT noise reduction (via Jon Rista's method)\r\nArcsinhStretch and HistogramTransformation to bring to non-linear\r\nRemoved stars via StarNet++\r\nFurther removed background artifacts with MMT\r\n\r\nCombined prepared Sii, Ha, and Oiii masters with ChannelCombination:\r\nR: Sii\r\nG: Ha\r\nB: Oiii\r\n\r\nTonemap Processing:\r\nInvert>SCNR Green>Invert to remove magenta\r\nDBE to help with uneven color casts\r\nSeveral a/b channel CurvesTransformations using ColorMasks to alter the colors to an aesthetically pleasing palette\r\nCurvesTransformation for saturation\r\nCurvesTransformation for slight contrast\r\n\r\nCombined Tonemap with Luminance using LRGBCombination\r\nCurvesTransformation to balance background color\r\nMorphologicalTransformation for slight star reduction\r\nUnsharpMask with a StarMask to harden up the soft stars a tad",
+    "h": 3282,
+    "hash": null,
+    "id": 413849,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808932/"
+    ],
+    "orientation": "1.278",
+    "pixscale": "2.022",
+    "published": "2019-07-06T19:44:00.510972",
+    "ra": "261.638",
+    "radius": "1.560",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/413849/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6357"
+    ],
+    "title": "NGC6357 - The Scorpion in Scorpius (SHO)",
+    "updated": "2021-03-17T10:18:25.494337",
+    "uploaded": "2019-07-06T20:44:00.775078",
+    "url_duckduckgo": "https://www.astrobin.com/413849/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/413849/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/413849/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/413849/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/413849/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/413849/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/413849/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27683/2020/ab5809f5-6cea-488f-9acc-367d49d1da3b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27683/2020/ab5809f5-6cea-488f-9acc-367d49d1da3b-1582583410.jpg",
+    "url_thumb": "https://www.astrobin.com/413849/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 574,
+    "w": 4482
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "56.623",
+    "description": "",
+    "h": 2029,
+    "hash": null,
+    "id": 282170,
+    "imaging_cameras": [
+        "QHY10"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TSAPO 102 Flat"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805401/"
+    ],
+    "orientation": "-179.308",
+    "pixscale": "2.311",
+    "published": "2017-06-06T21:36:13.386434",
+    "ra": "13.273",
+    "radius": "1.470",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/282170/",
+    "revisions": [],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "Pacman nebula",
+    "updated": "2021-03-17T21:51:44.328156",
+    "uploaded": "2017-01-31T23:51:33.923004",
+    "url_duckduckgo": "https://www.astrobin.com/282170/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282170/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282170/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282170/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282170/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282170/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282170/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/7265432e-d10a-4df0-a866-43e28ac90d22.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7265432e-d10a-4df0-a866-43e28ac90d22-1485906898.png",
+    "url_thumb": "https://www.astrobin.com/282170/0/rawthumb/thumb/",
+    "user": "Matteo.Quadri",
+    "views": 81,
+    "w": 3000
+}

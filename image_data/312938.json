@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "43.963",
+    "description": "",
+    "h": 3199,
+    "hash": null,
+    "id": 312938,
+    "imaging_cameras": [
+        "QSI 660WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Astro Tech AT-66ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806548/"
+    ],
+    "orientation": "9.700",
+    "pixscale": "1.434",
+    "published": "2017-09-20T00:25:47.680001",
+    "ra": "315.170",
+    "radius": "1.003",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312938/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7000",
+        "North America nebula",
+        "The star ξCyg"
+    ],
+    "title": "NGC7000 SHO",
+    "updated": "2021-03-17T19:47:58.239456",
+    "uploaded": "2017-09-20T01:18:43.381021",
+    "url_duckduckgo": "https://www.astrobin.com/312938/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312938/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312938/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312938/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312938/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312938/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312938/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/21358/2017/e1b27b3f-bddc-439b-805d-14ea813e27a0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/21358/2017/e1b27b3f-bddc-439b-805d-14ea813e27a0-1582550563.png",
+    "url_thumb": "https://www.astrobin.com/312938/0/rawthumb/thumb/",
+    "user": "nebulasaurus",
+    "views": 82,
+    "w": 3887
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "PRO_DATA",
+    "dec": "-18.879",
+    "description": "Here I have added the Subaru scope monochrome data that I just posted (http://www.astrobin.com/293640/) as luminosity to Liverpool Telescope LHaRGB data that I have previously posted (http://www.astrobin.com/292339/). So, an 8.2 m scope for the lum and a 2 m scope for the colours and some lum. Totally about 1.5 h of data and a lot of aperture provided by UK and Japanese taxpayers (Thank you!).",
+    "h": 2661,
+    "hash": null,
+    "id": 293641,
+    "imaging_cameras": [
+        "IO:O",
+        "Supreme Cam CCD"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope",
+        "8.2 m Ritchey-Chretien Subaru Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/",
+        "/api/v1/location/2807037/"
+    ],
+    "orientation": "270.014",
+    "pixscale": "0.202",
+    "published": "2017-04-29T08:52:10.012482",
+    "ra": "180.481",
+    "radius": "0.109",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293641/",
+    "revisions": [
+        "/api/v1/imagerevision/116862/"
+    ],
+    "subjects": [
+        "Antennae",
+        "NGC 4038",
+        "NGC 4039"
+    ],
+    "title": "Antennae galaxies NGC4038-39 - big scopes data",
+    "updated": "2021-05-20T12:31:24.284249",
+    "uploaded": "2017-04-29T09:52:11.070714",
+    "url_duckduckgo": "https://www.astrobin.com/293641/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293641/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293641/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293641/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293641/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293641/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293641/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/6b8e5278-7865-4a9f-8477-a2aa80f62841.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/6b8e5278-7865-4a9f-8477-a2aa80f62841-1582579791.jpg",
+    "url_thumb": "https://www.astrobin.com/293641/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 258,
+    "w": 2845
+}

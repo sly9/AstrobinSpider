@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "-19.598",
+    "description": "",
+    "h": 3439,
+    "hash": null,
+    "id": 337567,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 226,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "359.200",
+    "pixscale": "3.844",
+    "published": "2018-03-15T23:59:44.866800",
+    "ra": "244.348",
+    "radius": "3.003",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337567/",
+    "revisions": [
+        "/api/v1/imagerevision/139732/",
+        "/api/v1/imagerevision/144086/"
+    ],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star νSco",
+        "The star χOph",
+        "The star ψOph",
+        "The star ω2Sco"
+    ],
+    "title": "IC 4592 - The Blue Horsehead Nebula",
+    "updated": "2021-06-14T03:21:35.883721",
+    "uploaded": "2018-03-15T23:59:47.306201",
+    "url_duckduckgo": "https://www.astrobin.com/337567/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337567/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337567/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337567/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337567/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337567/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337567/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/bf1a6b4f-1f0e-4f76-b428-c362018c15ae.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/bf1a6b4f-1f0e-4f76-b428-c362018c15ae-1582598660.jpg",
+    "url_thumb": "https://www.astrobin.com/337567/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 1276,
+    "w": 4451
+}

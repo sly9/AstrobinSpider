@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "9.767",
+    "description": "Der Christmas Tree Cluster in Ha-OIII-RGB\r\n4x RGB, 4h H-alpha, 1h OIII\r\nZWO ASI 16000mm cool + Canon EOS 5da MKII\r\nCelestron RASA, TS 100Q APO\r\nDSS + Photoshop",
+    "h": 1468,
+    "hash": null,
+    "id": 281187,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool",
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph",
+        "TSOptics TS100Q"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 152,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "86.561",
+    "pixscale": "1.807",
+    "published": "2017-01-24T16:58:50.346819",
+    "ra": "100.214",
+    "radius": "0.945",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/281187/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "Der Christmas Tree Cluster",
+    "updated": "2021-03-17T21:55:44.715245",
+    "uploaded": "2017-01-24T16:58:51.544794",
+    "url_duckduckgo": "https://www.astrobin.com/281187/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/281187/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/281187/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/281187/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/281187/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/281187/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/281187/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20996/2017/d8808c83-6d70-438e-9a21-e03662a1d74b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/d8808c83-6d70-438e-9a21-e03662a1d74b-1485277263.png",
+    "url_thumb": "https://www.astrobin.com/281187/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1055,
+    "w": 1824
+}

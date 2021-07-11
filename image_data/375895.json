@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.340",
+    "description": "11 x 600s L, 2 x 600s B, 4 x 600s R and 6 x 600s G\r\nNeed to get some more blue and red frames.",
+    "h": 2484,
+    "hash": null,
+    "id": 375895,
+    "imaging_cameras": [
+        "Quantum Scientific Imaging QSI583wsg"
+    ],
+    "imaging_telescopes": [
+        "Home made 400mm F/4 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806079/"
+    ],
+    "orientation": "88.769",
+    "pixscale": "0.615",
+    "published": "2018-11-09T16:37:11.283265",
+    "ra": "331.967",
+    "radius": "0.351",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/375895/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7217",
+        "NGC7217"
+    ],
+    "title": "NGC7217",
+    "updated": "2021-03-17T13:16:10.970991",
+    "uploaded": "2018-11-09T16:31:12.693279",
+    "url_duckduckgo": "https://www.astrobin.com/375895/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/375895/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/375895/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/375895/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/375895/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/375895/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/375895/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3862/2018/fe3d9e04-efe4-40c2-8941-0433e4520234.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3862/2018/fe3d9e04-efe4-40c2-8941-0433e4520234-1586232325.png",
+    "url_thumb": "https://www.astrobin.com/375895/0/rawthumb/thumb/",
+    "user": "Albert_van_Duin",
+    "views": 141,
+    "w": 3273
+}

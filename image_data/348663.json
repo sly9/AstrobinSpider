@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 12,
+    "data_source": "PRO_DATA",
+    "dec": "-25.117",
+    "description": "I think this quite  interesting area of sky so try some experiment with limited subs, RGB one each 300 seconds.\r\n\r\nA version calibrated in DSS and combined in GIMP2.9\r\nB version calibrated in DSS and combined in GIMP2.9 then color saturation in Fitswork\r\nC version processed in FITS Liberator, calibrated in DSS then combined in GIMP2.9\r\nD version processed in FITS Liberator, calibrated in DSS then combined in GIMP2.9  then color saturation in Fitswork",
+    "h": 1336,
+    "hash": null,
+    "id": 348663,
+    "imaging_cameras": [
+        "FLI Microline CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.055",
+    "pixscale": "6.985",
+    "published": "2018-05-26T14:22:14.577184",
+    "ra": "247.547",
+    "radius": "2.336",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/348663/",
+    "revisions": [
+        "/api/v1/imagerevision/146413/",
+        "/api/v1/imagerevision/146414/",
+        "/api/v1/imagerevision/146415/"
+    ],
+    "subjects": [
+        "IC 4603",
+        "IC 4604",
+        "IC 4605",
+        "NGC 6144",
+        "The star 22Sco",
+        "The star Antares (αSco)",
+        "The star ρOph",
+        "rho Oph nebula"
+    ],
+    "title": "Rho Ophiuchi Imaging  Experiments",
+    "updated": "2021-03-17T15:22:19.858183",
+    "uploaded": "2018-05-26T14:46:23.526063",
+    "url_duckduckgo": "https://www.astrobin.com/348663/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/348663/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/348663/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/348663/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/348663/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/348663/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/348663/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22360/2018/78274dc8-92c4-46ad-bcf8-8981630b06db.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22360/2018/78274dc8-92c4-46ad-bcf8-8981630b06db-1582576389.png",
+    "url_thumb": "https://www.astrobin.com/348663/0/rawthumb/thumb/",
+    "user": "Snjór",
+    "views": 335,
+    "w": 2004
+}

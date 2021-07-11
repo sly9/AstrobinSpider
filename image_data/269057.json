@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "30.656",
+    "description": "This is older data from August and has less exposure time than usual and really bad star shapes in the bottom right corner so for a long time I had just discarded this dataset. But now that it has been cloudy for a long time straight I guess I'm desperate and willing to accept worse data than usual :p So as a result I decided to process this thing. Up close it's somewhat ugly due to the require noise reduction and star shapes but as a smaller image it's fine. ",
+    "h": 1189,
+    "hash": null,
+    "id": 269057,
+    "imaging_cameras": [
+        "Nikon D7000"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 200pds"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803034/"
+    ],
+    "orientation": "108.927",
+    "pixscale": "2.713",
+    "published": "2016-10-22T08:41:49.168270",
+    "ra": "311.539",
+    "radius": "0.881",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269057/",
+    "revisions": [],
+    "subjects": [
+        "Filamentary nebula",
+        "Lace-work nebula",
+        "NGC 6960",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "The Western Veil Nebula - NGC 6960",
+    "updated": "2021-06-25T16:19:32.495643",
+    "uploaded": "2016-10-22T09:41:49.168270",
+    "url_duckduckgo": "https://www.astrobin.com/269057/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269057/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269057/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269057/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269057/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269057/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269057/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b2b0dd6e-5a57-4ee3-8f3a-15513b8ce4c4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b2b0dd6e-5a57-4ee3-8f3a-15513b8ce4c4.jpg",
+    "url_thumb": "https://www.astrobin.com/269057/0/rawthumb/thumb/",
+    "user": "Olli_Arkko",
+    "views": 292,
+    "w": 1824
+}

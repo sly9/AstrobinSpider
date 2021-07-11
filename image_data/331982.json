@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-47.477",
+    "description": "",
+    "h": 1414,
+    "hash": null,
+    "id": 331982,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 174,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "131.250",
+    "pixscale": "1.318",
+    "published": "2018-02-02T23:36:50.905256",
+    "ra": "201.692",
+    "radius": "0.988",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331982/",
+    "revisions": [
+        "/api/v1/imagerevision/136156/"
+    ],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "Omega Centauri - NGC 5139",
+    "updated": "2021-03-17T16:38:27.706767",
+    "uploaded": "2018-02-02T23:36:51.369699",
+    "url_duckduckgo": "https://www.astrobin.com/331982/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331982/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331982/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331982/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331982/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331982/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331982/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5179/2018/e82008bf-3d9f-49ad-9e99-37716700909c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e82008bf-3d9f-49ad-9e99-37716700909c-1517615366.jpg",
+    "url_thumb": "https://www.astrobin.com/331982/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 484,
+    "w": 1824
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "-0.323",
+    "description": "23.MAR.2020 - Celestron Edge HD 1100 + Hyperstar v4 + ASI6200MM Pro\r\n23 x 600s Baader Ha HighSpeed f/2 Filter\r\n\r\n16.MAR.2020 - Celestron Edge HD 1100 + Hyperstar v4 + ASI6200MM Pro\r\n20 x 600s Baader O3 HighSpeed f/2 Filter\r\n\r\n16 and 23.MAR.2020 - Takahashi FSQ-85 + Moravian G3 16200 S7\r\n68 x 120s a Baader LRGB Filter\r\n\r\nA newly discovered object in Serpens.\r\n--------------------------------------------------------------------------------------------------------------------\r\nType: H II-region, Strömgren sphere ?\r\n<a href=\"http://planetarynebulae.net/FR/page_np.php?id=766\" target=\"_new\">http://planetarynebulae.net/FR/page_np.php?id=766 </a>\r\n\r\n\r\nThe object was discovered by Marcel Drechsler and Xavier Strottner in January 2020.\r\nIt was officially registered with the catalog name \"StDr Objekt 13\".\r\nThe nature of a planetary nebula is currently not certain.\r\nThe researchers' opinions still diverge.",
+    "h": 3111,
+    "hash": "0jo7fw",
+    "id": 469991,
+    "imaging_cameras": [
+        "Moravian G3-16200FW-S7",
+        "ZWO ASI 6200 MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 245,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "0.473",
+    "pixscale": "2.868",
+    "published": "2020-03-29T01:48:31.723575",
+    "ra": "279.390",
+    "radius": "2.119",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/469991/",
+    "revisions": [
+        "/api/v1/imagerevision/222597/"
+    ],
+    "subjects": [
+        "61 Ser",
+        "The star 61Ser",
+        "e Ser"
+    ],
+    "title": "NEW DISCOVERY: Xavier Strottner - Marcel Drechsler Objekt 13",
+    "updated": "2021-05-27T22:50:46.735688",
+    "uploaded": "2020-03-29T01:48:32.066137",
+    "url_duckduckgo": "https://www.astrobin.com/0jo7fw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0jo7fw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0jo7fw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0jo7fw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0jo7fw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0jo7fw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0jo7fw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/f5ac084c-e4e9-422b-837d-5ec06e3dfc5b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/f5ac084c-e4e9-422b-837d-5ec06e3dfc5b-1585447023.jpg",
+    "url_thumb": "https://www.astrobin.com/0jo7fw/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 786,
+    "w": 4317
+}

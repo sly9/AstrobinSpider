@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "PRO_DATA",
+    "dec": "-13.838",
+    "description": "This is a four panel Ha mosaic with 3 subs per panel of data processed from the Liverpool Telescope.\r\nIn the second image I have played a bit with the colours in PS. After all, Ha is red....",
+    "h": 3419,
+    "hash": null,
+    "id": 286134,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 19,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "359.967",
+    "pixscale": "0.304",
+    "published": "2017-03-05T13:41:38.042896",
+    "ra": "274.642",
+    "radius": "0.206",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286134/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen nebula"
+    ],
+    "title": "Eagle Nebula M16 Ha",
+    "updated": "2021-04-12T10:08:17.318450",
+    "uploaded": "2017-03-05T13:41:38.458588",
+    "url_duckduckgo": "https://www.astrobin.com/286134/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286134/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286134/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286134/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286134/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286134/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286134/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/7aac91f2-39dc-4616-af89-190bdb8d1956.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/7aac91f2-39dc-4616-af89-190bdb8d1956-1582579866.jpg",
+    "url_thumb": "https://www.astrobin.com/286134/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 86,
+    "w": 3499
+}

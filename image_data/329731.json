@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "80.175",
+    "description": "n2336 is a10.4 mag  spiral galaxy with a central bar and delicate arms orbiting Polaris about 10 degrees from the Celestial North Pole.  Estimates for the distance average around 100 MLY.  Seeing was (and has been) terrible around here.  I was planning on heavy integration but will go it another time when the conditions are better.  Took some HA subs, but suprisingly they added nothing of interest so left them out. \r\n\r\nLRGB\r\nLum 72 x 600 1x1\r\nRGB 24 x 300 2x2 (each)\r\n\r\nThanks,\r\n\r\nJohn D",
+    "h": 1509,
+    "hash": null,
+    "id": 329731,
+    "imaging_cameras": [
+        "QSI 640 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT10RCCF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 144,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798956/"
+    ],
+    "orientation": "271.823",
+    "pixscale": "0.765",
+    "published": "2018-01-17T02:10:15.143371",
+    "ra": "111.790",
+    "radius": "0.271",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329731/",
+    "revisions": [
+        "/api/v1/imagerevision/134889/"
+    ],
+    "subjects": [
+        "NGC 2336"
+    ],
+    "title": "NGC 2336 delicate spiral",
+    "updated": "2021-03-17T16:48:26.525087",
+    "uploaded": "2018-01-17T01:49:06.171272",
+    "url_duckduckgo": "https://www.astrobin.com/329731/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329731/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329731/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329731/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329731/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329731/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329731/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2979/2018/f1fbb4c7-2562-4e87-a9dc-b62af3e1784f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f1fbb4c7-2562-4e87-a9dc-b62af3e1784f-1516154797.jpg",
+    "url_thumb": "https://www.astrobin.com/329731/0/rawthumb/thumb/",
+    "user": "jaddbd",
+    "views": 544,
+    "w": 1824
+}

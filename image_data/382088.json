@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-25.298",
+    "description": "NGC 253, also known as the ‘Sculptor Galaxy’ or ‘Silver Coin Galaxy’, is a spiral galaxy approximately 11 million light-years from Earth and can be seen in the constellation of Sculptor. The galaxy is the brightest member of the Sculptor Group, one of the closest groups of galaxies to the Milky Way.\r\n\r\nThe picture was formed by combining individual images taken with four different filters that allow imaging of Red, Green and Blue broadband colours, plus ionised Hydrogen (Ha). A synthetic Luminance was created all four filters.  Ha was blended with Red, and combined with the Green and Blue images to form a single HaRGB picture.  \r\n\r\nThe image was fully processed in PixInsight.  It has been drizzle integrated to increase resolution to approx. 0.6 arcsec/pixel (from the native 1.2 arcsec/pixel)",
+    "h": 1857,
+    "hash": null,
+    "id": 382088,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 137,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "235.584",
+    "pixscale": "0.610",
+    "published": "2018-12-20T20:29:06.746599",
+    "ra": "11.881",
+    "radius": "0.268",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/382088/",
+    "revisions": [],
+    "subjects": [
+        "NGC 253",
+        "NGC253",
+        "Sculptor galaxy"
+    ],
+    "title": "NGC253 (Sculptor Galaxy)",
+    "updated": "2021-03-17T12:46:37.354352",
+    "uploaded": "2018-12-20T20:22:13.571282",
+    "url_duckduckgo": "https://www.astrobin.com/382088/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382088/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382088/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382088/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382088/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382088/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382088/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2018/6b61618c-5b0e-4b56-9c25-a138451ec5ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2018/6b61618c-5b0e-4b56-9c25-a138451ec5ea-1582516443.jpg",
+    "url_thumb": "https://www.astrobin.com/382088/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 667,
+    "w": 2559
+}

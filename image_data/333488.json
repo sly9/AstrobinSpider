@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "30.648",
+    "description": "",
+    "h": 1379,
+    "hash": null,
+    "id": 333488,
+    "imaging_cameras": [
+        "Canon EOS 1100Da",
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 195,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "54.845",
+    "pixscale": "0.971",
+    "published": "2018-02-13T21:11:26.817916",
+    "ra": "23.473",
+    "radius": "0.788",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333488/",
+    "revisions": [
+        "/api/v1/imagerevision/137012/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 - halpha-L-RGB",
+    "updated": "2021-03-17T16:31:54.604038",
+    "uploaded": "2018-02-13T21:02:34.759784",
+    "url_duckduckgo": "https://www.astrobin.com/333488/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333488/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333488/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333488/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333488/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333488/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333488/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4577/2018/2de60781-e033-4137-9e44-e5228fc11621.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2de60781-e033-4137-9e44-e5228fc11621-1518555922.jpg",
+    "url_thumb": "https://www.astrobin.com/333488/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 1001,
+    "w": 1824
+}

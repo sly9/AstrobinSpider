@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "47.308",
+    "description": "I did M106 before with a more narrow field.  This time I wanted to get some of the surrounding galaxies in the frame so I used the Optec .5 corrector/reducer.   I was a bit surprised to see one of the Ha jets pop out in spite of having no Ha subs.  I also didn't use as much noise reduction so not to wipe out some of the background galaxies.  30x300s, 14x200s RGB 2x2 binned.",
+    "h": 2147,
+    "hash": null,
+    "id": 291520,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron C-11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 164,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "89.335",
+    "pixscale": "0.652",
+    "published": "2017-04-11T23:22:56.428045",
+    "ra": "184.710",
+    "radius": "0.315",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291520/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106 LRGB",
+    "updated": "2021-03-17T21:11:29.225863",
+    "uploaded": "2017-04-12T00:08:16.095103",
+    "url_duckduckgo": "https://www.astrobin.com/291520/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291520/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291520/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291520/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291520/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291520/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291520/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2020/b9dcb455-f0bb-4d12-8ad3-a3285d8db1f9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7159/2020/b9dcb455-f0bb-4d12-8ad3-a3285d8db1f9-1601408338.jpg",
+    "url_thumb": "https://www.astrobin.com/291520/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 999,
+    "w": 2730
+}

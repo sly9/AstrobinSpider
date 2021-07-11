@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "-1.859",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix (RGB)\r\nTV127is+ASI183MM at .75 asec/pix. (L)\r\nThey were all registered to the best R image taken on the AG12.\r\nThis image was unguided.\r\n\r\nThe Flame Nebula, designated as NGC 2024 and Sh2-277, is an emission nebula in the constellation Orion. It is about 900 to 1,500 light-years away.\r\n\r\nThe bright star Alnitak, the easternmost star in the Belt of Orion, shines energetic ultraviolet light into the Flame and this knocks electrons away from the great clouds of hydrogen gas that reside there. Much of the glow results when the electrons and ionized hydrogen recombine. Additional dark gas and dust lies in front of the bright part of the nebula and this is what causes the dark network that appears in the center of the glowing gas. The Flame Nebula is part of the Orion Molecular Cloud Complex, a star-forming region that includes the famous Horsehead Nebula.\r\n\r\nAt the center of the Flame Nebula is a cluster of newly formed stars, 86% of which have circumstellar disks. X-ray observations by the Chandra X-ray Observatory show several hundred young stars, out of an estimated population of 800 stars. X-ray and infrared images indicate that the youngest stars are concentrated near the center of the cluster.\r\n(Wikipedia)",
+    "h": 3520,
+    "hash": "75xc5n",
+    "id": 441198,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 183,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "178.086",
+    "pixscale": "0.701",
+    "published": "2019-12-01T02:49:01.110579",
+    "ra": "85.425",
+    "radius": "0.568",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/441198/",
+    "revisions": [
+        "/api/v1/imagerevision/202755/"
+    ],
+    "subjects": [
+        "NGC 2024",
+        "The star Alnitak (ζOri)"
+    ],
+    "title": "NGC 2024 Flame Nebula",
+    "updated": "2021-04-26T07:51:10.766128",
+    "uploaded": "2019-12-01T02:39:35.008913",
+    "url_duckduckgo": "https://www.astrobin.com/75xc5n/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/75xc5n/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/75xc5n/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/75xc5n/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/75xc5n/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/75xc5n/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/75xc5n/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/be2aac83-f91a-4474-9235-b225580694ad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/be2aac83-f91a-4474-9235-b225580694ad-1582288742.jpg",
+    "url_thumb": "https://www.astrobin.com/75xc5n/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 549,
+    "w": 4656
+}

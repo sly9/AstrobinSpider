@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-23.913",
+    "description": "SH2-308 is an expanding bubble of oxygen that has been ejected from Wolfe -Rayet star WR 6 (the blue star in the centre of the image).\r\n\r\nI plan to add hydrogen as well as more oxygen data.\r\n\r\nLocation: Blairgowrie, Victoria, Australia\r\nScope: Takahashi 130 TOA NBF refractor, focal length 1000 mm\r\nCamera: mono ML16200 with a Loadstar X2 on an Astrodon MOAG off-axis guider.\r\nAcquisition:\r\n7 x 1200 sec on an Astrodon OIII 3nm filter\r\n10 x 60 sec RGB (for the stars)\r\nSensor temp: -30",
+    "h": 3600,
+    "hash": null,
+    "id": 279314,
+    "imaging_cameras": [
+        "FLI Microline ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA 130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "https://www.flickr.com/photos/nicholasjones/31811581061/in/photostream/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801856/"
+    ],
+    "orientation": "91.238",
+    "pixscale": "1.231",
+    "published": "2017-01-07T11:34:18.373019",
+    "ra": "103.557",
+    "radius": "0.986",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/279314/",
+    "revisions": [],
+    "subjects": [
+        "The star ο1CMa"
+    ],
+    "title": "SH2-308",
+    "updated": "2021-03-24T15:21:37.033040",
+    "uploaded": "2017-01-07T11:34:19.305024",
+    "url_duckduckgo": "https://www.astrobin.com/279314/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/279314/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/279314/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/279314/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/279314/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/279314/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/279314/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7135/2020/597ade99-78da-4d6c-bc97-c1f6d7a48fef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7135/2020/597ade99-78da-4d6c-bc97-c1f6d7a48fef-1589357621.jpg",
+    "url_thumb": "https://www.astrobin.com/279314/0/rawthumb/thumb/",
+    "user": "whale",
+    "views": 884,
+    "w": 4500
+}

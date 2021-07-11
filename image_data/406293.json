@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "14.622",
+    "description": "Check the annotated version for background galaxies; straddling the Coma and Virgo cluster.",
+    "h": 4050,
+    "hash": null,
+    "id": 406293,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 152mm f/7.5 Starfire EDF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799912/"
+    ],
+    "orientation": "0.201",
+    "pixscale": "1.429",
+    "published": "2019-05-17T20:46:31.854839",
+    "ra": "184.140",
+    "radius": "1.137",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/406293/",
+    "revisions": [
+        "/api/v1/imagerevision/179968/",
+        "/api/v1/imagerevision/179970/"
+    ],
+    "subjects": [
+        "IC 3061",
+        "M 98",
+        "M 99",
+        "NGC 4192",
+        "NGC 4212",
+        "NGC 4237",
+        "NGC 4254",
+        "NGC 4262",
+        "Pin-wheel nebula",
+        "The star 6Com"
+    ],
+    "title": "M99, M98 wide field - LRGB",
+    "updated": "2021-03-17T10:55:27.347596",
+    "uploaded": "2019-05-17T21:18:17.374071",
+    "url_duckduckgo": "https://www.astrobin.com/406293/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406293/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406293/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406293/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406293/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406293/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406293/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5378/2019/f877c7bc-5abb-40c4-b351-5d99edfa9566.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5378/2019/f877c7bc-5abb-40c4-b351-5d99edfa9566-1582577366.jpg",
+    "url_thumb": "https://www.astrobin.com/406293/0/rawthumb/thumb/",
+    "user": "rbotero",
+    "views": 94,
+    "w": 4050
+}

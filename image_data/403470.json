@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "12.990",
+    "description": "Messier 66 or M66, also known as NGC 3627, is an intermediate spiral galaxy in the equatorial constellation of Leo. It was discovered by French astronomer Charles Messier on March 1, 1780, who described it as \"very long and very faint\". This galaxy is a member of a small group of galaxies that includes M65 and NGC 3628, known as the Leo Triplet. M65 and M66 make a popular pair for observers, being separated by only 20′.\r\nM66 has a morphological spiral shape with a weak bar feature and loosely wound arms and is being viewed at an angle. M66 is receding from us with a heliocentric radial velocity of 696.3±12.7 km/s.  It lies 31 million light-years away and is about 95 thousand light-years across with striking dust lanes and bright star clusters along sweeping spiral arms. As of 2018, five supernovae have been observed in the galaxy: SN 2016cok, 2009hd, 1997bs, 1989B, and 1973R.\r\nGravitational interaction from its past encounter with neighboring NGC 3628 has resulted in an extremely high central mass concentration; a high molecular to atomic mass ratio; and a resolved non-rotating clump of H I material apparently removed from one of the spiral arms. The latter feature shows up visually as an extremely prominent and unusual spiral arm and dust lane structures.\r\n\r\nCAPTURE Information:\r\nThe image was captured with the iOptron CEM120 mount , the venerable Meade 12\"LX200 SCT, and my Atik 383L+ m CCD at F7.16 (2182mm FL). Image subs were taken through Astronomik's broadband filters Lum (L), along with R, G and B.  Subs were done at 1x1 bin, -10C, at 10 minutes for Luminance; and 5 minutes for R, G and B. \r\n\r\nIMAGE information -- 2019:\r\nLum: 40 subs (6.67hr) on Apr 18th, 19th, 20th, 25th and 28th.\r\nRed: 19 subs (1.58hr) on Apr 25th.\r\nGreen: 18 subs (1.50hr) on Apr 25th, 26th and 28th.\r\nBlue: 20 subs (1.67hr) on Apr 25th.\r\n\r\nProcessing was done with PixInsight, following (for the most part) kayronjm's tutorial of Feb. 24th, 2013. I used the recently created Luminance Twilight Flats which have mostly corrected background problems. North is up and this is a slight crop due to the misalignment accumulation from the different filters and times.\r\n\r\nCOMMENTS:\r\nI will probably add some Ha images to this at the next first opportunity.  As with my previous M106, the Ha additions will be done to highlight some of the Alpha starbursts along the spiral arms.",
+    "h": 2435,
+    "hash": null,
+    "id": 403470,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 12\" f/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798019/"
+    ],
+    "orientation": "358.951",
+    "pixscale": "0.509",
+    "published": "2019-04-30T13:02:00.904430",
+    "ra": "170.069",
+    "radius": "0.288",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/403470/",
+    "revisions": [],
+    "subjects": [
+        "M 66",
+        "NGC 3627"
+    ],
+    "title": "M66 Distorted Spiral Galaxy",
+    "updated": "2021-03-17T11:08:38.529041",
+    "uploaded": "2019-04-30T13:16:07.302184",
+    "url_duckduckgo": "https://www.astrobin.com/403470/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403470/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403470/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403470/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403470/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403470/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403470/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/231/2019/5bfc1b38-86b3-4b62-9b51-5bc4063b0a68.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/231/2019/5bfc1b38-86b3-4b62-9b51-5bc4063b0a68-1582478925.jpg",
+    "url_thumb": "https://www.astrobin.com/403470/0/rawthumb/thumb/",
+    "user": "niteman1946",
+    "views": 166,
+    "w": 3262
+}

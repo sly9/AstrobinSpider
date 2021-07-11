@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 30,
+    "data_source": "OWN_REMOTE",
+    "dec": "70.258",
+    "description": "Images from the following scope contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix (RGB)\r\nThis target was unguided.\r\nImaged on nights of 9/21, 9/22, 9/24, 10/25\r\n\r\nAfter a two month period of not posting any images, but continuing to image on many nights, I have a very large backlog of images to process.  I was fully immersed in developing a Quadratic Fit routine for the auto-focusing feature of SGP, which is now included in the latest SGP betas.  Give it a try.\r\n\r\nDescribed as a \"dusty curtain\" or \"ghostly apparition\", mysterious reflection nebula VdB 152 really is very faint. Far from your neighborhood on this Halloween Night, the cosmic phantom is nearly 1,400 light-years away. Also catalogued as Ced 201, it lies along the northern Milky Way in the royal constellation Cepheus. Near the edge of a large molecular cloud, pockets of interstellar dust in the region block light from background stars or scatter light from the embedded bright star giving parts of the nebula a characteristic blue color. Ultraviolet light from the star is also thought to cause a dim reddish luminescence in the nebular dust. Though stars do form in molecular clouds, this star seems to have only accidentally wandered into the area, as its measured velocity through space is very different from the cloud's velocity. This deep telescopic image of the region spans about 7 light-years.\r\n(apod.nasa.gov)",
+    "h": 2421,
+    "hash": "abtmbl",
+    "id": 435715,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 213,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "87.247",
+    "pixscale": "0.701",
+    "published": "2019-10-29T15:27:42.748852",
+    "ra": "333.431",
+    "radius": "0.406",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/435715/",
+    "revisions": [
+        "/api/v1/imagerevision/201666/"
+    ],
+    "subjects": [],
+    "title": "VdB152 Reflection Nebula",
+    "updated": "2021-03-17T08:30:59.139863",
+    "uploaded": "2019-10-29T15:07:09.328313",
+    "url_duckduckgo": "https://www.astrobin.com/abtmbl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/abtmbl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/abtmbl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/abtmbl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/abtmbl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/abtmbl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/abtmbl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/be327ead-4a79-4383-b4c1-0234bfef60d4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/be327ead-4a79-4383-b4c1-0234bfef60d4-1582590783.jpg",
+    "url_thumb": "https://www.astrobin.com/abtmbl/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 506,
+    "w": 3400
+}

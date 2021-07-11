@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 12,
+    "data_source": "TRAVELLER",
+    "dec": "17.804",
+    "description": "",
+    "h": 2726,
+    "hash": null,
+    "id": 404301,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811028/"
+    ],
+    "orientation": "0.351",
+    "pixscale": "0.712",
+    "published": "2019-05-05T16:13:39.398171",
+    "ra": "241.366",
+    "radius": "0.486",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404301/",
+    "revisions": [],
+    "subjects": [
+        "IC 1178",
+        "IC 1181",
+        "IC 1183",
+        "IC 1185",
+        "IC 1192",
+        "NGC 6040",
+        "NGC 6041",
+        "NGC 6045",
+        "NGC 6047"
+    ],
+    "title": "The Hercules Cluster (Abell 2151)",
+    "updated": "2021-03-17T11:04:26.276819",
+    "uploaded": "2019-05-05T17:13:40.449136",
+    "url_duckduckgo": "https://www.astrobin.com/404301/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404301/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404301/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404301/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404301/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404301/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404301/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/095ca09d-32aa-4b5f-af48-47ac085b5f3e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/095ca09d-32aa-4b5f-af48-47ac085b5f3e-1557076549.jpg",
+    "url_thumb": "https://www.astrobin.com/404301/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 824,
+    "w": 4088
+}

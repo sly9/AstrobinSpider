@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "10.072",
+    "description": "IC 447 on the AG Optical iDK 12.5.  Image acquisition by Lloyd and Hytham.",
+    "h": 1824,
+    "hash": null,
+    "id": 330123,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation FLI ML 16803"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 149,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "359.891",
+    "pixscale": "0.874",
+    "published": "2018-01-26T02:42:07.697368",
+    "ra": "97.938",
+    "radius": "0.695",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330123/",
+    "revisions": [
+        "/api/v1/imagerevision/135110/",
+        "/api/v1/imagerevision/135532/"
+    ],
+    "subjects": [
+        "IC 2169",
+        "IC 446",
+        "NGC 2245",
+        "NGC 2247"
+    ],
+    "title": "IC 447 \"Dreyer's Nebula\"- Deep Sky West Remote Observatory",
+    "updated": "2021-03-24T15:28:23.637162",
+    "uploaded": "2018-01-20T14:12:12.130702",
+    "url_duckduckgo": "https://www.astrobin.com/330123/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330123/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330123/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330123/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330123/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330123/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330123/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2018/b2499844-74f3-443c-8f20-52a58700cc9b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b2499844-74f3-443c-8f20-52a58700cc9b-1516457841.jpg",
+    "url_thumb": "https://www.astrobin.com/330123/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 334,
+    "w": 1824
+}

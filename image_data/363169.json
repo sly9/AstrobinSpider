@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 17,
+    "data_source": "PRO_DATA",
+    "dec": "13.587",
+    "description": "NGC 3628, the Hamburger Galaxy  \r\n\r\nSBIG STL 16803 camera and 27.5\" PlaneWave CDK 700 telescope with Astrodon Gen 2 LRGB filter set. \r\nExposure times are 53 X 5 min Lum, 23 X 5 min Red, 15 X 5 min Green, and 19 X 5 min Blue. Bin 1X1. \r\nSensor temp @ -35 deg. \r\nFrames calibrated and combined in CCD Stack2. Processed with PixInsight 1.8. \r\nGreat Basin Observatory, Great Basin National Park Nevada",
+    "h": 1807,
+    "hash": null,
+    "id": 363169,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK 700mm Planewave"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 331,
+    "link": "http://www.pbase.com/ccoop/image/167958534",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "179.963",
+    "pixscale": "0.406",
+    "published": "2018-08-24T23:08:04.132518",
+    "ra": "170.071",
+    "radius": "0.322",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/363169/",
+    "revisions": [
+        "/api/v1/imagerevision/157885/"
+    ],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "NGC 3628, the Hamburger Galaxy",
+    "updated": "2021-03-29T20:32:16.592215",
+    "uploaded": "2018-08-25T00:08:04.768240",
+    "url_duckduckgo": "https://www.astrobin.com/363169/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/363169/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/363169/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/363169/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/363169/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/363169/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/363169/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0365a1f4-c22c-4f1d-b12b-0b06b32994d6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/0365a1f4-c22c-4f1d-b12b-0b06b32994d6-1535156073.png",
+    "url_thumb": "https://www.astrobin.com/363169/0/rawthumb/thumb/",
+    "user": "SteveCooper",
+    "views": 1349,
+    "w": 1824
+}

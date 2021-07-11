@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "11.802",
+    "description": "Lx63,Rx22,Gx22,Bx22\r\n600s per frame.",
+    "h": 1459,
+    "hash": null,
+    "id": 337481,
+    "imaging_cameras": [
+        "Atik One 6.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA120"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808557/"
+    ],
+    "orientation": "87.071",
+    "pixscale": "1.060",
+    "published": "2018-03-15T06:55:00.340428",
+    "ra": "161.670",
+    "radius": "0.518",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337481/",
+    "revisions": [
+        "/api/v1/imagerevision/139690/",
+        "/api/v1/imagerevision/139691/"
+    ],
+    "subjects": [
+        "M 96",
+        "NGC 3368"
+    ],
+    "title": "M96",
+    "updated": "2021-03-17T16:13:06.140150",
+    "uploaded": "2018-03-15T06:55:02.507023",
+    "url_duckduckgo": "https://www.astrobin.com/337481/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337481/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337481/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337481/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337481/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337481/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337481/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24174/2018/68a93695-624c-4b9b-8d6d-3836c61a5c77.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/68a93695-624c-4b9b-8d6d-3836c61a5c77-1521097078.png",
+    "url_thumb": "https://www.astrobin.com/337481/0/rawthumb/thumb/",
+    "user": "HG731GZ",
+    "views": 382,
+    "w": 1824
+}

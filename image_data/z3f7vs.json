@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 14,
+    "data_source": "OWN_REMOTE",
+    "dec": "-36.125",
+    "description": "A new version with some Halpha subs  : it can modify a lot  the final result.\r\n Now, HII nebulas can be clearly seen along the arms !\r\n-------------------------\r\nMany thanks to all the Sadr team for the acquisition of 811 subs of 300s in L, and RGB Bin1 taken during one year span from October 2018 and October 2019 with the 14'' newton setup of Sadr \r\nObservatory in Chili during 21 nights.\r\n\r\nI only kept the 297 best subs with FWHM and eccentricity criterias which represents 25.4 hours of exposure.\r\n\r\nRed 26 subs@300s -20°C gain high\r\nBlue 31 subs@300s -20°C gain high\r\nGreen 40 subs@300s -20°C gain high\r\nLight 208 subs@300s -20°C, gain high\r\nHalpha 20 subs@300s -20°C, gain high\r\n\r\nNGC 1365 is barred spiral galaxy and most beautiful member of Fornax cluster.",
+    "h": 3355,
+    "hash": "z3f7vs",
+    "id": 448543,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 179,
+    "link": "https://www.sadr.fr/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.798",
+    "pixscale": "0.695",
+    "published": "2020-01-10T21:14:24.964431",
+    "ra": "53.400",
+    "radius": "0.519",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/448543/",
+    "revisions": [
+        "/api/v1/imagerevision/207112/",
+        "/api/v1/imagerevision/207204/",
+        "/api/v1/imagerevision/207211/",
+        "/api/v1/imagerevision/207237/",
+        "/api/v1/imagerevision/222620/"
+    ],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "NGC1365  HaLRGB- Sadr - team version",
+    "updated": "2021-06-01T21:45:21.361352",
+    "uploaded": "2020-01-10T20:31:04.682430",
+    "url_duckduckgo": "https://www.astrobin.com/z3f7vs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z3f7vs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z3f7vs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z3f7vs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z3f7vs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z3f7vs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z3f7vs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/df0c2288-c0ab-432f-a7cf-c3b645b88c99.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/df0c2288-c0ab-432f-a7cf-c3b645b88c99-1582279034.jpg",
+    "url_thumb": "https://www.astrobin.com/z3f7vs/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 869,
+    "w": 4202
+}

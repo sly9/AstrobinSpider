@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "67.570",
+    "description": "The surface brightness of D78 is 26.1 mag/arcsec^2 . I found an article: \" Dwarf spheroidal galaxies in the M81 group imaged with WFPC2\" \r\nhttps://pdfs.semanticscholar.org/1c03/a8a1da90a8e139743335d50b4a70408261a0.pdf\r\n\r\nThere is an image made with the Hubble Space telescope WFPC2 camera with the annotated position of a Globular cluster that orbits this spheroidal galaxy. So i could annotate the Globular myself on the luminance image i made.",
+    "h": 1761,
+    "hash": "gxkxed",
+    "id": 440114,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "1.537",
+    "pixscale": "1.107",
+    "published": "2019-11-24T11:47:14.822612",
+    "ra": "156.743",
+    "radius": "0.328",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440114/",
+    "revisions": [],
+    "subjects": [],
+    "title": "DD78 and it's Globular Cluster, members of the M81 group",
+    "updated": "2021-03-17T06:18:43.611810",
+    "uploaded": "2019-11-24T11:03:42.624848",
+    "url_duckduckgo": "https://www.astrobin.com/gxkxed/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gxkxed/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gxkxed/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gxkxed/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gxkxed/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gxkxed/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gxkxed/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/426be210-6140-4543-879b-5070954b09b5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/426be210-6140-4543-879b-5070954b09b5-1574594807.jpg",
+    "url_thumb": "https://www.astrobin.com/gxkxed/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 361,
+    "w": 1202
+}

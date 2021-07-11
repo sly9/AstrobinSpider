@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "36.486",
+    "description": "",
+    "h": 1684,
+    "hash": null,
+    "id": 354493,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA102"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804066/"
+    ],
+    "orientation": "181.035",
+    "pixscale": "2.523",
+    "published": "2018-07-07T09:50:23.911708",
+    "ra": "250.477",
+    "radius": "0.981",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/354493/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205",
+        "NGC 6207"
+    ],
+    "title": "M13",
+    "updated": "2021-03-17T14:58:00.195530",
+    "uploaded": "2018-07-07T10:50:27.148243",
+    "url_duckduckgo": "https://www.astrobin.com/354493/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/354493/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/354493/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/354493/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/354493/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/354493/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/354493/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6255/2018/698dfd59-1eee-49e3-97b1-78dc6935656f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6255/2018/698dfd59-1eee-49e3-97b1-78dc6935656f-1582589812.png",
+    "url_thumb": "https://www.astrobin.com/354493/0/rawthumb/thumb/",
+    "user": "JesusMagdalena",
+    "views": 970,
+    "w": 2236
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 13,
+    "data_source": "TRAVELLER",
+    "dec": "-37.043",
+    "description": "Data acquired in San Pedro de Atacama, Chile using the Ceravolo 300mm Astrograph at f/4.9.\r\nL:R:G:B: = 285: 35: 30: 35: min.\r\nAcquisition: Peter Ceravolo\r\nall processing: Debra Ceravolo",
+    "h": 2000,
+    "hash": "3tsi8h",
+    "id": 454734,
+    "imaging_cameras": [
+        "Apogee U-16M Apogee CCD"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo CDK dual config. 300mm f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812882/"
+    ],
+    "orientation": "0.891",
+    "pixscale": "2.467",
+    "published": "2020-02-12T21:37:22.342957",
+    "ra": "285.440",
+    "radius": "0.969",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/454734/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6723",
+        "NGC 6726",
+        "The star εCrA"
+    ],
+    "title": "Corona Australia Complex",
+    "updated": "2021-06-03T19:24:16.386344",
+    "uploaded": "2020-02-12T21:37:22.516294",
+    "url_duckduckgo": "https://www.astrobin.com/3tsi8h/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3tsi8h/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3tsi8h/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3tsi8h/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3tsi8h/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3tsi8h/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3tsi8h/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/55711/2020/c91c6e6b-3267-4e64-b4f9-7f228b5a2aac.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/55711/2020/c91c6e6b-3267-4e64-b4f9-7f228b5a2aac-1581544076.jpg",
+    "url_thumb": "https://www.astrobin.com/3tsi8h/0/rawthumb/thumb/",
+    "user": "debraceravolo",
+    "views": 288,
+    "w": 2000
+}

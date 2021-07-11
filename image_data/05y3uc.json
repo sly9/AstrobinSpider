@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 52,
+    "data_source": "BACKYARD",
+    "dec": "27.228",
+    "description": "After working for almost 2 weeks to get the data and stitch the images together at least 1 panel is worth presenting. It was impossible so far to get the panels together, and I certainly will try further, but for now I do need to take a break. Not quite sure why the stitched images with PI introduced a scaling problem. Getting 2 panels together was no problem, but as soon as the next set is added the stitching does not work out anymore. I guess I have to go back to \"manual\" stitching, but only after a longer break!",
+    "h": 3460,
+    "hash": "05y3uc",
+    "id": 442644,
+    "imaging_cameras": [
+        "ZWO ASI071MC-COOL",
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron RASA 8\"",
+        "Willam Optics Zenithstar 61 APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 157,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808433/"
+    ],
+    "orientation": "84.462",
+    "pixscale": "1.993",
+    "published": "2019-12-08T20:37:55.840546",
+    "ra": "84.905",
+    "radius": "1.598",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442644/",
+    "revisions": [
+        "/api/v1/imagerevision/203571/",
+        "/api/v1/imagerevision/203902/",
+        "/api/v1/imagerevision/203997/",
+        "/api/v1/imagerevision/205630/"
+    ],
+    "subjects": [
+        "12.14",
+        "87 Sylvia",
+        "Sh2-240"
+    ],
+    "title": "Sh2-240 - HαRGB - (3) of 6 panels",
+    "updated": "2021-03-17T06:06:22.154345",
+    "uploaded": "2019-12-08T20:26:22.053348",
+    "url_duckduckgo": "https://www.astrobin.com/05y3uc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/05y3uc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/05y3uc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/05y3uc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/05y3uc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/05y3uc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/05y3uc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26231/2019/e532753a-d517-49f3-a64b-b832062376da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26231/2019/e532753a-d517-49f3-a64b-b832062376da-1582286710.jpg",
+    "url_thumb": "https://www.astrobin.com/05y3uc/0/rawthumb/thumb/",
+    "user": "udeuterm",
+    "views": 1000,
+    "w": 4620
+}

@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "30.661",
+    "description": "Most recent attempt at M33. I collected new data over two nights and improved the processing a lot compared to my first attempt. I like this one a lot more than my initial version, but I still have work to do. This would benefit from a good deal more time for luminance. However, since the moon is too full to collect more data at the moment, I'm making the best out of what I have now.",
+    "h": 1417,
+    "hash": null,
+    "id": 327347,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron Omni 150XLT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808106/"
+    ],
+    "orientation": "267.549",
+    "pixscale": "1.038",
+    "published": "2017-12-28T01:36:32.412163",
+    "ra": "23.479",
+    "radius": "0.759",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327347/",
+    "revisions": [
+        "/api/v1/imagerevision/133364/",
+        "/api/v1/imagerevision/133365/",
+        "/api/v1/imagerevision/133366/",
+        "/api/v1/imagerevision/133367/",
+        "/api/v1/imagerevision/134291/",
+        "/api/v1/imagerevision/134292/",
+        "/api/v1/imagerevision/134294/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 (The Triangulum Galaxy) in LHaRGB",
+    "updated": "2021-03-17T18:48:21.329283",
+    "uploaded": "2017-12-28T00:34:27.059415",
+    "url_duckduckgo": "https://www.astrobin.com/327347/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327347/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327347/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327347/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327347/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327347/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327347/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/40695ae5-5c82-474e-9d21-3a9f58730ac8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/40695ae5-5c82-474e-9d21-3a9f58730ac8-1514421955.jpg",
+    "url_thumb": "https://www.astrobin.com/327347/0/rawthumb/thumb/",
+    "user": "Ejsboston",
+    "views": 105,
+    "w": 1824
+}

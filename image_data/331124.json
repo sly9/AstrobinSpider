@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "46.529",
+    "description": "Our closest planetary nebula.\r\nThis was a first run but I intend to use the Sii in place of the Oiii as it was a little more interesting.",
+    "h": 2648,
+    "hash": null,
+    "id": 331124,
+    "imaging_cameras": [
+        "Moravian Instruments G2 8300",
+        "Moravian Instrument G3 11000"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD100F3.8",
+        "TEC 140 TEC140"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808260/"
+    ],
+    "orientation": "269.466",
+    "pixscale": "2.448",
+    "published": "2018-01-27T14:36:33.696999",
+    "ra": "70.319",
+    "radius": "1.587",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331124/",
+    "revisions": [
+        "/api/v1/imagerevision/135689/"
+    ],
+    "subjects": [],
+    "title": "sh2-216 RHa GNii BOiii",
+    "updated": "2021-03-17T16:42:12.843007",
+    "uploaded": "2018-01-27T14:36:34.305844",
+    "url_duckduckgo": "https://www.astrobin.com/331124/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331124/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331124/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331124/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331124/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331124/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331124/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22318/2018/c9afe955-da44-481b-a86e-e6ac8ebe0321.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22318/2018/c9afe955-da44-481b-a86e-e6ac8ebe0321-1582504090.jpg",
+    "url_thumb": "https://www.astrobin.com/331124/0/rawthumb/thumb/",
+    "user": "Gordon_Wright",
+    "views": 694,
+    "w": 3844
+}

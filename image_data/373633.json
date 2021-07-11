@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "42.340",
+    "description": "Fresh processing of my prior image with a few more luminance subs and use of Pixinsight's Photometric Color Calibration.",
+    "h": 1601,
+    "hash": null,
+    "id": 373633,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "269.400",
+    "pixscale": "0.468",
+    "published": "2018-10-24T23:11:30.587004",
+    "ra": "35.633",
+    "radius": "0.265",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/373633/",
+    "revisions": [
+        "/api/v1/imagerevision/160154/"
+    ],
+    "subjects": [
+        "NGC 891"
+    ],
+    "title": "NGC 891 (Reprocessed)",
+    "updated": "2021-03-17T13:27:39.293684",
+    "uploaded": "2018-10-25T00:11:30.737476",
+    "url_duckduckgo": "https://www.astrobin.com/373633/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/373633/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/373633/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/373633/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/373633/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/373633/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/373633/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2018/fe753322-0833-4a0b-8ec7-e838a86f4365.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fe753322-0833-4a0b-8ec7-e838a86f4365-1540426658.jpg",
+    "url_thumb": "https://www.astrobin.com/373633/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 547,
+    "w": 1824
+}

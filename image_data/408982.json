@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 21,
+    "data_source": "OWN_REMOTE",
+    "dec": "52.379",
+    "description": "A planetary nebula in the constellation of Bootes. It was discovered in 1995 by George Jacoby. Allegedly one of the faintest planetary nebulae, this really was a challenge but eventually I managed to drag out of it some structural detail. But then I did have to capture over 42 hours of OIII at bin 3x3! Not for the faint hearted!",
+    "h": 2571,
+    "hash": null,
+    "id": 408982,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 152,
+    "link": "https://www.imagingdeepspace.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "180.820",
+    "pixscale": "0.533",
+    "published": "2019-06-05T20:46:36.635014",
+    "ra": "230.454",
+    "radius": "0.353",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/408982/",
+    "revisions": [
+        "/api/v1/imagerevision/181753/",
+        "/api/v1/imagerevision/181755/"
+    ],
+    "subjects": [
+        "PGC2414507",
+        "PGC2415662",
+        "PGC2417826",
+        "PGC84554",
+        "PK085+52.1"
+    ],
+    "title": "Jacoby 1",
+    "updated": "2021-06-10T15:11:39.826004",
+    "uploaded": "2019-06-05T21:46:36.773184",
+    "url_duckduckgo": "https://www.astrobin.com/408982/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408982/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408982/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408982/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408982/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408982/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408982/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2019/e1a4de38-265c-4921-9d93-3b9f2270940a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2019/e1a4de38-265c-4921-9d93-3b9f2270940a-1582608345.jpg",
+    "url_thumb": "https://www.astrobin.com/408982/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 801,
+    "w": 4012
+}

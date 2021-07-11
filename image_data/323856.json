@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 29,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "44.262",
+    "description": "22.NOV.2017 - Celestron Edge HD 1100 + Hyperstar + ASI ZWO ASI1600 MM cooled\r\n16 x 300s Baader Ha HighSpeed f/2 Filter\r\n16 x 300s Baader O3 HighSpeed f/2 Filter\r\n16 x 300s Baader S2 HighSpeed f/2 Filter\r\n\r\n22.NOV.2017 - Takahashi FSQ-85 + Moravian G2-8300 FW\r\n27 x 120s Astronomik LRGB",
+    "h": 682,
+    "hash": null,
+    "id": 323856,
+    "imaging_cameras": [
+        "ASI ZWO 1600MM-cooled",
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 254,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "0.798",
+    "pixscale": "6.367",
+    "published": "2017-11-28T05:10:36.452791",
+    "ra": "313.112",
+    "radius": "1.088",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323856/",
+    "revisions": [
+        "/api/v1/imagerevision/131416/",
+        "/api/v1/imagerevision/131417/",
+        "/api/v1/imagerevision/131418/"
+    ],
+    "subjects": [
+        "56 Cyg",
+        "57 Cyg",
+        "IC 5070",
+        "IC5070",
+        "NGC 6997",
+        "NGC6997",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC5070 - Pelican Nebula (first light for my new observatory and the ASI 1600MM cool)",
+    "updated": "2021-03-17T19:03:12.966909",
+    "uploaded": "2017-11-28T05:10:37.679828",
+    "url_duckduckgo": "https://www.astrobin.com/323856/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323856/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323856/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323856/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323856/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323856/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323856/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/7916abe6-e1d6-48bd-8467-f4fd70007ebf.gif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/7916abe6-e1d6-48bd-8467-f4fd70007ebf-1582644972.gif",
+    "url_thumb": "https://www.astrobin.com/323856/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 1220,
+    "w": 1024
+}

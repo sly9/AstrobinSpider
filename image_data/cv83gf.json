@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "31.566",
+    "description": "01.SEP.2019 - Celestron Edge HD 1100 + Hyperstar + ZWO ASI 1600MM Cooled Pro\r\n33 x 600s Baader S2 HighSpeed f/2 Filter\r\n\r\n30.AUG.2019 - Celestron Edge HD 1100 + Hyperstar + ZWO ASI 1600MM Cooled Pro\r\n45 x 600s Baader Ha HighSpeed f/2 Filter\r\n\r\n31.AUG.2019 - Celestron Edge HD 1100 + Hyperstar + ZWO ASI 1600MM Cooled Pro\r\n10 x 600s Baader O3 HighSpeed f/2 Filter\r\n\r\n30.AUG-01.SEP.2019 - Takahashi FSQ-85 + Moravian G2-8300 FW\r\n97 x 120s a Astronomik LRGB\r\n\r\n-----------------------------------------------------------------------------------------------------------------------------------\r\nA: Bicolor (R = Ha+S2, G = HaxO2, B = O3)\r\nB: 1.) Bicolor, 2.) Bicolor starles, 3.) S2, 4.) Ha, 5.) O3, 6.) L, 7.) RGB-Stars, 8.) SHO, 9.) SHO starles\r\nC: SHO (R = S2, G = Ha, B = O3)",
+    "h": 1759,
+    "hash": "cv83gf",
+    "id": 427818,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW",
+        "ZWO ASI 1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 229,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "0.293",
+    "pixscale": "2.812",
+    "published": "2019-09-18T05:20:30.218648",
+    "ra": "312.311",
+    "radius": "1.139",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427818/",
+    "revisions": [
+        "/api/v1/imagerevision/193439/",
+        "/api/v1/imagerevision/193582/"
+    ],
+    "subjects": [
+        "NGC6974",
+        "NGC6979",
+        "Sh2-103"
+    ],
+    "title": "Pickerings-Triangle in SHO-LRGB",
+    "updated": "2021-03-17T09:08:30.238664",
+    "uploaded": "2019-09-18T06:20:30.487193",
+    "url_duckduckgo": "https://www.astrobin.com/cv83gf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cv83gf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cv83gf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cv83gf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cv83gf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cv83gf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cv83gf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/820c3c27-2ab9-43c7-a15c-1465d96e401a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/820c3c27-2ab9-43c7-a15c-1465d96e401a-1582644617.jpg",
+    "url_thumb": "https://www.astrobin.com/cv83gf/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 1148,
+    "w": 2325
+}

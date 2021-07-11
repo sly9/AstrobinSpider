@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "43.683",
+    "description": "",
+    "h": 1217,
+    "hash": null,
+    "id": 307566,
+    "imaging_cameras": [
+        "SBIG STT-8300M",
+        "SBIG STX KAF-16803 "
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 9.25\"",
+        "RCOS 16\" RC f/9",
+        "Astro-Physics AP 130mm f/6.3 Starfire EDF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/",
+        "/api/v1/location/2805661/"
+    ],
+    "orientation": "154.013",
+    "pixscale": "0.508",
+    "published": "2017-08-17T10:38:02.261889",
+    "ra": "304.062",
+    "radius": "0.338",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/307566/",
+    "revisions": [
+        "/api/v1/imagerevision/122891/"
+    ],
+    "subjects": [],
+    "title": "DWB111, The Propeller Nebula, Hubble Palette",
+    "updated": "2021-03-17T20:09:45.571614",
+    "uploaded": "2017-08-17T11:38:02.735525",
+    "url_duckduckgo": "https://www.astrobin.com/307566/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/307566/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/307566/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/307566/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/307566/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/307566/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/307566/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/24b83190-ec61-49c3-886f-af668d191b3a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/24b83190-ec61-49c3-886f-af668d191b3a-1502966478.jpg",
+    "url_thumb": "https://www.astrobin.com/307566/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 414,
+    "w": 1824
+}

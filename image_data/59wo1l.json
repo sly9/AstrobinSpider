@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "60.912",
+    "description": "I placed a simple spider made from metal wire in front of the telescope to add diffraction spikes  to the 30 sec exposures.\r\n\r\nOriginal: 6h RGB\r\nRev. B: HaRGB blend (20% Ha added to blue channel for H-beta)\r\nRev. C: Added short exposures with spider\r\nRev. D: Added 2.5h Ha\r\nRev. E: Modified color saturation of Halpha and the microlens rainbow around yCas",
+    "h": 3000,
+    "hash": "59wo1l",
+    "id": 427447,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service Triplet FPL-53 APO 80/480"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "88.675",
+    "pixscale": "2.022",
+    "published": "2019-09-16T17:39:04.904251",
+    "ra": "14.705",
+    "radius": "1.045",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427447/",
+    "revisions": [
+        "/api/v1/imagerevision/193128/",
+        "/api/v1/imagerevision/193129/",
+        "/api/v1/imagerevision/193130/",
+        "/api/v1/imagerevision/193202/"
+    ],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "IC59 / IC63 - Ghost of Cassiopeia HaRGB",
+    "updated": "2021-05-25T11:49:02.675935",
+    "uploaded": "2019-09-15T22:20:53.029059",
+    "url_duckduckgo": "https://www.astrobin.com/59wo1l/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/59wo1l/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/59wo1l/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/59wo1l/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/59wo1l/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/59wo1l/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/59wo1l/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/bcd4a5db-69d7-43b4-a95c-f72825b6a30b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/bcd4a5db-69d7-43b4-a95c-f72825b6a30b-1582517272.jpg",
+    "url_thumb": "https://www.astrobin.com/59wo1l/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 504,
+    "w": 2200
+}

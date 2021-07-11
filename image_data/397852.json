@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.070",
+    "description": "This is the first two project run from the remote observatory. \r\n\r\nBoth projects have endured numerous issues and some remained unsolved up till today. \r\nRoughly 50% of the subs were disposed due to various reasons. My original intend was to try capture the really faint IFN along with the M101 and outer shell of ngc 5474. Unfortunately I was not able to capture a single trace of IFN. The outer shell of ngc 5474 was barely shown. Therefore, I won't call the project a success. Yet same as the M42, i will suspend it and put it on hold for next year. \r\n\r\nAll data was collected between February and March 2nd. Several processing attempts were run through these batches of data.  In the second attempt, i tried to pull as much information out of these batch of data as possible, yet result in noisy image. The final attempt leans more towards artistic presentation. The highlight was no longer suppress for details and background was dodged to set a dark point. \r\n\r\nRemote imaging was proven to be much more challenging then i original expected. However, the better environment has substantially outweigh any short falls. \r\n\r\n-Doug",
+    "h": 2583,
+    "hash": null,
+    "id": 397852,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RH-200 MKII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810475/"
+    ],
+    "orientation": "75.936",
+    "pixscale": "1.266",
+    "published": "2019-03-28T20:59:18.111903",
+    "ra": "210.928",
+    "radius": "0.731",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/397852/",
+    "revisions": [
+        "/api/v1/imagerevision/174646/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5474",
+        "NGC 5477"
+    ],
+    "title": "M101 and NEIGHBORS",
+    "updated": "2021-03-17T11:35:08.299706",
+    "uploaded": "2019-03-28T20:38:05.757393",
+    "url_duckduckgo": "https://www.astrobin.com/397852/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397852/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397852/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397852/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397852/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397852/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397852/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18120/2019/4c5c5982-91ca-4c73-a3c3-79eb8be5db7f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18120/2019/4c5c5982-91ca-4c73-a3c3-79eb8be5db7f-1582532655.jpg",
+    "url_thumb": "https://www.astrobin.com/397852/0/rawthumb/thumb/",
+    "user": "dead_butt",
+    "views": 254,
+    "w": 3255
+}

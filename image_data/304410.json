@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "72.804",
+    "description": "",
+    "h": 1104,
+    "hash": null,
+    "id": 304410,
+    "imaging_cameras": [
+        "QHY10"
+    ],
+    "imaging_telescopes": [
+        "PRIMALUCELAB Airy Apo 104T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805921/"
+    ],
+    "orientation": "158.501",
+    "pixscale": "2.365",
+    "published": "2017-07-23T15:51:24.496481",
+    "ra": "332.049",
+    "radius": "1.482",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/304410/",
+    "revisions": [],
+    "subjects": [
+        "The star 16Cep",
+        "The star 24Cep"
+    ],
+    "title": "VDB 149",
+    "updated": "2021-03-17T20:22:28.528126",
+    "uploaded": "2017-07-23T16:51:25.554894",
+    "url_duckduckgo": "https://www.astrobin.com/304410/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/304410/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/304410/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/304410/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/304410/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/304410/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/304410/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/05e5133f-0b9a-4239-ad0d-c83c02eea547.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/05e5133f-0b9a-4239-ad0d-c83c02eea547-1500825444.jpg",
+    "url_thumb": "https://www.astrobin.com/304410/0/rawthumb/thumb/",
+    "user": "maxhedroom",
+    "views": 153,
+    "w": 1824
+}

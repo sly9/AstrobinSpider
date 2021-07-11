@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "68.099",
+    "description": "A favorite target of mine.  A fabulous galaxy  in the far northern sky that would be even more impressive if it were not blocked by the dust and star field from the winter Milky Way.  Actual acquisition details are 127 300 sec. red, green and blue subs, binned 2x2 and 41 600 sec Luminance subs, binned 1x1.",
+    "h": 3850,
+    "hash": "8n175v",
+    "id": 450340,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK 17"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805511/"
+    ],
+    "orientation": "159.878",
+    "pixscale": "0.631",
+    "published": "2020-01-20T23:44:06.375796",
+    "ra": "56.712",
+    "radius": "0.477",
+    "remote_source": "NMS",
+    "resource_uri": "/api/v1/image/450340/",
+    "revisions": [
+        "/api/v1/imagerevision/208526/",
+        "/api/v1/imagerevision/209346/"
+    ],
+    "subjects": [
+        "IC 342",
+        "IC342"
+    ],
+    "title": "IC342 - A Jewel in Camelopardalis",
+    "updated": "2021-03-17T05:29:15.377253",
+    "uploaded": "2020-01-20T23:44:06.757440",
+    "url_duckduckgo": "https://www.astrobin.com/8n175v/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8n175v/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8n175v/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8n175v/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8n175v/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8n175v/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8n175v/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14449/2020/c4170de1-d83c-452d-9e7b-d4b73516f722.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14449/2020/c4170de1-d83c-452d-9e7b-d4b73516f722-1582276726.jpg",
+    "url_thumb": "https://www.astrobin.com/8n175v/0/rawthumb/thumb/",
+    "user": "JimMorse",
+    "views": 103,
+    "w": 3850
+}

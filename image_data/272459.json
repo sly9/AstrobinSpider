@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "68.164",
+    "description": "Seeing : 3.38\r\nNGC 7023 (nébuleuse de l'Iris) est une nébuleuse par réflexion dans la constellation de Céphée. Elle est située à 1300 années-lumière de la Terre. Source Wikipedia.",
+    "h": 2289,
+    "hash": null,
+    "id": 272459,
+    "imaging_cameras": [
+        "QSI 683 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FS-128"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798261/"
+    ],
+    "orientation": "359.397",
+    "pixscale": "1.389",
+    "published": "2016-11-16T19:57:07.628475",
+    "ra": "315.038",
+    "radius": "0.726",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/272459/",
+    "revisions": [
+        "/api/v1/imagerevision/104336/",
+        "/api/v1/imagerevision/104364/"
+    ],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "NGC 7023",
+    "updated": "2021-03-17T22:28:44.977586",
+    "uploaded": "2016-11-16T19:57:08.129748",
+    "url_duckduckgo": "https://www.astrobin.com/272459/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/272459/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/272459/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/272459/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/272459/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/272459/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/272459/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1472/2016/0047886f-dd22-4165-961f-8a01d5fa6479.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1472/2016/0047886f-dd22-4165-961f-8a01d5fa6479-1582459156.png",
+    "url_thumb": "https://www.astrobin.com/272459/0/rawthumb/thumb/",
+    "user": "zoyah",
+    "views": 113,
+    "w": 2988
+}

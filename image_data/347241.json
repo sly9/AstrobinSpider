@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 50,
+    "data_source": "UNKNOWN",
+    "dec": "25.977",
+    "description": "NGC 4565 is an edge on galaxy that's thought to be a barred spiral.  Visually is a 10th magnitude object at a distance of 30-50 mly located in the constellation of Coma Berenices.  Its size makes it a great target for amateur equipment so it's a very commonly imaged galaxy.\r\n\r\nIt seems like a long dry spell.  After the sudden death of my last PC,  I've struggled for about 6 weeks with an emergency home-brew computer running my system while I worked to get a more permanent solution in place.  As I struggled through crashes, hangs, glitches, and a million other issues, I picked the famous Needle to test the system while I got it going.  Since I hadn't imaged this galaxy before, it became a full blown project.  Unfortunately, coupled with all of my computer problems we had a spate of unusually crummy weather in northern New Mexico.  I just couldn't get a break and finally, as the weather began to clear and steady nights returned, I was faced with only a few hours to gather data each night before the Needle disappeared behind the high, western wall of the observatory.  I had some weird problems with transient \"dust\" motes  and stray light from a star outside the FOV that I had to hand correct so this isn't the cleanest image that I've ever produced.  The Needle is getting too low to try to take more data so I'll have to try again next year to get some cleaner data to add to this set.  Anyway, I finally go it done! \r\n\r\nAs always, C&C is welcome so fire a way.  Hopefully, it's not too ragged...\r\n\r\nBest regards,\r\nJohn",
+    "h": 1609,
+    "hash": null,
+    "id": 347241,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 292,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "180.805",
+    "pixscale": "0.477",
+    "published": "2018-05-17T05:48:16.498494",
+    "ra": "189.077",
+    "radius": "0.295",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/347241/",
+    "revisions": [
+        "/api/v1/imagerevision/145513/",
+        "/api/v1/imagerevision/145516/",
+        "/api/v1/imagerevision/145671/",
+        "/api/v1/imagerevision/213568/"
+    ],
+    "subjects": [
+        "IC3571",
+        "NGC 4562",
+        "NGC 4565",
+        "NGC4562",
+        "NGC4565"
+    ],
+    "title": "NGC 4565 - A Colorful Needle",
+    "updated": "2021-06-15T00:06:05.401932",
+    "uploaded": "2018-05-17T05:22:53.517068",
+    "url_duckduckgo": "https://www.astrobin.com/347241/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/347241/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/347241/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/347241/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/347241/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/347241/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/347241/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/727527b4-8b3d-4ac5-b1d8-ee6978dca01c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/727527b4-8b3d-4ac5-b1d8-ee6978dca01c-1526532884.jpg",
+    "url_thumb": "https://www.astrobin.com/347241/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 2101,
+    "w": 1824
+}

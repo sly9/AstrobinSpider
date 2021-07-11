@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-32.868",
+    "description": "NGC1532 is an edge-on barred galaxy that lies at a distance of 50 million years. Its contorted shape has been attributed to the gravitation pull of its companion dwarf galaxy (NGC1531) \r\n\r\nLocation: Central Victorian Highlands, Victoria, Australia\r\nDates: October 2019\r\nTelescope: AG Optical Systems 0.3 meter iDK,\r\nFocal length 2121 mm\r\nCamera: mono FLI ML16200 with a Loadstar X2 on an Astrodon MOAG off-axis guider.\r\nAdaptive Optics: SXV-AO-LF\r\nObservatory: Scopedome\r\nAcquisition: Voyager\r\nIntegration frames: 45x 240sec luminance,25 x240sec Red, 27 x 240sec Green, 25 x 240sec Blue.\r\nAngle 179 degrees\r\nPlate size: 44' x 35'",
+    "h": 3600,
+    "hash": "kexvqy",
+    "id": 436467,
+    "imaging_cameras": [
+        "FLI Microline ML16200"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "https://www.flickr.com/photos/nicholasjones/49000263641/in/dateposted/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808499/"
+    ],
+    "orientation": "179.515",
+    "pixscale": "0.587",
+    "published": "2019-11-02T11:27:36.647114",
+    "ra": "63.023",
+    "radius": "0.470",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/436467/",
+    "revisions": [],
+    "subjects": [
+        "IC 2041",
+        "NGC 1531",
+        "NGC 1532"
+    ],
+    "title": "Galaxy NGC1532",
+    "updated": "2021-04-13T20:38:57.634967",
+    "uploaded": "2019-11-02T11:27:36.985455",
+    "url_duckduckgo": "https://www.astrobin.com/kexvqy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/kexvqy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/kexvqy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/kexvqy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/kexvqy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/kexvqy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/kexvqy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4f5ef5ed-c1ee-4079-834c-cadf606cfa43.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4f5ef5ed-c1ee-4079-834c-cadf606cfa43-1572694578.jpg",
+    "url_thumb": "https://www.astrobin.com/kexvqy/0/rawthumb/thumb/",
+    "user": "whale",
+    "views": 165,
+    "w": 4500
+}

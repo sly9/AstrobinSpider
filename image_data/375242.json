@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-5.387",
+    "description": "Quick experiment with a barlow at 2.25x. HOS composite, with all 20-seconds, unguided subs.",
+    "h": 1171,
+    "hash": null,
+    "id": 375242,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "270.413",
+    "pixscale": "0.399",
+    "published": "2018-11-04T20:38:49.920162",
+    "ra": "83.824",
+    "radius": "0.090",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/375242/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "NGC 1976",
+        "The star θ1Ori",
+        "The star θ2Ori"
+    ],
+    "title": "Trapezium w/ Barlow",
+    "updated": "2021-03-17T13:19:28.892868",
+    "uploaded": "2018-11-04T20:38:50.061543",
+    "url_duckduckgo": "https://www.astrobin.com/375242/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/375242/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/375242/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/375242/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/375242/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/375242/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/375242/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2018/2488f6d0-af53-41d8-a19a-77ae01522ea3.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2018/2488f6d0-af53-41d8-a19a-77ae01522ea3-1582509858.JPG",
+    "url_thumb": "https://www.astrobin.com/375242/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 187,
+    "w": 1111
+}

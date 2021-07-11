@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "43.540",
+    "description": "This is a small crop from a much larger 3 panel panorama which can be seen here: http://www.astrobin.com/301835/\r\n\r\nThe project started in Sept 2014, imaged again in 2015 July to October and again in 2016 July to Aug. It has taken a long time to process as it was my first mosaic and I was still learning. This area is mostly from the middle panel of the mosaic and is built up from Ha, OIII, SII, Red, Green & Blue filtered data totalling 55 hrs just for this panel.\r\n\r\nThis crop is my favourite part and shows a lot of different objects and features, from very complex multilayered dust, glowing gas and some very interesting tadpole looking features which are bok globules, areas where new stars may be born, you need to zoom in to the centre of the image to see those better. Some of the dust forms very intricate shapes and strands and my processing of this image is biased to retaining as much detail in the dust as I could. Version two has better detail in the dust areas.\r\n\r\nThe basic colour pallet is based on the initial Pixelmath:\r\nR = (ha*0.5)+(sii*0.5)\r\nG = (oiii*0.85)+(ha*0.15)\r\nB = (oiii*1)\r\nBut was then adapted to personal taste during processing. The RGB data was only used for the stars.\r\n\r\nThere are a variety of sub exposures and bin settings used, so I have averaged out the exposure lengths in the technical card.",
+    "h": 2350,
+    "hash": null,
+    "id": 300747,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "359.546",
+    "pixscale": "0.718",
+    "published": "2017-06-24T13:19:33.180038",
+    "ra": "314.729",
+    "radius": "0.394",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300747/",
+    "revisions": [
+        "/api/v1/imagerevision/119628/"
+    ],
+    "subjects": [],
+    "title": "NGC7000 The Wall Area",
+    "updated": "2021-03-17T20:36:20.429685",
+    "uploaded": "2017-06-24T14:19:33.545382",
+    "url_duckduckgo": "https://www.astrobin.com/300747/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300747/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300747/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300747/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300747/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300747/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300747/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5290/2017/279a60e3-bf2b-4f06-9443-de926d88e08c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5290/2017/279a60e3-bf2b-4f06-9443-de926d88e08c-1582449940.jpg",
+    "url_thumb": "https://www.astrobin.com/300747/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 411,
+    "w": 3182
+}

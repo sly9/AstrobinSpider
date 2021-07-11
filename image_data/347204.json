@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 12,
+    "data_source": "UNKNOWN",
+    "dec": "54.346",
+    "description": "This picture of M101 was taken at 3 nights, and the 72 sharpest of 212 frames were stacked separately to get the best possible resolution, while the whole data set was used to get the deepest possible signal from my light polluted site. \r\n\r\nThe giant HII region NGC5471 has 17 arcsec diameter and is easily resolved into several knots, so resolution should be around 2 arcsec in the brighter areas of the picture.\r\n\r\nThe galaxys core with its redder older stars is darkened by narrow dust lanes, and numerous HII regions pop up in the spiral arms, which are dominated by a young blue star population. Some distant galaxies shine through the apparently massive star island, showing its actually a delicate and flat disk. The arms of M101 are not always round, but broken into segments angled at 120°, thats called Woronzow-Weljaminow structures - found in many galaxies but of unknown origin.\r\n\r\nTraces of the very faint eastern arms  are visible, and the total diameter is around 26 arcmin, almost matching the full moon.\r\n\r\nPure LRGB with 10\" f/4 Lacerta Photonewton and GPU corrector, and Gen.1 ASI1600MMC at zero gain equipped with Astronomik Deepsky Filters.\r\n\r\nPicture E is a blinking pic on a 100% crop of the core, demonstrating the effect of PixInsights Deconvolution process on the linear (unstretched) Luminance, using a PSF model sampled by the DynamicPSF module.",
+    "h": 2755,
+    "hash": null,
+    "id": 347204,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 227,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "358.069",
+    "pixscale": "0.981",
+    "published": "2018-05-16T21:39:04.844119",
+    "ra": "210.796",
+    "radius": "0.624",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/347204/",
+    "revisions": [
+        "/api/v1/imagerevision/145492/",
+        "/api/v1/imagerevision/145493/",
+        "/api/v1/imagerevision/145494/",
+        "/api/v1/imagerevision/145580/"
+    ],
+    "subjects": [
+        "M 101",
+        "M101",
+        "NGC 5457",
+        "NGC 5477",
+        "NGC5447",
+        "NGC5449",
+        "NGC5450",
+        "NGC5451",
+        "NGC5453",
+        "NGC5455",
+        "NGC5461",
+        "NGC5462",
+        "NGC5471",
+        "NGC5477",
+        "Pinwheel galaxy"
+    ],
+    "title": "M101 the Pinwheel Galaxy",
+    "updated": "2021-06-26T16:48:55.497473",
+    "uploaded": "2018-05-16T22:39:07.485203",
+    "url_duckduckgo": "https://www.astrobin.com/347204/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/347204/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/347204/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/347204/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/347204/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/347204/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/347204/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/7f55aaf3-bf77-4253-aa37-ecda708774c6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/7f55aaf3-bf77-4253-aa37-ecda708774c6-1582611998.png",
+    "url_thumb": "https://www.astrobin.com/347204/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 3372,
+    "w": 3658
+}

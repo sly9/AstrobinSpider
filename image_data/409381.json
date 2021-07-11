@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 24,
+    "data_source": "OWN_REMOTE",
+    "dec": "-37.526",
+    "description": "Corona Australis Wide field\r\nTelescope/lens: FSQ-106ED\r\nCamera: FLI Proline 16803\r\nExposure and filters: LRGB 52 hours total exposure. \r\nMount: DDM60 PRO\r\nLocation: San Pedro De Atacama, Chile \r\nDates: Jun –August 2014 \r\n\r\nImage data acquired remotely",
+    "h": 1896,
+    "hash": null,
+    "id": 409381,
+    "imaging_cameras": [
+        "FLI PROLINE PL16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 311,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810964/"
+    ],
+    "orientation": "1.486",
+    "pixscale": "7.285",
+    "published": "2019-06-08T14:35:15.337308",
+    "ra": "287.219",
+    "radius": "4.028",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/409381/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6723",
+        "Part of the constellation Corona Austrina (CrA)",
+        "The star αCrA",
+        "The star βCrA",
+        "The star γCrA",
+        "The star εCrA"
+    ],
+    "title": "Corona Australis Wide field",
+    "updated": "2021-06-04T19:36:27.711744",
+    "uploaded": "2019-06-08T15:35:15.532437",
+    "url_duckduckgo": "https://www.astrobin.com/409381/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409381/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409381/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409381/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409381/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409381/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409381/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33375/2019/97b6e004-251b-4504-9bb9-e2ea2edcf356.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33375/2019/97b6e004-251b-4504-9bb9-e2ea2edcf356-1582535996.jpg",
+    "url_thumb": "https://www.astrobin.com/409381/0/rawthumb/thumb/",
+    "user": "StanislavVolskiy",
+    "views": 1830,
+    "w": 3500
+}

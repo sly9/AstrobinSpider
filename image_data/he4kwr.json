@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "61.346",
+    "description": "The Heart Nebula (IC 1805, Sh2-190) is an emission nebula in the constellation Cassiopeia, located roughly 7,500 light-years away. It was discovered by William Herschel in 1787. The brightest corner of the Heart nebula is NGC 896, also know as the Fish Head Nebula, on the Western side of the Heart. \r\n\r\nA surprise to me was finding the tiny planetary nebula WeBo1 (PN G135.6+01.0), which can be seen as the small blue structure on the left side of the image (straight left from Melotte 15). WeBo1 was discovered by <a href=\"https://arxiv.org/abs/astro-ph/0209418\">Bond, Pollacco, and Webbink</a> in 2003 originally on DSS images and it has a thin-ring morphology. Its shape is elliptical with major and minor axes of about 64\"x22\". \r\n\r\nThe image was created from 29 hours of narrowband Ha, OIII, SII data in the Hubble color palette.",
+    "h": 3396,
+    "hash": "he4kwr",
+    "id": 440137,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 214,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "358.804",
+    "pixscale": "2.332",
+    "published": "2019-11-24T20:49:58.176345",
+    "ra": "38.405",
+    "radius": "1.786",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440137/",
+    "revisions": [
+        "/api/v1/imagerevision/201394/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC1795",
+        "IC1805",
+        "IC1824",
+        "NGC 1027",
+        "NGC 896",
+        "NGC1027",
+        "NGC896",
+        "Sh2-190"
+    ],
+    "title": "Heart Nebula (IC 1805, Sh2-190)",
+    "updated": "2021-03-17T06:18:37.218536",
+    "uploaded": "2019-11-24T15:06:20.126157",
+    "url_duckduckgo": "https://www.astrobin.com/he4kwr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/he4kwr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/he4kwr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/he4kwr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/he4kwr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/he4kwr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/he4kwr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/e6e311e5-4c90-418d-8b9c-8b8835c10fff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/e6e311e5-4c90-418d-8b9c-8b8835c10fff-1582290338.jpg",
+    "url_thumb": "https://www.astrobin.com/he4kwr/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 1078,
+    "w": 4344
+}

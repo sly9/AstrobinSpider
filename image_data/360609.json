@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "61.052",
+    "description": "I imaged this with both my refactor for wide field and my SCT for the core.  I was hoping to get more detail and resolution for the core with the SCT.  It is a combination of both image scales as well as a combination of RGB stars and HOO and SHO blended color pallet.\r\n\r\nNGC 7635 - The Bubble Nebula - Emission Nebula\r\nNGC 7635 also known as the Bubble Nebula is a HII region emission nebula located in northwestern Cassiopeia close to the border with Cepheus. It appears round in shape due to expanding gas from the stellar wind of a massive hot central star (mag. +8.7). The nebula is located in a giant molecular cloud that glows due to excitation from the star. It was discovered by William Herschel on November 3, 1787.",
+    "h": 2405,
+    "hash": null,
+    "id": 360609,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 80mm ED TRIPLET APO",
+        "Celestron 9.25 sct XLT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806193/"
+    ],
+    "orientation": "7.173",
+    "pixscale": "2.221",
+    "published": "2018-08-11T04:22:37.271890",
+    "ra": "349.823",
+    "radius": "1.243",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/360609/",
+    "revisions": [
+        "/api/v1/imagerevision/153108/",
+        "/api/v1/imagerevision/169051/",
+        "/api/v1/imagerevision/169052/",
+        "/api/v1/imagerevision/169077/",
+        "/api/v1/imagerevision/169103/",
+        "/api/v1/imagerevision/169104/"
+    ],
+    "subjects": [
+        "Bubble nebula",
+        "M 52",
+        "NGC 7538",
+        "NGC 7635",
+        "NGC 7654"
+    ],
+    "title": "NGC 7635 - The Bubble Nebula and Region",
+    "updated": "2021-03-17T14:30:20.390388",
+    "uploaded": "2018-08-11T05:22:37.551988",
+    "url_duckduckgo": "https://www.astrobin.com/360609/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/360609/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/360609/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/360609/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/360609/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/360609/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/360609/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16769/2018/d75604a1-03d3-455b-9c9f-2c6e8dc2ce7a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16769/2018/d75604a1-03d3-455b-9c9f-2c6e8dc2ce7a-1582485129.jpg",
+    "url_thumb": "https://www.astrobin.com/360609/0/rawthumb/thumb/",
+    "user": "RandalHealey",
+    "views": 181,
+    "w": 3235
+}

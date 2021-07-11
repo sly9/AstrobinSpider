@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "58.073",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 362812,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 223,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.240",
+    "pixscale": "0.801",
+    "published": "2018-08-22T13:49:37.016275",
+    "ra": "341.799",
+    "radius": "0.381",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/362812/",
+    "revisions": [
+        "/api/v1/imagerevision/154272/"
+    ],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "Wizard nebula Ha - OIII",
+    "updated": "2021-03-17T14:19:08.021060",
+    "uploaded": "2018-08-22T14:49:37.265789",
+    "url_duckduckgo": "https://www.astrobin.com/362812/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/362812/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/362812/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/362812/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/362812/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/362812/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/362812/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2018/7fbdf1f5-58d1-4be4-81e9-71a18c2e10c6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7fbdf1f5-58d1-4be4-81e9-71a18c2e10c6-1534949596.jpg",
+    "url_thumb": "https://www.astrobin.com/362812/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 683,
+    "w": 1824
+}

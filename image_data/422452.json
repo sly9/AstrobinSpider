@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "62.536",
+    "description": "Setup:\r\nT: TS Super APO 80/500\r\nM: Celestron CGEM guided ASI120MM\r\nC: QHY163M \r\nFilters: Baader Ha 7nm | Optolong RGB\r\nFrames:\r\nHa: 40x360s - bin1x1 | G120/Off50 | -10ºC\r\nR:15x90s - bin1x1 | G50/Off20 | -10C\r\nG:15x90s - bin1x1 | G50/Off20 | -10C\r\nB:15x90s - bin1x1 | G50/Off20 | -10C\r\nTotal exposure: 310min\r\n\r\nAcquisition: APT\r\nEdition: PixInsight Core + PS\r\n11/09/2018; 12/09/2018\r\nSabugo - Portugal",
+    "h": 2298,
+    "hash": null,
+    "id": 422452,
+    "imaging_cameras": [
+        "QHY163m"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 80/500 TS Super APO 80/500"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802219/"
+    ],
+    "orientation": "19.485",
+    "pixscale": "2.214",
+    "published": "2019-08-24T20:48:52.673345",
+    "ra": "344.870",
+    "radius": "1.173",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/422452/",
+    "revisions": [],
+    "subjects": [],
+    "title": "SH2-155 - The Cave Nebula",
+    "updated": "2021-03-17T09:36:42.855718",
+    "uploaded": "2019-08-24T21:48:52.817067",
+    "url_duckduckgo": "https://www.astrobin.com/422452/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/422452/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/422452/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/422452/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/422452/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/422452/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/422452/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8db05517-8761-4133-aefa-4ce14139466d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8db05517-8761-4133-aefa-4ce14139466d-1566851668.jpg",
+    "url_thumb": "https://www.astrobin.com/422452/0/rawthumb/thumb/",
+    "user": "Henrique_Silva",
+    "views": 85,
+    "w": 3044
+}

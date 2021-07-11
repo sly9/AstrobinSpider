@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 24,
+    "data_source": "OWN_REMOTE",
+    "dec": "55.620",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best Ha image taken on the AG12.\r\nUsing L (synthetic from RGB) from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nImaged on nights of 11/14, 11/17, 11/18, 11/19/2018.\r\n\r\nPuWe1 is a quite large, but very very faint planetary nebula in the constellation of lynx.\r\nThe nebula was discovered in 1980 (original discovery paper: http://goo.gl/fW6TQB) by Purgathofer and Weinberger on the Palomar Deep Sky Survey prints. The nebula is one of the largest planetary nebulae visible in our skies, with a diameter of 20’ (almost equal to the full moon!).\r\n\r\nPuWe 1 is also one of the nearest known planetaries with a distance of only about 1200 light years.\r\n\r\nIt shines very weakly in the H-alpha and OIII wavelengths. In H-a it has an estimated surface brightness of only 23.7 mag/arcsec2 and in OIII only 26.3 mag/arcsec2. The integrated magnitudes are 8.6 and 11.2 respectively. This means that you can imagine the nebula as a star of mag. 8.6 which is defocused to the size of the moon. This gives an indication of the incredible weakness of the nebula.\r\n\r\nThe nebula has an estimated diameter of about 4 ly, and therefore is probably a very old remainder of a planetary nebula that has expanded that far that the remaining gases are only weakly energized by the central star.",
+    "h": 3472,
+    "hash": null,
+    "id": 405426,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 226,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "178.006",
+    "pixscale": "0.702",
+    "published": "2019-05-12T16:10:35.074583",
+    "ra": "94.891",
+    "radius": "0.563",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/405426/",
+    "revisions": [],
+    "subjects": [
+        "PK158+17.1"
+    ],
+    "title": "PuWe1 (Purgathofer-Weinberger 1) Planetary Nebula",
+    "updated": "2021-04-17T00:55:15.370004",
+    "uploaded": "2019-05-12T16:55:22.457646",
+    "url_duckduckgo": "https://www.astrobin.com/405426/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405426/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405426/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405426/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405426/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405426/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405426/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/b703e052-7bd5-4aaf-8840-16e8875c346c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/b703e052-7bd5-4aaf-8840-16e8875c346c-1582590836.jpg",
+    "url_thumb": "https://www.astrobin.com/405426/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 765,
+    "w": 4616
+}

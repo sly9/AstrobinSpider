@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "41.283",
+    "description": "L= 18x600s\r\nRGB= 6x450s bin 2x2\r\nHalpha= 12x1800s\r\n\r\nOnly globular clusters confirmed by metallicity\r\nreference http://www.bo.astro.it/M31/\r\n\r\nOriginal version without globular clusters marked",
+    "h": 2034,
+    "hash": null,
+    "id": 275192,
+    "imaging_cameras": [
+        "Atik 4000M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 120/900 ed "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 13,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803647/"
+    ],
+    "orientation": "270.112",
+    "pixscale": "1.927",
+    "published": "2016-12-23T19:00:01.295010",
+    "ra": "10.683",
+    "radius": "0.770",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/275192/",
+    "revisions": [
+        "/api/v1/imagerevision/106585/"
+    ],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M 31 and globular clusters",
+    "updated": "2021-03-17T22:18:56.079180",
+    "uploaded": "2016-12-06T20:20:58.076632",
+    "url_duckduckgo": "https://www.astrobin.com/275192/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/275192/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/275192/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/275192/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/275192/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/275192/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/275192/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12704/2016/f4ffcd97-1a2f-4eb6-a1cc-50dfffa5a942.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/12704/2016/f4ffcd97-1a2f-4eb6-a1cc-50dfffa5a942-1582449659.jpg",
+    "url_thumb": "https://www.astrobin.com/275192/0/rawthumb/thumb/",
+    "user": "Jerry@Caselle",
+    "views": 318,
+    "w": 2034
+}

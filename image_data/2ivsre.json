@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "56.643",
+    "description": "",
+    "h": 5304,
+    "hash": "2ivsre",
+    "id": 427509,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TAKAHASHI FSQ-106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807114/",
+        "/api/v1/location/2807119/"
+    ],
+    "orientation": "359.864",
+    "pixscale": "0.931",
+    "published": "2019-09-16T08:23:22.197652",
+    "ra": "13.198",
+    "radius": "0.827",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427509/",
+    "revisions": [],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "NGC281 Pacman Nebula HOO+SHO(20%)+RGB(StarColor)",
+    "updated": "2021-03-17T09:10:08.194213",
+    "uploaded": "2019-09-16T09:23:22.461717",
+    "url_duckduckgo": "https://www.astrobin.com/2ivsre/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2ivsre/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2ivsre/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2ivsre/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2ivsre/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2ivsre/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2ivsre/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22865/2019/ed183d99-e826-4719-b3fb-a9b9551e5fda.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22865/2019/ed183d99-e826-4719-b3fb-a9b9551e5fda-1582583522.jpg",
+    "url_thumb": "https://www.astrobin.com/2ivsre/0/rawthumb/thumb/",
+    "user": "MasahiroTakahashi",
+    "views": 240,
+    "w": 3564
+}

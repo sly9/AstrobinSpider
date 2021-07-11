@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "33.943",
+    "description": "A processed image of the Flame nebula in Auriga taken in Dec.  I earlier posted the HaLRGB version.  I decided to process the Ha image using the new PixInsight Local Fuzzy Histogram Hyperbolizaton script and was amazed at the increase in contrast all the way into the faint signal.  Thanks for looking.",
+    "h": 1244,
+    "hash": null,
+    "id": 328508,
+    "imaging_cameras": [
+        "QSI 583wsg"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV70T Stellarvue SV 70T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "http://www.starscapeimaging.com/resources/Flaming-Star-Region_Ha_LFHH_50.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803139/"
+    ],
+    "orientation": "359.874",
+    "pixscale": "6.582",
+    "published": "2018-01-06T22:24:17.731047",
+    "ra": "79.706",
+    "radius": "1.893",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328508/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "NGC 1893",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "A flame in Auriga- Ha only",
+    "updated": "2021-03-17T18:43:30.669448",
+    "uploaded": "2018-01-06T22:24:18.281793",
+    "url_duckduckgo": "https://www.astrobin.com/328508/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328508/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328508/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328508/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328508/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328508/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328508/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/e967198f-aaaa-4daa-becf-107709dfd9eb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e967198f-aaaa-4daa-becf-107709dfd9eb-1515277746.jpg",
+    "url_thumb": "https://www.astrobin.com/328508/0/rawthumb/thumb/",
+    "user": "talbotj",
+    "views": 222,
+    "w": 1656
+}

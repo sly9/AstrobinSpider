@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "44.007",
+    "description": "IC 5070  S2HaO3 PREVIEW\r\nTOA130 + MORAVIAN G3-16200\r\n\r\n S2HaO3 60:60:60 bin 1\r\n\r\nPIERO VENTURI : FRANCESCO ANTONUCCI",
+    "h": 1448,
+    "hash": null,
+    "id": 300549,
+    "imaging_cameras": [
+        "Moravian   Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130 APO Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806977/"
+    ],
+    "orientation": "-90.005",
+    "pixscale": "2.708",
+    "published": "2017-06-22T17:04:51.018508",
+    "ra": "312.884",
+    "radius": "0.983",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300549/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC 5070 Narrow",
+    "updated": "2021-06-17T07:45:05.676353",
+    "uploaded": "2017-06-22T18:04:51.619998",
+    "url_duckduckgo": "https://www.astrobin.com/300549/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300549/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300549/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300549/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300549/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300549/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300549/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/9b5ad2af-2e97-4472-b20d-5bd6862c58da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9b5ad2af-2e97-4472-b20d-5bd6862c58da-1498151269.jpg",
+    "url_thumb": "https://www.astrobin.com/300549/0/rawthumb/thumb/",
+    "user": "croara",
+    "views": 111,
+    "w": 1824
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 20,
+    "data_source": "OWN_REMOTE",
+    "dec": "-59.641",
+    "description": "This is a hi-res attempt with the new RCOS 16\" f/8.4 added to the remote observatory. For the main part of the nebula, 40x1200 secs frames where combined in the light of H-alpha. In order to capture the faintest details contained in Eta Carinae (the \"Homunculus\" nebula) 50 x 5 secs exposures were combined and blended whith the main image.\r\n\r\nThis is the color SHO palette version. \r\n\r\nHope you like it :)",
+    "h": 3207,
+    "hash": "7sed56",
+    "id": 470331,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "RCOS 16\" f /8.4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 118,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810239/"
+    ],
+    "orientation": "359.852",
+    "pixscale": "0.500",
+    "published": "2020-03-29T16:24:06.778931",
+    "ra": "161.019",
+    "radius": "0.283",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/470331/",
+    "revisions": [
+        "/api/v1/imagerevision/222550/"
+    ],
+    "subjects": [
+        "Foramen",
+        "eta Car"
+    ],
+    "title": "NGC 3372, Great nebula in Carina SHO",
+    "updated": "2021-03-17T03:48:46.917640",
+    "uploaded": "2020-03-29T17:24:07.217463",
+    "url_duckduckgo": "https://www.astrobin.com/7sed56/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7sed56/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7sed56/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7sed56/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7sed56/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7sed56/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7sed56/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12715/2020/1d35e5e3-238f-4435-bf6f-347c070dea3d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12715/2020/1d35e5e3-238f-4435-bf6f-347c070dea3d-1585502951.jpg",
+    "url_thumb": "https://www.astrobin.com/7sed56/0/rawthumb/thumb/",
+    "user": "cotejardinero@gmail.com",
+    "views": 423,
+    "w": 2532
+}

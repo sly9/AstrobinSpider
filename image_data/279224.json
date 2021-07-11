@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "60.295",
+    "description": "",
+    "h": 1532,
+    "hash": null,
+    "id": 279224,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ85EDX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802126/",
+        "/api/v1/location/2802349/"
+    ],
+    "orientation": "334.529",
+    "pixscale": "4.463",
+    "published": "2017-10-21T16:25:00.892159",
+    "ra": "311.429",
+    "radius": "1.713",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/279224/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6946"
+    ],
+    "title": "Barnard 150 - NGC6946",
+    "updated": "2021-03-21T23:42:02.202632",
+    "uploaded": "2017-01-06T21:05:29.290182",
+    "url_duckduckgo": "https://www.astrobin.com/279224/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/279224/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/279224/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/279224/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/279224/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/279224/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/279224/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5149/2020/6d38e54f-1a45-4603-afef-9baac5e267af.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5149/2020/6d38e54f-1a45-4603-afef-9baac5e267af-1582565457.jpg",
+    "url_thumb": "https://www.astrobin.com/279224/0/rawthumb/thumb/",
+    "user": "Giulio",
+    "views": 322,
+    "w": 2300
+}

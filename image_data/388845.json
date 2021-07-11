@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "First, with a D5600 in 2017, 31 subs - 4 minutes, not a good focus, not a good collimation.\r\nOne year later, same place, always a Newton 200/800 (Lacerta this time vs Skywatcher before), ZWO 1600, motorized focuser, good focus, good collimation but some tilt.\r\nI did the same traitment for the two.\r\nNow it's the end with bad colors balance, I used the photometric calibration of Pixinsight, agreat tool!\r\nAnd for the fun, comparison with Hubble & Subaru pictures.\r\n\r\nI just have a problem with high HA signal: for exemple in the left, you can see a bright bluish nebulosity and think should be red seing the HA layer and Subaru picture.\r\nI use different techniques (NRGB, non linear, linear, pixelmaths, linearfit etc) nothing work, can you help me if I send you data layers?",
+    "h": 6830,
+    "hash": null,
+    "id": 388845,
+    "imaging_cameras": [
+        "ZWO 1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Lacerta photonewton 200/800"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 157,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807519/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-02-20T04:48:05.787343",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/388845/",
+    "revisions": [
+        "/api/v1/imagerevision/171003/",
+        "/api/v1/imagerevision/171010/",
+        "/api/v1/imagerevision/171449/",
+        "/api/v1/imagerevision/171783/"
+    ],
+    "subjects": [],
+    "title": "M101 - Comparison digital camera/CMOS/Hubble & Subaru - High definition",
+    "updated": "2021-06-13T11:02:04.257339",
+    "uploaded": "2019-02-02T05:34:49.136587",
+    "url_duckduckgo": "https://www.astrobin.com/388845/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388845/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388845/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388845/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388845/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388845/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388845/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/388845/0/rawthumb/thumb/",
+    "user": "Astro-tuto",
+    "views": 1420,
+    "w": 9074
+}

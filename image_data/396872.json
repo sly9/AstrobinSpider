@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "54.367",
+    "description": "",
+    "h": 1562,
+    "hash": null,
+    "id": 396872,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton",
+        "Sky-Watcher 150/750 Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 340,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.324",
+    "pixscale": "1.126",
+    "published": "2019-03-22T21:26:45.933700",
+    "ra": "210.813",
+    "radius": "0.450",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/396872/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5477"
+    ],
+    "title": "M101 Ha-LRGB",
+    "updated": "2021-06-13T09:36:55.574824",
+    "uploaded": "2019-03-22T20:55:46.060340",
+    "url_duckduckgo": "https://www.astrobin.com/396872/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396872/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396872/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396872/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396872/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396872/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396872/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/402a9a29-72a6-4cfa-bb30-40fcbfd2ae9e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/402a9a29-72a6-4cfa-bb30-40fcbfd2ae9e-1553360793.jpg",
+    "url_thumb": "https://www.astrobin.com/396872/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 2345,
+    "w": 2420
+}

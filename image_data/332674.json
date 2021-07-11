@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "-13.225",
+    "description": "Thor's Helmet is an emission nebula located around 12,000 light years away in the constellation of Canis Major. The gases are being ejected by a 'Wolf-Rayet' star (WR7). These are hot, giant stars at the end of their stellar evolution - in a a 'pre-supernova' phase. The nebula is estimated to be around 30 light years in diameter.\r\n\r\nThis is a bicolour image from the Deep Sky West remote imaging facility in New Mexico. Data collection took place over several nights between 27 December 2017 and 5 February 2018.\r\n\r\nHa: 28 x 1800s\r\nOIII: 14 x 1800s\r\n\r\nA total of 21 hours exposure.",
+    "h": 1876,
+    "hash": null,
+    "id": 332674,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "359.960",
+    "pixscale": "2.103",
+    "published": "2018-02-08T11:41:54.190654",
+    "ra": "109.627",
+    "radius": "0.904",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332674/",
+    "revisions": [
+        "/api/v1/imagerevision/137040/"
+    ],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet (NGC 2359) in Canis Major - Bicolour",
+    "updated": "2021-03-17T16:35:22.322734",
+    "uploaded": "2018-02-08T11:41:54.561993",
+    "url_duckduckgo": "https://www.astrobin.com/332674/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332674/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332674/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332674/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332674/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332674/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332674/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/54f74d02-c5bc-401b-80c0-9ec1c30aaacb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/54f74d02-c5bc-401b-80c0-9ec1c30aaacb-1582606103.jpg",
+    "url_thumb": "https://www.astrobin.com/332674/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 234,
+    "w": 2461
+}

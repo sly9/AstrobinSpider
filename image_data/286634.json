@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "27.965",
+    "description": "This was one of my 2016 fall project that never got completed due to bad weather.  I started with a 6 panel mosaic with the QSI690 and then switched camera to ASI1600 and restarted it with a 4 panel mosaic. But I couldnt get enough nights on it to collect data needed to complete it.\r\nI was going for either HaRGB or HaOIII. But now I have just Ha (Some panels have less data than another).\r\n\r\nThis is a 4 panel mosaic. Two panels have about 50x5 minutes and other 2 panels have 30x5 minutes. \r\n\r\nHoping to collect data later this year.",
+    "h": 1345,
+    "hash": null,
+    "id": 286634,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 144,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "-155.286",
+    "pixscale": "8.430",
+    "published": "2017-03-09T14:04:29.788034",
+    "ra": "84.961",
+    "radius": "2.631",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286634/",
+    "revisions": [],
+    "subjects": [
+        "12.14",
+        "87 Sylvia",
+        "PK178-02.1",
+        "Sh2-240"
+    ],
+    "title": "Simeis 147 - Spaghetti Nebula",
+    "updated": "2021-03-17T21:34:13.049815",
+    "uploaded": "2017-03-09T14:04:30.229306",
+    "url_duckduckgo": "https://www.astrobin.com/286634/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286634/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286634/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286634/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286634/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286634/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286634/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/9b336b99-a961-40ec-8178-8876b226dd31.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/9b336b99-a961-40ec-8178-8876b226dd31-1489068503.png",
+    "url_thumb": "https://www.astrobin.com/286634/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 743,
+    "w": 1800
+}

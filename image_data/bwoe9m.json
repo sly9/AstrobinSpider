@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-63.867",
+    "description": "Many thanks to all the Sadr team for the acquisition of the NGC6744 subs \r\n\r\nNGC 6744 is an intermediate spiral galaxy about 30 million light-years away in the constellation Pavo. It is considered as a Milky Way mimic in our immediate vicinity, displaying flocculent (fluffy) arms and an elongated core. It also has at least one distorted companion galaxy (NGC 6744A) superficially similar to one of the Magellanic Clouds. It was discovered from Parramatta in Australia by Scottish astronomer James Dunlop on 30 June 1826.\r\n\r\nNGC 6744 lies within the Virgo Supercluster.\r\n\r\n---------------------------------------------\r\nRed 37 subs@120s -20°C bin 2 gain high\r\nBlue 49 subs@120s -20°C bin 2 gain high\r\nGreen 37 subs@120s -20°C bin 2 gain high\r\nRed 59 subs@300s -20°C bin 1 gain high\r\nBlue 65 subs@300s -20°C bin 1 gain high\r\nGreen 65 subs@300s -20°C bin 1 gain high\r\n\r\nLight 38 subs@300s -20°C, gain high\r\nHalpha 6 subs@600s -20°C, gain high",
+    "h": 3499,
+    "hash": "bwoe9m",
+    "id": 454416,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "https://www.sadr.fr/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "175.532",
+    "pixscale": "0.695",
+    "published": "2020-02-10T18:54:39.158171",
+    "ra": "287.428",
+    "radius": "0.543",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/454416/",
+    "revisions": [
+        "/api/v1/imagerevision/211289/",
+        "/api/v1/imagerevision/211291/",
+        "/api/v1/imagerevision/211298/",
+        "/api/v1/imagerevision/216979/"
+    ],
+    "subjects": [
+        "NGC 6744",
+        "NGC6744"
+    ],
+    "title": "NGC6744 in Pavo  - SADR Team Chile",
+    "updated": "2021-03-17T05:09:39.853968",
+    "uploaded": "2020-02-10T17:48:14.659818",
+    "url_duckduckgo": "https://www.astrobin.com/bwoe9m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bwoe9m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bwoe9m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bwoe9m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bwoe9m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bwoe9m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bwoe9m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/9feb8b69-e657-406f-9019-15cca0305d4c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/9feb8b69-e657-406f-9019-15cca0305d4c-1581359366.jpg",
+    "url_thumb": "https://www.astrobin.com/bwoe9m/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 346,
+    "w": 4414
+}

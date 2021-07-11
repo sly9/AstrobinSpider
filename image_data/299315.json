@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 15,
+    "data_source": "UNSET",
+    "dec": "-47.485",
+    "description": "Some results from an early release of PixInsight 1.8.5 testing the new PhotometricColorCalibration tool.  PCC plate solves the field and uses photometric data for stars in the field to calculate the colour parameters relative to a user specified white reference.  It is very cool!\r\n\r\nProcessing is a little rough as this was an experiment and I wasn't attempting to produce a perfect image. There are 6 different revisions  :\r\n- \"Classic\" ColorCalibration, stars white ref\r\n- \"Classic\" ColorCalibration, stars white ref, corrected for galactic dust extinction\r\n- PhotometricColorCalibration, G2V white ref\r\n- PhotometricColorCalibration, G2V white ref, corrected for galactic dust extinction\r\n- PhotometricColorCalibration, average spiral galaxy white ref\r\n- PhotometricColorCalibration, average spiral galaxy white ref, corrected for galactic dust extinction\r\n\r\nKudos to Juan Conejero for the very ambitious and new feature rich 1.8.5 release, and to Vicent Peris for the PCC tool and the model for extinction correction.  Thanks, guys!",
+    "h": 5290,
+    "hash": null,
+    "id": 299315,
+    "imaging_cameras": [
+        "Alta U16M"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo 300 Astrograph (f/4.9)"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 189,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.752",
+    "pixscale": "0.627",
+    "published": "2017-06-12T20:55:38.621364",
+    "ra": "201.710",
+    "radius": "0.720",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299315/",
+    "revisions": [
+        "/api/v1/imagerevision/118392/",
+        "/api/v1/imagerevision/118393/",
+        "/api/v1/imagerevision/118394/",
+        "/api/v1/imagerevision/118395/",
+        "/api/v1/imagerevision/118396/"
+    ],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "NGC5139 (Omega Cen) with a variety of colour calibrations (test PixInsight 1.8.5 PCC)",
+    "updated": "2021-04-09T15:53:38.376639",
+    "uploaded": "2017-06-12T10:49:09.383503",
+    "url_duckduckgo": "https://www.astrobin.com/299315/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299315/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299315/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299315/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299315/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299315/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299315/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18/2017/b7cde305-4522-4b5f-b777-bbed85d8edd5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18/2017/b7cde305-4522-4b5f-b777-bbed85d8edd5-1582555372.jpg",
+    "url_thumb": "https://www.astrobin.com/299315/0/rawthumb/thumb/",
+    "user": "RickS",
+    "views": 1190,
+    "w": 6356
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "41.271",
+    "description": "M31 Andromeda Galaxy. Acquired from my first dark site imaging run with my new TeleVue NP101is and finally processed with PixInsight.",
+    "h": 2822,
+    "hash": "2w8ay2",
+    "id": 432193,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "TeleVue NP101is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811945/"
+    ],
+    "orientation": "275.109",
+    "pixscale": "1.758",
+    "published": "2019-10-08T05:58:26.630380",
+    "ra": "10.662",
+    "radius": "1.224",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/432193/",
+    "revisions": [],
+    "subjects": [
+        "Andromeda Galaxy",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31 Andromeda w/PixInsight",
+    "updated": "2021-03-21T10:36:12.581049",
+    "uploaded": "2019-10-08T06:58:26.950418",
+    "url_duckduckgo": "https://www.astrobin.com/2w8ay2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2w8ay2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2w8ay2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2w8ay2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2w8ay2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2w8ay2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2w8ay2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28631/2020/6f58880f-d8ed-44d3-bed5-85c6c1e769d1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28631/2020/6f58880f-d8ed-44d3-bed5-85c6c1e769d1-1594255873.png",
+    "url_thumb": "https://www.astrobin.com/2w8ay2/0/rawthumb/thumb/",
+    "user": "bmcreider",
+    "views": 426,
+    "w": 4144
+}

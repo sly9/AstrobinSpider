@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "The is a six pane mosaic of the region between the California Nebula (IC1499) and the Jellyfish Nebula (IC443) taken with an OSC QHY168C camera.  Each pane consists of about 200 one minute exposures with an IRUV block filter and 50 four minute exposure with an Ha filter placed in front of the lens.  This was done to bring out the Ha in the region.\r\n\r\nThe individual panes were pre-processed in PI, stacked and mosaiced in APP, then remapped in PI to the Plate-Carree reference frame to get a rectangular image.\r\n\r\nThe image posted is about a 1/3 reduction from the original, which is nearly 1 Gb as a FITS file and 70 Mb as a jpeg.",
+    "h": 1596,
+    "hash": null,
+    "id": 325332,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "Rokinon 85mm F/1.4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 141,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801427/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-12-10T16:49:56.002373",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325332/",
+    "revisions": [],
+    "subjects": [],
+    "title": "From California to the Jellyfish, a Six Pane Mosaic with the QHY168C",
+    "updated": "2021-03-17T18:57:07.727616",
+    "uploaded": "2017-12-10T16:49:57.492783",
+    "url_duckduckgo": "https://www.astrobin.com/325332/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325332/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325332/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325332/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325332/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325332/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325332/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/325332/0/rawthumb/thumb/",
+    "user": "fbzolt",
+    "views": 990,
+    "w": 4389
+}

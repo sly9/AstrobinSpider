@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "-32.873",
+    "description": "NGC1532  taken with \"Sadr Observatoire\" in Chili with the Newton 355cm\r\nDon't hesitate to look at the annotated version to see all the small galaxies on this frame.\r\n\r\nNGC1532 is an edge-on barred spiral galaxy located approximately 50 million light-years from the Solar System in the constellation Eridanus. The galaxy was discovered by James Dunlop on 29 October 1826.\r\nOne supernova, SN 1981A, has been recorded in the galaxy. \r\n\r\n\r\nLight 14 subs@600s -20°C, gain high\r\nRed 10 subs@120s -20°C gain high\r\nBlue 10 subs@120s -20°C gain high\r\nGreen 10 subs@120s -20°C gain high",
+    "h": 3053,
+    "hash": "qw9q0f",
+    "id": 442054,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "https://www.sadr.fr/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "273.195",
+    "pixscale": "0.696",
+    "published": "2019-12-06T08:22:29.336592",
+    "ra": "63.029",
+    "radius": "0.505",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/442054/",
+    "revisions": [
+        "/api/v1/imagerevision/202523/",
+        "/api/v1/imagerevision/202529/",
+        "/api/v1/imagerevision/208669/"
+    ],
+    "subjects": [
+        "IC 2040",
+        "IC 2041",
+        "IC2040",
+        "IC2041",
+        "NGC 1531",
+        "NGC 1532",
+        "NGC1531",
+        "NGC1532"
+    ],
+    "title": "NGC1532 in Eridanus -- with Sadr Chili",
+    "updated": "2021-03-17T06:09:10.478230",
+    "uploaded": "2019-12-05T18:13:30.340228",
+    "url_duckduckgo": "https://www.astrobin.com/qw9q0f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qw9q0f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qw9q0f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qw9q0f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qw9q0f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qw9q0f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qw9q0f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/77e3fbfe-0d65-482f-9618-eb2e19b456c0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/77e3fbfe-0d65-482f-9618-eb2e19b456c0-1582287466.jpg",
+    "url_thumb": "https://www.astrobin.com/qw9q0f/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 450,
+    "w": 4243
+}

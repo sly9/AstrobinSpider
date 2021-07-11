@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 21,
+    "data_source": "UNSET",
+    "dec": "8.751",
+    "description": "I elaborated this action based on <a href=\"https://www.astrobin.com/340917/\">Exaxe</a>'s idea. First I tried to do with H-alpha but the variation was not significant. Then I tried to do with Red filter but there was too much noise because the short exposures (30 seconds). Finally, I added Green and the noise slowed a bit. Of the 7 images available on different dates, only 3 had quality to do the animation. As the nebula increases its brightness, we can see it expanding outwards, namely at the bottom. At first I thought it was noise from one of the images but then I concluded that this brightness is only noticeable in exposures of 90 sec (see halpha version with some nebulosity).\r\n\r\nAbout the Nebula, what causes Hubble's Variable Nebula to vary? The unusual nebula featured here changes its appearance noticeably in just a few weeks. Hubble's Variable Nebula is a reflection nebula made of gas and fine dust fanning out from the star R Monocerotis. The faint nebula is about one light-year across and lies about 2500 light-years away towards the constellation of the Unicorn (Monocerotis). The leading variability explanation for Hubble's Variable Nebula holds that dense knots of opaque dust pass close to R Mon and cast moving shadows onto the reflecting dust seen in the rest of the nebula.",
+    "h": 1520,
+    "hash": null,
+    "id": 341284,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 219,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.992",
+    "pixscale": "0.304",
+    "published": "2018-04-11T16:45:01.870837",
+    "ra": "99.791",
+    "radius": "0.102",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341284/",
+    "revisions": [
+        "/api/v1/imagerevision/142207/"
+    ],
+    "subjects": [
+        "Hubble's variable neb",
+        "NGC 2261",
+        "NGC2261"
+    ],
+    "title": "NGC 2261, Hubble's Variable Nebula (animated GIF)",
+    "updated": "2021-03-17T15:55:08.333045",
+    "uploaded": "2018-04-11T17:10:29.608263",
+    "url_duckduckgo": "https://www.astrobin.com/341284/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341284/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341284/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341284/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341284/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341284/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341284/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21170/2018/706edf02-549c-4386-8105-75a62ddd5517.gif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21170/2018/706edf02-549c-4386-8105-75a62ddd5517-1582570854.gif",
+    "url_thumb": "https://www.astrobin.com/341284/0/rawthumb/thumb/",
+    "user": "RRBBarbosa",
+    "views": 951,
+    "w": 1868
+}

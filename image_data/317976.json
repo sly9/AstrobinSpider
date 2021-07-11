@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "43.796",
+    "description": "Ha: 28 x 300 s\r\nOIII: 34 x 300 s\r\nTotal 5.17 hours",
+    "h": 2856,
+    "hash": null,
+    "id": 317976,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "TMB 92ss TMB"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805115/"
+    ],
+    "orientation": "2.985",
+    "pixscale": "2.486",
+    "published": "2017-10-22T11:23:33.475470",
+    "ra": "314.778",
+    "radius": "1.237",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/317976/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula"
+    ],
+    "title": "NGC7000 North America Nebula",
+    "updated": "2021-03-17T19:27:15.315393",
+    "uploaded": "2017-10-22T12:18:30.763825",
+    "url_duckduckgo": "https://www.astrobin.com/317976/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/317976/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/317976/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/317976/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/317976/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/317976/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/317976/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16538/2017/e32486d9-be06-4bf6-a7e5-a6b679159548.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16538/2017/e32486d9-be06-4bf6-a7e5-a6b679159548-1582544855.jpg",
+    "url_thumb": "https://www.astrobin.com/317976/0/rawthumb/thumb/",
+    "user": "ElieKh",
+    "views": 232,
+    "w": 2160
+}

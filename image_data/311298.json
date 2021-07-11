@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "-25.964",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 4908,
+    "hash": null,
+    "id": 311298,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805230/"
+    ],
+    "orientation": "90.166",
+    "pixscale": "1.047",
+    "published": "2017-09-06T22:53:38.805511",
+    "ra": "245.482",
+    "radius": "1.186",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/311298/",
+    "revisions": [
+        "/api/v1/imagerevision/124619/"
+    ],
+    "subjects": [
+        "M 4",
+        "NGC 6121",
+        "The star Al Niyat (σSco)"
+    ],
+    "title": "Sharpless 2-9 and Messier 4",
+    "updated": "2021-03-17T19:54:41.052593",
+    "uploaded": "2017-09-06T23:39:12.085370",
+    "url_duckduckgo": "https://www.astrobin.com/311298/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311298/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311298/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311298/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311298/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311298/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311298/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11158/2017/ed379863-b174-4a4c-8be5-02cc00d24dd4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11158/2017/ed379863-b174-4a4c-8be5-02cc00d24dd4-1582524205.jpg",
+    "url_thumb": "https://www.astrobin.com/311298/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 275,
+    "w": 6518
+}

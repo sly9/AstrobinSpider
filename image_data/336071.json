@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "-47.473",
+    "description": "Hi,\r\n\r\nJust adding a few words after being awarded IOTD : thank you for liking this image !\r\nI put a lot of efforts to learn and fix issues from my first images and I am so happy that astrobin community noticed that.\r\n\r\nNo kind of sharpening, deconvolution or any star shaping tool was used.\r\nOnly linear/non linear stretching and color calibration/saturation.\r\nStandard preprocessing (biais, darks, flats)\r\n\r\nThank you all for your support and feedback.",
+    "h": 2250,
+    "hash": null,
+    "id": 336071,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 171,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806424/"
+    ],
+    "orientation": "1.554",
+    "pixscale": "1.706",
+    "published": "2018-03-07T10:41:44.216670",
+    "ra": "201.708",
+    "radius": "0.889",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336071/",
+    "revisions": [
+        "/api/v1/imagerevision/144036/"
+    ],
+    "subjects": [
+        "NGC 5139",
+        "NGC5139",
+        "omega Cen"
+    ],
+    "title": "NGC 5139 - Omega centauri",
+    "updated": "2021-03-17T16:19:49.115428",
+    "uploaded": "2018-03-03T20:24:52.908367",
+    "url_duckduckgo": "https://www.astrobin.com/336071/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336071/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336071/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336071/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336071/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336071/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336071/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/fef1b9cd-fd99-413d-953f-6cdc4caa9850.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fef1b9cd-fd99-413d-953f-6cdc4caa9850-1520419268.jpg",
+    "url_thumb": "https://www.astrobin.com/336071/0/rawthumb/thumb/",
+    "user": "yeb",
+    "views": 900,
+    "w": 3000
+}

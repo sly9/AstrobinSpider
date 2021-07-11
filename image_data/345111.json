@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "21.665",
+    "description": "I found again an unknown object (it should be an Asteroid).\r\nI had no success with identification. \r\nThe asteroid trace is 80 minutes (from about 21h30  to 23h) on 3 Mai 2018\r\nTo seen on version B\r\n\r\nEdit : Asteroid identified : (138847) 2000 VE62 Magnitude : 15,3",
+    "h": 1195,
+    "hash": null,
+    "id": 345111,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BD 150/750 Newton f5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "2.467",
+    "pixscale": "1.055",
+    "published": "2018-05-04T13:48:29.775932",
+    "ra": "194.180",
+    "radius": "0.423",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345111/",
+    "revisions": [
+        "/api/v1/imagerevision/144218/",
+        "/api/v1/imagerevision/144229/",
+        "/api/v1/imagerevision/144280/",
+        "/api/v1/imagerevision/150403/"
+    ],
+    "subjects": [
+        "Black-eye galaxy",
+        "M 64",
+        "NGC 4826"
+    ],
+    "title": "M64 - and Asteroid (138847) 2000 VE62",
+    "updated": "2021-04-04T00:00:03.980170",
+    "uploaded": "2018-05-04T14:41:28.799996",
+    "url_duckduckgo": "https://www.astrobin.com/345111/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345111/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345111/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345111/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345111/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345111/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345111/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2018/aabc563b-fab5-4e59-b4e4-488fc2fd8f9c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/aabc563b-fab5-4e59-b4e4-488fc2fd8f9c-1525441526.jpg",
+    "url_thumb": "https://www.astrobin.com/345111/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 392,
+    "w": 1824
+}

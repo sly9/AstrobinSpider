@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-2.444",
+    "description": "winter image of 2018 and 2019\r\n12x300s R, 10x300s G, and 15x300s B\r\n121 x 300s Ha\r\nObject low in our northern sky (56 degree north)",
+    "h": 2661,
+    "hash": null,
+    "id": 403514,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG CCD QSI 660"
+    ],
+    "imaging_telescopes": [
+        "Newtonian 12\" f/4, TS 2½\" Wynne corrector OrionOpticsUK ultra mirror,"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803205/"
+    ],
+    "orientation": "101.659",
+    "pixscale": "0.841",
+    "published": "2019-04-30T17:33:19.100657",
+    "ra": "85.249",
+    "radius": "0.397",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/403514/",
+    "revisions": [],
+    "subjects": [
+        "Horsehead nebula",
+        "IC 434",
+        "NGC 2023"
+    ],
+    "title": "horsehead",
+    "updated": "2021-03-17T11:08:25.247743",
+    "uploaded": "2019-04-30T18:33:19.247448",
+    "url_duckduckgo": "https://www.astrobin.com/403514/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403514/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403514/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403514/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403514/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403514/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403514/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3665d277-81ae-40d8-9b34-4eca07af5270.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3665d277-81ae-40d8-9b34-4eca07af5270-1556649378.jpg",
+    "url_thumb": "https://www.astrobin.com/403514/0/rawthumb/thumb/",
+    "user": "morten",
+    "views": 232,
+    "w": 2113
+}

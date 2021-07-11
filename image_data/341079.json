@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "7.039",
+    "description": "SharpCap Live stacking",
+    "h": 3520,
+    "hash": null,
+    "id": 341079,
+    "imaging_cameras": [
+        "ASI ZWO 1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 14HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 4,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802643/"
+    ],
+    "orientation": "97.442",
+    "pixscale": "0.300",
+    "published": "2018-04-09T22:39:39.879131",
+    "ra": "137.580",
+    "radius": "0.243",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341079/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2775",
+        "NGC 2777"
+    ],
+    "title": "NGC 2775",
+    "updated": "2021-03-17T15:55:59.717536",
+    "uploaded": "2018-04-09T23:39:42.572741",
+    "url_duckduckgo": "https://www.astrobin.com/341079/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341079/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341079/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341079/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341079/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341079/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341079/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10834/2018/20d125eb-06c9-4c17-a573-bf2008079c90.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10834/2018/20d125eb-06c9-4c17-a573-bf2008079c90-1582527707.jpg",
+    "url_thumb": "https://www.astrobin.com/341079/0/rawthumb/thumb/",
+    "user": "robinandcurtis",
+    "views": 151,
+    "w": 4656
+}

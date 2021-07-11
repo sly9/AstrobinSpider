@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 1,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "18.184",
+    "description": "L = 47x 600s \r\nR = 28x 600s\r\nG = 27x 600s\r\nB = 37x 600s\r\n\r\nThe main challenge to processing this image as fully as possible is dealing with 5 particularly ultra bright and large stars, which seem to be shining through the IFN, without distorting other aspects of the image.  As is often the case in astrophoto processing, we're seeking optimization of as many elements as possible within a gestalt, which is a completed field of view.  It's a balance: optimizing detail, sharpness, noise reduction, saturation and hue, depth and contrast, brightness and so on,  while intersecting  on an overall optimization of the field of view and its interesting contents - stars, nebulae, galaxies and so on.  But not all stars are equal  :-) Taming the big ones in this picture was a challenge for me and the main difficulty of the contents of this field of view.\r\n\r\nManaging the visual representation of objects at different scales within the same field of view is a recurring theme of difficulty and of association with astronomical object categories (galaxies and their bright cores, nebulae details at all scales, stars near and far/bright and dim, large scale dim structures along with oversaturated small to medium stars, etc.).  That said, that's why I did not crop the image to exclude the troubling stars - that would not be accepting the challenge so much as cutting it out, but there was no way to do that in this image, particularly for the brightest big red star, without chopping out a decent chunk of interesting IFN.   I did consider it. I tried various things with this image data, which is from November 11 - 22, 2017 at Deep Sky West Remote Observatory in New Mexico.  When I hit a wall with processing an image I will often put it away for days or weeks and focus on others until I hit some other wall, then come back around for another try with a new perspective or new technique to try.  Sometimes it works out, sometimes I put it away again, not yet ready or knowing how to solve the problems presented by the image contents in a satisfying way.",
+    "h": 4043,
+    "hash": null,
+    "id": 341890,
+    "imaging_cameras": [
+        "SBIG STX KAF-16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808700/"
+    ],
+    "orientation": "1.334",
+    "pixscale": "1.640",
+    "published": "2018-04-16T01:15:42.626696",
+    "ra": "347.260",
+    "radius": "1.303",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/341890/",
+    "revisions": [
+        "/api/v1/imagerevision/142525/",
+        "/api/v1/imagerevision/142538/",
+        "/api/v1/imagerevision/142542/"
+    ],
+    "subjects": [
+        "NGC 7497"
+    ],
+    "title": "MBM 54  - Integrated Flux Nebulae and NGC 7497 in Perseus",
+    "updated": "2021-07-08T14:08:19.374445",
+    "uploaded": "2018-04-16T00:50:56.084344",
+    "url_duckduckgo": "https://www.astrobin.com/341890/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341890/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341890/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341890/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341890/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341890/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341890/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2018/7bea3b81-9e5d-4b7e-9b4e-b442bc9ee34e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2018/7bea3b81-9e5d-4b7e-9b4e-b442bc9ee34e-1582568981.png",
+    "url_thumb": "https://www.astrobin.com/341890/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 330,
+    "w": 4044
+}

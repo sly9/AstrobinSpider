@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 11,
+    "data_source": "TRAVELLER",
+    "dec": "25.574",
+    "description": "Combining the 3,8µm pixels of ASI1600MMC with my Lacerta Photonewton's 1000mm focal length resultes in a pixel scale of 0,78arcsec/pixel - a healthy oversampling if seeing has mercy. The 16MP chip covers around 40arcmin on the sky, and even tiny NGC4712 (2arcmin long, and smaller axis only the size of Jupiter!) is resolved into wealth of detail.  NGC4725 is 11x7arcmin, and the galaxy with the huge tideal streamers is NGC4747 or No.159 in the catalog of Halton Arp.\r\n\r\nI have added 100% crops of NGC4725 and 4747, check out for details!\r\n\r\nASI1600MMC here works at unity gain, a LRGB of 143x46x32x32 subs of 180sec each.\r\n\r\nI did a search in Aladin/VizieR on a small area north of 4725 - the faintest stars are about 23mag\r\n\r\nhttp://aladin.u-strasbg.fr/java/nph-aladin.pl?from=VizieR&script=get%20Aladin%2012%2050%2040.523%20%2B25%2038%2047.84%2010arcmin%3Bsync%3Bget%20VizieR%28V/139%29",
+    "h": 3485,
+    "hash": null,
+    "id": 292352,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 278,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "358.600",
+    "pixscale": "0.783",
+    "published": "2017-04-18T22:24:49.131721",
+    "ra": "192.743",
+    "radius": "0.628",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292352/",
+    "revisions": [
+        "/api/v1/imagerevision/114559/",
+        "/api/v1/imagerevision/114560/",
+        "/api/v1/imagerevision/114561/"
+    ],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725",
+        "NGC 4747"
+    ],
+    "title": "NGC4725 and neighbours",
+    "updated": "2021-04-07T20:22:00.171522",
+    "uploaded": "2017-04-18T23:24:50.366661",
+    "url_duckduckgo": "https://www.astrobin.com/292352/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292352/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292352/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292352/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292352/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292352/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292352/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/724961f9-9578-4dae-99ed-a9fb30c3288e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/724961f9-9578-4dae-99ed-a9fb30c3288e-1582612090.png",
+    "url_thumb": "https://www.astrobin.com/292352/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 2989,
+    "w": 4605
+}

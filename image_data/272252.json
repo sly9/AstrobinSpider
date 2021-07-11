@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "61.428",
+    "description": "Trying my 10\" Meade SCT.\r\n\r\nShot HA binned 2x2 but upsampled the data and blended as Lum with SHO data taken with my FSQ last year.",
+    "h": 1459,
+    "hash": null,
+    "id": 272252,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 10\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 17,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798308/"
+    ],
+    "orientation": "-179.503",
+    "pixscale": "0.486",
+    "published": "2016-11-15T03:55:06.555986",
+    "ra": "38.532",
+    "radius": "0.235",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/272252/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Melotte 15",
+    "updated": "2021-03-17T22:29:28.196963",
+    "uploaded": "2016-11-15T03:55:07.150514",
+    "url_duckduckgo": "https://www.astrobin.com/272252/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/272252/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/272252/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/272252/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/272252/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/272252/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/272252/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/792d1b90-1840-4f9f-b14f-3e1befbe81be.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/792d1b90-1840-4f9f-b14f-3e1befbe81be-1479442621.jpg",
+    "url_thumb": "https://www.astrobin.com/272252/0/rawthumb/thumb/",
+    "user": "Wembley2000",
+    "views": 101,
+    "w": 1824
+}

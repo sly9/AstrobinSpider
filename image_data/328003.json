@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "This image was created as a two-part mosaic using ~300 RAW frames per side. These images were stacked and median-combined in Photoshop, then transferred to PixInsight for multiple iterations of Unsharp Mask as well as Color Calibration and Noise Reduction. Photoshop finished up the saturation increase and framing.\r\n\r\nI am glad to see Photoshop picking up the slack on the stacking. I theorize that the closer up view, which cause half the Moon to be off frame, made this process easier, as previous attempts to stack in a similar manner using a reduced view (ie Full Moon in view) had failed",
+    "h": 1026,
+    "hash": null,
+    "id": 328003,
+    "imaging_cameras": [
+        "Canon T3i, Baader Modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Nexstar 8SE SCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805845/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-01-02T02:10:46.993603",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328003/",
+    "revisions": [],
+    "subjects": [
+        "Earth's Moon"
+    ],
+    "title": "Moonrise",
+    "updated": "2021-03-17T18:45:39.646065",
+    "uploaded": "2018-01-02T02:10:47.813047",
+    "url_duckduckgo": "https://www.astrobin.com/328003/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328003/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328003/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328003/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328003/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328003/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328003/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/328003/0/rawthumb/thumb/",
+    "user": "brent1123",
+    "views": 89,
+    "w": 1824
+}

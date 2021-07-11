@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "47.603",
+    "description": "L = 20x600s\r\nRGB = 30x480s bin 2x2\r\nHalpha = 13x1800s+19x1200s+9x900s",
+    "h": 2032,
+    "hash": null,
+    "id": 361634,
+    "imaging_cameras": [
+        "Atik 4000M"
+    ],
+    "imaging_telescopes": [
+        "Tecnosky Apo Triplet 115/800"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803647/"
+    ],
+    "orientation": "359.032",
+    "pixscale": "1.901",
+    "published": "2018-08-25T18:36:44.128062",
+    "ra": "304.343",
+    "radius": "0.759",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/361634/",
+    "revisions": [
+        "/api/v1/imagerevision/154497/"
+    ],
+    "subjects": [
+        "The star 32Cyg"
+    ],
+    "title": "LBN 331",
+    "updated": "2021-04-07T13:36:11.431077",
+    "uploaded": "2018-08-16T07:26:07.201514",
+    "url_duckduckgo": "https://www.astrobin.com/361634/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/361634/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/361634/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/361634/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/361634/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/361634/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/361634/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12704/2018/816e3425-8f1f-427c-901b-8f57496d3979.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12704/2018/816e3425-8f1f-427c-901b-8f57496d3979-1582449576.jpg",
+    "url_thumb": "https://www.astrobin.com/361634/0/rawthumb/thumb/",
+    "user": "Jerry@Caselle",
+    "views": 212,
+    "w": 2032
+}

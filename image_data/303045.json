@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-43.008",
+    "description": "",
+    "h": 3518,
+    "hash": null,
+    "id": 303045,
+    "imaging_cameras": [
+        "Moravian Instruments G2-4000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807290/"
+    ],
+    "orientation": "179.142",
+    "pixscale": "0.759",
+    "published": "2017-07-12T04:14:14.128512",
+    "ra": "201.363",
+    "radius": "0.526",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303045/",
+    "revisions": [],
+    "subjects": [
+        "Centaurus A",
+        "NGC 5128"
+    ],
+    "title": "Centaurus A",
+    "updated": "2021-03-17T20:27:43.037568",
+    "uploaded": "2017-07-12T05:14:15.749924",
+    "url_duckduckgo": "https://www.astrobin.com/303045/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303045/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303045/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303045/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303045/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303045/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303045/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23229/2020/c1af45a6-629b-4b11-9f8b-fe4ba655ca12.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23229/2020/c1af45a6-629b-4b11-9f8b-fe4ba655ca12-1590216889.jpg",
+    "url_thumb": "https://www.astrobin.com/303045/0/rawthumb/thumb/",
+    "user": "rogerg",
+    "views": 327,
+    "w": 3543
+}

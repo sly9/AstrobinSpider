@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "-68.076",
+    "description": "3x3 mosaic in H-alpha, acquired during the first couple of weeks of 2018.",
+    "h": 10755,
+    "hash": null,
+    "id": 373457,
+    "imaging_cameras": [
+        "Apogee U16M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "84.653",
+    "pixscale": "1.480",
+    "published": "2018-10-23T19:07:44.801706",
+    "ra": "81.001",
+    "radius": "3.110",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/373457/",
+    "revisions": [
+        "/api/v1/imagerevision/160601/"
+    ],
+    "subjects": [
+        "NGC 1966",
+        "NGC 2048",
+        "NGC 2070",
+        "NGC 2077",
+        "Tarantula nebula",
+        "The star θDor"
+    ],
+    "title": "Corner of the LMC in HiRes",
+    "updated": "2021-03-17T13:28:26.851860",
+    "uploaded": "2018-10-23T20:07:45.835138",
+    "url_duckduckgo": "https://www.astrobin.com/373457/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/373457/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/373457/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/373457/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/373457/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/373457/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/373457/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2018/eb1200fe-fe2c-4a0f-95bc-9539874dcbec.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2018/eb1200fe-fe2c-4a0f-95bc-9539874dcbec-1582509902.jpg",
+    "url_thumb": "https://www.astrobin.com/373457/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 744,
+    "w": 10715
+}

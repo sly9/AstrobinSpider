@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "28.287",
+    "description": "L = 25 x 900\r\n\r\nR = 16 x 900\r\n\r\nG = 16 x 900\r\n\r\nB = 16 x 900\r\n",
+    "h": 2428,
+    "hash": null,
+    "id": 278326,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDEDX IIII Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806015/"
+    ],
+    "orientation": "0.817",
+    "pixscale": "2.100",
+    "published": "2017-01-01T16:42:44.889883",
+    "ra": "64.068",
+    "radius": "1.180",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/278326/",
+    "revisions": [],
+    "subjects": [
+        "IC 359"
+    ],
+    "title": "LBN 782",
+    "updated": "2021-03-17T22:07:00.520726",
+    "uploaded": "2017-01-01T16:42:45.631729",
+    "url_duckduckgo": "https://www.astrobin.com/278326/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/278326/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/278326/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/278326/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/278326/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/278326/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/278326/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18949/2017/64ac5436-a792-40ff-9188-017e6e2932fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18949/2017/64ac5436-a792-40ff-9188-017e6e2932fd-1582459734.jpg",
+    "url_thumb": "https://www.astrobin.com/278326/0/rawthumb/thumb/",
+    "user": "Kwas",
+    "views": 124,
+    "w": 3238
+}

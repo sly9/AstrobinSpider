@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 84,
+    "comments": 79,
+    "data_source": "BACKYARD",
+    "dec": "80.188",
+    "description": "This is an L-RGB image.\r\nThere are faint H-alpha areas in the object, but too faint for a color image. \r\nH-alpha was added to the red channel in this image to increase the contrast.\r\n\r\nThe photo contains 16 nights of exposure.",
+    "h": 2957,
+    "hash": null,
+    "id": 413643,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 530,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "268.464",
+    "pixscale": "1.446",
+    "published": "2019-07-05T20:19:50.287076",
+    "ra": "328.704",
+    "radius": "0.999",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/413643/",
+    "revisions": [
+        "/api/v1/imagerevision/289848/"
+    ],
+    "subjects": [],
+    "title": "LBN 569 - The valleys and cliffs of Cepheus",
+    "updated": "2021-06-22T12:16:40.013476",
+    "uploaded": "2019-07-05T21:19:50.481854",
+    "url_duckduckgo": "https://www.astrobin.com/413643/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/413643/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/413643/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/413643/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/413643/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/413643/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/413643/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20996/2020/e727867d-5265-4a8a-a3a7-7f6edbe16443.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20996/2020/e727867d-5265-4a8a-a3a7-7f6edbe16443-1598878221.jpg",
+    "url_thumb": "https://www.astrobin.com/413643/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 4136,
+    "w": 4000
+}

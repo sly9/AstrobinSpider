@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "60.703",
+    "description": "HST palette presentation of deep study of central part of Soul Nebula.\r\nHa:24x1200 secs bin 1, OIII: 24x1200 secs bin 2.SII: 24x1200 secs bin 2",
+    "h": 1574,
+    "hash": "l1vdig",
+    "id": 443143,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FS 128"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/"
+    ],
+    "orientation": "4.852",
+    "pixscale": "1.155",
+    "published": "2019-12-12T20:59:37.160169",
+    "ra": "44.272",
+    "radius": "0.408",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/443143/",
+    "revisions": [
+        "/api/v1/imagerevision/203334/"
+    ],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "Deep down in Soul Nebula in HST palette",
+    "updated": "2021-03-17T06:04:01.555540",
+    "uploaded": "2019-12-12T20:59:37.357424",
+    "url_duckduckgo": "https://www.astrobin.com/l1vdig/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l1vdig/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l1vdig/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l1vdig/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l1vdig/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l1vdig/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l1vdig/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7649/2019/dbbff259-6009-4e8c-9488-dfa6b3a41016.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7649/2019/dbbff259-6009-4e8c-9488-dfa6b3a41016-1582286144.png",
+    "url_thumb": "https://www.astrobin.com/l1vdig/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 157,
+    "w": 2000
+}

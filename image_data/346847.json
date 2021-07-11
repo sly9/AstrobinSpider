@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 32,
+    "data_source": "UNKNOWN",
+    "dec": null,
+    "description": "On May 7th, I was able to catch a second ISS transit of the sun.  This time, having learned a few things, I tried to be a little more prepared with my setup and capture technique.   This pass was captured with the ES AR152 and ASI174MM-Cool at prime focus through a green filter.   The system gave a focal length of just under 1000mm.    At this scale the station was only about 30-35 pixels across in my capture.  In fact, CalSky showed the station to be around 44 arcseconds across and 626km (388 miles) from me.   It is mind boggling to consider what we can do today!\r\n\r\nUnfortunately I could not frame the whole sun in this setup and the station crossed from top to bottom of my frame, so I only have shots of it over the surface and not passing off the edge.  The excellent attribute of the ASI174 is that I was shooting at 128fps, and was able to land 117 frames with the ISS on the chip during the transit that lasted 1.09 seconds.  Those frames are sequenced here along with a sharpended stack of the ISS itself which freezes for a couple seconds.    You can see the blank areas which were off the chip.   By centering the ISS, you can see the sun's surface detail coast by.  The final image is resampled to 200% so the viewer doesn't have to squint.  \r\n\r\nI'm uploading a false colorized version and the original mono capture here.   The mono seems to have more apparent detail but is perhaps not as natural looking.    \r\n\r\nRevision E is the full framed capture of the event.  It is shown at 50% resolution and played back at 20% the speed of real-time (1 second played back in 5 seconds). I had hopes to combine these sequences into one animation production, but I don't think anyone has the patience for 100mb+ GIFs.   \r\n\r\nAs always, enjoy something a little bit different.   My only regret is that they undocked the Dragon capsule less than 24 hours earlier than my capture.   Now that would have been cool!!",
+    "h": 592,
+    "hash": null,
+    "id": 346847,
+    "imaging_cameras": [
+        "ZWO ASI174MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific AR152"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 208,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-05-14T14:19:55.065437",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/346847/",
+    "revisions": [
+        "/api/v1/imagerevision/145284/",
+        "/api/v1/imagerevision/145408/"
+    ],
+    "subjects": [],
+    "title": "International Space Station - In Silhouette",
+    "updated": "2021-04-27T12:52:47.583400",
+    "uploaded": "2018-05-14T14:46:03.003059",
+    "url_duckduckgo": "https://www.astrobin.com/346847/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/346847/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/346847/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/346847/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/346847/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/346847/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/346847/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/346847/0/rawthumb/thumb/",
+    "user": "Thirteen",
+    "views": 1099,
+    "w": 592
+}

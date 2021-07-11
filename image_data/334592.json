@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "53.380",
+    "description": "M109 LRGB captured over two nights.",
+    "h": 1342,
+    "hash": null,
+    "id": 334592,
+    "imaging_cameras": [
+        "ASI ZWO ASI 1600 pro mono"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10 inch Truss iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806952/"
+    ],
+    "orientation": "90.281",
+    "pixscale": "0.938",
+    "published": "2018-02-21T05:24:57.581807",
+    "ra": "179.405",
+    "radius": "0.364",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334592/",
+    "revisions": [],
+    "subjects": [
+        "M 109",
+        "NGC 3992"
+    ],
+    "title": "m109 LRGB",
+    "updated": "2021-03-17T16:26:35.941904",
+    "uploaded": "2018-02-21T05:24:59.223775",
+    "url_duckduckgo": "https://www.astrobin.com/334592/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334592/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334592/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334592/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334592/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334592/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334592/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9ae36fbc-524a-49ae-8609-a670eb2e934b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9ae36fbc-524a-49ae-8609-a670eb2e934b-1519190934.jpg",
+    "url_thumb": "https://www.astrobin.com/334592/0/rawthumb/thumb/",
+    "user": "st_armen5",
+    "views": 85,
+    "w": 1824
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "13.267",
+    "description": "Original: no luminance noise reduction\r\nRev B: with noise reduction an extra curves adjustment",
+    "h": 3304,
+    "hash": "uhn4dh",
+    "id": 469145,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810837/"
+    ],
+    "orientation": "91.160",
+    "pixscale": "0.977",
+    "published": "2020-03-26T23:35:28.377178",
+    "ra": "169.967",
+    "radius": "0.636",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/469145/",
+    "revisions": [
+        "/api/v1/imagerevision/221717/"
+    ],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet - M65 M66 NGC 3628",
+    "updated": "2021-03-17T21:26:47.224382",
+    "uploaded": "2020-03-26T23:19:23.265741",
+    "url_duckduckgo": "https://www.astrobin.com/uhn4dh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uhn4dh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uhn4dh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uhn4dh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uhn4dh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uhn4dh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uhn4dh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/2bd9e759-1f9b-4ecd-abe0-dd807b06d4de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/2bd9e759-1f9b-4ecd-abe0-dd807b06d4de-1585265232.jpg",
+    "url_thumb": "https://www.astrobin.com/uhn4dh/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 616,
+    "w": 3328
+}

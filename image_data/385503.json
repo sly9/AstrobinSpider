@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "69.680",
+    "description": "A close up view of the starburst galaxy M82. This reprocessed LHaRGB image is based on the Dec. 2017 - Jan. 2018 wider field data set acquired with Stellarvue SVA130T APO triplet @f7 and Atik383L+ camera on the Orion HDX-110 EQ-G mount. The exposure information is summarized below:\r\n\r\nHa: 23x1200s\r\nL: 51x600s\r\nR: 37x600s\r\nG: 19x600s\r\nB: 30x600s\r\nTotal exposure: 30.5 hrs\r\n\r\nThe original wider field image including the Bode's Galaxy, M81 can be found at: https://www.astrobin.com/336839/D",
+    "h": 1282,
+    "hash": null,
+    "id": 385503,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA130T-FT3"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "269.857",
+    "pixscale": "1.226",
+    "published": "2019-01-12T06:01:28.146040",
+    "ra": "148.960",
+    "radius": "0.275",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/385503/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034"
+    ],
+    "title": "M82",
+    "updated": "2021-06-23T17:23:28.458220",
+    "uploaded": "2019-01-12T05:48:04.366338",
+    "url_duckduckgo": "https://www.astrobin.com/385503/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385503/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385503/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385503/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385503/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385503/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385503/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/2ee9e7f3-046f-4024-9c36-bf2280b8c322.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/2ee9e7f3-046f-4024-9c36-bf2280b8c322-1582632468.jpg",
+    "url_thumb": "https://www.astrobin.com/385503/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 636,
+    "w": 984
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "44.355",
+    "description": "",
+    "h": 4096,
+    "hash": null,
+    "id": 311657,
+    "imaging_cameras": [
+        "FLI Proline PL16803"
+    ],
+    "imaging_telescopes": [
+        "Starizona Hyperion 16\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 20,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807724/"
+    ],
+    "orientation": "359.233",
+    "pixscale": "0.630",
+    "published": "2017-09-09T21:59:59.743312",
+    "ra": "312.903",
+    "radius": "0.507",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/311657/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Pelican Nebula (IC 5070)",
+    "updated": "2021-03-17T19:53:12.670374",
+    "uploaded": "2017-09-09T22:49:55.032358",
+    "url_duckduckgo": "https://www.astrobin.com/311657/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311657/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311657/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311657/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311657/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311657/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311657/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24336/2020/68400dcd-f187-4343-bb3b-6c5158577c77.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24336/2020/68400dcd-f187-4343-bb3b-6c5158577c77-1595518074.jpg",
+    "url_thumb": "https://www.astrobin.com/311657/0/rawthumb/thumb/",
+    "user": "aritomo",
+    "views": 88,
+    "w": 4096
+}

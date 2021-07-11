@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "42.025",
+    "description": "This is the first target acquired with the ZWO ASI071 camera and it did not disappoint.  Would have had many more exposures if it were not for our playing around with its gain\\offset settings.  Settled on HDR for 10 minute exposures.  Seems to do the best for our tastes.",
+    "h": 961,
+    "hash": null,
+    "id": 301131,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 14\" ACF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800625/"
+    ],
+    "orientation": "-101.577",
+    "pixscale": "1.342",
+    "published": "2017-06-27T03:38:00.025696",
+    "ra": "198.952",
+    "radius": "0.323",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301131/",
+    "revisions": [],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "Messier 63 (The Sunflower Galaxy)",
+    "updated": "2021-03-17T20:34:51.410779",
+    "uploaded": "2017-06-27T04:38:00.728525",
+    "url_duckduckgo": "https://www.astrobin.com/301131/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301131/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301131/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301131/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301131/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301131/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301131/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/3c2f7b03-c22e-44b2-a7cb-f87c5e6a7d02.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/3c2f7b03-c22e-44b2-a7cb-f87c5e6a7d02-1498535050.png",
+    "url_thumb": "https://www.astrobin.com/301131/0/rawthumb/thumb/",
+    "user": "wjmobservatory",
+    "views": 985,
+    "w": 1440
+}

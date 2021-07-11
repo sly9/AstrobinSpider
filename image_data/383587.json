@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "56.119",
+    "description": "Sharpless 132 is home to Wolf-Rayet star WR153ab.  These massive stars are nearing their transition to supernova or black hole.  In the OIII wavelength there appears to be a river of blue gasses running up through the nebula.  However, reading through as much as I can understand of an abstract on this (https://academic.oup.com/mnras/article/405/3/1976/967297), they note: \r\n\r\n\"New Hα and [O iii] images taken by Miller & Chu (1993) revealed an arc of 4 arcmin in size to the south of the WR star (at [l, b]=[102°46′, −0°43′]). They concluded that the filament probably indicates the position of an ionization front and considered it to be a ring nebula related to the star. Based on optical data, Esteban & Rosado (1995) found velocities in the range −41 to −59 km s−1 for the arc and derived an electron density of 290 ± 100 cm−3 from line ratios. The [O iii]/Hα ratio is consistent with values derived for ring nebulae, suggesting that WR 153ab is the main source of ionization (Esteban & Rosado 1995). These authors classify the arc as Rs type based on the morphology of this feature and on the absence of a clear evidence of expanding motions in the line profiles. This last point suggests that the massive progenitor of the WR star contributed in the shaping of the nebula (see Chu 1981).\"\r\n\r\nFascinating!  So this appears to be part of a ring nebula being pushed by the WR star.   Let me know if you read that differently.\r\n\r\nCapture Details:\r\n17.3 Hours total, Ha 11x20, OIII 18x20, SII 23x20\r\nPlanewave CDK14 F/7\r\nSBIG STX 16803\r\nParamount MEII\r\nAstrodon Filters Ha 5nm, OIII, SII 3nm\r\n\r\nProcessing:\r\nCCDStack for Calibration, Registration, RGB creation, Deconvolution.  100% Ha used for Luminance.  100% SII for Red, 13% Ha+43% OIII +43% SII for Green, 100% OIII for Blue\r\n\r\nPhotoshop for Post-procesing.  Dark lane enhancement using a high-pass filter.",
+    "h": 3062,
+    "hash": null,
+    "id": 383587,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "81.144",
+    "pixscale": "0.728",
+    "published": "2019-01-01T00:21:07.934212",
+    "ra": "334.861",
+    "radius": "0.498",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/383587/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-132"
+    ],
+    "title": "Wolf Rayet Star WR153ab and its Blue Ring in SH2-132",
+    "updated": "2021-03-17T12:39:50.606680",
+    "uploaded": "2019-01-01T00:21:08.170097",
+    "url_duckduckgo": "https://www.astrobin.com/383587/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/383587/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/383587/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/383587/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/383587/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/383587/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/383587/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1720fb07-d94e-4ba8-80a9-37dbeef56d5b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1720fb07-d94e-4ba8-80a9-37dbeef56d5b-1546302329.jpg",
+    "url_thumb": "https://www.astrobin.com/383587/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 711,
+    "w": 3867
+}

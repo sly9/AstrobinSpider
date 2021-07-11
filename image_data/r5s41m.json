@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "OWN_REMOTE",
+    "dec": "33.577",
+    "description": "While this is not as rare as some of the objects Gary Imm is imaging, I count only 25 NGC 925 images ever uploaded to Astrobin.  At 10 arc-minutes in size it's small but not truly tiny - about half the size of M110.   The galaxy covers about 450x700 of my pixels at .73\" image scale.\r\n\r\nI found a consistent gradient just below the galaxy which colored red initially.  Since the gradient was consistent across nights and filters, I suspect/suspected that it could be an Ha emission field.  But I could find no evidence of that in the few wider-field images I could find, so I removed it as a gradient.\r\n\r\nCalibration, registration and rejection in CCDStack.  HaRGB combine, color calibration, and ABE in Pixinsight.  Ha added to Luminance in Photoshop via a masked screen layer.  Sharpening via HighPass and Unsharp mask.  Noise reduction in Topaz de-noise 5.1.",
+    "h": 1174,
+    "hash": "r5s41m",
+    "id": 439600,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 147,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "168.572",
+    "pixscale": "0.728",
+    "published": "2019-11-20T22:04:01.680944",
+    "ra": "36.819",
+    "radius": "0.220",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/439600/",
+    "revisions": [
+        "/api/v1/imagerevision/200796/",
+        "/api/v1/imagerevision/200816/"
+    ],
+    "subjects": [
+        "NGC 925",
+        "NGC925"
+    ],
+    "title": "NGC 925 | The Seldom Seen Galaxy",
+    "updated": "2021-03-17T06:21:19.386848",
+    "uploaded": "2019-11-20T21:27:45.112621",
+    "url_duckduckgo": "https://www.astrobin.com/r5s41m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r5s41m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r5s41m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r5s41m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r5s41m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r5s41m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r5s41m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/68f2b3e8-424c-45d8-b1df-a1c1ebcd2e8f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/68f2b3e8-424c-45d8-b1df-a1c1ebcd2e8f-1584152121.jpg",
+    "url_thumb": "https://www.astrobin.com/r5s41m/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 415,
+    "w": 1831
+}

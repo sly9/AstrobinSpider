@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "58.815",
+    "description": "",
+    "h": 3600,
+    "hash": "uk5x12",
+    "id": 441840,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 167,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "37.451",
+    "pixscale": "1.103",
+    "published": "2019-12-04T15:04:39.513749",
+    "ra": "52.596",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/441840/",
+    "revisions": [],
+    "subjects": [
+        "VdB15"
+    ],
+    "title": "VDB 15",
+    "updated": "2021-03-17T06:10:12.438530",
+    "uploaded": "2019-12-04T15:04:39.790760",
+    "url_duckduckgo": "https://www.astrobin.com/uk5x12/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/uk5x12/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/uk5x12/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/uk5x12/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/uk5x12/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/uk5x12/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/uk5x12/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/a5d44892-2670-4a2b-a7e4-a4b9e5950a08.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/a5d44892-2670-4a2b-a7e4-a4b9e5950a08-1582287774.jpg",
+    "url_thumb": "https://www.astrobin.com/uk5x12/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 331,
+    "w": 4500
+}

@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.970",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 388450,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Astrosib 500"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "http://www.georges-chassaigne.fr",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802527/"
+    ],
+    "orientation": "177.013",
+    "pixscale": "1.341",
+    "published": "2019-02-04T17:08:04.752386",
+    "ra": "81.818",
+    "radius": "1.027",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/388450/",
+    "revisions": [
+        "/api/v1/imagerevision/169023/",
+        "/api/v1/imagerevision/169024/",
+        "/api/v1/imagerevision/169027/",
+        "/api/v1/imagerevision/169415/",
+        "/api/v1/imagerevision/169434/",
+        "/api/v1/imagerevision/169471/",
+        "/api/v1/imagerevision/169472/",
+        "/api/v1/imagerevision/169474/",
+        "/api/v1/imagerevision/169482/"
+    ],
+    "subjects": [],
+    "title": "SH2 224 SHO color",
+    "updated": "2021-03-17T12:18:04.931487",
+    "uploaded": "2019-01-30T07:52:34.768746",
+    "url_duckduckgo": "https://www.astrobin.com/388450/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388450/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388450/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388450/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388450/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388450/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388450/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7014/2019/43975a1f-a979-431e-be89-e584cae11d42.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/43975a1f-a979-431e-be89-e584cae11d42-1548835298.jpg",
+    "url_thumb": "https://www.astrobin.com/388450/0/rawthumb/thumb/",
+    "user": "chassaigne",
+    "views": 672,
+    "w": 1824
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.341",
+    "description": "RGBx97 were taken on the AG12+ASI1600MM at .70 asec/pix, LRGBx101 taken on TV127is+ASI183MM at .75 asec/pix. Using L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nImaged on nights of 2018-2-2, 2018-2-7, 2018-2-8.\r\n\r\nNGC 891 is a tenth magnitude unbarred spiral galaxy located in Andromeda. Also known as the Silver Sliver, it's one of the best examples of an edge-on galaxy in the sky although a challenging object for small scopes. Due to its attractiveness and scientific appeal, NGC 891 was selected on October 12, 2005 to be the first light image of the Large Binocular Telescope at Mount Graham International Observatory in Arizona. In 2012, it was again selected as first light image, this time for the Discovery Channel Telescope (DCT) Large Monolithic Imager at the Lowell Observatory in Happy Jack, Arizona.\r\n\r\nThe Silver Sliver was discovered by William Herschel on October 6, 1784 and is best seen from the Northern Hemisphere during October, November and December. Astronomers think our Milky Way galaxy would look remarkably similar, if viewed edge-on.\r\n(FreeStarCharts.com)",
+    "h": 1800,
+    "hash": null,
+    "id": 391173,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 159,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.490",
+    "pixscale": "0.701",
+    "published": "2019-02-16T13:57:41.984291",
+    "ra": "35.633",
+    "radius": "0.292",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/391173/",
+    "revisions": [],
+    "subjects": [
+        "NGC 891",
+        "NGC891",
+        "PGC2193819",
+        "PGC2194478",
+        "PGC2199276"
+    ],
+    "title": "NGC 891 - Silver Sliver - Unbarred Spiral Galaxy",
+    "updated": "2021-03-17T12:05:19.156246",
+    "uploaded": "2019-02-16T13:30:27.483678",
+    "url_duckduckgo": "https://www.astrobin.com/391173/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391173/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391173/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391173/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391173/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391173/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391173/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/2b4942db-f287-4eb9-a035-17d5e9a72eb3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/2b4942db-f287-4eb9-a035-17d5e9a72eb3-1582590869.jpg",
+    "url_thumb": "https://www.astrobin.com/391173/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 665,
+    "w": 2400
+}

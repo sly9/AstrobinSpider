@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "43.593",
+    "description": "Imaged over several nights between 31 August and 21 September 2017 at the Deep Sky West facility in NM.  Date given is the date of final capture.",
+    "h": 1386,
+    "hash": null,
+    "id": 313314,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "314.981",
+    "pixscale": "3.437",
+    "published": "2017-09-23T12:28:33.301565",
+    "ra": "304.080",
+    "radius": "1.131",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313314/",
+    "revisions": [
+        "/api/v1/imagerevision/125746/",
+        "/api/v1/imagerevision/129006/",
+        "/api/v1/imagerevision/129021/",
+        "/api/v1/imagerevision/142541/"
+    ],
+    "subjects": [],
+    "title": "Propeller Nebula in HST Palette",
+    "updated": "2021-03-17T19:46:22.824630",
+    "uploaded": "2017-09-23T13:28:34.349176",
+    "url_duckduckgo": "https://www.astrobin.com/313314/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313314/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313314/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313314/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313314/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313314/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313314/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2017/ccdf3084-29ed-4c28-a96d-490353eda4a6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2017/ccdf3084-29ed-4c28-a96d-490353eda4a6-1582606225.jpg",
+    "url_thumb": "https://www.astrobin.com/313314/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 192,
+    "w": 1920
+}

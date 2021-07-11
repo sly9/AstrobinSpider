@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 14,
+    "data_source": "UNSET",
+    "dec": "47.280",
+    "description": "",
+    "h": 1624,
+    "hash": null,
+    "id": 341257,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Synta BK P150750"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805180/"
+    ],
+    "orientation": "0.796",
+    "pixscale": "2.074",
+    "published": "2018-04-11T13:37:03.835007",
+    "ra": "184.373",
+    "radius": "0.786",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341257/",
+    "revisions": [
+        "/api/v1/imagerevision/142114/",
+        "/api/v1/imagerevision/142116/",
+        "/api/v1/imagerevision/142258/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "Messier 106 and friends",
+    "updated": "2021-03-17T15:55:14.462991",
+    "uploaded": "2018-04-11T14:37:05.861155",
+    "url_duckduckgo": "https://www.astrobin.com/341257/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341257/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341257/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341257/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341257/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341257/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341257/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16701/2018/55fccd1b-f10c-4e1e-928e-26d50c15d354.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16701/2018/55fccd1b-f10c-4e1e-928e-26d50c15d354-1582529690.png",
+    "url_thumb": "https://www.astrobin.com/341257/0/rawthumb/thumb/",
+    "user": "Rakshas",
+    "views": 1302,
+    "w": 2194
+}

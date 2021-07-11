@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "40.776",
+    "description": "",
+    "h": 2822,
+    "hash": null,
+    "id": 369606,
+    "imaging_cameras": [
+        "ZWO ASI294MC-PRO",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11 in RASA"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806966/"
+    ],
+    "orientation": "2.854",
+    "pixscale": "1.540",
+    "published": "2018-10-02T16:35:57.442684",
+    "ra": "338.011",
+    "radius": "1.072",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/369606/",
+    "revisions": [
+        "/api/v1/imagerevision/158053/"
+    ],
+    "subjects": [],
+    "title": "LBN 437 (Sh2-126)",
+    "updated": "2021-03-17T13:47:03.537703",
+    "uploaded": "2018-10-02T17:35:57.688719",
+    "url_duckduckgo": "https://www.astrobin.com/369606/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/369606/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/369606/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/369606/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/369606/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/369606/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/369606/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/6f5223f9-3b6f-42dd-bb6c-b8c3866cf783.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/6f5223f9-3b6f-42dd-bb6c-b8c3866cf783-1582598508.jpg",
+    "url_thumb": "https://www.astrobin.com/369606/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 545,
+    "w": 4144
+}

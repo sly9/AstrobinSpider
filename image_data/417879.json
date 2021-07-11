@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "31.488",
+    "description": "",
+    "h": 3425,
+    "hash": null,
+    "id": 417879,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 152mm Comet Hunter Maksutov-Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807159/"
+    ],
+    "orientation": "124.846",
+    "pixscale": "1.063",
+    "published": "2019-07-29T22:36:23.786882",
+    "ra": "312.127",
+    "radius": "0.842",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/417879/",
+    "revisions": [
+        "/api/v1/imagerevision/187235/"
+    ],
+    "subjects": [],
+    "title": "Pickering's Triangle in Bicolor",
+    "updated": "2021-03-17T09:59:41.066955",
+    "uploaded": "2019-07-29T23:36:23.950839",
+    "url_duckduckgo": "https://www.astrobin.com/417879/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417879/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417879/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417879/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417879/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417879/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417879/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9347/2019/8ac628d0-3123-4d1a-9856-85773fa4a738.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9347/2019/8ac628d0-3123-4d1a-9856-85773fa4a738-1582560051.jpg",
+    "url_thumb": "https://www.astrobin.com/417879/0/rawthumb/thumb/",
+    "user": "mesh83",
+    "views": 160,
+    "w": 4560
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "0.151",
+    "description": "",
+    "h": 1469,
+    "hash": null,
+    "id": 267949,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803696/"
+    ],
+    "orientation": "-15.191",
+    "pixscale": null,
+    "published": "2016-10-11T21:05:29.996024",
+    "ra": "86.758",
+    "radius": "0.847",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/267949/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M78",
+    "updated": "2021-03-17T22:44:42.488923",
+    "uploaded": "2016-10-11T22:05:29.996024",
+    "url_duckduckgo": "https://www.astrobin.com/267949/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/267949/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/267949/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/267949/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/267949/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/267949/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/267949/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/d7da3f6b-be21-4052-8fe4-95f1a7024e6c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d7da3f6b-be21-4052-8fe4-95f1a7024e6c.jpg",
+    "url_thumb": "https://www.astrobin.com/267949/0/rawthumb/thumb/",
+    "user": "dvalid",
+    "views": 860,
+    "w": 1824
+}

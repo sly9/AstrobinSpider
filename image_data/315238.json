@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 26,
+    "data_source": "UNSET",
+    "dec": "47.261",
+    "description": "This is my first image after moving to Deep Sky West. Everything seems to be running well but I was plagued by a number of small issues that I haven't completely figured out yet. In spite of good seeing reports from observatory telemetry, I struggled to get acceptable data. As a result, this image only incorporates 12 of the 40+ Lum subs that I collected. I suspect a subtle issue with my auto-focusing system so I'll make another trip out to NM next week to see if I can tune it up. When I installed the system, the focus looked good and I got some nice looking test images but I didn't really test it as well as I should have so I think that it will just take a night of carefully checking everything.  I also screwed up and mixed up a bunch of 600s exposures with some 900s exposures. I sorted it all out to calibrate the data but I didn't have the patience to reconstruct the exact exposure values for everything that went into this image so treat the listed exposure as an estimate. I've never imaged the Cocoon and my original idea was to try to bring out a bit more of the surrounding dark nebula; but, since I had to limit the data, I lowered my sights to just getting a pleasing result! I will eventually get it all dialed in so that I can work on more of these projects under very dark skies. As always, C&C is much appreciated.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 315238,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 251,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "359.766",
+    "pixscale": "0.477",
+    "published": "2017-10-03T18:26:04.491520",
+    "ra": "328.393",
+    "radius": "0.281",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/315238/",
+    "revisions": [
+        "/api/v1/imagerevision/126643/",
+        "/api/v1/imagerevision/126645/",
+        "/api/v1/imagerevision/127601/",
+        "/api/v1/imagerevision/217900/"
+    ],
+    "subjects": [
+        "Cocoon nebula",
+        "IC 5146"
+    ],
+    "title": "IC 5146 The Colorful Cocoon",
+    "updated": "2021-03-17T19:38:54.801378",
+    "uploaded": "2017-10-03T16:39:01.146510",
+    "url_duckduckgo": "https://www.astrobin.com/315238/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/315238/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/315238/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/315238/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/315238/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/315238/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/315238/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7598/2017/527986d0-9573-4916-a458-135d4d7bee2d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/527986d0-9573-4916-a458-135d4d7bee2d-1507046750.jpg",
+    "url_thumb": "https://www.astrobin.com/315238/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1307,
+    "w": 1824
+}

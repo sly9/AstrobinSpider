@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "13.626",
+    "description": "2,5 hours / telescope / camera\r\nTotal 5 hours\r\nLum : ASI174mm\r\nColor : Eos 60d\r\n\r\nDue to high fog and bad seeing, I discarded about 2 hours  of integration time",
+    "h": 1298,
+    "hash": null,
+    "id": 325054,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Canon EOS 60D mod"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BD 150/750 Newton f5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.300",
+    "pixscale": "1.172",
+    "published": "2017-12-08T13:26:46.582900",
+    "ra": "25.759",
+    "radius": "0.420",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325054/",
+    "revisions": [],
+    "subjects": [
+        "NGC 660"
+    ],
+    "title": "NGC 660",
+    "updated": "2021-03-17T18:58:15.322523",
+    "uploaded": "2017-12-08T13:08:19.909414",
+    "url_duckduckgo": "https://www.astrobin.com/325054/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325054/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325054/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325054/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325054/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325054/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325054/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20285f4b-6a03-4ee7-9752-b69047b4dc79.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/20285f4b-6a03-4ee7-9752-b69047b4dc79-1512738958.jpg",
+    "url_thumb": "https://www.astrobin.com/325054/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 348,
+    "w": 1824
+}

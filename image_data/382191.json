@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "4.956",
+    "description": "Telescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400\r\nFilters : Astrodon 50mm square Ha, OIII, SII (3nm)\r\nOAG : Astrodon MOAG\r\nGuide CCD : SBIG RemoteGuideHead\r\nExposure : SHO each 1200s x 14(1bin) total 14h\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 1080,
+    "hash": null,
+    "id": 382191,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "0.389",
+    "pixscale": "3.495",
+    "published": "2018-12-21T13:11:34.835901",
+    "ra": "98.120",
+    "radius": "1.069",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/382191/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette nebula SHO",
+    "updated": "2021-03-17T12:46:08.574037",
+    "uploaded": "2018-12-21T13:11:34.970445",
+    "url_duckduckgo": "https://www.astrobin.com/382191/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382191/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382191/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382191/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382191/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382191/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382191/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/e8efbf82-a5ca-4693-8182-746d85615fb4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e8efbf82-a5ca-4693-8182-746d85615fb4-1545398302.jpg",
+    "url_thumb": "https://www.astrobin.com/382191/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 358,
+    "w": 1920
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-69.210",
+    "description": "This image was produced using the Hyperstar on my C11 Edge HD, to give a wide FOV (1.8 x 1.36 degrees). At f/2 the captures were very short at 15 seconds and 5 seconds. I took 90 subs of each to facilitated the HDR Process in PixInsight. The red hydrogen emission regions come through quite well in this OSC image, despite no Hydrogen Alpha data inclusion.",
+    "h": 1362,
+    "hash": null,
+    "id": 330694,
+    "imaging_cameras": [
+        "ZWO ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": "333.436",
+    "pixscale": "1.407",
+    "published": "2018-01-24T03:49:42.920205",
+    "ra": "84.612",
+    "radius": "1.101",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330694/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2048",
+        "NGC 2070",
+        "NGC 2077",
+        "NGC 2100",
+        "Tarantula nebula"
+    ],
+    "title": "30 Doradus Wide Field",
+    "updated": "2021-03-17T16:44:08.034182",
+    "uploaded": "2018-01-24T03:49:43.430808",
+    "url_duckduckgo": "https://www.astrobin.com/330694/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330694/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330694/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330694/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330694/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330694/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330694/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b08243e3-c03c-4f98-9d46-ecf154047493.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b08243e3-c03c-4f98-9d46-ecf154047493-1516768592.jpg",
+    "url_thumb": "https://www.astrobin.com/330694/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 111,
+    "w": 1824
+}

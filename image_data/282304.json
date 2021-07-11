@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "33.841",
+    "description": "SHO with Ha added to L channel",
+    "h": 1371,
+    "hash": null,
+    "id": 282304,
+    "imaging_cameras": [
+        "QSI 683WSG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798740/"
+    ],
+    "orientation": "0.254",
+    "pixscale": "3.390",
+    "published": "2017-02-02T04:53:37.096495",
+    "ra": "79.815",
+    "radius": "1.944",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282304/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "NGC 1893",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "IC405/IC410",
+    "updated": "2021-05-03T19:00:52.572020",
+    "uploaded": "2017-02-02T04:53:37.423999",
+    "url_duckduckgo": "https://www.astrobin.com/282304/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282304/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282304/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282304/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282304/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282304/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282304/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/cd42f116-d0a9-41c2-8759-30d60b2f6ecd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cd42f116-d0a9-41c2-8759-30d60b2f6ecd-1486011607.jpg",
+    "url_thumb": "https://www.astrobin.com/282304/0/rawthumb/thumb/",
+    "user": "wjf56",
+    "views": 171,
+    "w": 1824
+}

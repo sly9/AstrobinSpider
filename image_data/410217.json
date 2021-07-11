@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "68.097",
+    "description": "GSO RC8 / 1600mm - F/8\r\nAP CCDT67 0.67x RD\r\nMoonLite CSL 2.5\" RC Focusers\r\nQHY695A@-15度\r\nGuiding with OAG QHY5II-L-M\r\niOptron CEM60\r\n300s x 27 - Luminance\r\n300s x 10 - Red\r\n300s x 10 - Green\r\n300s x 10 - Blue",
+    "h": 2100,
+    "hash": null,
+    "id": 410217,
+    "imaging_cameras": [
+        "QHYCCD QHY 695A"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f8 RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810754/"
+    ],
+    "orientation": "270.363",
+    "pixscale": "0.851",
+    "published": "2019-06-13T16:28:58.247097",
+    "ra": "56.689",
+    "radius": "0.388",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410217/",
+    "revisions": [
+        "/api/v1/imagerevision/183087/"
+    ],
+    "subjects": [
+        "IC 342"
+    ],
+    "title": "IC342",
+    "updated": "2021-06-20T15:31:22.003505",
+    "uploaded": "2019-06-13T17:28:58.466621",
+    "url_duckduckgo": "https://www.astrobin.com/410217/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410217/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410217/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410217/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410217/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410217/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410217/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22485/2019/f7dc92d2-e84f-4513-8950-0172eaeb134e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22485/2019/f7dc92d2-e84f-4513-8950-0172eaeb134e-1582546295.jpg",
+    "url_thumb": "https://www.astrobin.com/410217/0/rawthumb/thumb/",
+    "user": "Daniel_Shih",
+    "views": 381,
+    "w": 2530
+}

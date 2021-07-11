@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "61.373",
+    "description": "Melotte 15 is a beautiful open cluster in the heart of IC1805 the Heart Nebula.  Located 7,500 light years from Earth in the constellation Cassiopeia, IC1805 is a region of dust and gas sculpted by stellar winds.  Melotte 15 is a very young cluster with an age of only about 1.5 million years.  It's fascinating to look up close at this data.  The small globs of dust visible in the left of the frame are one indicator of regions rich in newly born stars.  Melotte 15 is located in the upper right side of the frame.\r\n\r\nThe data for this  image was taken over a fairly long stretch of clear Fall weather at DSW.  I spent a fair amount of time studying the tradeoff in image quality relative to tight FWHM data verses using a lot of subs with a less restrictive filter for image quality.  I ultimately concluded that more data always wins in terms of the quality of the final result.  I'm finding that the quality of seeing at DSW can indeed be very good--but that  it sure doesn't happen all the time and that I often can't take full advantage of the best conditions in the presence of even a little wind.  My C14 has a substantial dew shield that acts like a sail to catch any puff of wind, which moves the scope a bit--even on its massive AP1600 mount.  The net result is that even though some of my FWHM data falls below 2\", that represents a bit less than 10% of my subs.\r\n\r\nI always find that NB data is a challenge to process because of the wide range of colors that are possible depending on small tweaks in how  the channels are balanced at the front end.  I found these colors pleasing but I'm always open to suggestions.  So feel free to tell me what I got right and what I screwed up.\r\n\r\nJohn\r\n\r\nPS Behind the scenes,  Jens Zippel made some very good suggestions about how to improve the processing on this data and I thank him for his help.  Every once in a while, it seems that I totally lose my ability to properly process an image like this and (whew!) this was one good example of that happening.  I probably still don't have it perfect but I'm a lot happier with this result.  There was no noise reduction used on this data and in the end the detail looks pretty good.  As always, I'm happy to hear your comments and criticism so let me know what you think.  And again thanks Jens!  Maybe someday I'll get this figured out.  :-)))",
+    "h": 1824,
+    "hash": null,
+    "id": 321435,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "0.574",
+    "pixscale": "0.476",
+    "published": "2017-11-14T20:19:46.953948",
+    "ra": "38.616",
+    "radius": "0.359",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/321435/",
+    "revisions": [
+        "/api/v1/imagerevision/129987/",
+        "/api/v1/imagerevision/130021/",
+        "/api/v1/imagerevision/130032/",
+        "/api/v1/imagerevision/130045/",
+        "/api/v1/imagerevision/130576/",
+        "/api/v1/imagerevision/130623/"
+    ],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Melotte 15 in the Heart of IC 1805",
+    "updated": "2021-03-17T19:13:27.759089",
+    "uploaded": "2017-11-14T06:21:42.409562",
+    "url_duckduckgo": "https://www.astrobin.com/321435/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/321435/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/321435/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/321435/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/321435/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/321435/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/321435/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/acfa7b0b-370f-47c6-92f1-b70cb6d701cb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/acfa7b0b-370f-47c6-92f1-b70cb6d701cb-1510675968.jpg",
+    "url_thumb": "https://www.astrobin.com/321435/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 711,
+    "w": 1824
+}

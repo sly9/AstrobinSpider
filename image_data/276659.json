@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "33.438",
+    "description": "Tadpoles in IC 410 presented in HST palette.\r\nHa: 21x1200, OII, SII - 15 x 1200 secs.",
+    "h": 1605,
+    "hash": null,
+    "id": 276659,
+    "imaging_cameras": [
+        "ATIK ONE 9 M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/"
+    ],
+    "orientation": "359.722",
+    "pixscale": "1.861",
+    "published": "2016-12-18T18:05:01.913372",
+    "ra": "80.652",
+    "radius": "0.663",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/276659/",
+    "revisions": [],
+    "subjects": [
+        "IC 410",
+        "NGC 1893"
+    ],
+    "title": "Tadpoles in IC 410",
+    "updated": "2021-03-17T22:13:20.029317",
+    "uploaded": "2016-12-18T17:55:35.781179",
+    "url_duckduckgo": "https://www.astrobin.com/276659/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/276659/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/276659/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/276659/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/276659/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/276659/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/276659/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7649/2016/03e842ce-8bec-42eb-b6eb-a222a632f8c4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7649/2016/03e842ce-8bec-42eb-b6eb-a222a632f8c4-1582512894.jpg",
+    "url_thumb": "https://www.astrobin.com/276659/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 152,
+    "w": 2000
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "-11.592",
+    "description": "For the last few years, I have been collecting data but not actually processing and publishing.   Some of the data that I collected has contributed to collaborations with my son, Josh Smith (on Astrobin), but the other data I collected has just been sitting.\r\n\r\nFinally, I am starting to process some of this data.  This first image was actually captured last season at three different locations.\r\n\r\nI was really interested in capturing the \"glow\" of the Sombrero, but still preserving the details of the dust lanes and the oblique peek at the spiral structure.  This image is an upsampled crop from a larger field of view.  Imaging scale was approximately 1 arc-sec/pixel.\r\n\r\nEventually, I may upload some of my previously processed photos, but for now, I will probably just post the ones that are currently being processed.  \r\n\r\nI am not sure if there is a way to link to the images where I participated in a collaboration with Josh, but if I can do that, I will.\r\n\r\nThanks for looking!  Comments and questions are welcome.",
+    "h": 1303,
+    "hash": null,
+    "id": 292490,
+    "imaging_cameras": [
+        "SBIG STT-8300M fw8g"
+    ],
+    "imaging_telescopes": [
+        "TEC140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807002/",
+        "/api/v1/location/2807003/",
+        "/api/v1/location/2807004/"
+    ],
+    "orientation": "179.512",
+    "pixscale": "0.438",
+    "published": "2017-04-20T05:51:31.152211",
+    "ra": "190.000",
+    "radius": "0.361",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292490/",
+    "revisions": [],
+    "subjects": [
+        "M 104",
+        "NGC 4594",
+        "Sombrero galaxy"
+    ],
+    "title": "The Sombrero Galaxy - M104",
+    "updated": "2021-05-29T15:41:54.738039",
+    "uploaded": "2017-04-20T05:04:30.356917",
+    "url_duckduckgo": "https://www.astrobin.com/292490/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292490/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292490/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292490/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292490/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292490/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292490/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/360379c9-d7be-4744-9911-c932646a4804.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/360379c9-d7be-4744-9911-c932646a4804-1492661525.png",
+    "url_thumb": "https://www.astrobin.com/292490/0/rawthumb/thumb/",
+    "user": "cgsathome",
+    "views": 606,
+    "w": 1824
+}

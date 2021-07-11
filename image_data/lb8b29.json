@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "38.049",
+    "description": "This was certainly a tough one... the target is not even visible in individual frames, so I had to leave it on faith and trust the plate solve to do its job. When I had collected about 30 minutes of subs, I immediately stacked them to see if anything became visible, and sure enough... the bubble was visible now, but only in Ha & a bit more prominently in OIII. There was hardly any data in SII, so I used it to form the green channel, thereby allowing me to produce realistic star colors in the image instead of magenta or blue stars, as are predominant in Hubble, SHO, HOO palette images.",
+    "h": 3246,
+    "hash": "lb8b29",
+    "id": 436146,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-P"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 1100"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801820/"
+    ],
+    "orientation": "270.379",
+    "pixscale": "0.395",
+    "published": "2019-10-31T20:42:01.611386",
+    "ra": "303.844",
+    "radius": "0.307",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/436146/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Soap Bubble Nebula (PN G75.5+1.7) in HSO",
+    "updated": "2021-03-17T08:28:50.001299",
+    "uploaded": "2019-10-31T20:42:03.016540",
+    "url_duckduckgo": "https://www.astrobin.com/lb8b29/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lb8b29/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lb8b29/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lb8b29/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lb8b29/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lb8b29/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lb8b29/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9574/2019/547c4c58-1f35-4264-8eb6-fac679dcc159.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9574/2019/547c4c58-1f35-4264-8eb6-fac679dcc159-1582602539.jpg",
+    "url_thumb": "https://www.astrobin.com/lb8b29/0/rawthumb/thumb/",
+    "user": "rathijit",
+    "views": 198,
+    "w": 4546
+}

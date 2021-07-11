@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "60.925",
+    "description": "",
+    "h": 2386,
+    "hash": null,
+    "id": 420604,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 258,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "89.654",
+    "pixscale": "0.640",
+    "published": "2019-08-12T14:43:22.971125",
+    "ra": "14.880",
+    "radius": "0.276",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/420604/",
+    "revisions": [],
+    "subjects": [
+        "IC 63",
+        "gamma Cas nebula"
+    ],
+    "title": "IC 63",
+    "updated": "2021-03-17T09:45:54.962661",
+    "uploaded": "2019-08-12T15:43:23.072999",
+    "url_duckduckgo": "https://www.astrobin.com/420604/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420604/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420604/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420604/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420604/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420604/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420604/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/363a7a21-b7b3-47cf-b222-6630e2f20bb2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/363a7a21-b7b3-47cf-b222-6630e2f20bb2-1582640302.jpg",
+    "url_thumb": "https://www.astrobin.com/420604/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 779,
+    "w": 1994
+}

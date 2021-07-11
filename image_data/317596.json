@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "40.788",
+    "description": "Captured over several nights between 13 September and 18 October 2017 from the DSW facility in New Mexico.",
+    "h": 1933,
+    "hash": null,
+    "id": 317596,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "359.991",
+    "pixscale": "2.691",
+    "published": "2017-10-20T16:11:07.703806",
+    "ra": "338.099",
+    "radius": "1.199",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/317596/",
+    "revisions": [
+        "/api/v1/imagerevision/127903/",
+        "/api/v1/imagerevision/134544/"
+    ],
+    "subjects": [],
+    "title": "LBN 437 and a bit of LBN 428 in Lacerta - LRGB",
+    "updated": "2021-03-17T19:28:47.352884",
+    "uploaded": "2017-10-20T17:11:08.418138",
+    "url_duckduckgo": "https://www.astrobin.com/317596/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/317596/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/317596/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/317596/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/317596/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/317596/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/317596/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2017/5d5f8ade-805f-4bee-b030-38dfea6ad9ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2017/5d5f8ade-805f-4bee-b030-38dfea6ad9ea-1582606208.jpg",
+    "url_thumb": "https://www.astrobin.com/317596/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 257,
+    "w": 2560
+}

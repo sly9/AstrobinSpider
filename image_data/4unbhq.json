@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I made a number of runs with different filters on Venus on the evening of the 6th December. The seeing was good enough to bring out considerable detail in IR and UV. This imaging was done at Prime Focus where I can achieve higher frame rates particularly with UV. I have also noticed that more atmospheric features are discernible at Prime Focus versus with a focal length increaser. There is a penalty to pay in pixel resolution, but we are not looking for fine detail on Venus.\r\nI followed the convention of mapping the IR (850nm BP) to Red and UV to Blue, with a 50:50 blend to Green to produce this false colour image.\r\nVenus is still quite small as it is on the other side of the Sun and racing around to catch us up. As it does so its phase will decrease and its apparent diameter will increase. It also achieve greater elongation, therefore elevation in the evening sky and hopefully as it does so there will be some opportunities with very good seeing.",
+    "h": 2000,
+    "hash": "4unbhq",
+    "id": 442352,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-12-07T07:30:07.250604",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442352/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Venus IR-UV image 6th December",
+    "updated": "2021-03-17T06:07:44.200277",
+    "uploaded": "2019-12-07T07:19:00.508771",
+    "url_duckduckgo": "https://www.astrobin.com/4unbhq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4unbhq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4unbhq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4unbhq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4unbhq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4unbhq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4unbhq/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/4unbhq/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 492,
+    "w": 2000
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 23,
+    "data_source": "OWN_REMOTE",
+    "dec": "66.632",
+    "description": "The Cat's Eye is one of my favorite Hubble images and I wanted to see what I could capture myself.  The core nebula is shockingly small - I measured it at 73 pixels @.43 a-s per pixel.  That's something like the size of Jupiter these days.  It presents a very high surface brightness.  This meant a range of 120 to 1800 second exposures even though I was shooting everything through 5,3,3 nm filters.  \r\n\r\nThe morphology of the core is visible here though it helps to refer to the Hubble shot for more clarity.  There is a central bubble of blue surrounded by two larger conjoined bubbles.  The two conjoined bubbles have burst at the ends and red gasses are leaking in what looks like spirals.  I captured these, but only just!  \r\n\r\nThe outer halo looks something like a fishing net being thrown in the air.  OIII dominates which enhances the \"differentness\" of this from most Ha dominant objects we shoot.\r\n\r\nI shot the outer halo in 1800 second OIII and 600 second Ha.  It should have been the other way around.  But I was trying to see if I could capture the core with the 600 second shots.  Nope.  120 second Ha and OIII were used for the Core along with 300 and 600 second SII.  \r\n\r\nAssembling the core was particulalry difficult as the 120 second narrowband data did not contain enough star data to register in PI or CCDstack.  I resorted to manually rotating and aligning each of about 70 core subs.  This tedious but possible in CCDStack.  \r\n\r\nMaster core and outer shell channels were aligned in CCDStack and assembled via layers in Photoshop.\r\n\r\nLessons for the future:  the core should have been done with a planetary camera and AutoStakkart!\r\n\r\nThanks for hanging in with this long description!",
+    "h": 1524,
+    "hash": null,
+    "id": 359245,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 245,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "233.095",
+    "pixscale": "0.436",
+    "published": "2018-08-02T02:29:40.886521",
+    "ra": "269.630",
+    "radius": "0.150",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/359245/",
+    "revisions": [
+        "/api/v1/imagerevision/152236/"
+    ],
+    "subjects": [
+        "IC 4677",
+        "IC4677",
+        "NGC 6543",
+        "NGC6543"
+    ],
+    "title": "Cat's Eye Nebula",
+    "updated": "2021-06-26T02:14:12.340793",
+    "uploaded": "2018-08-02T03:29:41.130794",
+    "url_duckduckgo": "https://www.astrobin.com/359245/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/359245/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/359245/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/359245/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/359245/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/359245/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/359245/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/cb7517c7-61a9-419a-bb0c-799caee0cfe2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cb7517c7-61a9-419a-bb0c-799caee0cfe2-1533181889.jpg",
+    "url_thumb": "https://www.astrobin.com/359245/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1558,
+    "w": 1943
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "67.260",
+    "description": "This is First Light with my new (used) QHY22 camera.",
+    "h": 2206,
+    "hash": null,
+    "id": 312182,
+    "imaging_cameras": [
+        "QHY22"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS Photoline 107mm f/6.5 Super-Apo"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799970/"
+    ],
+    "orientation": "351.353",
+    "pixscale": "1.329",
+    "published": "2017-09-14T03:34:31.813308",
+    "ra": "0.610",
+    "radius": "0.652",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312182/",
+    "revisions": [
+        "/api/v1/imagerevision/125073/",
+        "/api/v1/imagerevision/125075/"
+    ],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "NGC 7822",
+    "updated": "2021-03-17T19:51:02.592145",
+    "uploaded": "2017-09-14T04:34:32.313423",
+    "url_duckduckgo": "https://www.astrobin.com/312182/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312182/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312182/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312182/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312182/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312182/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312182/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1070/2017/6add2c51-3b86-494b-92a8-e7f4c54fa497.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1070/2017/6add2c51-3b86-494b-92a8-e7f4c54fa497-1582585470.jpg",
+    "url_thumb": "https://www.astrobin.com/312182/0/rawthumb/thumb/",
+    "user": "rflinn68",
+    "views": 329,
+    "w": 2758
+}

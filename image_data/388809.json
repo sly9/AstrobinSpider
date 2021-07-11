@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "27.916",
+    "description": "This is certainly a tough object because of the large diameter and how faint it is.  I tried it once before using a 135mm lens.  This time I used an AT80EDT refractor plus a Riccardi .75x reducer/flattener.  The NB binned 2x2 6 panel mosaic data was acquired with an Atik 460ex and 2 panel RGB with an ASI071.  Ha 190x300s, OIII  120x300s, RGB 44x150s.   OIII needed more data but I ran out of clear nights and patience.  This resulted in a fairly noisy background, unfortunately.  The image is a blend of 65% Ha, 20% OIII, and 15% RGB.",
+    "h": 2169,
+    "hash": null,
+    "id": 388809,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool",
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT80EDT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 204,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "269.830",
+    "pixscale": "3.485",
+    "published": "2019-02-01T21:21:40.742971",
+    "ra": "85.186",
+    "radius": "2.787",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/388809/",
+    "revisions": [
+        "/api/v1/imagerevision/169356/",
+        "/api/v1/imagerevision/238902/"
+    ],
+    "subjects": [],
+    "title": "Sh2-240  Simeis 147",
+    "updated": "2021-05-20T07:04:19.302543",
+    "uploaded": "2019-02-01T21:03:59.961008",
+    "url_duckduckgo": "https://www.astrobin.com/388809/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388809/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388809/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388809/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388809/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388809/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388809/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2019/f0d42f3d-5aaa-4bd1-b1df-3ff2795d93ed.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f0d42f3d-5aaa-4bd1-b1df-3ff2795d93ed-1549055929.jpg",
+    "url_thumb": "https://www.astrobin.com/388809/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 1385,
+    "w": 1824
+}

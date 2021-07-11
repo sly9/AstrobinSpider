@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "33.996",
+    "description": "This is my first image from Deep Sky West (DSW).  It is Stephan's Quintet in Pegasus taken between Oct 11 and Nov 9 2017 using the RCOS system.  It is an LRGB image combining data form all channels for synthetic luminance.\r\n\r\nI'm most impressed with this data.  It's the first set that I've been able to really get into form such a dark site.  I attempted to use PI's PhotoColorCalibration process, but I was disappointed in the results.  Instead I used the older ColorCalibration process over the whole image.  To my eye the reds are too orange in shade, and I was hoping to be able to get more blue out of it.  Alas, that didn't happen, but the neat thing is that having joined DSW I have complete access to the data and calibration files, so I can process it as many times as I'd like.\r\n\r\nIf I make another revision on this I will consider not making a synthetic luminance and just using the L data.  I ended up not doing a deconvolution step on L as it didn't seem to gain me much, however the cropped version might have benefited from it.  Next time I'll see if deconvolution gains me some increase of detail on the cropped image.",
+    "h": 1824,
+    "hash": null,
+    "id": 336815,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical 14.5”"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "11.035",
+    "pixscale": "0.550",
+    "published": "2018-03-09T23:32:01.164309",
+    "ra": "338.981",
+    "radius": "0.415",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336815/",
+    "revisions": [
+        "/api/v1/imagerevision/139195/",
+        "/api/v1/imagerevision/139196/",
+        "/api/v1/imagerevision/139197/",
+        "/api/v1/imagerevision/139198/"
+    ],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "Stephan's Quintet"
+    ],
+    "title": "Stephan's Quintet LRGB from DSW",
+    "updated": "2021-03-17T16:16:12.929219",
+    "uploaded": "2018-03-09T22:26:06.681356",
+    "url_duckduckgo": "https://www.astrobin.com/336815/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336815/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336815/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336815/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336815/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336815/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336815/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b98d7be0-e51c-4889-a6b0-33a65844e740.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b98d7be0-e51c-4889-a6b0-33a65844e740-1520634799.jpg",
+    "url_thumb": "https://www.astrobin.com/336815/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 96,
+    "w": 1824
+}

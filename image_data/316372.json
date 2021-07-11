@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.430",
+    "description": "A 2nd HSO image with the new 6nm filters.  A fairly prominent moon throughout.  Data over 3 nights starting at about a 45 degree altitude til dawn. Got to play a little with the Arcsin stretch tool in PI with this one..  Yellow toned down in PSD with mild selective sharpening.",
+    "h": 1218,
+    "hash": null,
+    "id": 316372,
+    "imaging_cameras": [
+        "QSI 6120wsg-8 QSI6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120ED APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803757/"
+    ],
+    "orientation": "87.910",
+    "pixscale": "1.258",
+    "published": "2017-10-12T18:33:46.630412",
+    "ra": "38.873",
+    "radius": "0.714",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316372/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC1805 Medium Field",
+    "updated": "2021-03-17T19:34:11.648820",
+    "uploaded": "2017-10-12T19:33:47.516076",
+    "url_duckduckgo": "https://www.astrobin.com/316372/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316372/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316372/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316372/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316372/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316372/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316372/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/1a7b9480-c685-4fcf-a47f-9b3548ba5094.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1a7b9480-c685-4fcf-a47f-9b3548ba5094-1507833636.jpg",
+    "url_thumb": "https://www.astrobin.com/316372/0/rawthumb/thumb/",
+    "user": "nmrdude",
+    "views": 195,
+    "w": 1824
+}

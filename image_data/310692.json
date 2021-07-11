@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "43.602",
+    "description": "This is a NB image of NGC 7000, the Cygnus Wall, using the SHO palette.  This is one of my first color RGB images using many of the processes in PixInsight.\r\n\r\nThis is a dramatic section of the North American Nebula in Cygnus.  NGC 7000 is an extensive HII region where the emission nebula is set aglow possibly by a hot 6th magnitude star HD 199579 (not present in this image).  Other sources suggest the culprit is actually Deneb.  If the latter, then this nebula is about 1800 ly distant within our galaxy.  This would place the entire nebula at about 100 ly in size.\r\n\r\nThe Cygnus Wall is part of the interstellar dust and gaseous rim of this nebula and is often compared to a bird with wings outspread.  If Cygnus is the swan constellation, the Cygnus Wall is the swan within the North American Nebula, although it looks more like a hawk to me.\r\n\r\nIn the second revision I utilized PixelMath to remove the purple color in the stars.  I also adjusted the black levels to make the image brighter.  I used SCNR to remove more of the greenish tint leaving the nebular region blue rather than turquoise.  I applied AutomaticBackgroundExtraction less aggressively as I thought the first image had some signal removed.  I also applied noise reduction less aggressively leaving a little more chromatic noise but somewhat sharper details in the image.\r\n\r\nI may revisit this image in the future with RGB filter data to fill in more truthful\" colors for the stars.\r\n\r\nHere is an abbreviated list of processes I used in PI to finish this image (Version B):\r\n\r\nPer Filter Steps:\r\nCalibration (bias, dark, flat in HA, OIII, SII)\r\nLocalNormalization\r\nImageIntegration\r\nDrizzleIntegration\r\nCrop, Rotation, Flip\r\nAutomaticBackgroundExtraction (Order 2)\r\nDeconvolution\r\n\r\nRGB Steps:\r\nLRGBCombination (with L blank)\r\nAutomaticBackgroundExtraction (Order 2)\r\nMultiscaleLinearTransform (mild noise reduction)\r\nStretch (beginning with application of default uncoupled STF)\r\nSCNR (green removal)\r\nHDRMultiscaleTransform\r\nPixelMath (removal of purple stars as seen in Original Image)\r\nTGVDenoise (mild noise reduction)\r\nCurvesTransformation (mild enhancement of colors)\r\nDynamicCrop (final image presentation)\r\n\r\n",
+    "h": 2118,
+    "hash": null,
+    "id": 310692,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific 127mm ED APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "359.844",
+    "pixscale": "1.167",
+    "published": "2017-09-07T04:31:00.160585",
+    "ra": "314.884",
+    "radius": "0.605",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310692/",
+    "revisions": [
+        "/api/v1/imagerevision/124636/"
+    ],
+    "subjects": [
+        "B355"
+    ],
+    "title": "NGC 7000 Cygnus Wall - NB SHO",
+    "updated": "2021-06-01T19:37:44.782401",
+    "uploaded": "2017-09-02T20:34:55.120601",
+    "url_duckduckgo": "https://www.astrobin.com/310692/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310692/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310692/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310692/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310692/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310692/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310692/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7533/2017/15344709-84b2-4b46-bbb7-51245855d205.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/15344709-84b2-4b46-bbb7-51245855d205-1504381336.jpg",
+    "url_thumb": "https://www.astrobin.com/310692/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 188,
+    "w": 1824
+}

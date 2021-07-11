@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "46.525",
+    "description": "Perhaps one of the hardest ones I've edited, I think both HA data and OIII data were good, but it was very difficult to merge them into a comfortable rgb image. Maybe I get some SII data before the season is over from Norway. Appreciate feedback and feel free to give tips on composing HA and OIII\r\nFrom my home observatory",
+    "h": 1597,
+    "hash": "mzk1yx",
+    "id": 467901,
+    "imaging_cameras": [
+        "Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "268.974",
+    "pixscale": "4.709",
+    "published": "2020-03-23T16:05:00.647580",
+    "ra": "70.343",
+    "radius": "1.574",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467901/",
+    "revisions": [
+        "/api/v1/imagerevision/220991/",
+        "/api/v1/imagerevision/220994/",
+        "/api/v1/imagerevision/221029/"
+    ],
+    "subjects": [
+        "PK158+00.1",
+        "Sh2-216",
+        "Other"
+    ],
+    "title": "SH2-216 HA.OIII",
+    "updated": "2021-04-03T23:18:28.291882",
+    "uploaded": "2020-03-23T16:05:01.027405",
+    "url_duckduckgo": "https://www.astrobin.com/mzk1yx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mzk1yx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mzk1yx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mzk1yx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mzk1yx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mzk1yx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mzk1yx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2020/6f3b1b4d-c7af-4332-83e1-5b08bda23808.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10219/2020/6f3b1b4d-c7af-4332-83e1-5b08bda23808-1584979768.png",
+    "url_thumb": "https://www.astrobin.com/mzk1yx/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 266,
+    "w": 1800
+}

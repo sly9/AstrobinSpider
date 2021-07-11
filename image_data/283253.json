@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "36.461",
+    "description": "L = 23 x 60\" + L = 11 x 600\"\r\nR = 12 x 60\" + L = 12 x 600\"\r\nG = 12 x 60\" + L = 16 x 600\"\r\nB = 12 x 60\" + L = 16 x 600\"",
+    "h": 1345,
+    "hash": null,
+    "id": 283253,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806674/"
+    ],
+    "orientation": "0.781",
+    "pixscale": "2.101",
+    "published": "2017-02-10T22:37:29.050092",
+    "ra": "250.421",
+    "radius": "1.139",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283253/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "IC 4615",
+        "M 13",
+        "NGC 6205",
+        "NGC 6207",
+        "Other"
+    ],
+    "title": "M13 @ DSW",
+    "updated": "2021-03-17T21:47:27.357709",
+    "uploaded": "2017-02-10T22:37:29.724921",
+    "url_duckduckgo": "https://www.astrobin.com/283253/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283253/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283253/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283253/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283253/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283253/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283253/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/5feb1739-0b78-4ce1-8dfa-39bb3e662fb9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5feb1739-0b78-4ce1-8dfa-39bb3e662fb9-1486767555.jpg",
+    "url_thumb": "https://www.astrobin.com/283253/0/rawthumb/thumb/",
+    "user": "pullaqua",
+    "views": 99,
+    "w": 1824
+}

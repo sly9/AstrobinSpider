@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "60.138",
+    "description": "This galaxy image was obtained over several months at Darkestskies.com.  As always, we NEVER use autoguiding even though some of the subs were 20 minutes long.  \r\nSee our web page for details on how YOU can RENT time on our system for far less than you'd expect.",
+    "h": 1218,
+    "hash": null,
+    "id": 329715,
+    "imaging_cameras": [
+        "FLI Proline 16803 FLI PL 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave 24 CDK 24 with high stability glass option"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "http://www.darkestskies.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808373/"
+    ],
+    "orientation": "326.203",
+    "pixscale": "0.934",
+    "published": "2018-01-16T21:48:12.844665",
+    "ra": "308.712",
+    "radius": "0.260",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329715/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6946"
+    ],
+    "title": "NGC 6946",
+    "updated": "2021-03-17T16:48:31.459611",
+    "uploaded": "2018-01-16T21:48:13.170905",
+    "url_duckduckgo": "https://www.astrobin.com/329715/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329715/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329715/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329715/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329715/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329715/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329715/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26054/2018/c1da742f-7caf-4cc7-bdb1-cb7941745ce5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26054/2018/c1da742f-7caf-4cc7-bdb1-cb7941745ce5-1582440877.jpg",
+    "url_thumb": "https://www.astrobin.com/329715/0/rawthumb/thumb/",
+    "user": "Darkestskiesdotcom",
+    "views": 174,
+    "w": 1596
+}

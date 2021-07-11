@@ -120,5 +120,5 @@ fig.set_size_inches(12, 6)
 ax.set_axis_off()
 plt.set_cmap('hot')
 
-fig.savefig('test.svg', dpi=300, orientation='landscape', format='svg', transparent=True, bbox_inches='tight', pad_inches = 0)
+#fig.savefig('test.svg', dpi=300, orientation='landscape', format='svg', transparent=True, bbox_inches='tight', pad_inches = 0)
 fig.savefig('test.png', dpi=300, orientation='landscape', format='png', transparent=True, bbox_inches='tight', pad_inches = 0)

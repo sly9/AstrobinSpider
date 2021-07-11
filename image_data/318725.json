@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "31.384",
+    "description": "3 hours / telescope / camera",
+    "h": 1992,
+    "hash": null,
+    "id": 318725,
+    "imaging_cameras": [
+        "Canon EOS 60D mod",
+        "Canon EOS 600D / Rebel T3i Modded"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BD 150/750 Newton f5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 175,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.015",
+    "pixscale": "1.459",
+    "published": "2017-10-26T15:01:20.684276",
+    "ra": "52.310",
+    "radius": "0.605",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318725/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "NGC 1333",
+    "updated": "2021-03-17T19:23:58.266620",
+    "uploaded": "2017-10-26T16:01:21.732050",
+    "url_duckduckgo": "https://www.astrobin.com/318725/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318725/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318725/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318725/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318725/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318725/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318725/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/fa71e213-896e-485e-a1ab-51f61c12f1cc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fa71e213-896e-485e-a1ab-51f61c12f1cc-1509030263.jpg",
+    "url_thumb": "https://www.astrobin.com/318725/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 473,
+    "w": 1824
+}

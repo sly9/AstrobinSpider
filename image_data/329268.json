@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "69.682",
+    "description": "Messier 82 (also known as NGC 3034, Cigar Galaxy) is the prototype nearby starburst galaxy about 12 million light-years away in the constellation Ursa Major. The starburst galaxy is five times more luminous than the whole Milky Way and one hundred times more luminous than our galaxy's center. The starburst activity is thought to be triggered by interaction with neighboring galaxy M81.\r\n\r\nThe image was captured with the Celestron CGE Pro mount and the venerable Meade 12\"LX200 SCT, using my Atik 383L+ m CCD at F7.16 (2182mm FL). Astronomik's Ha narrow band, and Red, Green and Blue broad band filters were used. Imaging subs were taken at 1x1 bin, -10C, and 10 minutes for all.\r\n\r\nImage information -- 2018\r\nHa: 77 subs (12.83 hr) on Jan 3rd, Jan 8th and Jan 12th.\r\nRed: 16 subs (2.67 hr) on Jan 8th and Jan 12th.\r\nGreen: 15 subs (2.50 hr) on Jan 12th.\r\nBlue: 13 subs (2.17 hr) on Jan 12th.\r\n\r\nProcessing was done with PixInsight, following (for the most part) kayronjm's tutorial of Feb. 24th. Ha filter was used for the Lum image. R, G and B were collected for the color mix. The detail and color came out nicely.  \r\nThe background for the Ha came out somewhat mottled and prove troublesome to eliminate.\r\nNorth is to the right (pretty sure), and this is a slight crop due to the misalignment accumulation from the different filters and times.",
+    "h": 2424,
+    "hash": null,
+    "id": 329268,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 12\" f/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798019/"
+    ],
+    "orientation": "87.845",
+    "pixscale": "0.507",
+    "published": "2018-01-13T19:28:42.211915",
+    "ra": "148.969",
+    "radius": "0.285",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329268/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82 Cigar Galaxy",
+    "updated": "2021-03-17T16:50:31.437380",
+    "uploaded": "2018-01-13T19:00:42.566614",
+    "url_duckduckgo": "https://www.astrobin.com/329268/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329268/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329268/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329268/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329268/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329268/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329268/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0d4fc78d-55fd-43ad-8889-b5c64ee794e3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0d4fc78d-55fd-43ad-8889-b5c64ee794e3-1515872117.jpg",
+    "url_thumb": "https://www.astrobin.com/329268/0/rawthumb/thumb/",
+    "user": "niteman1946",
+    "views": 137,
+    "w": 3249
+}

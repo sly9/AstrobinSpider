@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 45,
+    "data_source": "BACKYARD",
+    "dec": "69.069",
+    "description": "M81 imaged under, rather mediocre sky conditions.\r\nLum : 160 x 1 min\r\nHa : 40 x 3min\r\nColour : 18 x 5min",
+    "h": 1180,
+    "hash": "csv7if",
+    "id": 452862,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 335,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.632",
+    "pixscale": "1.209",
+    "published": "2020-02-02T14:29:33.842996",
+    "ra": "148.928",
+    "radius": "0.363",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/452862/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81 L-RGB-Ha",
+    "updated": "2021-04-03T23:18:10.270882",
+    "uploaded": "2020-02-02T13:57:08.764836",
+    "url_duckduckgo": "https://www.astrobin.com/csv7if/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/csv7if/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/csv7if/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/csv7if/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/csv7if/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/csv7if/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/csv7if/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/4f598e46-902b-43fa-9fe0-85959d22138f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/4f598e46-902b-43fa-9fe0-85959d22138f-1580652602.jpg",
+    "url_thumb": "https://www.astrobin.com/csv7if/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 1303,
+    "w": 1809
+}

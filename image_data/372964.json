@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "61.104",
+    "description": "Samyang 135 mm @ F/2.8 sur ASI1600MM-C, HEQ5\r\nFiltres SHO ZWO 7 nm\r\nHa : 61 x 300\" = 5h05'\r\nSII : 46 x 300\" = 3h50'\r\nOIII : 59 x 300\" = 4h55'\r\n\r\nPrétraitement DSS en drizzle x2, traitement PixInsight\r\n\r\nLes nébuleuses du Coeur et de l'Ame (Heart and Soul nebulas)\r\nIC 1805, surnommée la nébuleuse du Coeur, est une nébuleuse en émission située à environ 6 500 année-lumière  du système solaire, dans le bras de Persée de la Voie lactée et dans la constellation de Cassiopée. Elle couvre un champ d'environ 60 minutes d'arc (2 fois la pleine Lune), ce qui correspond approximativement à 200 années-lumière. Cette nébuleuse contient un amas ouvert, Melotte 15 dont les étoiles sont âgées d’à peine 1,5 millions d’années.\r\nA côté, IC1848 connue sous le nom de nébuleuse de l'Ame, est également une nébuleuse en émission contenant un amas ouvert.",
+    "h": 1200,
+    "hash": null,
+    "id": 372964,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC"
+    ],
+    "imaging_telescopes": [
+        "Samyang 135 mm f/2"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803118/"
+    ],
+    "orientation": "359.851",
+    "pixscale": "14.823",
+    "published": "2018-10-20T17:56:19.628269",
+    "ra": "40.929",
+    "radius": "4.455",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/372964/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC 1848",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "Le Coeur et l'Ame",
+    "updated": "2021-06-18T12:18:40.723961",
+    "uploaded": "2018-10-20T18:56:19.902003",
+    "url_duckduckgo": "https://www.astrobin.com/372964/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/372964/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/372964/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/372964/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/372964/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/372964/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/372964/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2125/2018/9368e5df-4aa4-4eba-b298-9fb54ea56bf8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2125/2018/9368e5df-4aa4-4eba-b298-9fb54ea56bf8-1582523346.jpg",
+    "url_thumb": "https://www.astrobin.com/372964/0/rawthumb/thumb/",
+    "user": "krotdebouk",
+    "views": 832,
+    "w": 1801
+}

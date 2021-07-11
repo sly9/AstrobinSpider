@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "67.263",
+    "description": "",
+    "h": 2460,
+    "hash": null,
+    "id": 305782,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804197/"
+    ],
+    "orientation": "1.214",
+    "pixscale": "1.391",
+    "published": "2017-08-02T01:01:27.597722",
+    "ra": "0.712",
+    "radius": "0.794",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305782/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "Sh 2-171",
+    "updated": "2021-03-17T20:16:44.615713",
+    "uploaded": "2017-08-02T02:01:28.196873",
+    "url_duckduckgo": "https://www.astrobin.com/305782/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305782/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305782/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305782/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305782/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305782/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305782/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14338/2017/5290d884-09fa-4829-97d7-bff653a5cd3a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14338/2017/5290d884-09fa-4829-97d7-bff653a5cd3a-1582593676.jpg",
+    "url_thumb": "https://www.astrobin.com/305782/0/rawthumb/thumb/",
+    "user": "pbkoden",
+    "views": 314,
+    "w": 3290
+}

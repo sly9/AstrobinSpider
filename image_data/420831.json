@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "22.724",
+    "description": "",
+    "h": 2308,
+    "hash": null,
+    "id": 420831,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130 TOA 130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808428/"
+    ],
+    "orientation": "270.008",
+    "pixscale": "0.641",
+    "published": "2019-08-13T22:16:40.131003",
+    "ra": "299.908",
+    "radius": "0.320",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/420831/",
+    "revisions": [],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "M27",
+        "NGC 6853",
+        "PK060-03.1"
+    ],
+    "title": "Ha-O3 M27 RGB Stars",
+    "updated": "2021-03-17T09:44:49.562216",
+    "uploaded": "2019-08-13T23:16:40.226942",
+    "url_duckduckgo": "https://www.astrobin.com/420831/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420831/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420831/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420831/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420831/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420831/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420831/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/f6f4acc2-f831-4788-b659-75527f590444.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f6f4acc2-f831-4788-b659-75527f590444-1565738801.jpg",
+    "url_thumb": "https://www.astrobin.com/420831/0/rawthumb/thumb/",
+    "user": "CCDnOES",
+    "views": 154,
+    "w": 2748
+}

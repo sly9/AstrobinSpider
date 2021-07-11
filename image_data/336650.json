@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "69.051",
+    "description": "M81 a LRHaGB-color picture from Denmark, Sjaelland area.\r\n\r\nA kind of a crowd-imaging picture with few pictures/stacks integrated into one cropped color picture.\r\n\r\nContributers are:\r\nMr. Ole Berg Nielsen\r\nEq. used, Scope Celestron 9.25\" Edge HD F6.7. Mount CGEM with usage of TDM and Pole Master, no autoguide. Camera Atik 383L+ mono.\r\nFilters LRGB Ha (5 nm) Astrodon.\r\nExposure details & subs taken 23, 25 & 26 Febr-2018:\r\nL=110x300sec bin1x1\r\nR=47x60sec bin2x2\r\nG=43x60sec bin2x2\r\nB=32x60sec bin2x2\r\nHa=17x300sec bin2x2\r\n\r\nMr. Bent Munkholm\r\nEq. used, Scope FSQ 85 F/D5.3. Mount SkyWatcher NEQ6 Pro Skywatcher. Camera SBIG ST-8300M/C.\r\nExposure details & subs taken 8 and 12 Febr-2018:\r\nL=37x900sec bin1x1\r\nHa=32x600sec bin1x1\r\nR=14x300sec bin2x2\r\nG=14x300sec bin2x2\r\nB=14x300sec bin2x2\r\n\r\nMr. Niels Haagh\r\nEq. used, Scope TV NP127is F5.2. Mount TTS-160 Panther. Camera ZWO asi1600MM.\r\nFilters Ha Baader.\r\nExposure details & subs taken 26 Febr-2018:\r\nHa=18x600sec bin1x1.\r\n\r\nEq. used: Scope TEC-140 F7. Mount TTS-160 Panther. Camera Canon 1100Da.\r\nExposure details & subs taken 25 Febr-2018:\r\n25x300sec, ISO1600.\r\n\r\nIntegration of the individuel contributers calibrated LRGB,Ha,color stacks was done by me,\r\nwhere I used CCDStack2, RegiStar and Adobe Photoshop CS6 programs/features.\r\n\r\nStack info. available (as 16bit Tiff) if needed/on request.\r\nKind regards Niels",
+    "h": 1126,
+    "hash": null,
+    "id": 336650,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cooled ZWO mono"
+    ],
+    "imaging_telescopes": [
+        "TeleVue NP127is @f/5.2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "350.966",
+    "pixscale": "1.337",
+    "published": "2018-03-08T23:20:45.318247",
+    "ra": "148.880",
+    "radius": "0.319",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336650/",
+    "revisions": [
+        "/api/v1/imagerevision/139140/",
+        "/api/v1/imagerevision/139224/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81 a LRHaGB-color picture",
+    "updated": "2021-03-17T16:17:00.916035",
+    "uploaded": "2018-03-08T23:20:46.604221",
+    "url_duckduckgo": "https://www.astrobin.com/336650/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336650/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336650/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336650/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336650/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336650/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336650/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/49c20d58-4445-49a2-8489-8b70fcf221fb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/49c20d58-4445-49a2-8489-8b70fcf221fb-1520551428.jpg",
+    "url_thumb": "https://www.astrobin.com/336650/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 1148,
+    "w": 1301
+}

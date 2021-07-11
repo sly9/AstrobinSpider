@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.508",
+    "description": "Some great advice from a long time imager finally gave me the mix I was looking for on this nebula.  Rather than a SHO mix, I added 33% Ha to the OIII and 33% Ha to the SII and then mixed the two resulting images to use for the green channel.  This was used for the color data while a straight Ha was used for Luminance.\r\n\r\nProcessed in CCDStack and Photoshop.  A light deconvolution of the Ha was done in CCDStack.  limited noise reduction using Topaz.  Some further sharpening with Smart Sharpen.  Luminance and star masks in Photoshop controlled these enhancements.  Oh, also a 1 pixel minimum filter on the stars.\r\n\r\nHa 28, Sii 35, Oiii 36 all 20 minute subs.  Total time 33 hours.",
+    "h": 1766,
+    "hash": null,
+    "id": 342873,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "60.643",
+    "pixscale": "0.729",
+    "published": "2018-04-22T02:04:52.479206",
+    "ra": "38.907",
+    "radius": "0.572",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/342873/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "One Chamber of The Heart",
+    "updated": "2021-03-17T15:47:26.619105",
+    "uploaded": "2018-04-22T03:04:54.682083",
+    "url_duckduckgo": "https://www.astrobin.com/342873/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/342873/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/342873/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/342873/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/342873/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/342873/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/342873/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/70d70e82-2c26-455e-9352-9bba67d6e0af.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/70d70e82-2c26-455e-9352-9bba67d6e0af-1524363176.jpg",
+    "url_thumb": "https://www.astrobin.com/342873/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 177,
+    "w": 1824
+}

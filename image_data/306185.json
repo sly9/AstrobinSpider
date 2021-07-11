@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-16.232",
+    "description": "Omega Nebula, also known as Messier 17, in Sagittarius is one of the brightest diffuse nebulae in the sky. A trial SHO composition with partial data, and had hard time composing the SHO image. Star sizes and huge difference in different channels were the main issues yet to find a good way to deal with.",
+    "h": 4096,
+    "hash": null,
+    "id": 306185,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "293.850",
+    "pixscale": "0.551",
+    "published": "2017-08-05T12:56:39.400555",
+    "ra": "275.227",
+    "radius": "0.443",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306185/",
+    "revisions": [
+        "/api/v1/imagerevision/122086/"
+    ],
+    "subjects": [
+        "M 17",
+        "M17",
+        "NGC 6618",
+        "Omega nebula",
+        "Sh2-45"
+    ],
+    "title": "Omega Nebula (Messier 17)",
+    "updated": "2021-03-17T20:15:05.857770",
+    "uploaded": "2017-08-05T13:47:44.690967",
+    "url_duckduckgo": "https://www.astrobin.com/306185/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306185/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306185/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306185/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306185/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306185/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306185/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2017/4d84ce68-3132-406b-83a4-5e73523d1473.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2017/4d84ce68-3132-406b-83a4-5e73523d1473-1582616177.jpg",
+    "url_thumb": "https://www.astrobin.com/306185/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 287,
+    "w": 4095
+}

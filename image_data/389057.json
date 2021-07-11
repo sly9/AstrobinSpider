@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "69.349",
+    "description": "This is a 12 hours RGB exposure plus a 12 hours L exposure. The 12 hours L exposure is still a bit noisy to show up the IFN.",
+    "h": 3474,
+    "hash": null,
+    "id": 389057,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200 MkII"
+    ],
+    "imaging_telescopes": [
+        "SKy Rover 130 APO Pro"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808586/"
+    ],
+    "orientation": "274.449",
+    "pixscale": "1.361",
+    "published": "2019-02-03T09:33:20.811450",
+    "ra": "148.798",
+    "radius": "1.048",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/389057/",
+    "revisions": [],
+    "subjects": [
+        "Bode's galaxy",
+        "Bode's nebulae",
+        "Cigar galaxy",
+        "M 81",
+        "M 82",
+        "M81",
+        "M82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 M82 and IFN",
+    "updated": "2021-03-17T12:15:12.386290",
+    "uploaded": "2019-02-03T09:33:20.973101",
+    "url_duckduckgo": "https://www.astrobin.com/389057/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/389057/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/389057/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/389057/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/389057/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/389057/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/389057/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c23d58d3-fdd0-4cf7-a14f-51e23b532b6b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c23d58d3-fdd0-4cf7-a14f-51e23b532b6b-1549186757.jpg",
+    "url_thumb": "https://www.astrobin.com/389057/0/rawthumb/thumb/",
+    "user": "lgwong",
+    "views": 490,
+    "w": 4320
+}

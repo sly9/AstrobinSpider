@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "47.259",
+    "description": "- 35x120s L\r\n- 60x120s Ha\r\n- 30x120s each R/G/B",
+    "h": 1308,
+    "hash": null,
+    "id": 327897,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "55.589",
+    "pixscale": "0.972",
+    "published": "2018-01-01T00:50:59.139107",
+    "ra": "328.276",
+    "radius": "0.740",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327897/",
+    "revisions": [],
+    "subjects": [
+        "Cocoon nebula",
+        "IC 5146"
+    ],
+    "title": "IC 5146 - Cocoon-Nebula - Ha-L-RGB",
+    "updated": "2021-03-17T18:46:10.695172",
+    "uploaded": "2018-01-01T00:48:05.201306",
+    "url_duckduckgo": "https://www.astrobin.com/327897/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327897/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327897/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327897/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327897/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327897/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327897/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/cc7f57ce-7b99-4e8c-9afe-48b9e81e2635.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cc7f57ce-7b99-4e8c-9afe-48b9e81e2635-1514769850.jpg",
+    "url_thumb": "https://www.astrobin.com/327897/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 182,
+    "w": 1824
+}

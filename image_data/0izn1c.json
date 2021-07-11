@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "-44.686",
+    "description": "APOD2 : April 15 2020 \r\n\r\n<a href=\"https://www.aapod2.com/blog/vela-super-nova-remnant-in-puppis\"><img src=\"https://cdn.astrobin.com/thumbs/YlDtRsqaIUjE_80x80_BTM-k_n8.png\"/></a>\r\n\r\nVela SNR project in Puppis => collaborative work  made in collaboration with Fabien Trébuchet , Patrick Delay, and David Néel, thanks to Fabien for the pre-processing and mosaic interation \r\n\r\nMosaic of 4 panels, 746 images in total in HaRGB still a very large field of about 8 ° wide\r\n\r\n Total 452 subs in  Halpha , OIII, et RVB, \r\n - RGB 182 subs@120s -20°C bin 1 gain zero \r\n - Halpha and OIII  270 subs@120s -20°C bin 1 gain 200\r\n\r\n8314x6232 px => soit 5.2° x 3.9°\r\nExposure 28hours 36 minutes",
+    "h": 8314,
+    "hash": "0izn1c",
+    "id": 464521,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "TS Optics Imaging Star 71/347 f/4.9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "https://www.sadr.fr/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "346.438",
+    "pixscale": "2.247",
+    "published": "2020-03-10T19:58:46.878015",
+    "ra": "128.923",
+    "radius": "3.243",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/464521/",
+    "revisions": [
+        "/api/v1/imagerevision/219351/",
+        "/api/v1/imagerevision/234645/"
+    ],
+    "subjects": [
+        "NGC 2645",
+        "NGC 2659",
+        "NGC2659",
+        "NGC2660",
+        "PK262-04.1",
+        "PK263+00.1",
+        "PK264-03.1",
+        "PK265-02.1",
+        "PK265-04.1",
+        "b Vel",
+        "d Vel",
+        "e Vel",
+        "n Vel"
+    ],
+    "title": "Vela Super Nova Remnant  in Puppis - with SADR Chile",
+    "updated": "2021-03-17T04:19:51.723130",
+    "uploaded": "2020-03-10T19:36:26.481300",
+    "url_duckduckgo": "https://www.astrobin.com/0izn1c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/0izn1c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/0izn1c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/0izn1c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/0izn1c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/0izn1c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/0izn1c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/75682987-f616-4847-92b2-172e195fe7a0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/75682987-f616-4847-92b2-172e195fe7a0-1583869398.jpg",
+    "url_thumb": "https://www.astrobin.com/0izn1c/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 398,
+    "w": 6232
+}

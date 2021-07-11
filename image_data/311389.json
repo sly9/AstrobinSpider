@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "-25.595",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 3803,
+    "hash": null,
+    "id": 311389,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805230/"
+    ],
+    "orientation": "90.042",
+    "pixscale": "1.047",
+    "published": "2017-09-07T17:52:56.886749",
+    "ra": "245.302",
+    "radius": "0.782",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/311389/",
+    "revisions": [],
+    "subjects": [
+        "The star Al Niyat (σSco)"
+    ],
+    "title": "Sharpless 2-9",
+    "updated": "2021-03-17T19:54:22.488318",
+    "uploaded": "2017-09-07T18:42:41.025730",
+    "url_duckduckgo": "https://www.astrobin.com/311389/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311389/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311389/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311389/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311389/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311389/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311389/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11158/2017/e94a58dc-16e1-44b3-a147-a24ac76604f1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11158/2017/e94a58dc-16e1-44b3-a147-a24ac76604f1-1582524200.jpg",
+    "url_thumb": "https://www.astrobin.com/311389/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 294,
+    "w": 3803
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 6,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "67.812",
+    "description": "This is a two panel mosaic merged in the middle, 7315 x 3900 pixels total. \r\n\r\nImage data dates, counts and exposure times:\r\n\r\n6/5/2018 - 7/10/2018\r\n\r\npanel 1:\r\nR = 22x 600s\r\nG = 18x 600s\r\nB = 17x 600s\r\nL = 19x 600s\r\n\r\npanel 2:\r\nR = 23x 600s\r\nG = 21x 600s\r\nB = 21x 600s\r\nL = 23x 600s",
+    "h": 3900,
+    "hash": null,
+    "id": 378855,
+    "imaging_cameras": [
+        "SBIG STX KAF-16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808700/"
+    ],
+    "orientation": "0.672",
+    "pixscale": "1.660",
+    "published": "2018-11-29T17:45:08.269816",
+    "ra": "312.177",
+    "radius": "1.911",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/378855/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "Iris and Dark Nebulae",
+    "updated": "2021-03-17T13:01:37.718742",
+    "uploaded": "2018-11-29T17:18:26.552881",
+    "url_duckduckgo": "https://www.astrobin.com/378855/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378855/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378855/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378855/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378855/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378855/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378855/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2018/d7502198-7703-4dcf-87fb-7376bb7960c4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2018/d7502198-7703-4dcf-87fb-7376bb7960c4-1582568848.png",
+    "url_thumb": "https://www.astrobin.com/378855/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 845,
+    "w": 7315
+}

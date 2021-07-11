@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 7,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "MAGIC Telescope (Major Atmospheric Gamma Imaging Cherenkov Telescopes), as its name implies, is an atmospheric Cherenkov telescope on La Palma. Its segmented mirror has a diameter of roughly 17 meter. The larger dome in the background to the right is the 10.4m GTC. The dome to the left is the 4.2m WHT.\r\n\r\nThis image consists of 12 8-second untracked exposures, at 15mm/F2.8 and ISO 6400. The foreground, the sky, and the sky in the mirror of MAGIC are stacked separately and then blended together in Photoshop.\r\n\r\nFor fun, I also uploaded a low-resolution version of the mask that I used to separate sky and foreground in Photoshop. You can imagine there is another mask for the mirror, but it's less interesting to show.",
+    "h": 2456,
+    "hash": null,
+    "id": 415415,
+    "imaging_cameras": [
+        "Nikon D800 Mod"
+    ],
+    "imaging_telescopes": [
+        "Tamron 15-30mm/F2.8"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 217,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811333/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-07-15T08:51:21.928522",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/415415/",
+    "revisions": [
+        "/api/v1/imagerevision/213123/"
+    ],
+    "subjects": [],
+    "title": "Milky Way and the MAGIC Telescope",
+    "updated": "2021-03-17T10:11:03.661804",
+    "uploaded": "2019-07-15T09:51:22.022136",
+    "url_duckduckgo": "https://www.astrobin.com/415415/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/415415/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/415415/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/415415/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/415415/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/415415/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/415415/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/415415/0/rawthumb/thumb/",
+    "user": "whwang",
+    "views": 2041,
+    "w": 3680
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "42.040",
+    "description": "",
+    "h": 1800,
+    "hash": null,
+    "id": 279876,
+    "imaging_cameras": [
+        "SBIG 8300M camera"
+    ],
+    "imaging_telescopes": [
+        "TEC 160 FL Refractor "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806569/"
+    ],
+    "orientation": "355.572",
+    "pixscale": "1.471",
+    "published": "2017-01-11T16:21:15.966077",
+    "ra": "198.992",
+    "radius": "0.460",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/279876/",
+    "revisions": [
+        "/api/v1/imagerevision/108145/",
+        "/api/v1/imagerevision/108734/",
+        "/api/v1/imagerevision/114535/",
+        "/api/v1/imagerevision/115470/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M 63 or NGC 5055: \"Sunflower, bathed in rivers of the stars\"",
+    "updated": "2021-06-16T16:08:57.180974",
+    "uploaded": "2017-01-11T15:46:43.459753",
+    "url_duckduckgo": "https://www.astrobin.com/279876/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/279876/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/279876/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/279876/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/279876/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/279876/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/279876/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/21436/2017/23313bb5-75bb-4fd4-ab1f-c84a07bf49a8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/21436/2017/23313bb5-75bb-4fd4-ab1f-c84a07bf49a8-1582574192.jpg",
+    "url_thumb": "https://www.astrobin.com/279876/0/rawthumb/thumb/",
+    "user": "Vadim@K",
+    "views": 937,
+    "w": 1350
+}

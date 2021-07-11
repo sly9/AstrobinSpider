@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 14,
+    "data_source": "UNKNOWN",
+    "dec": "69.332",
+    "description": "Whilst we were working on our TEC 140 mosaic of M81 and M82, Barry and I also imaged the same area using our Takahashi 106 and QSI 683.  We decided that in the wider view, we would aim to present the rich IFN.  We wondered if 20 minute Luminance subs (as opposed to our usual 10 minute subs) might be more effective at bringing this to the fore.\r\n\r\nThe Integrated Flux Nebula is, of course, extremely faint and so a balance needs to be struck between making it visible, whilst trying to avoid an ‘unnatural’ degree of brightness relative to the galaxies.   \r\n\r\nSince we already had the high resolution TEC data (<a href=\"https://astrob.in/393467/0/\">Messier 81, Messier 82, and associated objects in Ursa Major: Two Panel Mosaic – HaLRGB</a>) it seemed sensible to incorporate this in an attempt to give finer detail to the galaxy cores.  This gave rise to a rather absurd total integration time.  The TEC data is already accounted for, so I only included the Takahashi data in the submission form.  \r\n\r\nMessier 81 and Messier 82 are around 12 million light years away in the constellation of Ursa Major. \r\n\r\nData for this image were collected between 31 December 2018 and 3 March 2019 from a remote imaging rig in Spain owned and operated by Barry Wilson and Steve Milne.\r\n\r\nCapture details are as follows:\r\n\r\nTelescope: Takahashi FSQ 106\r\nCamera: QSI 683\r\nFilters: Astrodon\r\nMount: 10 Micron GM1000HPS\r\n\r\nHa: 30x 1200s\r\nLum: 44 x 1200s\r\nRed: 27 x 600s\r\nGreen: 27 x 600s\r\nBlue: 27 x 600s\r\n\r\nTelescope: TEC140\r\nCamera: QSI 690\r\nFilters: Astrodon\r\nMount: 10 Micron GM2000HPS\r\n\r\nHa: 48x 1200s\r\nLum: 96 x 600s\r\nRed: 48 x 600s\r\nGreen: 48 x 600s\r\nBlue: 48 x 600s\r\n\r\nA total of 94 hours and 10 minutes exposure (but see above).\r\n\r\nData capture: Steve Milne & Barry Wilson\r\nImage Processing: Steve Milne",
+    "h": 2441,
+    "hash": null,
+    "id": 394804,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 193,
+    "link": "https://stevemilne.smugmug.com/Photos/Sky/Galaxies/i-dzqMNws",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "270.192",
+    "pixscale": "2.096",
+    "published": "2019-03-09T17:09:55.303948",
+    "ra": "149.306",
+    "radius": "1.184",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394804/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "Messier 81 & 82 - Widefield",
+    "updated": "2021-03-23T15:03:52.222922",
+    "uploaded": "2019-03-09T17:09:55.475123",
+    "url_duckduckgo": "https://www.astrobin.com/394804/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394804/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394804/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394804/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394804/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394804/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394804/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2019/a534eec3-0843-4268-8a99-0f6095278fd2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2019/a534eec3-0843-4268-8a99-0f6095278fd2-1582605913.jpg",
+    "url_thumb": "https://www.astrobin.com/394804/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 815,
+    "w": 3251
+}

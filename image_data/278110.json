@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 80,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "27.745",
+    "description": "LRGB Image\r\n2x5h RGB + 2x5h Lum",
+    "h": 3742,
+    "hash": null,
+    "id": 278110,
+    "imaging_cameras": [
+        "Canon EOS 50D debayert",
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph",
+        "TSOptics TS100Q"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 468,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "323.259",
+    "pixscale": "2.129",
+    "published": "2016-12-31T14:44:28.149844",
+    "ra": "64.907",
+    "radius": "1.988",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/278110/",
+    "revisions": [],
+    "subjects": [
+        "The star φTau"
+    ],
+    "title": "VDB 27, The dusty Bunny",
+    "updated": "2021-05-13T17:25:21.244453",
+    "uploaded": "2016-12-31T14:44:28.682213",
+    "url_duckduckgo": "https://www.astrobin.com/278110/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/278110/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/278110/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/278110/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/278110/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/278110/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/278110/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20996/2020/44449b48-6698-40cf-a04c-c12925aad39c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20996/2020/44449b48-6698-40cf-a04c-c12925aad39c-1598963008.jpg",
+    "url_thumb": "https://www.astrobin.com/278110/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 3217,
+    "w": 5583
+}

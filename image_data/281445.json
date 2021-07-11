@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "19.480",
+    "description": "Image Data:\r\nDate: 19., 20.01.2017\r\nLocation: Kreben / Bavaria Germany\r\nTelescope: 10\" Orion UK f4,8\r\nCorrector: Gyulai GPU\r\nCamera: Atik 383L+ at -20°C\r\nintegration time: LRGB 186:78:66:48\r\nGuiding: Ts Off Axis Guider and M-Gen ll\r\nProcessing: DSS, Fitswork, Photo Shop CS6",
+    "h": 1405,
+    "hash": null,
+    "id": 281445,
+    "imaging_cameras": [
+        "Atik 383L+"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK CT10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799515/"
+    ],
+    "orientation": "177.855",
+    "pixscale": "1.336",
+    "published": "2017-01-26T18:41:47.492130",
+    "ra": "65.567",
+    "radius": "0.504",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/281445/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Hind's Variable Nebula NGC 1555",
+    "updated": "2021-03-17T21:54:44.637763",
+    "uploaded": "2017-01-26T18:41:47.828120",
+    "url_duckduckgo": "https://www.astrobin.com/281445/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/281445/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/281445/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/281445/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/281445/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/281445/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/281445/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/27946509-5f77-4485-87d1-446890aa9df9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/27946509-5f77-4485-87d1-446890aa9df9-1485456493.jpg",
+    "url_thumb": "https://www.astrobin.com/281445/0/rawthumb/thumb/",
+    "user": "Chillspeedy",
+    "views": 583,
+    "w": 1824
+}

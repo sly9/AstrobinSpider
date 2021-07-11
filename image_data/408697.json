@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-59.795",
+    "description": "Tricolour.\r\n\r\nRed 132 x 30 seconds\r\nGreen 128 x 30 seconds\r\nBlue 143 x 30 seconds + stacked Baader Semi-Apo filter to reduce CA bloat\r\n\r\nUnguided on an HEQ5 Pro.",
+    "h": 1585,
+    "hash": null,
+    "id": 408697,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Kson ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803398/"
+    ],
+    "orientation": "86.873",
+    "pixscale": "2.253",
+    "published": "2019-06-04T11:58:04.725333",
+    "ra": "161.140",
+    "radius": "0.955",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408697/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3372",
+        "eta Car nebula"
+    ],
+    "title": "NGC3372 Eta Carina Nebula",
+    "updated": "2021-03-17T10:43:47.971789",
+    "uploaded": "2019-06-04T12:58:04.880875",
+    "url_duckduckgo": "https://www.astrobin.com/408697/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408697/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408697/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408697/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408697/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408697/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408697/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2606/2019/a7e21e70-adf0-42a9-bd59-c76f2976ec31.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2606/2019/a7e21e70-adf0-42a9-bd59-c76f2976ec31-1582525858.jpg",
+    "url_thumb": "https://www.astrobin.com/408697/0/rawthumb/thumb/",
+    "user": "Cometcatcher",
+    "views": 144,
+    "w": 2608
+}

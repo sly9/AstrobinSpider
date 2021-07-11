@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "60.618",
+    "description": "Data taken 3 years apart from SE London in March 2016 and Early 2019\r\nDisappointed that my 2019 data did not reveal much Oiii so I combined the data from both years into one image.\r\n\r\nTaken with completely different equipment slightly different orientation and different scale.\r\n\r\n2016 ED80 and Atik314L  (3 hours Ha, 45m Oiii and 1hour Sii)\r\n2019 SW130PDS and Atik460EX (3 hours 20mins Ha, 1 hour Oiii, 1 hour Sii)\r\n\r\nTotals \r\n6 hours 20mins Ha\r\n1h 45mins Oiii\r\n2 hours Sii\r\n\r\nGrand total 10 hours 5 mins",
+    "h": 926,
+    "hash": null,
+    "id": 395989,
+    "imaging_cameras": [
+        "Atik 460 EX Mono Atik460 EX Mono",
+        "ATIK 314L Mono CCD Atik"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 80ED",
+        "Skywatcher Explorer 130PDS f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798364/"
+    ],
+    "orientation": "208.614",
+    "pixscale": "2.739",
+    "published": "2019-03-17T00:17:06.947099",
+    "ra": "44.269",
+    "radius": "0.586",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395989/",
+    "revisions": [
+        "/api/v1/imagerevision/173609/"
+    ],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "IC1871 Whirling Dervish",
+    "updated": "2021-07-03T12:21:14.593690",
+    "uploaded": "2019-03-17T00:17:07.148208",
+    "url_duckduckgo": "https://www.astrobin.com/395989/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395989/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395989/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395989/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395989/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395989/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395989/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/358/2019/c8ff3ddf-3dc7-4dc9-bb40-b25dc6c387a3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/358/2019/c8ff3ddf-3dc7-4dc9-bb40-b25dc6c387a3-1582621546.png",
+    "url_thumb": "https://www.astrobin.com/395989/0/rawthumb/thumb/",
+    "user": "carastro",
+    "views": 742,
+    "w": 1232
+}

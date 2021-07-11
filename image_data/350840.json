@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "UNKNOWN",
+    "dec": "57.981",
+    "description": "HA+Sii+OIII\r\nSHO AIP script Pixinsight",
+    "h": 1315,
+    "hash": null,
+    "id": 350840,
+    "imaging_cameras": [
+        "Nikon D600 MONO Skarpen"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED Ola ska"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "223.115",
+    "pixscale": "3.177",
+    "published": "2018-06-11T18:42:12.923254",
+    "ra": "324.268",
+    "radius": "1.286",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/350840/",
+    "revisions": [
+        "/api/v1/imagerevision/147834/",
+        "/api/v1/imagerevision/147906/"
+    ],
+    "subjects": [
+        "B161",
+        "IC 1396",
+        "IC1396",
+        "Sh2-131",
+        "VdB142",
+        "Other"
+    ],
+    "title": "IC1396",
+    "updated": "2021-03-17T15:13:02.201593",
+    "uploaded": "2018-06-11T19:42:15.608717",
+    "url_duckduckgo": "https://www.astrobin.com/350840/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350840/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350840/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350840/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350840/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350840/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350840/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/37301331-ee42-4e3b-bb70-aea036d5990f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/37301331-ee42-4e3b-bb70-aea036d5990f-1528742654.png",
+    "url_thumb": "https://www.astrobin.com/350840/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 255,
+    "w": 1824
+}

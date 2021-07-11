@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "43.734",
+    "description": "Halpha = 13x1800s\r\nL =  15x600s\r\nRGB =  7x450s bin 2x2\r\n\r\nOriginal image with Halpha filter\r\n\r\nImmagine originale con filtro Halpha",
+    "h": 2047,
+    "hash": null,
+    "id": 300437,
+    "imaging_cameras": [
+        "Atik 4000M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 120/900 ed "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803647/"
+    ],
+    "orientation": "359.680",
+    "pixscale": "1.926",
+    "published": "2017-06-23T22:54:44.426085",
+    "ra": "304.024",
+    "radius": "0.774",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300437/",
+    "revisions": [
+        "/api/v1/imagerevision/118986/"
+    ],
+    "subjects": [],
+    "title": "Propeller - DWB 111 - Simeis 57",
+    "updated": "2021-03-17T20:37:33.027479",
+    "uploaded": "2017-06-21T17:59:53.640205",
+    "url_duckduckgo": "https://www.astrobin.com/300437/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300437/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300437/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300437/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300437/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300437/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300437/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12704/2017/8f1e735a-c748-49d3-ae12-d5f3c7bdb4b8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/12704/2017/8f1e735a-c748-49d3-ae12-d5f3c7bdb4b8-1582449620.jpg",
+    "url_thumb": "https://www.astrobin.com/300437/0/rawthumb/thumb/",
+    "user": "Jerry@Caselle",
+    "views": 257,
+    "w": 2047
+}

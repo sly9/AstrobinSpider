@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "66.072",
+    "description": "",
+    "h": 3632,
+    "hash": null,
+    "id": 356049,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "TAKAHASHI FSQ-106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 56,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809245/"
+    ],
+    "orientation": "359.201",
+    "pixscale": "0.932",
+    "published": "2018-07-15T15:19:58.357247",
+    "ra": "325.706",
+    "radius": "0.847",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/356049/",
+    "revisions": [
+        "/api/v1/imagerevision/150801/"
+    ],
+    "subjects": [
+        "NGC 7129",
+        "NGC 7142"
+    ],
+    "title": "NGC7129 Reflection Nebula/Open Cluster in Cepheus",
+    "updated": "2021-06-01T21:40:07.501780",
+    "uploaded": "2018-07-15T16:20:01.781456",
+    "url_duckduckgo": "https://www.astrobin.com/356049/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/356049/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/356049/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/356049/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/356049/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/356049/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/356049/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22865/2018/e7bef81b-410a-48cf-8437-0149bac09a5e.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22865/2018/e7bef81b-410a-48cf-8437-0149bac09a5e-1582583568.jpeg",
+    "url_thumb": "https://www.astrobin.com/356049/0/rawthumb/thumb/",
+    "user": "MasahiroTakahashi",
+    "views": 242,
+    "w": 5449
+}

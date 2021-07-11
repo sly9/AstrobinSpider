@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "44.462",
+    "description": "pelican nebula, 2017-2018\r\nSHO mapping\r\nmix of baader and astrodon filters\r\nAT10RC + CCDT67 reducer (f=1425mm)\r\nSII = 26x1800s = 13h\r\nHa = 17x1800s = 8h30m\r\nOIII = 50x1800s = 25h\r\n\r\ntotal 46h30m\r\nmount: mach1gto\r\ncamera: stt-8300m + fw8g-stt\r\nacquisition: ACP expert/scheduler\r\nprocessing: Pixinsight\r\n\r\nhad to crop sides a bit due to pointing errors leaving low-SNR areas.",
+    "h": 2468,
+    "hash": null,
+    "id": 353716,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Astro-Tech AT10RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807696/"
+    ],
+    "orientation": "359.378",
+    "pixscale": "0.782",
+    "published": "2018-06-30T23:21:16.054362",
+    "ra": "312.733",
+    "radius": "0.422",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/353716/",
+    "revisions": [
+        "/api/v1/imagerevision/149473/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula"
+    ],
+    "title": "pelican - at10rc - stanford",
+    "updated": "2021-03-17T15:01:22.188629",
+    "uploaded": "2018-07-01T00:07:28.200167",
+    "url_duckduckgo": "https://www.astrobin.com/353716/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/353716/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/353716/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/353716/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/353716/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/353716/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/353716/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/7b3a8ede-3d79-4603-8749-bc5eabc6f54e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/7b3a8ede-3d79-4603-8749-bc5eabc6f54e-1582628650.jpg",
+    "url_thumb": "https://www.astrobin.com/353716/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 336,
+    "w": 3004
+}

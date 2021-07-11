@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 27,
+    "data_source": "BACKYARD",
+    "dec": "69.310",
+    "description": "Processing this one was absolutely brutal. I’ve been sitting on these data for over a month because my first two attempts looked absolutely terrible. I just couldn’t get the colors to work at all. I finally gave it another shot last Friday and I’ve been working on it ever since. For the purists: You should know I masked and pasted the crap out of this because once I finally got the stars, background and M82 to look nice, M81 looked downright ugly. So I tried just processing M81 and once I got it looking how I wanted, M82 had been completely destroyed. I definitely feel like this is my most ‘overprocessed’ image, and I still managed to blow out the core of M81. Special thanks to Jeremy Scheere, Cameron Jack, Samara Nagle, Brian Fulda, Jarrett Trezzo and Elie Kheirallah for input on this one!\r\n\r\nFYI: Despite the integration time, there was no trace of IFN even in my superlum stack. Bortle 7-8 skies are apparently just too bright to capture it.",
+    "h": 3255,
+    "hash": null,
+    "id": 402244,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific PN-208/812 Carbon Fiber OTA"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "88.474",
+    "pixscale": "0.912",
+    "published": "2019-04-22T13:05:05.411162",
+    "ra": "149.004",
+    "radius": "0.705",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/402244/",
+    "revisions": [],
+    "subjects": [
+        "Bode's Galaxy",
+        "Cigar Galaxy",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 and M82",
+    "updated": "2021-04-03T09:48:54.376928",
+    "uploaded": "2019-04-22T13:45:32.592927",
+    "url_duckduckgo": "https://www.astrobin.com/402244/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402244/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402244/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402244/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402244/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402244/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402244/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/bd59afa3-515b-4f56-94c3-891b932b14d0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/bd59afa3-515b-4f56-94c3-891b932b14d0-1604549559.png",
+    "url_thumb": "https://www.astrobin.com/402244/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 1145,
+    "w": 4517
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "27.894",
+    "description": "13 X 900 secondes Luminance (BIN 1)\r\n15 X 240 secondes Rouge (BIN 1)\r\n15 X 240 secondes Vert (BIN 1)\r\n15 X 240 secondes Bleu (BIN 1)\r\n\r\nTotal: 6.25 hres",
+    "h": 2335,
+    "hash": null,
+    "id": 409401,
+    "imaging_cameras": [
+        "CCD Labs QHY9-M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800722/"
+    ],
+    "orientation": "0.178",
+    "pixscale": "1.114",
+    "published": "2019-06-08T15:59:13.643631",
+    "ra": "246.876",
+    "radius": "0.617",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409401/",
+    "revisions": [
+        "/api/v1/imagerevision/182038/"
+    ],
+    "subjects": [],
+    "title": "Nébuleuse planétaire Abell 39",
+    "updated": "2021-05-09T04:47:19.309899",
+    "uploaded": "2019-06-08T16:59:17.736875",
+    "url_duckduckgo": "https://www.astrobin.com/409401/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409401/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409401/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409401/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409401/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409401/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409401/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1512/2019/d7796481-c2b9-49c4-ba00-03f24cd6fbf9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1512/2019/d7796481-c2b9-49c4-ba00-03f24cd6fbf9-1582434491.png",
+    "url_thumb": "https://www.astrobin.com/409401/0/rawthumb/thumb/",
+    "user": "mario_hebert",
+    "views": 264,
+    "w": 3230
+}

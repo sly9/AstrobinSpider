@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.805",
+    "description": "This field encompasses the galaxy group [CHM2007] HDC 908 identified in the catalog \"Groups of Galaxies in the Two Micron All Sky Redshift Survey\" (Crook et. al.). There are six members (NGC  5934, 5935, 5943, 5945, 5947 and UGC 9873); NGC 5945 is the dominant galaxy (with the ring and extended faint plumes - upper center-left). There are other visible background galaxies  in this field - some with high redshift values that put their lookback distance at distances of about 1 billion light years. There is also a high proper-motion star - LHS 3075 - just below NGC 5945.  Some of these galaxies and some of the brighter stars are identified in the <a href=\"http://www.jthommes.com/Astro/images/NGC5945_Edge7_PS3s-Rt-Crp_annotated.jpg\">annotated image</a>. Horizontal FOV is approximately 38 arc minutes.",
+    "h": 2100,
+    "hash": "2jjf3g",
+    "id": 466880,
+    "imaging_cameras": [
+        "SBIG ST8300M"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 925HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "http://www.jthommes.com/Astro/NGC5945.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803871/"
+    ],
+    "orientation": "0.160",
+    "pixscale": "0.811",
+    "published": "2020-03-20T22:23:41.863409",
+    "ra": "232.334",
+    "radius": "0.394",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/466880/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5934",
+        "NGC 5935",
+        "NGC 5943",
+        "NGC 5945",
+        "NGC 5947"
+    ],
+    "title": "NGC 5945 in Bootes",
+    "updated": "2021-03-17T04:07:09.901103",
+    "uploaded": "2020-03-20T22:23:42.018003",
+    "url_duckduckgo": "https://www.astrobin.com/2jjf3g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2jjf3g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2jjf3g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2jjf3g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2jjf3g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2jjf3g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2jjf3g/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14020/2020/5fac228f-fa97-44e4-a189-433c6500a367.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14020/2020/5fac228f-fa97-44e4-a189-433c6500a367-1584743833.jpg",
+    "url_thumb": "https://www.astrobin.com/2jjf3g/0/rawthumb/thumb/",
+    "user": "jthommes",
+    "views": 108,
+    "w": 2800
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "35.319",
+    "description": "Camera gain 128, temperature (-15) Deg.C",
+    "h": 2732,
+    "hash": "1i7uz7",
+    "id": 429713,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808539/"
+    ],
+    "orientation": "176.157",
+    "pixscale": "0.593",
+    "published": "2019-09-27T05:55:31.317344",
+    "ra": "300.012",
+    "radius": "0.409",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/429713/",
+    "revisions": [
+        "/api/v1/imagerevision/194472/"
+    ],
+    "subjects": [],
+    "title": "Tulip Nebula (  Sh2-101 )",
+    "updated": "2021-06-14T03:57:01.246569",
+    "uploaded": "2019-09-27T06:55:31.465086",
+    "url_duckduckgo": "https://www.astrobin.com/1i7uz7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1i7uz7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1i7uz7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1i7uz7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1i7uz7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1i7uz7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1i7uz7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25650/2019/507737f5-32b0-448e-adaa-a3e4bcf2419f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25650/2019/507737f5-32b0-448e-adaa-a3e4bcf2419f-1582436388.jpg",
+    "url_thumb": "https://www.astrobin.com/1i7uz7/0/rawthumb/thumb/",
+    "user": "vivid_grey",
+    "views": 166,
+    "w": 4148
+}

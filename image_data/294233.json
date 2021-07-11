@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "Got this data last night after a period of rain/gusty wind. \r\n\r\nVersion C: Added color data (blurred) from my RC8 data taken couple of years ago.\r\n\r\nVersion E: Reprocess to get rid of the crinkly feel of Version D. Had to use stronger mask to get prevent deconvolution artifacts in low signal areas",
+    "h": 936,
+    "hash": null,
+    "id": 294233,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-05-02T17:04:04.519862",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294233/",
+    "revisions": [
+        "/api/v1/imagerevision/115607/",
+        "/api/v1/imagerevision/115643/",
+        "/api/v1/imagerevision/115685/",
+        "/api/v1/imagerevision/116200/"
+    ],
+    "subjects": [],
+    "title": "M51 ",
+    "updated": "2021-03-17T21:01:30.686562",
+    "uploaded": "2017-05-02T18:04:05.668642",
+    "url_duckduckgo": "https://www.astrobin.com/294233/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294233/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294233/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294233/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294233/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294233/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294233/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/294233/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 760,
+    "w": 1300
+}

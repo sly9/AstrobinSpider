@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "38.380",
+    "description": "H-alpha/OIII Image",
+    "h": 3511,
+    "hash": null,
+    "id": 300894,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 142,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "82.627",
+    "pixscale": "1.264",
+    "published": "2017-06-25T16:59:04.723339",
+    "ra": "303.020",
+    "radius": "1.003",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300894/",
+    "revisions": [],
+    "subjects": [
+        "Crescent Nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888",
+    "updated": "2021-07-04T14:14:27.418160",
+    "uploaded": "2017-06-25T17:59:05.962579",
+    "url_duckduckgo": "https://www.astrobin.com/300894/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300894/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300894/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300894/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300894/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300894/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300894/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20996/2020/1eb16d7b-e712-4924-958d-584a0b8c0b4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20996/2020/1eb16d7b-e712-4924-958d-584a0b8c0b4b-1599056709.jpg",
+    "url_thumb": "https://www.astrobin.com/300894/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 896,
+    "w": 4503
+}

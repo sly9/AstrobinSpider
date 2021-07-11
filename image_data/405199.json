@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "14.897",
+    "description": "",
+    "h": 2800,
+    "hash": null,
+    "id": 405199,
+    "imaging_cameras": [
+        "ZWO  ASI ASI294PRO"
+    ],
+    "imaging_telescopes": [
+        "Celestron 8\" EdgeHD C8 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 10,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808127/"
+    ],
+    "orientation": "178.741",
+    "pixscale": "0.458",
+    "published": "2019-05-11T06:37:56.428441",
+    "ra": "183.455",
+    "radius": "0.252",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405199/",
+    "revisions": [],
+    "subjects": [
+        "M 98",
+        "NGC 4186",
+        "NGC 4192"
+    ],
+    "title": "M98",
+    "updated": "2021-03-17T11:00:08.351422",
+    "uploaded": "2019-05-11T07:35:20.981350",
+    "url_duckduckgo": "https://www.astrobin.com/405199/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405199/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405199/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405199/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405199/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405199/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405199/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b433e0b3-70a7-47fe-b5ac-f3a9b214b8eb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b433e0b3-70a7-47fe-b5ac-f3a9b214b8eb-1557560264.jpg",
+    "url_thumb": "https://www.astrobin.com/405199/0/rawthumb/thumb/",
+    "user": "Adringhes",
+    "views": 81,
+    "w": 2800
+}

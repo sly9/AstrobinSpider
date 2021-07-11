@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.318",
+    "description": "ic 417/ ngc 1931  (  3 panels mosaic )\r\n\r\nObject : ic 417/ ngc 1931\r\nDate :  Nov.2019-Jan.2020\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB,Ha\r\nExposure : \r\nR:300sx30,G:300sx30,B:300sx30,L:300sx60 , Ha:1200sx8 ( ic 417 ~15.2hr)\r\nR:300sx29,G:300sx30,B:300sx30,L:300sx59 , Ha:1200sx8 (~15hr)\r\nR:300sx30,G:300sx30,B:300sx29,L:300sx57 , Ha:1200sx7 ( ngc1931 ~14.5hr)\r\n\r\nGuiding: OAG ASI174,\r\nProcessing: PI、PS-CC",
+    "h": 2632,
+    "hash": "rbrou3",
+    "id": 461848,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 86,
+    "link": "https://astro-noodle.blogspot.com/2020/03/ic417.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "178.581",
+    "pixscale": "0.669",
+    "published": "2020-03-05T08:37:58.840960",
+    "ra": "82.424",
+    "radius": "0.581",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/461848/",
+    "revisions": [
+        "/api/v1/imagerevision/217404/",
+        "/api/v1/imagerevision/217560/"
+    ],
+    "subjects": [
+        "IC 417",
+        "NGC 1931",
+        "The star φAur"
+    ],
+    "title": "the spider and the fly  , ic 417/ ngc 1931  (  3 panels mosaic )",
+    "updated": "2021-03-17T04:31:35.690357",
+    "uploaded": "2020-03-04T14:20:25.280857",
+    "url_duckduckgo": "https://www.astrobin.com/rbrou3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rbrou3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rbrou3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rbrou3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rbrou3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rbrou3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rbrou3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/2541072e-e171-4fbd-8d74-ff6a11805eb7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/2541072e-e171-4fbd-8d74-ff6a11805eb7-1583529701.png",
+    "url_thumb": "https://www.astrobin.com/rbrou3/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 253,
+    "w": 5668
+}

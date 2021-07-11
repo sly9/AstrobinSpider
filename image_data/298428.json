@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "4.936",
+    "description": "Immagine HRGB della nebulosa rosetta in monoceros \r\nottenuta con 80triplet tecnosky con \r\nfocheggiatore elettronico ridotto a 380mm \r\ncon reducer flattener 0.8x , CCD starlight SXVR-h16 operante a -25c°\r\nsu Montatura EQ6 eqmodded autoguiodata con orion SSAG e \r\nscopos 66 tutto controllato da voyager softaware,\r\npose da : Halfa 6nm 10x900sec bin 1x1 \r\nRGB 10x300 sec bin 1x1 per ogni canale rgb ,elaborazione con maxim Dl e photoshop. Seguiranno : LRGB,Hubble palette, CFHT palette , H-OIII-SII-LRGB palette H-OIII bicolor ",
+    "h": 2048,
+    "hash": null,
+    "id": 298428,
+    "imaging_cameras": [
+        "Starlight-XPress SXVR-H16"
+    ],
+    "imaging_telescopes": [
+        "Tecnosky 80/480  80/480 triplet fpl-53"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799195/"
+    ],
+    "orientation": "359.995",
+    "pixscale": "3.915",
+    "published": "2017-06-04T19:06:19.788420",
+    "ra": "97.989",
+    "radius": "1.569",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298428/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2244",
+    "updated": "2021-03-17T20:44:58.275851",
+    "uploaded": "2017-06-04T20:06:20.536737",
+    "url_duckduckgo": "https://www.astrobin.com/298428/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298428/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298428/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298428/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298428/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298428/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298428/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3663/2017/d1fd8141-18f3-4ab1-81bf-9906518a63db.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3663/2017/d1fd8141-18f3-4ab1-81bf-9906518a63db-1582507115.jpg",
+    "url_thumb": "https://www.astrobin.com/298428/0/rawthumb/thumb/",
+    "user": "marstar67",
+    "views": 104,
+    "w": 2032
+}

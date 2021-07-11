@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "-25.291",
+    "description": "Sculptor Galaxy - NGC 253; LRGB.",
+    "h": 2056,
+    "hash": null,
+    "id": 420130,
+    "imaging_cameras": [
+        "FLI Microline 16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811538/"
+    ],
+    "orientation": "187.280",
+    "pixscale": "1.130",
+    "published": "2019-08-10T03:41:52.449790",
+    "ra": "11.898",
+    "radius": "0.549",
+    "remote_source": "DSC",
+    "resource_uri": "/api/v1/image/420130/",
+    "revisions": [
+        "/api/v1/imagerevision/188494/",
+        "/api/v1/imagerevision/188523/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "NGC253",
+        "Sculptor galaxy"
+    ],
+    "title": "Sculptor Galaxy",
+    "updated": "2021-03-17T09:48:18.479922",
+    "uploaded": "2019-08-10T04:36:24.814439",
+    "url_duckduckgo": "https://www.astrobin.com/420130/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420130/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420130/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420130/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420130/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420130/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420130/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2212/2019/b47bd3d9-81c1-418d-9e2f-70be378be7c8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2212/2019/b47bd3d9-81c1-418d-9e2f-70be378be7c8-1582615792.jpg",
+    "url_thumb": "https://www.astrobin.com/420130/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 251,
+    "w": 2830
+}

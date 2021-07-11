@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "-18.665",
+    "description": "NGC 3242, is a planetary nebula located in the constellation Hydra, around 1400 to 2500 light years away. It is also known as the Ghost of Jupiter, or Jupiter's Ghost as its apparent size is similar to the Planet Jupiter.  William Herschel discovered the nebula on February 7, 1785 from the Cape of Good Hope, in South Africa.\r\n\r\nThe nebula measures around two light years long from end to end, and contains a central white dwarf with an apparent magnitude of eleven. The inner layers of the nebula were formed some 1,500 years ago.\r\n\r\nI have been collecting data on this for a few years now, from multiple cameras, and locations.  So, now it was time to put it all together.  It may not look like it, but this may be one of the toughest images I have attempted to process to date.  The dynamic range is incredible.  The red and blue gas regions to the left of the nebula are very dim, and the nebula itself very bright.  There is also a lot of very dim dust throughout the full frame I wanted to keep.  It gives an uneven Smokey red brown look throughout background.    Both broad-band (Lum, Red Green Blue) and narrow-band (Ha, OIII) data were used to create the image to try and highlight different areas\r\n\r\nThe planetary has what looks like waves of matter blown away.  This was very strong in OIII, and not present in the Ha data.  Many galaxies are spread throughout the background.\r\n\r\nThanks for looking.\r\n   \r\nExposure Details:\r\nLum 75X900\r\nRed 27X450\r\nGreen 37X450\r\nBlue 24X450\r\nHa 45X1200\r\nOIII 38X1200\r\nTotal time 58 hours\r\n\r\nInstruments Used:\r\n10 Inch RCOS fl 9.1\r\nAstro Physics AP-900 Mount\r\nSBIG STL 11000m\r\nFLI Filter Wheel\r\nAstrodon Lum, Red, Green, Blue Filters\r\nBaader Planetarium H-alpha 7nm Narrowband-Filter\r\nBaader Planetarium O-III 8.5 Narrowband-Filter",
+    "h": 2578,
+    "hash": null,
+    "id": 342879,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 10\" Ritchey-Chrétien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 131,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "176.853",
+    "pixscale": "0.803",
+    "published": "2018-04-22T03:01:46.163542",
+    "ra": "156.207",
+    "radius": "0.519",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/342879/",
+    "revisions": [],
+    "subjects": [
+        "Ghost of Jupiter",
+        "NGC 3242"
+    ],
+    "title": "The Ghost of Jupiter",
+    "updated": "2021-04-17T21:04:10.994049",
+    "uploaded": "2018-04-22T04:01:49.033758",
+    "url_duckduckgo": "https://www.astrobin.com/342879/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/342879/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/342879/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/342879/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/342879/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/342879/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/342879/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d94ffbe2-b327-49fb-9c11-9d8389d9a846.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d94ffbe2-b327-49fb-9c11-9d8389d9a846-1524366311.jpg",
+    "url_thumb": "https://www.astrobin.com/342879/0/rawthumb/thumb/",
+    "user": "trobison",
+    "views": 642,
+    "w": 3868
+}

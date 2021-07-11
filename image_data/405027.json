@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.392",
+    "description": "The elliptical galaxy M87 is the home of several trillion stars, a supermassive black hole and a family of roughly 15,000 globular star clusters. The monstrous M87 is the dominant member of the neighboring Virgo cluster of galaxies, which contains some 2,000 galaxies.\r\n\r\nThe jet is a black-hole-powered stream of material that is being ejected from M87’s core. As gaseous material from the center of the galaxy accretes onto the black hole, the energy released produces a stream of subatomic particles that are accelerated to velocities near the speed of light.",
+    "h": 500,
+    "hash": null,
+    "id": 405027,
+    "imaging_cameras": [
+        "QHYCCD QHY8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810358/"
+    ],
+    "orientation": "95.375",
+    "pixscale": "1.542",
+    "published": "2019-05-09T18:27:55.453337",
+    "ra": "187.706",
+    "radius": "0.151",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/405027/",
+    "revisions": [],
+    "subjects": [
+        "IC3443",
+        "M 87",
+        "M87",
+        "NGC 4486"
+    ],
+    "title": "M87 jet",
+    "updated": "2021-03-17T11:00:59.502360",
+    "uploaded": "2019-05-09T19:27:55.572749",
+    "url_duckduckgo": "https://www.astrobin.com/405027/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405027/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405027/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405027/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405027/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405027/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405027/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c584cf7e-1336-494d-8f0b-5d4ba8b442bc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c584cf7e-1336-494d-8f0b-5d4ba8b442bc-1557430271.jpg",
+    "url_thumb": "https://www.astrobin.com/405027/0/rawthumb/thumb/",
+    "user": "Sergiy_Vakulenko",
+    "views": 299,
+    "w": 500
+}

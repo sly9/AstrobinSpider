@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "38.358",
+    "description": "Second narrow band attempt. Better conditions and more time of integration.",
+    "h": 2508,
+    "hash": null,
+    "id": 349677,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 150/750 PDS Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806796/"
+    ],
+    "orientation": "158.217",
+    "pixscale": "0.927",
+    "published": "2018-06-03T18:40:36.492877",
+    "ra": "303.032",
+    "radius": "0.585",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/349677/",
+    "revisions": [
+        "/api/v1/imagerevision/147124/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 / Crescent Nebula",
+    "updated": "2021-03-17T15:18:20.996299",
+    "uploaded": "2018-06-02T19:51:21.387182",
+    "url_duckduckgo": "https://www.astrobin.com/349677/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/349677/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/349677/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/349677/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/349677/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/349677/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/349677/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22095/2018/d6370340-8a2d-4bca-a2f7-e01c62e3c0f4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22095/2018/d6370340-8a2d-4bca-a2f7-e01c62e3c0f4-1582580521.jpg",
+    "url_thumb": "https://www.astrobin.com/349677/0/rawthumb/thumb/",
+    "user": "fschiel",
+    "views": 244,
+    "w": 3785
+}

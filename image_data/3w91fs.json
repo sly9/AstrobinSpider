@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-43.014",
+    "description": "",
+    "h": 1704,
+    "hash": "3w91fs",
+    "id": 433844,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 118,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "212.104",
+    "pixscale": "1.318",
+    "published": "2019-10-18T22:02:04.591328",
+    "ra": "201.352",
+    "radius": "0.540",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/433844/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5128"
+    ],
+    "title": "Centaurus A - NGC 5128",
+    "updated": "2021-03-17T08:39:56.388269",
+    "uploaded": "2019-10-18T23:02:05.217454",
+    "url_duckduckgo": "https://www.astrobin.com/3w91fs/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3w91fs/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3w91fs/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3w91fs/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3w91fs/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3w91fs/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3w91fs/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3e20e66f-e7e0-4579-b93a-09bf97541160.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3e20e66f-e7e0-4579-b93a-09bf97541160-1571440424.jpg",
+    "url_thumb": "https://www.astrobin.com/3w91fs/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 246,
+    "w": 2408
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "38.340",
+    "description": "",
+    "h": 1360,
+    "hash": null,
+    "id": 293020,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806981/"
+    ],
+    "orientation": "359.996",
+    "pixscale": "2.643",
+    "published": "2017-04-24T02:04:17.092137",
+    "ra": "303.051",
+    "radius": "0.903",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293020/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC6888: The Crescent Nebula",
+    "updated": "2021-03-17T21:05:58.666863",
+    "uploaded": "2017-04-24T03:04:17.402998",
+    "url_duckduckgo": "https://www.astrobin.com/293020/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293020/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293020/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293020/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293020/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293020/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293020/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/06dbf74e-aefc-4907-9d4e-dd853335a4a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/06dbf74e-aefc-4907-9d4e-dd853335a4a9-1582599042.jpg",
+    "url_thumb": "https://www.astrobin.com/293020/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 350,
+    "w": 2048
+}

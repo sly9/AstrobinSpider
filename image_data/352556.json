@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "UNKNOWN",
+    "dec": "44.003",
+    "description": "",
+    "h": 1185,
+    "hash": null,
+    "id": 352556,
+    "imaging_cameras": [
+        "Nikon D600 MONO Skarpen"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED Ola ska"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "81.702",
+    "pixscale": "3.175",
+    "published": "2018-06-23T08:49:12.650202",
+    "ra": "314.079",
+    "radius": "2.948",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/352556/",
+    "revisions": [
+        "/api/v1/imagerevision/148820/",
+        "/api/v1/imagerevision/219498/"
+    ],
+    "subjects": [
+        "IC 5068",
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 55Cyg",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star 60Cyg",
+        "The star ξCyg",
+        "Other"
+    ],
+    "title": "NGC 7000",
+    "updated": "2021-06-17T07:52:18.752399",
+    "uploaded": "2018-06-23T09:49:16.792465",
+    "url_duckduckgo": "https://www.astrobin.com/352556/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/352556/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/352556/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/352556/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/352556/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/352556/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/352556/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2018/6fa4ee34-b0af-4a49-8654-587c7414f03e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/6fa4ee34-b0af-4a49-8654-587c7414f03e-1529743893.png",
+    "url_thumb": "https://www.astrobin.com/352556/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 247,
+    "w": 1824
+}

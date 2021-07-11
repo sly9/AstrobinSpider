@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "43.606",
+    "description": "",
+    "h": 4851,
+    "hash": null,
+    "id": 417022,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX IV"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801785/"
+    ],
+    "orientation": "91.880",
+    "pixscale": "1.450",
+    "published": "2019-07-28T15:53:31.212624",
+    "ra": "304.105",
+    "radius": "1.645",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/417022/",
+    "revisions": [
+        "/api/v1/imagerevision/186699/"
+    ],
+    "subjects": [],
+    "title": "DWB-111 Propeller Nebula",
+    "updated": "2021-03-30T18:56:56.544800",
+    "uploaded": "2019-07-25T23:34:56.999977",
+    "url_duckduckgo": "https://www.astrobin.com/417022/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417022/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417022/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417022/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417022/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417022/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417022/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9461/2019/7d494c03-593a-4ee8-ab23-3bd9e2ac0599.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9461/2019/7d494c03-593a-4ee8-ab23-3bd9e2ac0599-1582610486.jpg",
+    "url_thumb": "https://www.astrobin.com/417022/0/rawthumb/thumb/",
+    "user": "cpatt1976",
+    "views": 247,
+    "w": 6570
+}

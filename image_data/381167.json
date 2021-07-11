@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "69.676",
+    "description": "M82 (NGC 3034), also known as the Cigar Galaxy, is a magnitude 8.4 galaxy in the constellation of Ursa Major. It is estimated to be 12 million light-years distant.  It is usually classified as an irregular galaxy and is famous for its heavy star-forming activity.  It is 'poster child' for the class known as starburst galaxies.  The spectacular 'explosion' of material from its core is thought to be caused by severe gravitational disturbance from a close encounter with M81. This gas flow is also a strong source of radio noise, discovered by Henbury Brown in 1953. The radio source was first called Ursa Major A (strongest radio source in UMa) and cataloged as 3C 231 in the Third Cambridge Catalogue of Radio Sources. In the infrared light, M82 is the brightest galaxy in the sky.  \r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\nLocation: New Ringgold PA\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\nDate: Feb 2008\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\nOptics: Meade LX200R  12 inch at f/10\t\t\t\t\t\t\t\t\t\t\t\r\nCamera: SBIG ST-8E / CFW-8\t\t\t\t\t\t\t\t\t\t\t\t\t\r\nGuiding: ST-8E integral guiding chip controlled by MaximCCD\t\r\n\t\t\t\t\t\t\t\t\t\t\r\nDate: Mar 6-8 2010\t\t\t\t\t\t\t\t\t\t\t\t\r\nOptics: Meade LX200R  14 inch at f/10\r\nCamera: SBIG STL11000\t\t\t\t\t\t\t\t\t\t\t\r\nGuiding: Integral guiding chip controlled by MaximCCD\t\r\n\r\n\t\t\t\t\t\t\t\r\nExposure: LRGB: L 64x5 min, R 32x4.9 min, G 28x4.8 min, B 29x5.6 min, HA 4x5 min for a total of 13.2 hours \r\n (157 subs at avg of 303 sec)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\nMount: Paramount ME\t\t\t\t\t\t\t\t\t\t\t\t\t\r\nProcessing: Image acquisition using CCD Autopilot.  Initial processing was done using Maxim DL with subsequent processing with Photoshop.",
+    "h": 2504,
+    "hash": null,
+    "id": 381167,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "SBIG ST-8XME"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF",
+        "Meade LX 200R 14\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "55.914",
+    "pixscale": "0.282",
+    "published": "2018-12-14T20:25:30.662856",
+    "ra": "148.983",
+    "radius": "0.157",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/381167/",
+    "revisions": [
+        "/api/v1/imagerevision/214244/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82",
+    "updated": "2021-05-08T02:47:25.700014",
+    "uploaded": "2018-12-14T20:25:30.845285",
+    "url_duckduckgo": "https://www.astrobin.com/381167/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/381167/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/381167/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/381167/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/381167/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/381167/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/381167/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/9ec7ccdb-21b8-41c8-81ac-f154c6efd541.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/9ec7ccdb-21b8-41c8-81ac-f154c6efd541-1582435111.jpg",
+    "url_thumb": "https://www.astrobin.com/381167/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 522,
+    "w": 3326
+}

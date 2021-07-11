@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "0.431",
+    "description": "Interstellar dust clouds and glowing nebulae abound in the fertile constellation of Orion. One of the brightest, M78, is centered in this colorful, wide field view, covering an area north of Orion's belt. At a distance of about 1,500 light-years, the bluish reflection nebula is around 5 light-years across. Its tint is due to dust preferentially reflecting the blue light of hot, young stars. Reflection nebula NGC 2071 is just to the left of M78. To the bottom of M78 and much more compact in appearance, the intriguing McNeil's Nebula is a recently recognized variable nebula associated with the formation of a sun-like star. The remarkably deep exposure also brings out the region's faint but pervasive reddish glow of atomic hydrogen gas.\r\n\r\nSource: NASA APOD\r\n\r\nThis was a nice target to revisit from the FSQ. Lots more detail in this image by comparison. I included a crop of some nice Ha whisp that look like lightning bolts to me, I never noticed them before. Was happy to see them in the image. \r\n\r\nThere was some Ha data captured along side this (28x1200\" images, roughly 9 hours) but I think with proper processing, you can contain all the Ha data very well, even when it gets mixed in with the dust. \r\n\r\nA - LRGB image\r\n\r\nB - HaLRGB image\r\n\r\nC - Close up crop from the LRGB image showing the wispy Ha bits\r\n\r\nD - Some more NR on the LRGB image and cleaned up artifacts near the edge of the image",
+    "h": 3900,
+    "hash": null,
+    "id": 324745,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics Riccardi-Honders 305mm"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 166,
+    "link": "https://matherneconnor.wixsite.com/astronomy",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803933/"
+    ],
+    "orientation": "1.366",
+    "pixscale": "1.660",
+    "published": "2017-12-04T20:36:13.191777",
+    "ra": "86.997",
+    "radius": "1.295",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/324745/",
+    "revisions": [
+        "/api/v1/imagerevision/131874/",
+        "/api/v1/imagerevision/131875/"
+    ],
+    "subjects": [
+        "M 78",
+        "M78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071",
+        "NGC2064",
+        "NGC2067",
+        "NGC2071",
+        "PK204-13.1",
+        "VdB59",
+        "VdB60"
+    ],
+    "title": "Messier 78 surrounded by a bunch of Ha",
+    "updated": "2021-03-17T18:59:33.958620",
+    "uploaded": "2017-12-04T20:36:15.309866",
+    "url_duckduckgo": "https://www.astrobin.com/324745/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324745/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324745/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324745/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324745/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324745/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324745/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13971/2020/49a9efdd-1592-49e9-9682-84bea2e2c837.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13971/2020/49a9efdd-1592-49e9-9682-84bea2e2c837-1582641289.jpg",
+    "url_thumb": "https://www.astrobin.com/324745/0/rawthumb/thumb/",
+    "user": "matherneconnor",
+    "views": 1627,
+    "w": 4040
+}

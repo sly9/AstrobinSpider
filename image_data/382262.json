@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "-6.353",
+    "description": "Exposure Time:\r\nHa:L:R:G:B=260:216:220:100:150mins",
+    "h": 2500,
+    "hash": null,
+    "id": 382262,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Corrected Newtonian Astrograph, 12\", f/3.8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "http://www.astro-austral.cl/imagenes/nebulae/NGC%202170%20ESO/info.htm",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810239/"
+    ],
+    "orientation": "179.413",
+    "pixscale": "1.473",
+    "published": "2018-12-22T00:14:43.348761",
+    "ra": "92.068",
+    "radius": "0.637",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/382262/",
+    "revisions": [
+        "/api/v1/imagerevision/180741/",
+        "/api/v1/imagerevision/263743/"
+    ],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC2170",
+        "NGC2182",
+        "PGC1032282",
+        "VdB68",
+        "VdB69"
+    ],
+    "title": "NGC 2170 en Monoceros",
+    "updated": "2021-03-17T12:45:50.579792",
+    "uploaded": "2018-12-22T00:14:43.507883",
+    "url_duckduckgo": "https://www.astrobin.com/382262/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382262/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382262/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382262/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382262/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382262/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382262/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12715/2020/99f382a8-8b64-4dce-a773-73549a490e8c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12715/2020/99f382a8-8b64-4dce-a773-73549a490e8c-1607448341.jpg",
+    "url_thumb": "https://www.astrobin.com/382262/0/rawthumb/thumb/",
+    "user": "cotejardinero@gmail.com",
+    "views": 337,
+    "w": 1855
+}

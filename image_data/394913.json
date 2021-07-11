@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "61.437",
+    "description": "Here's the SHO version. Tonight there was just enough clear sky to gather some reasonable SII data despite marginal seeing. Shooting with a reducer on this scope makes processing more complicated, with vignetting and a host of other issues. I am swapping the FLI out for a smaller chip, still grade 1, which is better matched to the image circle the reducer throws on this 8RC. Moving te FLI over to the 132 for now.",
+    "h": 1959,
+    "hash": null,
+    "id": 394913,
+    "imaging_cameras": [
+        "FLI Microline CCD 16200 Monochrome Grade 1 Sensor"
+    ],
+    "imaging_telescopes": [
+        "TPO 8\" f/8 Ritchey-Chretien Carbon Fiber Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 14,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809683/"
+    ],
+    "orientation": "181.312",
+    "pixscale": "1.048",
+    "published": "2019-03-10T07:22:22.399400",
+    "ra": "38.508",
+    "radius": "0.483",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394913/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Melotte 15 Environs, SHO",
+    "updated": "2021-03-17T11:48:26.161227",
+    "uploaded": "2019-03-10T07:22:22.580823",
+    "url_duckduckgo": "https://www.astrobin.com/394913/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394913/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394913/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394913/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394913/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394913/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394913/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27236/2019/5c6991e5-e3b2-4f6c-af56-30fe36492b30.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27236/2019/5c6991e5-e3b2-4f6c-af56-30fe36492b30-1582482105.jpg",
+    "url_thumb": "https://www.astrobin.com/394913/0/rawthumb/thumb/",
+    "user": "StephenGarretson",
+    "views": 44,
+    "w": 2673
+}

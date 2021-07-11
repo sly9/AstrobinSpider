@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 34,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "59.814",
+    "description": "SH2-129 is a larger emission nebula complex in Cepheus that is dominated by H-alpha emissions. Ha makes the red background of this image. In 2011 a very faint OIII emission nebula structure was found by Nicolas Outters. OU4 is resembles to a squid which lead to the name of the nebula.\r\n\r\nThe image is a combination of image data shot with my 80/480 mm refractor with 0.79 x reducer for the field (=380 mm). The Squid data come from the 130/910 mm refractor which I originally had used to image only OU4.\r\n\r\nCamera: ASI1600mmp,  \r\n\r\n80 x 200s Ha (480 mm)\r\n63 x 300s OIII (910 mm)\r\n30 x 30s red, green, blue (480 mm)",
+    "h": 3508,
+    "hash": "gmj0a4",
+    "id": 427360,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet",
+        "Teleskopservice TS Photoline 80/480 mm F6 Apo Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 241,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "73.006",
+    "pixscale": "2.024",
+    "published": "2019-09-15T14:01:38.835548",
+    "ra": "318.017",
+    "radius": "1.599",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427360/",
+    "revisions": [
+        "/api/v1/imagerevision/193197/"
+    ],
+    "subjects": [],
+    "title": "The Bat & The Squid (Sh2-129 & OU4)",
+    "updated": "2021-04-08T15:41:14.957890",
+    "uploaded": "2019-09-15T15:01:39.156307",
+    "url_duckduckgo": "https://www.astrobin.com/gmj0a4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/gmj0a4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/gmj0a4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/gmj0a4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/gmj0a4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/gmj0a4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/gmj0a4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2019/f27d062c-d808-4e3d-8851-d2c59bec08ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2019/f27d062c-d808-4e3d-8851-d2c59bec08ca-1582617028.jpg",
+    "url_thumb": "https://www.astrobin.com/gmj0a4/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 1789,
+    "w": 4475
+}

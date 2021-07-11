@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-63.255",
+    "description": "IC 2944 is an emission nebula associated with an open cluster of stars approximately 6,500 light years from Earth, and can be seen in the constellation Centaurus. It is also known as 'Lambda Centauri' and the 'Running Chicken Nebula' (not that I can ever see the chicken).  Dark Bok globules can be seen within the bright nebula.\r\n\r\nThis image was processed in PixInsight using the Hubble palette (Red = SII, Green = Ha, Blue = OIII), with Lum = Ha . The final image was re-sampled by 120% for aesthetic reasons.",
+    "h": 2983,
+    "hash": null,
+    "id": 336251,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "88.563",
+    "pixscale": "1.015",
+    "published": "2018-03-05T08:09:12.488655",
+    "ra": "174.603",
+    "radius": "0.699",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336251/",
+    "revisions": [],
+    "subjects": [
+        "IC 2944",
+        "IC 2948",
+        "IC2948",
+        "The star λCen",
+        "lam Cen",
+        "lambda Cen nebula"
+    ],
+    "title": "IC2944 (Running Chicken Nebula)",
+    "updated": "2021-06-25T13:54:01.557571",
+    "uploaded": "2018-03-05T07:27:36.707438",
+    "url_duckduckgo": "https://www.astrobin.com/336251/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336251/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336251/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336251/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336251/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336251/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336251/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2018/d0ceb1fa-2336-48fe-9c75-c49638b3f833.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2018/d0ceb1fa-2336-48fe-9c75-c49638b3f833-1582516495.jpg",
+    "url_thumb": "https://www.astrobin.com/336251/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 365,
+    "w": 3960
+}

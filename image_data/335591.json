@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 68,
+    "data_source": "UNSET",
+    "dec": "69.686",
+    "description": "With galaxy season just around the corner, I thought that I'd warm up with another try at M82.  The last time I imaged it was with a DSLR a couple of years ago so I wanted to see if I could get a better result.  Little did I suspect that it would be a hard fought battle.  For those who think that remote imaging makes everything easy, guess again.  Sure the skies can be very dark, but there's a lot more to it than that!  I ran into wind, poor seeing, many nights with a frosted over corrector plate, the return of the moon, and a bunch of problems with my scope that turned this session into an epic battle.  I haven't added up all of the time but I've probably spent around 150 hours with the scope pointed at this object.  Since I recently replaced the computer that operates my scope, my system now sometimes hangs after only a few subs are collected making my overall imaging efficiency very low.  The system seems to know when the seeing is the best because I lost a lot of really good data when the system would hang shortly after I stopped monitoring it to get some sleep.  I'm tearing my hair out to find the problem but that's another story.\r\n\r\nM82 is one of my favorite galaxies because it's big, it's bright, and there's a lot going on in it.  It sits at a distance of about 12 MLy and it's about 5 times more luminous than the Milky Way.  It is called a star burst galaxy because it has a core that is forming stars at a rate 10x faster than in our own galaxy.\r\n\r\nThis is an image composed of RGB data along with 7 hours worth of Ha data to help show the central Hydrogen burst region.  I drizzled the data to help improve detail.   Drizzling helps a little but it's not a dramatic improvement.  The C14 does a pretty good job, but I'd love to have a go at M82 with a larger scope just to pick up more detail.   Alternatively, it would be nice to have conditions that would allow FWHM data below 2\".   As it turned out, I had to set the threshold at 2.5\" just to get enough data in the prevailing conditions.  One thing is very cool about this image:  There are small faint galaxies visible absolutely everywhere!  There is even a galaxy cluster in one part of the frame--visible near the edge of the frame at about 8:00 in the wide crop (Rev A.)  These are most visible in the red channel so they are likely quite distant.\r\n\r\nAs always, C&C is more than welcome so fire away.\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 335591,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 400,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.431",
+    "pixscale": "0.239",
+    "published": "2018-02-27T21:24:51.005295",
+    "ra": "148.979",
+    "radius": "0.310",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335591/",
+    "revisions": [
+        "/api/v1/imagerevision/138408/",
+        "/api/v1/imagerevision/138431/",
+        "/api/v1/imagerevision/138535/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82, The Cigar Galaxy",
+    "updated": "2021-06-16T05:20:15.912674",
+    "uploaded": "2018-02-27T20:15:15.599689",
+    "url_duckduckgo": "https://www.astrobin.com/335591/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335591/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335591/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335591/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335591/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335591/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335591/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b14b5454-185b-42ee-ad43-462f9f0a51fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b14b5454-185b-42ee-ad43-462f9f0a51fd-1519763644.jpg",
+    "url_thumb": "https://www.astrobin.com/335591/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 3105,
+    "w": 1824
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "27.908",
+    "description": "Abell 39 2017.06.01/02\r\n\r\n Celestron C14HD edge\r\n\r\n Moravian G3-16200\r\n\r\n Focal Reducer Celestron 0,7X (FL=2800mm)\r\n\r\n Baader OIII 8,5 nm\r\n\r\n 240 min (1200sec x 12)\r\n\r\nBaader Halfa \r\n\r\n220 min (1200sec x 11)\r\n\r\n Calibration: dark + bias\r\n\r\n\r\n",
+    "h": 1341,
+    "hash": null,
+    "id": 299949,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200 internal FW classe 1 G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798883/"
+    ],
+    "orientation": "69.724",
+    "pixscale": "0.449",
+    "published": "2017-06-18T00:10:51.810780",
+    "ra": "246.890",
+    "radius": "0.156",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299949/",
+    "revisions": [],
+    "subjects": [
+        "PK047+42.1"
+    ],
+    "title": "Abell 39 2017.06.01/02",
+    "updated": "2021-05-12T14:38:54.997785",
+    "uploaded": "2017-06-18T01:10:52.276833",
+    "url_duckduckgo": "https://www.astrobin.com/299949/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299949/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299949/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299949/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299949/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299949/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299949/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/584b486d-5543-40f9-bea2-b78dc3232ca1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/584b486d-5543-40f9-bea2-b78dc3232ca1-1497815128.jpg",
+    "url_thumb": "https://www.astrobin.com/299949/0/rawthumb/thumb/",
+    "user": "sulcis2000",
+    "views": 484,
+    "w": 1824
+}

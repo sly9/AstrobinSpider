@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "13.355",
+    "description": "13 hours LRGB",
+    "h": 2272,
+    "hash": null,
+    "id": 395429,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "0.101",
+    "pixscale": "0.684",
+    "published": "2019-03-13T08:28:57.195062",
+    "ra": "186.857",
+    "radius": "1.081",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395429/",
+    "revisions": [
+        "/api/v1/imagerevision/173232/"
+    ],
+    "subjects": [
+        "M 84",
+        "M 86",
+        "NGC 4374",
+        "NGC 4387",
+        "NGC 4388",
+        "NGC 4402",
+        "NGC 4406",
+        "NGC 4413",
+        "NGC 4425",
+        "NGC 4435",
+        "NGC 4438",
+        "NGC 4458",
+        "NGC 4459",
+        "NGC 4461",
+        "NGC 4473",
+        "NGC 4474",
+        "NGC 4477",
+        "The Eyes"
+    ],
+    "title": "Markarian 2019",
+    "updated": "2021-05-15T08:39:10.098863",
+    "uploaded": "2019-03-13T08:26:23.989213",
+    "url_duckduckgo": "https://www.astrobin.com/395429/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395429/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395429/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395429/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395429/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395429/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395429/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/64c4a200-6738-4ade-81cd-7293ae40c3ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/64c4a200-6738-4ade-81cd-7293ae40c3ca-1552465882.jpg",
+    "url_thumb": "https://www.astrobin.com/395429/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 260,
+    "w": 1824
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "42.014",
+    "description": "M 63 taken a few weeks ago which I still needed to process.\r\n\r\nI am pretty satisfied with the stars in this one again :-). Core is still a bit bright but will work on that in a updated version.\r\n\r\nI also changed my guiding camera from the Lodestar X2 to the ZWO ASI 290mm mini. With the latter my guiding resolution has much improved. The Lodestar is better suited for OAG because of the bigger pixels. Not that I can see that much difference in the results though... Probably because my Mesu Mount 200 works so well.\r\n\r\nIn addition, I was also investigating capturing the blue light only near or around the meridian. And my thoughts are it could be helping indeed! The blue stars seems very good in this image, but I need more sessions to make it more definitive. The stars on the whole field looks very nicely blue now.\r\nOnly in 2 edges it goes a bit wrong, but that is because I have some small tilt in my configuration, I think. Will investigate that further with CCD Inspector.\r\n\r\nThis image finalizes my astronomy season in the Netherlands. Now we gave grey nights in the Netherlands for the coming months. But I will return to Morocco soon again... I was planning to be there next month again but that will be a month later probably.",
+    "h": 3315,
+    "hash": null,
+    "id": 407100,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 22,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808719/"
+    ],
+    "orientation": "217.298",
+    "pixscale": "1.142",
+    "published": "2019-05-24T11:53:49.142321",
+    "ra": "198.946",
+    "radius": "0.882",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/407100/",
+    "revisions": [
+        "/api/v1/imagerevision/180657/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M 63 LRGB",
+    "updated": "2021-03-17T10:51:48.849583",
+    "uploaded": "2019-05-24T12:45:19.970531",
+    "url_duckduckgo": "https://www.astrobin.com/407100/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/407100/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/407100/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/407100/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/407100/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/407100/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/407100/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27015/2019/5a4b0177-cbc3-41dc-8a67-d4a4c28ad5ed.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27015/2019/5a4b0177-cbc3-41dc-8a67-d4a4c28ad5ed-1582474619.png",
+    "url_thumb": "https://www.astrobin.com/407100/0/rawthumb/thumb/",
+    "user": "pmuskee",
+    "views": 128,
+    "w": 4461
+}

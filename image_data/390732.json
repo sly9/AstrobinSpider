@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.359",
+    "description": "LBN 749 and NGC 1333 shot remotely from my system in Marathon Remote Imaging Observatory (MaRIO) in Marathon, TX.\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nTotal data gathered:\r\n(148) Subs @ 300secs - 1x1 @ Gain 2200\r\n\r\nCamera : QHYCCD QHY128C\r\nTelescope: Stellarvue SVQ86\r\nMount: AP Mach1GTO",
+    "h": 1266,
+    "hash": null,
+    "id": 390732,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ86"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "359.538",
+    "pixscale": "8.412",
+    "published": "2019-02-14T01:47:42.981560",
+    "ra": "53.922",
+    "radius": "2.687",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/390732/",
+    "revisions": [],
+    "subjects": [
+        "IC 348",
+        "NGC 1333",
+        "The star οPer"
+    ],
+    "title": "LBN 749 and NGC 1333",
+    "updated": "2021-03-17T12:07:12.548555",
+    "uploaded": "2019-02-14T01:47:43.099556",
+    "url_duckduckgo": "https://www.astrobin.com/390732/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390732/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390732/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390732/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390732/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390732/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390732/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2019/dfd03a55-b644-471a-8929-779049029c84.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2019/dfd03a55-b644-471a-8929-779049029c84-1582595286.jpg",
+    "url_thumb": "https://www.astrobin.com/390732/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 498,
+    "w": 1920
+}

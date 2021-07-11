@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "34.358",
+    "description": "",
+    "h": 1260,
+    "hash": null,
+    "id": 339158,
+    "imaging_cameras": [
+        "Nikon D600 MONO Skarpen"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED Ola ska"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803142/"
+    ],
+    "orientation": "84.165",
+    "pixscale": "4.947",
+    "published": "2018-03-26T13:33:12.653024",
+    "ra": "80.214",
+    "radius": "2.923",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339158/",
+    "revisions": [
+        "/api/v1/imagerevision/140748/",
+        "/api/v1/imagerevision/219521/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "IC 417",
+        "M 38",
+        "NGC 1893",
+        "NGC 1907",
+        "NGC 1912",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur",
+        "The star φAur",
+        "Other"
+    ],
+    "title": "IC405 IC410",
+    "updated": "2021-03-17T16:04:54.006495",
+    "uploaded": "2018-03-26T14:33:14.937503",
+    "url_duckduckgo": "https://www.astrobin.com/339158/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339158/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339158/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339158/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339158/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339158/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339158/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2018/bb4501e8-6fe0-42b9-9a95-b471051e6b91.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bb4501e8-6fe0-42b9-9a95-b471051e6b91-1522071421.jpg",
+    "url_thumb": "https://www.astrobin.com/339158/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 303,
+    "w": 1824
+}

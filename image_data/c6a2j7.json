@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "TRAVELLER",
+    "dec": "0.073",
+    "description": "",
+    "h": 2116,
+    "hash": "c6a2j7",
+    "id": 450691,
+    "imaging_cameras": [
+        "QHYCCD QHY600",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250",
+        "Celestron 11 in RASA"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 200,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812320/"
+    ],
+    "orientation": "270.961",
+    "pixscale": "1.041",
+    "published": "2020-01-22T16:54:50.225220",
+    "ra": "86.695",
+    "radius": "0.539",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450691/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "Messier 78",
+    "updated": "2021-03-17T05:27:32.544599",
+    "uploaded": "2020-01-22T16:54:50.816341",
+    "url_duckduckgo": "https://www.astrobin.com/c6a2j7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c6a2j7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c6a2j7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c6a2j7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c6a2j7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c6a2j7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c6a2j7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2020/5d796413-1c8f-4f52-870f-30c9fb584755.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2020/5d796413-1c8f-4f52-870f-30c9fb584755-1582276067.jpg",
+    "url_thumb": "https://www.astrobin.com/c6a2j7/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 685,
+    "w": 3071
+}

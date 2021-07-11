@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "17.955",
+    "description": "Some stray light visible from the nearby bright star Alpha Coma Berenices",
+    "h": 3800,
+    "hash": null,
+    "id": 401117,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.939",
+    "pixscale": "1.234",
+    "published": "2019-04-14T19:26:04.210208",
+    "ra": "198.617",
+    "radius": "0.921",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/401117/",
+    "revisions": [],
+    "subjects": [
+        "M 53",
+        "NGC 5024",
+        "NGC 5053"
+    ],
+    "title": "M 53 and NGC 5053",
+    "updated": "2021-03-17T11:19:39.777460",
+    "uploaded": "2019-04-14T20:26:04.396079",
+    "url_duckduckgo": "https://www.astrobin.com/401117/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/401117/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/401117/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/401117/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/401117/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/401117/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/401117/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/379f581e-574e-4a8f-aa0e-9a690079fc43.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/379f581e-574e-4a8f-aa0e-9a690079fc43-1555273744.jpg",
+    "url_thumb": "https://www.astrobin.com/401117/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 269,
+    "w": 3800
+}

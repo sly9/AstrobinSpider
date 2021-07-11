@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OTHER",
+    "dec": "-63.293",
+    "description": "The running chicken nebula",
+    "h": 4096,
+    "hash": null,
+    "id": 299858,
+    "imaging_cameras": [
+        "FLI MicroLine MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "IAS AK3 20\" Newton Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806405/"
+    ],
+    "orientation": "358.359",
+    "pixscale": "0.972",
+    "published": "2017-06-17T15:12:05.934872",
+    "ra": "174.579",
+    "radius": "0.782",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299858/",
+    "revisions": [],
+    "subjects": [
+        "IC 2944",
+        "IC 2948",
+        "The star λCen",
+        "lam Cen Nebula"
+    ],
+    "title": "IC 2944 in Centaurus",
+    "updated": "2021-03-17T20:39:47.440398",
+    "uploaded": "2017-06-17T16:12:06.895971",
+    "url_duckduckgo": "https://www.astrobin.com/299858/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299858/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299858/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299858/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299858/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299858/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299858/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20980/2020/3511fda1-488b-47f1-99a6-db18fd58d609.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20980/2020/3511fda1-488b-47f1-99a6-db18fd58d609-1590488304.jpg",
+    "url_thumb": "https://www.astrobin.com/299858/0/rawthumb/thumb/",
+    "user": "cutejac",
+    "views": 130,
+    "w": 4096
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-58.638",
+    "description": "Relaitively short narrowband integration (5 hrs) done with barlow at f/14.5, hence a bit noisy.",
+    "h": 2462,
+    "hash": null,
+    "id": 401145,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "1.094",
+    "pixscale": "0.461",
+    "published": "2019-04-14T22:44:00.631205",
+    "ra": "159.348",
+    "radius": "0.223",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/401145/",
+    "revisions": [
+        "/api/v1/imagerevision/176673/"
+    ],
+    "subjects": [
+        "NGC 3324"
+    ],
+    "title": "NGC 3324 in SHO, with Barlow",
+    "updated": "2021-03-17T11:19:32.320983",
+    "uploaded": "2019-04-14T23:44:00.975583",
+    "url_duckduckgo": "https://www.astrobin.com/401145/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/401145/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/401145/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/401145/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/401145/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/401145/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/401145/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/42a4138c-5689-4109-837a-f520e5ade64b.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/42a4138c-5689-4109-837a-f520e5ade64b-1555285850.JPG",
+    "url_thumb": "https://www.astrobin.com/401145/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 349,
+    "w": 2462
+}

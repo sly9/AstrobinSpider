@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-2.408",
+    "description": "",
+    "h": 3520,
+    "hash": null,
+    "id": 301277,
+    "imaging_cameras": [
+        "ASI 1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130d"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804075/"
+    ],
+    "orientation": "99.073",
+    "pixscale": "1.809",
+    "published": "2017-06-28T11:45:25.721923",
+    "ra": "84.859",
+    "radius": "1.466",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301277/",
+    "revisions": [
+        "/api/v1/imagerevision/119441/"
+    ],
+    "subjects": [
+        "Horsehead nebula",
+        "IC 431",
+        "IC 432",
+        "IC 434",
+        "NGC 2023",
+        "NGC 2024",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "Horse head Nebula LRGB and HaSII",
+    "updated": "2021-03-17T20:34:15.872892",
+    "uploaded": "2017-06-28T11:19:38.145512",
+    "url_duckduckgo": "https://www.astrobin.com/301277/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301277/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301277/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301277/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301277/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301277/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301277/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8230/2017/2e4fbb64-46e3-424c-99f9-fe4f2e75f480.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8230/2017/2e4fbb64-46e3-424c-99f9-fe4f2e75f480-1582508661.jpg",
+    "url_thumb": "https://www.astrobin.com/301277/0/rawthumb/thumb/",
+    "user": "SimmoW",
+    "views": 272,
+    "w": 4656
+}

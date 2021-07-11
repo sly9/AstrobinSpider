@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "57.404",
+    "description": "Comète C/2017 T2 (PANSTARRS) en approche du double amas de Persée\r\n\r\nR, G, B: 3 x 20 x 60s \r\nL: 48 x 60s",
+    "h": 3580,
+    "hash": "ers1aq",
+    "id": 451917,
+    "imaging_cameras": [
+        "Altair Astro Hypercam 183M PRO TEC Cooled"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS65/420"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808954/"
+    ],
+    "orientation": "1.161",
+    "pixscale": "1.169",
+    "published": "2020-01-27T21:51:30.760675",
+    "ra": "35.859",
+    "radius": "1.046",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451917/",
+    "revisions": [],
+    "subjects": [
+        "Double cluster",
+        "NGC 869",
+        "NGC 884",
+        "The star 7Per",
+        "The star 8Per"
+    ],
+    "title": "Comète C/2017 T2 (PANSTARRS) vers le double amas de Persée",
+    "updated": "2021-03-17T05:21:35.603814",
+    "uploaded": "2020-01-27T21:51:31.676009",
+    "url_duckduckgo": "https://www.astrobin.com/ers1aq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ers1aq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ers1aq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ers1aq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ers1aq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ers1aq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ers1aq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20945/2020/adb45f14-9092-46e6-890b-3a3dcc4e5348.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20945/2020/adb45f14-9092-46e6-890b-3a3dcc4e5348-1582274190.jpg",
+    "url_thumb": "https://www.astrobin.com/ers1aq/0/rawthumb/thumb/",
+    "user": "francismoreau",
+    "views": 58,
+    "w": 5358
+}

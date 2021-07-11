@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "4.969",
+    "description": "Short integration of the Rosette to test out working with the HORGB palette. \r\n\r\n-15C Gain 200/Offset 50\r\n\r\nR: 20x30s\r\nG: 20x30s\r\nB: 20x30s\r\nHa: 20x120s\r\nOIII:20x120s",
+    "h": 1229,
+    "hash": null,
+    "id": 330555,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802077/",
+        "/api/v1/location/2802079/"
+    ],
+    "orientation": "90.974",
+    "pixscale": "4.033",
+    "published": "2018-01-23T07:18:43.419237",
+    "ra": "97.981",
+    "radius": "1.086",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330555/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC 2237, 2244 Rosette Nebula HORGB",
+    "updated": "2021-03-17T16:44:44.313771",
+    "uploaded": "2018-01-23T07:07:04.353540",
+    "url_duckduckgo": "https://www.astrobin.com/330555/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330555/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330555/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330555/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330555/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330555/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330555/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7573/2018/58d57027-9516-4dae-96eb-88783319393c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/58d57027-9516-4dae-96eb-88783319393c-1516691509.jpg",
+    "url_thumb": "https://www.astrobin.com/330555/0/rawthumb/thumb/",
+    "user": "SparkyHT",
+    "views": 128,
+    "w": 1500
+}

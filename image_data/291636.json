@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-51.526",
+    "description": "Planetary Nebula in Norma",
+    "h": 719,
+    "hash": null,
+    "id": 291636,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV105-3FT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801456/",
+        "/api/v1/location/2803188/"
+    ],
+    "orientation": "177.627",
+    "pixscale": "0.636",
+    "published": "2017-04-13T00:43:32.618723",
+    "ra": "237.920",
+    "radius": "0.100",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291636/",
+    "revisions": [
+        "/api/v1/imagerevision/114256/"
+    ],
+    "subjects": [],
+    "title": "RCW 100 - Fine Ring Nebula",
+    "updated": "2021-07-02T13:08:36.729282",
+    "uploaded": "2017-04-13T01:43:33.590877",
+    "url_duckduckgo": "https://www.astrobin.com/291636/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291636/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291636/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291636/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291636/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291636/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291636/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/be607651-4b00-4918-975f-0c2998fd3e8f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/be607651-4b00-4918-975f-0c2998fd3e8f-1492044445.jpg",
+    "url_thumb": "https://www.astrobin.com/291636/0/rawthumb/thumb/",
+    "user": "renan",
+    "views": 411,
+    "w": 875
+}

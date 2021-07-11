@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 27,
+    "data_source": "UNSET",
+    "dec": "47.191",
+    "description": "Even though images of M51 are a dime a dozen, the Whirlpool remains one of my favorite galaxies because it is so large, detailed, and colorful.  This image started out as a test of my newly tuned up and reconfigured C14 Edge based telescope system.  I've been slowly improving both the optical system, the OTA, and the mount control system, which will soon be moved to a remote location.  What started out as a test soon became a full blown project as our central Oregon skies finally cleared after a long and VERY cloudy winter.  The Rayleigh criterion for the resolution of a 14\" telescope is about .4 arc-sec, although as we all know, seeing greatly reduces that number for long exposure imaging.  After tuning the wavefront of the telescope, I was curious to see if I could gather data good enough to extract information down to about 1 arc-second.  The luminous subs in this data had an average FWHM about 1.8 arc-sec and after performing deconvolution on the data, the stacked result shows stars at about 1.1 arc-seconds FWHM.  Even though  this image is within a factor of two of the limiting resolution of a theoretical 14\" system, seeing effects  still render the smallest details unrecoverable.  At a distance of about 23 mly, this image shows features down to about 100 - 150 ly across.  It is cool to see that even \"small\" amateur telescopes like the C14 can produce images of stars in other Galaxies!  \r\n\r\nBe sure to check out the full screen image--there's a lot going on in it.  As always, C&C is welcome.\r\n\r\nJohn\r\n\r\nPS  I uploaded two different crops of the full image.  The tight crop holds it's own to a full screen display but I also enjoy seeing the galaxy floating with more space around it (as shown in the wider field crop.)   Feel free to tell me which works better for you...\r\n\r\nPPS Rev D is reprocessed to reduce a Deconv error in the original processing.  The Ha data gave me fits the first time around and I just couldn't get it right so I left it out in this version.  That rebalances the color a bit.  I'll have to fool around with adding Ha in the future.  Hopefully it looks a bit better up close to you guys.  I think that overall the processing came out a bit cleaner.",
+    "h": 1824,
+    "hash": null,
+    "id": 296599,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 242,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808024/"
+    ],
+    "orientation": "2.821",
+    "pixscale": "0.475",
+    "published": "2017-05-23T18:14:16.711271",
+    "ra": "202.464",
+    "radius": "0.341",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/296599/",
+    "revisions": [
+        "/api/v1/imagerevision/116950/",
+        "/api/v1/imagerevision/116958/",
+        "/api/v1/imagerevision/117009/",
+        "/api/v1/imagerevision/117012/",
+        "/api/v1/imagerevision/117123/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51... A Detailed Whirlpool",
+    "updated": "2021-04-13T01:53:35.330464",
+    "uploaded": "2017-05-23T18:09:51.518261",
+    "url_duckduckgo": "https://www.astrobin.com/296599/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/296599/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/296599/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/296599/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/296599/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/296599/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/296599/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7598/2017/4d38b314-003c-4b63-b991-7268810f2adc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4d38b314-003c-4b63-b991-7268810f2adc-1495561475.jpg",
+    "url_thumb": "https://www.astrobin.com/296599/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 3997,
+    "w": 1824
+}

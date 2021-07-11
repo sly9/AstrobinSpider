@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 26,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "58.828",
+    "description": "The 2 panels mosaic of sky background, galaxy NGC6946 and open star cluster NGC6939:\r\n\r\nCaptured 05/24/2017 and 05/25/2017 with Canon @f/4.5 200mm and Canon 6D DSLR unfiltered.\r\n\r\nTotal exposure : 36 x 5 minutes x 2 panels = 6h\r\n\r\nThe 9 panels mosaic of elphant trunk nebula IC1396:\r\n\r\nTo improve colors and details, I have used an hybrid color palette composed by narrowband, red and blue data from POSS-II with Cannistra bicolor technic in order to shows together primary and complementary colors along a continuum \r\n\r\nCaptured 03/14/2013, 03/27/2015, 03/28/2015, 04/06/2015, 04/07/2015, 04/08/2015 with Takahashi FSQ106ED @f/5 530mm\r\nAdditional SHO data have been captured in March 2012 with my old lens Tokina 300 f2.8\r\n\r\n92 x 10 minutes unbinned = 15h20\r\n6 x 20 minutes unbinned = 2h (for Elephant's Trunk nebula)\r\n\r\nTotal exposure : 17h20\r\n\r\nPOSS-II Survey (http://www.astro.caltech.edu/~wws/poss2.html) 25 panels of 60x60 arc/min for Red and Blue data) \r\n\r\nThe 12 panels mosaic of the flying bat SH2-129 and the squid OU4:\r\n\r\nI have used and hybrid color palette composed by alpha, OIII, Red and Blue data.\r\n\r\nCaptured 04/19/2016, 04/27/2016, 04/28/2016, 04/29/2016, 05/04/2016, 05/06/2016, 05/17/2016, 05/20/2016, 06/09/2016, 06/21/2016, 06/22/2016, 06/23/2016, 06/27/2016, 06/28/2016, 07/16/2016, 07/17/2016, 07/18/2016, and 07/19/2016\r\n\r\n114 raw H-alpha images of 20 minutes each unbinned\r\n99 raw OIII images of 20 minutes each unbinned\r\n160 raw Red and Blue images of 1 minute each binning 2x2\r\n\r\nTotal exposure : 75h20\r\n\r\nTotal exposure for the whole composition : 98h40\r\n\r\nInstruments:\r\nMount 10micron GM2000-HPS\r\nTakahashi FSQ106ED @f/5 530mm focal length with ONAG XT (http://www.innovationsforesight.com/), Apogee Alta U8300 monochrome @-30°C, Astrodon narrowband H-alpha, OIII and SII 5nm and TrueBalance LRGB filters\r\nCanon 200mm f/1.8 telelens opened @f/4.5 and Canon 6D DSLR unfiltered\r\n\r\nSoftwares and processing technics: \r\nMaximDL to capture\r\nSkySurveyor to calculate mosaic tiles and to automatically move the scope to the next tile coordinate\r\nSharpLock to keep the optical train perfectly focused - CCDStack to calibrate, register, normalize, data reject and combine\r\nRegistar and PixInsight for mosaic assembly - Photoshop CC 2017 and PixInsight for color composition and non-linear streching and artistic rendering \r\nAPF-R http://www.cedic.at/apfr/ from sharpening \r\nCannistra Bicolor Technic http://www.starrywonders.com/bicolortechniquenew.html\r\n",
+    "h": 1026,
+    "hash": null,
+    "id": 304824,
+    "imaging_cameras": [
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED",
+        "Tokina AT-X 300mm f2.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 207,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799636/"
+    ],
+    "orientation": "-179.934",
+    "pixscale": "6.935",
+    "published": "2017-07-26T21:15:08.051326",
+    "ra": "317.946",
+    "radius": "6.180",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/304824/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "NGC 6939",
+        "NGC 6946",
+        "The star 12Cep",
+        "The star Garnet Star (μCep)",
+        "The star νCep"
+    ],
+    "title": "The jewel of Cepheus  - multiscale mosaic composed with an hybrid palette",
+    "updated": "2021-06-27T05:03:07.491346",
+    "uploaded": "2017-07-26T22:15:09.823299",
+    "url_duckduckgo": "https://www.astrobin.com/304824/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/304824/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/304824/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/304824/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/304824/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/304824/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/304824/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/5e05b085-7bc5-4996-a686-cdb3378e6456.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5e05b085-7bc5-4996-a686-cdb3378e6456-1501103859.jpg",
+    "url_thumb": "https://www.astrobin.com/304824/0/rawthumb/thumb/",
+    "user": "dlindemann",
+    "views": 1880,
+    "w": 1824
+}

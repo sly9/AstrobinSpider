@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "PRO_DATA",
+    "dec": "19.025",
+    "description": "This is what Wikipedia says about the odd locking NGC772:\r\n\r\nAround 200,000 light years in diameter, NGC 772 is twice the size of the Milky Way Galaxy,and is surrounded by several satellite galaxies – including the dwarf elliptical, NGC 770 – whose tidal forces on the larger galaxy have likely caused the emergence of a single elongated outer spiral arm that is much more developed than the others arms. Halton Arp includes NGC 772 in his Atlas of Peculiar Galaxies as Arp 78.\r\n\r\nThis is RGB data I processed (in PS) from the Liverpool Telescope (a 2 m RC on La Palma)\r\n\r\nData:\r\n\r\n40 x 100 s through Bessell B (blue channel)\r\n\r\n28 x 100 s through Bessel V (green channel)\r\n\r\n18 x 100 s through sdss-r (red channel)",
+    "h": 1910,
+    "hash": null,
+    "id": 294571,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "179.935",
+    "pixscale": "0.300",
+    "published": "2017-05-05T14:58:24.121057",
+    "ra": "29.815",
+    "radius": "0.113",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294571/",
+    "revisions": [
+        "/api/v1/imagerevision/116130/",
+        "/api/v1/imagerevision/116131/",
+        "/api/v1/imagerevision/133354/"
+    ],
+    "subjects": [
+        "NGC 770",
+        "NGC 772"
+    ],
+    "title": "Galactic interactions NGC 772 and NGC 770",
+    "updated": "2021-03-27T23:21:43.551568",
+    "uploaded": "2017-05-05T15:58:24.900788",
+    "url_duckduckgo": "https://www.astrobin.com/294571/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294571/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294571/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294571/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294571/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294571/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294571/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/c7f9aa3b-e485-4289-8946-d4d8dd024aad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/c7f9aa3b-e485-4289-8946-d4d8dd024aad-1582579764.jpg",
+    "url_thumb": "https://www.astrobin.com/294571/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 345,
+    "w": 1908
+}

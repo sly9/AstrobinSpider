@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "PRO_DATA",
+    "dec": null,
+    "description": "The Liverpool Telescope is a 2 m f/10 RC scope on La Palma, Canary Islands, that gives away their subs for free once the astronomers are done with them. A great way of keeping up the processing skills for Swedes while waiting for dark nights to come back in September.\r\n\r\nOf all the Liverpool Telescope data I have processed, this was possibly the best, and I think the final result shows some stunning detail in this nebula. In my humble opinion it is as good as, or maybe even better, than images I have seen from much larger scopes, including the 8.2 m Subaru Telescope (Hubble has only imaged a small detail of it).\r\n\r\nFor this image I used subs from five filters (60, 90 and 120 s exposures, average ca 90 s) taken during 2015-2016. After throwing out subs with eggy stars or poor focus (about 30% of my downloads - LT appears to save everything), I ended up with these:\r\n\r\nsdss-r 38 x 90 s (red data)\r\n\r\nHa 15 x 90 s (33 % mixed with 67 % sdss-r for the red channel)\r\n\r\nBessell B 43 x 90 s (mainly blue data)\r\n\r\nsdss-g 20 x 90 s (mainly blue data, 33 % mixed with Bessell-B for the blue channel)\r\n\r\nBessell V 33 x 90 s (used for the green channel)\r\n\r\nSo totally 149 x 90 s or 3.7 hours\r\n\r\nThe camera is a 6 x 6 cm (15 µm pixels) 18 Mpix CCD camera (2x2 bin) of the brand e2v, which I think is chilled to -100°C.\r\n\r\nStacking in Nebulosity 4 and processing in PS CS5. The data was so clean that I did not apply any noise reduction but I did some very mild sharpening (deconvolution) using the Focus Magic filter for PS.\r\n\r\nAny comments and suggestions most welcome, and for once I also invite pixel peepers! \r\n\r\nPS. In the last version I used APF-R processing to further enhance the image\r\nSee http://www.cedic.at/apfr/",
+    "h": 1949,
+    "hash": null,
+    "id": 293363,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-04-26T14:55:39.791351",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293363/",
+    "revisions": [
+        "/api/v1/imagerevision/115127/",
+        "/api/v1/imagerevision/120479/",
+        "/api/v1/imagerevision/121224/",
+        "/api/v1/imagerevision/123734/"
+    ],
+    "subjects": [],
+    "title": "The Dumbbell Nebula - close up",
+    "updated": "2021-03-17T21:04:40.958094",
+    "uploaded": "2017-04-26T15:55:40.626752",
+    "url_duckduckgo": "https://www.astrobin.com/293363/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293363/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293363/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293363/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293363/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293363/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293363/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/293363/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 304,
+    "w": 1986
+}

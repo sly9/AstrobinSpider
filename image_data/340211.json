@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "11.755",
+    "description": "",
+    "h": 2420,
+    "hash": null,
+    "id": 340211,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED",
+        "Kenko SE200N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806964/",
+        "/api/v1/location/2806967/",
+        "/api/v1/location/2806972/"
+    ],
+    "orientation": "2.722",
+    "pixscale": "1.103",
+    "published": "2018-04-02T18:11:07.552821",
+    "ra": "161.352",
+    "radius": "0.622",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340211/",
+    "revisions": [],
+    "subjects": [
+        "M 95",
+        "M 96",
+        "NGC 3351",
+        "NGC 3368"
+    ],
+    "title": "M95 and M96",
+    "updated": "2021-04-07T07:19:02.579463",
+    "uploaded": "2018-04-02T19:11:09.463912",
+    "url_duckduckgo": "https://www.astrobin.com/340211/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340211/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340211/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340211/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340211/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340211/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340211/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4355ae9d-771d-487d-8961-e677585080fa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4355ae9d-771d-487d-8961-e677585080fa-1522692814.jpg",
+    "url_thumb": "https://www.astrobin.com/340211/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 482,
+    "w": 3258
+}

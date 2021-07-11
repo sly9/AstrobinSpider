@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "22.836",
+    "description": "IC 443 HaOIIIRGB",
+    "h": 2375,
+    "hash": null,
+    "id": 305269,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 13,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "359.004",
+    "pixscale": "1.662",
+    "published": "2017-07-30T06:55:53.051153",
+    "ra": "94.496",
+    "radius": "1.073",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305269/",
+    "revisions": [
+        "/api/v1/imagerevision/121726/",
+        "/api/v1/imagerevision/121727/"
+    ],
+    "subjects": [
+        "IC 443"
+    ],
+    "title": "IC 443",
+    "updated": "2021-03-17T20:18:59.090087",
+    "uploaded": "2017-07-30T07:55:53.692627",
+    "url_duckduckgo": "https://www.astrobin.com/305269/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305269/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305269/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305269/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305269/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305269/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305269/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11713/2017/dce935ec-e7dd-4f99-9e0a-9f56aca08f62.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dce935ec-e7dd-4f99-9e0a-9f56aca08f62-1501397985.jpg",
+    "url_thumb": "https://www.astrobin.com/305269/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 82,
+    "w": 1824
+}

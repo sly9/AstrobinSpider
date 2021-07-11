@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.032",
+    "description": "Lx38，Rx15，Gx18，Bx24，10min per frame",
+    "h": 2642,
+    "hash": "xiqsfr",
+    "id": 462043,
+    "imaging_cameras": [
+        "QHY695a"
+    ],
+    "imaging_telescopes": [
+        "SKYROVER 130 APO PRO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810710/"
+    ],
+    "orientation": "1.562",
+    "pixscale": "1.032",
+    "published": "2020-03-05T04:24:27.608132",
+    "ra": "198.962",
+    "radius": "0.477",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/462043/",
+    "revisions": [],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 Sunflower Galaxy",
+    "updated": "2021-03-17T04:30:34.406118",
+    "uploaded": "2020-03-05T04:24:27.955143",
+    "url_duckduckgo": "https://www.astrobin.com/xiqsfr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/xiqsfr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/xiqsfr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/xiqsfr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/xiqsfr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/xiqsfr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/xiqsfr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24344/2020/b9cfcddf-f0b5-4540-ba82-e9ae0eb882e6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24344/2020/b9cfcddf-f0b5-4540-ba82-e9ae0eb882e6-1583382633.png",
+    "url_thumb": "https://www.astrobin.com/xiqsfr/0/rawthumb/thumb/",
+    "user": "QHY695A",
+    "views": 450,
+    "w": 2020
+}

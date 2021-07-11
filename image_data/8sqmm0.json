@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "29.811",
+    "description": "",
+    "h": 1760,
+    "hash": "8sqmm0",
+    "id": 429450,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW",
+        "ZWO ASI 1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 285,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "180.138",
+    "pixscale": "2.811",
+    "published": "2019-09-25T20:00:18.230582",
+    "ra": "294.047",
+    "radius": "1.140",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/429450/",
+    "revisions": [
+        "/api/v1/imagerevision/194588/"
+    ],
+    "subjects": [
+        "12 phi Cyg",
+        "9 Cyg",
+        "Sh2-91",
+        "The star 9Cyg",
+        "The star φCyg"
+    ],
+    "title": "Sh2-91 in HaO3-LRGB",
+    "updated": "2021-03-17T09:00:15.641852",
+    "uploaded": "2019-09-25T21:00:18.529283",
+    "url_duckduckgo": "https://www.astrobin.com/8sqmm0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8sqmm0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8sqmm0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8sqmm0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8sqmm0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8sqmm0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8sqmm0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/00dd3af7-199a-406c-bbbf-2ad65549d3ab.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/00dd3af7-199a-406c-bbbf-2ad65549d3ab-1582644607.jpg",
+    "url_thumb": "https://www.astrobin.com/8sqmm0/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 915,
+    "w": 2328
+}

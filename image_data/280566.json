@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "42.532",
+    "description": "This image is a result of an very interesting astro-cooperation between Ralf Kreuels and me. We went very different ways for archiving this picture of the blue snowball. Ralf picked up short exposed data of the core with his C11. Data: (with Reducer to f/5 , f = 1400 mm) ASI178MM (mono) and ASI178MC (colour). He grabbed his images without any filter  (8000 x 200 ms) and  (10000 x 400 ms) for the L Channel and 5000 x 400 ms for the colour.\r\n\r\nI used my 400-mm-Newton (at f/4) with the Atik 460Exm Data: 93 x 300 s in [OIII], (Baader 8,5 nm) and 81 x 300 s in Ha;, (Baader 7 nm), both channels binned 2x2, added with 122 x 60 s in the L channel without  binning for a deeper star field. I used the TMB LZOS 100/800 mm with the Riccardi-Reducer(f/6) and the SBIG ST-F8300 to get 6 h RGB data for colouring the stars.\r\n\r\nThe end result is a deep image of the snowball with a very detailed core. It was a great experience again to bring the very different data together. It was really challenging and we both learned a lot. The most important thing for us wasn't the result but the way to get it. It was the second time we worked together that way, but definitely not the last time. We hope that you enjoy our image.",
+    "h": 1748,
+    "hash": null,
+    "id": 280566,
+    "imaging_cameras": [],
+    "imaging_telescopes": [],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799661/"
+    ],
+    "orientation": "1.933",
+    "pixscale": "0.297",
+    "published": "2017-01-19T17:51:06.534637",
+    "ra": "351.476",
+    "radius": "0.105",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/280566/",
+    "revisions": [
+        "/api/v1/imagerevision/108652/"
+    ],
+    "subjects": [
+        "Blue Snowball",
+        "NGC 7662"
+    ],
+    "title": "NGC7662 The Blue Snowball",
+    "updated": "2021-03-26T23:13:27.302918",
+    "uploaded": "2017-01-19T17:51:07.259269",
+    "url_duckduckgo": "https://www.astrobin.com/280566/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/280566/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/280566/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/280566/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/280566/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/280566/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/280566/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3728/2017/19e54321-faa7-4a39-9922-a21e50618af8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3728/2017/19e54321-faa7-4a39-9922-a21e50618af8-1582607629.jpg",
+    "url_thumb": "https://www.astrobin.com/280566/0/rawthumb/thumb/",
+    "user": "Letman",
+    "views": 1189,
+    "w": 1848
+}

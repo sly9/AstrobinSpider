@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "55.325",
+    "description": "LRGB+OIII for more structure in the Owl and to capture some of the outer halo ",
+    "h": 2403,
+    "hash": null,
+    "id": 284842,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804197/"
+    ],
+    "orientation": "109.210",
+    "pixscale": "1.392",
+    "published": "2017-02-24T00:09:54.254653",
+    "ra": "168.269",
+    "radius": "0.778",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/284842/",
+    "revisions": [],
+    "subjects": [
+        "M 108",
+        "M 97",
+        "M108",
+        "M97",
+        "NGC 3556",
+        "NGC 3587",
+        "Owl nebula",
+        "PK148+57.1"
+    ],
+    "title": "M97 Owl Nebula and M108 Surfboard Galaxy",
+    "updated": "2021-04-14T17:52:23.704886",
+    "uploaded": "2017-02-24T00:09:54.733605",
+    "url_duckduckgo": "https://www.astrobin.com/284842/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/284842/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/284842/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/284842/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/284842/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/284842/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/284842/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14338/2017/80f584b0-fa80-4a9d-9519-136b07bfbd25.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14338/2017/80f584b0-fa80-4a9d-9519-136b07bfbd25-1582593721.jpg",
+    "url_thumb": "https://www.astrobin.com/284842/0/rawthumb/thumb/",
+    "user": "pbkoden",
+    "views": 564,
+    "w": 3232
+}

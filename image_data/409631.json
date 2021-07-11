@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "43.743",
+    "description": "I spent most of last night's imaging run on this two-panel mosaic of NGC 7000, the North America Nebula and IC 5070, IC 5067 the Pelican Nebula. NGC7000 and this whole area is one of those deep sky objects with which you can do amazing things in narrowband or broadband color, and turns out beautifully in RGB, bi-color Ha and OIII, even Hydrogen-alpha by itself. For this shot I went with the Hubble Palette in SHO, mapping SII-Ha-OIII to RGB, Sulfur = Red, Hydrogen = Green, Oxygen = Blue. This is why you see aqua and gold standing out in many of the Hubble images. It also affects star color, and you end up with some shade of purple.",
+    "h": 889,
+    "hash": null,
+    "id": 409631,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT 81 APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "https://saltwaterwitch.com/blog/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808164/"
+    ],
+    "orientation": "31.383",
+    "pixscale": "9.605",
+    "published": "2019-06-09T18:21:34.621805",
+    "ra": "313.477",
+    "radius": "1.992",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409631/",
+    "revisions": [
+        "/api/v1/imagerevision/182182/",
+        "/api/v1/imagerevision/182185/"
+    ],
+    "subjects": [
+        "IC 5068",
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "North America Nebula (NGC 7000) and the Pelican Nebula (IC 5070, IC 5067)",
+    "updated": "2021-07-04T21:52:55.373811",
+    "uploaded": "2019-06-09T19:21:34.723242",
+    "url_duckduckgo": "https://www.astrobin.com/409631/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409631/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409631/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409631/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409631/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409631/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409631/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bf4c4f64-d223-4032-b03e-dcfed56c76f7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bf4c4f64-d223-4032-b03e-dcfed56c76f7-1560108447.jpg",
+    "url_thumb": "https://www.astrobin.com/409631/0/rawthumb/thumb/",
+    "user": "ChrisHoward",
+    "views": 179,
+    "w": 1200
+}

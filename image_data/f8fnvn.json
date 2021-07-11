@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 19,
+    "data_source": "TRAVELLER",
+    "dec": "-13.793",
+    "description": "Suite de mes nouveaux process de Messier 16 en SHO sous pixinsight incluant les images de 2019 et de 2018 faites sans le réducteur de focale ....\r\n\r\nFollowing my new process of Messier 16 in SHO under pixinsight including the images of 2019 and 2018 made without the focal reducer ....\r\n\r\n35x300s Ha en bin1 de 2018\r\n58x300s Ha en bin1 avec red de 2019\r\n15x180s OIII en bin2 de 2018\r\n13x180s OIII en bin2 avec red de 2019\r\n15x180s SII en bin2 de 2018\r\n13x180s SII en bin2 avec red de 2019\r\n\r\nTotal : ~ 10 Heures 30 mn",
+    "h": 2569,
+    "hash": "f8fnvn",
+    "id": 423259,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808139/"
+    ],
+    "orientation": "89.480",
+    "pixscale": "1.690",
+    "published": "2019-08-28T07:50:55.170136",
+    "ra": "274.764",
+    "radius": "0.985",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/423259/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "Messier 16 in SHO new process",
+    "updated": "2021-03-17T09:32:27.464582",
+    "uploaded": "2019-08-28T08:50:55.432429",
+    "url_duckduckgo": "https://www.astrobin.com/f8fnvn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f8fnvn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f8fnvn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f8fnvn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f8fnvn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f8fnvn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f8fnvn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/cc710dd6-845a-4362-9657-fa09a4ee13a4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/cc710dd6-845a-4362-9657-fa09a4ee13a4-1582639619.jpg",
+    "url_thumb": "https://www.astrobin.com/f8fnvn/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 284,
+    "w": 3318
+}

@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "22.745",
+    "description": "I collected data on this target during full moon but ended up throwing all of them (about 90 frames) because the data I got in last two nights had way better SNR . Even though the background would have been better with all the frames, I felt the details were washed if I added all the frames.\r\n\r\n",
+    "h": 1411,
+    "hash": null,
+    "id": 274200,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 163,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "339.199",
+    "pixscale": "3.342",
+    "published": "2016-11-30T19:49:49.948095",
+    "ra": "94.734",
+    "radius": "1.467",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/274200/",
+    "revisions": [
+        "/api/v1/imagerevision/105067/"
+    ],
+    "subjects": [
+        "10 Gem",
+        "11 Gem",
+        "12 Gem",
+        "13 mu. Gem",
+        "7 eta Gem",
+        "9 Gem",
+        "IC 443",
+        "IC 444",
+        "IC443",
+        "IC444",
+        "Part of the constellation Gemini (Gem)",
+        "Sh2-248",
+        "Sh2-249",
+        "Tejat Posterior",
+        "Tejat Prior",
+        "The star Propus (ηGem)",
+        "The star μGem"
+    ],
+    "title": "IC443 - Jellyfish",
+    "updated": "2021-03-17T22:22:51.971181",
+    "uploaded": "2016-11-30T19:49:50.943236",
+    "url_duckduckgo": "https://www.astrobin.com/274200/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/274200/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/274200/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/274200/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/274200/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/274200/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/274200/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7483/2016/5d0328d6-143d-42e0-aa13-4b08ae61f47e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/5d0328d6-143d-42e0-aa13-4b08ae61f47e-1480535598.png",
+    "url_thumb": "https://www.astrobin.com/274200/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 894,
+    "w": 1824
+}

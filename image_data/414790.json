@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 42,
+    "data_source": "BACKYARD",
+    "dec": "22.714",
+    "description": "The Dumbbell Nebula (NGC 6853, Messier 27) was the first planetary nebula to be discovered. Charles Messier first identified it in 1764 and due to its brightness (magnitude 7.5) and size (8 arc-min) is a popular visual target. M27 is approximately 1,300 light-years from Earth in the constellation Vulpecula and is estimated to be roughly 10,000 years old. \r\n\r\nPlanetary nebulas are the result of the shedding of outer layers from a low-mass red giant as it ends its life. At the center of the gas cloud of the planetary nebula is a white dwarf, the incredibly dense leftover core of the original red giant with no nuclear activity left having burned off all nuclear fuel. The white dwarf in M27 is estimated to have a radius of roughly 0.055 solar radii and a mass of  0.56 solar masses. \r\n\r\nMy data presented here was acquired over four nights with unusually good seeing for the Northeastern USA. The integrated Ha and OIII masters had a FWHM of ~2.4 arc-sec, prior to any deconvolution. In spite of the bright RGB signal of this object, I chose to acquire narrowband Ha and OIII channels to highlight the structure in the central region of the planetary nebula and the fainter outer rings. In the central region a few of the larger cometary knots (dark structures with cusped tails) can be resolved. \r\n\r\nTo enhance the presentation, I replaced star color with RGB data.",
+    "h": 2524,
+    "hash": null,
+    "id": 414790,
+    "imaging_cameras": [
+        "Starlight Xpress Trius SX-814 mono"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 329,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "179.192",
+    "pixscale": "0.669",
+    "published": "2019-07-11T18:56:53.797717",
+    "ra": "299.896",
+    "radius": "0.377",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/414790/",
+    "revisions": [],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "M27",
+        "NGC 6853",
+        "PK060-03.1"
+    ],
+    "title": "The Dumbbell Nebula (Messier 27)",
+    "updated": "2021-06-30T00:38:17.382076",
+    "uploaded": "2019-07-11T17:32:54.693535",
+    "url_duckduckgo": "https://www.astrobin.com/414790/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414790/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414790/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414790/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414790/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414790/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414790/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0eacde6f-7a4d-4701-bf40-9199e881791f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0eacde6f-7a4d-4701-bf40-9199e881791f-1562869378.jpg",
+    "url_thumb": "https://www.astrobin.com/414790/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 2733,
+    "w": 3180
+}

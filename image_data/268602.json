@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "13.164",
+    "description": "My own and DSW data was combined and post-processed. Exactly same imaging systems were used for both data, except 1.6x Q-exteneder for my data taken in Jangsu, South Korea, providing higher resolution for the galaxies details. By the way, DSW data from New Mexico are so deep that the faint tidal interacting features between three galaxies, could be enhanced. ",
+    "h": 2468,
+    "hash": null,
+    "id": 268602,
+    "imaging_cameras": [
+        "QSI 583wsg",
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801293/",
+        "/api/v1/location/2805880/"
+    ],
+    "orientation": "89.255",
+    "pixscale": "2.098",
+    "published": "2016-10-17T14:57:03.471254",
+    "ra": "170.011",
+    "radius": "1.194",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268602/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet - (DSW Data + Own Data)",
+    "updated": "2021-03-17T22:42:28.573055",
+    "uploaded": "2016-10-17T15:57:03.471254",
+    "url_duckduckgo": "https://www.astrobin.com/268602/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268602/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268602/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268602/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268602/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268602/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268602/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8466/2016/ab253498-309d-4677-a266-9c0f0cea95e8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8466/2016/ab253498-309d-4677-a266-9c0f0cea95e8-1582575151.jpg",
+    "url_thumb": "https://www.astrobin.com/268602/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 635,
+    "w": 3272
+}

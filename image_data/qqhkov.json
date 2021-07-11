@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "23.948",
+    "description": "I managed to get some additional RGB data for the The Merope Nebula and IC 349 (Barnard's Merope Nebula). Reprocessed image using artificial L from the RGB channels to unveil the small cometary nebula from Merope's glare.",
+    "h": 2572,
+    "hash": "qqhkov",
+    "id": 434438,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 271,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806153/"
+    ],
+    "orientation": "90.263",
+    "pixscale": "0.702",
+    "published": "2019-10-22T18:57:57.621896",
+    "ra": "56.582",
+    "radius": "0.405",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/434438/",
+    "revisions": [
+        "/api/v1/imagerevision/197524/",
+        "/api/v1/imagerevision/197526/",
+        "/api/v1/imagerevision/197527/",
+        "/api/v1/imagerevision/214538/",
+        "/api/v1/imagerevision/214547/"
+    ],
+    "subjects": [
+        "23 Tau",
+        "24 Tau",
+        "IC349",
+        "M45",
+        "Merope",
+        "Merope nebula",
+        "NGC 1435",
+        "NGC1435",
+        "Pleiades",
+        "The star Merope (23Tau)"
+    ],
+    "title": "The Merope Nebula and IC 349 (Barnard's Merope Nebula)",
+    "updated": "2021-05-12T15:33:25.397485",
+    "uploaded": "2019-10-22T19:57:57.730918",
+    "url_duckduckgo": "https://www.astrobin.com/qqhkov/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qqhkov/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qqhkov/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qqhkov/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qqhkov/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qqhkov/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qqhkov/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20183/2020/f5354eda-a56d-4568-8170-069493a35ab4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20183/2020/f5354eda-a56d-4568-8170-069493a35ab4-1582378529.jpg",
+    "url_thumb": "https://www.astrobin.com/qqhkov/0/rawthumb/thumb/",
+    "user": "andreas1969",
+    "views": 1712,
+    "w": 3264
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "28.425",
+    "description": "",
+    "h": 2203,
+    "hash": null,
+    "id": 403286,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 171,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "249.973",
+    "pixscale": "1.103",
+    "published": "2019-04-29T09:28:24.806367",
+    "ra": "205.399",
+    "radius": "0.637",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/403286/",
+    "revisions": [
+        "/api/v1/imagerevision/178089/"
+    ],
+    "subjects": [
+        "M 3",
+        "NGC 5272"
+    ],
+    "title": "M3",
+    "updated": "2021-03-17T11:09:32.691136",
+    "uploaded": "2019-04-29T10:28:24.952045",
+    "url_duckduckgo": "https://www.astrobin.com/403286/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403286/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403286/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403286/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403286/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403286/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403286/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/95cc109e-e82a-4727-92fa-800c966dbd00.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/95cc109e-e82a-4727-92fa-800c966dbd00-1556538430.jpg",
+    "url_thumb": "https://www.astrobin.com/403286/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 381,
+    "w": 1824
+}

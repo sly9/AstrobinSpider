@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.501",
+    "description": "NGC 2244\r\n\r\nRipresa effettuata in remoto con\r\nRC:      16'' f/8\r\nCCD:    Sbig STL 6303\r\n10 pose da 600'' in Ha bin 2x2\r\nI colori sono stati presi da una vecchia immagine fatta con il BRC 10'' f/5",
+    "h": 1024,
+    "hash": null,
+    "id": 392810,
+    "imaging_cameras": [
+        "SBIG STL 6300 CCD"
+    ],
+    "imaging_telescopes": [
+        "RC 16''"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798318/"
+    ],
+    "orientation": "0.275",
+    "pixscale": "1.127",
+    "published": "2019-02-26T17:27:05.763858",
+    "ra": "143.031",
+    "radius": "0.289",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/392810/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905"
+    ],
+    "title": "NGC 2903",
+    "updated": "2021-03-17T11:58:05.696374",
+    "uploaded": "2019-02-26T17:27:05.881104",
+    "url_duckduckgo": "https://www.astrobin.com/392810/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/392810/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/392810/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/392810/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/392810/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/392810/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/392810/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/54947ab4-b38a-4992-ae95-14dd67f4c3c0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/54947ab4-b38a-4992-ae95-14dd67f4c3c0-1551202612.jpg",
+    "url_thumb": "https://www.astrobin.com/392810/0/rawthumb/thumb/",
+    "user": "Alto-Observatory",
+    "views": 145,
+    "w": 1536
+}

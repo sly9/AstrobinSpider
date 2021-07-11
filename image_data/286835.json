@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "35.306",
+    "description": "This started out as a 3 panel Ha panorama which I began in 2014 and I posted here on Astrobin the middle panel back in 2014 [https://www.astrobin.com/108237/?nc=user]\r\nBack then there were hardly any images showing the region to the east of the Tulip Nebula, but as it took so long others have since covered the same area. But I hope this image offers a more detailed view.\r\n\r\nThere is an interesting object on the far right of the image next to the Tulip Nebula, Cygnus X1. The blue arc of gas/dust is produced by material jetting out of Cygnus X1 and interacting with other material in it's path.\r\n\r\nI have given the average sub exposure times above as they varied a bit. The average SQM-L for the whole 2 year period was 18.6 and never got better than 18.98 which is very rare. Being a 3 panel mosaic, the total integration time is high and quite a challenge and was imaged on 40 separate nights. I don't know how people manage to get mosaics larger than this as it takes a great deal of time. This is a 50% reduced size otherwise it would be a rather big download.\r\n\r\nI processed this mainly in Pixinsight, but moved over to Photoshop for the layer blending stage. Here I use the tone mapping method for the NB images and added RGB stars which were only made from 60s subs. Most of the OIII & SII subs were at bin2x2",
+    "h": 2411,
+    "hash": null,
+    "id": 286835,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 147,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "359.863",
+    "pixscale": "1.435",
+    "published": "2017-03-11T09:46:49.186165",
+    "ra": "301.626",
+    "radius": "1.872",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286835/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6871"
+    ],
+    "title": "Tulip Nebula (Sh2-101) and surrounding region including Cygnus X1",
+    "updated": "2021-03-17T21:33:22.741068",
+    "uploaded": "2017-03-11T09:46:49.872636",
+    "url_duckduckgo": "https://www.astrobin.com/286835/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286835/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286835/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286835/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286835/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286835/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286835/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5290/2017/660181d1-8a2d-4188-815d-ac80142170bd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5290/2017/660181d1-8a2d-4188-815d-ac80142170bd-1582449960.jpg",
+    "url_thumb": "https://www.astrobin.com/286835/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 877,
+    "w": 9080
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 33,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "36.175",
+    "description": "WR134 is a Wolf-Rayet star in the constellation Cygnus about 6000 lightyears away. WR134 emitts massive radiation that drives a bubble of ioniozed gas. This is a combination of captured  H-alpha and OIII emissions for the background and the bubble and RGB light for natural colored stars.\r\n\r\nTS Photoline 130/910 mm triplet apo and ASI1600mmp camera.\r\n\r\n31 x 200s Ha at gain 139\r\n72 x 200s OIII at gain 139\r\n30/30/30 x 30s R/G/B for the stars",
+    "h": 3272,
+    "hash": null,
+    "id": 416820,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 206,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "156.985",
+    "pixscale": "1.061",
+    "published": "2019-07-24T17:54:40.073399",
+    "ra": "302.405",
+    "radius": "0.804",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/416820/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6883",
+        "The star 27Cyg"
+    ],
+    "title": "WR134 - Eye in the Sky",
+    "updated": "2021-03-17T10:04:38.272580",
+    "uploaded": "2019-07-24T18:54:40.357146",
+    "url_duckduckgo": "https://www.astrobin.com/416820/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416820/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416820/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416820/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416820/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416820/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416820/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2019/7f39680e-cd44-4cff-8cf9-92b45700e418.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2019/7f39680e-cd44-4cff-8cf9-92b45700e418-1582617057.jpg",
+    "url_thumb": "https://www.astrobin.com/416820/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 1391,
+    "w": 4368
+}

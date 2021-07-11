@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "66.232",
+    "description": "C/2019 Y4 ATLAS彗星，最近运行在大熊座中。这片区域相对空旷，除了M81和M82这两个著名星系，似乎没有其他有名的深空天体。\r\n\r\n但在长时间曝光的深度照片里，一些云气开始显现。它们是Integrated Flux Nebula，缩写为IFN，译为共同照耀星云。与被邻近恒星照亮的普通星云不同，这些星云远离银盘，是被整个银河涨里的恒星共同照亮的。\r\n\r\n蓝绿色的ATLAS彗星是照片里离我们最近的天体，运行在太阳系内部。IFN却要比照片里的点点繁星离我们更远，弥漫在恒星背后更远的地方。仔细看，图中还有一些小小的光斑，它们是银河系外更遥远的星系。\r\n\r\n锐星150 2.8 HNT，QHY268C，艾顿CEM60，Gain 60，Offset 30，高增益模式，单张曝光100秒，摄于北京门头沟清水镇附近，由3月15日和17日两晚的彗星照片拼接而成。\r\n\r\n前期拍摄APT，后期处理PixInsight、PhotoShop、PTgui。",
+    "h": 2560,
+    "hash": "bhh5dn",
+    "id": 467014,
+    "imaging_cameras": [
+        "QHYCCD QHY268C"
+    ],
+    "imaging_telescopes": [
+        "SharpStar 15028HNT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "341.257",
+    "pixscale": "2.676",
+    "published": "2020-03-21T11:12:25.331779",
+    "ra": "146.172",
+    "radius": "1.845",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467014/",
+    "revisions": [],
+    "subjects": [
+        "NGC2909",
+        "Comet"
+    ],
+    "title": "C/2019 Y4 ATLAS and IFN",
+    "updated": "2021-03-17T04:06:24.076084",
+    "uploaded": "2020-03-21T11:12:25.680969",
+    "url_duckduckgo": "https://www.astrobin.com/bhh5dn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bhh5dn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bhh5dn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bhh5dn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bhh5dn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bhh5dn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bhh5dn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30546/2020/0dd698cb-4b15-44f1-8551-816fd26f5cc4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30546/2020/0dd698cb-4b15-44f1-8551-816fd26f5cc4-1586338546.jpg",
+    "url_thumb": "https://www.astrobin.com/bhh5dn/0/rawthumb/thumb/",
+    "user": "Steed",
+    "views": 543,
+    "w": 4255
+}

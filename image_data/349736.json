@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 21,
+    "comments": 27,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.681",
+    "description": "Also called the Black Eye Galaxy, M64 is located in the constellation of Coma Berenices at a distance of about 17 Mly.  Interestingly it contains two counter-rotating masses of interstellar material of nearly equal mass.  The stars, on the other hand, appear to all be rotating in the same direction.  The origins of how this unusual situation came about are a mystery.\r\n\r\nThis image was taken with my newly installed computer and I was happy to think that my equipment troubles might settle down.  Things ran beautifully for about two weeks and I managed to snag a bare minimum of data before my FLI-ML16803 imaging camera began to act up by randomly disconnecting and by then failing almost completely.  Fortunately, the camera died a slow death and I was able to grab a set of calibration files and one night of Ha data before I was unable to keep the camera running for more than a frame or two.  I have a  new FLI-ML16200 on order for a new refractor that I'm getting configured so I'll fly out to DSW to swap cameras in about 2 weeks.   That way the ML16803 can get repaired and I can get my scope back on line.  Anyone who thinks that remote imaging is easy or that it provides some kind of \"unfair\" advantage has never actually tried keeping a remote scope running!  There is nothing easy about having equipment regularly fail when the scope is located a few states a way!\r\n\r\nThis image is a crop of about half of the full field.  I drizzled the data and I'm finding that drizzling has numerous benefits beside a slight increase in apparent resolution.  The stars look a lot cleaner and the overall noise appears to be very slightly improved.  I'll have to make some measurements to confirm it but the drizzled data appears to be very clean.  There is no doubt that I could take the image sharpness up a notch if I could just keep things working long enough to gather more  really  high quality data.  A few  of the subs in this series were in the range of 1.4\" - 1.5\" FWHM.  Unfortunately, the average FWHM was considerably larger due to less than outstanding  seeing.  I've started to wonder if an AO system might help.\r\n\r\nAs always, C&C is welcome so feel free to let me know what you think.  Hopefully I didn't screw it up too badly.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 349736,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 280,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "180.671",
+    "pixscale": "0.239",
+    "published": "2018-06-03T05:35:58.947933",
+    "ra": "194.179",
+    "radius": "0.202",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/349736/",
+    "revisions": [
+        "/api/v1/imagerevision/147056/",
+        "/api/v1/imagerevision/147414/"
+    ],
+    "subjects": [
+        "Black-eye galaxy",
+        "M 64",
+        "NGC 4826"
+    ],
+    "title": "M64, The Evil Eye",
+    "updated": "2021-06-09T13:52:35.957554",
+    "uploaded": "2018-06-03T05:22:10.716750",
+    "url_duckduckgo": "https://www.astrobin.com/349736/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/349736/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/349736/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/349736/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/349736/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/349736/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/349736/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1de59a2a-451b-4169-88b4-216e1ec45a7f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1de59a2a-451b-4169-88b4-216e1ec45a7f-1528001072.jpg",
+    "url_thumb": "https://www.astrobin.com/349736/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1574,
+    "w": 1824
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNKNOWN",
+    "dec": "-7.219",
+    "description": "Equipment:  \r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nSoftware:  \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition:  \r\nLocation: Atoka, Oklahoma (Bortle 3)\r\nDates: 11/18/17, 11/21/17, 11/25/17\r\nGain: 76 Offset: 15\r\nCamera temp: -20C\r\nL: 107x180\"\r\nR: 30x180\"\r\nG: 32x180\"\r\nB: 25x180\"\r\nTotal integration time: 9hr 42min\r\n64x darks per calibration\r\n30x flats per calibration\r\n200x bias (master bias in library)  \r\n\r\nPreprocessing:\r\nBatch PreProcessing script to generate calibrated images\r\nStarAlignment to register all frames to a reference L\r\nLocalNormalization per channel\r\nImageIntegration\r\nDrizzleIntegration\r\nDynamicCrop each master\r\nDBE on each master\r\n\r\nRGB processing:\r\nLinearFit to Blue channel\r\nChannelCombination to combine\r\nPhotometricColorCalibration \r\nSCNR green\r\nTGV and MMT noise reduction (via Jon Rista's method)\r\nHistogramTransformation x3\r\nCurvesTransformation w/starmask to saturate stars\r\nCurvesTransformation with only nebula masked to saturate nebulosity\r\nColorSaturation tool to further saturate nebulosity\r\nSlight HistogramTransformation\r\nSCNR green\r\n\r\nL processing:\r\nTGV and MMT noise reduction (via Jon Rista's method)\r\nHistogramTransformation\r\nDuplicated the image to create a starless version, using a starmask and several iterations of MMT and MT. Then pushed the faint nebulosity in the starless version using PixelMath expression: \"1-(1-$T)*(1-$T)\"\r\nCombined the starless version with the image using PixelMath expression \"F=0.4; (1-(1-$T)*(1-s)*F)+($T*~F)\" followed by the same function but with a value of F=0.2. (s=starless photo).\r\nLocalHistogramEqualization with inverted starmask\r\n\r\nCombined L and RGB with LRGBCombination tool\r\nMorphologicalTransformation for slight star reduction\r\nResampled to 50% for web posting",
+    "h": 3333,
+    "hash": null,
+    "id": 346055,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808932/"
+    ],
+    "orientation": "272.210",
+    "pixscale": "2.024",
+    "published": "2018-05-10T00:01:38.836945",
+    "ra": "76.219",
+    "radius": "1.565",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/346055/",
+    "revisions": [],
+    "subjects": [
+        "IC 2118",
+        "NGC 1752",
+        "The star ψEri",
+        "Witch Head nebula"
+    ],
+    "title": "Witch Head Nebula (IC 2118)",
+    "updated": "2021-03-17T15:33:59.271422",
+    "uploaded": "2018-05-10T01:01:41.453536",
+    "url_duckduckgo": "https://www.astrobin.com/346055/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/346055/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/346055/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/346055/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/346055/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/346055/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/346055/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/f934f3e9-d530-431a-81db-d59ce7f643df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f934f3e9-d530-431a-81db-d59ce7f643df-1525910918.jpg",
+    "url_thumb": "https://www.astrobin.com/346055/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 482,
+    "w": 4460
+}

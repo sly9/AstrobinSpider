@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-13.219",
+    "description": "A tough one here since I had to image a lot through the lights of nearby Chico. Had some flats issues with the OIII set. Since it's low and in the lights, guiding was also tough. \r\nProcessed as:\r\nR: Ha + SII\r\nG: OIII + 0.1*SII\r\nB: OIII",
+    "h": 1776,
+    "hash": null,
+    "id": 288106,
+    "imaging_cameras": [
+        "ATIK 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "TPO 10\" f/4 Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "88.924",
+    "pixscale": "1.104",
+    "published": "2017-03-23T02:57:47.868258",
+    "ra": "109.660",
+    "radius": "0.460",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/288106/",
+    "revisions": [
+        "/api/v1/imagerevision/112785/",
+        "/api/v1/imagerevision/112831/"
+    ],
+    "subjects": [
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "Thor's Helmet (NGC 2359) in narrowband",
+    "updated": "2021-03-17T21:28:42.046147",
+    "uploaded": "2017-03-23T02:57:48.250170",
+    "url_duckduckgo": "https://www.astrobin.com/288106/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/288106/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/288106/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/288106/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/288106/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/288106/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/288106/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8252/2020/590511ad-98d5-4e28-b7b9-6e2d21187162.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8252/2020/590511ad-98d5-4e28-b7b9-6e2d21187162-1582628091.jpg",
+    "url_thumb": "https://www.astrobin.com/288106/0/rawthumb/thumb/",
+    "user": "cmassa",
+    "views": 595,
+    "w": 2418
+}

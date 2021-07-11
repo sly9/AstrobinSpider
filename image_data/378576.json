@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "23.248",
+    "description": "Ha:50x600s en bin1\r\nOIII: 42x600s en bin1",
+    "h": 2007,
+    "hash": null,
+    "id": 378576,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805429/"
+    ],
+    "orientation": "94.789",
+    "pixscale": "2.862",
+    "published": "2018-11-26T21:59:34.867666",
+    "ra": "295.769",
+    "radius": "1.274",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/378576/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6820",
+        "NGC 6823"
+    ],
+    "title": "NGC6823 & NGC6820 en HOO",
+    "updated": "2021-03-17T13:02:56.569129",
+    "uploaded": "2018-11-26T21:59:35.029288",
+    "url_duckduckgo": "https://www.astrobin.com/378576/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378576/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378576/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378576/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378576/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378576/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378576/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/c3f9e7b1-91f2-490b-95c3-db8d9603f904.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/c3f9e7b1-91f2-490b-95c3-db8d9603f904-1582639749.jpg",
+    "url_thumb": "https://www.astrobin.com/378576/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 249,
+    "w": 2500
+}

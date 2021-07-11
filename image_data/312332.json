@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "First solar imaging attempt",
+    "h": 693,
+    "hash": null,
+    "id": 312332,
+    "imaging_cameras": [
+        "QHYCCD 5L-II M"
+    ],
+    "imaging_telescopes": [
+        "Coronado PST"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 12,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807300/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-09-15T17:42:31.914376",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312332/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Solar Prominence 9/4/2017",
+    "updated": "2021-03-17T19:50:26.417262",
+    "uploaded": "2017-09-15T18:42:32.499951",
+    "url_duckduckgo": "https://www.astrobin.com/312332/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312332/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312332/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312332/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312332/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312332/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312332/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/312332/0/rawthumb/thumb/",
+    "user": "jtrezzo",
+    "views": 237,
+    "w": 1028
+}

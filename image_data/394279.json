@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "33.869",
+    "description": "For this subject I'm planning to add LRGB and, maybe, even OIII",
+    "h": 1760,
+    "hash": null,
+    "id": 394279,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300X"
+    ],
+    "imaging_telescopes": [
+        "SharpStar 100Q Apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808498/"
+    ],
+    "orientation": "268.955",
+    "pixscale": "5.433",
+    "published": "2019-03-06T09:31:28.189931",
+    "ra": "79.887",
+    "radius": "1.892",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394279/",
+    "revisions": [
+        "/api/v1/imagerevision/174233/",
+        "/api/v1/imagerevision/174566/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "NGC 1893",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur"
+    ],
+    "title": "From Tadpoles to Flaming Star - 5 tiles mosaic (WIP)",
+    "updated": "2021-03-17T11:51:23.783828",
+    "uploaded": "2019-03-06T09:31:28.293169",
+    "url_duckduckgo": "https://www.astrobin.com/394279/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394279/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394279/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394279/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394279/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394279/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394279/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4075/2019/2430ad92-5ae2-46c2-9e28-c93cb5314b6a.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4075/2019/2430ad92-5ae2-46c2-9e28-c93cb5314b6a-1582599947.jpeg",
+    "url_thumb": "https://www.astrobin.com/394279/0/rawthumb/thumb/",
+    "user": "koten90",
+    "views": 175,
+    "w": 1786
+}

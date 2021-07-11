@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "47.191",
+    "description": "RGB Daten vom 10\" f4 Newton",
+    "h": 1328,
+    "hash": null,
+    "id": 293559,
+    "imaging_cameras": [
+        "Starlight Xpress SX674 Mono",
+        "ASI 1600 MM - Cooled ASI 1600mmc"
+    ],
+    "imaging_telescopes": [
+        "Meade 14\" SC",
+        "Eigenbau 10\" F4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "-89.059",
+    "pixscale": "0.347",
+    "published": "2017-04-28T13:51:21.635548",
+    "ra": "202.474",
+    "radius": "0.265",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293559/",
+    "revisions": [
+        "/api/v1/imagerevision/130336/",
+        "/api/v1/imagerevision/130339/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51",
+    "updated": "2021-03-17T21:03:57.351981",
+    "uploaded": "2017-04-28T14:51:22.244666",
+    "url_duckduckgo": "https://www.astrobin.com/293559/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293559/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293559/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293559/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293559/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293559/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293559/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/99a3f91a-4f74-475b-bbb9-bf29795afe28.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/99a3f91a-4f74-475b-bbb9-bf29795afe28-1493387653.jpg",
+    "url_thumb": "https://www.astrobin.com/293559/0/rawthumb/thumb/",
+    "user": "az-picture.de",
+    "views": 743,
+    "w": 1824
+}

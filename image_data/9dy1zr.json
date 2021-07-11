@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.666",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix (RGB)\r\nTV127is+ASI183MM at .75 asec/pix. (L)\r\nThey were all registered to the best R image taken on the AG12.\r\nUnguided image.\r\n\r\nMessier 110 (M110), also known as the Edward Young Star, is a dwarf elliptical galaxy located in the constellation Andromeda.\r\nM110 is a satellite of the much larger Andromeda Galaxy (M31). It lies at a distance of 2.69 million light years from Earth and has an apparent magnitude of 8.92. It has the designation NGC 205 in the New General Catalogue.\r\n\r\nMessier 110 occupies an area of 21.9 by 11 arc minutes of apparent sky, corresponding to an actual diameter of 17,000 light years. In spite of its size, the galaxy is difficult to observe with binoculars because it has a low surface brightness.\r\n\r\nTo be seen in small telescopes, it requires exceptionally clear, dark skies. In 3-inch telescopes, M110 appears as a faint, diffuse patch of light, while 8-inch telescopes reveal a larger oval shape with a slightly brighter core.\r\n\r\nMessier 110 shows evidence of recent star forming activity as it contains a population of young blue stars at its centre. It also has some dust, which is unusual for a galaxy of this type and likely a result of interaction with its large neighbour, M31. M110 is classified as a peculiar elliptical galaxy because of its unusual dark structures and signs of recent star formation. The galaxy does not appear to have a supermassive black hole at its centre.\r\n\r\nAs a satellite galaxy of M31, M110 is a member of the Local Group. It is one of at least 14 dwarf galaxies orbiting Andromeda, and the second brightest of Andromeda’s satellites, after Le Gentil (M32).\r\n\r\nMessier 110 is often catalogued as a dwarf spheroidal galaxy, which makes it the only galaxy of this type listed in the Messier Catalogue. It is, however, much brighter than other galaxies of this kind and is sometimes classified simply as a spheroidal galaxy. M110 has an estimated mass of between 4 and 15 billion solar masses.\r\n\r\nMessier 110 is estimated to contain about 10 billion stars and has a population of at least eight globular clusters. The brightest of these, G73, is of 15th magnitude and can be seen in large amateur telescopes",
+    "h": 4928,
+    "hash": "9dy1zr",
+    "id": 442296,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 144,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "358.131",
+    "pixscale": "0.501",
+    "published": "2019-12-06T21:26:38.127234",
+    "ra": "10.120",
+    "radius": "0.562",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/442296/",
+    "revisions": [
+        "/api/v1/imagerevision/202694/"
+    ],
+    "subjects": [
+        "M 110",
+        "NGC 205"
+    ],
+    "title": "M110 Satellite Of Andromeda",
+    "updated": "2021-05-27T16:33:46.692870",
+    "uploaded": "2019-12-06T21:11:24.852003",
+    "url_duckduckgo": "https://www.astrobin.com/9dy1zr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9dy1zr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9dy1zr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9dy1zr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9dy1zr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9dy1zr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9dy1zr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/51a44c9f-4464-436d-9625-4b351698df2c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/51a44c9f-4464-436d-9625-4b351698df2c-1582287116.jpg",
+    "url_thumb": "https://www.astrobin.com/9dy1zr/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 340,
+    "w": 6401
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "30.633",
+    "description": "Hello together,\r\nthe following image was a test with a large sensor from my Canon 5d MKII at my 10\" Newton equipped with the Gyulai Corrector.\r\nThe test was necessary because my CCD camera was defective and needed repair.\r\n\r\nAnyway, I hope you like this compromise!\r\nStefan\r\n\r\nImage Data:\r\nDate: 31.10.2016\r\nTelescope: 10\" f4,8 Newton with GPU Corrector\r\nGuiding: M-Gen and Lacerta OAG\r\nCamera: Canon 5d MKII modified\r\nIntegration time: 60x 360sec. at ISO 800\r\nCalib.data: 6 darks, 18Flats\r\nProcessing: DSS, Fitswork4, PSCs6, Startools",
+    "h": 1195,
+    "hash": null,
+    "id": 271750,
+    "imaging_cameras": [
+        "Canon 5D Mark II"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK CT10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799021/"
+    ],
+    "orientation": "87.544",
+    "pixscale": "1.384",
+    "published": "2016-11-11T10:05:04.649355",
+    "ra": "23.430",
+    "radius": "1.028",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271750/",
+    "revisions": [],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "Triangulum Galaxy M33",
+    "updated": "2021-03-17T22:31:20.054866",
+    "uploaded": "2016-11-11T10:05:05.478077",
+    "url_duckduckgo": "https://www.astrobin.com/271750/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271750/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271750/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271750/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271750/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271750/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271750/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/74e88471-099d-4c46-9e69-f4102afa1238.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/74e88471-099d-4c46-9e69-f4102afa1238-1478859459.jpg",
+    "url_thumb": "https://www.astrobin.com/271750/0/rawthumb/thumb/",
+    "user": "Chillspeedy",
+    "views": 648,
+    "w": 1824
+}

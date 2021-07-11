@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "28.376",
+    "description": "M3\r\nDate: Jan-Apr. 2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB , \r\nExposure :  R:300sx20 ,G:300sx30, B:300sx22 , L:300sx43( ~9.6hr )\r\nGuiding: OAG ASI174, \r\nProcessing: PI、PS-CC\r\n(same data set as Michael Leung)",
+    "h": 1707,
+    "hash": null,
+    "id": 406070,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 211,
+    "link": "https://astro-noodle.blogspot.com/2019/05/m3.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "267.489",
+    "pixscale": "0.794",
+    "published": "2019-05-15T23:56:48.708694",
+    "ra": "205.554",
+    "radius": "0.294",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/406070/",
+    "revisions": [],
+    "subjects": [
+        "M 3",
+        "NGC 5272"
+    ],
+    "title": "M3",
+    "updated": "2021-06-12T01:33:33.932651",
+    "uploaded": "2019-05-16T00:56:50.993391",
+    "url_duckduckgo": "https://www.astrobin.com/406070/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406070/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406070/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406070/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406070/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406070/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406070/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/bb09eeff-8d16-4ade-9fb2-9899d3adbf44.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/bb09eeff-8d16-4ade-9fb2-9899d3adbf44-1582558103.png",
+    "url_thumb": "https://www.astrobin.com/406070/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 1824,
+    "w": 2048
+}

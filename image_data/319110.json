@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "-20.838",
+    "description": "The Helix strikes the Zenith in Namibia, so I took the advantage to try a photo in LRGB Ha and OIII channels, using an 8\" f/4 Newtonian and ASI1600MMC in the south observatory of your Viennese club WAA.  28+14+12+14 x3min subframes LRGB and 24+23 x3min subframes Ha and OIII. Yes, 3min only each, ASI at zero gain, barely background limited in Namibia. ;-)\r\n\r\nPresented are a crop on the main part of the Helix and its delicate interior structures, a 66% sized full field showing the outer portions in Ha alsong with some field galaxies, an annotated version, and a blink between Ha and OIII frames. How different the nebula looks in these channels! \r\n\r\nStructures are enhanced a bit mostly by PixInsights HDR compression tool, only a little sharpening.  The LRGB mix is just enhanced by NB in the weaker parts, and part of NB is used as a Luminance enhancement in the respective color channels.",
+    "h": 999,
+    "hash": null,
+    "id": 319110,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 234,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807666/"
+    ],
+    "orientation": "262.111",
+    "pixscale": "1.460",
+    "published": "2017-10-28T22:45:46.646107",
+    "ra": "337.418",
+    "radius": "0.338",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319110/",
+    "revisions": [
+        "/api/v1/imagerevision/128513/",
+        "/api/v1/imagerevision/128514/",
+        "/api/v1/imagerevision/128515/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293",
+        "NGC7293",
+        "PK036-57.1"
+    ],
+    "title": "NGC7293 Helix Nebula",
+    "updated": "2021-04-19T23:10:18.761242",
+    "uploaded": "2017-10-28T23:45:47.315333",
+    "url_duckduckgo": "https://www.astrobin.com/319110/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319110/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319110/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319110/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319110/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319110/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319110/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/9e85d2e0-b6b6-440a-9a1e-9a9b62692f3d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/9e85d2e0-b6b6-440a-9a1e-9a9b62692f3d-1582612029.png",
+    "url_thumb": "https://www.astrobin.com/319110/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 2347,
+    "w": 1332
+}

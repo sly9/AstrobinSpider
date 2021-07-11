@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "TRAVELLER",
+    "dec": "-18.886",
+    "description": "",
+    "h": 2496,
+    "hash": null,
+    "id": 395997,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "215.156",
+    "pixscale": "0.655",
+    "published": "2019-03-17T01:51:15.243695",
+    "ra": "180.457",
+    "radius": "0.388",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395997/",
+    "revisions": [
+        "/api/v1/imagerevision/180155/",
+        "/api/v1/imagerevision/180344/"
+    ],
+    "subjects": [
+        "Antennae",
+        "NGC 4038",
+        "NGC 4039"
+    ],
+    "title": "The Antennae",
+    "updated": "2021-03-17T11:43:25.204930",
+    "uploaded": "2019-03-17T01:41:35.198339",
+    "url_duckduckgo": "https://www.astrobin.com/395997/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395997/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395997/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395997/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395997/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395997/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395997/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2019/706b791d-872a-48bf-b1f1-4f6343bd6f36.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2019/706b791d-872a-48bf-b1f1-4f6343bd6f36-1582593974.jpg",
+    "url_thumb": "https://www.astrobin.com/395997/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 516,
+    "w": 3464
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-20.836",
+    "description": "Only 17 degrees above my horizon! \r\nNebula : bicolor Ha OIII with natural RGB stars.\r\nHa: 9x1200 secs\r\nOIII: 6x1200 secs\r\nLRGB: 6x600 secs each channel\r\nI am also waiting for SII to make full HST version.",
+    "h": 1574,
+    "hash": null,
+    "id": 309860,
+    "imaging_cameras": [
+        "ATIK ONE 9 M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FS 128"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "1.830",
+    "pixscale": "1.163",
+    "published": "2017-08-29T12:11:54.703547",
+    "ra": "337.409",
+    "radius": "0.411",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/309860/",
+    "revisions": [],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "NGC 7293 Eye of God ( aka Helix) nebula  HaOIII LRGB",
+    "updated": "2021-03-17T20:00:40.332385",
+    "uploaded": "2017-08-29T13:11:55.993833",
+    "url_duckduckgo": "https://www.astrobin.com/309860/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/309860/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/309860/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/309860/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/309860/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/309860/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/309860/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7649/2017/8d4342e0-2ccf-4375-82a0-7a14cdd45969.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7649/2017/8d4342e0-2ccf-4375-82a0-7a14cdd45969-1582512543.png",
+    "url_thumb": "https://www.astrobin.com/309860/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 417,
+    "w": 2000
+}

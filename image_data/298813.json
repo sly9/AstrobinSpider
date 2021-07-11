@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "PRO_DATA",
+    "dec": "44.953",
+    "description": "Another RGB image that I processed from free data from the Liverpool Telescope, a 2 m RC reflector on La Palma. This time with quite a lot of data.\r\n\r\nFilters and exposures used.\r\nsdss-r 40 x 90 s (red channel)\r\nBessell V 25 x 90 s (green channel)\r\nBessell B + sdss-g 39 x 90 s (blue channel)",
+    "h": 1339,
+    "hash": null,
+    "id": 298813,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "359.954",
+    "pixscale": "0.425",
+    "published": "2017-06-07T22:01:08.190240",
+    "ra": "138.061",
+    "radius": "0.112",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298813/",
+    "revisions": [
+        "/api/v1/imagerevision/118127/"
+    ],
+    "subjects": [
+        "NGC 2776"
+    ],
+    "title": "NGC 2776 - rarely imaged galaxy in Lynx",
+    "updated": "2021-03-17T20:43:32.755945",
+    "uploaded": "2017-06-07T23:01:08.556659",
+    "url_duckduckgo": "https://www.astrobin.com/298813/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298813/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298813/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298813/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298813/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298813/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298813/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/f7fe0412-c815-4235-a42a-56cb067194e7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/f7fe0412-c815-4235-a42a-56cb067194e7-1582579667.jpg",
+    "url_thumb": "https://www.astrobin.com/298813/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 146,
+    "w": 1350
+}

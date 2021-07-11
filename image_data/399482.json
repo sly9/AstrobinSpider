@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "25.960",
+    "description": "",
+    "h": 1500,
+    "hash": null,
+    "id": 399482,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.490",
+    "pixscale": "2.707",
+    "published": "2019-04-05T20:26:27.724064",
+    "ra": "189.052",
+    "radius": "0.970",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/399482/",
+    "revisions": [
+        "/api/v1/imagerevision/215441/"
+    ],
+    "subjects": [
+        "NGC 4555",
+        "NGC 4562",
+        "NGC 4565"
+    ],
+    "title": "NGC 4565",
+    "updated": "2021-03-29T09:12:58.658059",
+    "uploaded": "2019-04-05T21:26:27.859864",
+    "url_duckduckgo": "https://www.astrobin.com/399482/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/399482/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/399482/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/399482/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/399482/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/399482/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/399482/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/dcc385f4-5103-4f24-b933-89772a064596.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/dcc385f4-5103-4f24-b933-89772a064596-1582639041.jpg",
+    "url_thumb": "https://www.astrobin.com/399482/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 411,
+    "w": 1500
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "42.942",
+    "description": "2014/11/3, 2014/12/30\r\nEpsiron 130D x 2\r\nQSI583ws and QSI583wsg\r\n(Ha 20x900sec, SII 14x900sec, OIII 33x900sec)\r\n\r\n2017/11/11\r\nCCA250 + 645RD\r\nASI1600MM-Cool\r\n(Ha 52x300sec, RGB 5x180sec each)\r\n\r\nEpsiron 180ED\r\nQSI6120ws\r\n(SII 12x600sec, OIII 23x600sec)",
+    "h": 2709,
+    "hash": null,
+    "id": 321177,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "ZWO ASI1600MM-Cool",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED",
+        "Takahashi Epsilon 130D",
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806965/",
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "357.539",
+    "pixscale": "1.502",
+    "published": "2017-11-12T07:08:42.550692",
+    "ra": "81.632",
+    "radius": "0.708",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/321177/",
+    "revisions": [
+        "/api/v1/imagerevision/129939/"
+    ],
+    "subjects": [],
+    "title": "Supernova remnant Sh2-224",
+    "updated": "2021-04-16T17:43:30.435666",
+    "uploaded": "2017-11-12T07:08:43.614660",
+    "url_duckduckgo": "https://www.astrobin.com/321177/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/321177/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/321177/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/321177/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/321177/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/321177/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/321177/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2017/58fe02ce-d88b-4fc1-ba1b-2d5fcd329446.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2017/58fe02ce-d88b-4fc1-ba1b-2d5fcd329446-1582598794.jpg",
+    "url_thumb": "https://www.astrobin.com/321177/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 505,
+    "w": 2048
+}

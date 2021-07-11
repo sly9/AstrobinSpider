@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "-66.496",
+    "description": "Not quite enough data to bring out the quite extensive IFN properly - when stretching to bring it out, the noise is horrendous!",
+    "h": 2772,
+    "hash": "ha3806",
+    "id": 431450,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "348.197",
+    "pixscale": "0.655",
+    "published": "2019-10-05T02:57:29.813530",
+    "ra": "49.560",
+    "radius": "0.414",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/431450/",
+    "revisions": [
+        "/api/v1/imagerevision/195534/",
+        "/api/v1/imagerevision/195535/",
+        "/api/v1/imagerevision/195536/"
+    ],
+    "subjects": [
+        "NGC 1313"
+    ],
+    "title": "The Topsy-Turvy Galaxy (NGC 1313)",
+    "updated": "2021-03-17T08:50:49.929876",
+    "uploaded": "2019-10-05T02:09:30.539968",
+    "url_duckduckgo": "https://www.astrobin.com/ha3806/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ha3806/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ha3806/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ha3806/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ha3806/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ha3806/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ha3806/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2019/43f2658f-a20b-4986-8367-43fbf64c37ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2019/43f2658f-a20b-4986-8367-43fbf64c37ea-1582593943.jpg",
+    "url_thumb": "https://www.astrobin.com/ha3806/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 239,
+    "w": 3616
+}

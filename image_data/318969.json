@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "The Fish Head Nebula is a bright emission nebula with complex regions of dark nebula attached to the Heart Nebula complex located at a distance of 6,000-7,500 ly. This image was made using Ha, OIII, and SII narrowband filters and combined using the Hubble palette.\r\n\r\nI struggled a bit to grab all of the data I needed to process this image through periods of wind and mediocre seeing. I wound up processing this data using 64 bit integrated data to insure that the processed data remained above any quantization limits and it worked out pretty well. I always struggle a bit deciding how to control the green cast in any HSO composition and this image was no exception. In the end, I went with with the green component dialed way back to produce the blue/yellow/orange variation presented in this image.  Hopefully it works for you folks.\r\n\r\nAs always, C&C is welcome so feel free to let me know what you think...\r\n\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 318969,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-10-30T05:54:31.622704",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318969/",
+    "revisions": [
+        "/api/v1/imagerevision/128535/"
+    ],
+    "subjects": [],
+    "title": "IC 1795:  A Colorful Fish Swimming Through Cassiopeia",
+    "updated": "2021-03-17T19:22:58.979492",
+    "uploaded": "2017-10-28T03:18:36.897245",
+    "url_duckduckgo": "https://www.astrobin.com/318969/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318969/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318969/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318969/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318969/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318969/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318969/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/318969/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 455,
+    "w": 1824
+}

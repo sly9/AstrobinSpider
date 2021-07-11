@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "-5.198",
+    "description": "10*30 sec en rvb, 10*300 sec en rvb et 4 ha de 600 sec\r\n\r\n3h45 d'exposition\r\n\r\nLunette TS 86/464 Quadruplet APO astrographe\r\nRéducteur Televue x0.80\r\nFocale 371mm à F 4.3\r\nMonture EQ6 Pro\r\nAutoguidage Lunette Orion 50mm Guide Scope 163mm\r\nCamera Starshoot Autoguider\r\nImageur SBIG STF-8300 Mono\r\nRoue à Filtre SBIG RAF-FW8\r\nFiltre Baader R, V, B, Ha\r\n\r\nSGP SEQUENCE GENERATOR PRO, SIRIL et UWE ASTRO TOOLS\r\n\r\nSur 4 nuits \r\n48 Bleus de 5 min\r\n40 Rouges de 5 min\r\n44 Vertes de 5 minutes et\r\n76 Hydrogènes alpha de 10 min\r\n\r\nassemblage de la totalité, pour faire la densité puis les meilleurs 50% FWHM plus 50% Rondeur dans Siril\r\nRetenus RVB 17-12-19 et seulement 19 Ha (7h10)\r\npour faire les étoiles et la netteté.",
+    "h": 2530,
+    "hash": "len3d7",
+    "id": 445530,
+    "imaging_cameras": [
+        "SBIG STF8300M SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TS 86/464 Quadruplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "https://www.flickr.com/photos/uwekamin/49316338386/in/dateposted-public/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810598/"
+    ],
+    "orientation": "357.128",
+    "pixscale": "3.027",
+    "published": "2019-12-29T00:06:11.751602",
+    "ra": "83.826",
+    "radius": "1.621",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/445530/",
+    "revisions": [
+        "/api/v1/imagerevision/205981/"
+    ],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "M 43",
+        "NGC 1973",
+        "NGC 1975",
+        "NGC 1976",
+        "NGC 1977",
+        "NGC 1980",
+        "NGC 1981",
+        "NGC 1982",
+        "The star 42Ori",
+        "The star 45Ori",
+        "The star θ1Ori",
+        "The star θ2Ori",
+        "The star ιOri"
+    ],
+    "title": "M42 Nébuleuse d'Orion",
+    "updated": "2021-03-17T05:52:27.070551",
+    "uploaded": "2019-12-29T00:06:11.986883",
+    "url_duckduckgo": "https://www.astrobin.com/len3d7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/len3d7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/len3d7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/len3d7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/len3d7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/len3d7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/len3d7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/dc354aaa-eb51-4a94-818e-2f837706421c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dc354aaa-eb51-4a94-818e-2f837706421c-1577978397.jpg",
+    "url_thumb": "https://www.astrobin.com/len3d7/0/rawthumb/thumb/",
+    "user": "UweK",
+    "views": 404,
+    "w": 1824
+}

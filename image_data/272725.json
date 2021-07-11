@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "67.980",
+    "description": "LBN468 in cefeo ripresa nel luglio 2016 un pò alla Torre e un pò da casa a impruneta .Telescopio 80 triplet Tecnosky ridotto a f3.6 288mm con riduttore long perng 0.6x Su eq 6 EQmodded autoguidata con scopos 66ed e orion SSAG 18 pose da 900 sec binning 1x1 filtro CLSccd astronomik, RGB 15x300 sec bin 2x2 ogni canale RGB @-20C° con CCD SXVR-H16 e montatura Equatoriale EQ6 .",
+    "h": 2048,
+    "hash": null,
+    "id": 272725,
+    "imaging_cameras": [
+        "Truetecnology Supaslim 8 pos ",
+        "Starlight-XPress SXVR-H16"
+    ],
+    "imaging_telescopes": [
+        "Tecnosky 80/480  80/480 triplet fpl-53"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "175.305",
+    "pixscale": "4.807",
+    "published": "2016-11-19T21:05:06.804128",
+    "ra": "309.282",
+    "radius": "1.929",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/272725/",
+    "revisions": [],
+    "subjects": [
+        "The star 4Cep"
+    ],
+    "title": "LBN 468",
+    "updated": "2021-03-17T22:27:52.560303",
+    "uploaded": "2016-11-19T21:05:08.309696",
+    "url_duckduckgo": "https://www.astrobin.com/272725/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/272725/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/272725/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/272725/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/272725/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/272725/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/272725/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3663/2016/a079d1ca-402b-4190-9b63-ea1a2fb24478.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3663/2016/a079d1ca-402b-4190-9b63-ea1a2fb24478-1582507127.jpg",
+    "url_thumb": "https://www.astrobin.com/272725/0/rawthumb/thumb/",
+    "user": "marstar67",
+    "views": 224,
+    "w": 2038
+}

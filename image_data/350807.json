@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNKNOWN",
+    "dec": null,
+    "description": "",
+    "h": 1500,
+    "hash": null,
+    "id": 350807,
+    "imaging_cameras": [
+        "ZWO ASI178MM"
+    ],
+    "imaging_telescopes": [
+        "Lunt LS50THa",
+        "United Optics 130F7 triplet"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 12,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805249/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-06-11T13:21:33.006621",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/350807/",
+    "revisions": [
+        "/api/v1/imagerevision/147796/",
+        "/api/v1/imagerevision/147805/",
+        "/api/v1/imagerevision/147806/"
+    ],
+    "subjects": [],
+    "title": "2018.05.12 Sun H-Alpha prominences",
+    "updated": "2021-03-17T15:13:11.394408",
+    "uploaded": "2018-06-11T14:18:00.924208",
+    "url_duckduckgo": "https://www.astrobin.com/350807/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350807/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350807/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350807/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350807/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350807/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350807/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/350807/0/rawthumb/thumb/",
+    "user": "Csve",
+    "views": 79,
+    "w": 2000
+}

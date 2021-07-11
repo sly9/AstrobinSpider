@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-13.220",
+    "description": "The data for this image was collected on January 16th, 19th, 20th, 21st, 22nd, and 26th of 2020. Unless specified otherwise, this is presented with the Hubble Palette (SHO).\r\n\r\nThis object was kind of unusual in that the OIII data was stronger than the Ha data.",
+    "h": 2376,
+    "hash": "c971uv",
+    "id": 451878,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.140",
+    "pixscale": "0.931",
+    "published": "2020-01-27T19:17:22.080523",
+    "ra": "109.618",
+    "radius": "0.512",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451878/",
+    "revisions": [
+        "/api/v1/imagerevision/209512/",
+        "/api/v1/imagerevision/209530/",
+        "/api/v1/imagerevision/209532/"
+    ],
+    "subjects": [
+        "IC 468",
+        "IC468",
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "NGC 2359, Thor's Helmet",
+    "updated": "2021-03-17T05:21:47.310676",
+    "uploaded": "2020-01-27T19:17:23.232790",
+    "url_duckduckgo": "https://www.astrobin.com/c971uv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c971uv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c971uv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c971uv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c971uv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c971uv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c971uv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4132/2020/9099e6b7-e97f-4ff8-9fe8-a0e841ea771c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4132/2020/9099e6b7-e97f-4ff8-9fe8-a0e841ea771c-1582274227.png",
+    "url_thumb": "https://www.astrobin.com/c971uv/0/rawthumb/thumb/",
+    "user": "Madratter",
+    "views": 380,
+    "w": 3168
+}

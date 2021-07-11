@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "61.181",
+    "description": "HST palette SII/Hα/OIII",
+    "h": 2837,
+    "hash": null,
+    "id": 308898,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8 Carbon Fiber"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806069/"
+    ],
+    "orientation": "97.596",
+    "pixscale": "0.479",
+    "published": "2017-08-24T13:34:48.904069",
+    "ra": "350.179",
+    "radius": "0.302",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/308898/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635",
+        "NGC7635",
+        "Sh2-162"
+    ],
+    "title": "Bubble Nebula (NGC7635) NB in HST palette",
+    "updated": "2021-03-17T20:04:40.012814",
+    "uploaded": "2017-08-24T14:18:49.631394",
+    "url_duckduckgo": "https://www.astrobin.com/308898/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/308898/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/308898/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/308898/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/308898/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/308898/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/308898/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/19267/2017/9d68d1cd-60ed-450b-a7a0-5d130990c478.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/19267/2017/9d68d1cd-60ed-450b-a7a0-5d130990c478-1582602994.jpg",
+    "url_thumb": "https://www.astrobin.com/308898/0/rawthumb/thumb/",
+    "user": "Carballada",
+    "views": 345,
+    "w": 3548
+}

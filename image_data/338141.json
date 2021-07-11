@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "4.969",
+    "description": "The Rosette Nebula (Caldwell 49) is a large hydrogen cloud in the constellation of Monoceros.  The open star cluster NGC 2244 (Caldwell 50) consists of stars being formed from the nebula.   The nebula is around 5,200 light years from Earth.  \r\n\r\nI received an e-mail yesterday telling me  that I had been 'randomly selected to be the winner of a free high quality astrophotography data set from Deep Sky West' for taking part in the recent Astrobin survey.  I am not sure I've ever been randomly selected before.  I am grateful to Lloyd for donating the data.\r\n\r\nThis is: \r\n\r\nSII: 16 x1800s\r\nHa: 16 x 1800s\r\nOIII: 16 x 1800s\r\n\r\nA total of 24 hours integration time.\r\n\r\nImage acquisition: Staff of Deep Sky West\r\nProcessing: Steve Milne",
+    "h": 2444,
+    "hash": null,
+    "id": 338141,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "0.265",
+    "pixscale": "2.096",
+    "published": "2018-03-20T10:53:48.753241",
+    "ra": "98.035",
+    "radius": "1.193",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338141/",
+    "revisions": [
+        "/api/v1/imagerevision/142992/",
+        "/api/v1/imagerevision/152546/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula - SHO from DSW",
+    "updated": "2021-03-17T16:09:51.541251",
+    "uploaded": "2018-03-20T10:53:51.502409",
+    "url_duckduckgo": "https://www.astrobin.com/338141/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338141/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338141/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338141/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338141/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338141/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338141/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/aa5e02b5-d4c0-4014-8543-84518d9f8d39.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/aa5e02b5-d4c0-4014-8543-84518d9f8d39-1582606077.jpg",
+    "url_thumb": "https://www.astrobin.com/338141/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 395,
+    "w": 3290
+}

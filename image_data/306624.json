@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "22.723",
+    "description": "Subject: M27: A planetary nebula in the constellation Vulpecula, located about 1360 light-years from earth.\r\n\r\nCapture notes: A straightforward narrowband capture. S-ii was captured over two different nights due to some clouds coming in the first night, but otherwise all lights were taken during a long run of extremely clear summer nights in Seattle (making up for last winter I suppose).\r\n\r\nProcessing notes: I used tone maps to stretch the individual narrowband channels, combined them into an RGB image and then applied a synthetic luminance made by integrating the original narrowband channels. My main concern with this image is whether I went overboard with deconvolution ... most of the detail can be attributed to applying local histogram equalization to the luminance.",
+    "h": 1096,
+    "hash": null,
+    "id": 306624,
+    "imaging_cameras": [
+        "Atik 460EX Mono"
+    ],
+    "imaging_telescopes": [
+        "EdgeHD 8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804100/"
+    ],
+    "orientation": "194.182",
+    "pixscale": "0.731",
+    "published": "2017-08-09T04:16:29.548457",
+    "ra": "299.907",
+    "radius": "0.171",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306624/",
+    "revisions": [],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "M27",
+        "NGC 6853",
+        "PK060-03.1"
+    ],
+    "title": "M27 (Dumbbell Nebula)",
+    "updated": "2021-03-17T20:13:27.131085",
+    "uploaded": "2017-08-09T05:16:29.913650",
+    "url_duckduckgo": "https://www.astrobin.com/306624/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306624/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306624/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306624/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306624/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306624/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306624/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14414/2017/4dc91c4c-7494-4de1-9d40-5bbf2243b08f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14414/2017/4dc91c4c-7494-4de1-9d40-5bbf2243b08f-1582447171.jpg",
+    "url_thumb": "https://www.astrobin.com/306624/0/rawthumb/thumb/",
+    "user": "JoelShepherd",
+    "views": 185,
+    "w": 1280
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "69.461",
+    "description": "Unguided image using tandem C14's w/Hyperstar and Paramount MEII.\r\n\r\nAll 60sec subs as\r\nBlue     4 hrs\r\nGreen  3 hrs\r\nRed      3.5 hrs\r\nLum     3 hrs",
+    "h": 2810,
+    "hash": null,
+    "id": 409696,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "269.752",
+    "pixscale": "0.361",
+    "published": "2019-06-10T01:05:08.906596",
+    "ra": "184.180",
+    "radius": "0.283",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409696/",
+    "revisions": [
+        "/api/v1/imagerevision/182228/"
+    ],
+    "subjects": [
+        "NGC 4236"
+    ],
+    "title": "NGC4236 LRGB",
+    "updated": "2021-05-07T22:16:41.148481",
+    "uploaded": "2019-06-10T02:05:09.652502",
+    "url_duckduckgo": "https://www.astrobin.com/409696/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409696/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409696/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409696/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409696/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409696/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409696/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17923/2019/b0d80614-5bc7-4d73-b30f-636be945138b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17923/2019/b0d80614-5bc7-4d73-b30f-636be945138b-1582516045.jpg",
+    "url_thumb": "https://www.astrobin.com/409696/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 387,
+    "w": 4905
+}

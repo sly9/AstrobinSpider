@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "56.596",
+    "description": "This is my 2018 SHO project for the Pacman Nebula. I imaged this last year with two filters for a bi-color result. I wanted to see how a tri-color SHO Hubble Palette version would compare.",
+    "h": 1349,
+    "hash": null,
+    "id": 371265,
+    "imaging_cameras": [
+        "ZWO ASI1600MM"
+    ],
+    "imaging_telescopes": [
+        "TEC APO140ED F/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802151/"
+    ],
+    "orientation": "353.010",
+    "pixscale": "0.798",
+    "published": "2018-10-12T03:39:33.599550",
+    "ra": "13.213",
+    "radius": "0.610",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/371265/",
+    "revisions": [
+        "/api/v1/imagerevision/163650/",
+        "/api/v1/imagerevision/165054/",
+        "/api/v1/imagerevision/185324/"
+    ],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "NGC 281",
+    "updated": "2021-03-17T13:38:37.960925",
+    "uploaded": "2018-10-12T04:39:33.884969",
+    "url_duckduckgo": "https://www.astrobin.com/371265/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371265/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371265/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371265/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371265/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371265/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371265/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10203/2018/ef06e7ba-681e-4bc6-b374-633e613d0f89.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ef06e7ba-681e-4bc6-b374-633e613d0f89-1539319894.jpg",
+    "url_thumb": "https://www.astrobin.com/371265/0/rawthumb/thumb/",
+    "user": "chilistars67",
+    "views": 134,
+    "w": 1824
+}

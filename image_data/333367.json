@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "13.302",
+    "description": "The ‘Leo Triplet’ consists of Messier 65, Messier 66 and NGC 3628 – galaxies located around 30-35 million light years from Earth.  Stretching out from NGC 3628 for around 300,000 light years is a ‘tidal tail’ – an elongated region of stars that arises as a result of gravitational interaction between galaxies.  \r\n\r\nThis object was imaged from a remote rig located in Spain that is jointly owned and run with Barry Wilson.  Data collection took place between 23 December 2017 and 11 February 2018.  The tidal tail proved elusive even with 1200 second Luminance subs.  It is clearly very faint and this leads to a decision about the extent to which it should be made apparent in the final image.\r\n\r\nLum: 27 x 1200s\r\nLum: 30 x 600s\r\nRed: 24 x 600s\r\nGreen: 24 x 600s\r\nBlue: 24 x 600s\r\n\r\nA total of  26 hours exposure.\r\n\r\nCapture: Steve Milne & Barry Wilson\r\nProcessing: Steve Milne",
+    "h": 2458,
+    "hash": null,
+    "id": 333367,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "90.938",
+    "pixscale": "2.098",
+    "published": "2018-02-12T21:01:44.445004",
+    "ra": "170.289",
+    "radius": "1.013",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333367/",
+    "revisions": [
+        "/api/v1/imagerevision/137585/"
+    ],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet (and tidal tail) - LRGB",
+    "updated": "2021-03-17T16:32:27.860608",
+    "uploaded": "2018-02-12T21:01:44.818309",
+    "url_duckduckgo": "https://www.astrobin.com/333367/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333367/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333367/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333367/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333367/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333367/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333367/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/44316e8f-688c-46a1-8812-da95e3667f3c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/44316e8f-688c-46a1-8812-da95e3667f3c-1582606095.jpg",
+    "url_thumb": "https://www.astrobin.com/333367/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 428,
+    "w": 2458
+}

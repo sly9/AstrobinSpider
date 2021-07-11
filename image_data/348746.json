@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "UNKNOWN",
+    "dec": "69.306",
+    "description": "This is a re-processing of the data taken by RH305 earlier this year, with IFN enhanced.",
+    "h": 3810,
+    "hash": null,
+    "id": 348746,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "181.182",
+    "pixscale": "1.660",
+    "published": "2018-05-27T01:13:30.343853",
+    "ra": "149.045",
+    "radius": "1.249",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/348746/",
+    "revisions": [
+        "/api/v1/imagerevision/146469/",
+        "/api/v1/imagerevision/146470/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "Bode's Nebulae (Messier 81 & 82) with IFN",
+    "updated": "2021-03-17T15:22:00.053676",
+    "uploaded": "2018-05-27T02:07:07.176552",
+    "url_duckduckgo": "https://www.astrobin.com/348746/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/348746/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/348746/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/348746/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/348746/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/348746/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/348746/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2212/2018/21f97ed6-ae1f-4019-b9c4-66a9f9a82897.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2212/2018/21f97ed6-ae1f-4019-b9c4-66a9f9a82897-1582615968.jpg",
+    "url_thumb": "https://www.astrobin.com/348746/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 194,
+    "w": 3852
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "69.680",
+    "description": "M82 OSC plus Ha",
+    "h": 3324,
+    "hash": null,
+    "id": 345337,
+    "imaging_cameras": [
+        "QHYCCD QHY128C",
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 14HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806719/"
+    ],
+    "orientation": "180.479",
+    "pixscale": "0.203",
+    "published": "2018-05-06T04:07:57.426598",
+    "ra": "148.967",
+    "radius": "0.157",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345337/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82 Redux",
+    "updated": "2021-06-24T06:53:54.454097",
+    "uploaded": "2018-05-06T05:08:05.354447",
+    "url_duckduckgo": "https://www.astrobin.com/345337/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345337/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345337/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345337/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345337/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345337/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345337/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21879/2018/d2cc7952-3f99-4224-9f11-0c3f72869462.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21879/2018/d2cc7952-3f99-4224-9f11-0c3f72869462-1582543302.jpg",
+    "url_thumb": "https://www.astrobin.com/345337/0/rawthumb/thumb/",
+    "user": "spokeshave",
+    "views": 1086,
+    "w": 4446
+}

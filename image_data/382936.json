@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "10.191",
+    "description": "Red & Blue\r\nPhoto By Jason Lin (Lin Jianfeng)\r\nPost Processing By Fluorine Zhu (Zhu Yijing)\r\n\r\nImage Telescope/Lens : Takahashi FSQ106ED\r\nImage Camera : QHYCCD QHY16200A\r\nMount : iOptron CEM60\r\nFrames : L(15*600sec)/R(5*600sec)/G(6*600sec)/B(4*600s)\r\n\r\nintegration : 5 hours\r\n\r\nLocation : Wuding , Yunnan , China\r\n\r\nCropped Version~~!!!",
+    "h": 1328,
+    "hash": null,
+    "id": 382936,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808858/"
+    ],
+    "orientation": "180.271",
+    "pixscale": "3.048",
+    "published": "2018-12-27T23:01:06.382175",
+    "ra": "98.130",
+    "radius": "1.039",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/382936/",
+    "revisions": [
+        "/api/v1/imagerevision/165758/"
+    ],
+    "subjects": [
+        "IC 2169",
+        "IC 446",
+        "NGC 2245",
+        "NGC 2247"
+    ],
+    "title": "Red and Blue",
+    "updated": "2021-03-17T12:42:45.842982",
+    "uploaded": "2018-12-27T23:01:06.510046",
+    "url_duckduckgo": "https://www.astrobin.com/382936/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382936/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382936/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382936/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382936/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382936/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382936/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/03b2b8fe-5046-4599-a5ef-16e5939a58da.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/03b2b8fe-5046-4599-a5ef-16e5939a58da-1545952200.jpg",
+    "url_thumb": "https://www.astrobin.com/382936/0/rawthumb/thumb/",
+    "user": "Fluorine7",
+    "views": 342,
+    "w": 1824
+}

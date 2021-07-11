@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "51.571",
+    "description": "At an apparent magnitude of 10.1, M76 is considered to be one of the more difficult Messier objects to observe visually. It's a planetary nebula that's about 2500 ly distant. The central star is faint at a magnitude of about 15.9.\r\n\r\nI haven't revisited this object since I first imaged it with my DSLR many years ago and I've been meaning to get back to it for some time. This time around, the seeing conditions and wind played havoc with the quality of my subs and it turned into a bit of a slog to gather the data that I wanted. I probably gathered close to 35 hours of data but I had to toss most of it to limit the subs to those with less than about 2.4\" FWHM stars. This isn't a very large object and I wanted to pick up some detail in the gas knots. I wound up combining the Lum data with synthetic L data created from the RGB data so the Lum channel contained the full run of data.  I was tempted to add some O3 and Ha to the mix but I was pretty happy with this result as an LRGB image.  This image is a pretty tight crop of the full frame.   I'm at the point where I've taken so many runs through the processing that this thing is burned into my retina so I need to set it free.  As always C&C is welcome...so let me know what you like or...what I screwed up.\r\n\r\n-John",
+    "h": 1653,
+    "hash": null,
+    "id": 318320,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "359.998",
+    "pixscale": "0.478",
+    "published": "2017-10-23T23:01:45.882011",
+    "ra": "25.588",
+    "radius": "0.155",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318320/",
+    "revisions": [
+        "/api/v1/imagerevision/128084/",
+        "/api/v1/imagerevision/128091/"
+    ],
+    "subjects": [
+        "Little Dumbbell",
+        "M 76",
+        "NGC 650"
+    ],
+    "title": "M76, The Little Dumbbell Nebula",
+    "updated": "2021-03-17T19:25:38.293972",
+    "uploaded": "2017-10-23T23:20:31.363931",
+    "url_duckduckgo": "https://www.astrobin.com/318320/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318320/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318320/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318320/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318320/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318320/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318320/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/968a9237-cb35-407b-9ea7-1eccdd7a84b7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/968a9237-cb35-407b-9ea7-1eccdd7a84b7-1508798429.jpg",
+    "url_thumb": "https://www.astrobin.com/318320/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 730,
+    "w": 1653
+}

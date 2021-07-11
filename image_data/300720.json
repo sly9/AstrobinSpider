@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "44.072",
+    "description": "I've finally managed to put my dual rig together.  It is 2xWO Star 71s and 2 x Moravian G2-8300 cameras.  I have a Chroma 3nm filter in one of the cameras and decided to go for a 5nm Astrodon in the other.  This is Ha data from both cameras - 8 x 20 minutes from each.  \r\n\r\nI am going to try for SII and OIII to go with it, but I was keen to see if the rig was functional.  Of course with the 3nm and 5 nm, just a quick stretch ended up showing a reasonable result.  ",
+    "h": 1920,
+    "hash": null,
+    "id": 300720,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics Star 71"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.358",
+    "pixscale": "5.494",
+    "published": "2017-06-24T05:26:05.571410",
+    "ra": "312.691",
+    "radius": "1.836",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300720/",
+    "revisions": [
+        "/api/v1/imagerevision/119685/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "NGC 6997",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Pelican Nebula in Ha - First Real Test of Dual Rig",
+    "updated": "2021-03-17T20:36:25.994668",
+    "uploaded": "2017-06-24T06:26:06.280890",
+    "url_duckduckgo": "https://www.astrobin.com/300720/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300720/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300720/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300720/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300720/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300720/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300720/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2017/e73d48d0-1fe6-4c03-ad11-50f5d39bb5b9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2017/e73d48d0-1fe6-4c03-ad11-50f5d39bb5b9-1582606301.jpg",
+    "url_thumb": "https://www.astrobin.com/300720/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 152,
+    "w": 1450
+}

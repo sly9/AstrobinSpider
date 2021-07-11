@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 38,
+    "comments": 39,
+    "data_source": "TRAVELLER",
+    "dec": null,
+    "description": "This image presents the Milky Way, our Cosmic Home. More specifically, it is a extremely wide field mosaic of the center of our galaxy as seen from Earth, pointing towards the constellations Scorpius, Sagittarius and Ophiucus. The field spans some 60 degrees (120 full moons), and crosses the Zenith from Southern latitudes in a breathtaking view. \r\n\r\nThe Milky Way has arisen Humanity's questioning since Ancient times. Under the beauty of the unspoiled night skies, our ancestors wondered:\r\n\r\n\"[...] the !Kung Bushmen of the Kalahari Desert in Botswana have an explanation for the Milky Way, which at their latitude is often overhead. They call it ‘the backbone of night,’ as if the sky were some great beast inside which we live.\" [1] [...] \"Thomas Wright marveled in 1750 that Democritus had believed the Milky Way to be composed mainly of unresolved stars: ‘long before astronomy reaped any benefit from the improved sciences of optics' [...] Beyond the Milk of Hera, past the Backbone of Night, the mind of Democritus soared.\" [2]\r\n\r\nCarl Sagan puts it brilliantly in Cosmos. It was Galileo who first pointed the telescope and saw myrirads of stars that made the bright clouds overhead. Today we know the white river in the sky is actually made of billions of unresolved stars! We know a lot about our galaxy, but there is much to be discovered still. In our quest of existence and understanding, we try to better understand the universe we are all part of.\r\n\r\nTo me, this deep connection to the night skies, that goes way back into the history of mankind, is a kernel of awe and inspiration. But, unfortunately, many people today don’t see this vista, as light pollution spoil the view. By photographing these deep sky objects, I can share some of the Night skies' beauty to everyone, and hopefully inspire them to go and experience a dark sky someday.\r\n_____________________________________________\r\n\r\nThis is my largest project yet. It was a challenge to plan, capture and process. The image was planned to be a 8x8 panel mosaic. Three panels were captured from MG, and the other 61 took most of my time at the 11th Brazilian Astrophotography Meeting (EBA), some 1000km away, in GO. All framing was assisted with Go-To, manually changing the frame (via PC) every 5 minutes or so, but without plate-solving. As I came back, I noticed a hole in the mosaic, result of imperfect Go-To sync. Later that month, back to Cristina, I captured 5 \"filler\" frames, that completed the shooting process. Then it was time to process all the data. I tried many approaches and workflows, consuming probably some 200 machine hours of testing and processing. APP couldn't handle the full mosaic because my RAM was not enough. The result was not perfect as the overlap was quite small (~15%), but I decided I had to finish the project.\r\n\r\nWorkflow: [APP] Calibration saved as FITS => TIFF16b => [PS] Scripted Non-linear simple curves saved as TIFF => [ICE] Mosaic stitching (stereographic) saved as TIFF => [APP] color calibration and balacning => [PS+Nik] Post-processing => [LR] Final exporting. \r\n\r\nThat's the result of 5 nights of shooting, 10GB of RAW frames, some 200GB of intermediate files (calibrated FITS, stretched TIFFs), some 200 computer hours and 5h of active post-processing. The final image couldn't be saved as TIFF - the end result was larger than the limit of TIFF files of 4GB. I had to save it at 95%, rendering a 520MP, 3.6GB file. Here I present a 30% resize that is still 50MP, for practical purpouses. [Astrobin couldn't handle the 150MB 40% resize file]\r\n\r\nConstructive criticism, comments and suggestions are more than welcome in the comments section. Thank you for taking your time to look at this image.\r\n\r\nDate: July 08, 12, 13, 14 and 30, 2018\r\nLocation: MG and GO, Brazil. Dark-Rural Skies (Bortle 2-3-4, calculated SQM ~21.4-21.7)\r\nCamera: Canon EOS T5/1200D (modded), at ISO 800 \r\nLens: Samyang 135mm f/2, operated at f/2.4 and f/2.8\r\nMount: Sky-Watcher HEQ5, tracking, guided\r\nExposure Detail: 69-panel mosaic, each 1-2x120s; total 135x120s = 270 min\r\n\r\n[1] Carl Sagan, COSMOS, \"The Backbone of Night\", pp. 179; [2] Carl Sagan, COSMOS, \"The Backbone of Night\", pp. 189",
+    "h": 5846,
+    "hash": null,
+    "id": 395000,
+    "imaging_cameras": [
+        "Canon EOS Rebel T5/1200D"
+    ],
+    "imaging_telescopes": [
+        "Samyang 135 f/2",
+        "Samyang 135mm f/2 ED UMC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 267,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-03-10T17:18:37.287058",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395000/",
+    "revisions": [
+        "/api/v1/imagerevision/173191/"
+    ],
+    "subjects": [],
+    "title": "The Heart of the Milky Way",
+    "updated": "2021-07-01T10:20:59.049322",
+    "uploaded": "2019-03-10T17:18:37.446313",
+    "url_duckduckgo": "https://www.astrobin.com/395000/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395000/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395000/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395000/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395000/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395000/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395000/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/395000/0/rawthumb/thumb/",
+    "user": "grsotnas",
+    "views": 2064,
+    "w": 8001
+}

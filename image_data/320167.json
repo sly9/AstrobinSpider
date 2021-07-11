@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "36.379",
+    "description": "To improve colors and details, I have used an hybrid color palette composed by narrowband, red, green and blue data that shows \r\ntogether primary and complementary colors along a continuum. \r\n\r\nTo make this image, I have mixed up data coming from my new and my old setups\r\n\r\nMy new setup is a Takahashi FSQ106 equiped with a Optec Gemini Focuser-Rotator and an Andore Apogee Alta F16M (KAF-16803 monochrome)\r\nMy old setup is a Takahashi FSQ106ED with original focuser and captain wheel and a Apogee Alta U8300 (KAF-8300 monochrome)\r\n\r\nData captured 10/15/2017, 10/16/2017, 10/25/2017, and 10/206/2017 with my new setup:\r\n16 x 1200 H-a unbinned = 5h20\r\n22 x 300s Red unbinned = 1h50\r\n22 x 300s Green unbinned = 1h50\r\n26 x 300s Blue unbinned = 2h10\r\n\r\nData captured 09/21/2013, 09/22/2013, 09/23/2013, 09/24/2013, 10/31/2013, and 11/06/2013 with my old setup (8 pannels mosaic):\r\n40 x 1200s H-a unbinned = 13h20\r\n34 x 1200s OIII unbinned = 11h20\r\n35 x 1200s SII unbinned = 11h40\r\n\r\nTotal exposure 47h30\r\n\r\n---------------------------------------------------------------------------------------------\r\nInstruments: Takahashi FSQ106ED @f/5 530mm focal length with ONAG XT (http://www.innovationsforesight.com/), Optec Gemini Focuser-Rotator, Apogee Alta F16M + 7 positions filter wheel @-25°C and Apogee Alta U8300 monochrome @-30°C and Astrodon narrowband H-alpha, OIII and SII 5nm filters and Astrodon broadband RGB filters on 10micron GM2000 HPS II\r\nSoftwares: SkySurveyor for MaximDL as orchestrator - MaximDL for guiding and capture - SharpLock to keep the optical train perfectly focused - CCDStack to calibrate, register, normalize, data reject and combine - Registar and PixInsight for mosaic assembly - Photoshop CC and PixInsight for LRGB composition and multiscale non-linear streching - Photoshop and APF-R for sharpening http://www.cedic.at/apfr/. APF-R does not do only sharpening it allows to reveal hidden structure that are embedded in the signal.",
+    "h": 1816,
+    "hash": null,
+    "id": 320167,
+    "imaging_cameras": [
+        "Alta U8300",
+        "Andor Alta F16M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106 modified with Optec Gemini Focuser/Rotator and ONAG XT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799636/"
+    ],
+    "orientation": "0.012",
+    "pixscale": "3.497",
+    "published": "2017-11-04T16:08:59.454461",
+    "ra": "60.528",
+    "radius": "2.750",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320167/",
+    "revisions": [],
+    "subjects": [
+        "California nebula",
+        "NGC 1499",
+        "The star 50Per",
+        "The star ξPer"
+    ],
+    "title": "Burning California - NGC1499 - Hybrid hubble SHO and broadband palette - LRGB composition",
+    "updated": "2021-05-06T19:57:15.437839",
+    "uploaded": "2017-11-04T16:08:59.985427",
+    "url_duckduckgo": "https://www.astrobin.com/320167/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320167/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320167/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320167/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320167/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320167/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320167/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/280cd738-bbaf-4815-afe0-9f752e143738.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/280cd738-bbaf-4815-afe0-9f752e143738-1509815785.jpg",
+    "url_thumb": "https://www.astrobin.com/320167/0/rawthumb/thumb/",
+    "user": "dlindemann",
+    "views": 626,
+    "w": 1824
+}

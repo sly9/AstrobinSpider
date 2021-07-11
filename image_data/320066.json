@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "68.490",
+    "description": "L: 26x600\"\r\nRGB: 26x300\"",
+    "h": 2352,
+    "hash": null,
+    "id": 320066,
+    "imaging_cameras": [
+        "QHYCCD QHY9 mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "241.736",
+    "pixscale": "2.874",
+    "published": "2017-11-03T19:43:29.879499",
+    "ra": "317.289",
+    "radius": "1.865",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320066/",
+    "revisions": [
+        "/api/v1/imagerevision/129095/"
+    ],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "IRIS field (mosaic)",
+    "updated": "2021-03-17T19:18:43.925812",
+    "uploaded": "2017-11-03T19:43:30.739677",
+    "url_duckduckgo": "https://www.astrobin.com/320066/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320066/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320066/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320066/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320066/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320066/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320066/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2692/2017/b7745158-a397-472e-b554-b609f92913dd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2692/2017/b7745158-a397-472e-b554-b609f92913dd-1582584512.jpg",
+    "url_thumb": "https://www.astrobin.com/320066/0/rawthumb/thumb/",
+    "user": "mmart",
+    "views": 183,
+    "w": 4038
+}

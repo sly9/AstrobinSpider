@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-26.260",
+    "description": "LRGB plus Ha and OIII data",
+    "h": 1200,
+    "hash": null,
+    "id": 406938,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Corrected Newtonian Astrograph, 12\", f/3.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810239/"
+    ],
+    "orientation": "5.782",
+    "pixscale": "2.725",
+    "published": "2019-05-22T21:56:00.692317",
+    "ra": "118.432",
+    "radius": "0.716",
+    "remote_source": "OES",
+    "resource_uri": "/api/v1/image/406938/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2467",
+        "NGC2467",
+        "Sh2-311"
+    ],
+    "title": "NGC 2467, Skull and Crossbones, nebula in Puppis",
+    "updated": "2021-03-17T10:52:37.750926",
+    "uploaded": "2019-05-22T22:56:00.810604",
+    "url_duckduckgo": "https://www.astrobin.com/406938/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406938/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406938/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406938/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406938/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406938/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406938/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12715/2019/5b7e4d7e-527f-411d-8612-ab2ca02c470d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12715/2019/5b7e4d7e-527f-411d-8612-ab2ca02c470d-1582562991.jpg",
+    "url_thumb": "https://www.astrobin.com/406938/0/rawthumb/thumb/",
+    "user": "cotejardinero@gmail.com",
+    "views": 274,
+    "w": 1464
+}

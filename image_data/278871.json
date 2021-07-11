@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "4.864",
+    "description": "Rosette in RGB with a bit of H-Alpha and OIII added in PixelMath.   Luminance created by SHO-AIP using 27 hours of HA, OIII, and SII data from previous SHO post.",
+    "h": 1371,
+    "hash": null,
+    "id": 278871,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "QHY9 Monocromo QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Televue TV85",
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 39,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "99.524",
+    "pixscale": "0.964",
+    "published": "2017-01-04T16:51:45.843456",
+    "ra": "98.070",
+    "radius": "1.337",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/278871/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula LRGBHAOIII",
+    "updated": "2021-03-17T22:04:50.220333",
+    "uploaded": "2017-01-04T16:51:47.046903",
+    "url_duckduckgo": "https://www.astrobin.com/278871/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/278871/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/278871/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/278871/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/278871/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/278871/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/278871/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/86449188-813a-46ca-8c08-9016db8231b5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/86449188-813a-46ca-8c08-9016db8231b5-1483549642.jpg",
+    "url_thumb": "https://www.astrobin.com/278871/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 125,
+    "w": 1824
+}

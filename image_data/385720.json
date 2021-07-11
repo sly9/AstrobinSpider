@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 24,
+    "data_source": "BACKYARD",
+    "dec": "70.847",
+    "description": "The Integrated Flux Nebulae are high galactic latitude nebulae that are illuminated not by a single star (as most nebula in the plane of the Galaxy are) but by the energy from the integrated flux of all the stars in the Milky Way. These IFN are very faint and where discovered in 2005 by Steve Mandel. This mosaic shows sections of 2 main Nebula in the Mandel-Wilson Catalogue, the Volcano Nebula (MW3 near Messier 81/82) and the Angel Nebula MW2.\r\n\r\n \r\n\r\n1255x300 second Luminance subs (104.6 hrs)\r\n\r\nImage dates: 17 nov, 1,5,6,8,12,31 dec 2018, 1,2,3,4,5,6,7,8,9,10,11,12 jan 2019.\r\n\r\nEsprit 100 f5.5 APO refractor/ QHY16200 CCD @-20C.\r\n\r\nProcessed/calibrated/Mosaic: AstroPixelProcessor (APP), Final processing/annotation with Pixinsight.\r\n\r\n \r\n\r\nen.wikipedia.org/wiki/Steve_Mandel\r\n\r\nen.wikipedia.org/wiki/Integrated_Flux_Nebula",
+    "h": 9577,
+    "hash": null,
+    "id": 385720,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 214,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "269.602",
+    "pixscale": "2.208",
+    "published": "2019-01-13T16:53:23.566463",
+    "ra": "153.373",
+    "radius": "4.939",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/385720/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "IC 2574",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "The star 27UMa"
+    ],
+    "title": "Integrated Flux Nebulae (IFN) Mosaic",
+    "updated": "2021-04-17T15:52:35.933902",
+    "uploaded": "2019-01-13T16:12:15.667869",
+    "url_duckduckgo": "https://www.astrobin.com/385720/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385720/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385720/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385720/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385720/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385720/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385720/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/0c0bd049-dfae-4e7c-91e9-c4602144078a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/0c0bd049-dfae-4e7c-91e9-c4602144078a-1582622330.jpg",
+    "url_thumb": "https://www.astrobin.com/385720/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 1125,
+    "w": 12944
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "26.005",
+    "description": "NGC 4565 reloaded after data corruption",
+    "h": 2424,
+    "hash": "872rkt",
+    "id": 461911,
+    "imaging_cameras": [
+        "QSI 583ws"
+    ],
+    "imaging_telescopes": [
+        "Meade ACF 8\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811610/"
+    ],
+    "orientation": "176.670",
+    "pixscale": "0.693",
+    "published": "2020-03-04T18:13:32.889815",
+    "ra": "189.092",
+    "radius": "0.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/461911/",
+    "revisions": [],
+    "subjects": [
+        "IC3546",
+        "IC3571",
+        "NGC 4562",
+        "NGC 4565",
+        "NGC4562",
+        "NGC4565"
+    ],
+    "title": "NGC 4565",
+    "updated": "2021-06-25T04:17:21.085199",
+    "uploaded": "2020-03-04T18:13:33.365363",
+    "url_duckduckgo": "https://www.astrobin.com/872rkt/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/872rkt/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/872rkt/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/872rkt/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/872rkt/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/872rkt/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/872rkt/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6118/2020/9a75594e-fcc8-4d14-83c0-f603f0f5ab4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6118/2020/9a75594e-fcc8-4d14-83c0-f603f0f5ab4b-1583346123.jpg",
+    "url_thumb": "https://www.astrobin.com/872rkt/0/rawthumb/thumb/",
+    "user": "JuergenB",
+    "views": 166,
+    "w": 3164
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "A softer Saturn with gentle processing. No barlow/powermate just 2.4µm pixels.  No color re-balance, just straight RGB combine in Photoshop (very surprising).  No de-rotation just living with rotational blurring (the \"Saturn un natural\" version may come later).\r\n\r\nThere were 15 repeats of taking 60 sec R data (@ average 48 fps), 60 sec G data (@ average 48 fps) and 60 sec B data (@ average 38 fps).\r\n\r\nThe motorised focuser made color filter dependent adjustments over a range of 0.57mm (570µm) as the filters are not parfocal at this F ratio. At F/10 the (worse-case) Critical Focus Zone (CFZ) is 200µm. (Previously using a 2.5x barlow the CFZ is over 1000µm and the filters would be parfocal.)\r\n\r\nBecause Saturn is relatively dim then not using a barlow/powermate seems to have given an advantage because more frames can be taken.  Although the performance advantage is not that great.  In contrast, with Jupiter it seems that using a barlow/powermate is better even though it is yields a crazy oversampling factor.\r\n\r\nThanks for looking!\r\n\r\nScope=LX200GPS\r\nCamera=ZWO ASI183MM Pro\r\nDiameter=18.19\"\r\nMagnitude=0.17\r\nCMI=102.1° CMIII=107.3°  (during mid of capture)\r\nFocalLength=2750mm (F/10)\r\nResolution=0.18\"",
+    "h": 1733,
+    "hash": null,
+    "id": 421245,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200GPS 10\""
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811056/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-08-17T00:42:09.553986",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/421245/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Saturn au naturel",
+    "updated": "2021-03-31T06:34:30.459845",
+    "uploaded": "2019-08-17T00:36:27.720151",
+    "url_duckduckgo": "https://www.astrobin.com/421245/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/421245/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/421245/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/421245/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/421245/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/421245/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/421245/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/421245/0/rawthumb/thumb/",
+    "user": "astrod",
+    "views": 269,
+    "w": 1853
+}

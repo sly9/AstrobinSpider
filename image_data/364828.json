@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "UNKNOWN",
+    "dec": "38.848",
+    "description": "Sharpless 2-114 is a faint nebula in the constellation of Cygnus.  \r\n\r\nData for this object were captured between 15 August and 4 September 2018, from a remote imaging rig (located in Spain) that is jointly owned and operated by Barry Wilson and me.\r\n\r\nCapture details are as follows:\r\n\r\nTelescope: Takahashi FSQ 106\r\nCamera: QSI 683 WSG\r\nFilters: Astrodon 5nm\r\nMount: 10 Micron GM1000HPS\r\n\r\nHa: 45 x 1200s\r\nRed: 24 x 600s\r\nGreen: 24 x 600s\r\nBlue: 24 x 600s\r\n\r\nA total of 27 hours exposure.\r\n\r\nData Capture: Steve Milne & Barry Wilson\r\nImage Processing: Steve Milne",
+    "h": 2432,
+    "hash": null,
+    "id": 364828,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 151,
+    "link": "https://stevemilne.smugmug.com/Photos/Sky/Nebulae/i-BBN89jW",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "270.824",
+    "pixscale": "2.092",
+    "published": "2018-09-04T12:40:33.948308",
+    "ra": "320.195",
+    "radius": "1.185",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/364828/",
+    "revisions": [
+        "/api/v1/imagerevision/155356/",
+        "/api/v1/imagerevision/155363/",
+        "/api/v1/imagerevision/155365/",
+        "/api/v1/imagerevision/155487/"
+    ],
+    "subjects": [
+        "The star σCyg"
+    ],
+    "title": "Sharpless 2-114 (the Flying Dragon Nebula) in Cygnus - HaRGB",
+    "updated": "2021-03-17T14:09:50.832635",
+    "uploaded": "2018-09-04T13:40:34.444246",
+    "url_duckduckgo": "https://www.astrobin.com/364828/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/364828/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/364828/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/364828/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/364828/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/364828/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/364828/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/f20f996d-ca56-4e03-b2be-fba2cda0075c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/f20f996d-ca56-4e03-b2be-fba2cda0075c-1582606026.jpg",
+    "url_thumb": "https://www.astrobin.com/364828/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 766,
+    "w": 3272
+}

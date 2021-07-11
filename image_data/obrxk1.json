@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 58,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "After imaging Jupiter and Mars in the early morning with very good seeing, I was running out of time to have a first go at Saturn for the year. As such I ended up imaging it the early morning light with it brightening every minute. I manage 3 RGB runs of 90 secs per colour channel.\r\n I had not considered how beautiful it would look against the morning sky and show it here with no annotation.\r\nThe image is of course North up.\r\nThere is some evidence of activity at the Central Meridian on the southern edge of the NPC. There is also a white oval, also at the Central Meridian in the NTeZ.\r\nI added in the version where I adjusted the black point to eliminate the sky in the red, green and blue images before the RGB combination followed by some tidy up with a mask. This can be seen now with the mouse over.",
+    "h": 800,
+    "hash": "obrxk1",
+    "id": 467785,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-03-23T08:29:56.901329",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467785/",
+    "revisions": [
+        "/api/v1/imagerevision/221081/"
+    ],
+    "subjects": [],
+    "title": "Saturn against the blue of the morning sky",
+    "updated": "2021-03-17T04:02:15.114661",
+    "uploaded": "2020-03-23T08:21:31.468975",
+    "url_duckduckgo": "https://www.astrobin.com/obrxk1/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/obrxk1/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/obrxk1/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/obrxk1/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/obrxk1/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/obrxk1/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/obrxk1/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/obrxk1/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 586,
+    "w": 927
+}

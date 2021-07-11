@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "25.934",
+    "description": "",
+    "h": 1108,
+    "hash": null,
+    "id": 341775,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806303/"
+    ],
+    "orientation": "140.676",
+    "pixscale": "0.870",
+    "published": "2018-04-15T09:17:50.530729",
+    "ra": "189.077",
+    "radius": "0.484",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341775/",
+    "revisions": [
+        "/api/v1/imagerevision/142442/",
+        "/api/v1/imagerevision/142481/",
+        "/api/v1/imagerevision/142507/",
+        "/api/v1/imagerevision/142508/",
+        "/api/v1/imagerevision/214934/"
+    ],
+    "subjects": [
+        "IC 3543",
+        "NGC 4562",
+        "NGC 4565"
+    ],
+    "title": "NGC 4565",
+    "updated": "2021-03-17T15:52:38.918693",
+    "uploaded": "2018-04-15T10:17:52.499284",
+    "url_duckduckgo": "https://www.astrobin.com/341775/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341775/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341775/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341775/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341775/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341775/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341775/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20645/2018/86b307b2-d75f-4bff-b6eb-f1857595967c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/86b307b2-d75f-4bff-b6eb-f1857595967c-1523784390.jpg",
+    "url_thumb": "https://www.astrobin.com/341775/0/rawthumb/thumb/",
+    "user": "mdohr",
+    "views": 496,
+    "w": 1672
+}

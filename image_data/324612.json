@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-29.871",
+    "description": "TEC 140, Flattener, Canon 6d, 29x300sec sowie 10x10sec. Kalibrieren (Bias, Dark, Flat, Light), Stacking, RGB -Bild mit Pixinsight. Überlagerung, Crop, Kalibrieren und Stretch mit PS",
+    "h": 1533,
+    "hash": null,
+    "id": 324612,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Telescope Engineering Company TEC 140 f/7 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807364/"
+    ],
+    "orientation": "208.599",
+    "pixscale": "1.336",
+    "published": "2017-12-03T18:38:28.265804",
+    "ra": "204.243",
+    "radius": "0.455",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/324612/",
+    "revisions": [],
+    "subjects": [
+        "M 83",
+        "NGC 5236"
+    ],
+    "title": "M 83",
+    "updated": "2021-03-17T19:00:05.505676",
+    "uploaded": "2017-12-03T18:19:33.128403",
+    "url_duckduckgo": "https://www.astrobin.com/324612/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324612/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324612/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324612/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324612/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324612/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324612/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/30e9a58d-d906-4e12-a23e-7db3458e1581.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/30e9a58d-d906-4e12-a23e-7db3458e1581-1512325569.png",
+    "url_thumb": "https://www.astrobin.com/324612/0/rawthumb/thumb/",
+    "user": "pjax",
+    "views": 102,
+    "w": 1824
+}

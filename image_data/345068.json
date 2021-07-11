@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.164",
+    "description": "34 x 5 min L, bin 1x1 @ -30°C\r\n8/8/16 x 5 min RGB, bin 1x1 @ -30°C",
+    "h": 1200,
+    "hash": null,
+    "id": 345068,
+    "imaging_cameras": [
+        "QHYCCD QHY9 Mono"
+    ],
+    "imaging_telescopes": [
+        "Royce optical 14.5\" Newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "http://astro.krneki.ws/slike/messerji/M90_f20170325.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808915/"
+    ],
+    "orientation": "0.917",
+    "pixscale": "0.916",
+    "published": "2018-05-04T04:55:21.611947",
+    "ra": "189.210",
+    "radius": "0.254",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/345068/",
+    "revisions": [],
+    "subjects": [
+        "IC 3583",
+        "M 90",
+        "NGC 4569"
+    ],
+    "title": "M90",
+    "updated": "2021-03-17T15:38:22.209254",
+    "uploaded": "2018-05-04T05:55:23.578453",
+    "url_duckduckgo": "https://www.astrobin.com/345068/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345068/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345068/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345068/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345068/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345068/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345068/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27605/2020/19536ccf-08a2-42b6-aacb-ff5dde7bc988.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27605/2020/19536ccf-08a2-42b6-aacb-ff5dde7bc988-1593369370.jpg",
+    "url_thumb": "https://www.astrobin.com/345068/0/rawthumb/thumb/",
+    "user": "krneki",
+    "views": 185,
+    "w": 1600
+}

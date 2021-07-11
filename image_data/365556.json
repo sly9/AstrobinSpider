@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "30.701",
+    "description": "The Western Veil Nebula and Pickering's Triangle taken mid July 2018 over many nights.  Modified SHO-AIP with Pixinsight.",
+    "h": 1325,
+    "hash": null,
+    "id": 365556,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "QHY9 Monocromo QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Televue TV85",
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "79.976",
+    "pixscale": "0.958",
+    "published": "2018-09-08T19:17:31.573498",
+    "ra": "311.782",
+    "radius": "1.316",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/365556/",
+    "revisions": [],
+    "subjects": [
+        "Filamentary nebula",
+        "Lace-work nebula",
+        "NGC 6960",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "NGC6960 Western Veil Nebula and Pickering's Triangle",
+    "updated": "2021-07-04T15:12:46.242316",
+    "uploaded": "2018-09-08T20:17:32.323358",
+    "url_duckduckgo": "https://www.astrobin.com/365556/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/365556/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/365556/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/365556/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/365556/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/365556/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/365556/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/fc3e978c-c786-4626-84a6-7109cc849a86.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fc3e978c-c786-4626-84a6-7109cc849a86-1536438977.jpg",
+    "url_thumb": "https://www.astrobin.com/365556/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 128,
+    "w": 1824
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-6.653",
+    "description": "This is NGC 1999 from DSW RCOS data taken in November through December 2017 in Orion.  It is located 1,500ly distant.  It is a bright reflection nebula due to V380 Orionis, a variable star.  The dark triangular region in the middle is particularly dark nebula in the middle of the otherwise bright nebula.  Interestingly, it has been determined that this is actually a particularly empty space as opposed to a particularly dense dusty region.\r\n\r\nThe image is composed of LRGB.  This was an interesting choice on the part of DSW as opposed to NB imaging.  As a result, my color calibration turned out to be largely a deep bloody red color with some bits of blue above the brightest core region of the nebula.  I did use PhotometricColorCalibration in PI, so the coloring is supposedly based on scientific-based calibration.  The stars are quite saturated and only show some measure of coloring in their halos.  Should I attempt to process this again I will make more effort on dimming the stars so that they are not so dominant in the image.  Still I am impressed by the level of detail that came out of the nebula.  I applied HDRMT in order to bring out more of the brightest region surrounding the dark region.",
+    "h": 1783,
+    "hash": null,
+    "id": 345178,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical 14.5”"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "16.138",
+    "pixscale": "0.551",
+    "published": "2018-05-05T01:53:19.907534",
+    "ra": "84.050",
+    "radius": "0.427",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345178/",
+    "revisions": [
+        "/api/v1/imagerevision/144251/",
+        "/api/v1/imagerevision/144252/",
+        "/api/v1/imagerevision/144253/"
+    ],
+    "subjects": [
+        "NGC 1999"
+    ],
+    "title": "NGC 1999 DSW in LRGB",
+    "updated": "2021-03-17T15:37:53.586067",
+    "uploaded": "2018-05-05T02:26:34.588440",
+    "url_duckduckgo": "https://www.astrobin.com/345178/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345178/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345178/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345178/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345178/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345178/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345178/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/aa66df09-c567-4a03-a24e-be02f3bd5855.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/aa66df09-c567-4a03-a24e-be02f3bd5855-1525483971.jpg",
+    "url_thumb": "https://www.astrobin.com/345178/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 399,
+    "w": 1824
+}

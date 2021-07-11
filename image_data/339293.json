@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "UNSET",
+    "dec": "21.689",
+    "description": "Bernd Liebscher und ich haben am 14. und 21. März 2018 die Galaxie M64 als Projekt aufgenommen. Bernd belichtete 75*2min Luminanzen und ich RGB je 16*5min.",
+    "h": 2286,
+    "hash": null,
+    "id": 339293,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300",
+        "FLI MicroLine 8300 FLI 8300"
+    ],
+    "imaging_telescopes": [
+        "Liebscher 12\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 172,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803570/"
+    ],
+    "orientation": "314.570",
+    "pixscale": "0.762",
+    "published": "2018-03-27T10:15:41.140888",
+    "ra": "194.182",
+    "radius": "0.404",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339293/",
+    "revisions": [],
+    "subjects": [
+        "Black-eye galaxy",
+        "M 64",
+        "M64",
+        "NGC 4826"
+    ],
+    "title": "M64",
+    "updated": "2021-03-17T16:04:15.438136",
+    "uploaded": "2018-03-27T11:15:42.584120",
+    "url_duckduckgo": "https://www.astrobin.com/339293/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339293/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339293/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339293/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339293/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339293/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339293/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7961/2018/9f326bc4-11c9-428b-be8d-f52c6150a04b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7961/2018/9f326bc4-11c9-428b-be8d-f52c6150a04b-1582468635.jpg",
+    "url_thumb": "https://www.astrobin.com/339293/0/rawthumb/thumb/",
+    "user": "Suabelis",
+    "views": 1120,
+    "w": 3058
+}

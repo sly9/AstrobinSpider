@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "42.446",
+    "description": "NGC 6914     Imaged between June 2015 and October 2015\r\n\r\n\r\nHA                 61x900 Seconds\r\nLuminance  33x900 Seconds\r\nRed               19x600 Seconds Bin 2x2\r\nGreen           22x600 Seconds Bin 2x2\r\nBlue              25x600 Seconds Bin 2x2",
+    "h": 1377,
+    "hash": null,
+    "id": 273669,
+    "imaging_cameras": [
+        "SBIG ST8300M"
+    ],
+    "imaging_telescopes": [
+        "Intes Micro MN65"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 38,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806365/"
+    ],
+    "orientation": "-0.323",
+    "pixscale": "1.234",
+    "published": "2016-11-27T16:39:50.038699",
+    "ra": "306.189",
+    "radius": "0.714",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/273669/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6914"
+    ],
+    "title": "NGC 6914",
+    "updated": "2021-06-08T21:56:57.904047",
+    "uploaded": "2016-11-27T16:39:50.559977",
+    "url_duckduckgo": "https://www.astrobin.com/273669/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/273669/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/273669/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/273669/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/273669/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/273669/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/273669/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/1121d60d-df44-4ff1-9861-b65281aabe9b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1121d60d-df44-4ff1-9861-b65281aabe9b-1480282610.jpg",
+    "url_thumb": "https://www.astrobin.com/273669/0/rawthumb/thumb/",
+    "user": "JoshuaHufford",
+    "views": 142,
+    "w": 1824
+}

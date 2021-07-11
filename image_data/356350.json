@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "4.488",
+    "description": "Messier 61 (M61, NGC 4303) is a magnitude 10.2 barred spiral galaxy in the constellation of Virgo, and is located at a distance of about 53 Million light years. It is one of the largest members of the Virgo Cluster of galaxies, and has an apparent size of 6.5 x 5.8 arc minutes.\r\n\r\n\r\nDate: Apr 11 - Jun 11, 2018\r\nLocation: New Ringgold PA\r\n\r\nOptics: LUM: Starizona Hyperion f/8 12.5 inch, FL 2540 mm \r\nMount: LUM: Paramount ME\r\nCamera: LUM: Apogee U8300\r\nGuiding: ST-402 on Innovations Foresight On-Axis Guider\r\n\r\nOptics: RGB: Celestron EdgeHD 1100 \r\nMount: RGB: Paramount MX\r\nCamera: RGB:Sbig STL-11000\r\n\r\nExposure: LRGB (unbinned): L:35x10 R:13x10 min, G:13x10 min, B:13x10 min Total 12.3 hrs\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop. John Senkow did some final tweaking to improve the image.",
+    "h": 2504,
+    "hash": null,
+    "id": 356350,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11",
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "0.846",
+    "pixscale": "0.441",
+    "published": "2018-07-17T21:18:26.170112",
+    "ra": "185.455",
+    "radius": "0.255",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/356350/",
+    "revisions": [],
+    "subjects": [
+        "M 61",
+        "M61",
+        "NGC 4292",
+        "NGC 4303",
+        "NGC4292",
+        "NGC4301"
+    ],
+    "title": "M61",
+    "updated": "2021-03-17T14:49:23.624106",
+    "uploaded": "2018-07-17T22:18:27.171180",
+    "url_duckduckgo": "https://www.astrobin.com/356350/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/356350/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/356350/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/356350/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/356350/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/356350/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/356350/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3629146a-1334-4beb-b54a-ad4003caf3cb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3629146a-1334-4beb-b54a-ad4003caf3cb-1531866044.jpg",
+    "url_thumb": "https://www.astrobin.com/356350/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 316,
+    "w": 3326
+}

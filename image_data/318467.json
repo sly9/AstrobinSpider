@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "57.510",
+    "description": "IC1396 - elephant's trunk nebula\r\n\r\n32x1800' 5nm SII\r\n14x1800' 5nm Ha\r\n32x1800' 5nm OIII\r\n\r\n39h total\r\n\r\ntmb92ss + orion flattener (f=500mm)\r\nstt8300m + fw8g-stt\r\nmach1gto\r\n\r\nprocessed in pixinsight",
+    "h": 3309,
+    "hash": null,
+    "id": 318467,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "TMB-92SS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798717/"
+    ],
+    "orientation": "359.657",
+    "pixscale": "2.187",
+    "published": "2017-10-24T18:48:05.574266",
+    "ra": "323.858",
+    "radius": "1.259",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318467/",
+    "revisions": [
+        "/api/v1/imagerevision/173399/"
+    ],
+    "subjects": [
+        "B161",
+        "B365",
+        "IC 1396",
+        "IC1396",
+        "Sh2-131",
+        "VdB142"
+    ],
+    "title": "elephant's trunk SHO",
+    "updated": "2021-03-17T19:25:02.663230",
+    "uploaded": "2017-10-24T19:39:38.713750",
+    "url_duckduckgo": "https://www.astrobin.com/318467/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318467/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318467/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318467/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318467/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318467/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318467/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/d1830240-7532-4fa2-87ea-d741b7c5e4ef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/d1830240-7532-4fa2-87ea-d741b7c5e4ef-1582628666.jpg",
+    "url_thumb": "https://www.astrobin.com/318467/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 1001,
+    "w": 2493
+}

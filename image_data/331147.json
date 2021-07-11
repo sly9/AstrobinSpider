@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "HaRGB version of Orion's belt and M42. \r\nHa data come from ASI ZWO 290MM (Ha 7nm Baader filter), two panels 90 minutes each (gain 150, 120\" subs).\r\nRGB data come from Nikon D5300 (unmodded), one single panel (cropped) of about 5 hours (200 ISO, 300\" subs).\r\n\r\nI've used Ha data for luminance, adding some data from RGB for reflection nebulae (in running man, M42 and other objects), and RGB data for RGB channels. I've also blended some Ha in R channel (only in the background, not stars) because D5300 sensor is very poor in collecting Ha and emission nebulae became very faint.",
+    "h": 2048,
+    "hash": null,
+    "id": 331147,
+    "imaging_cameras": [
+        "nikon D5300",
+        "ZWO ASI 290MM"
+    ],
+    "imaging_telescopes": [
+        "Nikon AF Nikkor 50mm f/1.8D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806691/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-01-27T18:06:16.631683",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331147/",
+    "revisions": [
+        "/api/v1/imagerevision/135645/",
+        "/api/v1/imagerevision/141729/"
+    ],
+    "subjects": [],
+    "title": "Orion's belt and M42 - HaRGB",
+    "updated": "2021-03-17T16:42:05.822362",
+    "uploaded": "2018-01-27T18:06:17.030721",
+    "url_duckduckgo": "https://www.astrobin.com/331147/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331147/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331147/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331147/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331147/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331147/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331147/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/331147/0/rawthumb/thumb/",
+    "user": "Matteo_Marchionni",
+    "views": 768,
+    "w": 1873
+}

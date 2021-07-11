@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "-22.991",
+    "description": "First image from the 16\" ASA now that the DDM85 mount has been repaired. Guiding is excellent, detail is good and I now have to learn to cope with the light pollution gradients and continue to work on the calibration files.",
+    "h": 4263,
+    "hash": null,
+    "id": 305846,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA 16N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799640/"
+    ],
+    "orientation": "183.951",
+    "pixscale": "0.379",
+    "published": "2017-08-02T13:28:33.903548",
+    "ra": "270.646",
+    "radius": "0.405",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305846/",
+    "revisions": [
+        "/api/v1/imagerevision/122156/",
+        "/api/v1/imagerevision/122427/"
+    ],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "RGB Trifid",
+    "updated": "2021-03-17T20:16:27.082714",
+    "uploaded": "2017-08-02T14:28:34.710877",
+    "url_duckduckgo": "https://www.astrobin.com/305846/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305846/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305846/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305846/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305846/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305846/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305846/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1473/2017/c8470ed0-fa0e-459c-845a-3ff8ec52b34e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1473/2017/c8470ed0-fa0e-459c-845a-3ff8ec52b34e-1582495528.jpg",
+    "url_thumb": "https://www.astrobin.com/305846/0/rawthumb/thumb/",
+    "user": "alocky",
+    "views": 294,
+    "w": 6395
+}

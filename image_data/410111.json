@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "59.356",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThe Draco trio of galaxies are really spectacular.  The center one is an elliptical galaxy, the other two are barred spiral galaxies with one face on, the other edge on.  They are not related to each other, being at different distances but in the same line of sight, located in the northern constellation Draco.  They are approximately 100 million light years away.\r\n\r\nNGC 5985 is a spiral galaxy, discovered by William Herschel in 1788.  It is 140 million light years from earth.\r\n\r\nNGC 5982 is an elliptical galaxy located at a distance of circa 130 million light years from Earth, which, given its apparent dimensions, means that NGC 5982 is about 100,000 light years across. It was discovered by William Herschel in 1788.\r\nNGC 5982 has a kinematically decoupled nucleus, with its major axis being nearly perpendicular to the rotation of the galaxy. NGC 5982 features a large number of shells in its envelope, nearly 26. The shells form circular arcs, with the further being located at a radius of 150 arcseconds along the major axis of the galaxy, while the innermost one lies 8 arcseconds off the nucleus. The shells and the kinematically decoupled nucleus are the result of the merger of the elliptical galaxy with a small elliptical galaxy.\r\nThe galaxy has globular clusters that belong in two populations, red and blue. The age of the globular clusters in NGC 5982 is over 5 billion years.\r\n(Wikipedia)",
+    "h": 3040,
+    "hash": null,
+    "id": 410111,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 186,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "357.768",
+    "pixscale": "0.350",
+    "published": "2019-06-12T22:48:57.766291",
+    "ra": "234.691",
+    "radius": "0.248",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/410111/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985",
+        "NGC5981",
+        "NGC5982",
+        "NGC5985",
+        "PGC2588841",
+        "PGC2590275"
+    ],
+    "title": "NGC 5985, 5982, 5981 Draco triplet",
+    "updated": "2021-03-17T10:36:41.867813",
+    "uploaded": "2019-06-12T23:00:50.917585",
+    "url_duckduckgo": "https://www.astrobin.com/410111/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410111/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410111/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410111/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410111/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410111/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410111/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/923bb88b-d571-4a4f-80c2-44d635bbcccf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/923bb88b-d571-4a4f-80c2-44d635bbcccf-1582590810.jpg",
+    "url_thumb": "https://www.astrobin.com/410111/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 485,
+    "w": 4088
+}

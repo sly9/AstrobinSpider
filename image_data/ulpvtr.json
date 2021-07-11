@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 33,
+    "comments": 48,
+    "data_source": "BACKYARD",
+    "dec": "60.119",
+    "description": "Sh2-129 is a large HII region known as the Flying Bat nebula in the constellation Cepheus, at a distance of 2,300 light years from the Sun. The field of view presented in this image spans 2 degrees by 3 degrees, or 4x6 full moon diameters. Inside Sh2-129 is the Squid nebula (Ou-4), discovered in 2011 by French astrophotographer <a href=\"https://arxiv.org/pdf/1206.2477.pdf\">Nicolas Outters </a>.  The curious bipolar shape of Ou-4 led the original investigators to hypothesize that the Squid could be a planetary nebula and its size, if its position was confirmed inside Sh2-129, would make it the closest observed planetary nebula to Earth. \r\n\r\nA more <a href=\"https://arxiv.org/pdf/1407.4617.pdf\"> recent investigation</a> confirmed the location of Ou-4 within Sh2-129 but argued against Ou-4 being a  planetary nebula concluding “it is reasonable to suppose that Ou-4 is  an outflow launched some 90,000 years ago from the massive triple stem HR 8119” (the bright blue star in the center of Sh2-129 and Ou-4 responsible for the radiation that makes both nebulas glow). In this paper there is also a detailed morphological description of Ou-4, including the multiple arc shape of the bow shocks at the Northern and Southern tip of the nebula, visible in the image presented here. In this scenario, the Squid Nebula would physically be 50 light years across.\r\n\r\n In addition to Sh2-129 and Ou-4, in the bottom left corner of the image, reflection nebula vdB 140 can also be identified with some of the blue continuum signal passing through the OIII filter. \r\n\r\nTo cover this field of view, I used the Takahashi FSQ106 with the 0.72x (equivalent focal length 385mm, f/3.6) and acquired data for a two panel mosaic. The data presented here is a combination of Ha and OIII narrowband images and RGB color for the stars. Data was collected with a ZWO ASI1600MM Pro (gain: 50, offset: 20 for RGB, gain:139, offset: 50 for narrowband). Processing in PixInsight (calibration, mosaic assembly, and linear processing) and Photoshop CC (non-linear processing).\r\n\r\nTwo-panel mosaic (top and bottom) :\r\n\r\nTop: Ha: 57x8min, OIII: 97x8min, RGB: 20x1min each channel\r\nBottom: 59x8min, OIII: 125x8min, RGB: 20x1min each channel\r\n\r\nVersion G: Inverted OIII data in a cropped image around OU-4. I attempted to reproduce some of the morphological findings in <a href=\"https://arxiv.org/pdf/1407.4617.pdf\"> Corradi et al</a>. In the inset, the bow shocks at the South tip of OU-4 are sketched.",
+    "h": 2928,
+    "hash": "ulpvtr",
+    "id": 423491,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 286,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "60.480",
+    "pixscale": "4.026",
+    "published": "2019-08-30T11:07:57.780295",
+    "ra": "316.945",
+    "radius": "2.021",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/423491/",
+    "revisions": [
+        "/api/v1/imagerevision/190792/",
+        "/api/v1/imagerevision/190853/",
+        "/api/v1/imagerevision/191236/"
+    ],
+    "subjects": [
+        "Sh2-129"
+    ],
+    "title": "The Flying Bat and the Squid (Sh2-129 & OU-4)",
+    "updated": "2021-06-27T00:20:41.652935",
+    "uploaded": "2019-08-29T14:09:49.160464",
+    "url_duckduckgo": "https://www.astrobin.com/ulpvtr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ulpvtr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ulpvtr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ulpvtr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ulpvtr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ulpvtr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ulpvtr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/c4c0290b-7c4b-4c2b-a105-7da9c53c7a05.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/c4c0290b-7c4b-4c2b-a105-7da9c53c7a05-1582640094.jpg",
+    "url_thumb": "https://www.astrobin.com/ulpvtr/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 2094,
+    "w": 2120
+}

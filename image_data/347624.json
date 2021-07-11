@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 1,
+    "data_source": "UNKNOWN",
+    "dec": "55.461",
+    "description": "NGC 5905 (upper right) is a barred spiral galaxy, seen face-on, in Draco in close proximity to spiral galaxy NGC 5908 (lower left), seen nearly edge-on.  In this image, N is up (increasing DEC), S down, E left (increasing RA), W right as viewed at the Meridian crossing.  I “discovered” this handsome pair when imaging the vicinity of NGC 5907 (the Splinter Galaxy, if I may dare to use its common name) and M 102 (the Spindle Galaxy) in a wide FOV.  NGC 5907 is about 1 deg due N of this pair, M 102 is about 1.5 deg to the W.\r\n\r\nDSO Browser places NGC 5905 156 Mly distant with redshift 0.0113.  It has magnitude 11.7, surface brightness 22.9, size 4’ x 2.6’.  NGC 5908 is listed at distance 152 Mly with redshift 0.0110 , magnitude 11.8, surface brightness 22.1, size 3.3’ x 1.4’.  I measure an angular distance from one another of about 13’.  If I did my geometry correctly, this places them at a mere distance of 4 Mly from one another, although note that the error bars are quite large on this estimate.  (In comparison, the Andromeda Galaxy is 2.5 Mly from us.)  There are a number of smaller, further galaxies in this cropped image, some of which I’ve annotated in a wider FOV version of the image.\r\n\r\nThis was imaged at F/10 with my C11 and FLI ML16200.  I used (L,R,G,B) = (83,44,41,45) frames & 300’ each for a total of (415,220,205,225) min = 17 hr 15 min integration time.  I processed the RGB channels using PI’s PhotometricColorCalibration process with the Average Spiral Galaxy setting.  I combined all four channels into a synthetic luminance and then used LRGBCombination for final assembly.\r\n\r\nThese are challenging objects to image, particularly from my Bortle 7 & 8 skies, and much of the faint detail of NGC 5905 is just barely at the edge of the background brightness.  To make matters even more challenging, I am still dealing with a background pattern noise issue with the ML16200.  This matter is still being investigated with the help of FLI.  Unfortunately, the background pattern, which seems to not calibrate out properly, compels me to make unorthodox use of DynamicBackgroundExtraction.  I also feel compelled to push the black level more severely than I would normally want, however I’ve backed off on that a little bit here.  Careful examination of the images may reveal some of these background issues, but it’s mostly unapparent to the casual observer.\r\n\r\nBut let me end with some positive notes.  First, I am quite pleased with the roundness of the unsaturated stars.  I took extra care with refining my collimation, and analysis with DynamicPSF shows that it paid off compared with recent results prior to this latest collimation.  Further, I have discovered that I can reduce the amount of what I believe is called “lateral chromatic aberration” that normally turns up in my images using some of the more advanced settings in PI’s StarAlignment process.  If I am using the term correctly, this is the effect when combining RGB channels even after registration where stars, particularly towards the edges of the image, show uneven colors across the disk.  Blue, Green and Red can appear brighter around certain edges, due to slight and normally uncorrected shifts in these channels.  I read that this could be mitigated by checking “Distortion correction” and using the “2-D Surface Splines” Registration model.  As a result of this, this effect has been minimized quite a bit here in comparison with previous images.  Of course, this is likely also helped with a more careful collimation.\r\n\r\nI will take another pass at the processing of this one at a future time, but for now here is my offering, and I will set it aside and move on to something else.\r\n\r\nAs always, your comments and criticisms are always welcome.\r\n\r\nBest Regards,\r\nBen",
+    "h": 1437,
+    "hash": null,
+    "id": 347624,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "359.718",
+    "pixscale": "0.441",
+    "published": "2018-05-19T20:18:03.654674",
+    "ra": "228.992",
+    "radius": "0.348",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/347624/",
+    "revisions": [
+        "/api/v1/imagerevision/145730/",
+        "/api/v1/imagerevision/145734/",
+        "/api/v1/imagerevision/145736/",
+        "/api/v1/imagerevision/145737/"
+    ],
+    "subjects": [
+        "NGC 5905",
+        "NGC 5908",
+        "NGC5905",
+        "NGC5908"
+    ],
+    "title": "NGC 5905 and 5908 in LRGB",
+    "updated": "2021-06-04T15:30:24.548322",
+    "uploaded": "2018-05-19T19:56:25.160417",
+    "url_duckduckgo": "https://www.astrobin.com/347624/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/347624/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/347624/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/347624/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/347624/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/347624/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/347624/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7533/2018/86bf3ea6-2a7c-4ec8-8fcd-9956507137ae.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/86bf3ea6-2a7c-4ec8-8fcd-9956507137ae-1528307836.jpg",
+    "url_thumb": "https://www.astrobin.com/347624/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 290,
+    "w": 1824
+}

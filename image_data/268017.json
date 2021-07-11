@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "67.112",
+    "description": "NGC7822 star forming region in Cepheus.\r\n\r\nI was originally planning for SHO version (Still hoping) but with the moon up, I couldnt collect OIII. So for now, it is a bicolor image. I may still get SII  and get a SHO version going .",
+    "h": 1454,
+    "hash": null,
+    "id": 268017,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "86.358",
+    "pixscale": "3.494",
+    "published": "2016-10-12T15:15:40.042108",
+    "ra": "0.800",
+    "radius": "1.123",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268017/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7822",
+        "NGC7822",
+        "Sh2-171"
+    ],
+    "title": "NGC7822",
+    "updated": "2021-03-17T22:44:27.666081",
+    "uploaded": "2016-10-12T16:15:40.042108",
+    "url_duckduckgo": "https://www.astrobin.com/268017/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268017/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268017/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268017/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268017/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268017/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268017/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2020/952ab4c2-2800-481f-87a7-14f0c2edaa72.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2020/952ab4c2-2800-481f-87a7-14f0c2edaa72-1608654171.png",
+    "url_thumb": "https://www.astrobin.com/268017/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 280,
+    "w": 1800
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-10.953",
+    "description": "Difficile couche O3 , basse au dessus de la ville",
+    "h": 2209,
+    "hash": null,
+    "id": 330025,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star 71"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802444/"
+    ],
+    "orientation": "81.071",
+    "pixscale": "3.166",
+    "published": "2018-01-19T20:02:08.451390",
+    "ra": "106.575",
+    "radius": "1.700",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330025/",
+    "revisions": [
+        "/api/v1/imagerevision/135135/"
+    ],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335",
+        "NGC 2343"
+    ],
+    "title": "IC 2177 SHO , la mouette",
+    "updated": "2021-03-17T16:47:07.843451",
+    "uploaded": "2018-01-19T19:54:51.221443",
+    "url_duckduckgo": "https://www.astrobin.com/330025/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330025/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330025/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330025/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330025/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330025/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330025/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10524/2018/8b29e537-574d-4aed-95c8-6524d1a20754.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10524/2018/8b29e537-574d-4aed-95c8-6524d1a20754-1582462429.jpg",
+    "url_thumb": "https://www.astrobin.com/330025/0/rawthumb/thumb/",
+    "user": "echosud",
+    "views": 211,
+    "w": 3172
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "2.026",
+    "description": "TOA130 + MORAVIAN G3-16200\r\n LRGB & Ha\r\n L-RGB 60 - 60:45:75 bin 1\r\n Ha 240 min bin 1\r\n\r\n(Antonucci - Venturi)",
+    "h": 1466,
+    "hash": null,
+    "id": 333914,
+    "imaging_cameras": [
+        "Moravian   Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130 APO Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806977/"
+    ],
+    "orientation": "90.137",
+    "pixscale": "2.711",
+    "published": "2018-02-16T15:16:53.994084",
+    "ra": "88.605",
+    "radius": "0.989",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333914/",
+    "revisions": [],
+    "subjects": [
+        "The star 56Ori"
+    ],
+    "title": "LDN 1622 - DETAILED BOOGY MAN",
+    "updated": "2021-04-22T11:16:51.362247",
+    "uploaded": "2018-02-16T15:16:54.221198",
+    "url_duckduckgo": "https://www.astrobin.com/333914/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333914/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333914/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333914/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333914/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333914/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333914/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/fdc08b02-bd96-4b54-b56f-a4a193e7a1b0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fdc08b02-bd96-4b54-b56f-a4a193e7a1b0-1518794440.jpg",
+    "url_thumb": "https://www.astrobin.com/333914/0/rawthumb/thumb/",
+    "user": "croara",
+    "views": 154,
+    "w": 1824
+}

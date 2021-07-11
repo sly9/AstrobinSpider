@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "40.131",
+    "description": "Ha 35x600s\r\nSII 20x600s\r\nOIII 12x600",
+    "h": 1446,
+    "hash": null,
+    "id": 302597,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "-89.584",
+    "pixscale": "1.368",
+    "published": "2017-07-08T18:06:46.956427",
+    "ra": "306.760",
+    "radius": "1.089",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302597/",
+    "revisions": [],
+    "subjects": [],
+    "title": "IC1318",
+    "updated": "2021-03-17T20:29:24.859226",
+    "uploaded": "2017-07-08T19:01:24.834267",
+    "url_duckduckgo": "https://www.astrobin.com/302597/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302597/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302597/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302597/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302597/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302597/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302597/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/3f38b93f-7e08-49c2-abb2-60f268f2c54f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3f38b93f-7e08-49c2-abb2-60f268f2c54f-1499537165.jpg",
+    "url_thumb": "https://www.astrobin.com/302597/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 518,
+    "w": 1824
+}

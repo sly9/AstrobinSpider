@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 7,
+    "data_source": "OWN_REMOTE",
+    "dec": "-0.032",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400\r\nFilters : Astrodon 50mm square true balance gen2 LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposure : L 600s x 38(1x1bin), RGB each 600s x 14(2x2bin) total 13h 20m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)",
+    "h": 3000,
+    "hash": null,
+    "id": 396502,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "270.823",
+    "pixscale": "0.731",
+    "published": "2019-03-20T00:25:16.935817",
+    "ra": "166.455",
+    "radius": "0.431",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/396502/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3521"
+    ],
+    "title": "NGC3521",
+    "updated": "2021-06-13T14:19:24.198132",
+    "uploaded": "2019-03-20T00:25:17.073146",
+    "url_duckduckgo": "https://www.astrobin.com/396502/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396502/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396502/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396502/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396502/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396502/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396502/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/83b61ad2-fc3b-4a17-b112-3271c1a8ccb3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/83b61ad2-fc3b-4a17-b112-3271c1a8ccb3-1582631394.jpg",
+    "url_thumb": "https://www.astrobin.com/396502/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 1266,
+    "w": 3000
+}

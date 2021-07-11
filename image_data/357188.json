@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-23.836",
+    "description": "I did this area along with M8 a few years ago and wanted to revisit it at a longer focal length. This image has some Ha blended into the red channel but none in the L as it didn't really add much.   I again used Astro Pixel Processor which really speeds up the stacking.   I've also quit taking flats as APP is pretty good at removing vignetting.   L 22x200s , RGB 12x200s 2x2 binned, Ha 8x500s.",
+    "h": 1442,
+    "hash": null,
+    "id": 357188,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "2.307",
+    "pixscale": "1.664",
+    "published": "2018-07-22T03:56:52.175004",
+    "ra": "272.473",
+    "radius": "0.795",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/357188/",
+    "revisions": [
+        "/api/v1/imagerevision/151271/"
+    ],
+    "subjects": [
+        "IC 1274",
+        "IC 1275",
+        "IC 4684",
+        "IC 4685",
+        "NGC 6559",
+        "The star 11Sgr"
+    ],
+    "title": "NGC 6559",
+    "updated": "2021-06-09T11:24:18.283081",
+    "uploaded": "2018-07-22T04:39:33.992584",
+    "url_duckduckgo": "https://www.astrobin.com/357188/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/357188/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/357188/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/357188/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/357188/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/357188/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/357188/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7488f41d-704d-4d9d-b572-0c41f22ee857.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7488f41d-704d-4d9d-b572-0c41f22ee857-1532235022.jpg",
+    "url_thumb": "https://www.astrobin.com/357188/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 289,
+    "w": 1824
+}

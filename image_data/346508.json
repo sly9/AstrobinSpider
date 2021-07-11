@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "UNKNOWN",
+    "dec": "-48.006",
+    "description": "NGC6188, a bright nebula in the constellation of Ara with NGC6193 open cluster providing all the \r\n action as it kicks off.\r\nYou also have NGC6164 at bottom right, a bipolar nebula.\r\nPresented vertically as the main object sits in a dense backdrop of stars in the middle of the Milky Way.\r\n3 hours of Ha was combined with the original RGB data. Luminence added nothing, combined using LRGB combination in PI",
+    "h": 2805,
+    "hash": null,
+    "id": 346508,
+    "imaging_cameras": [
+        "SBIG STL-6303E"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FSQ106n"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808504/"
+    ],
+    "orientation": "312.943",
+    "pixscale": "3.517",
+    "published": "2018-05-12T12:52:18.342417",
+    "ra": "250.231",
+    "radius": "1.749",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/346508/",
+    "revisions": [
+        "/api/v1/imagerevision/145145/"
+    ],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193",
+        "NGC 6200",
+        "NGC 6204"
+    ],
+    "title": "NGC6188 HaRGB",
+    "updated": "2021-03-17T15:31:51.756539",
+    "uploaded": "2018-05-12T13:32:37.519756",
+    "url_duckduckgo": "https://www.astrobin.com/346508/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/346508/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/346508/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/346508/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/346508/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/346508/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/346508/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2f8c74f9-6552-409c-bc86-9a9ea29f299f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2f8c74f9-6552-409c-bc86-9a9ea29f299f-1526129179.jpg",
+    "url_thumb": "https://www.astrobin.com/346508/0/rawthumb/thumb/",
+    "user": "Djt",
+    "views": 218,
+    "w": 1824
+}

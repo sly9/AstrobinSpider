@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "4.965",
+    "description": "Site : Gunwigoon, KOREA\r\nTelescope : FSQ106ED\r\nMount : Rainbowastro RST400\r\nCamera : Moravian G4 16000, Lodestarx2\r\nExposeure : Ha 40 x 900s, L 50 x 600s 1bin, RGB 45 x 300s 2bin each (Total 29h 35m)",
+    "h": 1824,
+    "hash": null,
+    "id": 329052,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806211/"
+    ],
+    "orientation": "176.575",
+    "pixscale": "3.500",
+    "published": "2018-01-11T14:02:47.799665",
+    "ra": "98.000",
+    "radius": "2.475",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329052/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2244  Widefield",
+    "updated": "2021-03-17T16:51:28.931366",
+    "uploaded": "2018-01-11T14:02:48.517905",
+    "url_duckduckgo": "https://www.astrobin.com/329052/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329052/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329052/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329052/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329052/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329052/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329052/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/57a12732-8684-470d-9069-8487af995539.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/57a12732-8684-470d-9069-8487af995539-1515679770.jpg",
+    "url_thumb": "https://www.astrobin.com/329052/0/rawthumb/thumb/",
+    "user": "Minseok.Chang",
+    "views": 133,
+    "w": 1824
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 56,
+    "comments": 44,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is an animated 3D version of my spaghetti nebula image.  The third dimension data (distance from earth) for the stars was gathered by first solving and annotating the stars in PixInsight and then looking up their parallax information in the Hipparcos and Tycho catalogs on VizieR (http://vizier.u-strasbg.fr/viz-bin/VizieR). I then separated out hundreds of stars from the 2D image manually in Photoshop, and noted their distance in light years from my spreadsheet. Finally, I translated these values to the \"Z\" axis in After Effects, added a \"camera\" moving in towards the nebula and saved it as an animated gif.",
+    "h": 360,
+    "hash": null,
+    "id": 340905,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Canon 200 mm f/2.8 L II USM"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 374,
+    "link": "http://www.nebulaphotos.com/sharpless/sh2-240/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805508/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-04-08T18:49:08.535685",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340905/",
+    "revisions": [
+        "/api/v1/imagerevision/141893/"
+    ],
+    "subjects": [],
+    "title": "3D Fly-in -- Simeis 147 / sh2-240 / Spaghetti Nebula (HaO3RGB)",
+    "updated": "2021-06-10T06:49:49.200508",
+    "uploaded": "2018-04-08T19:49:10.639037",
+    "url_duckduckgo": "https://www.astrobin.com/340905/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340905/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340905/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340905/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340905/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340905/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340905/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/340905/0/rawthumb/thumb/",
+    "user": "2ghouls",
+    "views": 2436,
+    "w": 640
+}

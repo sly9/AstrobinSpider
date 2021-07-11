@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "-6.722",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix (RGB)\r\nTV127is+ASI183MM at .75 asec/pix. (L)\r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\nThis image was unguided.\r\n\r\nNGC1999 is a dust-filled bright nebula with a vast hole of empty space represented by a black patch of sky, as can be seen in the photograph. It is a reflection nebula, and shines from the light of the variable star V380 Orionis.\r\n\r\nIt was previously believed that the black patch was a dense cloud of dust and gas which blocked light that would normally pass through, called a dark nebula. Analysis of this patch by the infrared telescope Herschel (October 9, 2009), which has the capability of penetrating such dense cloud material, resulted in continued black space. This led to the belief that either the cloud material was immensely dense or that an unexplained phenomenon had been detected.\r\n\r\nWith support from ground-based observations done using the submillimeter bolometer cameras on the Atacama Pathfinder Experiment radio telescope (November 29, 2009) and the Mayall (Kitt Peak) and Magellan telescopes (December 4, 2009), it was determined that the patch looks black not because it is an extremely dense pocket of gas, but because it is truly empty. The exact cause of this phenomenon is still being investigated, although it has been hypothesized that narrow jets of gas from some of the young stars in the region punctured the sheet of dust and gas, as well as, powerful radiation from a nearby mature star may have helped to create the hole. Researchers believe this discovery should lead to a better understanding of the entire star forming process.\r\n\r\nIt is located 1,500 light-years away from Earth in the constellation Orion.\r\n(Wikipedia)",
+    "h": 3452,
+    "hash": "1ylk8c",
+    "id": 437899,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 146,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "178.111",
+    "pixscale": "0.701",
+    "published": "2019-11-09T19:04:39.809446",
+    "ra": "84.104",
+    "radius": "0.560",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/437899/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1999",
+        "NGC1999"
+    ],
+    "title": "NGC 1999 Sword of Orion - Reflection Nebula",
+    "updated": "2021-06-14T20:15:12.818860",
+    "uploaded": "2019-11-09T18:57:19.070976",
+    "url_duckduckgo": "https://www.astrobin.com/1ylk8c/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1ylk8c/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1ylk8c/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1ylk8c/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1ylk8c/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1ylk8c/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1ylk8c/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/62c5d9fd-0e24-4a70-9226-5d71510a7685.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/62c5d9fd-0e24-4a70-9226-5d71510a7685-1582590767.jpg",
+    "url_thumb": "https://www.astrobin.com/1ylk8c/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 365,
+    "w": 4604
+}

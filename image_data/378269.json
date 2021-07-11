@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is my first attempt at removing stars from an image. I did a variation of the DefectMap technique in Pixinsight, which was pretty straight forward.",
+    "h": 4077,
+    "hash": null,
+    "id": 378269,
+    "imaging_cameras": [
+        "Apogee Aspen CG16M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-11-24T13:04:38.650540",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/378269/",
+    "revisions": [
+        "/api/v1/imagerevision/163022/"
+    ],
+    "subjects": [],
+    "title": "Starless Alnitak",
+    "updated": "2021-03-17T13:04:28.826699",
+    "uploaded": "2018-11-24T13:04:38.839370",
+    "url_duckduckgo": "https://www.astrobin.com/378269/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378269/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378269/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378269/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378269/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378269/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378269/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/378269/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 240,
+    "w": 4082
+}

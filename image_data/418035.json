@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "37.396",
+    "description": "The Angel is a very small Nebula nestled in a field of dim Ha emission.  It measures about 3 arc minutes, or maybe 6 Jupiter's wide.   A young massive star at the center of the hourglass structure is emitting jets of hot gas and ionizing nearby dust.  At only 100,000 years old, this star has been busy!  I believe the Blue star is obscured by left jet.  This one shows up in Blue and OIII while the right did not.\r\n\r\nHubble version here: https://en.wikipedia.org/wiki/Sh2-106#/media/File:Sharpless_2-106.jpg\r\n\r\nIt is pictured upside-down here, if that is possible with objects in the sky.  The wonderful Hubble version clearly shows the \"gown\" of the angel - a small \"V\" shape between the wings made by the jets.  My image only subtly hints at the gown of the Angel so I chose to orient the image with the bulk of the surrounding HII emission at the bottom for aesthetic purposes.\r\n\r\nI started the image as a SHO capture but, not seeing the Angel's gown, I finished with LRGB.   The final product here is a blend with SHO+Luminance for Luminance, Ha+SII+Red for Red, Green for Green, and OIII+Blue for Blue.\r\n\r\nA total of 31.7 hours, 2/3s being SHO and 1/3 being LRGB.\r\n\r\nTo give a better idea how small this is I upoaded a full frame, 0.5 degree FOV version as version C.",
+    "h": 730,
+    "hash": null,
+    "id": 418035,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 118,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "261.545",
+    "pixscale": "0.730",
+    "published": "2019-07-30T16:49:10.909908",
+    "ra": "306.855",
+    "radius": "0.135",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/418035/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-106"
+    ],
+    "title": "SH2-106 The Angel Nebula",
+    "updated": "2021-03-17T09:58:56.884633",
+    "uploaded": "2019-07-30T17:49:11.005784",
+    "url_duckduckgo": "https://www.astrobin.com/418035/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418035/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418035/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418035/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418035/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418035/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418035/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/73a8d257-66ee-42ad-b4ac-fe15cff51591.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/73a8d257-66ee-42ad-b4ac-fe15cff51591-1564510723.jpg",
+    "url_thumb": "https://www.astrobin.com/418035/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 394,
+    "w": 1110
+}

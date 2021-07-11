@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "24.221",
+    "description": "",
+    "h": 1234,
+    "hash": null,
+    "id": 269599,
+    "imaging_cameras": [
+        "QHY10"
+    ],
+    "imaging_telescopes": [
+        "William Optics Zenithstar 71 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803077/"
+    ],
+    "orientation": "2.098",
+    "pixscale": "3.717",
+    "published": "2016-10-27T11:23:07.687206",
+    "ra": "56.375",
+    "radius": "2.369",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269599/",
+    "revisions": [
+        "/api/v1/imagerevision/102920/",
+        "/api/v1/imagerevision/102922/",
+        "/api/v1/imagerevision/103018/",
+        "/api/v1/imagerevision/103555/",
+        "/api/v1/imagerevision/107314/"
+    ],
+    "subjects": [
+        "IC 353",
+        "Maia nebula",
+        "Merope nebula",
+        "NGC 1432",
+        "NGC 1435",
+        "The star 18Tau",
+        "The star Atlas (27Tau)",
+        "The star Celaeno (16Tau)",
+        "The star Electra (17Tau)",
+        "The star Merope (23Tau)",
+        "The star Pleione (28Tau)",
+        "The star Sterope I (21Tau)",
+        "The star Taygeta (19Tau)",
+        "The star ηTau"
+    ],
+    "title": "M45",
+    "updated": "2021-03-17T22:38:54.408097",
+    "uploaded": "2016-10-27T12:23:07.687206",
+    "url_duckduckgo": "https://www.astrobin.com/269599/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269599/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269599/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269599/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269599/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269599/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269599/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12187/2016/d79a383e-812c-4de2-b349-3c565b82a056.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d79a383e-812c-4de2-b349-3c565b82a056.jpg",
+    "url_thumb": "https://www.astrobin.com/269599/0/rawthumb/thumb/",
+    "user": "Lepidopterous",
+    "views": 934,
+    "w": 1824
+}

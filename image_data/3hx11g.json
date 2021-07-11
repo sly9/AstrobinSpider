@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "ISS 08_07_2021 01:31:19, pixel scale 0.12 \"/ pixel, 33 animation frames, the sky is far from ideal - shooting in the IR channel.\r\nheight ~ 71 degrees, brightness -3.6, distance at the climax 448 km, siing 2/5, transparency 4/5. (1 - bad, 5 - excellent), wind 5-7ms, no humidity. Monty eq8 evilmode v3,\r\nCelestron C14 XLT + focuser GSO 2 \"1.25x NPZ (focal ~ 5 meters) + asi290mm + zwo EFW mini + Baader LRGBI (IR685). 160fps 720х512, mono12, gain ~ 300-327 (a lot), shutter speed 0.7ms (not enough for IR, you need 0.9ms). Adding 30% of 280 adjacent frames without selection in AS! 3 with wavelets. PIPP animation 100%.",
+    "h": 512,
+    "hash": "3hx11g",
+    "id": 602507,
+    "imaging_cameras": [
+        "ZWO ASI290MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807777/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2021-07-08T09:41:30.794838",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/602507/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Animation of the ISS IR685 08.07.2021",
+    "updated": "2021-07-10T20:52:13.305282",
+    "uploaded": "2021-07-08T09:37:47.313977",
+    "url_duckduckgo": "https://www.astrobin.com/3hx11g/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3hx11g/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3hx11g/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3hx11g/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3hx11g/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3hx11g/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3hx11g/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/3hx11g/0/rawthumb/thumb/",
+    "user": "MaxWarrior",
+    "views": 187,
+    "w": 720
+}

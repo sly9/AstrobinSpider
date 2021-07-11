@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "61.383",
+    "description": "I made a final reprocessing of my data from Melotte 15 and used the standard Hubble Palette for the colors in this attempt. Really like the intensity of the OIII data in this object.",
+    "h": 3303,
+    "hash": null,
+    "id": 420386,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 250/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 219,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "357.881",
+    "pixscale": "0.928",
+    "published": "2019-08-11T12:56:48.991455",
+    "ra": "38.488",
+    "radius": "0.535",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/420386/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Melotte 15 (Bicolor)",
+    "updated": "2021-03-17T09:47:00.313536",
+    "uploaded": "2019-08-11T13:43:27.178108",
+    "url_duckduckgo": "https://www.astrobin.com/420386/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420386/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420386/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420386/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420386/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420386/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420386/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2019/2102c0d3-b1a7-45a3-b31e-56250903d86a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2019/2102c0d3-b1a7-45a3-b31e-56250903d86a-1581969903.png",
+    "url_thumb": "https://www.astrobin.com/420386/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 596,
+    "w": 2511
+}

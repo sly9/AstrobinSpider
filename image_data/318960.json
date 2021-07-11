@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "70.344",
+    "description": "",
+    "h": 2399,
+    "hash": null,
+    "id": 318960,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 96,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "288.167",
+    "pixscale": "1.391",
+    "published": "2017-10-30T17:31:11.445674",
+    "ra": "333.033",
+    "radius": "0.724",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318960/",
+    "revisions": [],
+    "subjects": [
+        "B175",
+        "VdB152"
+    ],
+    "title": "vdB 152",
+    "updated": "2021-03-17T19:23:01.359388",
+    "uploaded": "2017-10-28T00:42:22.073703",
+    "url_duckduckgo": "https://www.astrobin.com/318960/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318960/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318960/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318960/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318960/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318960/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318960/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22761/2017/d956667b-f0d2-445f-8475-872e03412b4b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22761/2017/d956667b-f0d2-445f-8475-872e03412b4b-1581978317.jpg",
+    "url_thumb": "https://www.astrobin.com/318960/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 414,
+    "w": 2877
+}

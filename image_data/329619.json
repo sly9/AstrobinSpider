@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "9.804",
+    "description": "This one has been a long time coming, I just could not get it to look right with the ASI1600. Took some more data with the QHY247C and it did the trick. Could probably still use more RGB data to get better star colors as the Ha is bit overdominant still.  I was also testing out the QHY247C with the Baader 7nm Ha filter and added that as well.",
+    "h": 4114,
+    "hash": null,
+    "id": 329619,
+    "imaging_cameras": [
+        "QHYCCD QHY247C",
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT106LE"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807300/"
+    ],
+    "orientation": "0.220",
+    "pixscale": "1.123",
+    "published": "2018-01-16T02:42:22.650267",
+    "ra": "100.251",
+    "radius": "0.810",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329619/",
+    "revisions": [],
+    "subjects": [
+        "15 S Mon",
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "Sh2-273",
+        "The star 15Mon"
+    ],
+    "title": "Cone & Fox Fur Nebulae and Christmas Tree Cluster",
+    "updated": "2021-03-17T16:48:52.540628",
+    "uploaded": "2018-01-16T02:42:24.020223",
+    "url_duckduckgo": "https://www.astrobin.com/329619/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329619/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329619/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329619/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329619/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329619/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329619/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22385/2018/67eaff50-85a3-478b-86a0-fc9e0a8cb7a0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22385/2018/67eaff50-85a3-478b-86a0-fc9e0a8cb7a0-1582601905.png",
+    "url_thumb": "https://www.astrobin.com/329619/0/rawthumb/thumb/",
+    "user": "jtrezzo",
+    "views": 361,
+    "w": 3164
+}

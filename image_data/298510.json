@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.444",
+    "description": "",
+    "h": 2175,
+    "hash": null,
+    "id": 298510,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 150ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806303/"
+    ],
+    "orientation": "-51.481",
+    "pixscale": "1.733",
+    "published": "2017-06-05T10:09:41.955060",
+    "ra": "323.717",
+    "radius": "0.740",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/298510/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "IC1396",
+        "Sh2-131",
+        "VdB142"
+    ],
+    "title": "VDB 142, IC1396A, Crop aus IC1396 Bild SHO",
+    "updated": "2021-03-17T20:44:39.971263",
+    "uploaded": "2017-06-05T11:09:42.710520",
+    "url_duckduckgo": "https://www.astrobin.com/298510/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298510/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298510/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298510/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298510/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298510/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298510/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/74c567e6-ab80-4943-9659-7610a7f8a6ed.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/74c567e6-ab80-4943-9659-7610a7f8a6ed-1496657490.jpg",
+    "url_thumb": "https://www.astrobin.com/298510/0/rawthumb/thumb/",
+    "user": "mdohr",
+    "views": 300,
+    "w": 2172
+}

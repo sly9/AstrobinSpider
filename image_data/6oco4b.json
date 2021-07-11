@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "42.939",
+    "description": "Beautiful supernova remnant in Auriga.  The Ha channel is easy enough to get but after 11+ hours of OIII, it barely shows in the outer shell.  Calibrated RGB stars add a nice - Christmas-like - colours to the overall picture.",
+    "h": 4050,
+    "hash": "6oco4b",
+    "id": 442748,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 152mm f/7.5 Starfire EDF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799912/"
+    ],
+    "orientation": "0.360",
+    "pixscale": "1.430",
+    "published": "2019-12-23T13:34:53.137971",
+    "ra": "81.535",
+    "radius": "1.138",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442748/",
+    "revisions": [
+        "/api/v1/imagerevision/204493/",
+        "/api/v1/imagerevision/204494/"
+    ],
+    "subjects": [],
+    "title": "Sh2-224 in Auriga - HaOIII with RGB stars",
+    "updated": "2021-03-17T06:05:52.504192",
+    "uploaded": "2019-12-09T10:31:50.408450",
+    "url_duckduckgo": "https://www.astrobin.com/6oco4b/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6oco4b/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6oco4b/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6oco4b/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6oco4b/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6oco4b/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6oco4b/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5378/2019/f4f88422-c065-4918-af03-ccb8e19d0ecc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5378/2019/f4f88422-c065-4918-af03-ccb8e19d0ecc-1582286547.jpg",
+    "url_thumb": "https://www.astrobin.com/6oco4b/0/rawthumb/thumb/",
+    "user": "rbotero",
+    "views": 107,
+    "w": 4050
+}

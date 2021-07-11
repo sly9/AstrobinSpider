@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-24.303",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilters : Astrodon 50mm square true balance gen2 Ha, O3, S2 3nm\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposure : Ha, O3, S2 each 1200s x 17(1x1bin) total 17\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)",
+    "h": 4000,
+    "hash": null,
+    "id": 353855,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "0.534",
+    "pixscale": "0.730",
+    "published": "2018-07-03T01:16:42.265689",
+    "ra": "271.085",
+    "radius": "0.573",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/353855/",
+    "revisions": [],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 Lagoon nebula narrowband",
+    "updated": "2021-06-02T10:09:10.125250",
+    "uploaded": "2018-07-03T02:16:46.124416",
+    "url_duckduckgo": "https://www.astrobin.com/353855/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/353855/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/353855/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/353855/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/353855/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/353855/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/353855/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8cf4bb8d-e363-4a1e-8e6e-8acae0544d70.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8cf4bb8d-e363-4a1e-8e6e-8acae0544d70-1530583359.jpg",
+    "url_thumb": "https://www.astrobin.com/353855/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 193,
+    "w": 4000
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "61.263",
+    "description": "To improve colors and details, I have used an hybrid color palette composed by narrowband, red and blue data that shows \r\ntogether primary and complementary colors along a continuum. \r\n125 raw H-alpha images of 10 minutes each unbinned\r\n129 raw OIII images of 10 minutes each unbinned\r\n132 raw SII images of 10 minutes each unbinned\r\n91 raw Green images of 1 minute each binning 2x2\r\n90 raw Green images of 1 minute each binning 2x2\r\n89 raw Blue images of 1 minute each binning 2x2\r\nTotal 656 raw files\r\n68h50 total exposure from 08/22/2016, 08/23/2016, 08/24/2016, 08/25/2016, 08/26/2016, 09/01/2016, 09/02/2016, 09/03/2016, 09/04/2016, 09/06/2016, 09/07/2016, 09/08/2016, 09/09/2016, and 09/10/2016\r\nA full resolution of 8332x5829 pixels for a total of 48MPixels\r\nFOV 4.8° x 3.4°\r\n50 bias + 50 dark + 50 flats for calibration in CCDStack\r\n---------------------------------------------------------------------------------------------\r\nTakahashi FSQ106ED @f/5 530mm focal length with ONAG XT (http://www.innovationsforesight.com/), Apogee Alta U8300 monochrome @-30°C and Astrodon narrowband H-alpha, OIII and SII 5nm filters and Astrodon broadband RGB filters on 10micron GM2000 HPS II\r\nSoftware: MaximDL to capture - SkySurveyor to calculate mosaic tiles and to automatically move the scope to the next tile coordinate - SharpLock to keep the optical train perfectly focused - CCDStack to calibrate, register, normalize, data reject and combine - Registar and PixInsight for mosaic assembly - Photoshop CC and PixInsight for LRGB composition and non-linear streching.",
+    "h": 1279,
+    "hash": null,
+    "id": 269217,
+    "imaging_cameras": [
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799636/"
+    ],
+    "orientation": "179.383",
+    "pixscale": "2.101",
+    "published": "2016-10-23T15:24:53.682940",
+    "ra": "40.765",
+    "radius": "2.952",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269217/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC 1848",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "Soul & Heart - 8 panels mosaic - IC1848, IC1805 - LRGB composition - Hybrid Hubble palette",
+    "updated": "2021-06-04T23:26:03.385337",
+    "uploaded": "2016-10-23T16:24:53.682940",
+    "url_duckduckgo": "https://www.astrobin.com/269217/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269217/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269217/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269217/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269217/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269217/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269217/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/2e7e2b54-6f23-4764-869c-edd99e02a673.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2e7e2b54-6f23-4764-869c-edd99e02a673.jpg",
+    "url_thumb": "https://www.astrobin.com/269217/0/rawthumb/thumb/",
+    "user": "dlindemann",
+    "views": 2139,
+    "w": 1824
+}

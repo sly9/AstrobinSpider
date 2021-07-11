@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.517",
+    "description": "TOA130 + MORAVIAN G3-16200\r\n RGB 45:30:45 min bin 1\r\n Ha 90 bin 1     O3 90 bin 1\r\n\r\nVenturi - Antonucci",
+    "h": 2403,
+    "hash": null,
+    "id": 306542,
+    "imaging_cameras": [
+        "Moravian   Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130 APO Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "http://www.lumhatrex.it/WORKINimages/VEIL_LRGB%26Ha_TOA_2017.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806977/"
+    ],
+    "orientation": "89.968",
+    "pixscale": "1.864",
+    "published": "2017-08-08T09:05:58.838242",
+    "ra": "311.694",
+    "radius": "0.995",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/306542/",
+    "revisions": [],
+    "subjects": [
+        "Filamentary nebula",
+        "Lace-work nebula",
+        "NGC 6960",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "VEIL NEBULA - RGB & (Ha:O3)",
+    "updated": "2021-03-17T20:13:45.435818",
+    "uploaded": "2017-08-08T10:05:59.873433",
+    "url_duckduckgo": "https://www.astrobin.com/306542/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306542/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306542/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306542/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306542/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306542/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306542/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/d6e8dbd9-6c3a-41d5-bb89-c7719b0f4e4a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d6e8dbd9-6c3a-41d5-bb89-c7719b0f4e4a-1502215261.jpg",
+    "url_thumb": "https://www.astrobin.com/306542/0/rawthumb/thumb/",
+    "user": "croara",
+    "views": 266,
+    "w": 3000
+}

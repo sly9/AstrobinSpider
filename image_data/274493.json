@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "22.012",
+    "description": "First blend attempt:\r\n\r\nR:  Ha*r + SII*(1-r)\r\nG: OIII\r\nB: Ha*b + OIII*(1-b)\r\n\r\nr = 0.75, b=0.05",
+    "h": 1625,
+    "hash": null,
+    "id": 274493,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "3.664",
+    "pixscale": "0.982",
+    "published": "2016-12-02T20:48:54.445286",
+    "ra": "83.632",
+    "radius": "0.376",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/274493/",
+    "revisions": [
+        "/api/v1/imagerevision/105368/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "M1 Ha/OIII/SII Blend 1",
+    "updated": "2021-03-17T22:21:44.246984",
+    "uploaded": "2016-12-02T20:48:54.935635",
+    "url_duckduckgo": "https://www.astrobin.com/274493/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/274493/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/274493/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/274493/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/274493/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/274493/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/274493/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1959/2016/9a5a6bc0-0cd4-4b48-b8fc-54ff409c1012.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1959/2016/9a5a6bc0-0cd4-4b48-b8fc-54ff409c1012-1582570302.jpg",
+    "url_thumb": "https://www.astrobin.com/274493/0/rawthumb/thumb/",
+    "user": "mikefulb",
+    "views": 592,
+    "w": 2225
+}

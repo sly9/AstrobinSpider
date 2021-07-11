@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "35.367",
+    "description": "Regular SHO combination.",
+    "h": 3777,
+    "hash": null,
+    "id": 331892,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "175.155",
+    "pixscale": "0.551",
+    "published": "2018-02-02T02:14:25.289433",
+    "ra": "300.059",
+    "radius": "0.423",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331892/",
+    "revisions": [
+        "/api/v1/imagerevision/136012/",
+        "/api/v1/imagerevision/136014/",
+        "/api/v1/imagerevision/136029/"
+    ],
+    "subjects": [],
+    "title": "Sharpless 2-101 SHO @ DSW",
+    "updated": "2021-03-17T16:38:49.998459",
+    "uploaded": "2018-02-02T02:10:27.041870",
+    "url_duckduckgo": "https://www.astrobin.com/331892/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331892/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331892/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331892/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331892/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331892/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331892/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2212/2018/fd98b765-7990-4ec3-9fa1-bc3a327dff80.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2212/2018/fd98b765-7990-4ec3-9fa1-bc3a327dff80-1582616052.jpg",
+    "url_thumb": "https://www.astrobin.com/331892/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 151,
+    "w": 4045
+}

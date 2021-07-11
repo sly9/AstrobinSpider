@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "47.207",
+    "description": "",
+    "h": 1374,
+    "hash": null,
+    "id": 293809,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "56.362",
+    "pixscale": "1.849",
+    "published": "2017-04-30T13:07:47.750481",
+    "ra": "184.447",
+    "radius": "0.772",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293809/",
+    "revisions": [
+        "/api/v1/imagerevision/115386/",
+        "/api/v1/imagerevision/117255/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106 - ASi1600MMC - L-Only",
+    "updated": "2021-03-17T21:03:01.095974",
+    "uploaded": "2017-04-30T14:02:45.423278",
+    "url_duckduckgo": "https://www.astrobin.com/293809/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293809/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293809/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293809/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293809/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293809/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293809/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4577/2017/64924b92-55b2-421b-a12b-23019f695df8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/64924b92-55b2-421b-a12b-23019f695df8-1493557474.jpg",
+    "url_thumb": "https://www.astrobin.com/293809/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 275,
+    "w": 1824
+}

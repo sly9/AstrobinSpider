@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 43,
+    "data_source": "BACKYARD",
+    "dec": "38.317",
+    "description": "Kn61 was given to me as a challenge by <a href=https://www.astrobin.com/users/Pat_Rodgers/>Pat Rogers</a> after we had both done Fe6 and had a short discussion about what our most difficult targets had been up to that point. He said his was <a href=https://www.astrobin.com/296347/>Kronberger 61</a>. Yeah, this one was brutal. Insanely faint and with a very delicate structure - it was an extremely difficult target on several levels. I sat on these data for months because I just couldn't get anything I was satisfied with (I also messed up my capture and had red running instead of blue once). I started and stopped processing it several times, and each attempt barely looked any different from the previous one. I'm still a little dissatisfied, but the data I have are the data I have and I can't squeeze any more of them. I don't think I'd try this one again unless I can get a scope at least 12\" in diameter or could image it from somewhere significantly higher in elevation than my usual ~90 m above sea level. You should definitely check out the images from the <a href=https://www.gemini.edu/node/11656>Gemini Observatory</a> (twin 8 meter scopes at high elevation) and the <a href=http://www.capella-observatory.com/ImageHTMLs/PNs/Kn61.htm>Capella Observatory</a> (12.9 meter scope) to see what this target really looks like - my 0.2 meter scope (and imaging conditions) are simply no match.",
+    "h": 2350,
+    "hash": "3x1h0p",
+    "id": 444303,
+    "imaging_cameras": [
+        "QHYCCD 183"
+    ],
+    "imaging_telescopes": [
+        "TPO/GSO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 202,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "269.851",
+    "pixscale": "0.569",
+    "published": "2019-12-21T23:19:49.114037",
+    "ra": "290.411",
+    "radius": "0.326",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/444303/",
+    "revisions": [
+        "/api/v1/imagerevision/204345/"
+    ],
+    "subjects": [],
+    "title": "Kronberger 61 (Kn 61) / Soccer Ball Nebula",
+    "updated": "2021-04-20T18:34:03.166660",
+    "uploaded": "2019-12-21T22:36:44.961575",
+    "url_duckduckgo": "https://www.astrobin.com/3x1h0p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/3x1h0p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/3x1h0p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/3x1h0p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/3x1h0p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/3x1h0p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/3x1h0p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/082cbd56-bb9f-4595-9177-8201c306e89a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/082cbd56-bb9f-4595-9177-8201c306e89a-1576970048.png",
+    "url_thumb": "https://www.astrobin.com/3x1h0p/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 806,
+    "w": 3400
+}

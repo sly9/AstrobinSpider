@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "47.186",
+    "description": "12h40m of total exposure of M51 with HD14 and U16M.\r\nOff-axis guided with Skyris 274M and Metaguide.\r\nThis is an RGB-only image with 20 minute sub-exposures.\r\nLocal sharpening and contrast enhancement was done to the main part of M51 but otherwise no complex processing was performed.\r\nColour balance was set using a \"make the average star colour white\" algorithm.",
+    "h": 3132,
+    "hash": null,
+    "id": 292116,
+    "imaging_cameras": [
+        "Apogee U16M"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge HD 14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798525/"
+    ],
+    "orientation": "184.723",
+    "pixscale": "0.476",
+    "published": "2017-04-17T01:29:18.448054",
+    "ra": "202.428",
+    "radius": "0.307",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292116/",
+    "revisions": [],
+    "subjects": [
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "Messier 51",
+    "updated": "2021-03-17T21:09:17.469337",
+    "uploaded": "2017-04-17T02:29:18.978551",
+    "url_duckduckgo": "https://www.astrobin.com/292116/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292116/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292116/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292116/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292116/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292116/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292116/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1916/2017/156cef8d-c20f-46f5-9bce-f8baca49c3af.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1916/2017/156cef8d-c20f-46f5-9bce-f8baca49c3af-1582475666.jpg",
+    "url_thumb": "https://www.astrobin.com/292116/0/rawthumb/thumb/",
+    "user": "apaquette",
+    "views": 459,
+    "w": 3432
+}

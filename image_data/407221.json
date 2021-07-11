@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Conditions were very good again last night, allowing me to capture another image of the GRS event currently occurring. The time elapsed between these images is slightly more than 20 hours (two rotations of Jupiter).\r\n\r\nThe \"blade\" of orange material has elongated further in the latest image, and the band of brown cloud appears to be breaking up on its return path along the STZ.\r\n\r\nThe GRS itself has normalised in shape somewhat, becoming a more regular oval again (albeit with a slight fuzziness to the edge as the blade streams across the top of the anti-clockwise rotating GRS).\r\n\r\nBoth images were created from 10 x 90s images stacks, de-rotated in WinJUPOS.",
+    "h": 523,
+    "hash": null,
+    "id": 407221,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-05-25T12:51:07.049144",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/407221/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter: changes in GRS over 20 hours",
+    "updated": "2021-03-17T10:51:13.094236",
+    "uploaded": "2019-05-25T13:37:53.879138",
+    "url_duckduckgo": "https://www.astrobin.com/407221/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/407221/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/407221/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/407221/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/407221/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/407221/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/407221/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/407221/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 577,
+    "w": 945
+}

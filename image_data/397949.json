@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Jupiter one week before 2018 opposition - 9 minute WinJUPOS composite, South on top.\r\n\r\nBeen looking into last year's unprocessed ZWO ASI224MC data.  Bit of an experiment here - undersampled F20 shot of Jupiter from 2 May, drizzle and non-drizzle versions compared.\r\n\r\nI've derotated 3x180s stacks with the planet nearing the meridian. Effective time span is 12 minutes (3,300 frames) as I've skipped one interval due to noise. Nice detail throughout the disk with Oval BA and dark spots in NNTeZ prominent.",
+    "h": 870,
+    "hash": null,
+    "id": 397949,
+    "imaging_cameras": [
+        "ZWO ASI 224 MC"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808649/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-03-29T11:35:54.969901",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/397949/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter 2 May 2018 - 9 min WinJ composite of drizzle and non-drizzle stacks - South up",
+    "updated": "2021-03-17T11:34:41.150867",
+    "uploaded": "2019-03-29T11:33:42.635672",
+    "url_duckduckgo": "https://www.astrobin.com/397949/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397949/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397949/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397949/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397949/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397949/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397949/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/397949/0/rawthumb/thumb/",
+    "user": "Seb",
+    "views": 266,
+    "w": 967
+}

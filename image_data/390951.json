@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.351",
+    "description": "",
+    "h": 1437,
+    "hash": null,
+    "id": 390951,
+    "imaging_cameras": [
+        "Moravian Instruments G2-3200"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810234/"
+    ],
+    "orientation": "268.574",
+    "pixscale": "0.882",
+    "published": "2019-02-15T12:23:01.207477",
+    "ra": "210.793",
+    "radius": "0.316",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/390951/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457"
+    ],
+    "title": "M101 Vr blended",
+    "updated": "2021-03-17T12:06:15.659301",
+    "uploaded": "2019-02-15T12:23:01.505319",
+    "url_duckduckgo": "https://www.astrobin.com/390951/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390951/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390951/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390951/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390951/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390951/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390951/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17661/2019/2f962f1a-296d-439a-8cf3-4895c6bb3c38.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17661/2019/2f962f1a-296d-439a-8cf3-4895c6bb3c38-1582384790.png",
+    "url_thumb": "https://www.astrobin.com/390951/0/rawthumb/thumb/",
+    "user": "starrybird",
+    "views": 309,
+    "w": 2148
+}

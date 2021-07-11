@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "70.238",
+    "description": " For some fun as my forecast deteriorates, I have processed my 4 panel Luminance mosaic of part of - I think - Mandel Wilson 3, The Volcano Nebula, alongside M81 and M82. \r\n\r\nI have unashamedly pushed the stretch to highlight the very faint IFN to reveal the structure, especially the bulk of the Mandel Wilson nebula ;-).  There are only 12 x 600s Luminance in each panel giving 8 hours total and much more is needed to lower the noise and help elevate the IFN above the background floor.  So don't go pixel peeping and expect a smooth image, LOL!\r\n\r\nIt helps having the fast FSQ106 at F3.6 and I have nursed an hour here, a couple of hours there as the moon has been rising later.  There have been gaps in the high thin cloud and it is great to be imaging regularly even if it is for only an hour or two at a time.  Gradients of course had to be fought and the data bludgeoned a bit to reveal the detail.  I hope to be able to double the Lum time - not sure if I'll be able to add any colour this year.  A lot of 300s will also help the noise and to control stellar artefacts from the long-ish 600s subs, so I may experiment. \r\n\r\nRev B: additional 600s and 300s Luminance subs added and I acquired new Flats which has certainly helped when re-calibrating and processing the data.\r\n\r\nI have started to capture RGB, but have a long way to go . . .",
+    "h": 1356,
+    "hash": null,
+    "id": 292671,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "https://barrywilson.smugmug.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803531/"
+    ],
+    "orientation": "90.960",
+    "pixscale": "2.861",
+    "published": "2017-04-21T19:15:53.989403",
+    "ra": "144.664",
+    "radius": "2.941",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292671/",
+    "revisions": [
+        "/api/v1/imagerevision/115328/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 2976",
+        "NGC 2985",
+        "NGC 3027",
+        "NGC 3031",
+        "NGC 3034",
+        "The star 22UMa",
+        "The star 24UMa",
+        "The star 27UMa"
+    ],
+    "title": "Mandel-Wilson 3 The Volcano Nebula, M81 & M82 IFN - Lum WIP 4 panel mosaic",
+    "updated": "2021-03-17T21:07:12.160049",
+    "uploaded": "2017-04-21T20:15:54.843542",
+    "url_duckduckgo": "https://www.astrobin.com/292671/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292671/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292671/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292671/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292671/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292671/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292671/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/dcf77901-f749-482c-a4f6-34b2cf77490a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dcf77901-f749-482c-a4f6-34b2cf77490a-1492802315.jpg",
+    "url_thumb": "https://www.astrobin.com/292671/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 391,
+    "w": 1824
+}

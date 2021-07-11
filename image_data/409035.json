@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "32.538",
+    "description": "I tried to accumulate as many images as possible over 4/5 nights. I ended with about 50 images for each LRGB channel. However, I had to set different CCD temperatures as the nights became very hot. Hence a pre-processing which can be improved.",
+    "h": 1988,
+    "hash": null,
+    "id": 409035,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800442/"
+    ],
+    "orientation": "2.080",
+    "pixscale": "1.054",
+    "published": "2019-06-06T05:12:12.666716",
+    "ra": "190.525",
+    "radius": "0.373",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409035/",
+    "revisions": [
+        "/api/v1/imagerevision/181779/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631"
+    ],
+    "title": "NGC4631",
+    "updated": "2021-04-23T17:20:11.484559",
+    "uploaded": "2019-06-06T06:02:22.060097",
+    "url_duckduckgo": "https://www.astrobin.com/409035/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409035/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409035/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409035/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409035/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409035/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409035/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6737/2020/8735f23a-bf93-4b8a-bccd-43427516dc22.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6737/2020/8735f23a-bf93-4b8a-bccd-43427516dc22-1582622946.jpg",
+    "url_thumb": "https://www.astrobin.com/409035/0/rawthumb/thumb/",
+    "user": "christian.hennes",
+    "views": 176,
+    "w": 1598
+}

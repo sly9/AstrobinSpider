@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-41.108",
+    "description": "1/1.8\" sensor did not allow full capture of the outer NGC 1291 ring, however it gave a close up of the inner core. I've tried to keep this image as close to the raw data as possible - post processing mainly to lower excessive LP, optical aberrations, and thermal noise from non-cooled OSC (or should it be uncooled? Bit of a negative undertone to it...I digress).",
+    "h": 738,
+    "hash": "7xwj4m",
+    "id": 452785,
+    "imaging_cameras": [
+        "ZWO ASI 178MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8 XLT SCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809808/"
+    ],
+    "orientation": "269.752",
+    "pixscale": "0.649",
+    "published": "2020-02-02T22:16:29.570965",
+    "ra": "49.329",
+    "radius": "0.121",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/452785/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1269",
+        "NGC1291"
+    ],
+    "title": "NGC 1269",
+    "updated": "2021-05-10T19:21:38.906017",
+    "uploaded": "2020-02-02T01:52:53.494195",
+    "url_duckduckgo": "https://www.astrobin.com/7xwj4m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7xwj4m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7xwj4m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7xwj4m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7xwj4m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7xwj4m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7xwj4m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29440/2020/d72fda6b-4094-4208-bf5e-c19c7eb36837.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29440/2020/d72fda6b-4094-4208-bf5e-c19c7eb36837-1587729765.jpeg",
+    "url_thumb": "https://www.astrobin.com/7xwj4m/0/rawthumb/thumb/",
+    "user": "aikd",
+    "views": 163,
+    "w": 1123
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-30.282",
+    "description": "I've been spending quite a bit of time processing this data to try and achieve the best I can from it. not entirely happy with the result here still but a work in progress.\r\n\r\nIt's the first image series having moved my telescope to a new remote and dark sky location, so am learning what is normal. The dark skies has lead to fainter detail coming out in the galaxy than I am used to, at least I think so.\r\n\r\nThe defined edge(s) to the galaxy top right are surprising and somethin I am working on to ensure they are not an artefact. I have to wonder if there is some form of posterization however all data is being processed in 32bit and best I can tell, be it in PixInsight or CCDStack, the lines appear from the raw data, but are only evident in a stack due to the faint nature.\r\n\r\nI have significant RGB data but have not been happy with any renditions of that so far.",
+    "h": 1062,
+    "hash": "cfhxrv",
+    "id": 447039,
+    "imaging_cameras": [
+        "SBIG ST8-XME"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 12\" EMC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808161/"
+    ],
+    "orientation": "178.935",
+    "pixscale": "0.840",
+    "published": "2020-01-04T14:20:38.846562",
+    "ra": "41.576",
+    "radius": "0.221",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/447039/",
+    "revisions": [
+        "/api/v1/imagerevision/206081/"
+    ],
+    "subjects": [
+        "NGC 1097"
+    ],
+    "title": "NGC 1097",
+    "updated": "2021-03-17T05:44:26.868751",
+    "uploaded": "2020-01-04T14:04:53.997025",
+    "url_duckduckgo": "https://www.astrobin.com/cfhxrv/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cfhxrv/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cfhxrv/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cfhxrv/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cfhxrv/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cfhxrv/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cfhxrv/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8583/2020/3f3139b0-e75a-4df8-b185-a8778ef57c19.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8583/2020/3f3139b0-e75a-4df8-b185-a8778ef57c19-1590595488.jpg",
+    "url_thumb": "https://www.astrobin.com/cfhxrv/0/rawthumb/thumb/",
+    "user": "roger@rogergroom.com",
+    "views": 144,
+    "w": 1572
+}

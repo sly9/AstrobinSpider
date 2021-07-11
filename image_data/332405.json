@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "13.212",
+    "description": "Still working on some flexure issues.  Fighting with poor skies as well.",
+    "h": 3351,
+    "hash": null,
+    "id": 332405,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVR90T Raptor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800622/"
+    ],
+    "orientation": "0.410",
+    "pixscale": "0.883",
+    "published": "2018-02-06T02:05:43.457524",
+    "ra": "112.252",
+    "radius": "0.671",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332405/",
+    "revisions": [
+        "/api/v1/imagerevision/136329/",
+        "/api/v1/imagerevision/136457/",
+        "/api/v1/imagerevision/136763/"
+    ],
+    "subjects": [
+        "NGC2395",
+        "PK205+14.1",
+        "Sh2-274"
+    ],
+    "title": "Abell 21 - Medusa Nebula SHO",
+    "updated": "2021-05-04T20:29:51.046640",
+    "uploaded": "2018-02-06T01:57:45.949316",
+    "url_duckduckgo": "https://www.astrobin.com/332405/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332405/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332405/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332405/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332405/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332405/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332405/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3082/2020/c030ea26-bffd-4acc-9475-07fc56f0705d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3082/2020/c030ea26-bffd-4acc-9475-07fc56f0705d-1582014251.jpg",
+    "url_thumb": "https://www.astrobin.com/332405/0/rawthumb/thumb/",
+    "user": "ruccdu",
+    "views": 283,
+    "w": 4451
+}

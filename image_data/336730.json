@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "PRO_DATA",
+    "dec": "8.892",
+    "description": "First Liverpool Telescope data that I processed this year. Data is from 20150329-20170504 taken with the Bessell V, Bessell B, sdss-r and sdss-g filters. \r\n\r\nI have not seen many other good images of this galaxy from earth-bound scopes, with the notable exception of one from Adam Block. This is a 2 m f/10 RC scope = a focal length of 20 meters. So for most telescopes this will be a very small galaxy.",
+    "h": 1757,
+    "hash": null,
+    "id": 336730,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 56,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "359.983",
+    "pixscale": "0.403",
+    "published": "2018-03-09T15:46:48.327351",
+    "ra": "204.383",
+    "radius": "0.140",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336730/",
+    "revisions": [
+        "/api/v1/imagerevision/139225/",
+        "/api/v1/imagerevision/139228/",
+        "/api/v1/imagerevision/144153/"
+    ],
+    "subjects": [
+        "NGC 5248"
+    ],
+    "title": "NGC5248",
+    "updated": "2021-05-06T15:29:54.113431",
+    "uploaded": "2018-03-09T15:46:49.951681",
+    "url_duckduckgo": "https://www.astrobin.com/336730/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336730/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336730/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336730/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336730/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336730/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336730/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16731/2018/cffc83be-0e1f-4822-8637-8127397f572f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16731/2018/cffc83be-0e1f-4822-8637-8127397f572f-1582579485.jpg",
+    "url_thumb": "https://www.astrobin.com/336730/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 297,
+    "w": 1786
+}

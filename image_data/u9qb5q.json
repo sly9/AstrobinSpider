@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "68.103",
+    "description": "This is the first time I imaged the hidden galaxy.\r\nThe image is a Ha-L-RGB(OSC)",
+    "h": 1164,
+    "hash": "u9qb5q",
+    "id": 435505,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 268,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.247",
+    "pixscale": "1.211",
+    "published": "2019-10-28T15:15:40.784981",
+    "ra": "56.681",
+    "radius": "0.351",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/435505/",
+    "revisions": [],
+    "subjects": [
+        "IC 342"
+    ],
+    "title": "IC 342 The hidden galaxy",
+    "updated": "2021-07-08T14:31:26.642736",
+    "uploaded": "2019-10-28T15:00:53.970387",
+    "url_duckduckgo": "https://www.astrobin.com/u9qb5q/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/u9qb5q/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/u9qb5q/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/u9qb5q/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/u9qb5q/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/u9qb5q/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/u9qb5q/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/da1ef2c0-f009-4dc2-be59-e1682c0dac30.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/da1ef2c0-f009-4dc2-be59-e1682c0dac30-1582640278.jpg",
+    "url_thumb": "https://www.astrobin.com/u9qb5q/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 889,
+    "w": 1734
+}

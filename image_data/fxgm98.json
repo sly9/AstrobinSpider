@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "56.000",
+    "description": null,
+    "h": 5446,
+    "hash": "fxgm98",
+    "id": 602638,
+    "imaging_cameras": [
+        "ZWO ASI294MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 18,
+    "link": null,
+    "link_to_fits": null,
+    "locations": [
+        "/api/v1/location/2813751/"
+    ],
+    "orientation": "179.369",
+    "pixscale": "0.597",
+    "published": "2021-07-08T22:35:09.151650",
+    "ra": "334.579",
+    "radius": "0.638",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/602638/",
+    "revisions": [],
+    "subjects": [
+        "B369",
+        "Sh2-132"
+    ],
+    "title": "Showdown in Sharpless 2-132",
+    "updated": "2021-07-10T07:18:45.343104",
+    "uploaded": "2021-07-08T22:18:38.076708",
+    "url_duckduckgo": "https://www.astrobin.com/fxgm98/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/fxgm98/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/fxgm98/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/fxgm98/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/fxgm98/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/fxgm98/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/fxgm98/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/71809/2021/409e3e80-d898-4787-a8b1-0a7b96ba8c8e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/71809/2021/409e3e80-d898-4787-a8b1-0a7b96ba8c8e-1625783496.png",
+    "url_thumb": "https://www.astrobin.com/fxgm98/0/rawthumb/thumb/",
+    "user": "neverfox",
+    "views": 57,
+    "w": 5446
+}

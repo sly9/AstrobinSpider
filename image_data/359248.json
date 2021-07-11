@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.637",
+    "description": "Site : Gunwigoon, KOREA\r\nTelescope : FSQ106ED\r\nMount : Rainbowastro RST400\r\nCamera : Moravian G4 16000, Lodestarx2\r\nExposeure : Ha 31 x 900s, Oiii 34 x 900s",
+    "h": 1956,
+    "hash": null,
+    "id": 359248,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806211/"
+    ],
+    "orientation": "11.065",
+    "pixscale": "3.083",
+    "published": "2018-08-02T03:05:22.215709",
+    "ra": "312.977",
+    "radius": "2.512",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/359248/",
+    "revisions": [
+        "/api/v1/imagerevision/152708/"
+    ],
+    "subjects": [
+        "Filamentary nebula",
+        "IC 1340",
+        "Lace-work nebula",
+        "NGC 6960",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "Veil Nebula",
+    "updated": "2021-03-17T14:36:42.643273",
+    "uploaded": "2018-08-02T04:05:22.580866",
+    "url_duckduckgo": "https://www.astrobin.com/359248/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/359248/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/359248/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/359248/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/359248/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/359248/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/359248/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17550/2018/780c1cd5-0989-496f-9c79-44b52bc4cf33.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/780c1cd5-0989-496f-9c79-44b52bc4cf33-1533183044.jpg",
+    "url_thumb": "https://www.astrobin.com/359248/0/rawthumb/thumb/",
+    "user": "Minseok.Chang",
+    "views": 294,
+    "w": 1824
+}

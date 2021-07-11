@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "-36.125",
+    "description": "Many thanks to all the Sadr team for the acquisition of 811 subs of 300s in L,  and RGB Bin1 taken during one year span from October 2018 and October 2019 with the 14'' newton setup of Sadr Observatory in Chili during 21 nights.\r\n\r\nI only kept the 297 best subs with FWHM and eccentricity criterias which represents 25.4 hours of exposure.\r\n\r\nRed 26 subs@300s -20°C gain high\r\nBlue 31 subs@300s -20°C gain high\r\nGreen 40 subs@300s -20°C gain high\r\nLight 208 subs@300s -20°C, gain high\r\n\r\nNGC 1365 is barred spiral galaxy and most beautiful member of Fornax cluster.",
+    "h": 3355,
+    "hash": "4p19s2",
+    "id": 444152,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "https://www.sadr.fr/sadr/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "358.800",
+    "pixscale": "0.695",
+    "published": "2019-12-21T08:55:39.453616",
+    "ra": "53.400",
+    "radius": "0.519",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/444152/",
+    "revisions": [
+        "/api/v1/imagerevision/204229/",
+        "/api/v1/imagerevision/204232/",
+        "/api/v1/imagerevision/204233/"
+    ],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "NGC1365 in Fornax -  Sadr Chili",
+    "updated": "2021-07-06T19:34:03.146521",
+    "uploaded": "2019-12-20T23:24:31.330047",
+    "url_duckduckgo": "https://www.astrobin.com/4p19s2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4p19s2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4p19s2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4p19s2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4p19s2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4p19s2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4p19s2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/ca92393c-166f-4902-b7ea-482cb6878441.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/ca92393c-166f-4902-b7ea-482cb6878441-1582284850.jpg",
+    "url_thumb": "https://www.astrobin.com/4p19s2/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 635,
+    "w": 4202
+}

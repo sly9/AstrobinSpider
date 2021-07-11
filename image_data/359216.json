@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "22.723",
+    "description": "Unguided image using C14 Edge/w Hyperstar on Paramount MX+ with ASI183M camera\r\n\r\n1.33 Hrs each of R,G,B as 60sec subs\r\n1.7 Hrs Lum as 45sec subs\r\n6.4 Hrs Ha as 2min subs\r\n4.66 Hrs O3 as 2min subs",
+    "h": 3972,
+    "hash": null,
+    "id": 359216,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "89.921",
+    "pixscale": "0.361",
+    "published": "2018-08-01T22:28:10.164531",
+    "ra": "299.904",
+    "radius": "0.395",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/359216/",
+    "revisions": [
+        "/api/v1/imagerevision/152288/",
+        "/api/v1/imagerevision/152462/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M27 LRGB+Ha+O3",
+    "updated": "2021-03-17T14:36:50.977664",
+    "uploaded": "2018-08-01T23:28:10.983801",
+    "url_duckduckgo": "https://www.astrobin.com/359216/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/359216/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/359216/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/359216/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/359216/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/359216/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/359216/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/fc6f9840-af40-4a07-90b5-da47287df33d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fc6f9840-af40-4a07-90b5-da47287df33d-1533166772.jpg",
+    "url_thumb": "https://www.astrobin.com/359216/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 727,
+    "w": 6806
+}

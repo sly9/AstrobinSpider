@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "-63.420",
+    "description": "Added a few hours of NB data to an image from last year, using a different camera. Last years is with an Apogee U8300 (0.89\"/pixel), and this year with a QHY163M (0.626\"/pixel). Everything was registered to the smaller pixel resolution, and since the presented image is a rather small crop, I did a 33% upscale (hence the 0.4\"/pixel result).",
+    "h": 3000,
+    "hash": "i9fd31",
+    "id": 461332,
+    "imaging_cameras": [
+        "Apogee Alta U8300",
+        "QHY 163M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "318.216",
+    "pixscale": "0.405",
+    "published": "2020-03-02T21:16:18.989105",
+    "ra": "174.666",
+    "radius": "0.281",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/461332/",
+    "revisions": [],
+    "subjects": [
+        "IC 2948",
+        "lambda Cen nebula"
+    ],
+    "title": "Globules in IC2944",
+    "updated": "2021-03-17T04:34:09.016906",
+    "uploaded": "2020-03-02T21:16:19.324038",
+    "url_duckduckgo": "https://www.astrobin.com/i9fd31/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i9fd31/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i9fd31/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i9fd31/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i9fd31/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i9fd31/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i9fd31/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2020/6c2459b2-3f95-4748-873d-757fd9d3a238.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2020/6c2459b2-3f95-4748-873d-757fd9d3a238-1583184119.JPG",
+    "url_thumb": "https://www.astrobin.com/i9fd31/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 373,
+    "w": 3999
+}

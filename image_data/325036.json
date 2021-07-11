@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "68.098",
+    "description": "",
+    "h": 1446,
+    "hash": null,
+    "id": 325036,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 233,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808190/"
+    ],
+    "orientation": "0.777",
+    "pixscale": "0.633",
+    "published": "2017-12-08T06:33:18.958590",
+    "ra": "56.706",
+    "radius": "0.420",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325036/",
+    "revisions": [],
+    "subjects": [
+        "IC 342"
+    ],
+    "title": "IC342",
+    "updated": "2021-04-24T10:13:08.681546",
+    "uploaded": "2017-12-08T06:33:19.866454",
+    "url_duckduckgo": "https://www.astrobin.com/325036/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325036/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325036/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325036/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325036/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325036/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325036/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/65574d0e-0154-4313-a5a0-8ecf304a6a00.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/65574d0e-0154-4313-a5a0-8ecf304a6a00-1512715132.jpg",
+    "url_thumb": "https://www.astrobin.com/325036/0/rawthumb/thumb/",
+    "user": "boximer",
+    "views": 1018,
+    "w": 1824
+}

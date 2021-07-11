@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-13.213",
+    "description": "Mount: Astro-Physics 1100GTO\r\nTelescope: Astro-Tech RC8\r\nCamera: SBIG STF-8300 with OAG+FW8-8300 filter wheel\r\nGuide camera: SBIG OAG-8300+Lodestar X2 with Kiss focuser\r\nFilter: Astrodon 3 nm Ha and O3 \r\nExposure time:\r\nHa: 37*20 min\r\nO3: 43*20 min,\r\nPost processing in Pixinsight and photoshop\r\nC&C are welcomes",
+    "h": 2880,
+    "hash": "1ajeuh",
+    "id": 456396,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812642/"
+    ],
+    "orientation": "90.047",
+    "pixscale": "0.599",
+    "published": "2020-02-21T22:42:59.824340",
+    "ra": "109.671",
+    "radius": "0.339",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/456396/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2359"
+    ],
+    "title": "NGC2359 Thor's Helmet",
+    "updated": "2021-05-26T15:04:07.905309",
+    "uploaded": "2020-02-21T22:43:00.036987",
+    "url_duckduckgo": "https://www.astrobin.com/1ajeuh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1ajeuh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1ajeuh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1ajeuh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1ajeuh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1ajeuh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1ajeuh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31027/2020/662625f4-67fd-4d69-98fa-641659079725.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31027/2020/662625f4-67fd-4d69-98fa-641659079725-1582326967.jpg",
+    "url_thumb": "https://www.astrobin.com/1ajeuh/0/rawthumb/thumb/",
+    "user": "syxbach",
+    "views": 222,
+    "w": 2880
+}

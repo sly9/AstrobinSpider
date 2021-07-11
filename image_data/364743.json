@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.391",
+    "description": "Another Ha image of IC1805. I thought it would be nice to share a partial work while working on a bigger project. I had a couple of clear nights and got a chance to test my new rig with different settings. The result presented here is an integration of 80 subs with attention to FHWM values. Surprisingly, there was not much of a difference in the resolution between integrations of 30 and 80 subs, at least not as much as I expected, however the noise droped down to some degree and the final result looked a bit more clear.",
+    "h": 2722,
+    "hash": null,
+    "id": 364743,
+    "imaging_cameras": [
+        "ZWO ASI1600MM"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 120 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805625/"
+    ],
+    "orientation": "96.874",
+    "pixscale": "1.180",
+    "published": "2018-09-04T06:02:14.479498",
+    "ra": "38.461",
+    "radius": "0.739",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/364743/",
+    "revisions": [
+        "/api/v1/imagerevision/155303/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC1805 Ha",
+    "updated": "2021-03-17T14:10:18.462355",
+    "uploaded": "2018-09-03T20:53:55.143652",
+    "url_duckduckgo": "https://www.astrobin.com/364743/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/364743/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/364743/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/364743/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/364743/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/364743/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/364743/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18064/2018/49bf6dc3-f8f8-4225-8dd4-09f1e0a819ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18064/2018/49bf6dc3-f8f8-4225-8dd4-09f1e0a819ff-1582483560.jpg",
+    "url_thumb": "https://www.astrobin.com/364743/0/rawthumb/thumb/",
+    "user": "mtau",
+    "views": 158,
+    "w": 3600
+}

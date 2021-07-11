@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "20.550",
+    "description": "NGC 2174, also known as the Monkey Head Nebula, lies about 6,400 light years away in the Orion constellation, somewhat near the head of Orion.  This emission nebula earns its distinctive shape from the hot, newborn stars near the center emitting ultraviolet light that eats at the large cloud of surrounding hydrogen gas.  \r\nFor this image, I again opted for bi-color, as both the hydrogen alpha and Oiii signals were quite strong.  The oxygen was so strong, in fact, that I only gathered about 4 hours' worth of data on it, which is fairly low for me. Processing on this was fun, as there was so much detail to be gleaned from the many different structures present within the nebula.",
+    "h": 1379,
+    "hash": null,
+    "id": 398088,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Orion Optics UK CT8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809103/"
+    ],
+    "orientation": "276.253",
+    "pixscale": "0.773",
+    "published": "2019-03-30T03:14:25.235519",
+    "ra": "92.462",
+    "radius": "0.544",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/398088/",
+    "revisions": [
+        "/api/v1/imagerevision/174783/",
+        "/api/v1/imagerevision/174786/",
+        "/api/v1/imagerevision/174862/",
+        "/api/v1/imagerevision/174957/",
+        "/api/v1/imagerevision/241948/",
+        "/api/v1/imagerevision/243818/",
+        "/api/v1/imagerevision/243968/"
+    ],
+    "subjects": [
+        "IC2159",
+        "NGC 2174",
+        "NGC 2175",
+        "NGC2174",
+        "NGC2175",
+        "Sh2-252"
+    ],
+    "title": "NGC 2174 (Monkey Head Nebula)",
+    "updated": "2021-07-09T01:56:15.128136",
+    "uploaded": "2019-03-30T03:14:26.143541",
+    "url_duckduckgo": "https://www.astrobin.com/398088/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/398088/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/398088/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/398088/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/398088/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/398088/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/398088/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/dd355507-0393-4541-9a2a-385db7e32d9e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dd355507-0393-4541-9a2a-385db7e32d9e-1553916390.jpg",
+    "url_thumb": "https://www.astrobin.com/398088/0/rawthumb/thumb/",
+    "user": "Tuckie",
+    "views": 582,
+    "w": 1824
+}

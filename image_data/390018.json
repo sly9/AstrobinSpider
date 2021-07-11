@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "33.477",
+    "description": "",
+    "h": 1688,
+    "hash": null,
+    "id": 390018,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 112,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804066/"
+    ],
+    "orientation": "179.276",
+    "pixscale": "2.558",
+    "published": "2019-02-09T22:12:47.627546",
+    "ra": "80.583",
+    "radius": "0.990",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/390018/",
+    "revisions": [
+        "/api/v1/imagerevision/170106/",
+        "/api/v1/imagerevision/170280/"
+    ],
+    "subjects": [
+        "IC 410",
+        "NGC 1893",
+        "The star 19Aur"
+    ],
+    "title": "IC410 SHO",
+    "updated": "2021-03-17T12:10:29.775260",
+    "uploaded": "2019-02-09T22:12:47.812013",
+    "url_duckduckgo": "https://www.astrobin.com/390018/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390018/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390018/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390018/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390018/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390018/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390018/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6255/2019/7ded1445-39b2-4190-9214-0857164f5ddf.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6255/2019/7ded1445-39b2-4190-9214-0857164f5ddf-1582589754.png",
+    "url_thumb": "https://www.astrobin.com/390018/0/rawthumb/thumb/",
+    "user": "JesusMagdalena",
+    "views": 587,
+    "w": 2216
+}

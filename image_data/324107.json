@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.335",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilter : Astrodon true-balance gen2 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposre : L 600s x 67(1x1bin), RGB each 600s x 33(2x2bin) total 27h 40m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)\r\nDate : 22/Nov/2017, 23/Nov/2017, 24/Nov/2017, 25/Nov/2017, 26/Nov/2017",
+    "h": 3900,
+    "hash": null,
+    "id": 324107,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "204.823",
+    "pixscale": "0.731",
+    "published": "2017-11-29T23:49:32.114492",
+    "ra": "35.640",
+    "radius": "0.287",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/324107/",
+    "revisions": [],
+    "subjects": [
+        "NGC 891"
+    ],
+    "title": "NGC891",
+    "updated": "2021-03-17T19:02:02.175169",
+    "uploaded": "2017-11-29T23:49:32.661123",
+    "url_duckduckgo": "https://www.astrobin.com/324107/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324107/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324107/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324107/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324107/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324107/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324107/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7d8dbe07-dde9-4d44-9865-a77428a11308.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7d8dbe07-dde9-4d44-9865-a77428a11308-1511999539.jpg",
+    "url_thumb": "https://www.astrobin.com/324107/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 390,
+    "w": 3900
+}

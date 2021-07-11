@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.660",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803\r\nMount : RainbowAstro RST-400\r\nFilters : Astrodon 50mm square true balance gen2 LRGB, Ha 3nm\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposure : L 600s x 32(1x1bin), RGB each 600 x 16(1x1bin), Ha 1200s x 31(1x1bin) total 23h 40m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)",
+    "h": 4000,
+    "hash": "lmhsqk",
+    "id": 440274,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "270.111",
+    "pixscale": "0.731",
+    "published": "2019-11-25T01:52:34.617759",
+    "ra": "23.462",
+    "radius": "0.574",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/440274/",
+    "revisions": [],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 LRGB Ha enhanced",
+    "updated": "2021-03-17T06:17:54.206412",
+    "uploaded": "2019-11-25T01:52:34.888073",
+    "url_duckduckgo": "https://www.astrobin.com/lmhsqk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lmhsqk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lmhsqk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lmhsqk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lmhsqk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lmhsqk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lmhsqk/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/897b875f-0140-4cc6-9c04-42c6631c9c5b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/897b875f-0140-4cc6-9c04-42c6631c9c5b-1582290150.jpg",
+    "url_thumb": "https://www.astrobin.com/lmhsqk/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 350,
+    "w": 4000
+}

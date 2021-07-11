@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "68.185",
+    "description": "ngc 7023 iris RC10 / Background e-180\r\n\r\nObject : NGC7023 iris nebula\r\nDate : Sept.2018-Nov.2019  (RC10), Apr2019-May 2019 (e-180)\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67,Tak e-180\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)RC10,ZWO ASI094MC(-15ºC)e-180\r\nFilter : Astrodon LRGB \r\nExposure : R:300sx21, G:300sx25, B:300sx27, L:300sx59,~11.04hr RC10\r\n           RGB : 180sx102 ,RGB~5.1hr  e-180\r\nGuiding : OAG ASI174 /Borg 50 ASI174\r\nProcessing: PI、PS-CC",
+    "h": 4216,
+    "hash": "70r0bc",
+    "id": 445363,
+    "imaging_cameras": [
+        "ZWO ASI094MC-PRO",
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED",
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "https://astro-noodle.blogspot.com/2019/12/ngc-7023-iris-nebula-wide-field.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "269.427",
+    "pixscale": "1.994",
+    "published": "2019-12-28T07:21:01.908422",
+    "ra": "315.237",
+    "radius": "2.076",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/445363/",
+    "revisions": [
+        "/api/v1/imagerevision/280812/",
+        "/api/v1/imagerevision/281798/"
+    ],
+    "subjects": [
+        "NGC 7023",
+        "NGC7023",
+        "T Cep",
+        "VdB139"
+    ],
+    "title": "NGC 7023 Iris nebula  , wide field",
+    "updated": "2021-04-29T11:16:37.940298",
+    "uploaded": "2019-12-28T07:21:02.533747",
+    "url_duckduckgo": "https://www.astrobin.com/70r0bc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/70r0bc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/70r0bc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/70r0bc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/70r0bc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/70r0bc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/70r0bc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/e167eeb8-5946-4ee3-b172-c17420f0e294.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/e167eeb8-5946-4ee3-b172-c17420f0e294-1582283206.png",
+    "url_thumb": "https://www.astrobin.com/70r0bc/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 565,
+    "w": 6196
+}

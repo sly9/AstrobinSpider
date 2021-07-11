@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 35,
+    "data_source": "BACKYARD",
+    "dec": "61.188",
+    "description": "Due to weak OIII signal, this one was hard to process. There was very little contrast to the background because of the bright moon and my 12 nm OIII filter.",
+    "h": 2193,
+    "hash": null,
+    "id": 363813,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 234,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.252",
+    "pixscale": "0.534",
+    "published": "2018-08-29T13:32:39.893967",
+    "ra": "350.166",
+    "radius": "0.230",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/363813/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "Bubble Nebula NGC 7635 Ha - OIII",
+    "updated": "2021-03-17T14:14:16.435284",
+    "uploaded": "2018-08-29T14:32:40.334099",
+    "url_duckduckgo": "https://www.astrobin.com/363813/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/363813/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/363813/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/363813/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/363813/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/363813/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/363813/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d8912c3b-be8b-499d-8b93-a662ee73245c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d8912c3b-be8b-499d-8b93-a662ee73245c-1535553633.jpg",
+    "url_thumb": "https://www.astrobin.com/363813/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 773,
+    "w": 2193
+}

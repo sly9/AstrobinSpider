@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 25,
+    "comments": 28,
+    "data_source": "UNKNOWN",
+    "dec": "69.269",
+    "description": "This is a combination of all the M81 and M82 data collected over the past couple of years. The image was processed to bring out as much of the Integrated Flux Nebula (IFN) as possible. The data from the AP RH scope produced the bright IFN background and the RCOS produced the individual M81 and M82 images that were integrated into the final image.",
+    "h": 3379,
+    "hash": null,
+    "id": 350451,
+    "imaging_cameras": [
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph",
+        "RCOS 16\" RC f/9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 292,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "92.283",
+    "pixscale": "1.103",
+    "published": "2018-06-08T21:19:51.309138",
+    "ra": "149.026",
+    "radius": "0.838",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/350451/",
+    "revisions": [],
+    "subjects": [
+        "Bode's galaxy",
+        "Bode's nebulae",
+        "Cigar galaxy",
+        "M 81",
+        "M 82",
+        "M81",
+        "M82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 and M82 with Lots of IFN",
+    "updated": "2021-06-06T16:38:55.765565",
+    "uploaded": "2018-06-08T22:19:54.567755",
+    "url_duckduckgo": "https://www.astrobin.com/350451/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350451/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350451/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350451/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350451/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350451/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350451/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0c21d67a-00cb-4def-a22b-38fb8ea2ac94.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0c21d67a-00cb-4def-a22b-38fb8ea2ac94-1528493329.jpg",
+    "url_thumb": "https://www.astrobin.com/350451/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 1558,
+    "w": 4297
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "31.453",
+    "description": "",
+    "h": 2662,
+    "hash": null,
+    "id": 271685,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Borg 125SD f/3.9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799349/"
+    ],
+    "orientation": "292.590",
+    "pixscale": "1.611",
+    "published": "2016-11-10T20:52:07.052477",
+    "ra": "314.141",
+    "radius": "1.039",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271685/",
+    "revisions": [
+        "/api/v1/imagerevision/104451/",
+        "/api/v1/imagerevision/104545/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "Eastern Veil in SHO",
+    "updated": "2021-03-17T22:31:34.948388",
+    "uploaded": "2016-11-10T20:52:09.255793",
+    "url_duckduckgo": "https://www.astrobin.com/271685/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271685/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271685/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271685/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271685/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271685/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271685/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/370/2016/a67be8f6-32b2-4f3c-ba3c-63c8cd4a514a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/370/2016/a67be8f6-32b2-4f3c-ba3c-63c8cd4a514a-1582469590.png",
+    "url_thumb": "https://www.astrobin.com/271685/0/rawthumb/thumb/",
+    "user": "Wide-Field",
+    "views": 361,
+    "w": 3807
+}

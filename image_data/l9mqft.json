@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "51.574",
+    "description": "When I first tried this object, I found it difficult to expose any fine detail. RGB seemed a bit \"blurry\" and L had no additional detail.\r\n\r\nIt turned out Ha exposed some structure and OIII to a lesser extent.\r\n\r\nWhat you see here is RGB with a Hard Light Ha blend at 75%. I then did a screen blend of a starless OIII (no red channel) at 40%. This helped intensify the blues.\r\n\r\nOverall the star field color matches the RGB and the nebula color matches the RGB with a slightly more intense blue from the mild OIII blend.\r\n\r\n\r\n\"The Little Dumbbell Nebula is a planetary nebula in the constellation Perseus. It was discovered by Pierre Méchain in 1780 and included in Charles Messier's catalog of comet-like objects as number 76. It was first recognised as a planetary nebula in 1918 by the astronomer Heber Doust Curtis. However, there is some contention to this claim, as Isaac Roberts in 1891 did suggest that M76 might be similar to the Ring Nebula (M57), being instead as seen from the side view. The structure is now classed as a bipolar planetary nebula. Distance is currently estimated at 2,500 light years.\r\n\r\nThe Little Dumbbell Nebula derives its common name from its resemblance to the Dumbbell Nebula (M27) in Vulpecula. It was originally thought to consist of two separate emission nebulae and was thus given two catalog numbers in the NGC 650 and 651. Some consider this object to be one of the faintest and hardest to see objects in Messier's list.\"",
+    "h": 1241,
+    "hash": "l9mqft",
+    "id": 431670,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "178.184",
+    "pixscale": "0.469",
+    "published": "2019-10-06T01:35:30.376885",
+    "ra": "25.585",
+    "radius": "0.110",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/431670/",
+    "revisions": [],
+    "subjects": [
+        "Little Dumbbell",
+        "M 76",
+        "M76",
+        "NGC 650",
+        "NGC650",
+        "NGC651",
+        "PK130-10.1",
+        "The star 55Per"
+    ],
+    "title": "Little Dumbbell (M76)",
+    "updated": "2021-03-17T08:49:45.852989",
+    "uploaded": "2019-10-06T02:35:30.615748",
+    "url_duckduckgo": "https://www.astrobin.com/l9mqft/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l9mqft/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l9mqft/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l9mqft/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l9mqft/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l9mqft/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l9mqft/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/e3ca9286-8f12-43dc-9cd2-9abc9f106f4a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/e3ca9286-8f12-43dc-9cd2-9abc9f106f4a-1582620119.jpg",
+    "url_thumb": "https://www.astrobin.com/l9mqft/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 450,
+    "w": 1150
+}

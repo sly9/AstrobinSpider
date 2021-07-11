@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "31.360",
+    "description": "The FOV of iDK 10\" is too small for the Eastern Veil Nebula, even with a 36mm x 36mm CCD camera. Need 1 x 2 mosaic to capture the whole nebula.",
+    "h": 5764,
+    "hash": "zqy9ov",
+    "id": 602486,
+    "imaging_cameras": [
+        "QHYCCD QHY16803A"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10\" iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813928/"
+    ],
+    "orientation": "0.198",
+    "pixscale": "1.125",
+    "published": "2021-07-08T06:10:55.822506",
+    "ra": "313.970",
+    "radius": "1.039",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/602486/",
+    "revisions": [],
+    "subjects": [
+        "IC 1340",
+        "IC1340",
+        "NGC 6992",
+        "NGC 6995",
+        "NGC6992",
+        "NGC6995",
+        "Veil nebula"
+    ],
+    "title": "The Eastern Veil Nebula (NGC 6992 & NGC 6995), 1 x 2 Mosaic",
+    "updated": "2021-07-10T13:37:39.556282",
+    "uploaded": "2021-07-08T05:49:40.541178",
+    "url_duckduckgo": "https://www.astrobin.com/zqy9ov/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zqy9ov/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zqy9ov/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zqy9ov/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zqy9ov/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zqy9ov/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zqy9ov/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/74207/2021/c19b1426-7623-4158-9a3b-2caabd7105ee.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/74207/2021/c19b1426-7623-4158-9a3b-2caabd7105ee-1625724478.jpg",
+    "url_thumb": "https://www.astrobin.com/zqy9ov/0/rawthumb/thumb/",
+    "user": "joqiu",
+    "views": 47,
+    "w": 3322
+}

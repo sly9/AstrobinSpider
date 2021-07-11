@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-61.041",
+    "description": "",
+    "h": 4960,
+    "hash": null,
+    "id": 298897,
+    "imaging_cameras": [
+        "QSI 683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TSAPO65Q"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.780",
+    "pixscale": "1.317",
+    "published": "2017-06-25T11:46:46.141456",
+    "ra": "168.379",
+    "radius": "1.511",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298897/",
+    "revisions": [
+        "/api/v1/imagerevision/119106/",
+        "/api/v1/imagerevision/119107/",
+        "/api/v1/imagerevision/119155/",
+        "/api/v1/imagerevision/119751/"
+    ],
+    "subjects": [
+        "NGC 3572",
+        "NGC 3576",
+        "NGC 3590",
+        "NGC 3603"
+    ],
+    "title": "NGC3576 and NGC3603",
+    "updated": "2021-04-03T09:37:33.659625",
+    "uploaded": "2017-06-09T01:52:58.196673",
+    "url_duckduckgo": "https://www.astrobin.com/298897/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298897/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298897/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298897/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298897/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298897/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298897/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22751/2017/76155fdb-08de-4fcd-a144-9d999e05c15a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22751/2017/76155fdb-08de-4fcd-a144-9d999e05c15a-1582389361.jpg",
+    "url_thumb": "https://www.astrobin.com/298897/0/rawthumb/thumb/",
+    "user": "JB",
+    "views": 244,
+    "w": 6604
+}

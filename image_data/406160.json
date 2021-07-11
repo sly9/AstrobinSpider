@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "27.909",
+    "description": "Made RGB from ~50x180 each RGB.\r\nAdded 155+x300sec Ha & 138x300 O3 to that at linear stage.\r\nAbout 60% were framed 90 the rest  \"0\".\r\nMade a superluminance by just averaging all of the RGBHO masters using O3 has reference.\r\nDeconvoluted the SL.\r\nDid PCC to spiral galaxy on the linear RGB\r\nDid MLTNR at linear stage in with both the RGBHO and SL.\r\nMasked stretch each. Made RGB_L.\r\nTGVdenoise.\r\n\r\nThe goal was to see the darn galaxy through the nebula!",
+    "h": 1239,
+    "hash": null,
+    "id": 406160,
+    "imaging_cameras": [
+        "QSI 6120wsg-8 QSI6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/5 Newtonian Orion 8\" f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803757/"
+    ],
+    "orientation": "269.542",
+    "pixscale": "0.676",
+    "published": "2019-05-16T14:45:44.025714",
+    "ra": "246.890",
+    "radius": "0.259",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/406160/",
+    "revisions": [
+        "/api/v1/imagerevision/181214/"
+    ],
+    "subjects": [],
+    "title": "Abell 39 RGBHO in 32 hours",
+    "updated": "2021-03-17T10:56:00.214731",
+    "uploaded": "2019-05-16T15:45:44.171561",
+    "url_duckduckgo": "https://www.astrobin.com/406160/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406160/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406160/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406160/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406160/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406160/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406160/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13728/2019/fa07e5b2-ffbd-4eaa-8c65-1dc8f843299a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fa07e5b2-ffbd-4eaa-8c65-1dc8f843299a-1558021715.jpg",
+    "url_thumb": "https://www.astrobin.com/406160/0/rawthumb/thumb/",
+    "user": "nmrdude",
+    "views": 206,
+    "w": 1824
+}

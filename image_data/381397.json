@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": null,
+    "description": "NGC 1333 is a reflection nebula located at a distance of about 1000 ly in the Perseus Molecular Cloud.  This is a region where low-mass stars are forming and a number of low-mass brown dwarfs have been discovered here.  One particularly  interesting feature in this image is the fan shaped variable nebula illuminated by a pair of variable stars HBC-340 and HBC-341 located at the apex of the nebula.  Light from these stars illuminates a cavity in the molecular cloud, which varies in brightness with the brightness of the  illuminating stars.  Three Swiss amateur astronomers, Rainer Spaeni, Christian Rusch, and Egon Eisenring discovered the variable nature of this nebula in October, 2014.  This feature has since been named for them.  You can read more about this nebula in this paper:  http://iopscience.iop.org/article/10.3847/1538-3881/aa89eb/pdf.\r\n\r\nFor me, this was a long imaging project that spanned a couple of lunar cycles.  After some spectacular imaging conditions in the fall, the seeing began to fall apart as I started working on this object early in November.  It seemed that if the seeing was good, the wind was high and vice-versa.   On top of that, some of my camera problems have started creeping back.  For some reason, MaximDL will hang with a message that it is \"Waiting\" and another message box shows, \"Waiting for guider cycle\".  This condition completely hangs my system.  I can manually restart it and it will usually run for the rest of the night, but if it happens after I go to sleep, the scope hangs and I lose the rest of the night.  And of course, this only happens when the conditions are pretty good!  At first, I thought that it was temperature related so I wrapped the guide camera in Reflectix to try to keep it a bit warmer, but that didn't work at all.  I've torn my hair out over this issue for over a year and I'm running out of ideas.  It's brute force and ignorance, but I may just buy another guide came to see if that solves the problem.\r\n\r\nEither way, when the system was running, I often gathered 20+ subs only to find a single good one in the whole bunch due to poor conditions!  I haven't added up all the subs, but I probably gathered 100+ hours of data to get enough to process this image.  There's a lot of dark nebula so I lowered my standards a bit (to 2.5 arc-second FWHM) to get enough data to show the dark nebula without too much noise.  Even with all this data, this was still a challenging image to process.  Most of the interesting stuff is dark so the challenge is carefully controlling the noise in an acceptable way.  After staring at it for way too long, I start to have trouble telling whether or not I've got it right so hopefully it looks ok to you guys.   As usual, feel free to let me know what you think.\r\n\r\nJohn",
+    "h": 3824,
+    "hash": null,
+    "id": 381397,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 232,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-12-16T07:05:11.236121",
+    "ra": null,
+    "radius": null,
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/381397/",
+    "revisions": [],
+    "subjects": [],
+    "title": "NGC 1333 and Glowing Embers in the Perseus Molecular Cloud",
+    "updated": "2021-05-16T02:50:29.491429",
+    "uploaded": "2018-12-16T05:13:29.651469",
+    "url_duckduckgo": "https://www.astrobin.com/381397/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/381397/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/381397/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/381397/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/381397/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/381397/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/381397/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/381397/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1124,
+    "w": 3824
+}

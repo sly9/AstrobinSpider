@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.470",
+    "description": "Difficult to get the blue from an urban environment, for sure.  Lengthy acquisition and used Red HA max for red, then created RGB.  I used the new PI colorcalibration technique.",
+    "h": 2496,
+    "hash": null,
+    "id": 315762,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT10RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798180/"
+    ],
+    "orientation": "178.361",
+    "pixscale": "0.783",
+    "published": "2017-10-07T15:49:04.921046",
+    "ra": "79.111",
+    "radius": "0.427",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/315762/",
+    "revisions": [
+        "/api/v1/imagerevision/126899/",
+        "/api/v1/imagerevision/126901/",
+        "/api/v1/imagerevision/127139/"
+    ],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405"
+    ],
+    "title": "Sh2 229 IC 405 Flaming Star Nebula HARGB",
+    "updated": "2021-03-17T19:36:50.813401",
+    "uploaded": "2017-10-07T16:49:05.902653",
+    "url_duckduckgo": "https://www.astrobin.com/315762/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/315762/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/315762/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/315762/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/315762/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/315762/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/315762/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/71b5c085-7711-4b2b-8b86-1c567cff4382.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/71b5c085-7711-4b2b-8b86-1c567cff4382-1507392212.jpg",
+    "url_thumb": "https://www.astrobin.com/315762/0/rawthumb/thumb/",
+    "user": "jerryyyyy",
+    "views": 267,
+    "w": 3030
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "54.346",
+    "description": "After some changes at my 6 inch newtonian (secondary mirror heating removed, spider adjusted, collimation, added motor focus and replaced L filter with CLS filter), I captured luminance frames of M101 again to see if my adjustments made the desired improvements. I could aquire 52 L frames at the beginning of May, which turned to be significantly sharper than the frames I captured in February and March. \r\nThanks to Tommy Navratil's great explanations how to combine sharp and unsharp frames (by chance he also captured M101), I could combine all the frames I made this year into this new image.\r\n\r\nMaybe this is the maximum level of sharpness I can get out of my telescope. The only thing that not satisfies me is the color gradient in the two bright stars. I believe it is an artifact of the RGB data which I need to recapture sometime...",
+    "h": 2045,
+    "hash": null,
+    "id": 349791,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 150/750 PDS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.310",
+    "pixscale": "1.248",
+    "published": "2018-06-03T16:26:20.417038",
+    "ra": "210.790",
+    "radius": "0.565",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/349791/",
+    "revisions": [
+        "/api/v1/imagerevision/147119/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5477"
+    ],
+    "title": "M101 LRGB (old and new data mixed)",
+    "updated": "2021-06-13T09:14:45.761968",
+    "uploaded": "2018-06-03T16:41:02.817413",
+    "url_duckduckgo": "https://www.astrobin.com/349791/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/349791/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/349791/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/349791/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/349791/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/349791/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/349791/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9214/2018/ca1317b5-a974-4406-bbd2-db2bce4b4e01.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9214/2018/ca1317b5-a974-4406-bbd2-db2bce4b4e01-1582437602.jpg",
+    "url_thumb": "https://www.astrobin.com/349791/0/rawthumb/thumb/",
+    "user": "skyborg",
+    "views": 707,
+    "w": 2540
+}

@@ -1,0 +1,69 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.916",
+    "description": "makarian Galaxy chain\r\nTwo picture mosaic\r\nLRGB=20hoursx1\r\nLRGB=15hoursx1",
+    "h": 4208,
+    "hash": "erio20",
+    "id": 463813,
+    "imaging_cameras": [
+        "Atik Cameras Atik One 6.0M Plus OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA120"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809010/"
+    ],
+    "orientation": "92.857",
+    "pixscale": "1.064",
+    "published": "2020-03-08T07:50:16.364922",
+    "ra": "186.773",
+    "radius": "0.771",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/463813/",
+    "revisions": [
+        "/api/v1/imagerevision/218201/"
+    ],
+    "subjects": [
+        "IC 3393",
+        "M 84",
+        "M 86",
+        "NGC 4374",
+        "NGC 4387",
+        "NGC 4388",
+        "NGC 4402",
+        "NGC 4406",
+        "NGC 4407",
+        "NGC 4425",
+        "NGC 4435",
+        "NGC 4438",
+        "NGC 4458",
+        "NGC 4461"
+    ],
+    "title": "makarian Galaxy chain",
+    "updated": "2021-03-17T04:23:20.312320",
+    "uploaded": "2020-03-08T07:50:16.652881",
+    "url_duckduckgo": "https://www.astrobin.com/erio20/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/erio20/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/erio20/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/erio20/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/erio20/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/erio20/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/erio20/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27833/2020/aa80d5ea-04d7-4035-9a4e-8dc9f1073631.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27833/2020/aa80d5ea-04d7-4035-9a4e-8dc9f1073631-1583660914.jpg",
+    "url_thumb": "https://www.astrobin.com/erio20/0/rawthumb/thumb/",
+    "user": "bawind",
+    "views": 299,
+    "w": 3078
+}

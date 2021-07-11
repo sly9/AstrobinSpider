@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "47.297",
+    "description": "",
+    "h": 1422,
+    "hash": null,
+    "id": 328961,
+    "imaging_cameras": [
+        "Atik 460EX mono"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TSAPO 102 Flat"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805401/"
+    ],
+    "orientation": "268.125",
+    "pixscale": "1.731",
+    "published": "2018-01-10T19:59:56.882469",
+    "ra": "184.518",
+    "radius": "0.813",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328961/",
+    "revisions": [
+        "/api/v1/imagerevision/134518/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4220",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M 106",
+    "updated": "2021-03-17T16:51:52.781006",
+    "uploaded": "2018-01-10T19:40:39.033694",
+    "url_duckduckgo": "https://www.astrobin.com/328961/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328961/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328961/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328961/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328961/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328961/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328961/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17391/2018/1d89e39e-c30d-44de-9247-bcf71a9dc2d5.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1d89e39e-c30d-44de-9247-bcf71a9dc2d5-1515614101.png",
+    "url_thumb": "https://www.astrobin.com/328961/0/rawthumb/thumb/",
+    "user": "Matteo.Quadri",
+    "views": 145,
+    "w": 1824
+}

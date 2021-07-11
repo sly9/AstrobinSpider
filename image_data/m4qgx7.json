@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "31.398",
+    "description": "Telescope: Explorer scientific Ed 127 CF FCD-100\r\nCamera: ASI183pro\r\nFilters: Astrodon E series LRGB\r\nMount: Atlas EQ-G\r\nGuiding camera: 290 mini with Evo50\r\n \r\n \r\nL RGB: Lum in 3 sets 2:3:5min   26:85:18    then  rgb 44:27:38 3min\r\n \r\nTotal integration time: 12.05\r\nSeeing/ environment:2\r\nBortle Class: Class 5/6 Backyard~ Central Indiana\r\n \r\n \r\nDates of acquisition: 10/2,4,5,8,9/2019, and 12/22/19 for 1.5 hour of Lum\r\n \r\n \r\nprocessing: considerations.  MULTIPLE nights with good alignment (2 degree error allowed in SGP) flat and dark calibration on 12/22/19 off but salvaged\r\n \r\n6 master files \r\nCrop\r\nDBE\r\nRGB combine\r\nRGB workflow~PCC; MLT with 2 iterations 5/.85, 3.5/.75, 3/.5, 2/.25 (pretty heavy NR done); HT; 10% bg and SCNR\r\nSynth Lum with all 6 combine\r\nLum workflow~decon with autopsf 75 iterations 5 layers; MLT fairly heavy like the RGB but a slightly stronger protection mask over the brighter structures.\r\n \r\nLRGB combine: Bg at 10%; \r\nTGDVN\r\nCurves with game script masking for slight sat boost \r\nXPTR with game script mask for lum boost; MLT for sharpening.\r\nMorph to reduce the stars just a bit and ICC to end.  very lightly finished in Light room for selective brightening\r\n\r\nHope you enjoy",
+    "h": 3500,
+    "hash": "m4qgx7",
+    "id": 452130,
+    "imaging_cameras": [
+        "ZWO 183MM pro ASI 183 MM pro"
+    ],
+    "imaging_telescopes": [
+        "Expore Scientific 127mm APO refractor Explore Scientific Refractor 127mm FCD-100 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 151,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810993/"
+    ],
+    "orientation": "0.840",
+    "pixscale": "0.735",
+    "published": "2020-01-29T01:00:19.101985",
+    "ra": "52.290",
+    "radius": "0.505",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/452130/",
+    "revisions": [],
+    "subjects": [
+        "B205",
+        "NGC 1333",
+        "NGC1333"
+    ],
+    "title": "NGC 1333  reflection Nebula",
+    "updated": "2021-03-18T07:26:14.170173",
+    "uploaded": "2020-01-29T01:00:19.223128",
+    "url_duckduckgo": "https://www.astrobin.com/m4qgx7/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m4qgx7/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m4qgx7/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m4qgx7/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m4qgx7/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m4qgx7/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m4qgx7/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30306/2020/9d109f62-205c-4ea6-b496-1dac153e024d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30306/2020/9d109f62-205c-4ea6-b496-1dac153e024d-1582273953.jpg",
+    "url_thumb": "https://www.astrobin.com/m4qgx7/0/rawthumb/thumb/",
+    "user": "lowry_pt",
+    "views": 663,
+    "w": 3500
+}

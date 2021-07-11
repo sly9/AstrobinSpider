@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "9.609",
+    "description": "NGC 2264 and NGC 2261 (Christmas Tree Cluster, Cone Nebula, Fox Fur Nebula, and Hubble's Variable Nebula)\r\n\r\nThis is a HUGE star forming complex, filled with interesting structures and textures. These objects are located 2600 light years from Earth, in the Monoceros constellation just to the left of Orion. Hubble's Variable Nebula can be found on the upper right corner of the image.  The nebula changes it's shape and brightness very rapidly, fast enough to track changes if you image it over a couple weeks. It's thought that the variation is caused by the dense dust periodically blocking the star's light, causing changes to the shadows cast upon the dust.\r\n\r\nEquipment:\r\nFSQ-106N, AP1200GTO, QHY163M, Astrodon filters \r\n\r\nAcquired at MaRIO remote observatory\r\n\r\nAcquisition Details:\r\nHa (3nm): 179 x 300sec.\r\nOIII (3nm): 70 x 300sec.\r\nSII (7nm): 17 x 300sec.\r\nTotal integration: 22.2 hours",
+    "h": 3470,
+    "hash": null,
+    "id": 388518,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106N"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "105.056",
+    "pixscale": "1.485",
+    "published": "2019-01-30T18:57:53.641772",
+    "ra": "100.242",
+    "radius": "1.194",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/388518/",
+    "revisions": [
+        "/api/v1/imagerevision/169069/"
+    ],
+    "subjects": [
+        "15 S Mon",
+        "B39",
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "Hubble's variable neb",
+        "NGC 2261",
+        "NGC 2264",
+        "NGC2261",
+        "Sh2-273",
+        "The star 15Mon"
+    ],
+    "title": "Christmas Tree Cluster with Hubble's Variable Nebula (NGC 2264 and NGC 2261)",
+    "updated": "2021-03-18T08:52:42.315685",
+    "uploaded": "2019-01-30T18:57:54.156867",
+    "url_duckduckgo": "https://www.astrobin.com/388518/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388518/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388518/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388518/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388518/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388518/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388518/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21725/2019/87b22889-ecbc-4bcb-a18b-78985b064b58.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21725/2019/87b22889-ecbc-4bcb-a18b-78985b064b58-1582556567.png",
+    "url_thumb": "https://www.astrobin.com/388518/0/rawthumb/thumb/",
+    "user": "Chironi",
+    "views": 691,
+    "w": 4636
+}

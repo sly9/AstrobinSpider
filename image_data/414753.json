@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "40.463",
+    "description": "",
+    "h": 3600,
+    "hash": null,
+    "id": 414753,
+    "imaging_cameras": [
+        "SBIG STXL 16200",
+        "SBIG STT-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph",
+        "Astro-Physics AP 130mm f/6.3 Starfire EDF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "201.802",
+    "pixscale": "1.103",
+    "published": "2019-07-11T10:36:32.119298",
+    "ra": "306.529",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/414753/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6910",
+        "NGC6910",
+        "PK078+00.1",
+        "PK079+00.1"
+    ],
+    "title": "IC1318 - Hubble Palette",
+    "updated": "2021-03-17T10:14:05.455008",
+    "uploaded": "2019-07-11T11:36:32.422474",
+    "url_duckduckgo": "https://www.astrobin.com/414753/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414753/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414753/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414753/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414753/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414753/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414753/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/64bf82b5-813d-44bd-b5e0-b0c3796ec85a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/64bf82b5-813d-44bd-b5e0-b0c3796ec85a-1582518220.jpg",
+    "url_thumb": "https://www.astrobin.com/414753/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 463,
+    "w": 4500
+}

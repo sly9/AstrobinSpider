@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I animated the series of wide field images I made from 7 RGB runs of 90 secs per colour channel on 2019-09-15.\r\nTo do this I created a series of aligned stills from the WinJUPOS Ephemerides with the time stamps for each image of the animation. I then successively used these as a template to insert the RGB images of Titan, Rhea, Dione and Tethys and monochrome images of Enceladus and Mimas, into their correct positions. Since the animation includes the image of Saturn for each time frame the planet is rotating as well, per my previous animation, but this is hard to see at this scale.\r\nI hope that the small movement of the moons over approximately 30 minutes, gives you some appreciation of the the orbits of the moons and their wide elliptical shape from our viewing angle.\r\nClearly Titan at the bottom and Rhea at left above it are behind Saturn and moving from left to right in small arcs. The other moons from left to right in the upper part of the image, Dione, Mimas, Enceladus and Tethys are in front of Saturn and so moving from right to left.\r\nNotice that the innermost moons like Mimas and Enceladus are moving faster in their orbits than those moons further out.\r\nRhea and Dione are closest to their greatest elongation and so their motions have a significant downward component in the image. Dione is heading towards the point where it will turn behind the planet and start moving back the other way from left to right, whereas Rhea has already done that and has swung around behind Saturn.",
+    "h": 1105,
+    "hash": "twztar",
+    "id": 427991,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 114,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-09-19T02:38:36.526700",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427991/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Animation of Saturn & its moons",
+    "updated": "2021-03-17T09:07:41.492492",
+    "uploaded": "2019-09-19T03:29:10.014400",
+    "url_duckduckgo": "https://www.astrobin.com/twztar/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/twztar/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/twztar/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/twztar/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/twztar/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/twztar/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/twztar/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/twztar/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 481,
+    "w": 1500
+}

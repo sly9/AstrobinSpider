@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "47.394",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 336719,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "http://delsaert.files.wordpress.com/2018/03/m106_lrgb.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "180.000",
+    "pixscale": "1.235",
+    "published": "2018-03-09T13:55:20.940010",
+    "ra": "184.421",
+    "radius": "0.971",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336719/",
+    "revisions": [
+        "/api/v1/imagerevision/139159/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4220",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106",
+    "updated": "2021-05-10T22:12:18.422373",
+    "uploaded": "2018-03-09T13:55:22.642496",
+    "url_duckduckgo": "https://www.astrobin.com/336719/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336719/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336719/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336719/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336719/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336719/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336719/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2018/af4c850b-ae32-4124-9693-8ae0994e0846.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/af4c850b-ae32-4124-9693-8ae0994e0846-1520603863.jpg",
+    "url_thumb": "https://www.astrobin.com/336719/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 395,
+    "w": 1824
+}

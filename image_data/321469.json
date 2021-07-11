@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "33.392",
+    "description": "IC 410, Ha- bin 1x1 - 6h\r\nOIII- bin 2x2, -4h\r\nSII- bin 2x2 - 3h 40 min",
+    "h": 1488,
+    "hash": null,
+    "id": 321469,
+    "imaging_cameras": [
+        "SBIG 8300M camera"
+    ],
+    "imaging_telescopes": [
+        "TEC 160 FL Refractor "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806569/"
+    ],
+    "orientation": "269.680",
+    "pixscale": "1.616",
+    "published": "2017-11-14T13:15:02.747040",
+    "ra": "80.647",
+    "radius": "0.543",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/321469/",
+    "revisions": [
+        "/api/v1/imagerevision/130250/"
+    ],
+    "subjects": [
+        "IC 410",
+        "NGC 1893"
+    ],
+    "title": "IC 410 HST",
+    "updated": "2021-03-17T19:13:21.617115",
+    "uploaded": "2017-11-14T13:15:03.428292",
+    "url_duckduckgo": "https://www.astrobin.com/321469/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/321469/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/321469/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/321469/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/321469/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/321469/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/321469/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/055e7275-9965-4e21-a687-3c8a25e964ce.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/055e7275-9965-4e21-a687-3c8a25e964ce-1510665672.jpg",
+    "url_thumb": "https://www.astrobin.com/321469/0/rawthumb/thumb/",
+    "user": "Vadim@K",
+    "views": 542,
+    "w": 1908
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "4.988",
+    "description": "Version 2.0\r\n=========\r\nTried a different color mix with a synthesized green channel from HA (Red) and OIII (Blue).\r\n\r\n\r\nDescription from version 1.0\r\n========================\r\nOnly been able to capture HA and OIII for the Rosette Nebula so far since this object sets pretty early this time of the year. The weather doesn't look too promising next week so I did a quick processing on the available data using the HOO palette to see how it looks.",
+    "h": 2440,
+    "hash": null,
+    "id": 334213,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806503/"
+    ],
+    "orientation": "270.578",
+    "pixscale": "1.385",
+    "published": "2018-02-19T10:42:00.539121",
+    "ra": "97.970",
+    "radius": "0.744",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334213/",
+    "revisions": [
+        "/api/v1/imagerevision/137902/",
+        "/api/v1/imagerevision/138944/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula HOO v2.0",
+    "updated": "2021-06-13T09:14:48.233292",
+    "uploaded": "2018-02-19T10:30:06.078506",
+    "url_duckduckgo": "https://www.astrobin.com/334213/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334213/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334213/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334213/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334213/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334213/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334213/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20633/2020/549efce5-f233-437e-8e9c-35c328cf8ffe.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20633/2020/549efce5-f233-437e-8e9c-35c328cf8ffe-1582382482.jpg",
+    "url_thumb": "https://www.astrobin.com/334213/0/rawthumb/thumb/",
+    "user": "PlanetOrion",
+    "views": 967,
+    "w": 3000
+}

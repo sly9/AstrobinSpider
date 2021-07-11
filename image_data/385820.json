@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "52.329",
+    "description": "NGC 3953 is a barred spiral galaxy in Ursa Major.  It has an apparent magnitude of 10.8 and a size of 6.9 x 3.5 arc minutes.\r\n\r\n\r\nDate: Mar 2014\r\nLocation: New Ringgold PA\r\nOptics: LUM: Starizona Hyperion f/8 12.5 inch, FL 2540 mm  \r\nMount: Paramount ME\r\nCamera: Sbig STL-11000\r\n\r\nGuiding: Self-guided\r\nExposure: LRGB: L:22x10 min R:16x8 min, G:14x6 min, B:13x10 min for a total of 9.4  hrs. (65 subs at avg 519 sec)\r\n\r\nProcessing: Image acquisition using Maxim DL and CCD Autopilot. The Lum and RGB color images were created in Maxim with final processing in Photoshop.",
+    "h": 2373,
+    "hash": null,
+    "id": 385820,
+    "imaging_cameras": [
+        "SBIG STL-11000"
+    ],
+    "imaging_telescopes": [
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "5.985",
+    "pixscale": "0.428",
+    "published": "2019-01-14T01:12:30.567301",
+    "ra": "178.454",
+    "radius": "0.203",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/385820/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3953",
+        "NGC3953"
+    ],
+    "title": "NGC 3953",
+    "updated": "2021-03-17T12:29:26.080772",
+    "uploaded": "2019-01-14T01:12:30.652069",
+    "url_duckduckgo": "https://www.astrobin.com/385820/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385820/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385820/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385820/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385820/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385820/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385820/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/958513ef-cca9-4645-b83e-902b37636ae9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/958513ef-cca9-4645-b83e-902b37636ae9-1582435094.jpg",
+    "url_thumb": "https://www.astrobin.com/385820/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 268,
+    "w": 2459
+}

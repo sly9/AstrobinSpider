@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "30.656",
+    "description": "",
+    "h": 2163,
+    "hash": null,
+    "id": 328888,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 152,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804493/",
+        "/api/v1/location/2811213/"
+    ],
+    "orientation": "268.813",
+    "pixscale": "1.529",
+    "published": "2018-01-09T23:09:10.830669",
+    "ra": "23.470",
+    "radius": "0.736",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328888/",
+    "revisions": [
+        "/api/v1/imagerevision/134480/",
+        "/api/v1/imagerevision/134576/"
+    ],
+    "subjects": [
+        "IC131",
+        "IC132",
+        "IC133",
+        "IC135",
+        "IC136",
+        "IC137",
+        "IC142",
+        "IC143",
+        "M 33",
+        "M33",
+        "NGC 598",
+        "NGC588",
+        "NGC592",
+        "NGC595",
+        "NGC604",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 \"Triangulum Galaxy\" LRGB-Ha (TSA102/AtikOne)",
+    "updated": "2021-03-17T16:52:13.985443",
+    "uploaded": "2018-01-09T22:53:44.465639",
+    "url_duckduckgo": "https://www.astrobin.com/328888/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328888/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328888/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328888/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328888/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328888/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328888/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2200/2018/65e7a04a-d3a2-41bd-aa2b-7d09a21b2c52.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2200/2018/65e7a04a-d3a2-41bd-aa2b-7d09a21b2c52-1582526432.png",
+    "url_thumb": "https://www.astrobin.com/328888/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 590,
+    "w": 2705
+}

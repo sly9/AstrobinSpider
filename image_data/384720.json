@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "28.278",
+    "description": "120x30s using an ASI017 OSC.",
+    "h": 3242,
+    "hash": null,
+    "id": 384720,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT80EDT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "358.651",
+    "pixscale": "2.059",
+    "published": "2019-01-07T03:44:22.545742",
+    "ra": "64.072",
+    "radius": "1.669",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/384720/",
+    "revisions": [],
+    "subjects": [
+        "The star φTau"
+    ],
+    "title": "LBN782 area",
+    "updated": "2021-03-17T12:34:39.079808",
+    "uploaded": "2019-01-07T03:36:01.496836",
+    "url_duckduckgo": "https://www.astrobin.com/384720/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/384720/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/384720/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/384720/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/384720/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/384720/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/384720/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7159/2020/6cadea06-7845-41b4-9358-4e10b64b2a6b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7159/2020/6cadea06-7845-41b4-9358-4e10b64b2a6b-1602391000.jpg",
+    "url_thumb": "https://www.astrobin.com/384720/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 325,
+    "w": 4852
+}

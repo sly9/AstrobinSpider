@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.265",
+    "description": "IC 5146 (also Caldwell 19, Sh 2-125, and the Cocoon Nebula) is a reflection/emission nebula and Caldwell object in the constellation Cygnus. The NGC description refers to IC 5146 as a cluster of 9.5 mag stars involved in a bright and dark nebula. The cluster is also known as Collinder 470. It shines at magnitude +10.0/+9.3/+7.2. Its celestial coordinates are RA 21h 53.5m, dec+47° 16′. It is located near the naked-eye star Pi Cygni, the open cluster NGC 7209 in Lacerta, and the bright open cluster M39. The cluster is about 4,000 ly away, and the central star that lights it formed about 100,000 years ago; the nebula is about 12 arcmins across, which is equivalent to a span of 15 light years.\r\n\r\nThis is part of my first attempts with the 12.5 AG Optical iHW OTA and the CEM120EC2 to get some results remotely. Seeing was not at its best but at least I was able to get rid of fire forest smoke to get decent background.",
+    "h": 2161,
+    "hash": null,
+    "id": 419435,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG 660WSG-8 OAG"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iHW"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803092/"
+    ],
+    "orientation": "180.651",
+    "pixscale": "0.763",
+    "published": "2019-08-06T10:25:35.176037",
+    "ra": "328.353",
+    "radius": "0.368",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/419435/",
+    "revisions": [],
+    "subjects": [
+        "Cocoon nebula",
+        "IC 5146"
+    ],
+    "title": "IC5146 - Cocoon Nebula",
+    "updated": "2021-07-04T22:45:37.930270",
+    "uploaded": "2019-08-06T11:25:35.372928",
+    "url_duckduckgo": "https://www.astrobin.com/419435/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419435/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419435/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419435/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419435/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419435/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419435/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12231/2020/6fe7ee4b-dd92-4030-88c8-1dcb4c447b72.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12231/2020/6fe7ee4b-dd92-4030-88c8-1dcb4c447b72-1582443620.png",
+    "url_thumb": "https://www.astrobin.com/419435/0/rawthumb/thumb/",
+    "user": "patdufour",
+    "views": 200,
+    "w": 2711
+}

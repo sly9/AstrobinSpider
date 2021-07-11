@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 7,
+    "data_source": "TRAVELLER",
+    "dec": "-63.855",
+    "description": "The great Pavo galaxy is located far from the Virgo cluster, but counts as part of the Virgo supercluster. The distance is about 30 Mio. and diameter about 150.000 lightyears. There is a small bar at center, but wide and delicate spiral arms are the hallmark - classification is SAB. While it is quite bright (visual magnitude 8.3) that light is spread out on an area of about 18x10arcmin, so its not too easy to detect in a telescope.\r\n\r\nLRGB with a 10\" f/4 Newtonian and ASI1600MMP with Astronomik Deepsky filters",
+    "h": 1292,
+    "hash": "lm91xq",
+    "id": 425849,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Faried 10\"f4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 280,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811293/"
+    ],
+    "orientation": "87.776",
+    "pixscale": "1.176",
+    "published": "2019-09-07T20:38:17.957020",
+    "ra": "287.415",
+    "radius": "0.350",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/425849/",
+    "revisions": [
+        "/api/v1/imagerevision/192039/",
+        "/api/v1/imagerevision/192041/"
+    ],
+    "subjects": [
+        "NGC 6744",
+        "NGC6744"
+    ],
+    "title": "NGC6744",
+    "updated": "2021-06-03T19:34:25.369168",
+    "uploaded": "2019-09-07T21:38:18.114326",
+    "url_duckduckgo": "https://www.astrobin.com/lm91xq/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/lm91xq/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/lm91xq/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/lm91xq/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/lm91xq/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/lm91xq/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/lm91xq/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/4ce4d66b-a1f2-46aa-8d1a-2e21b32f5e20.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/4ce4d66b-a1f2-46aa-8d1a-2e21b32f5e20-1582611951.jpg",
+    "url_thumb": "https://www.astrobin.com/lm91xq/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 1812,
+    "w": 1707
+}

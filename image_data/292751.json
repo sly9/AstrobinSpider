@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "11.820",
+    "description": "",
+    "h": 2000,
+    "hash": null,
+    "id": 292751,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 146,
+    "link": "http://astro.ioda.by/en/m-96#full",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804384/"
+    ],
+    "orientation": "90.572",
+    "pixscale": "0.632",
+    "published": "2017-04-22T14:11:19.569041",
+    "ra": "161.693",
+    "radius": "0.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292751/",
+    "revisions": [],
+    "subjects": [
+        "M 96",
+        "NGC 3368"
+    ],
+    "title": "M96",
+    "updated": "2021-03-17T21:06:54.270696",
+    "uploaded": "2017-04-22T15:11:19.911023",
+    "url_duckduckgo": "https://www.astrobin.com/292751/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292751/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292751/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292751/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292751/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292751/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292751/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14911/2017/57180eb6-e79a-4150-ac65-f34ba7b6e6c7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14911/2017/57180eb6-e79a-4150-ac65-f34ba7b6e6c7-1582587158.jpg",
+    "url_thumb": "https://www.astrobin.com/292751/0/rawthumb/thumb/",
+    "user": "Ioda",
+    "views": 864,
+    "w": 2000
+}

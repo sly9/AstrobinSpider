@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "58.074",
+    "description": "The Wizard is always fun to shoot and process!  This reminds me a lot of a brighter Tulip Nebula.  If you are in the northern hemisphere it's a great all night target.\r\n\r\nI used 84 subs of 20 minutes each.  SII 27 Ha 26 OIII 31.  Total time 28 hours.  \r\n\r\nThe color data is a mix of SII for Red, OIII for Blue while Green is 47.5% SII, 47.5% OIII, and 5% Ha.  I might have used just a bit more Ha if I was doing it again.  The Luminance channel is all Ha.\r\n\r\nThe Ha data was de-convolved in CCDSTack.  Additional sharpening we done in Photoshop with unsharp masking at two different scales.  Noise reduction was done in Photoshop using the noise reduction tool for the background, and a Gaussian blur for the Color.  Star color was cleaned up using dust and scratches.",
+    "h": 3317,
+    "hash": null,
+    "id": 364851,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 145,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "39.610",
+    "pixscale": "0.728",
+    "published": "2018-09-04T18:20:30.664021",
+    "ra": "341.721",
+    "radius": "0.533",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/364851/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7380",
+        "NGC7380",
+        "Sh2-142"
+    ],
+    "title": "The Wizard  - NGC 7380",
+    "updated": "2021-03-17T14:09:43.188801",
+    "uploaded": "2018-09-04T19:20:31.861875",
+    "url_duckduckgo": "https://www.astrobin.com/364851/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/364851/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/364851/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/364851/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/364851/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/364851/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/364851/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/391debcd-a014-412a-a9d6-e5213633226a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/391debcd-a014-412a-a9d6-e5213633226a-1536089384.jpg",
+    "url_thumb": "https://www.astrobin.com/364851/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 506,
+    "w": 4096
+}

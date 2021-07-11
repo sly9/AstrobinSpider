@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "30.668",
+    "description": "2015 and 2017 \r\n2 tiles LRVBHa bin 2\r\nL 90x300s drizzle and deconvolution\r\nRVB 3x10x300s\r\nHa 12x1200s\r\n\r\nPixinsight and photoshop",
+    "h": 1406,
+    "hash": null,
+    "id": 282315,
+    "imaging_cameras": [
+        "Atik 383L+"
+    ],
+    "imaging_telescopes": [
+        "GSO / Teleskop-Service RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "269.943",
+    "pixscale": "1.382",
+    "published": "2017-02-02T08:33:01.595792",
+    "ra": "23.470",
+    "radius": "0.509",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282315/",
+    "revisions": [
+        "/api/v1/imagerevision/109718/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33",
+    "updated": "2021-03-17T21:51:03.541872",
+    "uploaded": "2017-02-02T08:27:38.712776",
+    "url_duckduckgo": "https://www.astrobin.com/282315/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282315/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282315/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282315/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282315/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282315/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282315/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1744/2017/f426b18d-7973-4ef0-a8ef-acf0b4e8cc5f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f426b18d-7973-4ef0-a8ef-acf0b4e8cc5f-1486024407.jpg",
+    "url_thumb": "https://www.astrobin.com/282315/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 527,
+    "w": 1824
+}

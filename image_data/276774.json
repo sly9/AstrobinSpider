@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "67.639",
+    "description": "LBN 468, LRGB.",
+    "h": 2391,
+    "hash": null,
+    "id": 276774,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5 FSQ 106ED f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "358.352",
+    "pixscale": "2.100",
+    "published": "2016-12-20T07:43:00.308575",
+    "ra": "310.134",
+    "radius": "1.169",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/276774/",
+    "revisions": [
+        "/api/v1/imagerevision/106405/"
+    ],
+    "subjects": [],
+    "title": "LBN 468 @DSW",
+    "updated": "2021-03-17T22:12:56.437682",
+    "uploaded": "2016-12-20T07:43:00.716729",
+    "url_duckduckgo": "https://www.astrobin.com/276774/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/276774/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/276774/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/276774/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/276774/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/276774/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/276774/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2016/52017e9b-99d8-4c63-8cf1-b7fc90c323de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2016/52017e9b-99d8-4c63-8cf1-b7fc90c323de-1582616322.jpg",
+    "url_thumb": "https://www.astrobin.com/276774/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 225,
+    "w": 3216
+}

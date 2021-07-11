@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "-11.627",
+    "description": "",
+    "h": 900,
+    "hash": null,
+    "id": 345494,
+    "imaging_cameras": [
+        "Andor LucaR (DL604M EMCCD)"
+    ],
+    "imaging_telescopes": [
+        "C9.25"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 264,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.627",
+    "pixscale": "0.670",
+    "published": "2018-05-06T22:02:38.545750",
+    "ra": "189.999",
+    "radius": "0.118",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345494/",
+    "revisions": [
+        "/api/v1/imagerevision/144547/"
+    ],
+    "subjects": [
+        "M 104",
+        "NGC 4594",
+        "Sombrero galaxy"
+    ],
+    "title": "M104",
+    "updated": "2021-05-21T06:29:45.749831",
+    "uploaded": "2018-05-06T23:02:41.158832",
+    "url_duckduckgo": "https://www.astrobin.com/345494/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345494/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345494/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345494/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345494/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345494/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345494/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8185/2018/1534c28c-2787-4e67-b4c6-abd0e4a274b7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8185/2018/1534c28c-2787-4e67-b4c6-abd0e4a274b7-1582458207.jpg",
+    "url_thumb": "https://www.astrobin.com/345494/0/rawthumb/thumb/",
+    "user": "Junior-CCD",
+    "views": 1633,
+    "w": 900
+}

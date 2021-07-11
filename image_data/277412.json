@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "61.611",
+    "description": "heart nebula, 2016\r\n40x1800s astrodon 5nm SII\r\n60x1800s astrodon 5nm OIII\r\n20x1800s astrodon 5nm Ha\r\nSTT-8300M\r\ntmb92ss with orion flattener (f=500mm)\r\nmach1gto\r\nsequence generator pro\r\nprocessed in pixinsight\r\n\r\nif it seems like i'm doing the same targets over and over again... well, it's true. there's only so many things visible to me that i can get enough time on. hopefully over the years i can add to this and make a mosaic of the heart/soul area, but it will take a lot of patience.",
+    "h": 2536,
+    "hash": null,
+    "id": 277412,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "TMB-92SS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798717/"
+    ],
+    "orientation": "359.354",
+    "pixscale": "2.187",
+    "published": "2016-12-27T04:56:26.772418",
+    "ra": "37.984",
+    "radius": "1.278",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277412/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC1795",
+        "IC1805",
+        "NGC 896",
+        "NGC896",
+        "Sh2-190"
+    ],
+    "title": "sho heart - 2016",
+    "updated": "2021-03-17T22:10:31.602662",
+    "uploaded": "2016-12-27T04:43:04.693447",
+    "url_duckduckgo": "https://www.astrobin.com/277412/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277412/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277412/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277412/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277412/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277412/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277412/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/9bc7fe90-c69e-4361-b93e-27c1a9efa714.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/9bc7fe90-c69e-4361-b93e-27c1a9efa714-1582628686.jpg",
+    "url_thumb": "https://www.astrobin.com/277412/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 512,
+    "w": 3358
+}

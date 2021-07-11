@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "1.233",
+    "description": "Telescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803\r\nMount : RainbowAstro RST-135\r\nFilters : Astrodon 50mm square LRGB, Ha 3nm\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI120mm mini\r\nExposure : L 600s x 103(1x1bin), RGB each 600s x 42(2x2bin), Ha 1200s x 6(1x1bin) total 40h 10m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 8145,
+    "hash": "z4tmpi",
+    "id": 446734,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 270,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "177.672",
+    "pixscale": "1.748",
+    "published": "2020-01-03T04:28:26.851906",
+    "ra": "87.702",
+    "radius": "2.796",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/446734/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2112",
+        "The star 56Ori",
+        "The star 59Ori"
+    ],
+    "title": "M78, Boogie man, Barnard's loop",
+    "updated": "2021-04-21T23:23:19.391605",
+    "uploaded": "2020-01-03T04:28:28.186170",
+    "url_duckduckgo": "https://www.astrobin.com/z4tmpi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z4tmpi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z4tmpi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z4tmpi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z4tmpi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z4tmpi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z4tmpi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/9b4f3898-f40e-47e2-91a3-da39760be3e8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/9b4f3898-f40e-47e2-91a3-da39760be3e8-1582281232.jpg",
+    "url_thumb": "https://www.astrobin.com/z4tmpi/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 1734,
+    "w": 8145
+}

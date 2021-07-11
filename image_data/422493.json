@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "-40.508",
+    "description": "This is a test of my new Astronomik narrowband filters.  They are much better at reducing reflections than the ZWO filters. \r\n\r\nI was going to get more integration time on this, but there is not enough OIII in this to make it really interesting at this scale.  It would be better at a greater focal length I think.",
+    "h": 1728,
+    "hash": null,
+    "id": 422493,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 80ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808945/"
+    ],
+    "orientation": "359.358",
+    "pixscale": "3.800",
+    "published": "2019-08-25T06:07:49.983427",
+    "ra": "254.232",
+    "radius": "1.520",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/422493/",
+    "revisions": [
+        "/api/v1/imagerevision/191903/"
+    ],
+    "subjects": [
+        "IC 4628",
+        "NGC 6268"
+    ],
+    "title": "The Mighty Prawn of the Skies",
+    "updated": "2021-03-25T16:21:15.215261",
+    "uploaded": "2019-08-25T07:07:50.132185",
+    "url_duckduckgo": "https://www.astrobin.com/422493/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/422493/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/422493/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/422493/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/422493/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/422493/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/422493/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27566/2020/ab1551c9-06c2-446a-bf1f-a36be0c48b69.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27566/2020/ab1551c9-06c2-446a-bf1f-a36be0c48b69-1582585610.jpg",
+    "url_thumb": "https://www.astrobin.com/422493/0/rawthumb/thumb/",
+    "user": "capella_ben",
+    "views": 424,
+    "w": 2304
+}

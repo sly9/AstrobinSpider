@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "This is a combination of data from three data sets:\r\n\r\nLuminance: \r\nCelestron 11\" RASA 11\" and QHY183M (Astronomik L2) \r\n115x60\" (1.9 hours) \r\nTaken Jan. 6, 2019 in Bortle 5\r\n\r\nRGB (OSC):\r\nAstro-Tech AT106LE and QHY247C (Hutech IDAS LPS-D1)\r\n117x120\" + 60x180\" + 34x240\" (9.2 hours)\r\nTaken Dec. 16, 2017,  Dec. 19, 2017,  Dec. 26, 2017,  Jan. 14, 2018 in Bortle 7\r\n\r\nCelestron 11\" RASA 11\" and QHY367C (Astronomik L2) \r\n64x60\" (1.1 hours) taken in Bortle 5",
+    "h": 3589,
+    "hash": null,
+    "id": 385083,
+    "imaging_cameras": [
+        "QHYCCD QHY247C",
+        "QHYCCD QHY183M",
+        "QHY367C"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" Rowe-Ackermann Schmidt Astrograph",
+        "Astro-Tech AT106LE"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "http://cosmic-colors.com/nebulae/m78-reflection-nebula-in-orion/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807300/",
+        "/api/v1/location/2809002/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-01-10T01:18:09.772918",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/385083/",
+    "revisions": [
+        "/api/v1/imagerevision/167043/",
+        "/api/v1/imagerevision/167045/",
+        "/api/v1/imagerevision/167079/",
+        "/api/v1/imagerevision/195489/"
+    ],
+    "subjects": [],
+    "title": "M78 Reflection Nebula in Orion",
+    "updated": "2021-03-25T16:50:20.468473",
+    "uploaded": "2019-01-09T07:59:23.563542",
+    "url_duckduckgo": "https://www.astrobin.com/385083/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385083/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385083/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385083/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385083/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385083/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385083/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/385083/0/rawthumb/thumb/",
+    "user": "jtrezzo",
+    "views": 1137,
+    "w": 5476
+}

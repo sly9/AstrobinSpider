@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-48.701",
+    "description": "NGC6188 Ha with color data added. Processed in Star tools with the aid of  Ivo's excellent tutorial. This is my first attempt at HaRGB. 50 x Ha, 17 x R, 17 x G, 17 x B",
+    "h": 1643,
+    "hash": null,
+    "id": 305008,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "VIXEN ED80SF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803422/"
+    ],
+    "orientation": "264.340",
+    "pixscale": "3.258",
+    "published": "2017-07-28T08:52:35.783570",
+    "ra": "250.072",
+    "radius": "1.236",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305008/",
+    "revisions": [
+        "/api/v1/imagerevision/121519/"
+    ],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193"
+    ],
+    "title": "NGC 6188  HaRGB",
+    "updated": "2021-03-17T20:20:05.118481",
+    "uploaded": "2017-07-28T09:52:37.015819",
+    "url_duckduckgo": "https://www.astrobin.com/305008/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305008/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305008/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305008/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305008/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305008/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305008/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12965/2017/b32c27a9-7f26-439a-a713-4858f6d73ea3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/12965/2017/b32c27a9-7f26-439a-a713-4858f6d73ea3-1582467532.png",
+    "url_thumb": "https://www.astrobin.com/305008/0/rawthumb/thumb/",
+    "user": "Maccurly",
+    "views": 181,
+    "w": 2182
+}

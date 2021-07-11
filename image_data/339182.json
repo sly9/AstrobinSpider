@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "54.372",
+    "description": "4 hours of LRVB Ha\r\nPlease go to the full",
+    "h": 1416,
+    "hash": null,
+    "id": 339182,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "88.833",
+    "pixscale": "1.368",
+    "published": "2018-03-26T17:50:01.882243",
+    "ra": "210.733",
+    "radius": "1.026",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339182/",
+    "revisions": [
+        "/api/v1/imagerevision/140886/",
+        "/api/v1/imagerevision/144270/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5422",
+        "NGC 5457",
+        "NGC 5473",
+        "NGC 5474",
+        "NGC 5477",
+        "NGC 5485",
+        "NGC 5486"
+    ],
+    "title": "M101 wide field",
+    "updated": "2021-03-22T13:50:54.249209",
+    "uploaded": "2018-03-26T18:43:57.691384",
+    "url_duckduckgo": "https://www.astrobin.com/339182/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339182/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339182/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339182/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339182/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339182/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339182/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4e636137-0d1d-4b6b-9870-8ee828a078ba.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4e636137-0d1d-4b6b-9870-8ee828a078ba-1522086420.jpg",
+    "url_thumb": "https://www.astrobin.com/339182/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 389,
+    "w": 1824
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-6.316",
+    "description": "",
+    "h": 3426,
+    "hash": null,
+    "id": 383955,
+    "imaging_cameras": [
+        "QHY16200A"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810334/"
+    ],
+    "orientation": "91.170",
+    "pixscale": "1.645",
+    "published": "2019-01-03T06:59:37.096437",
+    "ra": "92.420",
+    "radius": "1.198",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/383955/",
+    "revisions": [
+        "/api/v1/imagerevision/167753/",
+        "/api/v1/imagerevision/175386/"
+    ],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC 2185"
+    ],
+    "title": "NGC2170, NGC2182",
+    "updated": "2021-03-17T12:38:15.313348",
+    "uploaded": "2019-01-03T06:59:37.218540",
+    "url_duckduckgo": "https://www.astrobin.com/383955/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/383955/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/383955/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/383955/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/383955/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/383955/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/383955/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/eb454fec-22c0-4ce6-9f39-e3f5ab34457c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/eb454fec-22c0-4ce6-9f39-e3f5ab34457c-1546500019.jpg",
+    "url_thumb": "https://www.astrobin.com/383955/0/rawthumb/thumb/",
+    "user": "matckyhk",
+    "views": 541,
+    "w": 3986
+}

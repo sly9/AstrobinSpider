@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-58.730",
+    "description": "Bulk of luminance from Ha with some contribution from the RGB data.",
+    "h": 3520,
+    "hash": null,
+    "id": 334176,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/"
+    ],
+    "orientation": "359.882",
+    "pixscale": "0.655",
+    "published": "2018-02-19T07:50:54.563782",
+    "ra": "159.714",
+    "radius": "0.531",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334176/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3324"
+    ],
+    "title": "NGC 3324 - Gabriela Mistral Nebula - in HaRGB",
+    "updated": "2021-03-17T16:28:39.154938",
+    "uploaded": "2018-02-19T07:50:57.003966",
+    "url_duckduckgo": "https://www.astrobin.com/334176/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334176/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334176/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334176/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334176/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334176/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334176/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/40ec1a6d-6df0-485b-8d32-55eaa7f34b4d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/40ec1a6d-6df0-485b-8d32-55eaa7f34b4d-1519026895.jpg",
+    "url_thumb": "https://www.astrobin.com/334176/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 121,
+    "w": 4656
+}

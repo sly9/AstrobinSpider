@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-13.236",
+    "description": "Thor's helmet, 36 hours of SHO data with ZWO 7nm filters, ASI1600MM Pro, Esprit 120 mounted on the CEM60 using Starkeeper.it's Voyager software, which I highly recommend for unattended (or attended!) imaging.  I never lost a frame due to Voyager in 2 months of acquiring data for this object.\r\n\r\nI think this is a cool looking target, but it is pretty low in my sky - and only visible for a couple of hours a night when it pops into view between two banks of trees.  \r\n\r\nI decided to just collect data any night I was imaging and after a couple of months I realized I had 36 hours of subs, quite a bit more than my usual 9 to 18 hours.  I thought it would be interesting to see how it helped processing.\r\n\r\nSince the object is low, it was not noise-free even with that much data, but it was relatively clean and that did help with processing quite a bit.  \r\n\r\nI used a straight Hubble blend, and tweaked the colors at the end with PhotoShop's Selective Color tool to turn the greenish tints into more of a golden hue.\r\n\r\nComments and criticism always welcome!  \r\n\r\nThanks for stopping by... \r\nRowland",
+    "h": 1080,
+    "hash": null,
+    "id": 393177,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 120"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806772/"
+    ],
+    "orientation": "64.005",
+    "pixscale": "1.638",
+    "published": "2019-02-28T18:56:35.143198",
+    "ra": "109.634",
+    "radius": "0.430",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/393177/",
+    "revisions": [
+        "/api/v1/imagerevision/171739/"
+    ],
+    "subjects": [
+        "NGC 2359"
+    ],
+    "title": "NGC 2359 Thor's Helmet - SHO - Esprit 120 - ASI1600MM - 36 hours",
+    "updated": "2021-05-27T20:43:56.925870",
+    "uploaded": "2019-02-28T18:34:37.821592",
+    "url_duckduckgo": "https://www.astrobin.com/393177/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/393177/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/393177/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/393177/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/393177/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/393177/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/393177/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21217/2019/d8ab1217-5e47-42c1-9290-b3c5a8490c7e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21217/2019/d8ab1217-5e47-42c1-9290-b3c5a8490c7e-1582549182.jpg",
+    "url_thumb": "https://www.astrobin.com/393177/0/rawthumb/thumb/",
+    "user": "Vassar1976",
+    "views": 459,
+    "w": 1553
+}

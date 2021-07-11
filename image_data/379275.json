@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 29,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "43.383",
+    "description": "4 panels orth America and Pelican Nebula - NGC7000, IC 5070 and IC 5067 and SH2-119 wide field captured 06/18/2018, 06/19/2018, 06/20/2018, 06/22/2019, 06/23/2018, 06/24/2018, 06/25/2018, 06/26/2018, and 06/28/2018\r\nwith Takahashi FSQ106ED @f/5 530mm focal length with ONAG XT (http://www.innovationsforesight.com/), Apogee Andore F16M monochrome @-25°C and Astrodon narrowband H-alpha, SII, OIII 5nm and RGB filters on 10micron GM2000 HPS II\r\n\r\n86 x 20 minutes H-alpha unbinned = 28h40\r\n85 x 2 minutes RGB unbinned = 2h50\r\n\r\nSH2-119 SHO captured 05/28/2015, 06/02/2015, 06/03/2015, 07/06/2015, 07/09/2015, 07/10/2015, 07/11/2015, 07/13/2015, 07/14/2015 and 07/15/2015 with Takahashi FSQ106ED @f/5 530mm focal length with ONAG XT (http://www.innovationsforesight.com/), Apogee Alta U8300 monochrome @-30°C and Astrodon narrowband H-alpha, SII, OIII 5nm filters on 10micron GM2000 HPS II\r\n63 x 10 minutes H-alpha unbinned = 10h30\r\n55 x 10 minutes SII unbinned = 9h10\r\n76 x 10 minutes OIII unbinned = 12h40\r\n\r\n6 panels mosaic of North America and Pelican Nebula - NGC7000, IC 5070 and IC 5067 captured 04.14.2013,04.15.2013, 04.17.2013, 04.23.2013, 04.24.2013, and 04.25.2013 with Takahashi FSQ106ED @f/5 530mm focal length with Apogee Alta U8300 monochrome and Astrodon H-a, SII and OIII 5nm narrowband filters.\r\n28 x 1200s H-a unbinned = 9h20\r\n24 x 1200s OIII unbinned = 8h00\r\n23 x 1200s SII unbinned = 7h40\r\n\r\nTotal exposure time = 88h30\r\n\r\nPOSS-II Survey (http://www.astro.caltech.edu/~wws/poss2.html) 81 panels of 60x60 arc/min for Red and Blue data) \r\n\r\nAll subframes have been captured with SkySurveyor v3.1 full frame Guiding and Focusing : https://www.innovationsforesight.com/…/full-frame-guiding-…/",
+    "h": 1834,
+    "hash": null,
+    "id": 379275,
+    "imaging_cameras": [
+        "Alta U8300",
+        "Andor Alta F16M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106 modified with Optec Gemini Focuser/Rotator and ONAG XT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 246,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799636/"
+    ],
+    "orientation": "2.488",
+    "pixscale": "3.472",
+    "published": "2018-12-02T19:58:59.751361",
+    "ra": "316.032",
+    "radius": "5.168",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/379275/",
+    "revisions": [
+        "/api/v1/imagerevision/261458/"
+    ],
+    "subjects": [
+        "IC 5068",
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "NGC 7039",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 55Cyg",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star 60Cyg",
+        "The star 68Cyg",
+        "The star νCyg",
+        "The star ξCyg"
+    ],
+    "title": "NGC7000 and SH2-119 side by side - LRGB composition - Hybrid narrowband palette",
+    "updated": "2021-05-31T10:58:51.130938",
+    "uploaded": "2018-12-02T19:59:00.511283",
+    "url_duckduckgo": "https://www.astrobin.com/379275/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/379275/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/379275/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/379275/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/379275/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/379275/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/379275/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/014628e9-4b78-43de-9a29-199b68e1b9dc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/014628e9-4b78-43de-9a29-199b68e1b9dc-1543781858.jpg",
+    "url_thumb": "https://www.astrobin.com/379275/0/rawthumb/thumb/",
+    "user": "dlindemann",
+    "views": 1778,
+    "w": 1824
+}

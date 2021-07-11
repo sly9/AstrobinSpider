@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "58.025",
+    "description": "Back in June I took delivery of a QSI 6120 camera. All measured specs were at least as good as claimed. In particular the read noise was 2e! During my first week of using it there was what can best be described as a bit of confusion regarding the position of the switch on the yard sprinkler system and after a bit of a bath read noise was up to 7e. The good folks at QSI repaired the camera and this is a first light of sorts.",
+    "h": 1218,
+    "hash": null,
+    "id": 311896,
+    "imaging_cameras": [
+        "QSI 6120wsg-8 QSI6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803757/"
+    ],
+    "orientation": "359.540",
+    "pixscale": "1.258",
+    "published": "2017-09-11T19:52:54.691939",
+    "ra": "341.746",
+    "radius": "0.714",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/311896/",
+    "revisions": [
+        "/api/v1/imagerevision/126717/"
+    ],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "NGC 7380 HSO",
+    "updated": "2021-03-17T19:52:16.189881",
+    "uploaded": "2017-09-11T20:52:55.516082",
+    "url_duckduckgo": "https://www.astrobin.com/311896/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311896/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311896/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311896/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311896/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311896/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311896/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/13728/2017/c7c9b66b-1333-4d1d-b422-c82de4e64e6f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c7c9b66b-1333-4d1d-b422-c82de4e64e6f-1505165105.jpg",
+    "url_thumb": "https://www.astrobin.com/311896/0/rawthumb/thumb/",
+    "user": "nmrdude",
+    "views": 84,
+    "w": 1824
+}

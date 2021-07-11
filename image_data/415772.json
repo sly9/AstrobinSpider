@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "6.048",
+    "description": "A rarely-imaged extremely faint planetary nebula in the constellation of Serpens Cauda.\r\nIt's also known as RCW 181 and PN G038.7+01.9",
+    "h": 2586,
+    "hash": null,
+    "id": 415772,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 69,
+    "link": "https://www.imagingdeepspace.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "359.177",
+    "pixscale": "0.533",
+    "published": "2019-07-17T15:16:17.315074",
+    "ra": "283.744",
+    "radius": "0.356",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/415772/",
+    "revisions": [],
+    "subjects": [
+        "PK038+02.1"
+    ],
+    "title": "Yerks-McDonald 16",
+    "updated": "2021-03-17T10:09:23.743184",
+    "uploaded": "2019-07-17T16:16:17.548889",
+    "url_duckduckgo": "https://www.astrobin.com/415772/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/415772/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/415772/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/415772/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/415772/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/415772/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/415772/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3d988939-ac3b-4975-a6da-f8fa565035de.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3d988939-ac3b-4975-a6da-f8fa565035de-1563380504.jpg",
+    "url_thumb": "https://www.astrobin.com/415772/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 197,
+    "w": 4060
+}

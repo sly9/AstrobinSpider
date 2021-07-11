@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "30.680",
+    "description": "",
+    "h": 2160,
+    "hash": null,
+    "id": 313079,
+    "imaging_cameras": [
+        "ZWO ASI 1600MC-Cooled"
+    ],
+    "imaging_telescopes": [
+        "GSO 150/750, F5, Newtonian Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806917/"
+    ],
+    "orientation": "82.854",
+    "pixscale": "1.578",
+    "published": "2017-09-21T13:54:04.908391",
+    "ra": "23.457",
+    "radius": "0.688",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313079/",
+    "revisions": [],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 - Triangulum Galaxy",
+    "updated": "2021-03-17T19:47:23.238549",
+    "uploaded": "2017-09-21T14:54:06.353709",
+    "url_duckduckgo": "https://www.astrobin.com/313079/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313079/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313079/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313079/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313079/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313079/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313079/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22390/2017/cd84374a-28e5-4e9d-8e66-d926a4ee63bb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22390/2017/cd84374a-28e5-4e9d-8e66-d926a4ee63bb-1582429918.jpg",
+    "url_thumb": "https://www.astrobin.com/313079/0/rawthumb/thumb/",
+    "user": "mof1re",
+    "views": 412,
+    "w": 2277
+}

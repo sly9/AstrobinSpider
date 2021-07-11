@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-69.102",
+    "description": "The Tarantula nebula in the LMC has an unusual proportion of light that is not from excited hydrogen. The bluish green colours are due to oxygen. This is why most DSLR images don't show a lot of red.\r\nThis image has been colour balanced using G2v stars as a reference.\r\nAs the final step of putting the luminance channel into the RGB, the L was blended with 3hrs worth of H-alpha data.",
+    "h": 2485,
+    "hash": null,
+    "id": 277190,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Meade Starfinder 10\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799640/"
+    ],
+    "orientation": "8.660",
+    "pixscale": "0.953",
+    "published": "2016-12-25T03:03:46.944064",
+    "ra": "84.679",
+    "radius": "0.547",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277190/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2070",
+        "NGC 2100",
+        "Tarantula nebula"
+    ],
+    "title": "Tarantula nebula with ha enhanced luminance",
+    "updated": "2021-03-17T22:11:15.719193",
+    "uploaded": "2016-12-25T03:03:47.457377",
+    "url_duckduckgo": "https://www.astrobin.com/277190/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277190/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277190/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277190/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277190/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277190/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277190/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1473/2016/c7d5155c-3946-4414-b439-30c6a672c3d3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1473/2016/c7d5155c-3946-4414-b439-30c6a672c3d3-1582495591.jpg",
+    "url_thumb": "https://www.astrobin.com/277190/0/rawthumb/thumb/",
+    "user": "alocky",
+    "views": 283,
+    "w": 3301
+}

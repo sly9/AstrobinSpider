@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 29,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.062",
+    "description": "SkyEyE Observatory, Extremadura, Spain\r\n\r\nAstrodon Ha 3nm 50mm: 246x300\" bin 1x1\r\nBaader OIII 8,5nm 50mm: 189x600\" bin 2x2\r\nBaader SII 8nm 50mm: 264x300\" bin 1x1\r\nIntegration: 74.0 hours",
+    "h": 1296,
+    "hash": null,
+    "id": 362053,
+    "imaging_cameras": [
+        "G3-16200"
+    ],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 198,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "83.059",
+    "pixscale": "5.040",
+    "published": "2018-08-18T13:24:03.079168",
+    "ra": "317.835",
+    "radius": "1.441",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/362053/",
+    "revisions": [
+        "/api/v1/imagerevision/153850/"
+    ],
+    "subjects": [
+        "Other"
+    ],
+    "title": "SH2-129",
+    "updated": "2021-03-17T14:22:56.091132",
+    "uploaded": "2018-08-18T14:24:03.441818",
+    "url_duckduckgo": "https://www.astrobin.com/362053/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/362053/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/362053/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/362053/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/362053/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/362053/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/362053/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/87bf6536-3756-470e-b74c-2fddbbfb3f03.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/87bf6536-3756-470e-b74c-2fddbbfb3f03-1534602395.png",
+    "url_thumb": "https://www.astrobin.com/362053/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 1046,
+    "w": 1600
+}

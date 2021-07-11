@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "22.715",
+    "description": "Rev A: Taken over 3 nights 15thMay, 16th and 17th of July. A HSO image.\r\nRev B: A LHE sharpened version.\r\nRev C: A HOO LHE sharpened version.",
+    "h": 957,
+    "hash": null,
+    "id": 303791,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Skywatcher  200p  Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803415/"
+    ],
+    "orientation": "323.071",
+    "pixscale": "1.327",
+    "published": "2017-07-18T05:16:21.692804",
+    "ra": "299.895",
+    "radius": "0.295",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303791/",
+    "revisions": [
+        "/api/v1/imagerevision/120723/",
+        "/api/v1/imagerevision/120743/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "M27",
+        "NGC 6853",
+        "PK060-03.1"
+    ],
+    "title": "M27 in Vulpecula. HSO",
+    "updated": "2021-03-17T20:24:53.807831",
+    "uploaded": "2017-07-18T05:46:58.358315",
+    "url_duckduckgo": "https://www.astrobin.com/303791/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303791/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303791/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303791/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303791/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303791/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303791/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12937/2017/87a8f2f3-ab0d-42e2-b790-ed634f096119.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/12937/2017/87a8f2f3-ab0d-42e2-b790-ed634f096119-1582502663.png",
+    "url_thumb": "https://www.astrobin.com/303791/0/rawthumb/thumb/",
+    "user": "Pat_Rodgers",
+    "views": 446,
+    "w": 1281
+}

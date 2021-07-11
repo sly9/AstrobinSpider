@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "17.759",
+    "description": "The Iwamoto comet from 12th of February. The little bugger is fast, I tracked the comet with my mount and the stars got significantly trailed in two-minute subexposures!",
+    "h": 884,
+    "hash": null,
+    "id": 390671,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 100ED Super APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802144/"
+    ],
+    "orientation": "271.377",
+    "pixscale": "3.790",
+    "published": "2019-02-13T18:55:24.865361",
+    "ra": "149.804",
+    "radius": "1.016",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/390671/",
+    "revisions": [
+        "/api/v1/imagerevision/170349/",
+        "/api/v1/imagerevision/170350/"
+    ],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "C/2018 Y1 (Iwamoto)",
+    "updated": "2021-03-17T12:07:28.934777",
+    "uploaded": "2019-02-13T18:49:25.106441",
+    "url_duckduckgo": "https://www.astrobin.com/390671/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390671/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390671/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390671/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390671/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390671/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390671/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5199/2020/eb43e961-80bb-4229-963e-7bb1c5adcd0f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5199/2020/eb43e961-80bb-4229-963e-7bb1c5adcd0f-1597563949.jpg",
+    "url_thumb": "https://www.astrobin.com/390671/0/rawthumb/thumb/",
+    "user": "vehnae",
+    "views": 202,
+    "w": 1715
+}

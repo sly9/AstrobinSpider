@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 29,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Building further on the 48 (50) panel mosaic i added a row of 16 panels to include the Veil nebula Complex.  As a guide i used the Sequence Generator Pro Frame & Mosaic wizard generated output print (included here as \"Original revision\" with all my pen scribblings showing the approach with the 16 panel later addition.) I added some panels in the overlap with the 50 panel mosaic to assure that the registration would have enough overlap area to work with. The resulting registration RMS error is 0.1 pixel.......\r\n As a basis for this Mosaic I used 70 seperate stacks (also made with APP) with integration times between 45 and 345 minutes each depending on the object in the frame. An all new mosaic registration algorithm was used that is capable of truly sub pixel perfect registration of these large Mosaics. And the whole process is fully Automatic.  The full size version is 29320x35386 pixels giving 1038 Megapixels).\r\nThat is not practicle for web use, but this upload is a 50% reduction and still a 120 Megabyte JPG. (So it still takes some time to load when you select the \"full resolution\" option here on Astrobin ;-)\r\nProcessing: only histogam stretch and curves adjustments, nothing else.\r\n\r\nThe Fits file size of the full version is 3.7 Gb.\r\n\r\nData collected between may 8 and july 31, 2017.\r\n\r\nMosaic settings APP with version 1.0521 (Experimental version to test new Algorithm):\r\n\r\n3) Analyse stars\r\nmin size: 4\r\nClip Prof: 0.1\r\nFilter profile: off\r\nKappa: 3 (set to detect 3000-5000 stars)\r\n\r\n4) Register\r\n\r\nPattern recognition: pentagons\r\nscale start: 5\r\nscale stop: 10\r\nuse dynamic distortion corr: on\r\nsame camera and optics: off\r\nDistortion margin: 0.02\r\n# of overlapping frames: 9\r\nregistration mode: mosaic\r\nregistration model: projective\r\n\r\n6) Integrate\r\n\r\ncomposition mode: full\r\nLNC degree: 4)\r\nLNC it: 3\r\nenable MBB: on\r\nMBB%: 5\r\nNo under/overshoot on\r\nIntegrate set scale 1.0\r\n\r\nThe Astro Pixel Processor website:  https://www.astropixelprocessor.com/\r\n\r\nFeatured in Flickr Explore: https://www.flickr.com/photos/kees-scherer/36598821376/\r\nIOTW (Image of the week) feb 5,2018  Photographing Space:\r\nhttps://photographingspace.com/iotw-feb-5-2018/",
+    "h": 1217,
+    "hash": null,
+    "id": 307683,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 214,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-08-18T09:13:47.211647",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/307683/",
+    "revisions": [
+        "/api/v1/imagerevision/122905/",
+        "/api/v1/imagerevision/122907/",
+        "/api/v1/imagerevision/122930/"
+    ],
+    "subjects": [],
+    "title": "70 Panel Cygnus Gigapixel APP Mosaic in Ha.",
+    "updated": "2021-05-06T09:26:36.857050",
+    "uploaded": "2017-08-18T07:58:14.231642",
+    "url_duckduckgo": "https://www.astrobin.com/307683/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/307683/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/307683/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/307683/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/307683/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/307683/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/307683/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/307683/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 1269,
+    "w": 1671
+}

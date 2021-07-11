@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "60.620",
+    "description": "",
+    "h": 2493,
+    "hash": null,
+    "id": 318525,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV080ST-25SV .8x reducer flattener"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805474/"
+    ],
+    "orientation": "177.536",
+    "pixscale": "1.436",
+    "published": "2017-10-25T02:53:23.349052",
+    "ra": "349.535",
+    "radius": "1.558",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318525/",
+    "revisions": [
+        "/api/v1/imagerevision/128175/"
+    ],
+    "subjects": [
+        "Bubble nebula",
+        "M 52",
+        "NGC 7510",
+        "NGC 7538",
+        "NGC 7635",
+        "NGC 7654"
+    ],
+    "title": "Bubble and Lobster Claw Hubble Palette",
+    "updated": "2021-06-13T06:58:03.058061",
+    "uploaded": "2017-10-25T03:53:24.347011",
+    "url_duckduckgo": "https://www.astrobin.com/318525/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318525/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318525/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318525/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318525/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318525/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318525/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/dd98812c-db76-4de1-b7cf-e7cc558bf96e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dd98812c-db76-4de1-b7cf-e7cc558bf96e-1508900230.jpg",
+    "url_thumb": "https://www.astrobin.com/318525/0/rawthumb/thumb/",
+    "user": "drmikevt",
+    "views": 174,
+    "w": 1824
+}

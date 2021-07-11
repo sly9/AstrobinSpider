@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "21.449",
+    "description": "Animation des Kometen C/2015 ER61 (PANSTARRS) am 14.10.2017 von 01:06 - 06:10 MESZ.\r\n\r\nDie Animation enthält 17 Einzelbilder.\r\nEin Einzelbild besteht aus 5x3min.",
+    "h": 560,
+    "hash": null,
+    "id": 316869,
+    "imaging_cameras": [
+        "G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.026",
+    "pixscale": "3.830",
+    "published": "2017-10-16T03:33:33.727331",
+    "ra": "54.940",
+    "radius": "0.600",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316869/",
+    "revisions": [
+        "/api/v1/imagerevision/132051/",
+        "/api/v1/imagerevision/132052/"
+    ],
+    "subjects": [
+        "Comet"
+    ],
+    "title": "C/2015 ER61 PANSTARRS, 14.10.2017 -Animation",
+    "updated": "2021-03-17T19:31:56.019899",
+    "uploaded": "2017-10-16T04:33:35.011959",
+    "url_duckduckgo": "https://www.astrobin.com/316869/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316869/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316869/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316869/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316869/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316869/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316869/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/def67bd0-7e78-4637-9d48-3e403fce8c8f.gif",
+    "url_solution": "https://cdn.astrobin.com/solutions/def67bd0-7e78-4637-9d48-3e403fce8c8f-1527353498.gif",
+    "url_thumb": "https://www.astrobin.com/316869/0/rawthumb/thumb/",
+    "user": "Nippo81",
+    "views": 254,
+    "w": 980
+}

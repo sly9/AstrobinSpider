@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "-13.223",
+    "description": "I really would have loved to have more data on this subject but due to terrible weather and optics issues I got what I got. I used pixelmath to blend one with all 3 narrowband channels with another with two. I would have preferred to get a tleast double the oiii.\r\n\r\nAll the data was drizzle @ k= 6",
+    "h": 1542,
+    "hash": null,
+    "id": 339243,
+    "imaging_cameras": [
+        "Quantum Scientific Imaging QSI583wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Telescope Engineering Company TEC140 TEC-140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808185/"
+    ],
+    "orientation": "89.948",
+    "pixscale": "0.788",
+    "published": "2018-03-27T00:07:27.812346",
+    "ra": "109.665",
+    "radius": "0.617",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339243/",
+    "revisions": [],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet NGC 2359 Bi Mix",
+    "updated": "2021-03-17T16:04:29.003643",
+    "uploaded": "2018-03-27T00:56:18.630088",
+    "url_duckduckgo": "https://www.astrobin.com/339243/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339243/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339243/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339243/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339243/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339243/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339243/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/be22d8bd-9a36-44db-b402-68acc7c42b0f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/be22d8bd-9a36-44db-b402-68acc7c42b0f-1522109184.png",
+    "url_thumb": "https://www.astrobin.com/339243/0/rawthumb/thumb/",
+    "user": "Plugmaster",
+    "views": 222,
+    "w": 1824
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "11.172",
+    "description": "",
+    "h": 1966,
+    "hash": null,
+    "id": 412853,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX4 Quadruplet Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808684/"
+    ],
+    "orientation": "0.026",
+    "pixscale": "4.716",
+    "published": "2019-07-01T18:48:45.076589",
+    "ra": "290.248",
+    "radius": "1.971",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/412853/",
+    "revisions": [
+        "/api/v1/imagerevision/186062/",
+        "/api/v1/imagerevision/246165/"
+    ],
+    "subjects": [
+        "25 ome01 Aql",
+        "29 ome02 Aql",
+        "31 b Aql",
+        "PK045-01.1",
+        "PK046-01.1",
+        "The star 31Aql",
+        "The star ω1Aql"
+    ],
+    "title": "Lynds' Dark Nebula Nos. 673, 675, 676, 683 and the Open Cluster Berkeley 43",
+    "updated": "2021-03-17T10:23:14.004950",
+    "uploaded": "2019-07-01T19:48:45.315152",
+    "url_duckduckgo": "https://www.astrobin.com/412853/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/412853/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/412853/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/412853/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/412853/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/412853/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/412853/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/41060d60-200e-40c6-ab16-5258d176fcc3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/41060d60-200e-40c6-ab16-5258d176fcc3-1562010835.jpg",
+    "url_thumb": "https://www.astrobin.com/412853/0/rawthumb/thumb/",
+    "user": "deanjacobsen",
+    "views": 390,
+    "w": 2600
+}

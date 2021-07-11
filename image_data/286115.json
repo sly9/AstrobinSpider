@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "PRO_DATA",
+    "dec": null,
+    "description": "The Liverpool Telescope, or \"LT\", is a fully robotic astronomical telescope owned and operated by the Astrophysics Research Institute of Liverpool John Moores University. It is fortunately not placed in England but on the summit of the island of La Palma, in the Canaries. It is there for professional astronomers to use but the data becomes freely available after a year.\r\n\r\nWhile the data is free for download it is a slightly cumbersome process since suitable subs have to selected from thumbnails and downloaded one at a time, and then quality sorted and aligned, which is not always straightforward as they may come from various astronomers working at different times. In any case, it is not an overwhelming task and well worth the effort. Another slight problem is to figure out what filters to go for by looking at the spectra for the filters most commonly used on the scope. I ended up using Sloan-r for red, Bessell-B or blue and Bessell-V for green and hoped that these would be approximately ok. I also downloaded Ha 656.6 nm data for luminosity and for a bit of Ha blending into the red channel. \r\n\r\nIt is altogether 41 subs (120 s each) of which 14 are Ha. Totally ca 1.4 hours - not much but then this is a 2 meter telescope, so aperture is on your side.\r\n\r\nThis image became an APOD :)\r\nhttps://apod.nasa.gov/apod/ap180205.html",
+    "h": 1493,
+    "hash": null,
+    "id": 286115,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-03-05T11:01:16.434635",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286115/",
+    "revisions": [
+        "/api/v1/imagerevision/113797/"
+    ],
+    "subjects": [],
+    "title": "Bubble Nebula NGC7635 HaRGB",
+    "updated": "2021-06-19T17:40:37.089146",
+    "uploaded": "2017-03-05T11:01:16.767318",
+    "url_duckduckgo": "https://www.astrobin.com/286115/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286115/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286115/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286115/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286115/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286115/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286115/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/286115/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 356,
+    "w": 1679
+}

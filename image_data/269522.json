@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "61.456",
+    "description": "IC 1805 - The Heart Nebula shot narrowband and edited in the Hubble Palette. This is a 2 panel mosaic with 3.75 hours on each panel. \r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nTotal data gathered:\r\n(30) Ha @ 300secs - 1x1\r\n(30) SII @ 300secs - 1x1\r\n(30) OIII @ 300secs - 1x1\r\n\r\nCamera : ZWO ASI1600MM-Cool with Gain set to 75 and offset set to 15\r\nTelescope: William Optics GT102 W_0.8x Reducer Flattener\r\nMount: AP Mach1GTO",
+    "h": 2000,
+    "hash": null,
+    "id": 269522,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT102 102mm f/6.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806254/"
+    ],
+    "orientation": "231.074",
+    "pixscale": "4.262",
+    "published": "2016-10-26T15:59:38.206000",
+    "ra": "37.862",
+    "radius": "1.458",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269522/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC1795",
+        "IC1805",
+        "NGC 896",
+        "NGC896",
+        "Sh2-190"
+    ],
+    "title": "Heart Nebula",
+    "updated": "2021-03-17T22:39:11.326450",
+    "uploaded": "2016-10-26T16:59:38.206000",
+    "url_duckduckgo": "https://www.astrobin.com/269522/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269522/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269522/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269522/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269522/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269522/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269522/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11235/2016/706f9687-5bdd-4005-aff7-ae30c8978dc7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11235/2016/706f9687-5bdd-4005-aff7-ae30c8978dc7-1582595402.jpg",
+    "url_thumb": "https://www.astrobin.com/269522/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 448,
+    "w": 1437
+}

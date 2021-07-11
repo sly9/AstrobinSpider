@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 5,
+    "data_source": "PRO_DATA",
+    "dec": "11.260",
+    "description": "An RGB image I processed from the rather few usable subs of this object on the Liverpool Telescope site\r\nSubs used and filters:\r\n5 x 90 s of sdss-r (red channel)\r\n5 x 90 s of Bessell V (green channel)\r\n10 x 90 s of Bessell B + sdss-g (blue channel)\r\nSo only 30 min of data but 2 meter of aperture helps a lot.",
+    "h": 1993,
+    "hash": null,
+    "id": 294284,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "179.995",
+    "pixscale": "0.304",
+    "published": "2017-05-03T08:38:33.139734",
+    "ra": "189.137",
+    "radius": "0.118",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294284/",
+    "revisions": [
+        "/api/v1/imagerevision/115649/"
+    ],
+    "subjects": [
+        "NGC 4567",
+        "NGC 4568",
+        "NGC4567",
+        "NGC4568",
+        "Siamese Twins"
+    ],
+    "title": "Colliding galaxies NGC 4567 & NGC 4568",
+    "updated": "2021-03-17T21:01:19.297966",
+    "uploaded": "2017-05-03T09:38:41.693337",
+    "url_duckduckgo": "https://www.astrobin.com/294284/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294284/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294284/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294284/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294284/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294284/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294284/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/8a9628b7-9f3d-4d66-9160-e4e4bb03e0ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/8a9628b7-9f3d-4d66-9160-e4e4bb03e0ca-1582579775.jpg",
+    "url_thumb": "https://www.astrobin.com/294284/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 753,
+    "w": 1952
+}

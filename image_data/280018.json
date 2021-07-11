@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "33.489",
+    "description": "IC410 is a dusty emission nebula located in the constellation of Auriga at about 12.000 ly from Earth. It is part of a larger star forming region that also contains the Flaming Star Nebula. The gas structures in this picture are lit by the radiation from the open star cluster NGC1893 that lies in the center of the nebula. This star cluster is about 4 million years old, but in astronomical terms it is still very young, with hot, massive stars. At the top-left of the star cluster two more dense structures are visible. These are similar to the famous Pillar of Creation and they are composed of dust and gas leftover from the formation of the star cluster and are very likely to give birth to more stars in the future. As can be seen in the picture, these structures point away from the center of the nebula. This is because of the stellar winds and radiation pressure from the stars in NGC 1893. Due to these structure's shape, the nebula is also called the Tadpoles Nebula.\r\n\r\nThis picture is a HOO combination (with 30% Ha and 70% OIII on the Green channel) shot in the first day of the year at bin 2x2 (it will be part of a bigger mosaic containing also the Flaming Star Nebula) and then integrated with a 2x drizzle. It has a ~6.5h integration time and was processed in PixInsight and PS.",
+    "h": 2100,
+    "hash": null,
+    "id": 280018,
+    "imaging_cameras": [
+        "Atik 460EX mono"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Black Diamond 80ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 222,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803212/"
+    ],
+    "orientation": "359.973",
+    "pixscale": "1.976",
+    "published": "2017-01-13T09:30:28.501420",
+    "ra": "80.745",
+    "radius": "0.815",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/280018/",
+    "revisions": [],
+    "subjects": [
+        "IC 410",
+        "NGC 1893"
+    ],
+    "title": "IC410 - The Tadpoles Nebula (HOO)",
+    "updated": "2021-03-17T22:00:26.560743",
+    "uploaded": "2017-01-13T09:30:29.532835",
+    "url_duckduckgo": "https://www.astrobin.com/280018/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/280018/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/280018/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/280018/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/280018/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/280018/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/280018/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12486/2020/ac9a8b30-8d74-4e64-9b12-e1fea4b36c62.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12486/2020/ac9a8b30-8d74-4e64-9b12-e1fea4b36c62-1582432452.png",
+    "url_thumb": "https://www.astrobin.com/280018/0/rawthumb/thumb/",
+    "user": "de0s",
+    "views": 1320,
+    "w": 2100
+}

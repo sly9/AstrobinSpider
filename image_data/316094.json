@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "61.314",
+    "description": "",
+    "h": 2385,
+    "hash": null,
+    "id": 316094,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV080ST-25SV .8x reducer flattener"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805474/"
+    ],
+    "orientation": "269.124",
+    "pixscale": "1.435",
+    "published": "2017-10-10T18:39:00.812589",
+    "ra": "38.128",
+    "radius": "1.597",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316094/",
+    "revisions": [
+        "/api/v1/imagerevision/127122/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "Heart Nebula SHO",
+    "updated": "2021-03-17T19:35:28.940482",
+    "uploaded": "2017-10-10T19:39:02.243887",
+    "url_duckduckgo": "https://www.astrobin.com/316094/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316094/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316094/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316094/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316094/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316094/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316094/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17358/2017/3d688308-4c10-42af-b92d-715e428154a9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3d688308-4c10-42af-b92d-715e428154a9-1507660904.jpg",
+    "url_thumb": "https://www.astrobin.com/316094/0/rawthumb/thumb/",
+    "user": "drmikevt",
+    "views": 252,
+    "w": 1824
+}

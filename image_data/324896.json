@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "61.462",
+    "description": "HA 21 x 1200 sec\r\n\r\nO 24 x 1200 sec\r\n\r\nSU  21 x 1200 sec\r\n\r\n22HRS",
+    "h": 1426,
+    "hash": null,
+    "id": 324896,
+    "imaging_cameras": [
+        "Quantum Scientific Imaging QSI583wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Borg 125"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808051/"
+    ],
+    "orientation": "271.205",
+    "pixscale": "2.298",
+    "published": "2017-12-06T05:02:13.544359",
+    "ra": "38.214",
+    "radius": "1.255",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/324896/",
+    "revisions": [
+        "/api/v1/imagerevision/135876/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805"
+    ],
+    "title": "The Heart Nebula Narrowband Hubble Palette",
+    "updated": "2021-03-17T18:58:54.593719",
+    "uploaded": "2017-12-06T04:51:43.614225",
+    "url_duckduckgo": "https://www.astrobin.com/324896/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324896/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324896/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324896/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324896/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324896/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324896/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23703/2017/e4331c8e-9609-45ed-9772-9179fa71472b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/e4331c8e-9609-45ed-9772-9179fa71472b-1512536435.png",
+    "url_thumb": "https://www.astrobin.com/324896/0/rawthumb/thumb/",
+    "user": "Plugmaster",
+    "views": 165,
+    "w": 1824
+}

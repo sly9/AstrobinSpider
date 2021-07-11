@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "56.110",
+    "description": "This is a reprocessing of my data from the lion nebula. I've been experimenting with more aggressive noise reduction in linear mode (MLT k-Sigma in Pixinisight). Also, I wanted to have a crop of the center area / the head of the lion.",
+    "h": 1219,
+    "hash": "z3jsep",
+    "id": 430986,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Sharpstar 15028HNT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809820/"
+    ],
+    "orientation": "228.314",
+    "pixscale": "1.882",
+    "published": "2019-10-02T21:30:15.917036",
+    "ra": "334.790",
+    "radius": "0.597",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/430986/",
+    "revisions": [],
+    "subjects": [],
+    "title": "sh2-132 Heart of the Lion (Lion Nebula crop)",
+    "updated": "2021-03-17T08:52:55.860432",
+    "uploaded": "2019-10-02T22:30:16.056173",
+    "url_duckduckgo": "https://www.astrobin.com/z3jsep/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/z3jsep/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/z3jsep/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/z3jsep/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/z3jsep/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/z3jsep/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/z3jsep/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bcb21841-87fb-411b-a460-454d86ded2d7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bcb21841-87fb-411b-a460-454d86ded2d7-1570055699.jpg",
+    "url_thumb": "https://www.astrobin.com/z3jsep/0/rawthumb/thumb/",
+    "user": "photonjunkie",
+    "views": 59,
+    "w": 1824
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "-48.654",
+    "description": "",
+    "h": 2572,
+    "hash": null,
+    "id": 414713,
+    "imaging_cameras": [
+        "QHYCCD QHY5L II Mono",
+        "ZWO ASI 1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 120"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809153/"
+    ],
+    "orientation": "253.280",
+    "pixscale": "1.160",
+    "published": "2019-07-11T02:35:47.563711",
+    "ra": "250.023",
+    "radius": "0.736",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/414713/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193"
+    ],
+    "title": "NGC 6188 - Fighting Dragons of Ara",
+    "updated": "2021-06-04T13:50:16.860298",
+    "uploaded": "2019-07-11T03:35:47.729505",
+    "url_duckduckgo": "https://www.astrobin.com/414713/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414713/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414713/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414713/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414713/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414713/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414713/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8f0dc1ca-faa3-4a91-a3cd-e024e4d0b452.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8f0dc1ca-faa3-4a91-a3cd-e024e4d0b452-1562816976.jpg",
+    "url_thumb": "https://www.astrobin.com/414713/0/rawthumb/thumb/",
+    "user": "brenchen",
+    "views": 664,
+    "w": 3781
+}

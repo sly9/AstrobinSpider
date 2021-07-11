@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-13.818",
+    "description": "HA Only (3nm HA AstroDon).\r\n15 x 600s exposures bin 1x1; -15C.\r\n\r\nPhotos taken from my backyard in Spring, TX.  This location has a 'White/Red' scale.",
+    "h": 1379,
+    "hash": null,
+    "id": 351205,
+    "imaging_cameras": [
+        "ASI 1600 MM - Cooled"
+    ],
+    "imaging_telescopes": [
+        "TEC 140 f/7 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808465/"
+    ],
+    "orientation": "51.342",
+    "pixscale": "0.769",
+    "published": "2018-06-14T14:10:43.580666",
+    "ra": "274.679",
+    "radius": "0.624",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/351205/",
+    "revisions": [],
+    "subjects": [
+        "11.73",
+        "233 Asterope",
+        "Eagle nebula",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen nebula"
+    ],
+    "title": "Eagle Nebula",
+    "updated": "2021-05-25T02:16:11.419224",
+    "uploaded": "2018-06-14T15:10:46.814242",
+    "url_duckduckgo": "https://www.astrobin.com/351205/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/351205/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/351205/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/351205/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/351205/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/351205/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/351205/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/f33b9333-ecda-4560-94ee-5deac29992f7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f33b9333-ecda-4560-94ee-5deac29992f7-1528985903.jpg",
+    "url_thumb": "https://www.astrobin.com/351205/0/rawthumb/thumb/",
+    "user": "ASTRODAVID",
+    "views": 64,
+    "w": 1824
+}

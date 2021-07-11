@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "61.182",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 2082,
+    "hash": null,
+    "id": 319787,
+    "imaging_cameras": [
+        "QSI 690WSG QSI"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes APM 152/1200 ED APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803830/"
+    ],
+    "orientation": "358.912",
+    "pixscale": "0.627",
+    "published": "2017-11-01T18:51:51.285541",
+    "ra": "350.168",
+    "radius": "0.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319787/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "Bubble Nebula - SHO",
+    "updated": "2021-03-17T19:19:44.447768",
+    "uploaded": "2017-11-01T18:39:20.564920",
+    "url_duckduckgo": "https://www.astrobin.com/319787/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319787/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319787/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319787/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319787/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319787/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319787/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11158/2017/af669eb2-15b4-4e64-a2c0-13fb311ed0fb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11158/2017/af669eb2-15b4-4e64-a2c0-13fb311ed0fb-1582524134.jpg",
+    "url_thumb": "https://www.astrobin.com/319787/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 247,
+    "w": 2604
+}

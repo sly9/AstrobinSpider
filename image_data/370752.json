@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-20.829",
+    "description": "HA/G/B image\r\n\r\nHa - 11 hours\r\nGreen/OIII - 4.6 hours\r\nBlue - 2.5 hours",
+    "h": 1653,
+    "hash": null,
+    "id": 370752,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" F4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803398/"
+    ],
+    "orientation": "87.363",
+    "pixscale": "0.983",
+    "published": "2018-10-08T23:56:18.320328",
+    "ra": "337.413",
+    "radius": "0.421",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/370752/",
+    "revisions": [],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "NGC7293 Helix Nebula",
+    "updated": "2021-03-17T13:41:25.243919",
+    "uploaded": "2018-10-09T00:56:18.569508",
+    "url_duckduckgo": "https://www.astrobin.com/370752/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/370752/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/370752/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/370752/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/370752/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/370752/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/370752/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2606/2018/be9c44a8-bda3-4a5d-852e-8b6476a8319c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2606/2018/be9c44a8-bda3-4a5d-852e-8b6476a8319c-1582525878.jpg",
+    "url_thumb": "https://www.astrobin.com/370752/0/rawthumb/thumb/",
+    "user": "Cometcatcher",
+    "views": 685,
+    "w": 2608
+}

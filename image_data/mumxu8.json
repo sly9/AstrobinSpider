@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 37,
+    "comments": 22,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-40.218",
+    "description": "Hello everybody!!\r\nAnyone who has ever done a acquiring of deep sky images knows that how to select the subs is an important issue. I decided to share my experience with you by this small article. This summer (it`s winter in Chile)  was not suitable for observation and the problem of selection was evident.  I sorted out subs set by PixInsight and I used two tools: «Blink» and «SubframeSelector». \r\nThe Blink tool  permits to evaluate the quality of pictures by comparing them. There are auto and manual modes.\r\nUsually, I look through files twice. First, I take a look at it in the large scale to fit the picture with the window. After that, I look at it carefully to observe any small details in scale 1:1, 2:1.  \r\n\r\nThe process SubframeSelector is a powerful tool which has facilities of visual assessment far better than possibilities of Blink process. The SubframeSelector analyzes fields to show us statistics by tables and graphical forms. These forms include parameters such as FWHM, noise, index, etc.\r\n \r\nThere is an option to delete failed shots manually, also you can make a formula that would accept or reject files.\r\nThe program permits to assign the weight of frames, that based on user`s  formula. Thereafter the weight could be taken into account at Image Integration. You can find here <a href=\"https://www.dropbox.com/s/y3xlj98ir8gg5fe/SubframeSelector%20Weighting%20Expressions.xlsx?dl=0\">\r\nWeighting Expressions</a> Weighting Expressions by David Ault. It helps to  calculate the weight of sub-frames. There are 3 main parameters in the David`s formula: FWHM, Eccentricity (to determine the curvature of stars) and signal/noise Ratio. \r\nIt means the frames with the smallest roundy stars and the high  single/noise will give the biggest contribution to master sum. \r\nIs it possible to use a one criterion for overall image?  Is there  a better way? The most important criterion for stars  and bright parts of nebulas are the shape and sharpness (FWHM, Eccentricity), the main criterion for peripherals and background is the signal/noise Ratio.\r\nI figured out following way: I made two sums. The first one  (All-sum)contains all frames (without frames that obviously have defects). The second (Best-sum) - includes the best frames of FWHM and Eccentricity. \r\nAfter that I combine sums by star mask and range mask. The selection of frames for stars and bright parts of nebulas has been made from the Best-sum, and All-sum for the remaining part of image. For this, I created the star mask and range mask using Photoshop, and then combine them by the Lighten overlay method. The example of this kind of mask is given below. The mask shows us the stars and bright parts of nebula.\r\n\r\n<a href=\"https://astrob.in/mumxu8/B/\"><img src=\"https://astrob.in/mumxu8/B/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n Pic 1.  The combined range and star mask\r\n\r\nBefore combining the sums, it would be better to bring them into full compliance using the LocalNormalization tool. I`d chosen the Best-sum as a Reference image, after that I applied tool to All-sum.\r\n\r\n<a href=\"https://astrob.in/mumxu8/D/\"><img src=\"https://astrob.in/mumxu8/D/rawthumb/gallery/get.jpg?insecure\"/></a> \r\nPic 2. The LocalNormalization process\r\n\r\n\r\nOnwards I combine the All-sum and the Best-sum  in PixInsight by using PixelMath.\r\n\r\n <a href=\"https://astrob.in/mumxu8/E/\"><img src=\"https://astrob.in/mumxu8/E/rawthumb/gallery/get.jpg?insecure\"/></a>\r\nPic. 3. The PixelMath formula for combination two pictures my mask \r\n\r\nThe final sum is completed. The combination of sums combines the advantages of both sums.",
+    "h": 3939,
+    "hash": "mumxu8",
+    "id": 439165,
+    "imaging_cameras": [
+        "FLI PROLINE PL16803"
+    ],
+    "imaging_telescopes": [
+        "ASA Astrosysteme ASA20NG-OK3 f 3,6"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 239,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.772",
+    "pixscale": "0.961",
+    "published": "2019-11-17T18:20:47.703249",
+    "ra": "209.696",
+    "radius": "0.730",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/439165/",
+    "revisions": [
+        "/api/v1/imagerevision/200484/",
+        "/api/v1/imagerevision/200488/",
+        "/api/v1/imagerevision/200489/"
+    ],
+    "subjects": [
+        "NGC 5367"
+    ],
+    "title": "NGC5367",
+    "updated": "2021-06-27T17:51:51.847088",
+    "uploaded": "2019-11-17T17:11:23.309234",
+    "url_duckduckgo": "https://www.astrobin.com/mumxu8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mumxu8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mumxu8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mumxu8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mumxu8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mumxu8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mumxu8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33375/2019/9a480d0d-6bec-4806-86f9-0dafaf669ef5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33375/2019/9a480d0d-6bec-4806-86f9-0dafaf669ef5-1582535977.jpg",
+    "url_thumb": "https://www.astrobin.com/mumxu8/0/rawthumb/thumb/",
+    "user": "StanislavVolskiy",
+    "views": 1879,
+    "w": 3794
+}

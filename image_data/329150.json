@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "60.443",
+    "description": "The Soul nebula is such a large object that we could not fit it easily within a single frame of our remote Tak 106/QSI 683 'widefield' rig located at the e-EyE facility in Extremadura, Spain.  As such, this is a two-panel mosaic consisiting of 21 x 1200s each of SII, Ha and OIII per panel - a total of 42 hours.  Data were captured between 19 November 2017 and 11 January 2018. \r\n\r\nThe Soul Nebula is a star forming region located 6,500 light years away in the constellation of Cassiopeia.  It is 100 light years across and contains several open clusters.\r\n\r\nSII: 42 x 1200s\r\nHa: 42 x 1200s\r\nOIII: 42 x 1200s\r\n\r\nA total of 42 hours.\r\n\r\nData capture: Steve Milne & Barry Wilson\r\nImage processing: Steve Milne",
+    "h": 1879,
+    "hash": null,
+    "id": 329150,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "180.455",
+    "pixscale": "3.606",
+    "published": "2018-01-12T17:36:40.588234",
+    "ra": "43.744",
+    "radius": "1.590",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329150/",
+    "revisions": [
+        "/api/v1/imagerevision/134664/",
+        "/api/v1/imagerevision/134678/",
+        "/api/v1/imagerevision/135549/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "Soul Nebula - 42 hour Mosaic in SHO",
+    "updated": "2021-03-17T16:51:04.157940",
+    "uploaded": "2018-01-12T17:36:41.310021",
+    "url_duckduckgo": "https://www.astrobin.com/329150/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329150/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329150/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329150/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329150/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329150/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329150/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/6b9fe8f6-11ba-435b-85f3-d7f7b1ff01ea.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/6b9fe8f6-11ba-435b-85f3-d7f7b1ff01ea-1582606132.jpg",
+    "url_thumb": "https://www.astrobin.com/329150/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 385,
+    "w": 2560
+}

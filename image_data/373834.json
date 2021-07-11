@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 13,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.864",
+    "description": "",
+    "h": 3600,
+    "hash": null,
+    "id": 373834,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 171,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "283.916",
+    "pixscale": "1.104",
+    "published": "2018-10-26T13:52:23.399838",
+    "ra": "20.877",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/373834/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-187"
+    ],
+    "title": "SH 2-187",
+    "updated": "2021-03-17T13:26:41.407355",
+    "uploaded": "2018-10-26T14:52:24.383992",
+    "url_duckduckgo": "https://www.astrobin.com/373834/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/373834/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/373834/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/373834/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/373834/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/373834/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/373834/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/3e7f2ac2-f0e7-4abf-9c86-0a99c38d5198.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/91e17adf-f285-4fde-9432-3ff4884828d9-1540565669.jpg",
+    "url_thumb": "https://www.astrobin.com/373834/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 451,
+    "w": 4500
+}

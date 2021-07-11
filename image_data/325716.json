@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-69.157",
+    "description": "Sometimes I ask myself \"How far can I push an image before it completely falls apart?\"\r\n\r\nWell this was my attempt at pushing deconvolution as far as I could without too much falling apart. There are stars with some ringing artefacts but that was because of poor star masking. I was mostly just playing around, picked up the worst offenders (which for the most part took very good) but I was astonished by the increased level of detail.\r\n\r\nNow, by over the top what I mean is 150 iterations of deconvolution.\r\nhttps://www.astrobin.com/full/324394/B/\r\n\r\nAbove is a link to a full version I've done of this with virtually no processing. This region may be a crop but I didn't want to have to do 150 iterations of deconvolution on a 65mp drizzled Ha image.\r\n\r\nVersion A is just deconvolve.\r\nVersion B is an after thought where I figured I may as well go the whole hog and do some sharpening.",
+    "h": 3856,
+    "hash": null,
+    "id": 325716,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare RH-200 MKII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "266.476",
+    "pixscale": "0.652",
+    "published": "2017-12-14T11:32:57.732603",
+    "ra": "84.518",
+    "radius": "0.522",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325716/",
+    "revisions": [
+        "/api/v1/imagerevision/132419/"
+    ],
+    "subjects": [
+        "NGC 2070",
+        "Tarantula nebula"
+    ],
+    "title": "NGC 2070 HOO Heavily Deconvolved",
+    "updated": "2021-03-17T18:55:26.223897",
+    "uploaded": "2017-12-14T11:32:58.525477",
+    "url_duckduckgo": "https://www.astrobin.com/325716/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325716/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325716/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325716/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325716/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325716/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325716/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14547/2017/bb218d7a-c733-4f80-8ae7-667d54a7ea36.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14547/2017/bb218d7a-c733-4f80-8ae7-667d54a7ea36-1582554118.jpg",
+    "url_thumb": "https://www.astrobin.com/325716/0/rawthumb/thumb/",
+    "user": "AtmosFearIC",
+    "views": 153,
+    "w": 4288
+}

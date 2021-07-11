@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 18,
+    "data_source": "UNSET",
+    "dec": "12.994",
+    "description": "5200 x 1 sec. ASI 290MM\r\n120 x 60 sec. ASI 1600 MC cooled",
+    "h": 1124,
+    "hash": null,
+    "id": 292555,
+    "imaging_cameras": [
+        "ZWO Optical ASI 290MM",
+        "ZWO Optical ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 363,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": "99.454",
+    "pixscale": "0.482",
+    "published": "2017-04-20T18:40:39.067951",
+    "ra": "170.070",
+    "radius": "0.147",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292555/",
+    "revisions": [
+        "/api/v1/imagerevision/218018/",
+        "/api/v1/imagerevision/256589/"
+    ],
+    "subjects": [
+        "M 66",
+        "NGC 3627"
+    ],
+    "title": "M 66 Galaxy",
+    "updated": "2021-06-22T19:40:53.550154",
+    "uploaded": "2017-04-20T19:40:39.649601",
+    "url_duckduckgo": "https://www.astrobin.com/292555/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292555/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292555/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292555/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292555/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292555/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292555/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/21355/2017/14586539-e58d-410d-a59b-1148bad87860.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/21355/2017/14586539-e58d-410d-a59b-1148bad87860-1582572752.jpg",
+    "url_thumb": "https://www.astrobin.com/292555/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 2294,
+    "w": 1880
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 14,
+    "data_source": "UNSET",
+    "dec": "12.382",
+    "description": "M87 with it's jet. It's an addition of 750 x 10s exposures",
+    "h": 2018,
+    "hash": null,
+    "id": 282262,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Selfmade Newton 16\" F4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 194,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799661/"
+    ],
+    "orientation": "1.405",
+    "pixscale": "0.593",
+    "published": "2017-02-01T20:49:29.870348",
+    "ra": "187.701",
+    "radius": "0.262",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282262/",
+    "revisions": [
+        "/api/v1/imagerevision/109664/",
+        "/api/v1/imagerevision/109774/"
+    ],
+    "subjects": [
+        "M 87",
+        "NGC 4476",
+        "NGC 4478",
+        "NGC 4486"
+    ],
+    "title": "M87 with Jet short exposed ",
+    "updated": "2021-04-01T14:13:04.986650",
+    "uploaded": "2017-02-01T20:49:30.746768",
+    "url_duckduckgo": "https://www.astrobin.com/282262/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282262/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282262/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282262/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282262/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282262/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282262/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3728/2017/210a1f3c-b048-4183-9578-cd5608930363.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3728/2017/210a1f3c-b048-4183-9578-cd5608930363-1582607605.jpg",
+    "url_thumb": "https://www.astrobin.com/282262/0/rawthumb/thumb/",
+    "user": "Letman",
+    "views": 1929,
+    "w": 2456
+}

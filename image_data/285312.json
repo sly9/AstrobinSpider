@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "25.984",
+    "description": "Site : Gunwigoon, KOREA\r\nTelescope : GSO RC10\" + CCDT67\r\nMount : Rainbowastro RST400\r\nCamera : QSI690wsg, Lodestarx2\r\nExposeure : L45 x 300s, RGB 17 x 300s each (Total 8h 00m, All 2x2 Bin)",
+    "h": 573,
+    "hash": null,
+    "id": 285312,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 90,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "88.677",
+    "pixscale": "2.369",
+    "published": "2017-02-27T05:10:48.313912",
+    "ra": "189.086",
+    "radius": "0.308",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/285312/",
+    "revisions": [
+        "/api/v1/imagerevision/111431/"
+    ],
+    "subjects": [
+        "NGC 4562",
+        "NGC 4565"
+    ],
+    "title": "NGC4565",
+    "updated": "2021-03-17T21:39:14.725380",
+    "uploaded": "2017-02-27T05:10:49.564653",
+    "url_duckduckgo": "https://www.astrobin.com/285312/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/285312/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/285312/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/285312/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/285312/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/285312/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/285312/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17550/2017/5e6dc38b-0ce8-4937-9fbc-d10f9429c90d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/5e6dc38b-0ce8-4937-9fbc-d10f9429c90d-1488172441.png",
+    "url_thumb": "https://www.astrobin.com/285312/0/rawthumb/thumb/",
+    "user": "Minseok.Chang",
+    "views": 236,
+    "w": 740
+}

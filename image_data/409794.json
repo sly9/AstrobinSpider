@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "38.387",
+    "description": "NGC 6888 is an accumulation of ionized gas in the constellation Cygnus that is driven away by the stellar wind of a hot Wolf-Rayet type star (WR136). The ionized gas emits red light in the hydrogen alpha wavelength (red). The central hydrogen alpha gas compex is wrapped by a wavefront of gas that contains oxygen molecules which emit green-blue light.\r\n\r\nThe image was composed from picture taken with two cameras\r\n\r\nASI1600mmp:\r\nHa  38 x 300s @ gain 139\r\nOIII 58 x 300s @ gain 139\r\n\r\nASI294mcp:\r\n100 x 15s @ gain 125 (for the stars)\r\n\r\nTelescope: 130/910 mm TS Photoline APO Triplet\r\n\r\nPP: Channele combination in APP and PSCC2019",
+    "h": 3040,
+    "hash": null,
+    "id": 409794,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MCPro",
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 74,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "217.804",
+    "pixscale": "0.863",
+    "published": "2019-06-10T18:06:24.156999",
+    "ra": "303.062",
+    "radius": "0.653",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409794/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 HOO-RGB V1",
+    "updated": "2021-03-17T10:38:10.743689",
+    "uploaded": "2019-06-10T19:06:24.533086",
+    "url_duckduckgo": "https://www.astrobin.com/409794/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409794/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409794/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409794/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409794/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409794/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409794/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2019/b7309dcf-6d22-4840-8ca9-df7d652776fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2019/b7309dcf-6d22-4840-8ca9-df7d652776fd-1582617094.jpg",
+    "url_thumb": "https://www.astrobin.com/409794/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 358,
+    "w": 4516
+}

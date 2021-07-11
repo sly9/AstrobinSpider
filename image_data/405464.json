@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 15,
+    "data_source": "BACKYARD",
+    "dec": "47.205",
+    "description": "The Whirlpool Galaxy (M 51) is an interacting grand-design spiral galaxy. Its smaller companion is galaxy NGC 5195 and the pair lies in the constellation of Canes Venatici, close to the border with Ursa Major. Its distance is estimated to be between 15 and 35 million light-years. \r\n\r\nIt was discovered by Charles Messier in 1773 but it was William Parsons in 1845 who discovered that the Whirlpool had a spiral structure. It was only with Edwin Hubble's work on Cepheid variables that it was recognized that objects such as the Whirlpool Galaxy were much further away than the boundary of the Milky Way and had to be galaxies of their own. \r\n\r\nCamera: ZWO ASI1600MM Pro (Gain 76, Offset 30 for LRGB, Gain 139, Offset 50 for Ha)\r\n\r\nA: Minimally cropped field of view with TS ONTC 10in f4 and ASI1600 sensor.\r\nB: Cropped field of view around M51.\r\nC: Annotated field of view including galaxies in the PGC catalog. The magnitude of some of these galaxies is in the 18 to 20 range (depending on the band).\r\nD: Tight crop of M51 with transient bright object AT2019abn (a so-called supernova impostor, see https://wis-tns.weizmann.ac.il/object/2019abn).",
+    "h": 2940,
+    "hash": null,
+    "id": 405464,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 151,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "262.389",
+    "pixscale": "0.684",
+    "published": "2019-05-12T19:45:18.444853",
+    "ra": "202.473",
+    "radius": "0.419",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405464/",
+    "revisions": [
+        "/api/v1/imagerevision/179460/",
+        "/api/v1/imagerevision/179461/",
+        "/api/v1/imagerevision/179490/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "IC4263",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "The Whirlpool Galaxy (Messier 51)",
+    "updated": "2021-03-17T10:59:00.058851",
+    "uploaded": "2019-05-12T20:45:18.710601",
+    "url_duckduckgo": "https://www.astrobin.com/405464/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405464/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405464/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405464/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405464/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405464/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405464/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2019/b7e0864c-fbe2-4d5a-8ad0-43e2cf6487b4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b7e0864c-fbe2-4d5a-8ad0-43e2cf6487b4-1557694801.jpg",
+    "url_thumb": "https://www.astrobin.com/405464/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 1037,
+    "w": 3292
+}

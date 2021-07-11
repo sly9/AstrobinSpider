@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 71,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I had nice seeing conditions for some long runs on Neptune. Because the planet is so dim, it is necessary to gather a lot of data when imaging Neptune and I made 4 runs of 30 minutes each with the IR 642nm BP filter. At this wavelength it is possible to see surface features on the planet. 30 minutes is about the limit before the planet's rotation smears the features, given Neptune's day is 16 hours long. After processing the videos, I derotated and integrated them with WinJUPOS. I integrated multiple runs 1+2, 1+2+3, 1+2+3+4, 2+3+4 & 3+4 in order to get as much data as possible per image. I then went on to make false colour pictures using the NIR images as Luminance with the RGB data I captured recently. \r\nIn integrating the images I was keen to see any features rotating with the planet, to ensure they are real and not a sharpening artefact. I made this animation from these test images which nicely shows that the surface features are rotating and in the correct orientation. Triton could also be seen in the images, so I made the animation sufficiently wide field to capture the moons orbital motion. The image of Triton is out of proportion with the planet due to seeing effects, although it should be noted that I have seen it much more bloated than this when the seeing hasn't been as good.\r\nThe south pole of the planet is lighter in colour and there appear to be two bands of whiter colour cloud arching up towards the equator. There are also some darker coloured spots in the southern part of the planet towards the equator.\r\nI think it is cool to see both the planet rotation and the moon's motion in this animation of just under an hour's duration at a distance of 4.3 billion kilometres..\r\nVersion B is a more zoomed in view of the planet.",
+    "h": 471,
+    "hash": "4vh3ka",
+    "id": 431746,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 266,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-10-06T09:37:04.106226",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/431746/",
+    "revisions": [
+        "/api/v1/imagerevision/195714/"
+    ],
+    "subjects": [],
+    "title": "Neptune rotates as Triton orbits",
+    "updated": "2021-03-17T08:49:26.479722",
+    "uploaded": "2019-10-06T09:59:52.696004",
+    "url_duckduckgo": "https://www.astrobin.com/4vh3ka/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4vh3ka/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4vh3ka/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4vh3ka/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4vh3ka/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4vh3ka/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4vh3ka/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/4vh3ka/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 1789,
+    "w": 706
+}

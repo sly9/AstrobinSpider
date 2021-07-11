@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.932",
+    "description": "Very faint nebulosa in Auriga.\r\nThat's the most complicated object I never did and my first integration from new really dark location at Montsec, Lleida (Spain). Integration of 29.5 hours.\r\n\r\nA really proof for remote operations that I started one month ago.",
+    "h": 1760,
+    "hash": null,
+    "id": 385914,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS Photoline 107mm f/6.5 Super-Apo"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 114,
+    "link": "http://astro.carballada.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806069/",
+        "/api/v1/location/2810166/"
+    ],
+    "orientation": "89.771",
+    "pixscale": "2.936",
+    "published": "2019-01-14T19:35:41.791490",
+    "ra": "81.629",
+    "radius": "1.190",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/385914/",
+    "revisions": [
+        "/api/v1/imagerevision/168384/",
+        "/api/v1/imagerevision/168385/"
+    ],
+    "subjects": [
+        "Sh2-224"
+    ],
+    "title": "SH2-224 Supernova remnant in Auriga. Sharpless 224 in HSTrgb",
+    "updated": "2021-03-17T12:28:59.791692",
+    "uploaded": "2019-01-14T17:17:49.712945",
+    "url_duckduckgo": "https://www.astrobin.com/385914/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/385914/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/385914/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/385914/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/385914/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/385914/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/385914/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c18b0d89-7c92-46be-a1a1-5132f78905a8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/c18b0d89-7c92-46be-a1a1-5132f78905a8-1547487147.png",
+    "url_thumb": "https://www.astrobin.com/385914/0/rawthumb/thumb/",
+    "user": "Carballada",
+    "views": 733,
+    "w": 2328
+}

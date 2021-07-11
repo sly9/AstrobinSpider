@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "12.997",
+    "description": "Luminance under dark sky\r\nRGB from home :)\r\n\r\nNewton 250/1250 on NEQ-6 + ASI 178MM-C  + Baader LRGB\r\nLRGB composition\r\nL - 1000 x 10s (gain 82%) , unguided\r\nRGB - 350 x 13s (gain 86%) per channel\r\nsetup scale - 0,41''/pix",
+    "h": 1381,
+    "hash": null,
+    "id": 402507,
+    "imaging_cameras": [
+        "ZWO ASI 178-Cool (mono)"
+    ],
+    "imaging_telescopes": [
+        "Sky Watcher 250/1200 Newtonian Sky Watcher 250/1200 "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 221,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/",
+        "/api/v1/location/2804621/"
+    ],
+    "orientation": "110.857",
+    "pixscale": "0.514",
+    "published": "2019-04-24T17:28:16.172475",
+    "ra": "170.068",
+    "radius": "0.188",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/402507/",
+    "revisions": [],
+    "subjects": [
+        "M 66",
+        "NGC 3627"
+    ],
+    "title": "Messier 66 - part of Leo Triplet",
+    "updated": "2021-03-29T21:53:28.318718",
+    "uploaded": "2019-04-24T18:23:39.219378",
+    "url_duckduckgo": "https://www.astrobin.com/402507/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402507/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402507/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402507/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402507/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402507/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402507/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10412/2019/cce7a986-5dfc-47fc-8922-30612e9c0af5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10412/2019/cce7a986-5dfc-47fc-8922-30612e9c0af5-1582540580.jpg",
+    "url_thumb": "https://www.astrobin.com/402507/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 946,
+    "w": 2243
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "28.221",
+    "description": "",
+    "h": 2082,
+    "hash": null,
+    "id": 329234,
+    "imaging_cameras": [
+        "Moravian Instruments G2 8300",
+        "Moravian Instrument G3 11000"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD100F3.8",
+        "TEC 140 TEC140"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808260/"
+    ],
+    "orientation": "270.639",
+    "pixscale": "2.939",
+    "published": "2018-01-13T14:12:06.486298",
+    "ra": "64.158",
+    "radius": "1.567",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329234/",
+    "revisions": [
+        "/api/v1/imagerevision/134667/"
+    ],
+    "subjects": [
+        "The star φTau"
+    ],
+    "title": "Barnard 10",
+    "updated": "2021-03-17T16:50:39.616433",
+    "uploaded": "2018-01-13T14:12:07.185043",
+    "url_duckduckgo": "https://www.astrobin.com/329234/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329234/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329234/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329234/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329234/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329234/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329234/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/049a5cfd-2335-42cf-a73f-ecc55ccbd472.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/049a5cfd-2335-42cf-a73f-ecc55ccbd472-1515853308.jpg",
+    "url_thumb": "https://www.astrobin.com/329234/0/rawthumb/thumb/",
+    "user": "Gordon_Wright",
+    "views": 122,
+    "w": 3225
+}

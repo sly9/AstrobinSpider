@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "69.684",
+    "description": "Data from spring 2019 and fall 2018\r\n\r\n187 x 300s Ha\r\n122 x 600s Ha\r\n178 x 300s R\r\n72 x 300s G\r\n75 x 300s B\r\n\r\ntotal of app. 63 hours, 36 of which is Ha\r\n\r\nThere is a vertical strand of IFN at the left bottom corner of the image",
+    "h": 1818,
+    "hash": null,
+    "id": 403343,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG CCD QSI 660"
+    ],
+    "imaging_telescopes": [
+        "Newtonian 12\" f/4, TS 2½\" Wynne corrector OrionOpticsUK ultra mirror,"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 186,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803205/"
+    ],
+    "orientation": "359.471",
+    "pixscale": "0.847",
+    "published": "2019-04-29T16:27:06.451522",
+    "ra": "148.983",
+    "radius": "0.339",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/403343/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "m82",
+    "updated": "2021-06-21T21:34:23.905729",
+    "uploaded": "2019-04-29T17:27:06.772414",
+    "url_duckduckgo": "https://www.astrobin.com/403343/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403343/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403343/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403343/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403343/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403343/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403343/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0fc1293b-2ff1-460b-82e7-4c4fece7dfe5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0fc1293b-2ff1-460b-82e7-4c4fece7dfe5-1556621090.jpg",
+    "url_thumb": "https://www.astrobin.com/403343/0/rawthumb/thumb/",
+    "user": "morten",
+    "views": 721,
+    "w": 2243
+}

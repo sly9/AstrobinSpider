@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "4.966",
+    "description": "My first SHO combination. SHO does faces quite some challenge. H is too strong which generates green color which shall not be present in the final image. This is okay, but the problem is, the stars are no longer neutral. And, what is worse: the stars are much smaller in H than other channels. Well, I did it, the first time, with SHO. \r\n\r\nVersion B integrated 4 more Ha exposures; noise reduction is not significant, but it seems to have more details.",
+    "h": 2504,
+    "hash": null,
+    "id": 270160,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106N"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "0.265",
+    "pixscale": "2.096",
+    "published": "2016-11-01T14:14:55.901090",
+    "ra": "98.033",
+    "radius": "1.212",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270160/",
+    "revisions": [
+        "/api/v1/imagerevision/103291/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula -- SHO from DSW",
+    "updated": "2021-03-17T22:36:43.428901",
+    "uploaded": "2016-11-01T14:14:56.264546",
+    "url_duckduckgo": "https://www.astrobin.com/270160/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270160/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270160/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270160/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270160/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270160/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270160/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2016/c812f53b-0b80-4360-bce9-252e72d96991.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2016/c812f53b-0b80-4360-bce9-252e72d96991-1582616402.jpg",
+    "url_thumb": "https://www.astrobin.com/270160/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 154,
+    "w": 3326
+}

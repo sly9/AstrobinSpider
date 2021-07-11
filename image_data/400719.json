@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-31.181",
+    "description": "",
+    "h": 754,
+    "hash": null,
+    "id": 400719,
+    "imaging_cameras": [
+        "ZWO ASI 071MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Long Perng 127mm f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 6,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810537/"
+    ],
+    "orientation": "93.293",
+    "pixscale": "1.781",
+    "published": "2019-04-12T21:14:25.060449",
+    "ra": "146.421",
+    "radius": "0.295",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/400719/",
+    "revisions": [
+        "/api/v1/imagerevision/176418/"
+    ],
+    "subjects": [
+        "NGC 2997"
+    ],
+    "title": "NGC2997",
+    "updated": "2021-03-17T11:21:23.231892",
+    "uploaded": "2019-04-12T22:10:12.653040",
+    "url_duckduckgo": "https://www.astrobin.com/400719/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400719/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400719/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400719/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400719/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400719/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400719/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3fb9f774-94c0-4412-b4ae-4398b13f6226.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/3fb9f774-94c0-4412-b4ae-4398b13f6226-1555107242.png",
+    "url_thumb": "https://www.astrobin.com/400719/0/rawthumb/thumb/",
+    "user": "tim.anderson",
+    "views": 65,
+    "w": 923
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "35.319",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 2468,
+    "hash": null,
+    "id": 316068,
+    "imaging_cameras": [
+        "QSI 690WSG QSI"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes APM 152/1200 ED APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803830/"
+    ],
+    "orientation": "359.038",
+    "pixscale": "0.626",
+    "published": "2017-10-10T14:54:30.175180",
+    "ra": "299.953",
+    "radius": "0.344",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316068/",
+    "revisions": [
+        "/api/v1/imagerevision/127242/"
+    ],
+    "subjects": [],
+    "title": "Tulip Nebula - Sharpless 2-101 SHO + NII",
+    "updated": "2021-03-17T19:35:34.890912",
+    "uploaded": "2017-10-10T15:36:55.015122",
+    "url_duckduckgo": "https://www.astrobin.com/316068/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316068/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316068/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316068/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316068/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316068/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316068/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11158/2017/6d2c3f1b-b7de-4cc9-a556-4e65322dfb0c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11158/2017/6d2c3f1b-b7de-4cc9-a556-4e65322dfb0c-1582524150.jpg",
+    "url_thumb": "https://www.astrobin.com/316068/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 446,
+    "w": 3086
+}

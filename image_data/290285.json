@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "21.841",
+    "description": "Own Luminance Exposures with Digitized Sky Survey-2 (DSS-2) Data (from STScI Archive)",
+    "h": 2497,
+    "hash": null,
+    "id": 290285,
+    "imaging_cameras": [
+        "QSI 583wsg"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "266.088",
+    "pixscale": "0.693",
+    "published": "2017-04-04T13:17:01.302897",
+    "ra": "154.522",
+    "radius": "0.400",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/290285/",
+    "revisions": [
+        "/api/v1/imagerevision/113641/"
+    ],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3190",
+        "NGC 3193"
+    ],
+    "title": "Hickson 44 in Leo (Own Luminance + DSS-2 data)",
+    "updated": "2021-03-17T21:15:42.216651",
+    "uploaded": "2017-04-04T14:17:01.746608",
+    "url_duckduckgo": "https://www.astrobin.com/290285/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/290285/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/290285/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/290285/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/290285/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/290285/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/290285/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8466/2017/bbd66904-aa49-4280-a787-b681cee9c6b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8466/2017/bbd66904-aa49-4280-a787-b681cee9c6b6-1582575049.jpg",
+    "url_thumb": "https://www.astrobin.com/290285/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 260,
+    "w": 3319
+}

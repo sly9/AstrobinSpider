@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-24.337",
+    "description": "",
+    "h": 1218,
+    "hash": null,
+    "id": 299465,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "TPO 6\" f/9 Ritchey-Chretien Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805751/"
+    ],
+    "orientation": "-178.390",
+    "pixscale": "0.744",
+    "published": "2017-06-14T02:41:13.187452",
+    "ra": "271.076",
+    "radius": "0.528",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299465/",
+    "revisions": [],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 - Lagoon Nebula in 2-channel narrowband",
+    "updated": "2021-07-08T00:36:09.430046",
+    "uploaded": "2017-06-14T03:41:14.700228",
+    "url_duckduckgo": "https://www.astrobin.com/299465/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299465/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299465/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299465/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299465/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299465/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299465/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/95d89d63-e309-471e-bb99-4907317b0c70.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/95d89d63-e309-471e-bb99-4907317b0c70-1498765267.jpg",
+    "url_thumb": "https://www.astrobin.com/299465/0/rawthumb/thumb/",
+    "user": "TomBramwell",
+    "views": 301,
+    "w": 1824
+}

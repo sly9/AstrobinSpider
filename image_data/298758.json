@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "4.939",
+    "description": "Versione SII-H-OIII-LRGB  palette della nebulosa rosetta in monoceros \r\nottenuta con 80triplet tecnosky con \r\nfocheggiatore elettronico, ridotto a 380mm \r\ncon reducer flattener 0.8x , CCD starlight SXVR-h16 operante a -25c°\r\nsu Montatura EQ6 eqmodded autoguidata con orion SSAG e \r\nscopos 66 tutto controllato da voyager softaware,\r\npose da : Halfa 6nm 10x900sec bin 1x1 , SII 10x900 sec bin 1x1, OIII 10x900 sec bin 1x1 CLSccd 10x900 sec bin 1x1, RGB 10x300sec bin 1x1 per ogni canale \r\nelaborazione con maxim Dl e photoshop. \r\nSII-H-OIII-LRGB version of the rosette nebula in monoceros\r\nObtained with tecnosky 80 with\r\nElectronic focuser, reduced to 380mm with 0.8x flattener reducer, starlight SXVR-h16 CCD operating at -25c °German equatorial mount EQ6 eqmodded autogued with orion SSAG e\r\nScopos 66 all controlled by voyager software,\r\nsubframe : Halfa 6nm 10x900sec bin 1x1, SII 10x900 sec bin 1x1, OIII 10x900 sec bin 1x1, CLSccdc 10x900 sec bin 1x1 RGB 10x300 sec bin 1x1 for each RGB channel\r\nProcessing with maxim Dl and photoshop.",
+    "h": 2035,
+    "hash": null,
+    "id": 298758,
+    "imaging_cameras": [
+        "Starlight-XPress SXVR-H16"
+    ],
+    "imaging_telescopes": [
+        "Tecnosky 80/480  80/480 triplet fpl-53"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799195/"
+    ],
+    "orientation": "359.997",
+    "pixscale": "3.914",
+    "published": "2017-06-07T17:38:09.657539",
+    "ra": "97.989",
+    "radius": "1.569",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298758/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2244  SII-H-OIII -LRGB palette ",
+    "updated": "2021-03-17T20:43:45.577889",
+    "uploaded": "2017-06-07T18:38:10.417056",
+    "url_duckduckgo": "https://www.astrobin.com/298758/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298758/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298758/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298758/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298758/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298758/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298758/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3663/2017/8185ddca-ba30-4420-b461-7aae1fa3577e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3663/2017/8185ddca-ba30-4420-b461-7aae1fa3577e-1582507101.jpg",
+    "url_thumb": "https://www.astrobin.com/298758/0/rawthumb/thumb/",
+    "user": "marstar67",
+    "views": 239,
+    "w": 2048
+}

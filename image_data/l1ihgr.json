@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-13.232",
+    "description": "",
+    "h": 3200,
+    "hash": "l1ihgr",
+    "id": 461800,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811580/"
+    ],
+    "orientation": "88.912",
+    "pixscale": "0.909",
+    "published": "2020-03-04T06:09:36.399296",
+    "ra": "109.646",
+    "radius": "0.661",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/461800/",
+    "revisions": [
+        "/api/v1/imagerevision/227697/"
+    ],
+    "subjects": [
+        "IC468",
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "NGC2359 Thor's Helmet (HOO)",
+    "updated": "2021-03-17T04:31:50.331280",
+    "uploaded": "2020-03-04T06:09:37.296301",
+    "url_duckduckgo": "https://www.astrobin.com/l1ihgr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l1ihgr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l1ihgr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l1ihgr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l1ihgr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l1ihgr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l1ihgr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41085/2020/a564378a-2b30-49cf-8a8e-f5a57b27cf89.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41085/2020/a564378a-2b30-49cf-8a8e-f5a57b27cf89-1584779059.jpg",
+    "url_thumb": "https://www.astrobin.com/l1ihgr/0/rawthumb/thumb/",
+    "user": "Gratzyan",
+    "views": 175,
+    "w": 4150
+}

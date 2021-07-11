@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-35.897",
+    "description": "I tried to mix some Ha data with LRGB to enhance the Red channel of this image.  I was plagued by an annoying reflection from an OAG stalk in the optical train for which I did not have an easy solution. But I found the overall result satisfactory and served as a learning lesson on how to mix narrowband data with LRGB images (a big thanks to Lightvortex Astronomy PI tutorials for this workflow).",
+    "h": 1379,
+    "hash": null,
+    "id": 418667,
+    "imaging_cameras": [
+        "QHY163m"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech 8\" RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804829/"
+    ],
+    "orientation": "271.015",
+    "pixscale": "0.632",
+    "published": "2019-08-03T00:00:45.230125",
+    "ra": "260.064",
+    "radius": "0.502",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/418667/",
+    "revisions": [
+        "/api/v1/imagerevision/187673/"
+    ],
+    "subjects": [
+        "NGC 6334"
+    ],
+    "title": "NGC6334 - Cat's paw in HaLRGB",
+    "updated": "2021-03-17T09:55:47.685988",
+    "uploaded": "2019-08-03T01:00:45.395718",
+    "url_duckduckgo": "https://www.astrobin.com/418667/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418667/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418667/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418667/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418667/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418667/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418667/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5003/2019/ed527d2f-158a-4bdc-8459-2246520b5224.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ed527d2f-158a-4bdc-8459-2246520b5224-1564794646.jpg",
+    "url_thumb": "https://www.astrobin.com/418667/0/rawthumb/thumb/",
+    "user": "eoliveira",
+    "views": 112,
+    "w": 1824
+}

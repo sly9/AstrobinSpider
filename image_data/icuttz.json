@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "10.092",
+    "description": "ic 2169 / ic 2167   (  2 panels mosaic )\r\n\r\nObject : ic 2169 /ic 2167   \r\nDate : Dec.2019-Mar.2020\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure : \r\nR:300sx23,G:300sx23,B:300sx21,L:300sx41 ( ic 2169 ~9hr)\r\nR:300sx26,G:300sx26,B:300sx26,L:300sx46 (ic 2167 ~10.3hr)\r\n\r\n\r\nGuiding: OAG ASI174,\r\nProcessing: PI、PS-CC",
+    "h": 4928,
+    "hash": "icuttz",
+    "id": 465201,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "https://astro-noodle.blogspot.com/2020/03/ic-2169-ic-2167-2-panels-mosaic.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "178.764",
+    "pixscale": "0.669",
+    "published": "2020-03-14T03:50:43.901643",
+    "ra": "97.776",
+    "radius": "0.498",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/465201/",
+    "revisions": [
+        "/api/v1/imagerevision/219053/"
+    ],
+    "subjects": [
+        "IC 446",
+        "IC 447",
+        "IC2169",
+        "IC446",
+        "VdB77",
+        "VdB78",
+        "VdB79"
+    ],
+    "title": "ic 2169 / ic 2167   (  2 panels mosaic )",
+    "updated": "2021-03-17T04:16:19.448463",
+    "uploaded": "2020-03-14T03:14:26.256690",
+    "url_duckduckgo": "https://www.astrobin.com/icuttz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/icuttz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/icuttz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/icuttz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/icuttz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/icuttz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/icuttz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/aa012916-df05-4ff3-aa66-b3e4bee7becb.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/aa012916-df05-4ff3-aa66-b3e4bee7becb-1584157243.png",
+    "url_thumb": "https://www.astrobin.com/icuttz/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 472,
+    "w": 2115
+}

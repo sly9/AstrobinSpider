@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-18.879",
+    "description": "",
+    "h": 4250,
+    "hash": null,
+    "id": 337483,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807895/"
+    ],
+    "orientation": "0.470",
+    "pixscale": "0.511",
+    "published": "2018-03-15T08:40:44.689924",
+    "ra": "180.467",
+    "radius": "0.363",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337483/",
+    "revisions": [
+        "/api/v1/imagerevision/139696/"
+    ],
+    "subjects": [
+        "Antennae",
+        "NGC 4038",
+        "NGC 4039"
+    ],
+    "title": "NGC 4038, NGC 4039 - The Antennae Galaxy",
+    "updated": "2021-03-17T16:13:05.506716",
+    "uploaded": "2018-03-15T08:40:46.557202",
+    "url_duckduckgo": "https://www.astrobin.com/337483/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337483/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337483/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337483/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337483/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337483/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337483/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0ac0189a-b27f-4ffb-83aa-d878f417fe38.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0ac0189a-b27f-4ffb-83aa-d878f417fe38-1521103491.jpg",
+    "url_thumb": "https://www.astrobin.com/337483/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 531,
+    "w": 2838
+}

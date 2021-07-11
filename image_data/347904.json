@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 12,
+    "data_source": "UNKNOWN",
+    "dec": "66.624",
+    "description": "1ère essai en HOO avec filtre baader\r\n(50+150)X120sec en O3\r\n120X120 en Ha\r\nUn peu plus de pose (en Ha notamment) pourrait révéler quelques détails supplémentaires",
+    "h": 2668,
+    "hash": null,
+    "id": 347904,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "47.450",
+    "pixscale": "0.339",
+    "published": "2018-05-21T13:38:37.011532",
+    "ra": "269.655",
+    "radius": "0.195",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/347904/",
+    "revisions": [],
+    "subjects": [
+        "IC 4677",
+        "NGC 6543"
+    ],
+    "title": "NGC 6543-nébuleuse de L'oeil de chat",
+    "updated": "2021-03-17T15:25:29.185648",
+    "uploaded": "2018-05-21T14:38:39.157336",
+    "url_duckduckgo": "https://www.astrobin.com/347904/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/347904/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/347904/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/347904/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/347904/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/347904/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/347904/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2020/690aa48c-f158-4a38-b87b-fceed1a3b08c.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2020/690aa48c-f158-4a38-b87b-fceed1a3b08c-1582561557.jpeg",
+    "url_thumb": "https://www.astrobin.com/347904/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 677,
+    "w": 3120
+}

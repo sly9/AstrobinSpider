@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "0.127",
+    "description": "M78 Reflection Nebula\r\nExposure Detail\r\n\r\nFilter\tFilter Brand\tBin\tQty\tExposure\r\nL\tAstrodon\t2x\t27\t1200\r\nR\tAstrodon\t2x\t25\t1200\r\nG\tAstrodon\t2x\t27\t1200\r\nB\tAstrodon\t2x\t25\t1200\r\nHa\tAstrodon\t2x\t30\t1200\r\n\r\nJohn Kasianowicz, Josh Balsam, Mike Selby, Dhaval Brahmbhatt, Scott Johnson, Mike Bushell, Rich Johnson, Andy Chatman",
+    "h": 1855,
+    "hash": null,
+    "id": 332418,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation PL 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 17"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808480/"
+    ],
+    "orientation": "89.734",
+    "pixscale": "0.634",
+    "published": "2018-02-06T05:23:37.361713",
+    "ra": "86.726",
+    "radius": "0.492",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332418/",
+    "revisions": [
+        "/api/v1/imagerevision/136784/"
+    ],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M78",
+    "updated": "2021-03-17T16:36:36.756468",
+    "uploaded": "2018-02-06T05:23:37.956572",
+    "url_duckduckgo": "https://www.astrobin.com/332418/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332418/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332418/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332418/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332418/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332418/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332418/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18134/2018/15b51864-4db2-4341-9117-8019f55350b5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/15b51864-4db2-4341-9117-8019f55350b5-1517894961.jpg",
+    "url_thumb": "https://www.astrobin.com/332418/0/rawthumb/thumb/",
+    "user": "mselby",
+    "views": 202,
+    "w": 1824
+}

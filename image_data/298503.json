@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.212",
+    "description": "LRGB of M51 from ceravolo300 @ SRO, 2015\r\n\r\nnative fl 1470mm; 3x drizzle + crop + downsize 50%\r\n\r\nframe counts lost to history, had integrated the masters a couple of years back and left on disk unprocessed.",
+    "h": 2304,
+    "hash": null,
+    "id": 298503,
+    "imaging_cameras": [
+        "FLI PL-16803"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo 300 Astrograph (f/4.9)"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801238/"
+    ],
+    "orientation": "272.001",
+    "pixscale": "0.842",
+    "published": "2017-06-05T07:22:46.670858",
+    "ra": "202.463",
+    "radius": "0.423",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/298503/",
+    "revisions": [],
+    "subjects": [
+        "IC 4263",
+        "IC4263",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "m51 - 3x drizzle - cos300",
+    "updated": "2021-04-03T23:39:58.394907",
+    "uploaded": "2017-06-05T08:17:37.711668",
+    "url_duckduckgo": "https://www.astrobin.com/298503/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298503/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298503/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298503/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298503/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298503/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298503/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/4865f0c9-5b98-44d8-9b50-48d540b74e7f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/4865f0c9-5b98-44d8-9b50-48d540b74e7f-1582628683.jpg",
+    "url_thumb": "https://www.astrobin.com/298503/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 512,
+    "w": 2790
+}

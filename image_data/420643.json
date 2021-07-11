@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "-16.132",
+    "description": "This is just a reprocess of the M17 that I posted last month: https://astrob.in/414497\r\n\r\nHa 3nm: 47x600\" -25C bin 1x1\r\nOIII 3nm: 49x600\" -25C bin 1x1\r\nSII 3nm: 49x600\" -25C bin 1x1\r\n\r\nTotal integration: 24.2 hours\r\n\r\nThe original pass on this one was a combination of impatient rush job, first time working with SHO and not quite having my PI integration flow fully nailed down with a new camera setup... so this is a re-pop from scratch with a tightened up processing flow and a [hopefully!] more dynamic and interesting color scheme. Yes, I know the NR is too much - I overdid it early on and was too lazy to go back and fix it. :-) I also incorporated the use of Nikita's wonderful StarNet++ PI module (https://www.astrobin.com/397290/), which greatly reduces the always tedious and time consuming chore of creating usable star masks... will definitely be adding this to my tool box!",
+    "h": 3499,
+    "hash": null,
+    "id": 420643,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 150ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806669/"
+    ],
+    "orientation": "271.087",
+    "pixscale": "1.148",
+    "published": "2019-08-12T18:57:29.678406",
+    "ra": "275.176",
+    "radius": "0.895",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/420643/",
+    "revisions": [
+        "/api/v1/imagerevision/188864/"
+    ],
+    "subjects": [
+        "M 17",
+        "NGC 6618",
+        "Omega nebula"
+    ],
+    "title": "M17 (SHO) redux",
+    "updated": "2021-03-17T09:45:43.069352",
+    "uploaded": "2019-08-12T19:28:20.567221",
+    "url_duckduckgo": "https://www.astrobin.com/420643/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/420643/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/420643/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/420643/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/420643/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/420643/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/420643/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13286/2019/89395096-2d50-4096-9778-85e7b6e71b1e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13286/2019/89395096-2d50-4096-9778-85e7b6e71b1e-1582523416.jpg",
+    "url_thumb": "https://www.astrobin.com/420643/0/rawthumb/thumb/",
+    "user": "qbool",
+    "views": 265,
+    "w": 4388
+}

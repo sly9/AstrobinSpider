@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "12.225",
+    "description": "",
+    "h": 1781,
+    "hash": null,
+    "id": 323376,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "180.063",
+    "pixscale": "1.061",
+    "published": "2017-11-25T17:27:23.851073",
+    "ra": "82.854",
+    "radius": "0.459",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323376/",
+    "revisions": [
+        "/api/v1/imagerevision/131178/"
+    ],
+    "subjects": [],
+    "title": "Cederblad 51 in Orion's head",
+    "updated": "2021-03-17T19:05:06.737013",
+    "uploaded": "2017-11-25T17:27:24.257599",
+    "url_duckduckgo": "https://www.astrobin.com/323376/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323376/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323376/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323376/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323376/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323376/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323376/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2017/685f1890-e66a-449c-9872-bf1827ae1b34.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2017/685f1890-e66a-449c-9872-bf1827ae1b34-1582598767.jpg",
+    "url_thumb": "https://www.astrobin.com/323376/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 454,
+    "w": 2560
+}

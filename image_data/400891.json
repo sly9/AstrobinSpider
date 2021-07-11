@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "36.456",
+    "description": "Exposure: (L,R,G,B) 5,33h L 24x300s, R 13x300s , G 12x300s, B 15x300s (binx1)",
+    "h": 1471,
+    "hash": null,
+    "id": 400891,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "TEC 140/980"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "269.871",
+    "pixscale": "1.253",
+    "published": "2019-04-13T14:54:44.290943",
+    "ra": "250.433",
+    "radius": "0.599",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/400891/",
+    "revisions": [
+        "/api/v1/imagerevision/176532/"
+    ],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205",
+        "NGC 6207"
+    ],
+    "title": "M13 - The Great Globular Cluster in Hercules",
+    "updated": "2021-05-06T07:24:34.316109",
+    "uploaded": "2019-04-13T15:54:44.625753",
+    "url_duckduckgo": "https://www.astrobin.com/400891/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400891/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400891/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400891/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400891/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400891/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400891/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28284/2019/dd738eaf-9109-4255-a21f-244f971244ef.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dd738eaf-9109-4255-a21f-244f971244ef-1555171228.jpg",
+    "url_thumb": "https://www.astrobin.com/400891/0/rawthumb/thumb/",
+    "user": "Astrosib250",
+    "views": 245,
+    "w": 1824
+}

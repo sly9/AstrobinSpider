@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "54.360",
+    "description": "",
+    "h": 2905,
+    "hash": null,
+    "id": 393192,
+    "imaging_cameras": [
+        "QHY367C",
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 132,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807014/"
+    ],
+    "orientation": "359.755",
+    "pixscale": "1.052",
+    "published": "2019-02-28T19:27:38.240713",
+    "ra": "210.794",
+    "radius": "0.733",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/393192/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5477"
+    ],
+    "title": "M101 : The Pinwheel Galaxy",
+    "updated": "2021-03-17T11:56:21.603405",
+    "uploaded": "2019-02-28T19:27:38.848230",
+    "url_duckduckgo": "https://www.astrobin.com/393192/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/393192/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/393192/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/393192/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/393192/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/393192/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/393192/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2019/22fc4237-b9ac-4546-9cc5-2b93646b364c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2019/22fc4237-b9ac-4546-9cc5-2b93646b364c-1582598387.png",
+    "url_thumb": "https://www.astrobin.com/393192/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 390,
+    "w": 4097
+}

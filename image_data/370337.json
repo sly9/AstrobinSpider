@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.348",
+    "description": "HaO3RGB image",
+    "h": 3200,
+    "hash": null,
+    "id": 370337,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 174,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.793",
+    "pixscale": "1.580",
+    "published": "2018-10-06T22:33:24.618081",
+    "ra": "350.469",
+    "radius": "0.993",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/370337/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "M 52",
+        "NGC 7635",
+        "NGC 7654"
+    ],
+    "title": "NGC7635 and M52",
+    "updated": "2021-03-17T13:43:23.490768",
+    "uploaded": "2018-10-06T23:33:25.355950",
+    "url_duckduckgo": "https://www.astrobin.com/370337/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/370337/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/370337/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/370337/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/370337/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/370337/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/370337/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11f230f6-458a-4425-9ac7-73d16b4db243.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11f230f6-458a-4425-9ac7-73d16b4db243-1538869034.jpg",
+    "url_thumb": "https://www.astrobin.com/370337/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 769,
+    "w": 3200
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "9.665",
+    "description": "The Cone Nebula with RH305 + ML8300.  Framing is not ideal, but the system is not rotated....maybe one day.  However, calibration is so much faster ;-)\r\n\r\nFrom Wiki:\r\n\r\nThe Cone Nebula is an H II region in the constellation of Monoceros. It was discovered by William Herschel on December 26, 1785, at which time he designated it H V.27. The nebula is located about 830 parsecs or 2,700 light-years away from Earth. The Cone Nebula forms part of the nebulosity surrounding the Christmas Tree Cluster. The designation of NGC 2264 in the New General Catalogue refers to both objects and not the nebula alone.\r\n\r\nThe diffuse Cone Nebula, so named because of its apparent shape, lies in the southern part of NGC 2264, the northern part being the magnitude-3.9 Christmas Tree Cluster. It is in the northern part of Monoceros, just north of the midpoint of a line from Procyon to Betelgeuse.\r\n\r\nThe cone's shape comes from a dark absorption nebula consisting of cold molecular hydrogen and dust in front of a faint emission nebula containing hydrogen ionized by S Monocerotis, the brightest star of NGC 2264. The faint nebula is approximately seven light-years long (with an apparent length of 10 arcminutes), and is 2,700 light-years away from Earth.",
+    "h": 1507,
+    "hash": null,
+    "id": 327744,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation FLI ML 8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 135,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "1.243",
+    "pixscale": "0.994",
+    "published": "2017-12-31T00:33:48.945714",
+    "ra": "100.208",
+    "radius": "0.543",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327744/",
+    "revisions": [
+        "/api/v1/imagerevision/133679/",
+        "/api/v1/imagerevision/133680/"
+    ],
+    "subjects": [
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264 - Deep Sky West Remote Observatory",
+    "updated": "2021-05-23T14:50:53.881931",
+    "uploaded": "2017-12-31T00:06:24.429645",
+    "url_duckduckgo": "https://www.astrobin.com/327744/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327744/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327744/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327744/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327744/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327744/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327744/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2017/4f31cfb3-0b88-4edc-8eb7-c75260296c71.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4f31cfb3-0b88-4edc-8eb7-c75260296c71-1514679741.jpg",
+    "url_thumb": "https://www.astrobin.com/327744/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 368,
+    "w": 1824
+}

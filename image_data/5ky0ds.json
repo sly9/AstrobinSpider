@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "-25.296",
+    "description": "version LHa-RHaVB de ngc 253\r\nRVB:30*60sec*3 pour chaque filtre gain 0\r\nHa:30*120sec gain 139\r\nL:180*60sec gain 0\r\n\r\nTraitement assez compliqué dû à un problème de flat. J'ai donc choisi de ne pas le mettre au prétraitement. Un gros crop a été nécessaire mais au vu de la taille de la galaxie, ce n'est pas préjudiciable. \r\nAu niveau du traitement, la luminance a été mixée avec la couche Ha (faite en drizzle). L'image RVB a été assemblée puis ajout de la couche Ha via le script AIP. Tout ça sur pixinsight avant de retoucher légèrement la colorimétrie sur PS. \r\nFinition sur Pix pour l'assemblage de la couleur et de la luminance avant les dernières retouches sur la saturation, brillance, ...\r\nL'acquisition a été faite sur 3 nuits car cette galaxie est très basse  dans notre hémisphère. \r\nMerci donc à Starizona grâce à l'hyperstar V4 et son ouverture à F/2.2... \r\n--------------------------------------------------------------------------------------------------------------------------------------\r\nQuite complicated treatment due to a flat problem. So I chose not to put it to pretreatment. A big crop was needed but given the size of the galaxy, it is not detrimental.\r\nAt the processing level, the luminance was mixed with the Ha layer (made in drizzle). The RGB image was assembled and then added the Ha layer via the AIP script. All this on pixinsight before touching up the colorimetry PS.\r\nFinishing on Pix for the assembly of the color and the luminance before the last retouches on the saturation, brightness, ...\r\nThe acquisition was made on 3 nights because this galaxy is very low in our hemisphere.\r\nSo thanks to Starizona for the hyperstar V4 and its opening at F / 2.2 ...",
+    "h": 2644,
+    "hash": "5ky0ds",
+    "id": 442925,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 184,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "182.787",
+    "pixscale": "1.519",
+    "published": "2019-12-10T21:28:19.647321",
+    "ra": "11.888",
+    "radius": "0.929",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/442925/",
+    "revisions": [
+        "/api/v1/imagerevision/203682/"
+    ],
+    "subjects": [
+        "NGC 253",
+        "Sculptor galaxy"
+    ],
+    "title": "Ngc 253- la galaxie du sculpteur LHa-RHaVB",
+    "updated": "2021-04-06T12:22:29.993636",
+    "uploaded": "2019-12-10T20:22:10.127734",
+    "url_duckduckgo": "https://www.astrobin.com/5ky0ds/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5ky0ds/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5ky0ds/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5ky0ds/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5ky0ds/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5ky0ds/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5ky0ds/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0ee8bc87-17e2-4b77-a88a-7ba717084b11.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0ee8bc87-17e2-4b77-a88a-7ba717084b11-1576011375.jpg",
+    "url_thumb": "https://www.astrobin.com/5ky0ds/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 635,
+    "w": 3522
+}

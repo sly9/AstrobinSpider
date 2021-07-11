@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "61.412",
+    "description": "Ajout d’une couche O3 à la couche Ha prise l’année dernière. \r\nHa:90x120sec\r\nO3:60x120sec",
+    "h": 3208,
+    "hash": "vd9p6p",
+    "id": 423709,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "359.593",
+    "pixscale": "1.453",
+    "published": "2019-08-30T16:30:40.123306",
+    "ra": "349.994",
+    "radius": "1.115",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/423709/",
+    "revisions": [
+        "/api/v1/imagerevision/196203/",
+        "/api/v1/imagerevision/196208/"
+    ],
+    "subjects": [
+        "Bubble nebula",
+        "M 52",
+        "NGC 7538",
+        "NGC 7635",
+        "NGC 7654"
+    ],
+    "title": "Ngc 7635-nébuleuse de la bulle HOO",
+    "updated": "2021-03-17T09:30:08.630929",
+    "uploaded": "2019-08-30T17:23:35.850012",
+    "url_duckduckgo": "https://www.astrobin.com/vd9p6p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vd9p6p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vd9p6p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vd9p6p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vd9p6p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vd9p6p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vd9p6p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2020/5f9b8f0e-26ff-46a8-b5de-031beb06e025.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2020/5f9b8f0e-26ff-46a8-b5de-031beb06e025-1582561333.jpeg",
+    "url_thumb": "https://www.astrobin.com/vd9p6p/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 905,
+    "w": 4500
+}

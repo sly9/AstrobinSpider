@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "57.617",
+    "description": "IC 1396, The Elephant Trunk Nebula, this is my first long integration with the new camera. It’s also my first attempt at the Hubble color palette. I shot this from my backyard on the outskirts of Crowders Mountain state park on 2018-06-06 - 2018-06-07.\r\n\r\nGain 0, offset 5\r\n19 x 300”  Ha 6nm\r\n39 x 300”  OIII 6nm\r\n39 x 300”  SII 6nm\r\n10x300\" Dark\r\n45x0\" Bias\r\n10 Flats for each filter\r\n\r\nI also shot 60x10 of luminance, but the details don't show, and I don't think it would integrate nicely.",
+    "h": 1359,
+    "hash": null,
+    "id": 350309,
+    "imaging_cameras": [
+        "QHY 163M QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Orion 8\" f/3.9 Newtonian Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 4,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806845/"
+    ],
+    "orientation": "276.309",
+    "pixscale": "0.973",
+    "published": "2018-06-07T13:40:29.724107",
+    "ra": "323.986",
+    "radius": "0.773",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/350309/",
+    "revisions": [
+        "/api/v1/imagerevision/147479/"
+    ],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC1396 Narrow Band",
+    "updated": "2021-03-17T15:15:31.248189",
+    "uploaded": "2018-06-07T14:40:34.302457",
+    "url_duckduckgo": "https://www.astrobin.com/350309/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350309/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350309/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350309/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350309/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350309/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350309/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/801d581a-d88b-47ea-a1c0-a8b6953c5daa.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/801d581a-d88b-47ea-a1c0-a8b6953c5daa-1528379040.png",
+    "url_thumb": "https://www.astrobin.com/350309/0/rawthumb/thumb/",
+    "user": "ecauble",
+    "views": 28,
+    "w": 1824
+}

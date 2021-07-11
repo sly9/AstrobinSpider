@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-59.761",
+    "description": "TS 115/800\r\nZWO ASI 1600 MONO COOLED\r\nH Alpha 12 nm\r\n40 x 180 Seconds\r\nHaGB - 120 Minutes | 40 Minutes | 40 Minutes\r\nTotal: 200 minutes\r\n\r\nEdição baseada na versão obtida pelo telescópio chileno ESO\r\nhttp://www.24horas.cl/incoming/article419277.ece/ALTERNATES/w620h350/Nebulosa%20de%20Carina%20captada%20por%20nuevo%20telescopio",
+    "h": 3231,
+    "hash": null,
+    "id": 302342,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "290.797",
+    "pixscale": "1.209",
+    "published": "2017-07-06T18:49:10.618678",
+    "ra": "160.943",
+    "radius": "0.911",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302342/",
+    "revisions": [
+        "/api/v1/imagerevision/122210/",
+        "/api/v1/imagerevision/122252/",
+        "/api/v1/imagerevision/122462/"
+    ],
+    "subjects": [
+        "NGC 3372",
+        "eta Car nebula"
+    ],
+    "title": "Eta Carinae - NGC 3372",
+    "updated": "2021-04-18T10:05:55.330269",
+    "uploaded": "2017-07-06T19:48:44.880675",
+    "url_duckduckgo": "https://www.astrobin.com/302342/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302342/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302342/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302342/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302342/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302342/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302342/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22145/2017/79d30565-d428-4559-ba1d-f48ce069c437./tmp/tmpBgPrPk",
+    "url_solution": "https://cdn.astrobin.com/solutions/22145/2017/79d30565-d428-4559-ba1d-f48ce069c437./tmp/tmpBgPrPk-1582616914",
+    "url_thumb": "https://www.astrobin.com/302342/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 249,
+    "w": 4356
+}

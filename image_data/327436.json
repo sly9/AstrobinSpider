@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "4.953",
+    "description": "Rosette Nebula 30+ hours integration 32 H-Alpha 3.5nm, 30 SII 3nm, 30 OIII 3nm.  All subs 1200s.",
+    "h": 1350,
+    "hash": null,
+    "id": 327436,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "80.497",
+    "pixscale": "2.341",
+    "published": "2017-12-28T18:47:20.395167",
+    "ra": "97.984",
+    "radius": "1.320",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327436/",
+    "revisions": [
+        "/api/v1/imagerevision/133427/",
+        "/api/v1/imagerevision/133530/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula Modified SHO",
+    "updated": "2021-03-17T18:47:59.415240",
+    "uploaded": "2017-12-28T18:47:20.880890",
+    "url_duckduckgo": "https://www.astrobin.com/327436/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327436/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327436/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327436/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327436/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327436/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327436/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5806/2017/4b7667c6-9b8d-4af7-8aa6-404262d9c608.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4b7667c6-9b8d-4af7-8aa6-404262d9c608-1514487237.jpg",
+    "url_thumb": "https://www.astrobin.com/327436/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 106,
+    "w": 1824
+}

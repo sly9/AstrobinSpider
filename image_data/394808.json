@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 33,
+    "comments": 50,
+    "data_source": "OWN_REMOTE",
+    "dec": "64.909",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best Ha image taken on the AG12.\r\n\r\nImaged on nights of 2018/11/20, 21, 23, 24, 25, 26.\r\n\r\nHFG1 was discovered in the Milky Way Emission Line Study in 1982 by Heckathorn, Fesen and Gull (A&A, 114, 414, 1982). It is defined as a type F planetary nebula by Tweedy and Kitter (Astrophys. J Supp Series 107, 255-262, 1996) meaning that is appears to be uniformly filled. Its mag. 14.5 central star is a close, precataclysmic binary, V664 Cas. One report suggests that V664 left a trail at least 20′ long of ~10,000 year old shocked material as it ejected matter and moved through the interstellar medium (ISM).\r\n\r\nThe detail was brought out with 5 nm OIII and Ha filters and RGB data were added for star colors, but this object is extremely faint and requires long exposure to bring out any detail.\r\n\r\nThis object is so faint you can barely see any of it on a single frame.  No wonder it took so long for HFG to discover it.",
+    "h": 3385,
+    "hash": null,
+    "id": 394808,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 344,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "358.157",
+    "pixscale": "0.701",
+    "published": "2019-03-09T18:16:12.897687",
+    "ra": "45.922",
+    "radius": "0.545",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/394808/",
+    "revisions": [],
+    "subjects": [
+        "PK136+05.1"
+    ],
+    "title": "HFG1 Ancient Planetary Nebula",
+    "updated": "2021-05-28T11:45:10.979612",
+    "uploaded": "2019-03-09T17:36:04.783059",
+    "url_duckduckgo": "https://www.astrobin.com/394808/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394808/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394808/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394808/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394808/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394808/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394808/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/67253f51-0168-4eba-8196-0afe7a2703c2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/67253f51-0168-4eba-8196-0afe7a2703c2-1582590866.jpg",
+    "url_thumb": "https://www.astrobin.com/394808/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 1798,
+    "w": 4461
+}

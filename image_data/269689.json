@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "41.677",
+    "description": "My attempt to capture some detail in M110, M31's close companion.  Several dust clouds and globular clusters can be seen, and the texture indicates that some of the larger scale stellar structure is starting to be resolved.  At first I thought it might be noise, but it became more prominent with increasing integration time.  Maxim was used for acquisition and processing;  DDP  to help cover the dynamic range, followed by an unsharp mask.  Cropped a little from the full frame for emphasis.  Seeing averaged over the integration period was ~2 arcsec.",
+    "h": 2239,
+    "hash": null,
+    "id": 269689,
+    "imaging_cameras": [
+        "SBIG STX KAF-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments 24\" CDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802703/"
+    ],
+    "orientation": "358.707",
+    "pixscale": "0.468",
+    "published": "2016-10-28T18:20:47.772228",
+    "ra": "10.085",
+    "radius": "0.220",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269689/",
+    "revisions": [],
+    "subjects": [
+        "M 110",
+        "NGC 205"
+    ],
+    "title": "M110 detail",
+    "updated": "2021-03-17T22:38:34.443891",
+    "uploaded": "2016-10-28T19:20:47.772228",
+    "url_duckduckgo": "https://www.astrobin.com/269689/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269689/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269689/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269689/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269689/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269689/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269689/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11292/2016/5e8d4ae9-3e08-49a4-98d2-a70f6bb4e7b9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11292/2016/5e8d4ae9-3e08-49a4-98d2-a70f6bb4e7b9-1582520805.jpg",
+    "url_thumb": "https://www.astrobin.com/269689/0/rawthumb/thumb/",
+    "user": "erdmanpe",
+    "views": 404,
+    "w": 2543
+}

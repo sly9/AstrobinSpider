@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "67.980",
+    "description": "Unguided image using C14 Edge w/Hyperstar on Paramount MX+\r\n\r\nLum - 396 * 45sec using ASI1600MM-C with IDAS-D1 (about 5hrs of Lum)\r\nRGB - 294 * 45sec using ASI1600MC-C OSC with IDAS-D1 (about 3.7 hours of OSC RGB)\r\n\r\nUsed new Pixinsight PhotometricColorCalibration and LocalNormalization on both Lum and RGB. There was significantly more dust seen after local normalization.",
+    "h": 3487,
+    "hash": null,
+    "id": 310176,
+    "imaging_cameras": [
+        "ASI 1600MM-C",
+        "ASI 1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.036",
+    "pixscale": "1.143",
+    "published": "2017-08-30T22:58:33.889154",
+    "ra": "315.399",
+    "radius": "0.918",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310176/",
+    "revisions": [
+        "/api/v1/imagerevision/123979/"
+    ],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "NGC 7023, Iris Nebula",
+    "updated": "2021-03-17T19:59:16.958897",
+    "uploaded": "2017-08-30T23:58:34.661670",
+    "url_duckduckgo": "https://www.astrobin.com/310176/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310176/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310176/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310176/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310176/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310176/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310176/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17923/2017/e4d90b4a-d9bc-4c1d-baec-f66e1dc7991f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/17923/2017/e4d90b4a-d9bc-4c1d-baec-f66e1dc7991f-1582516174.jpg",
+    "url_thumb": "https://www.astrobin.com/310176/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 663,
+    "w": 4611
+}

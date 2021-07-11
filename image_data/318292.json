@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "78.360",
+    "description": "NGC2146 in Camelopardalis\r\n\r\nI almost gave up on this target because of terrible seeing during the initial set of imaging as well as I couldnt find a decent guide stars resulting in bad guiding. \r\n\r\nLast night, the sky cleared and I had no target lined up and I was mostly trying to image Neptune (Which was a disaster ). So I figured  I will give it another go and got 50x3 min subs on the season with good data.\r\n\r\nProcessed with sub par data from the earlier runs and cropped out the bad bits. I had 230x3 min subs and used 120x3 min subs in the final stack.\r\n\r\nThis target is a barred spiral but the  interesting aspect of this target is the distortion of the spiral arms by gravitational interaction (Result of collision?) This is also classified as starburst galaxy due to high amount of starforming Ha region (seen as Ha knots)",
+    "h": 1087,
+    "hash": null,
+    "id": 318292,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "291.220",
+    "pixscale": "0.587",
+    "published": "2017-10-23T18:15:14.087503",
+    "ra": "94.752",
+    "radius": "0.138",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318292/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2146",
+        "NGC2146"
+    ],
+    "title": "NGC2146",
+    "updated": "2021-04-04T13:09:50.038977",
+    "uploaded": "2017-10-23T19:15:15.604011",
+    "url_duckduckgo": "https://www.astrobin.com/318292/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318292/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318292/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318292/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318292/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318292/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318292/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/cf7866ed-81f4-49ec-bed8-aca80a40531e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/cf7866ed-81f4-49ec-bed8-aca80a40531e-1508782920.png",
+    "url_thumb": "https://www.astrobin.com/318292/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 541,
+    "w": 1300
+}

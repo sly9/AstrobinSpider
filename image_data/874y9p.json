@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "57.445",
+    "description": "60*5 minutes of 3nm Ha\r\n114*5 minutes of 3nm O3.\r\n\r\nShot with a ZWO ASI1600MM-Cool and a Canon 300/4L IS tele lens. The lens suffers from bad star shapes in the corners but I managed to get it decent anyway. Didn´t want to stop it down from f/4 either.\r\n\r\nCombined as a semi-RGB (or what to call it) from R=Ha, G=70%O3+30%Ha, B=O3. Processed it as LRGB using a combined Lum from 60% Ha L and 40% O3 L.",
+    "h": 1785,
+    "hash": "874y9p",
+    "id": 428813,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool ZWO  ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Canon EF 300mm f/4 L IS USM"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 224,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "279.112",
+    "pixscale": "5.079",
+    "published": "2019-09-22T19:54:34.211811",
+    "ra": "324.853",
+    "radius": "2.110",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/428813/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 widefield",
+    "updated": "2021-06-05T11:33:59.113716",
+    "uploaded": "2019-09-22T20:54:34.418067",
+    "url_duckduckgo": "https://www.astrobin.com/874y9p/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/874y9p/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/874y9p/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/874y9p/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/874y9p/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/874y9p/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/874y9p/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10364/2020/456bcd31-d9cc-4ba7-b2c4-ae13badee544.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10364/2020/456bcd31-d9cc-4ba7-b2c4-ae13badee544-1582500986.jpg",
+    "url_thumb": "https://www.astrobin.com/874y9p/0/rawthumb/thumb/",
+    "user": "MartinF",
+    "views": 1694,
+    "w": 2400
+}

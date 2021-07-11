@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "69.080",
+    "description": "This LRGB image contains a lot of information, hard to handle. As a test, trying to collect some comments. This is an in-process work. More data will be collected.\r\n\r\nVersion C is a drizzled version, but didn't see significant improvement in details.\r\n\r\nVersion D has a manual color adjustment of blue turned down by 5% based on non-structural color calibration (PixInsight jargon, meaning balance color channels based on an area of interest). ",
+    "h": 3072,
+    "hash": null,
+    "id": 282341,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 92,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "133.606",
+    "pixscale": "0.550",
+    "published": "2017-02-05T07:51:16.351033",
+    "ra": "148.853",
+    "radius": "0.391",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282341/",
+    "revisions": [
+        "/api/v1/imagerevision/110067/",
+        "/api/v1/imagerevision/111879/",
+        "/api/v1/imagerevision/111924/"
+    ],
+    "subjects": [
+        "Bode's galaxy",
+        "Bode's nebulae",
+        "M 81",
+        "M81",
+        "NGC 3031"
+    ],
+    "title": "Messier 81 Closeup",
+    "updated": "2021-03-17T21:50:59.575509",
+    "uploaded": "2017-02-02T12:44:55.786896",
+    "url_duckduckgo": "https://www.astrobin.com/282341/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282341/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282341/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282341/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282341/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282341/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282341/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2017/94ab15f5-2991-4c43-bcbc-1ed3350d27bd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2017/94ab15f5-2991-4c43-bcbc-1ed3350d27bd-1582616281.jpg",
+    "url_thumb": "https://www.astrobin.com/282341/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 379,
+    "w": 4096
+}

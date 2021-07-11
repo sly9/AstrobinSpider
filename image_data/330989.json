@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "13.255",
+    "description": "The RGB image is the basis of this image.  Ha is then added to the R channel, and OIII added to the B channel.  It is interesting to contrast this with my earlier HOO image using the same Ha and OIII used in this image.\r\n\r\nThe Medusa Nebula is a large planetary nebula in the constellation of Gemini on the Canis Minor border. It also known as Abell 21 and Sharpless 2-274. It was originally discovered in 1955 by UCLA astronomer George O. Abell, who classified it as an old planetary nebula.[4] The braided serpentine filaments of glowing gas suggests the serpent hair of Medusa found in ancient Greek mythology.\r\n\r\nUntil the early 1970s, the Medusa was thought to be a supernova remnant. With the computation of expansion velocities and the thermal character of the radio emission, Soviet astronomers in 1971 concluded that it was most likely a planetary nebula.\r\n\r\nAs the nebula is so big, its surface brightness is very low, with surface magnitudes of between +15.99 and +25 reported. Because of this most websites recommend at least an 8-inch (200 mm) telescope with an [O III] filter to find this object although probably possible to image with smaller apertures.\r\n(Wikipedia)",
+    "h": 1200,
+    "hash": null,
+    "id": 330989,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "269.564",
+    "pixscale": "1.181",
+    "published": "2018-01-26T16:24:56.137305",
+    "ra": "112.263",
+    "radius": "0.355",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330989/",
+    "revisions": [],
+    "subjects": [
+        "PGC1420191",
+        "PGC1420816",
+        "PGC1421175",
+        "PGC1421568",
+        "PGC1422135",
+        "PGC1422206",
+        "PGC1432041",
+        "PK205+14.1",
+        "Sh2-274"
+    ],
+    "title": "Abell21 Medusa Nebula  (Sh2-274) RGB-HO",
+    "updated": "2021-03-17T16:42:50.224785",
+    "uploaded": "2018-01-26T15:57:12.754443",
+    "url_duckduckgo": "https://www.astrobin.com/330989/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330989/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330989/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330989/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330989/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330989/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330989/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2018/a8f496bb-d6a3-46ca-9490-936681e74722.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2018/a8f496bb-d6a3-46ca-9490-936681e74722-1582590979.jpg",
+    "url_thumb": "https://www.astrobin.com/330989/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 217,
+    "w": 1800
+}

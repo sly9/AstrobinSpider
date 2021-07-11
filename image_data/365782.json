@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.865",
+    "description": "Complete re-edit of my M16 shot HaLRGB. I wasn't happy with my previous edit at all. I had edited it on my laptop while traveling.\r\n\r\nI have recently installed my gear into the Marathon Remote Imaging Observatory (MARIO) in Marathon, TX. I am traveling the country and controlling my system remotely from inside of my camper van. This is my first shot with data mostly gathered while on the road. All data from my own system though.\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nData gathered:\r\n(249) Ha @ 300secs - 1x1\r\n(130) Lum @ 45secs - 1x1\r\n(61) R @ 60secs - 1x1\r\n(51) G @ 60secs - 1x1\r\n(62) B @ 60secs - 1x1\r\n\r\nCamera : ZWO ASI1600MMPro with Gain set to 0\r\nTelescope: William Optics GT102 W_0.8x Reducer Flattener\r\nMount: AP Mach1GTO",
+    "h": 1465,
+    "hash": null,
+    "id": 365782,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT102 102mm f/6.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "359.761",
+    "pixscale": "2.976",
+    "published": "2018-09-09T22:26:30.127968",
+    "ra": "274.752",
+    "radius": "0.998",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/365782/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen nebula"
+    ],
+    "title": "M16 - Eagle Nebula (re-edit)",
+    "updated": "2021-03-17T14:05:06.835470",
+    "uploaded": "2018-09-09T23:26:30.383589",
+    "url_duckduckgo": "https://www.astrobin.com/365782/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/365782/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/365782/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/365782/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/365782/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/365782/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/365782/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2018/97e72546-11d0-4328-950e-fa3e4ae847b8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2018/97e72546-11d0-4328-950e-fa3e4ae847b8-1582595303.jpg",
+    "url_thumb": "https://www.astrobin.com/365782/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 275,
+    "w": 1920
+}

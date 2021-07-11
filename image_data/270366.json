@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "40.732",
+    "description": "Data taken at the 2016 Staunton River Star Party.\r\n\r\nRev B & C add in some H-alpha data.",
+    "h": 3320,
+    "hash": null,
+    "id": 270366,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop-Service ONTC 8\" f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.989",
+    "pixscale": "0.979",
+    "published": "2016-11-02T21:41:27.101234",
+    "ra": "10.121",
+    "radius": "0.755",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270366/",
+    "revisions": [
+        "/api/v1/imagerevision/103546/",
+        "/api/v1/imagerevision/103547/",
+        "/api/v1/imagerevision/103561/"
+    ],
+    "subjects": [
+        "M 32",
+        "M32",
+        "NGC 221",
+        "NGC206"
+    ],
+    "title": "NGC206",
+    "updated": "2021-03-17T22:35:59.881096",
+    "uploaded": "2016-11-02T21:41:27.580198",
+    "url_duckduckgo": "https://www.astrobin.com/270366/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270366/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270366/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270366/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270366/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270366/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270366/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1959/2016/27fd14c5-40d4-40d2-833f-459a62e4f54d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1959/2016/27fd14c5-40d4-40d2-833f-459a62e4f54d-1582570317.jpg",
+    "url_thumb": "https://www.astrobin.com/270366/0/rawthumb/thumb/",
+    "user": "mikefulb",
+    "views": 486,
+    "w": 4455
+}

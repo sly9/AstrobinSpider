@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "-61.298",
+    "description": "\r\n\r\nNGC 3576\r\n\r\nNebulosa da Estátua da Liberdade\r\n\r\nTS 115/800\r\n\r\nZWO ASI 1600 mono cooled\r\n\r\nHaRGB = 300-40-40-40 (minutos)\r\n\r\nTotal: 7 horas de exposição\r\n\r\nPixInsight + PS6\r\n",
+    "h": 3026,
+    "hash": null,
+    "id": 306900,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 109,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "5.842",
+    "pixscale": "1.210",
+    "published": "2017-08-12T02:25:23.917895",
+    "ra": "168.217",
+    "radius": "0.848",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306900/",
+    "revisions": [
+        "/api/v1/imagerevision/212276/"
+    ],
+    "subjects": [
+        "NGC 3576",
+        "NGC 3603"
+    ],
+    "title": "NGC 3576",
+    "updated": "2021-04-30T18:45:01.480976",
+    "uploaded": "2017-08-12T03:25:25.022714",
+    "url_duckduckgo": "https://www.astrobin.com/306900/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306900/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306900/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306900/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306900/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306900/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306900/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22145/2017/54243def-2f13-46eb-af37-1cb1fc3bf6f3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22145/2017/54243def-2f13-46eb-af37-1cb1fc3bf6f3-1582616888.jpg",
+    "url_thumb": "https://www.astrobin.com/306900/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 363,
+    "w": 4038
+}

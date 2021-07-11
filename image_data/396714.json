@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "69.681",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best Ha image taken on the AG12.\r\nUsing L (synthetic from RGB) from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThere are many delightful small galaxies in this image that are fun to seek out.\r\n\r\nNOTE:  This galaxy may contain alien life forms.  See details below.\r\n\r\nM82 was first discovered by Johann Elert Bode on December 31, 1774 together with M81; he described it as a \"nebulous patch\", about 0.75 deg away from M81, \"very pale and of elongated shape\". In 1779, Pierre Méchain independently rediscovered both galaxies and reported them to Charles Messier, who added them to his catalog.\r\n\r\nStructure\r\nM82 was previously believed to be an irregular galaxy. In 2005, however, two symmetric spiral arms were discovered in near-infrared (NIR) images of M82. The arms were detected by subtracting an axisymmetric exponential disk from the NIR images. Even though the arms were detected in NIR images, they are bluer than the disk. The arms were previously missed due to M82's high disk surface brightness, the nearly edge-on view of this galaxy (~80°), and obscuration by a complex network of dusty filaments in its optical images. These arms emanate from the ends of the NIR bar and can be followed for the length of 3 disc scales. Assuming that the northern part of M82 is nearer to us, as most of the literature does, the observed sense of rotation implies trailing arms.\r\n\r\nStarburst region\r\nIn 2005, the Hubble Space Telescope revealed 197 young massive clusters in the starburst core. The average mass of these clusters is around 200,000 solar masses, hence the starburst core is a very energetic and high-density environment. Throughout the galaxy's center, young stars are being born 10 times faster than they are inside the entire Milky Way Galaxy.\r\n\r\nThe Chandra X-ray Observatory detected fluctuating X-ray emissions from a location approximately 600 light-years away from the center of M82. Astronomers have postulated that this fluctuating emission comes from the first known intermediate-mass black hole, of roughly 200 to 5000 solar masses. M82, like most galaxies, hosts a supermassive black hole at its center with a mass of approximately 3 x 10^7 solar masses as measured from stellar dynamics.\r\n\r\nUnknown object\r\nIn April 2010, radio astronomers working at the Jodrell Bank Observatory of the University of Manchester in the UK reported an object in M82 that had started sending out radio waves, and whose emission did not look like anything seen anywhere in the universe before.\r\n\r\nThere have been several theories about the nature of this object, but currently no theory entirely fits the observed data. It has been suggested that the object could be an unusual \"micro quasar\", having very high radio luminosity yet low X-ray luminosity, and being fairly stable, it could be an analogue of the low X-ray luminosity galactic microquasar SS 433. However, all known microquasars produce large quantities of X-rays, whereas the object's X-ray flux is below the measurement threshold. The object is located at several arcseconds from the center of M82 which makes it unlikely to be associated with a supermassive black hole. It has an apparent superluminal motion of four times the speed of light relative to the galaxy center. Apparent superluminal motion is consistent with relativistic jets in massive black holes and does not indicate that the source itself is moving above lightspeed.\r\n(Wikipedia)\r\nMy Theory:  Alien Life Forms are trying to communicate with us.",
+    "h": 2795,
+    "hash": null,
+    "id": 396714,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 244,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.499",
+    "pixscale": "0.701",
+    "published": "2019-03-21T17:41:04.139639",
+    "ra": "148.954",
+    "radius": "0.452",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/396714/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034"
+    ],
+    "title": "M82 Cigar Galaxy - LRGBHa",
+    "updated": "2021-03-17T11:40:16.143815",
+    "uploaded": "2019-03-21T17:20:48.106859",
+    "url_duckduckgo": "https://www.astrobin.com/396714/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396714/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396714/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396714/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396714/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396714/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396714/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/a0e4a1f7-4719-4f2e-b128-b2506d889bd2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/a0e4a1f7-4719-4f2e-b128-b2506d889bd2-1582590861.jpg",
+    "url_thumb": "https://www.astrobin.com/396714/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 993,
+    "w": 3702
+}

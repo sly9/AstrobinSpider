@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "56.623",
+    "description": "",
+    "h": 3546,
+    "hash": null,
+    "id": 312269,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation ML 16200"
+    ],
+    "imaging_telescopes": [
+        "Planewave 14\" CDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807431/"
+    ],
+    "orientation": "2.375",
+    "pixscale": "0.721",
+    "published": "2017-09-14T23:27:26.256473",
+    "ra": "13.239",
+    "radius": "0.568",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312269/",
+    "revisions": [
+        "/api/v1/imagerevision/125118/",
+        "/api/v1/imagerevision/125119/"
+    ],
+    "subjects": [
+        "IC1590",
+        "NGC 281",
+        "NGC281",
+        "Sh2-184"
+    ],
+    "title": "Pacman SHOHOO",
+    "updated": "2021-07-04T11:35:19.759004",
+    "uploaded": "2017-09-15T00:27:27.156811",
+    "url_duckduckgo": "https://www.astrobin.com/312269/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312269/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312269/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312269/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312269/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312269/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312269/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11030/2017/19f50ff7-cfc5-427b-ae1c-1dcd734ad559.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/11030/2017/19f50ff7-cfc5-427b-ae1c-1dcd734ad559-1582604551.png",
+    "url_thumb": "https://www.astrobin.com/312269/0/rawthumb/thumb/",
+    "user": "tolgagumus",
+    "views": 498,
+    "w": 4429
+}

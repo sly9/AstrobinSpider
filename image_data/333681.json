@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-23.802",
+    "description": "Data from June 2016",
+    "h": 1315,
+    "hash": null,
+    "id": 333681,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5 Takahashi FSQ 106ED "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808428/"
+    ],
+    "orientation": "90.314",
+    "pixscale": "3.695",
+    "published": "2018-02-14T22:08:26.474536",
+    "ra": "246.265",
+    "radius": "1.144",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333681/",
+    "revisions": [],
+    "subjects": [
+        "5 rho Oph",
+        "B42",
+        "IC 4603",
+        "IC 4604",
+        "IC4603",
+        "IC4604",
+        "The star ρOph",
+        "rho Oph nebula"
+    ],
+    "title": "Heart of Rho",
+    "updated": "2021-03-17T16:30:59.670860",
+    "uploaded": "2018-02-14T22:08:26.704649",
+    "url_duckduckgo": "https://www.astrobin.com/333681/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333681/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333681/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333681/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333681/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333681/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333681/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4ae5c6f1-4960-4a3a-b2f5-6b3606a3390a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4ae5c6f1-4960-4a3a-b2f5-6b3606a3390a-1518667040.jpg",
+    "url_thumb": "https://www.astrobin.com/333681/0/rawthumb/thumb/",
+    "user": "CCDnOES",
+    "views": 142,
+    "w": 1800
+}

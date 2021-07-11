@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-49.463",
+    "description": "Data Capture:\r\n\r\nLUM: 130 min, RED: 220 min, GREEN: 200 min. BLUE: 230 min, H alpha: 450 min\r\nlights 10 min.",
+    "h": 2302,
+    "hash": "486gzg",
+    "id": 461237,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Cool CMOS Camera"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVS130 f5 Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808626/"
+    ],
+    "orientation": "183.160",
+    "pixscale": "1.153",
+    "published": "2020-03-02T15:09:04.982769",
+    "ra": "196.363",
+    "radius": "0.676",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/461237/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4945",
+        "NGC 4976",
+        "NGC4945",
+        "NGC4976",
+        "The star ξ1Cen",
+        "ksi01 Cen"
+    ],
+    "title": "SPIRAL GALAXY NGC 4945 & OTHER",
+    "updated": "2021-03-27T11:44:44.889233",
+    "uploaded": "2020-03-02T15:09:05.479189",
+    "url_duckduckgo": "https://www.astrobin.com/486gzg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/486gzg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/486gzg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/486gzg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/486gzg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/486gzg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/486gzg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26190/2020/e9f0947f-e330-4fa1-9076-c52b5c8d2a69.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26190/2020/e9f0947f-e330-4fa1-9076-c52b5c8d2a69-1583162386.jpg",
+    "url_thumb": "https://www.astrobin.com/486gzg/0/rawthumb/thumb/",
+    "user": "JAIME.FELIPE",
+    "views": 103,
+    "w": 3534
+}

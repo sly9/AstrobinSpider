@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "56.622",
+    "description": "I really wanted to enhance the stars of my previous version, so I made some RGB  20 subs of 60s exposure for each R,V, B, just to get the stars and colors.\r\nI used Starnet++ and Photoshop to clean out the stars of the SHO image.\r\n\r\nSo this is the new version with colors of the version A and B mixed , and RGB Stars shape and colors. \r\n\r\n6 nights : 16/17, 26, 30 September , 3, 5/6 and 26 October,\r\n\r\n54 SII Subs @300s (gain 139, -20°C)\r\n63 OIII Subs @300s (gain 139, -20°C)\r\n104 HalphaSubs @300s (gain 139, -20°C)\r\n=> 221 subs @300s about 18.4 hours of exposure\r\n\r\n20 Blue subs @180s gain zero and -20°C\r\n20 Green subs @180s gain zero and -20°C\r\n20 Red subs @180s gain zero and -20°C\r\n=> 60 subs @180s about 1 hours of exposure",
+    "h": 3390,
+    "hash": "h0c1kl",
+    "id": 437541,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA NEWTON NEWTON 300 F4 /1200mm"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "0.714",
+    "pixscale": "0.652",
+    "published": "2019-11-07T16:42:11.042227",
+    "ra": "13.193",
+    "radius": "0.515",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/437541/",
+    "revisions": [
+        "/api/v1/imagerevision/199434/"
+    ],
+    "subjects": [
+        "IC1590",
+        "NGC 281",
+        "NGC281"
+    ],
+    "title": "NGC281 - version SHO and RGB",
+    "updated": "2021-03-17T08:21:41.641266",
+    "uploaded": "2019-11-07T16:10:48.017881",
+    "url_duckduckgo": "https://www.astrobin.com/h0c1kl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/h0c1kl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/h0c1kl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/h0c1kl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/h0c1kl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/h0c1kl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/h0c1kl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/7c6ced10-05fd-4dff-b449-da675b840099.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/7c6ced10-05fd-4dff-b449-da675b840099-1582529185.jpg",
+    "url_thumb": "https://www.astrobin.com/h0c1kl/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 238,
+    "w": 4571
+}

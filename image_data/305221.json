@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "23.289",
+    "description": "This is an interim product from CCDStack. It is 28 x 1800s Ha images. I will process the remaining 18 x 600s RGB images in CCDStack and then combine as a color image. The final processing will occur in PS and PI.",
+    "h": 1824,
+    "hash": null,
+    "id": 305221,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Takahashi CCA-250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807465/"
+    ],
+    "orientation": "179.995",
+    "pixscale": "1.481",
+    "published": "2017-07-29T22:04:14.526175",
+    "ra": "295.789",
+    "radius": "1.192",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305221/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6820",
+        "NGC 6823"
+    ],
+    "title": "SH2-86 Ha",
+    "updated": "2021-03-17T20:19:13.710607",
+    "uploaded": "2017-07-29T22:59:43.009024",
+    "url_duckduckgo": "https://www.astrobin.com/305221/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305221/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305221/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305221/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305221/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305221/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305221/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b1a2e33b-7729-443a-aa33-5ae43bf5b2a0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b1a2e33b-7729-443a-aa33-5ae43bf5b2a0-1501365835.jpg",
+    "url_thumb": "https://www.astrobin.com/305221/0/rawthumb/thumb/",
+    "user": "sewroblewski",
+    "views": 132,
+    "w": 1824
+}

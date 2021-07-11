@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "68.202",
+    "description": "SH2-136/vdB141 Ghost nebula\r\n\r\nObject : vdB141\r\nDate : Oct.- Dec. 2018\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB\r\nExposure : R:300sx18, G:300sx18, B:300sx18, L:300sx42 (8hr)\r\nGuiding: OAG ASI174, \r\nProcessing: PI、PS-CC",
+    "h": 2365,
+    "hash": null,
+    "id": 417467,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "https://astro-noodle.blogspot.com/2019/07/sh2-136vdb141.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "178.218",
+    "pixscale": "0.694",
+    "published": "2019-07-28T07:46:07.277751",
+    "ra": "319.084",
+    "radius": "0.294",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/417467/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-136",
+        "VdB141"
+    ],
+    "title": "SH2-136/vdB141 Ghost nebula",
+    "updated": "2021-03-17T10:01:31.736725",
+    "uploaded": "2019-07-28T08:46:07.579421",
+    "url_duckduckgo": "https://www.astrobin.com/417467/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417467/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417467/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417467/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417467/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417467/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417467/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1eb46ded-6fa6-474f-8eb2-7519c0b4d4a7.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1eb46ded-6fa6-474f-8eb2-7519c0b4d4a7-1564303780.png",
+    "url_thumb": "https://www.astrobin.com/417467/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 317,
+    "w": 1920
+}

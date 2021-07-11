@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "TRAVELLER",
+    "dec": "57.471",
+    "description": "Next Trunk on the row, the LRGB. I had problems with the guiding with the blue channel, which caused the stars to grow bigger than the other channels, and this drove me nuts in the combination of channels. \r\n\r\nI find it interesting to see the differences with he H-alpha version. Next, is to move  on to  processing the H-RGB... \r\n\r\nThe capture specs are (@ 200 gain)\r\n\r\nL:11X120s\r\nRGB:11X300s / channel",
+    "h": 3165,
+    "hash": "8enblf",
+    "id": 451662,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25 XLT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 135,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806322/"
+    ],
+    "orientation": "275.373",
+    "pixscale": "0.535",
+    "published": "2020-01-31T19:26:20.077086",
+    "ra": "324.086",
+    "radius": "0.310",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451662/",
+    "revisions": [],
+    "subjects": [
+        "VdB142"
+    ],
+    "title": "LRGB Trunk",
+    "updated": "2021-03-30T21:02:55.230533",
+    "uploaded": "2020-01-26T20:02:23.384415",
+    "url_duckduckgo": "https://www.astrobin.com/8enblf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8enblf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8enblf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8enblf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8enblf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8enblf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8enblf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/19149/2020/c906c7a3-1599-405d-b4e7-ef7e4484fcdb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/19149/2020/c906c7a3-1599-405d-b4e7-ef7e4484fcdb-1582274463.jpg",
+    "url_thumb": "https://www.astrobin.com/8enblf/0/rawthumb/thumb/",
+    "user": "lapinilla",
+    "views": 384,
+    "w": 2710
+}

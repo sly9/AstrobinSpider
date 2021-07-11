@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "9.839",
+    "description": "Narrowband images (Ha, OIII, SII) arranged as a RGB composition.\r\n\r\n------------- edit -------------\r\nA second try to publish this image after the data loss... Hope it will work :-)",
+    "h": 2337,
+    "hash": null,
+    "id": 333501,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 134,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "293.548",
+    "pixscale": "1.390",
+    "published": "2018-02-19T13:38:26.318208",
+    "ra": "100.236",
+    "radius": "0.767",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333501/",
+    "revisions": [],
+    "subjects": [
+        "15 S Mon",
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "Sh2-273",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264 - Cone Nebula & Christmas Tree Cluster (SHO)",
+    "updated": "2021-03-17T16:31:50.427400",
+    "uploaded": "2018-02-14T00:19:36.855536",
+    "url_duckduckgo": "https://www.astrobin.com/333501/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333501/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333501/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333501/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333501/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333501/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333501/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2018/66f1b7ff-2743-4bd4-81cc-e2b265a56d29.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2018/66f1b7ff-2743-4bd4-81cc-e2b265a56d29-1582606890.jpg",
+    "url_thumb": "https://www.astrobin.com/333501/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 398,
+    "w": 3216
+}

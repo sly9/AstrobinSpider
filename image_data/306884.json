@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "60.153",
+    "description": "NGC 6946 (Fireworks Galaxy) with Supernova 2017eaw in the strong upper arm at about 1 o’clock. That is the 10th supernova going off in this galaxy in the last 100 years, leading to its common name.  In contrast, the Milky Way is only good for one per century.  The face-on galaxy is classified as an intermediate spiral starburst galaxy. It is about one-third of the size of the Milky Way and is at 22 million light-years distance in Cepheus and Cygnus.\r\nThis 11.7 hr HaLRGB was collected during three nights (6/24, 7/22, 7/29/2017) at a very dark site in Pinnacles National Park, CA (Bear Gulch Users Area on the East side) with SQM readings as high as 21.80 (a fellow imager got 21.90 at one point that night).  \r\n\r\n\r\n8/23/17 Version C: REPROCESSED with DRIZZLE plus new PI 1.8.5 features of:  Local \r\nNormalization and Large-scale Pixel Rejection. It also uses the new Photometric Color Calibration process based on the colors of the known stars in the image which should give more accurate color.  All three of these PI additions seem to be significant improvements.\r\n\r\n10/28/20 Version K",
+    "h": 942,
+    "hash": null,
+    "id": 306884,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 130/780 f/6 LW CNC II 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 67,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "2.187",
+    "pixscale": "1.552",
+    "published": "2017-08-11T20:42:36.175328",
+    "ra": "308.703",
+    "radius": "0.339",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306884/",
+    "revisions": [
+        "/api/v1/imagerevision/161929/",
+        "/api/v1/imagerevision/233060/",
+        "/api/v1/imagerevision/257328/",
+        "/api/v1/imagerevision/257345/"
+    ],
+    "subjects": [
+        "NGC 6946"
+    ],
+    "title": "NGC 6946 Fireworks Galaxy and SN 2017eaw",
+    "updated": "2021-03-17T20:12:25.818714",
+    "uploaded": "2017-08-11T21:42:37.295341",
+    "url_duckduckgo": "https://www.astrobin.com/306884/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306884/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306884/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306884/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306884/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306884/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306884/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6912/2017/b1a8211f-db47-49a8-8e8f-23c51ea09f54.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6912/2017/b1a8211f-db47-49a8-8e8f-23c51ea09f54-1582592275.jpg",
+    "url_thumb": "https://www.astrobin.com/306884/0/rawthumb/thumb/",
+    "user": "jeffweiss9",
+    "views": 452,
+    "w": 1260
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "55.017",
+    "description": "SharpCap Pro live stacking with master flat and master dark",
+    "h": 3520,
+    "hash": null,
+    "id": 404096,
+    "imaging_cameras": [
+        "ASI ZWO 1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 14HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 22,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802643/"
+    ],
+    "orientation": "274.366",
+    "pixscale": "0.302",
+    "published": "2019-05-04T16:27:55.101212",
+    "ra": "168.696",
+    "radius": "0.244",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404096/",
+    "revisions": [],
+    "subjects": [
+        "M 97",
+        "NGC 3587",
+        "Owl nebula"
+    ],
+    "title": "Owl Nebula",
+    "updated": "2021-05-23T10:19:40.478573",
+    "uploaded": "2019-05-04T17:27:55.542699",
+    "url_duckduckgo": "https://www.astrobin.com/404096/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404096/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404096/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404096/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404096/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404096/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404096/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10834/2019/b509d7f1-a40a-4d79-9e79-c679cc51e2f6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10834/2019/b509d7f1-a40a-4d79-9e79-c679cc51e2f6-1582526863.png",
+    "url_thumb": "https://www.astrobin.com/404096/0/rawthumb/thumb/",
+    "user": "robinandcurtis",
+    "views": 119,
+    "w": 4656
+}

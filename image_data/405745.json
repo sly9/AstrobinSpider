@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "28.380",
+    "description": "",
+    "h": 3616,
+    "hash": null,
+    "id": 405745,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "TAKAHASHI mewlon-250CRS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807127/"
+    ],
+    "orientation": "0.247",
+    "pixscale": "0.672",
+    "published": "2019-05-14T06:47:51.423316",
+    "ra": "205.534",
+    "radius": "0.522",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405745/",
+    "revisions": [],
+    "subjects": [
+        "M 3",
+        "NGC 5272"
+    ],
+    "title": "M3",
+    "updated": "2021-06-02T12:06:53.560494",
+    "uploaded": "2019-05-14T07:47:55.090328",
+    "url_duckduckgo": "https://www.astrobin.com/405745/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405745/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405745/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405745/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405745/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405745/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405745/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3c9c8c12-89cb-40ec-8f37-e19ccb6dd20c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3c9c8c12-89cb-40ec-8f37-e19ccb6dd20c-1557820371.jpg",
+    "url_thumb": "https://www.astrobin.com/405745/0/rawthumb/thumb/",
+    "user": "Atsushi_Ono",
+    "views": 696,
+    "w": 4264
+}

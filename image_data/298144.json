@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "56.612",
+    "description": "Dates: 2016-09-10; 2016-09-12; 2016-10-12; 2016-10-13; 2017-01-25;\r\n\r\nSooo, this is still a work in progress for me, because I have not enough OIII frames and still to get any SII frames :) \r\nBut I love how this intermediate result looks so I'm sharing it with you all :) \r\nAttempted to use tonemapping technique. Removed stars in Ha and OIII images, then combined to color image and aplied Ha as L. No more halos around stars, but star colors are somewhat blank, but this is narrowband so I guess there is not much to do except for capturing RGB stars.\r\n\r\nMore details on my website",
+    "h": 2108,
+    "hash": null,
+    "id": 298144,
+    "imaging_cameras": [
+        "Starlight Xpress SX694"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Explorer PDS 130/650 f/5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "http://arturas.space/images/nebula/588914389b367a0580852523",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "55.358",
+    "pixscale": "1.433",
+    "published": "2017-06-02T20:43:09.379847",
+    "ra": "13.198",
+    "radius": "0.683",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298144/",
+    "revisions": [],
+    "subjects": [
+        "IC 1590",
+        "NGC 281"
+    ],
+    "title": "NGC281 Pacman nebula",
+    "updated": "2021-07-04T08:13:29.729192",
+    "uploaded": "2017-06-02T21:43:10.220287",
+    "url_duckduckgo": "https://www.astrobin.com/298144/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298144/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298144/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298144/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298144/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298144/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298144/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12133/2020/c2e4fde1-3ec2-4b04-b37e-7be2c4fea00b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12133/2020/c2e4fde1-3ec2-4b04-b37e-7be2c4fea00b-1589816004.png",
+    "url_thumb": "https://www.astrobin.com/298144/0/rawthumb/thumb/",
+    "user": "burscikas",
+    "views": 1164,
+    "w": 2707
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "4.969",
+    "description": "S 20 x 1800s\r\nH 16 x 1800s\r\nO 16 x 1800s",
+    "h": 2436,
+    "hash": null,
+    "id": 271319,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDEDX IIII Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806015/"
+    ],
+    "orientation": "0.251",
+    "pixscale": "2.096",
+    "published": "2016-11-07T13:40:12.005678",
+    "ra": "98.034",
+    "radius": "1.184",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271319/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette",
+    "updated": "2021-03-17T22:32:58.270972",
+    "uploaded": "2016-11-07T13:40:12.457859",
+    "url_duckduckgo": "https://www.astrobin.com/271319/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271319/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271319/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271319/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271319/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271319/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271319/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18949/2016/1c9bf04b-0ce2-47a4-bfcc-d5f104c16854.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18949/2016/1c9bf04b-0ce2-47a4-bfcc-d5f104c16854-1582459752.jpg",
+    "url_thumb": "https://www.astrobin.com/271319/0/rawthumb/thumb/",
+    "user": "Kwas",
+    "views": 112,
+    "w": 3258
+}

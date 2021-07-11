@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "44.387",
+    "description": "",
+    "h": 1663,
+    "hash": null,
+    "id": 372214,
+    "imaging_cameras": [
+        "QSI 583 WSG"
+    ],
+    "imaging_telescopes": [
+        "Vixen VC-200L"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809750/"
+    ],
+    "orientation": "179.223",
+    "pixscale": "1.030",
+    "published": "2018-10-17T16:41:45.053365",
+    "ra": "312.752",
+    "radius": "0.357",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/372214/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula"
+    ],
+    "title": "IC5070 (Ha-OIII bicolor + RGB stars)",
+    "updated": "2021-06-18T20:11:56.375906",
+    "uploaded": "2018-10-17T14:08:53.581521",
+    "url_duckduckgo": "https://www.astrobin.com/372214/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/372214/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/372214/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/372214/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/372214/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/372214/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/372214/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3dada624-a19a-487d-9a13-f161b9a29f60.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3dada624-a19a-487d-9a13-f161b9a29f60-1539785439.jpg",
+    "url_thumb": "https://www.astrobin.com/372214/0/rawthumb/thumb/",
+    "user": "SpaceExpedition",
+    "views": 379,
+    "w": 1252
+}

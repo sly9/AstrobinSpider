@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "68.037",
+    "description": "With PI 1.8.5 released, There are couple of interesting tools I wanted to try out.\r\n\r\nI had collected this data from my redzone backyard with E-130D from very bad quality skies with tons of gradients.\r\n\r\nThe first tool I used was the LocalNormalization. This tool allows to do much better gradient rejection after the registration setp and this helped a lot with data. Earlier, it was very hard to figure out the signal vs gradient and with lot of dust in the field, it was hard to do DBE.\r\n\r\nThe next tool is the PhotoMetricColorCalibration (PCC) which uses  APASS data to calibrate the color in the field. It worked well (Mine had cyan casting) but the resultant had more green cast. But still it is an improvement.\r\n\r\nEDIT: Turns out the using G2V star white reference produces better color correction. I had done the PCC with spiral galaxy default (Which is not right for this image). Still learning the new tools, but it is looking very powerful",
+    "h": 937,
+    "hash": null,
+    "id": 306382,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "81.955",
+    "pixscale": "5.765",
+    "published": "2017-08-07T02:01:16.980830",
+    "ra": "315.638",
+    "radius": "1.283",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306382/",
+    "revisions": [
+        "/api/v1/imagerevision/122236/",
+        "/api/v1/imagerevision/122255/"
+    ],
+    "subjects": [
+        "NGC 7023",
+        "NGC7023",
+        "T Cep",
+        "VdB139"
+    ],
+    "title": "Iris Nebula - Pixinsight Reprocess ",
+    "updated": "2021-03-17T20:14:19.009293",
+    "uploaded": "2017-08-07T03:01:17.614089",
+    "url_duckduckgo": "https://www.astrobin.com/306382/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306382/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306382/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306382/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306382/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306382/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306382/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7483/2017/b5ec0906-317a-4941-962a-5f72a04f0c4b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b5ec0906-317a-4941-962a-5f72a04f0c4b-1502083299.png",
+    "url_thumb": "https://www.astrobin.com/306382/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 499,
+    "w": 1300
+}

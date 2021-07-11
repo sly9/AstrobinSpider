@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "31.080",
+    "description": "6 Pane Mosaic taken with Asi 071 and Asi 2600",
+    "h": 3364,
+    "hash": "glcx6f",
+    "id": 465955,
+    "imaging_cameras": [
+        "Zwo Asi2600mc",
+        "Zwo Asi 071"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 100 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 180,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808840/"
+    ],
+    "orientation": "3.162",
+    "pixscale": "3.076",
+    "published": "2020-03-17T11:06:35.523242",
+    "ra": "52.126",
+    "radius": "3.318",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/465955/",
+    "revisions": [
+        "/api/v1/imagerevision/260702/",
+        "/api/v1/imagerevision/260714/",
+        "/api/v1/imagerevision/261206/"
+    ],
+    "subjects": [
+        "NGC 1333"
+    ],
+    "title": "Perseus Molecular Cloud 6 panel",
+    "updated": "2021-06-18T21:41:29.968052",
+    "uploaded": "2020-03-17T11:06:37.890443",
+    "url_duckduckgo": "https://www.astrobin.com/glcx6f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/glcx6f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/glcx6f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/glcx6f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/glcx6f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/glcx6f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/glcx6f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16962/2020/ac3bc531-bbc6-455b-a49c-aeb49c1f433c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16962/2020/ac3bc531-bbc6-455b-a49c-aeb49c1f433c-1584443467.png",
+    "url_thumb": "https://www.astrobin.com/glcx6f/0/rawthumb/thumb/",
+    "user": "Allinthehead",
+    "views": 880,
+    "w": 7000
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "41.216",
+    "description": "Finally got around to processing this data from September of last year. This is my second round with HDR imaging and my first try at the mighty M31. Bracketed exposures were processed in Pixinsight's HDR Composition tool. HA data blended using the HARVB script.\r\n\r\nTaken from Harrington Beach State Park in Belgium, WI. Bortle 4 skies.",
+    "h": 3460,
+    "hash": null,
+    "id": 390592,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 123,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802077/"
+    ],
+    "orientation": "267.843",
+    "pixscale": "2.039",
+    "published": "2019-02-13T05:22:47.255144",
+    "ra": "10.705",
+    "radius": "1.633",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/390592/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224"
+    ],
+    "title": "M31 Andromeda Galaxy in HDR HaLRGB",
+    "updated": "2021-03-17T12:07:49.832724",
+    "uploaded": "2019-02-13T05:22:47.409885",
+    "url_duckduckgo": "https://www.astrobin.com/390592/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390592/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390592/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390592/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390592/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390592/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390592/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7573/2020/588c677f-7340-4fc4-9ca9-efb64ff9f423.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7573/2020/588c677f-7340-4fc4-9ca9-efb64ff9f423-1582614239.jpg",
+    "url_thumb": "https://www.astrobin.com/390592/0/rawthumb/thumb/",
+    "user": "SparkyHT",
+    "views": 540,
+    "w": 4612
+}

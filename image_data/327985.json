@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "60.415",
+    "description": "This is a four pane mosaic of IC1848, the Soul Nebula in SHO.  It was taken with a QHY163M over two dark periods.",
+    "h": 6193,
+    "hash": null,
+    "id": 327985,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics AP155EDFS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801427/"
+    ],
+    "orientation": "359.499",
+    "pixscale": "0.899",
+    "published": "2018-01-01T23:16:23.329001",
+    "ra": "43.720",
+    "radius": "1.311",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327985/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "IC1848, The Soul Nebula in SHO",
+    "updated": "2021-03-17T18:45:44.629777",
+    "uploaded": "2018-01-01T23:16:24.484674",
+    "url_duckduckgo": "https://www.astrobin.com/327985/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327985/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327985/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327985/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327985/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327985/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327985/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/af45662d-f484-44d3-bade-abc9eae1bab7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/af45662d-f484-44d3-bade-abc9eae1bab7-1514848855.jpg",
+    "url_thumb": "https://www.astrobin.com/327985/0/rawthumb/thumb/",
+    "user": "fbzolt",
+    "views": 549,
+    "w": 8481
+}

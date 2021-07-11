@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "61.962",
+    "description": "The Fishhead Nebula is a knot of gas and dust on the western edge of the Heart Nebula (IC 1805). This bright nebula is 7,500 light years away, located in the Perseus Arm of our Milky Way Galaxy. The object is dominated by dust and hydrogen gas, with good measures of oxygen and sulfur gas.\r\n\r\nIn October 2018 I collect 25.1 hours of Ha, OIII, SII, and RGB data for a wide view of this region (1.84 degrees X 1.39 degrees) using a SW Esprit 100ED (https://www.astrobin.com/372144/D/). This year I collected an additional 10.6 hours of Ha data with a tighter FOV (1.09 degrees X 0.83 degrees) using a WO FLT132. In this image, I combined the two data sets using the new, tighter FOV data to create a luminance mask to produce a cropped version of the original 2018 image.",
+    "h": 3011,
+    "hash": "7pirhd",
+    "id": 439638,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher Esprit 100ED",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "117.800",
+    "pixscale": "0.862",
+    "published": "2019-11-21T05:43:24.146033",
+    "ra": "36.953",
+    "radius": "0.598",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439638/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC1795",
+        "NGC 896",
+        "NGC896"
+    ],
+    "title": "Fishhead Nebula (NGC 896, IC 1795)",
+    "updated": "2021-07-07T00:13:22.562198",
+    "uploaded": "2019-11-21T05:43:24.425246",
+    "url_duckduckgo": "https://www.astrobin.com/7pirhd/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7pirhd/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7pirhd/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7pirhd/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7pirhd/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7pirhd/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7pirhd/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/e681fcc0-47a9-48f6-be8d-dccd9e9d3c5b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/e681fcc0-47a9-48f6-be8d-dccd9e9d3c5b-1582291135.jpg",
+    "url_thumb": "https://www.astrobin.com/7pirhd/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 515,
+    "w": 3983
+}

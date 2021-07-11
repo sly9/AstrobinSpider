@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-35.048",
+    "description": "Widefield image of these 2 classic objects in scorpious",
+    "h": 1216,
+    "hash": null,
+    "id": 302812,
+    "imaging_cameras": [
+        "Canon 5Da Mark II"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FSQ106n"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798291/"
+    ],
+    "orientation": "209.764",
+    "pixscale": "2.503",
+    "published": "2017-07-10T14:32:12.386735",
+    "ra": "260.826",
+    "radius": "2.347",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302812/",
+    "revisions": [
+        "/api/v1/imagerevision/120148/"
+    ],
+    "subjects": [
+        "NGC 6334",
+        "NGC 6357"
+    ],
+    "title": "NGC6334 and NGC6357 Widefield",
+    "updated": "2021-03-17T20:28:38.053223",
+    "uploaded": "2017-07-10T14:25:33.880969",
+    "url_duckduckgo": "https://www.astrobin.com/302812/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302812/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302812/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302812/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302812/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302812/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302812/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/874/2017/50b66fa6-05ff-422e-9d38-761db86d59a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/50b66fa6-05ff-422e-9d38-761db86d59a3-1499693406.jpg",
+    "url_thumb": "https://www.astrobin.com/302812/0/rawthumb/thumb/",
+    "user": "Djt",
+    "views": 242,
+    "w": 1824
+}

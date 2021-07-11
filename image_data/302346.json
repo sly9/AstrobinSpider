@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "57.474",
+    "description": "Imaged over 4 nights, July 2-5 2017.  100, 5 minute subs for each filter, Baader Ha, S-II, O-III",
+    "h": 3276,
+    "hash": null,
+    "id": 302346,
+    "imaging_cameras": [
+        "SBIG STF8300M"
+    ],
+    "imaging_telescopes": [
+        "Orion  10\" f/4.7 Reflector"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806240/"
+    ],
+    "orientation": "269.902",
+    "pixscale": "0.925",
+    "published": "2017-07-06T19:15:45.145147",
+    "ra": "323.595",
+    "radius": "0.529",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302346/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Elephant Trunk Nebula",
+    "updated": "2021-03-17T20:30:16.230374",
+    "uploaded": "2017-07-06T20:15:47.364804",
+    "url_duckduckgo": "https://www.astrobin.com/302346/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302346/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302346/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302346/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302346/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302346/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302346/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/19843/2017/791baef4-4337-45de-9744-b1faba8c68d3.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/19843/2017/791baef4-4337-45de-9744-b1faba8c68d3-1582389019.png",
+    "url_thumb": "https://www.astrobin.com/302346/0/rawthumb/thumb/",
+    "user": "csduffey",
+    "views": 180,
+    "w": 2488
+}

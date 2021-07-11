@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "32.542",
+    "description": "In contrary to my expectation the sky cleared up and I could image the Whale Galaxy. The sky was mediocre with transiting high thin clouds.\r\nI could collect 2 hours of lum data before the clouds rolled in.",
+    "h": 1232,
+    "hash": "vydrgm",
+    "id": 467832,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton",
+        "Sky-Watcher BD 150/750 Newton f5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 198,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.574",
+    "pixscale": "1.210",
+    "published": "2020-03-23T13:12:59.380516",
+    "ra": "190.516",
+    "radius": "0.372",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467832/",
+    "revisions": [
+        "/api/v1/imagerevision/220947/",
+        "/api/v1/imagerevision/220951/",
+        "/api/v1/imagerevision/220953/",
+        "/api/v1/imagerevision/221388/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "Whale Galaxy"
+    ],
+    "title": "NGC 4631 the Whale Galaxy",
+    "updated": "2021-05-01T14:06:46.242649",
+    "uploaded": "2020-03-23T12:32:43.456465",
+    "url_duckduckgo": "https://www.astrobin.com/vydrgm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/vydrgm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/vydrgm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/vydrgm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/vydrgm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/vydrgm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/vydrgm/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/fb26bc46-a5a8-425a-a56d-b49c600e7bec.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/fb26bc46-a5a8-425a-a56d-b49c600e7bec-1584967642.jpg",
+    "url_thumb": "https://www.astrobin.com/vydrgm/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 575,
+    "w": 1840
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "46.779",
+    "description": "",
+    "h": 4285,
+    "hash": null,
+    "id": 312290,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV70T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807395/"
+    ],
+    "orientation": "163.298",
+    "pixscale": "2.312",
+    "published": "2017-09-15T03:56:59.931301",
+    "ra": "308.616",
+    "radius": "1.762",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312290/",
+    "revisions": [
+        "/api/v1/imagerevision/289120/"
+    ],
+    "subjects": [],
+    "title": "Sh2-115 & Sh2-112 in SHO",
+    "updated": "2021-06-05T20:01:25.244721",
+    "uploaded": "2017-09-15T04:57:00.983529",
+    "url_duckduckgo": "https://www.astrobin.com/312290/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312290/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312290/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312290/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312290/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312290/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312290/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23479/2020/40f89ec3-ea87-4029-a3a8-3bcb6ec0145b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23479/2020/40f89ec3-ea87-4029-a3a8-3bcb6ec0145b-1590593080.jpg",
+    "url_thumb": "https://www.astrobin.com/312290/0/rawthumb/thumb/",
+    "user": "dugstruble",
+    "views": 296,
+    "w": 3428
+}

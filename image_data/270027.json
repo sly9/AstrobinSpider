@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 80,
+    "comments": 57,
+    "data_source": "UNSET",
+    "dec": "-24.041",
+    "description": "I started on this target with the ASI1600 and got 22x600 seconds of OIII and only 7x480 seconds of Ha and the plan was to go 50x600 on OIII and at least 30x480 on Ha. But the weather is going to be rainy/cloudy for at least two weeks (or more). I decided to try processing it and it looks decent enough (full size falls apart due to lack of data). There is hardly any Ha contribution to this image. \r\n\r\nI am hoping this will be smooth once I get a chance to collect more data on this.\r\n\r\nVersion B - Reprocess with same data.  The weather cleared with super moon, so no chance to collect OIII. Hoping the window clears before the target is out of position for me and collect more data on this.\r\n\r\nVersion D: 64x10minutes of OIII and 20x10 minutes of HA\r\n\r\n\r\nSelected as APOD! --> https://apod.nasa.gov/apod/ap161220.html",
+    "h": 1301,
+    "hash": null,
+    "id": 270027,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 390,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "94.586",
+    "pixscale": "3.561",
+    "published": "2016-10-31T15:31:31.920613",
+    "ra": "103.678",
+    "radius": "0.982",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270027/",
+    "revisions": [
+        "/api/v1/imagerevision/104361/",
+        "/api/v1/imagerevision/104737/",
+        "/api/v1/imagerevision/104738/",
+        "/api/v1/imagerevision/104864/",
+        "/api/v1/imagerevision/105151/",
+        "/api/v1/imagerevision/105153/"
+    ],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "Sh2-308",
+    "updated": "2021-03-31T10:04:41.727426",
+    "uploaded": "2016-10-31T15:31:31.920613",
+    "url_duckduckgo": "https://www.astrobin.com/270027/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270027/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270027/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270027/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270027/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270027/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270027/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/e877bc65-9e27-4298-b2f1-eb25f9ad75a4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/e877bc65-9e27-4298-b2f1-eb25f9ad75a4-1477928155.png",
+    "url_thumb": "https://www.astrobin.com/270027/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 6870,
+    "w": 1500
+}

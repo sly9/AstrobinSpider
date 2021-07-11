@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-24.314",
+    "description": "",
+    "h": 1762,
+    "hash": null,
+    "id": 415182,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "31.809",
+    "pixscale": "2.295",
+    "published": "2019-07-13T21:46:43.279769",
+    "ra": "271.089",
+    "radius": "1.028",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/415182/",
+    "revisions": [],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "Lagoon Nebula - Messier 8",
+    "updated": "2021-03-17T10:12:09.119243",
+    "uploaded": "2019-07-13T22:46:43.425233",
+    "url_duckduckgo": "https://www.astrobin.com/415182/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/415182/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/415182/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/415182/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/415182/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/415182/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/415182/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/a576a78f-fcc2-4a46-a512-f9ca830f5b22.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a576a78f-fcc2-4a46-a512-f9ca830f5b22-1563058228.jpg",
+    "url_thumb": "https://www.astrobin.com/415182/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 377,
+    "w": 2400
+}

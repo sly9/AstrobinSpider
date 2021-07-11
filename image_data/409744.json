@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-23.030",
+    "description": "LRGB presentation.\r\nL: 36x600 ecs, RGB: 12x600 each channel",
+    "h": 1592,
+    "hash": null,
+    "id": 409744,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FS 128"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "1.228",
+    "pixscale": "1.198",
+    "published": "2019-06-10T12:00:41.601414",
+    "ra": "270.616",
+    "radius": "0.425",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/409744/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "Messier 20 Trifid Nebula",
+    "updated": "2021-03-17T10:38:25.298595",
+    "uploaded": "2019-06-10T13:00:42.356187",
+    "url_duckduckgo": "https://www.astrobin.com/409744/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409744/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409744/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409744/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409744/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409744/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409744/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0b936dec-2eb1-494a-97f1-321f4662c61f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/0b936dec-2eb1-494a-97f1-321f4662c61f-1560171907.png",
+    "url_thumb": "https://www.astrobin.com/409744/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 117,
+    "w": 2000
+}

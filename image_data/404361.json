@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 17,
+    "comments": 23,
+    "data_source": "BACKYARD",
+    "dec": "13.020",
+    "description": "Julian California weather could be a bit \"iffy\"in April and May. We planned to visit the observatory for 10 days but only stayed 7. Luckily from that 7 we got 3 clear nights with some passing clouds.\r\n\r\nGiven the unpredictable weather, I had to plan carefully to get something that would be worth publishing. To that end I selected The Eyes (NGC 4435 & NGC 4438) as seen here and \"The Lost in Space\" galaxy (NGC6503) which I'll process next.\r\n\r\nI planned to shoot The Eyes from 9 to 1 and NGC6503 from 1 to 5. On the first clear night I got decent L for both (about 3 hours). The second clear night I shot 1 hour of each RGB for both objects. Thinking that may be all I could get this month, I suspected I could get some decent processing, albeit noisy.\r\n\r\nThen I got really lucky. 1 more clear night of 8 hours (last night) with less than 2\" FWHM seeing on 15-minute subs. I even had several 15-minute subs at 1.4\" FWHM. I don't see that too often. I suppose maybe the calm before the storm, which is rolling in today.\r\n\r\nI used CCDInspector to select the lowest FWHM subs and threw away about 2 hours of L per object as a result (>=2.4\" FWHM). Not too bad. I kept all the RGB regardless since I only had an hour in each channel. I usually like to shoot 3 hours in each color channel, so color noise here (i.e., \"blotches\") is not up to my normal standards.\r\n\r\nAs always, processing is very minimal. After calibration and stacking in Maxim I used PI for very careful L deconvolution and stretching. I also used PI for RGB gradient removal, Photometric Color Calibration and stretching. Contrast, sharpening, color stretching, noise reduction and combining is all done in PS with very subtle parameters. My goal is to maintain the original natural fidelity from the excellent Planewave optics. This is sometimes difficult to do in PI, at least for me. (-;\r\n\r\nAs always I look forward to your comments. I hope you enjoy \"The Eyes\"...\r\n\r\n\"...a pair of interacting galaxies about 52 million light-years away in the constellation Virgo. The pair are members of the string of galaxies known as Markarian's Chain. While there is evidence to suggest that the environmental damage to the interstellar medium of NGC 4438 may have been caused by an off-center collision with NGC 4435 millions of years ago, a recent discovery of several filaments of ionized gas link NGC 4438 with the large neighboring elliptical galaxy Messier 86, in addition to a discovery of gas and dust within M86 that may have been stripped from NGC 4438 during a past encounter between the two. Given the high density of galaxies in the center of the Virgo galaxy cluster, it is possible that the three galaxies, NGC 4435, NGC 4438, and M86, have had past interactions.\"",
+    "h": 1881,
+    "hash": null,
+    "id": 404361,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 163,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "179.186",
+    "pixscale": "0.468",
+    "published": "2019-05-05T20:25:53.987038",
+    "ra": "186.936",
+    "radius": "0.234",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404361/",
+    "revisions": [
+        "/api/v1/imagerevision/178846/"
+    ],
+    "subjects": [
+        "NGC 4435",
+        "NGC 4438",
+        "The Eyes"
+    ],
+    "title": "The Eyes (NGC 4435 & NGC 4438)",
+    "updated": "2021-04-22T20:59:29.302190",
+    "uploaded": "2019-05-05T21:25:54.198687",
+    "url_duckduckgo": "https://www.astrobin.com/404361/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404361/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404361/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404361/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404361/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404361/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404361/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bd8fac3e-cab4-4cfa-9fa3-e16c24d51e18.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bd8fac3e-cab4-4cfa-9fa3-e16c24d51e18-1557091734.jpg",
+    "url_thumb": "https://www.astrobin.com/404361/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 801,
+    "w": 1824
+}

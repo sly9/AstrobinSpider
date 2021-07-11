@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.034",
+    "description": "Lx15, Rx16, Gx16, Bx17，15min per frame",
+    "h": 2670,
+    "hash": null,
+    "id": 396021,
+    "imaging_cameras": [
+        "QHY695a"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 130/650 PDS Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810710/"
+    ],
+    "orientation": "0.874",
+    "pixscale": "1.438",
+    "published": "2019-03-17T07:11:53.901763",
+    "ra": "198.956",
+    "radius": "0.677",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/396021/",
+    "revisions": [
+        "/api/v1/imagerevision/174793/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M63 with friends",
+    "updated": "2021-03-17T11:43:20.317123",
+    "uploaded": "2019-03-17T07:11:54.184318",
+    "url_duckduckgo": "https://www.astrobin.com/396021/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396021/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396021/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396021/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396021/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396021/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396021/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24344/2019/44c8afb5-9a0f-401e-9c16-f0230721444e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/44c8afb5-9a0f-401e-9c16-f0230721444e-1552806982.png",
+    "url_thumb": "https://www.astrobin.com/396021/0/rawthumb/thumb/",
+    "user": "QHY695A",
+    "views": 371,
+    "w": 2052
+}

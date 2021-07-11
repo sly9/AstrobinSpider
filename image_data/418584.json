@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-23.038",
+    "description": "First light from my Butterfly Ridge Observatory (BRO).\r\n\r\nRevision - \r\n\r\n1. Fined tuned the sigma low range rejection to eliminate pesky black dots;\r\n2. Apply more aggressive post processing in Pixinsight to show the fine layers of surrounding dark nebula.",
+    "h": 2484,
+    "hash": null,
+    "id": 418584,
+    "imaging_cameras": [
+        "SBIG STL-11000M STL-11000M Class 2"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK F/6.7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811487/"
+    ],
+    "orientation": "6.309",
+    "pixscale": "0.881",
+    "published": "2019-08-02T16:42:11.240713",
+    "ra": "270.603",
+    "radius": "0.554",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/418584/",
+    "revisions": [
+        "/api/v1/imagerevision/189825/"
+    ],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "M20",
+    "updated": "2021-05-23T20:53:39.781688",
+    "uploaded": "2019-08-02T17:42:11.378070",
+    "url_duckduckgo": "https://www.astrobin.com/418584/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418584/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418584/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418584/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418584/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418584/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418584/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/07c20705-9856-4041-aced-279d7a24acda.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/07c20705-9856-4041-aced-279d7a24acda-1564768009.jpg",
+    "url_thumb": "https://www.astrobin.com/418584/0/rawthumb/thumb/",
+    "user": "ub0423",
+    "views": 222,
+    "w": 3792
+}

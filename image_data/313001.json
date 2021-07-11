@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "59.075",
+    "description": "",
+    "h": 1377,
+    "hash": null,
+    "id": 313001,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 66,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "268.966",
+    "pixscale": "1.673",
+    "published": "2017-09-20T17:25:54.341620",
+    "ra": "52.482",
+    "radius": "1.019",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313001/",
+    "revisions": [],
+    "subjects": [],
+    "title": "vdB 15 around the Star CE Cam",
+    "updated": "2021-03-17T19:47:43.681016",
+    "uploaded": "2017-09-20T18:25:55.208836",
+    "url_duckduckgo": "https://www.astrobin.com/313001/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313001/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313001/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313001/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313001/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313001/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313001/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20996/2017/aa66cc98-49b0-4db6-b027-f6fc49e23ed8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/aa66cc98-49b0-4db6-b027-f6fc49e23ed8-1505928533.png",
+    "url_thumb": "https://www.astrobin.com/313001/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 283,
+    "w": 1824
+}

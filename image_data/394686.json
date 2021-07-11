@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.445",
+    "description": "Clouds cleared last night, though seeing did not seem so great. But I was able to get some OIII on this target, enough to attempt an HOO version. Next clear night I'l grab SII for the SHO rendering. Not thrilled with the OIII data.",
+    "h": 1946,
+    "hash": null,
+    "id": 394686,
+    "imaging_cameras": [
+        "FLI Microline CCD 16200 Monochrome Grade 1 Sensor"
+    ],
+    "imaging_telescopes": [
+        "TPO 8\" f/8 Ritchey-Chretien Carbon Fiber Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809683/"
+    ],
+    "orientation": "180.926",
+    "pixscale": "1.050",
+    "published": "2019-03-08T22:30:52.031631",
+    "ra": "38.553",
+    "radius": "0.492",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394686/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "Melotte 15 Environs, HOO",
+    "updated": "2021-03-17T11:49:27.355457",
+    "uploaded": "2019-03-08T22:30:52.224792",
+    "url_duckduckgo": "https://www.astrobin.com/394686/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394686/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394686/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394686/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394686/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394686/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394686/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27236/2019/463712b5-e502-42b8-8d0a-e1e15379bba9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27236/2019/463712b5-e502-42b8-8d0a-e1e15379bba9-1582482112.jpg",
+    "url_thumb": "https://www.astrobin.com/394686/0/rawthumb/thumb/",
+    "user": "StephenGarretson",
+    "views": 55,
+    "w": 2756
+}

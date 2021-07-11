@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "61.187",
+    "description": "Shot HA binned 2x2  and blended as Lum with SHO data taken with my FSQ last year.",
+    "h": 1084,
+    "hash": null,
+    "id": 272253,
+    "imaging_cameras": [
+        "QSI 660wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 10\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798308/"
+    ],
+    "orientation": "-179.326",
+    "pixscale": "0.972",
+    "published": "2016-11-15T04:02:53.034142",
+    "ra": "350.179",
+    "radius": "0.234",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/272253/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "Bubble Nebula SHO",
+    "updated": "2021-03-17T22:29:27.936389",
+    "uploaded": "2016-11-15T04:02:53.412596",
+    "url_duckduckgo": "https://www.astrobin.com/272253/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/272253/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/272253/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/272253/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/272253/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/272253/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/272253/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/2b596af4-a45f-4518-af76-d054bc0b3449.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2b596af4-a45f-4518-af76-d054bc0b3449-1480031144.jpg",
+    "url_thumb": "https://www.astrobin.com/272253/0/rawthumb/thumb/",
+    "user": "Wembley2000",
+    "views": 136,
+    "w": 1354
+}

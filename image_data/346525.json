@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 16,
+    "data_source": "UNKNOWN",
+    "dec": "-24.340",
+    "description": "",
+    "h": 1461,
+    "hash": null,
+    "id": 346525,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 135,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "88.424",
+    "pixscale": "1.370",
+    "published": "2018-05-12T14:21:33.043437",
+    "ra": "270.993",
+    "radius": "1.066",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/346525/",
+    "revisions": [
+        "/api/v1/imagerevision/145175/",
+        "/api/v1/imagerevision/179377/"
+    ],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 SHO",
+    "updated": "2021-05-22T19:37:38.848913",
+    "uploaded": "2018-05-12T15:20:02.187317",
+    "url_duckduckgo": "https://www.astrobin.com/346525/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/346525/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/346525/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/346525/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/346525/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/346525/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/346525/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/27983a69-40e2-4616-a449-0e0eab45ea33.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/27983a69-40e2-4616-a449-0e0eab45ea33-1526134917.jpg",
+    "url_thumb": "https://www.astrobin.com/346525/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 575,
+    "w": 1824
+}

@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "-0.011",
+    "description": "This a short movie showing of  M77 before and after SN 2018inc.  Look at the six o'clock position near the core of the galaxy for the appearance of what looks like an extra star.  This is a supernova.\r\n\r\nThe animation loops five times.  Before and after the supernova.  Blinking between the images helps spotting differences between frames.\r\n\r\nEach frame is a single 900 sec lum image, with the addition of some colour data to make it look more interesting.",
+    "h": 1096,
+    "hash": null,
+    "id": 379580,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 10\" Ritchey-Chrétien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "145.519",
+    "pixscale": "0.803",
+    "published": "2018-12-05T06:39:37.662524",
+    "ra": "40.669",
+    "radius": "0.188",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/379580/",
+    "revisions": [],
+    "subjects": [
+        "M 77",
+        "NGC 1068"
+    ],
+    "title": "Animation Supernova SN 2018ivc in Messier 77",
+    "updated": "2021-03-17T12:58:00.397181",
+    "uploaded": "2018-12-05T06:39:37.767473",
+    "url_duckduckgo": "https://www.astrobin.com/379580/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/379580/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/379580/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/379580/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/379580/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/379580/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/379580/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15508/2020/4c892c11-45cc-4e89-a1a0-eb910f1fc7f6.gif",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15508/2020/4c892c11-45cc-4e89-a1a0-eb910f1fc7f6-1598841125.gif",
+    "url_thumb": "https://www.astrobin.com/379580/0/rawthumb/thumb/",
+    "user": "trobison",
+    "views": 749,
+    "w": 1280
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "42.030",
+    "description": "Additional LRGB raw data was added (24/25 April-2017) to this M63 Lum picture:\r\nhttp://astrob.in/292976/0/\r\nThe LRGB picture also show the supernova SN 2017 dfc.\r\nThe weather conditions was not perfect but I managed to get additional raw data last evening/night and today.\r\nExposure time in total for the shown LRGB picture:\r\n16\" SCT & ZWO camera: Lum: 106x60sec + 9x180sec + R,G,B: 29x120, 28x120, 23x120sec. \r\nZWO camera unity gain, bin1x1 settings was used.\r\nWO FLT-110 & Atik camera, bin1x1: 36x120sec + 13x60sec + 2x600sec.\r\n\r\nMy home build observatory is placed in my front yard/in the \"red light\" polution zone, have a look here,\r\nhttps://www.dropbox.com/s/lnr3elrgm81uj0i/Light-polution-mapDK.jpg?dl=0\r\n\r\nKind regards Niels",
+    "h": 814,
+    "hash": null,
+    "id": 293210,
+    "imaging_cameras": [
+        "Atik 460 EX Mono Atik 460EX Mono",
+        "ZWO ASI 1600MM-Cooled ZWO mono"
+    ],
+    "imaging_telescopes": [
+        "WO FLT-110 WO",
+        "Meade Lx200ACF 16\" F6.2 Meade SCT 16\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806588/"
+    ],
+    "orientation": "-133.667",
+    "pixscale": "1.099",
+    "published": "2017-04-25T14:21:45.280641",
+    "ra": "198.952",
+    "radius": "0.207",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293210/",
+    "revisions": [
+        "/api/v1/imagerevision/115129/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M63, a LRGB picture",
+    "updated": "2021-05-10T16:43:13.107190",
+    "uploaded": "2017-04-25T15:21:45.566913",
+    "url_duckduckgo": "https://www.astrobin.com/293210/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293210/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293210/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293210/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293210/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293210/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293210/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/bb487a6a-5235-45cb-a966-0d608e0de303.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bb487a6a-5235-45cb-a966-0d608e0de303-1493130600.jpg",
+    "url_thumb": "https://www.astrobin.com/293210/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 615,
+    "w": 1081
+}

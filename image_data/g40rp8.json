@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-37.505",
+    "description": "Small sensor, high FL adds over sampling; better viewed from a distance.",
+    "h": 958,
+    "hash": "g40rp8",
+    "id": 451494,
+    "imaging_cameras": [
+        "ZWO ASI 178MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C8 XLT SCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809808/"
+    ],
+    "orientation": "274.295",
+    "pixscale": "0.648",
+    "published": "2020-01-27T02:13:46.295543",
+    "ra": "76.921",
+    "radius": "0.153",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/451494/",
+    "revisions": [
+        "/api/v1/imagerevision/209388/",
+        "/api/v1/imagerevision/209392/",
+        "/api/v1/imagerevision/209401/"
+    ],
+    "subjects": [
+        "NGC 1808"
+    ],
+    "title": "NGC 1808",
+    "updated": "2021-05-11T19:40:04.114319",
+    "uploaded": "2020-01-26T05:15:32.175075",
+    "url_duckduckgo": "https://www.astrobin.com/g40rp8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/g40rp8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/g40rp8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/g40rp8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/g40rp8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/g40rp8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/g40rp8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/29440/2020/392b95bb-7570-44a5-b2b6-046d2bd70adf.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/29440/2020/392b95bb-7570-44a5-b2b6-046d2bd70adf-1587815404.jpeg",
+    "url_thumb": "https://www.astrobin.com/g40rp8/0/rawthumb/thumb/",
+    "user": "aikd",
+    "views": 150,
+    "w": 1404
+}

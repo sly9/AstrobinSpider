@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "33.028",
+    "description": "Subject: M57: A planetary nebula in the constellation Lyra, located about 2300 light-years from earth. We are looking down a tunnel of gasses being shed by the small white star in the center.\r\n\r\nCapture notes: This was a bit of an accidental image. I took the luminance in frustration after spending a couple hours trying to polar align my mount, with limited success. I finally figured guidable was good enough and picked an easy target: M57. Other nights, my primary target was NGC-5907, but when it had moved to a poor position, I'd grab an hour or two of RGB on M57. This may have worked to my benefit because the air had settled by then (one night my RMS error dipped to 0.35\"!) and it was as dark as it ever gets here.\r\n\r\nProcessing notes: It's a bit of a tough target to stretch. There is a barred spiral galaxy below and to the left of M57 that is hard to see. More stretching seemed to wash out the detail in the nebula. In any event, I'm very pleased with the detail: it's worth looking at the large version.",
+    "h": 767,
+    "hash": null,
+    "id": 298830,
+    "imaging_cameras": [
+        "Atik 460EX Mono"
+    ],
+    "imaging_telescopes": [
+        "EdgeHD 8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804100/"
+    ],
+    "orientation": "176.947",
+    "pixscale": "0.598",
+    "published": "2017-06-08T04:04:02.274269",
+    "ra": "283.396",
+    "radius": "0.106",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298830/",
+    "revisions": [],
+    "subjects": [
+        "IC 1296",
+        "IC1296",
+        "M 57",
+        "M57",
+        "NGC 6720",
+        "PK063+13.1",
+        "Ring nebula",
+        "Ring nebula in Lyra"
+    ],
+    "title": "M57 (Ring Nebula)",
+    "updated": "2021-03-17T20:43:29.220296",
+    "uploaded": "2017-06-08T05:04:03.220488",
+    "url_duckduckgo": "https://www.astrobin.com/298830/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298830/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298830/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298830/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298830/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298830/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298830/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14414/2017/9da2f484-74d7-43e7-aa20-1794cfa58be0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14414/2017/9da2f484-74d7-43e7-aa20-1794cfa58be0-1582447174.jpg",
+    "url_thumb": "https://www.astrobin.com/298830/0/rawthumb/thumb/",
+    "user": "JoelShepherd",
+    "views": 198,
+    "w": 1024
+}

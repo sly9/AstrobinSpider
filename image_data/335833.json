@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "69.290",
+    "description": "L and Halpha done with ASI 1600MMC\r\nRGB-Data was kindly provided by Tobias Artinger (https://www.astrobin.com/users/Atti79/) - he used a 150/750 Newton with DSLR",
+    "h": 1444,
+    "hash": null,
+    "id": 335833,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 121,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "55.481",
+    "pixscale": "0.971",
+    "published": "2018-03-02T00:19:06.127173",
+    "ra": "149.071",
+    "radius": "0.720",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335833/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 / M82 in Ha-L-RGB",
+    "updated": "2021-03-17T16:21:03.917920",
+    "uploaded": "2018-03-02T00:12:16.473305",
+    "url_duckduckgo": "https://www.astrobin.com/335833/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335833/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335833/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335833/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335833/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335833/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335833/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d78bd466-6f15-46d0-89d8-a4b7c88edcdc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d78bd466-6f15-46d0-89d8-a4b7c88edcdc-1519949913.jpg",
+    "url_thumb": "https://www.astrobin.com/335833/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 495,
+    "w": 1824
+}

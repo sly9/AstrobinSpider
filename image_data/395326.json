@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "65.600",
+    "description": "LHaRGB image of a nearby spiral galaxy NGC2403 taken over several nights in Dec. 2018 and Feb. 2019 with my mobile setup, Stellarvue APO SVA130T@f7 and ASI1600MM Pro on the Orion HDX-110 EQ-G mount.\r\n\r\nL: 23x900s (Gain 0, bin 1x1)\r\nHa: 8x900s (Gain 100, bin 1x1)\r\nR: 14x900s (Gain 0, bin 1x1)\r\nG: 12x900s (Gain 0, bin 1x1)\r\nB: 8x900s and 4x600s (Gain 0, bin 1x1)\r\n\r\nTotal exposure time: 16.9 hours",
+    "h": 2672,
+    "hash": null,
+    "id": 395326,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA130T-FT3"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 76,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807531/",
+        "/api/v1/location/2807532/"
+    ],
+    "orientation": "89.451",
+    "pixscale": "0.863",
+    "published": "2019-03-12T21:14:21.273489",
+    "ra": "114.205",
+    "radius": "0.499",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395326/",
+    "revisions": [
+        "/api/v1/imagerevision/213894/"
+    ],
+    "subjects": [
+        "NGC 2403",
+        "NGC2403",
+        "NGC2404"
+    ],
+    "title": "NGC2403",
+    "updated": "2021-03-17T11:46:33.110918",
+    "uploaded": "2019-03-12T20:39:11.305359",
+    "url_duckduckgo": "https://www.astrobin.com/395326/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395326/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395326/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395326/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395326/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395326/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395326/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23867/2020/1143da73-3d10-4bc4-9f2f-8696ade6584d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23867/2020/1143da73-3d10-4bc4-9f2f-8696ade6584d-1582258446.jpg",
+    "url_thumb": "https://www.astrobin.com/395326/0/rawthumb/thumb/",
+    "user": "strudolyubov",
+    "views": 381,
+    "w": 3189
+}

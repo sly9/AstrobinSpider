@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "22.564",
+    "description": "This beautiful nebula known as Jellyfish which is a supernova remnant in Gemini has always fascinated me and I've been working on imaging it since December 2017. From my home location it appears very low on the horizon which enables only 1 hour a night  before it's altitude is too low to image so I needed many nights to get some decent result. I'm planning to image more SII data to enhance the emission, mainly at the top right of the image. The nebula morphology  is of a shell  like with numerous filaments all over the SNR which makes it so  beautiful to me.  \r\n\r\nI initially processed this as HST palette then I made some modifications to reduce the green and produce gold colors (Credits: Bob Franke) \r\n \r\nI hope you  like it.",
+    "h": 1368,
+    "hash": null,
+    "id": 329935,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA 130T"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803134/"
+    ],
+    "orientation": "269.212",
+    "pixscale": "1.643",
+    "published": "2018-01-19T10:40:13.952573",
+    "ra": "94.212",
+    "radius": "0.949",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329935/",
+    "revisions": [
+        "/api/v1/imagerevision/135079/"
+    ],
+    "subjects": [
+        "IC 443",
+        "The star Propus (ηGem)"
+    ],
+    "title": "Jellyfish Nebula",
+    "updated": "2021-03-17T16:47:31.130312",
+    "uploaded": "2018-01-18T23:36:45.577239",
+    "url_duckduckgo": "https://www.astrobin.com/329935/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329935/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329935/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329935/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329935/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329935/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329935/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11617/2018/ee30c77d-55df-4bbc-87ab-16d0f01178f2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/ee30c77d-55df-4bbc-87ab-16d0f01178f2-1516318869.png",
+    "url_thumb": "https://www.astrobin.com/329935/0/rawthumb/thumb/",
+    "user": "uriabraham",
+    "views": 271,
+    "w": 1824
+}

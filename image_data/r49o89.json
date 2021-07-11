@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 51,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "As we don't really feel we can leave the house right now (given the coronavirus pandemic) I've been having a look back through some old data.\r\n\r\nI realised I only ever showed this capture in the context of a montage showing <a href='https://www.astrobin.com/407221/' target='_blank'>changes in the GRS over 20 hours</a> - I never showed the image by itself. \r\n\r\nIn hindsight, this does not do the data justice, as it is possibly the best set of data I've managed to collect so far. Doesn't hurt that it was taken during the very interesting period last year where \"blades\" of orange cloud were being stripped off the Great Red Spot! A fascinating animation of the GRS's eventful 2019 <a href='http://pianeti.uai.it/index.php/Jupiter:_2019_Animated_gif' target='_blank'>can be found here</a>.\r\n\r\nSo, with a bit of spit and polish (slight improvements to final processing) included, here it is.\r\n\r\nThis image was created by de-rotating 9 individual stacks in WinJUPOS. The individual stacks were created from separate 90s captures, and the quality of the seeing allowed me to to use the top 50 percent of the frames. In total the final image therefore contains just over 32,000 frames of data.\r\n\r\nThanks for looking!",
+    "h": 549,
+    "hash": "r49o89",
+    "id": 467354,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 249,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-03-22T07:47:46.005515",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467354/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter 2019-05-24 16:35UT",
+    "updated": "2021-03-17T04:04:31.421525",
+    "uploaded": "2020-03-22T07:26:15.042223",
+    "url_duckduckgo": "https://www.astrobin.com/r49o89/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/r49o89/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/r49o89/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/r49o89/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/r49o89/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/r49o89/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/r49o89/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/r49o89/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 1508,
+    "w": 628
+}

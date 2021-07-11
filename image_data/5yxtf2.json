@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "-54.927",
+    "description": "The Spanish Dancer NGC1566 in Dorado with Sadr setup Newton 14'' in Chili. \r\n\r\nNGC 1566, a beautiful galaxy located approximately 40 million light-years away in the constellation of Dorado (The Dolphinfish). NGC 1566 is an intermediate spiral galaxy, meaning that while it does not have a well defined bar-shaped region of stars at its centre — like barred spirals — it is not quite an unbarred spiral either.\r\n\r\nThe small but extremely bright nucleus of NGC 1566 is clearly visible in this image, a telltale sign of its membership of the Seyfert class of galaxies. The centres of such galaxies are very active and luminous, emitting strong bursts of radiation and potentially harbouring supermassive black holes that are many millions of times the mass of the Sun.\r\n\r\nNGC 1566 is not just any Seyfert galaxy; It is also the brightest and most dominant member of the Dorado Group, a loose concentration of galaxies that together comprise one of the richest galaxy groups of the southern hemisphere. \r\n\r\nRed 12 subs@120s -20°C bin 2 gain high\r\nBlue 12 subs@120s -20°C bin 2 gain high\r\nGreen 12 subs@120s -20°C bin 2 gain high\r\nLight 50subs@300s -20°C, gain high\r\nHalpha 3subs@300s -20°C, gain high",
+    "h": 2855,
+    "hash": "5yxtf2",
+    "id": 449355,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS ONTC Newton Newton 14'' F/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "https://www.sadr.fr/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/",
+        "/api/v1/location/2811675/"
+    ],
+    "orientation": "90.651",
+    "pixscale": "0.696",
+    "published": "2020-01-15T19:21:09.419807",
+    "ra": "65.000",
+    "radius": "0.390",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/449355/",
+    "revisions": [
+        "/api/v1/imagerevision/207816/",
+        "/api/v1/imagerevision/209734/"
+    ],
+    "subjects": [
+        "NGC 1566",
+        "NGC1566"
+    ],
+    "title": "The Spanish Dancer NGC1566 in Dorado - Sadr Chili",
+    "updated": "2021-03-17T05:34:06.159078",
+    "uploaded": "2020-01-15T18:05:34.897478",
+    "url_duckduckgo": "https://www.astrobin.com/5yxtf2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/5yxtf2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/5yxtf2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/5yxtf2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/5yxtf2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/5yxtf2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/5yxtf2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2020/9ae3a0e6-f795-4a53-8789-5c8c5a5105e4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2020/9ae3a0e6-f795-4a53-8789-5c8c5a5105e4-1582278120.jpg",
+    "url_thumb": "https://www.astrobin.com/5yxtf2/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 577,
+    "w": 2855
+}

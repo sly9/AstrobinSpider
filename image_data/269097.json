@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "30.691",
+    "description": "The complete Cygnus Loop or Veil Complex in a bicolor narrowband rendering. Recently, I posted a version of the same object taken during my summer vacation in the Mediterranean. I liked it, but was not perfectly happy with the raw data and the processing. \r\n\r\nSo, back home I decided to do it again from scratch, from my light-polluted backyard (red zone). Using the same ancient Takumar 135mm f/2.5 lens, but this time stopped down to f/4 to improve sharpness and image quality. At the same time, I went for longer exposures and more subs, the above image uses 50 Ha and 35 OIII subs with 600 sec each. During processing I used drizzle integration which worked really well for the undersampled input data. I like this second try. \r\n\r\nMake sure to look at the full-size view!\r\n",
+    "h": 2022,
+    "hash": null,
+    "id": 269097,
+    "imaging_cameras": [
+        "Atik 460EX mono"
+    ],
+    "imaging_telescopes": [
+        "Asahi Pentax SMC Takumar 135mm f/2.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "http://deepskyview.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803372/"
+    ],
+    "orientation": "87.120",
+    "pixscale": "6.960",
+    "published": "2016-10-22T16:04:40.324705",
+    "ra": "312.901",
+    "radius": "3.026",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269097/",
+    "revisions": [],
+    "subjects": [
+        "Filamentary nebula",
+        "IC 1340",
+        "Lace-work nebula",
+        "NGC 6960",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "Cygnus Loop in Bicolor",
+    "updated": "2021-03-17T22:40:44.937728",
+    "uploaded": "2016-10-22T17:04:40.324705",
+    "url_duckduckgo": "https://www.astrobin.com/269097/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269097/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269097/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269097/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269097/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269097/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269097/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9633/2016/b8363fc7-7457-4ecf-98fc-dd07bd8e718c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9633/2016/b8363fc7-7457-4ecf-98fc-dd07bd8e718c-1582453656.jpg",
+    "url_thumb": "https://www.astrobin.com/269097/0/rawthumb/thumb/",
+    "user": "deepskyview",
+    "views": 425,
+    "w": 2390
+}

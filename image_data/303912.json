@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "38.346",
+    "description": "A:  Bicolor HOO mapping\r\n\r\nB :  HSO version after collecting SII data. - \r\n\r\nC:  HSO rendering without stars - \r\n\r\nD:  HSO Tone mapping blended with HOO bicolor - ",
+    "h": 3151,
+    "hash": null,
+    "id": 303912,
+    "imaging_cameras": [
+        "SBIG STT-8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 130 EDFGT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804439/"
+    ],
+    "orientation": "89.940",
+    "pixscale": "0.993",
+    "published": "2017-07-19T03:50:37.223326",
+    "ra": "303.028",
+    "radius": "0.702",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303912/",
+    "revisions": [
+        "/api/v1/imagerevision/121177/",
+        "/api/v1/imagerevision/121233/",
+        "/api/v1/imagerevision/121362/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "Crescent Nebula HSO Narrowband",
+    "updated": "2021-04-22T23:52:19.091504",
+    "uploaded": "2017-07-19T04:50:38.132563",
+    "url_duckduckgo": "https://www.astrobin.com/303912/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303912/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303912/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303912/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303912/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303912/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303912/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/15026/2017/150b6d1b-afc0-4166-9191-9da61481ef16.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/15026/2017/150b6d1b-afc0-4166-9191-9da61481ef16-1582448175.jpg",
+    "url_thumb": "https://www.astrobin.com/303912/0/rawthumb/thumb/",
+    "user": "Antonio.Spinoza",
+    "views": 382,
+    "w": 4000
+}

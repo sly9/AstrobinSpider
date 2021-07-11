@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "66.075",
+    "description": "Another dark nebula housing a cluster of young stars burning bright and blue.  A lot like the Iris Nebula,  which I'm working on concurrently, but with more blue reflection than most LDNs.  \r\n\r\nI haven't run across this much on Astrobin.  Not sure why as the surrounding dark nebulousity is lovely and the nearby star cluster adds something too.  \r\n\r\nI was away at the Oregon Star Party for three nights with no internet whatsoever.  That meant I had to set the remote rig on \"Loop\" with CCDAutopilot - something I never do.  Luckily, it worked.  The only issue was that the command to raise the CCD temprature during the day did not trigger.  So the camera stayed on at 100% for days.  \r\n\r\nSearching for more info on this after I completed it, I found an APOD of this a year or two ago.  That showed an SNR in Ha too.  So I guess I'll start the Ha capture tonight...\r\n\r\nEDIT: After a full night of 30 minute Ha subs not a trace of the SNR was seen.  I went back to the APOD and saw that this data came from the Subaru telescope.  OK, moving on now...",
+    "h": 2746,
+    "hash": null,
+    "id": 419305,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "279.861",
+    "pixscale": "0.728",
+    "published": "2019-08-05T19:14:34.254145",
+    "ra": "325.826",
+    "radius": "0.465",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/419305/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7129",
+        "NGC 7142",
+        "NGC7129",
+        "NGC7133",
+        "NGC7142",
+        "VdB146"
+    ],
+    "title": "NGC 7129 The Small Cluster Nebula",
+    "updated": "2021-03-17T09:52:30.688508",
+    "uploaded": "2019-08-05T20:14:34.490522",
+    "url_duckduckgo": "https://www.astrobin.com/419305/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419305/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419305/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419305/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419305/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419305/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419305/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/87e5ac0e-8be2-4922-a1d4-a8009f58ccd3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/87e5ac0e-8be2-4922-a1d4-a8009f58ccd3-1582460108.jpg",
+    "url_thumb": "https://www.astrobin.com/419305/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 450,
+    "w": 3682
+}

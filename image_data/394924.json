@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Worked on last Monday's  Jupiter datasets over this long weekend. There were multiple good seeing intervals over 1.5 hour recording session and I've selected three longest lasting ones for WinJUPOS treatment. For this run I've experimented with shorter Avis (80 seconds) and stack ratios (best 700 frames) which optimises resolving power on fast spinning Jupiter for my setup.\r\n\r\nHere's a fist 4 minute composite showing GRS approaching CM and Oval BA near the P limb. Capture midpoint is centered on 5:33am local time, 80 minutes before sunrise. I had to increase brightness on dim Callisto to improve visibility and bring out surface detail. The moon is travelling in the opposite direction to Jupiter's spin behind the planet. \r\n\r\nI have used wavelet functions in Registax and AstraImage on raw stacks and WinJ composites respectively, filtering noise in fine layers only. Brightness levels, white balance and colour adjustments in ACDSee Pro.",
+    "h": 870,
+    "hash": null,
+    "id": 394924,
+    "imaging_cameras": [
+        "Celestron Skyris 236C"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808649/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-03-10T10:30:49.693982",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394924/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter and Callisto 3 Mar 2019 - First WinJ Composite",
+    "updated": "2021-03-17T11:48:23.456112",
+    "uploaded": "2019-03-10T09:23:11.339780",
+    "url_duckduckgo": "https://www.astrobin.com/394924/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394924/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394924/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394924/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394924/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394924/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394924/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/394924/0/rawthumb/thumb/",
+    "user": "Seb",
+    "views": 86,
+    "w": 967
+}

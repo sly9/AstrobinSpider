@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "A poor man's 16803 image! This is 6 panels through the QSI683 camera of the Great Carina Nebula, NGC 3372. Using drizzle integration and pixinisght's mosaic has brought the resolution down to around a third of an arc second per pixel. It's too big for the astrometry server - so here's the detail from pixinisghts image solver.\r\n\r\n\r\n\r\nImage Plate Solver script version 5.0\r\n===============================================================================\r\nReferentiation Matrix (Gnomonic projection = Matrix * Coords[x,y]):\r\n            -0.00010533        -5.78386e-06           +0.654881\r\n           +5.68214e-06        -0.000105324           +0.636186\r\n                     +0                  +0                  +1\r\nProjection origin.. [5868.376639 6356.893413]px -> [RA:10 44 44.060 Dec:-59 55 42.14]\r\nResolution ........ 0.380 arcsec/px\r\nRotation .......... 3.116 deg\r\nFocal ............. 2933.16 mm\r\nPixel size ........ 5.40 um\r\nField of view ..... 1d 14' 17.4\" x 1d 20' 27.6\"\r\nImage center ...... RA: 10 44 44.030  Dec: -59 55 41.98\r\nImage bounds:\r\n   top-left ....... RA: 10 49 51.771  Dec: -59 17 09.29\r\n   top-right ...... RA: 10 40 11.368  Dec: -59 13 14.06\r\n   bottom-left .... RA: 10 49 28.491  Dec: -60 37 33.21\r\n   bottom-right ... RA: 10 39 24.260  Dec: -60 33 28.12\r\n===============================================================================",
+    "h": 12713,
+    "hash": null,
+    "id": 331193,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "ASA 16N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799640/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-01-28T01:28:59.786659",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331193/",
+    "revisions": [],
+    "subjects": [],
+    "title": "6 panel mosaic of NGC3372",
+    "updated": "2021-03-17T16:41:55.541260",
+    "uploaded": "2018-01-28T01:29:02.613208",
+    "url_duckduckgo": "https://www.astrobin.com/331193/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331193/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331193/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331193/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331193/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331193/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331193/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/331193/0/rawthumb/thumb/",
+    "user": "alocky",
+    "views": 267,
+    "w": 11738
+}

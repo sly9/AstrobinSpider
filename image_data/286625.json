@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 37,
+    "comments": 18,
+    "data_source": "UNSET",
+    "dec": "48.844",
+    "description": "This was a collaboration between myself, Josh Smith and his dad, Craig Smith.  I captured about 100 lum frames at the SRO, Josh about 90 frames in the keys and Craig 40 frames for the color. I appreciate that Josh included me on this project.\r\n\r\nThe lensing target is the small orange colored pair of eyes in the lower center of the image. The two boxes at the top show an enlarged version of the lensing target compared to the high-resolution version from the HST ( https://www.nasa.gov/content/hubble-sees-a-smiling-lens ).\r\n\r\nJosh has already posted his version of this image ( http://www.astrobin.com/286097/?nc=user ). Please take a look at it. Every imager has a slightly different take on objects like this, even with the same set of data.\r\n\r\nMy data was collected with the 16\" RCOS, Josh's with the Tec 140 and Craig's also with a Tec 140.\r\n\r\nThe description of the Smiling Lens can be found at the www.spacetelescope.org. Here is what they say.\r\n\r\nYou can make out two orange eyes and a white button nose. In the case of this “happy face”, the two eyes are the galaxies SDSSCGB 8842.3 and SDSSCGB 8842.4 and the misleading smile lines are actually arcs caused by an effect known as strong gravitational lensing.\r\n\r\nMassive structures in the Universe exert such a powerful gravitational pull that they can warp the spacetime around them and act as cosmic lenses which can magnify, distort and bend the light behind them. This phenomenon, crucial to many of Hubble’s discoveries, can be explained by Einstein’s theory of general relativity.\r\n\r\nIn this special case of gravitational lensing, a ring — known as an Einstein Ring — is produced from this bending of light, a consequence of the exact and symmetrical alignment of the source, lens and observer and resulting in the ring-like structure we see here.\r\n\r\nHubble has provided astronomers with the tools to probe these massive galaxies and model their lensing effects, allowing us to peer further into the early Universe than ever before. This object was studied by Hubble’s Wide Field and Planetary Camera 2 (WFPC2) and Wide Field Camera 3 (WFC3) as part of a survey of strong lenses.",
+    "h": 2100,
+    "hash": null,
+    "id": 286625,
+    "imaging_cameras": [
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "RCOS 16\" RC f/9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 247,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "327.170",
+    "pixscale": "0.254",
+    "published": "2017-03-09T11:52:57.111675",
+    "ra": "159.712",
+    "radius": "0.140",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286625/",
+    "revisions": [
+        "/api/v1/imagerevision/112055/",
+        "/api/v1/imagerevision/112760/"
+    ],
+    "subjects": [],
+    "title": "Smiling Lens: Gravitationally Lensed Galaxies SDSS J1038+4849",
+    "updated": "2021-05-25T11:40:50.397142",
+    "uploaded": "2017-03-09T11:52:57.654406",
+    "url_duckduckgo": "https://www.astrobin.com/286625/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286625/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286625/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286625/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286625/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286625/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286625/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5209/2017/7ea9a6dc-f8e6-4517-9ed8-6bf001eae6bd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7ea9a6dc-f8e6-4517-9ed8-6bf001eae6bd-1489061412.jpg",
+    "url_thumb": "https://www.astrobin.com/286625/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 1755,
+    "w": 1824
+}

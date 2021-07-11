@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "67.967",
+    "description": "L = 10x600s\r\nRGB = 6x480s bin 2x2",
+    "h": 2047,
+    "hash": null,
+    "id": 307078,
+    "imaging_cameras": [
+        "Atik 4000M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 80/600ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805150/"
+    ],
+    "orientation": "357.178",
+    "pixscale": "2.931",
+    "published": "2017-08-20T18:11:03.123590",
+    "ra": "314.880",
+    "radius": "1.178",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/307078/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "NGC 7023 - Iris nebula",
+    "updated": "2021-03-17T20:11:34.372513",
+    "uploaded": "2017-08-13T23:59:33.562397",
+    "url_duckduckgo": "https://www.astrobin.com/307078/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/307078/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/307078/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/307078/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/307078/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/307078/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/307078/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12704/2017/63c2e870-9b1e-4004-9085-9aa67b615528.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/12704/2017/63c2e870-9b1e-4004-9085-9aa67b615528-1582449605.jpg",
+    "url_thumb": "https://www.astrobin.com/307078/0/rawthumb/thumb/",
+    "user": "Jerry@Caselle",
+    "views": 235,
+    "w": 2047
+}

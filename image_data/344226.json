@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "69.315",
+    "description": "L = 219x600s\r\nRGB = 22x480s bin 2x2\r\nHalpha = 22x1800s+12x1200s",
+    "h": 1941,
+    "hash": null,
+    "id": 344226,
+    "imaging_cameras": [
+        "Atik 4000M"
+    ],
+    "imaging_telescopes": [
+        "Tecnosky Apo Triplet 115/800"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803647/"
+    ],
+    "orientation": "357.839",
+    "pixscale": "1.904",
+    "published": "2018-05-07T22:02:59.617684",
+    "ra": "148.994",
+    "radius": "0.722",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/344226/",
+    "revisions": [
+        "/api/v1/imagerevision/144327/",
+        "/api/v1/imagerevision/145207/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 - M82",
+    "updated": "2021-04-30T19:11:14.727021",
+    "uploaded": "2018-04-28T13:13:32.644396",
+    "url_duckduckgo": "https://www.astrobin.com/344226/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/344226/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/344226/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/344226/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/344226/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/344226/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/344226/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12704/2018/5fdae39d-3a11-446c-8b70-f7f2e64b1127.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12704/2018/5fdae39d-3a11-446c-8b70-f7f2e64b1127-1582449584.jpg",
+    "url_thumb": "https://www.astrobin.com/344226/0/rawthumb/thumb/",
+    "user": "Jerry@Caselle",
+    "views": 286,
+    "w": 1920
+}

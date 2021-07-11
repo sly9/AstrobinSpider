@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "69.293",
+    "description": "This is a reprocess of data I collected 3 years ago. My main objective then was to be able to reveal IFN. While I could see IFN in the L subs, I couldnt get it to show up in RGB the last time I processed it.\r\nWith more experience in processing, I decided to reattempt processing it and this time I was able to get the IFN show up in the final image. This definitely a fun processing job.\r\n\r\nIt is nice to be able to go back to saved data. I lost a bunch of data because I decided to store raw subs and flats but dont have the darks/bias from QSI690 :( . Only half the data was stored after calibration.\r\n\r\n2/23 - Image was lost in Astrobin and had to be reprocessed from stacked masters.",
+    "h": 1453,
+    "hash": null,
+    "id": 393401,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 147,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "75.029",
+    "pixscale": "2.943",
+    "published": "2019-03-01T21:39:30.600224",
+    "ra": "148.824",
+    "radius": "1.150",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/393401/",
+    "revisions": [
+        "/api/v1/imagerevision/171967/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81, M82 and IFN from Redzone",
+    "updated": "2021-05-08T08:28:10.207517",
+    "uploaded": "2019-03-01T21:39:30.795646",
+    "url_duckduckgo": "https://www.astrobin.com/393401/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/393401/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/393401/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/393401/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/393401/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/393401/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/393401/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/89442bc2-ca48-4cfd-9e43-e5bd9aeeb4c8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/89442bc2-ca48-4cfd-9e43-e5bd9aeeb4c8-1551479674.png",
+    "url_thumb": "https://www.astrobin.com/393401/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 687,
+    "w": 1824
+}

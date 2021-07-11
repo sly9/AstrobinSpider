@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "30.842",
+    "description": "NGC 1333  shot with my QHY128C one shot color camera.\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nData gathered:\r\n(128) Subs @ 300secs - 1x1 @ Gain 2200\r\n\r\nCamera : QHYCCD QHY128C\r\nTelescope: William Optics GT102 W_0.8x Reducer Flattener\r\nMount: AP Mach1GTO",
+    "h": 1367,
+    "hash": null,
+    "id": 330673,
+    "imaging_cameras": [
+        "QHYCCD QHY128C"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT102 102mm f/6.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 167,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "270.263",
+    "pixscale": "5.974",
+    "published": "2018-01-24T01:11:45.818218",
+    "ra": "51.842",
+    "radius": "2.010",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330673/",
+    "revisions": [],
+    "subjects": [
+        "B202",
+        "B203",
+        "B204",
+        "B205",
+        "B206",
+        "NGC 1333",
+        "NGC1333",
+        "VdB12",
+        "VdB13",
+        "VdB16"
+    ],
+    "title": "NGC 1333",
+    "updated": "2021-04-17T15:30:11.783980",
+    "uploaded": "2018-01-24T01:11:46.218764",
+    "url_duckduckgo": "https://www.astrobin.com/330673/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330673/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330673/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330673/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330673/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330673/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330673/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2018/30816136-febf-4208-9867-8410f8cec2a0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2018/30816136-febf-4208-9867-8410f8cec2a0-1582595323.jpg",
+    "url_thumb": "https://www.astrobin.com/330673/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 663,
+    "w": 2000
+}

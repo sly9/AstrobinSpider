@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.215",
+    "description": "Riccardi APO Reducer und Korrektor 0,75x \r\nSkyEye Observatory\r\n70x300 L\r\n40x300 R\r\n40x300 G\r\n40x300 B",
+    "h": 2141,
+    "hash": null,
+    "id": 391424,
+    "imaging_cameras": [
+        "G3-16200"
+    ],
+    "imaging_telescopes": [
+        "TS130 f6"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.432",
+    "pixscale": "1.913",
+    "published": "2019-02-17T17:43:37.932058",
+    "ra": "170.081",
+    "radius": "1.291",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/391424/",
+    "revisions": [
+        "/api/v1/imagerevision/170755/",
+        "/api/v1/imagerevision/170758/",
+        "/api/v1/imagerevision/219259/"
+    ],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628",
+        "Other"
+    ],
+    "title": "Leo triplet (best in full resolution)",
+    "updated": "2021-03-17T12:04:10.983091",
+    "uploaded": "2019-02-17T17:43:38.702997",
+    "url_duckduckgo": "https://www.astrobin.com/391424/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391424/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391424/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391424/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391424/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391424/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391424/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10219/2019/866455e1-584d-4e87-a813-b6ff1b04776d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/866455e1-584d-4e87-a813-b6ff1b04776d-1550425692.png",
+    "url_thumb": "https://www.astrobin.com/391424/0/rawthumb/thumb/",
+    "user": "olaskarpen",
+    "views": 473,
+    "w": 1824
+}

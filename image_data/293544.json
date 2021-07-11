@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "13.587",
+    "description": "Seeing 3.5 sur luminance prétraitée\r\nNGC 3628 (galaxie du Hamburger) est une galaxie spirale située à environ 35 millions d'années-lumière dans la constellation du Lion. D'un diamètre approximatif de 100 000 années-lumière, elle possède une excroissance d'approximativement 300 000 années-lumière, qui est due à la force de marée. Elle forme, avec M65 et M66, le petit amas de galaxies du triplet du Lion.\r\nPlusieurs quasars y sont visibles, dont un, entre les deux petites étoiles dans le prolongement ouest de la bande centrale nord  de la galaxie, distant d'environ 10 mia d'années lumière.\r\nUn autre se situe dans le prolongement de la tâche allongée verticalement au sud de la galaxie d'une distance d'environ 7.5 mia d'années lumière. Source : Wikipedia.",
+    "h": 2048,
+    "hash": null,
+    "id": 293544,
+    "imaging_cameras": [
+        "QSI 683 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes CFF 160 f/6.5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 42,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798261/"
+    ],
+    "orientation": "359.485",
+    "pixscale": "1.063",
+    "published": "2017-04-28T08:50:53.955170",
+    "ra": "170.075",
+    "radius": "0.504",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293544/",
+    "revisions": [
+        "/api/v1/imagerevision/115791/"
+    ],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "NGC 3628",
+    "updated": "2021-03-17T21:04:00.813971",
+    "uploaded": "2017-04-28T09:50:54.677071",
+    "url_duckduckgo": "https://www.astrobin.com/293544/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293544/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293544/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293544/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293544/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293544/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293544/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1472/2017/9d3c1a07-cf71-4b35-8157-e1c8b125826d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1472/2017/9d3c1a07-cf71-4b35-8157-e1c8b125826d-1582459124.png",
+    "url_thumb": "https://www.astrobin.com/293544/0/rawthumb/thumb/",
+    "user": "zoyah",
+    "views": 399,
+    "w": 2732
+}

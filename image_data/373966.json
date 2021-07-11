@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "38.787",
+    "description": "SH2-114 is a faint emission nebula in the constellation of Cygnus, probably the remnant of a former supernova. \r\n\r\nASA astrograph Sternwarte Mirasteilas\r\niOptron CEM 60\r\nZWO ASI 1600 MMC \r\ngain 139\r\n\r\nSeptember 25th, 27th, 28th and 29th\r\nOctober 4th, 18th 19th\r\n\r\n242 x 180 s Ha\r\n75 x 180 s RGB\r\n\r\nProcessing in Pixinsight 1.8 and Photoshop (Thanks to Jens Zippel for his Photoshop RGB / Ha combination workflow)",
+    "h": 3258,
+    "hash": null,
+    "id": 373966,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria Astrograph 203 mm f2.75"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 63,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806697/"
+    ],
+    "orientation": "265.565",
+    "pixscale": "1.375",
+    "published": "2018-10-27T15:17:00.113832",
+    "ra": "320.269",
+    "radius": "1.023",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/373966/",
+    "revisions": [
+        "/api/v1/imagerevision/161018/"
+    ],
+    "subjects": [],
+    "title": "SH2-114 - The Flying Dragon Nebula",
+    "updated": "2021-03-17T13:26:02.023322",
+    "uploaded": "2018-10-27T16:17:01.252240",
+    "url_duckduckgo": "https://www.astrobin.com/373966/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/373966/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/373966/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/373966/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/373966/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/373966/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/373966/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21815/2018/9f7324b8-e862-48d2-96d7-73a092214cb1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21815/2018/9f7324b8-e862-48d2-96d7-73a092214cb1-1582615244.jpg",
+    "url_thumb": "https://www.astrobin.com/373966/0/rawthumb/thumb/",
+    "user": "rbumm",
+    "views": 438,
+    "w": 4254
+}

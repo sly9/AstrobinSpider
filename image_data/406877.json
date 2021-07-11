@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "-48.745",
+    "description": "SHO image taken between 20190317 and 20190513\r\nR= S\r\nG=Ha\r\nB=OIII",
+    "h": 1662,
+    "hash": null,
+    "id": 406877,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Alluna RC18"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804934/"
+    ],
+    "orientation": "207.831",
+    "pixscale": "0.479",
+    "published": "2019-05-22T09:05:15.790914",
+    "ra": "250.106",
+    "radius": "0.340",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/406877/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193"
+    ],
+    "title": "NGC 6188 in SHO",
+    "updated": "2021-03-17T10:52:53.006729",
+    "uploaded": "2019-05-22T09:54:07.515929",
+    "url_duckduckgo": "https://www.astrobin.com/406877/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406877/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406877/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406877/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406877/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406877/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406877/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d063dc94-d55b-4525-bd23-589e94b6c7cd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d063dc94-d55b-4525-bd23-589e94b6c7cd-1558519500.jpg",
+    "url_thumb": "https://www.astrobin.com/406877/0/rawthumb/thumb/",
+    "user": "peterbrack",
+    "views": 114,
+    "w": 1824
+}

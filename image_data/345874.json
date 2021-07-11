@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "36.459",
+    "description": "",
+    "h": 2324,
+    "hash": null,
+    "id": 345874,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 with external FW"
+    ],
+    "imaging_telescopes": [
+        "10\" Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800418/"
+    ],
+    "orientation": "89.721",
+    "pixscale": "0.653",
+    "published": "2018-05-08T20:14:07.595862",
+    "ra": "250.423",
+    "radius": "0.354",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345874/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "M13",
+    "updated": "2021-06-27T05:22:46.489144",
+    "uploaded": "2018-05-08T21:14:09.740918",
+    "url_duckduckgo": "https://www.astrobin.com/345874/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345874/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345874/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345874/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345874/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345874/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345874/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0fae0ac4-b2e4-4737-9d85-dc485633235b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0fae0ac4-b2e4-4737-9d85-dc485633235b-1525844429.jpg",
+    "url_thumb": "https://www.astrobin.com/345874/0/rawthumb/thumb/",
+    "user": "chlopak",
+    "views": 212,
+    "w": 3140
+}

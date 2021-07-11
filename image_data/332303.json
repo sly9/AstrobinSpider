@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "11.677",
+    "description": "A regular LRGB rendition.",
+    "h": 3534,
+    "hash": null,
+    "id": 332303,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "45.299",
+    "pixscale": "0.551",
+    "published": "2018-02-05T07:38:52.404950",
+    "ra": "160.998",
+    "radius": "0.407",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332303/",
+    "revisions": [
+        "/api/v1/imagerevision/136281/",
+        "/api/v1/imagerevision/136332/",
+        "/api/v1/imagerevision/136340/",
+        "/api/v1/imagerevision/137180/",
+        "/api/v1/imagerevision/140395/"
+    ],
+    "subjects": [
+        "M 95",
+        "M95",
+        "NGC 3351"
+    ],
+    "title": "Messier 95 @ DSW",
+    "updated": "2021-03-17T16:37:08.694614",
+    "uploaded": "2018-02-05T07:20:27.696227",
+    "url_duckduckgo": "https://www.astrobin.com/332303/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332303/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332303/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332303/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332303/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332303/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332303/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2212/2018/17e6e0b2-f47c-49ee-81dd-93a8b4d49d13.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2212/2018/17e6e0b2-f47c-49ee-81dd-93a8b4d49d13-1582616048.jpg",
+    "url_thumb": "https://www.astrobin.com/332303/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 797,
+    "w": 3972
+}

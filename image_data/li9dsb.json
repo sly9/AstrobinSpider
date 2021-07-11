@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "56.628",
+    "description": "The new Ha-data were captured on a Raspberry PI4 (4GB RAM) with Ubuntu Server 18.04 by CCDCiel over INDIlib.\r\n\r\n\r\nObject description (wikipedia.org):\r\n\r\nNGC 281, IC 11 or Sh2-184 is a bright emission nebula and part of an H II region in the northern constellation of Cassiopeia and is part of the Milky Way's Perseus Spiral Arm. This 20×30 arcmin sized nebulosity is also associated with open cluster IC 1590, several Bok globules and the multiple star, B 1. It collectively forms Sh2-184, spanning over a larger area of 40 arcmin. A recent distance from radio parallaxes of water masers at 22 GHz made during 2014 is estimated it lies 2.82±0.20 kpc. (9200 ly.) from us. Colloquially, NGC 281 is also known as the Pacman Nebula for its resemblance to the video game character.\r\n\r\nE. E. Barnard discovered this nebula in August 1883, who described it as \"a large faint nebula, very diffuse.\" Multiple star 'B 1' or β 1 was later discovered by S. W. Burnham, whose bright component is identified as the highly luminous O6 spectral class star, HD 5005 or HIP 4121. It consists of an 8th-magnitude primary with four companions at distances between 1.4 and 15.7 arcsec. There has been no appreciable change in this quintuple system since the first measures were made in 1875.",
+    "h": 3672,
+    "hash": "li9dsb",
+    "id": 429415,
+    "imaging_cameras": [
+        "ZWO ASI 183 MM PRO",
+        "Moravian G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/5 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800383/"
+    ],
+    "orientation": "67.358",
+    "pixscale": "0.493",
+    "published": "2019-09-25T16:58:12.672436",
+    "ra": "13.229",
+    "radius": "0.453",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/429415/",
+    "revisions": [
+        "/api/v1/imagerevision/194260/"
+    ],
+    "subjects": [
+        "IC1590",
+        "NGC 281",
+        "NGC281",
+        "Sh2-184"
+    ],
+    "title": "NGC281 - Hubble Palette",
+    "updated": "2021-03-17T09:00:26.138943",
+    "uploaded": "2019-09-25T17:35:27.163536",
+    "url_duckduckgo": "https://www.astrobin.com/li9dsb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/li9dsb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/li9dsb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/li9dsb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/li9dsb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/li9dsb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/li9dsb/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6530/2019/2a7ecaef-7016-49f7-ba5c-7edeb5bafd54.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6530/2019/2a7ecaef-7016-49f7-ba5c-7edeb5bafd54-1582601071.jpg",
+    "url_thumb": "https://www.astrobin.com/li9dsb/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 569,
+    "w": 5496
+}

@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "15.785",
+    "description": "M74 with RCOS",
+    "h": 1825,
+    "hash": null,
+    "id": 331789,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 143,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "74.277",
+    "pixscale": "0.551",
+    "published": "2018-02-05T18:58:35.371759",
+    "ra": "24.170",
+    "radius": "0.288",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331789/",
+    "revisions": [],
+    "subjects": [
+        "M 74",
+        "NGC 628"
+    ],
+    "title": "M74 - Deep Sky West Remote Observatory",
+    "updated": "2021-03-17T16:39:14.773653",
+    "uploaded": "2018-02-01T04:20:11.493600",
+    "url_duckduckgo": "https://www.astrobin.com/331789/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331789/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331789/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331789/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331789/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331789/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331789/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/f459b330-b310-4ece-9da7-21c8e781a3c0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f459b330-b310-4ece-9da7-21c8e781a3c0-1517639864.jpg",
+    "url_thumb": "https://www.astrobin.com/331789/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 401,
+    "w": 1824
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "UNSET",
+    "dec": "69.077",
+    "description": "M81 - Luminance only\r\n\r\nOne of the main reason for upgrading the mount was to be able to shoot at native focal length and the mount delivered well (solid 0.5 arcsec/px guiding all night). However I messed up collimation as well as spacing. so I had to crop the image. I am still pleased with the result. Once I fix the spacing, it should do well.\r\n\r\nVersion E: Got shutdown with clouds/rain. Only managed 6x480 seconds each for R/G/B.. Waaaay too less for color.. but here it is with the anemic color data. Hoping to cleaning it up with more RGB data.",
+    "h": 1849,
+    "hash": null,
+    "id": 282235,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "328.077",
+    "pixscale": "0.512",
+    "published": "2017-02-01T17:19:53.906469",
+    "ra": "148.918",
+    "radius": "0.270",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282235/",
+    "revisions": [
+        "/api/v1/imagerevision/109619/",
+        "/api/v1/imagerevision/109625/",
+        "/api/v1/imagerevision/109626/",
+        "/api/v1/imagerevision/109808/"
+    ],
+    "subjects": [
+        "Bode's galaxy",
+        "Bode's nebulae",
+        "M 81",
+        "M81",
+        "NGC 3031"
+    ],
+    "title": "M81",
+    "updated": "2021-03-17T21:51:26.373253",
+    "uploaded": "2017-02-01T17:19:54.735885",
+    "url_duckduckgo": "https://www.astrobin.com/282235/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282235/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282235/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282235/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282235/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282235/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282235/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7483/2017/a819887c-9557-46f3-b355-f5200e357d62.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/a819887c-9557-46f3-b355-f5200e357d62-1485969947.png",
+    "url_thumb": "https://www.astrobin.com/282235/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 806,
+    "w": 1824
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "53.060",
+    "description": "",
+    "h": 3520,
+    "hash": null,
+    "id": 398007,
+    "imaging_cameras": [
+        "QHYCCD QHY183M"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8\" GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806389/"
+    ],
+    "orientation": "91.859",
+    "pixscale": "0.456",
+    "published": "2019-03-29T16:39:44.199006",
+    "ra": "173.274",
+    "radius": "0.411",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/398007/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "NGC 3718 LRGB",
+    "updated": "2021-04-02T01:58:44.430639",
+    "uploaded": "2019-03-29T16:39:44.466993",
+    "url_duckduckgo": "https://www.astrobin.com/398007/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/398007/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/398007/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/398007/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/398007/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/398007/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/398007/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20876/2020/bb79c6ab-c2a7-4127-9a75-2b93675b0e05.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20876/2020/bb79c6ab-c2a7-4127-9a75-2b93675b0e05-1582633069.png",
+    "url_thumb": "https://www.astrobin.com/398007/0/rawthumb/thumb/",
+    "user": "fred4646",
+    "views": 705,
+    "w": 5450
+}

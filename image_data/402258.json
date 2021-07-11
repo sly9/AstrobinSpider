@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.658",
+    "description": "I had to struggle a lot during post-processing with the stray light of the bright star Algieba.\r\nIf you look closely you still can see some traces of it.",
+    "h": 3800,
+    "hash": null,
+    "id": 402258,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 158,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.726",
+    "pixscale": "1.235",
+    "published": "2019-04-22T14:13:30.905812",
+    "ra": "154.395",
+    "radius": "0.922",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/402258/",
+    "revisions": [
+        "/api/v1/imagerevision/177329/"
+    ],
+    "subjects": [
+        "NGC 3177",
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3190",
+        "NGC 3193"
+    ],
+    "title": "Hickson 44",
+    "updated": "2021-03-17T11:14:24.263705",
+    "uploaded": "2019-04-22T15:13:31.191315",
+    "url_duckduckgo": "https://www.astrobin.com/402258/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402258/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402258/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402258/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402258/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402258/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402258/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/842dc24b-0e61-4cdb-b4d3-c60554e27b33.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/842dc24b-0e61-4cdb-b4d3-c60554e27b33-1582639029.jpg",
+    "url_thumb": "https://www.astrobin.com/402258/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 541,
+    "w": 3800
+}

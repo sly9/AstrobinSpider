@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-40.590",
+    "description": "ASI1600MM-Pro: Luminance\r\nASI294MC-Pro: Color",
+    "h": 3268,
+    "hash": null,
+    "id": 410993,
+    "imaging_cameras": [
+        "ZWO ASI294MC-PRO",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD 100 f/3.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 99,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806964/"
+    ],
+    "orientation": "1.161",
+    "pixscale": "2.605",
+    "published": "2019-06-19T11:57:56.489195",
+    "ra": "129.932",
+    "radius": "1.995",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410993/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2626"
+    ],
+    "title": "Gum 14 and Gum 15",
+    "updated": "2021-03-17T10:32:27.821925",
+    "uploaded": "2019-06-19T12:57:56.851167",
+    "url_duckduckgo": "https://www.astrobin.com/410993/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410993/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410993/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410993/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410993/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410993/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410993/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2019/e2c269fe-fe9b-4e44-a967-4514e8eb9b46.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2019/e2c269fe-fe9b-4e44-a967-4514e8eb9b46-1582598320.jpg",
+    "url_thumb": "https://www.astrobin.com/410993/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 380,
+    "w": 4440
+}

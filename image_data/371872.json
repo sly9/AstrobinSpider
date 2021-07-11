@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.466",
+    "description": "An extremely faint planetary nebula in Pegasus discovered by Rebecca Jones of Harvard University in 1941. It is magnitude 15.1 and at a distance of 2,300 light years from earth.",
+    "h": 2654,
+    "hash": null,
+    "id": 371872,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 71,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "107.432",
+    "pixscale": "0.533",
+    "published": "2018-10-15T10:06:22.396955",
+    "ra": "353.967",
+    "radius": "0.362",
+    "remote_source": "IC",
+    "resource_uri": "/api/v1/image/371872/",
+    "revisions": [],
+    "subjects": [
+        "PGC1891326",
+        "PK104-29.1"
+    ],
+    "title": "PK 104-29.1 Jones1",
+    "updated": "2021-03-24T20:46:57.021951",
+    "uploaded": "2018-10-15T11:06:22.603554",
+    "url_duckduckgo": "https://www.astrobin.com/371872/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371872/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371872/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371872/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371872/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371872/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371872/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2018/a1afabd7-2cc5-44b2-802e-8a5bceea29dc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2018/a1afabd7-2cc5-44b2-802e-8a5bceea29dc-1582608378.jpg",
+    "url_thumb": "https://www.astrobin.com/371872/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 357,
+    "w": 4106
+}

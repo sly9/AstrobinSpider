@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-30.222",
+    "description": "NGC 1097 galaxy",
+    "h": 3060,
+    "hash": "b1pau9",
+    "id": 452795,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150 Apochromatic"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811616/"
+    ],
+    "orientation": "187.303",
+    "pixscale": "0.565",
+    "published": "2020-02-02T03:48:01.514927",
+    "ra": "41.573",
+    "radius": "0.403",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/452795/",
+    "revisions": [
+        "/api/v1/imagerevision/210174/",
+        "/api/v1/imagerevision/218354/"
+    ],
+    "subjects": [
+        "NGC 1097"
+    ],
+    "title": "NGC 1097 galaxy",
+    "updated": "2021-03-17T05:17:25.177337",
+    "uploaded": "2020-02-02T03:35:46.931189",
+    "url_duckduckgo": "https://www.astrobin.com/b1pau9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b1pau9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b1pau9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b1pau9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b1pau9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b1pau9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b1pau9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2020/7cf4f6e5-8998-4981-8da4-9e13f63955b6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2020/7cf4f6e5-8998-4981-8da4-9e13f63955b6-1582273097.jpg",
+    "url_thumb": "https://www.astrobin.com/b1pau9/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 97,
+    "w": 4120
+}

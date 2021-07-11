@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "4.954",
+    "description": "Inspired by Marcus Wögerer's <a href=\"https://www.astrobin.com/338119\">version</a> of Irving Pieters <a href=\"https://www.astrobin.com/rawdata/publicdatapools/76/\">public data</a> I tried to have a go at a bicolor attempt with own Ha data and Irving's Oiii data. Star spikes do not match but it was a fun learning excercise and will definitely help once I upgrade to the 7-slot filter wheel and get my own Oiii filter ;)",
+    "h": 2569,
+    "hash": null,
+    "id": 338518,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MM-Cool Pro"
+    ],
+    "imaging_telescopes": [
+        "GSO 6\" f/4 Imaging Newtonian Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "https://www.astrobin.com/rawdata/publicdatapools/76/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807038/"
+    ],
+    "orientation": "0.105",
+    "pixscale": "1.702",
+    "published": "2018-03-23T07:58:39.893003",
+    "ra": "97.963",
+    "radius": "0.870",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338518/",
+    "revisions": [
+        "/api/v1/imagerevision/140350/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Caldwell 49 - Rosette Nebula Bicolor (Oiii Data by Irving Pieters)",
+    "updated": "2021-03-17T16:07:56.886309",
+    "uploaded": "2018-03-22T20:27:52.393089",
+    "url_duckduckgo": "https://www.astrobin.com/338518/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338518/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338518/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338518/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338518/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338518/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338518/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22546/2018/1779561f-2b70-4e21-a67a-9c15e4be6c20.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22546/2018/1779561f-2b70-4e21-a67a-9c15e4be6c20-1582528458.png",
+    "url_thumb": "https://www.astrobin.com/338518/0/rawthumb/thumb/",
+    "user": "zishor",
+    "views": 439,
+    "w": 2634
+}

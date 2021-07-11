@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "33.563",
+    "description": "",
+    "h": 2370,
+    "hash": null,
+    "id": 326923,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801293/"
+    ],
+    "orientation": "359.452",
+    "pixscale": "2.102",
+    "published": "2017-12-24T15:32:43.804955",
+    "ra": "186.457",
+    "radius": "1.160",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/326923/",
+    "revisions": [
+        "/api/v1/imagerevision/133690/",
+        "/api/v1/imagerevision/133820/"
+    ],
+    "subjects": [
+        "NGC 4395"
+    ],
+    "title": "NGC 4395 - DSWRO",
+    "updated": "2021-03-17T18:50:08.928566",
+    "uploaded": "2017-12-24T15:32:44.212526",
+    "url_duckduckgo": "https://www.astrobin.com/326923/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/326923/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/326923/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/326923/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/326923/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/326923/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/326923/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8466/2017/13cc7670-5f7e-44bc-9d0c-71ee07571dd9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8466/2017/13cc7670-5f7e-44bc-9d0c-71ee07571dd9-1582574973.jpg",
+    "url_thumb": "https://www.astrobin.com/326923/0/rawthumb/thumb/",
+    "user": "einpark",
+    "views": 173,
+    "w": 3192
+}

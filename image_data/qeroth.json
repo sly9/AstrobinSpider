@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 21,
+    "data_source": "TRAVELLER",
+    "dec": "68.205",
+    "description": "The subs was taken by Mr. Niels Haagh from a dark site in Denmark called Avnø, app. 1.5 hours drive by car from CPH DK.\r\nThe TTS 160 Panther mount with the telescope rOTAtor was used.\r\nCelestron C9.25 Hyperstar F/2 scope/setup and camera ZWO ASI071MC pro. used (my camera and 2\" filter :-)\r\nA 2\" Baader UV/IR block filter was also used.\r\nA Televue TV-60 scope used for guide purpose, the tracking scope was ZWO ASI224MC.\r\n\r\nThe PS, CCDStack2 processing part was done by me, and Niels H. did the calibration & stack of subs, DBE on stack in PI.\r\nCS Niels",
+    "h": 1381,
+    "hash": "qeroth",
+    "id": 432221,
+    "imaging_cameras": [
+        "zwo asi 071MC PRO ZWO"
+    ],
+    "imaging_telescopes": [
+        "C9.25"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 173,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "200.093",
+    "pixscale": "3.657",
+    "published": "2019-10-08T12:32:30.597688",
+    "ra": "315.493",
+    "radius": "1.265",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/432221/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023"
+    ],
+    "title": "Iris Nebula, a Hyperstar color image",
+    "updated": "2021-07-04T16:52:40.930190",
+    "uploaded": "2019-10-08T13:32:30.821381",
+    "url_duckduckgo": "https://www.astrobin.com/qeroth/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qeroth/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qeroth/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qeroth/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qeroth/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qeroth/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qeroth/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2f8c4064-d0e3-4e88-9a29-3540739f5d16.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2f8c4064-d0e3-4e88-9a29-3540739f5d16-1570541959.jpg",
+    "url_thumb": "https://www.astrobin.com/qeroth/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 410,
+    "w": 1824
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "12.243",
+    "description": "Sharpless 2-264 is a large molecular cloud in the 'head' of Orion.  It is sometimes called the Angelfish Nebula.  This image shows a small detail of the nebula.  \r\n\r\nThis is data from the Deep Sky West remote imaging facility in New Mexico.  Data were collected over a number of nights between 24 November 2017 and 4 February 2018.\r\n\r\nHa: 16 x 1800s\r\nLum: 17 x 900s\r\nRed: 18 x 900s\r\nGreen: 14 x 900s\r\nBlue: 18 x 900s\r\n\r\nA total of 24.8 hours of exposure.",
+    "h": 2471,
+    "hash": null,
+    "id": 332532,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "179.968",
+    "pixscale": "2.101",
+    "published": "2018-02-07T07:26:34.492431",
+    "ra": "82.803",
+    "radius": "1.180",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332532/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Part of Sharpless 2-264 in Orion - HaLRGB",
+    "updated": "2021-03-17T16:36:02.010844",
+    "uploaded": "2018-02-07T07:26:34.898900",
+    "url_duckduckgo": "https://www.astrobin.com/332532/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332532/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332532/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332532/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332532/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332532/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332532/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/a350dbe9-41e6-424b-855e-af88a5a1ecd0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/a350dbe9-41e6-424b-855e-af88a5a1ecd0-1582606105.jpg",
+    "url_thumb": "https://www.astrobin.com/332532/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 264,
+    "w": 3203
+}

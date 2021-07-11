@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-69.266",
+    "description": "This is a single-frame/mosaic hybrid. The center of the image has an effective integration of about 130 minutes per pixel in RGB. The field of view is slightly expanded with additional mosaic panels, and the effective integration is about 50 minutes per pixel in the expanded region. Because the integration is spread across the image, the depth of this image is not as good as what the total integration time (11 hr) would suggest. The H-alpha exposure is more uniform, about 50 minutes per pixel everywhere.\r\n\r\nBack to 2012, I took some short exposures for the center of the Tarantula Nebula. They are blended in this picture.",
+    "h": 4500,
+    "hash": null,
+    "id": 402706,
+    "imaging_cameras": [
+        "Canon EOS 5D Mark II MOD",
+        "Pentax 645z Mod"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA 150"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 162,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810562/"
+    ],
+    "orientation": "359.852",
+    "pixscale": "1.528",
+    "published": "2019-04-26T05:59:01.578112",
+    "ra": "84.218",
+    "radius": "1.592",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/402706/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1966",
+        "NGC 2048",
+        "NGC 2070",
+        "NGC 2077",
+        "Tarantula nebula"
+    ],
+    "title": "Around the Tarantula Nebula",
+    "updated": "2021-06-01T22:00:59.285632",
+    "uploaded": "2019-04-26T06:59:01.835216",
+    "url_duckduckgo": "https://www.astrobin.com/402706/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/402706/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/402706/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/402706/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/402706/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/402706/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/402706/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7327/2020/06c805af-767b-46ec-9aa1-ca32c4d03f57.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7327/2020/06c805af-767b-46ec-9aa1-ca32c4d03f57-1582109041.jpg",
+    "url_thumb": "https://www.astrobin.com/402706/0/rawthumb/thumb/",
+    "user": "whwang",
+    "views": 776,
+    "w": 6000
+}

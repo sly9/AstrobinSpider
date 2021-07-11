@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "47.212",
+    "description": "",
+    "h": 1631,
+    "hash": null,
+    "id": 299075,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "Meade  LX850-ACF f/8 10\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 244,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806327/"
+    ],
+    "orientation": "-176.873",
+    "pixscale": "0.702",
+    "published": "2017-06-10T17:25:10.323867",
+    "ra": "202.498",
+    "radius": "0.203",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299075/",
+    "revisions": [
+        "/api/v1/imagerevision/154336/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51_LRGB",
+    "updated": "2021-05-27T21:50:10.404523",
+    "uploaded": "2017-06-10T18:25:10.807163",
+    "url_duckduckgo": "https://www.astrobin.com/299075/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299075/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299075/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299075/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299075/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299075/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299075/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/5910b476-8ae5-4cd1-b82c-32cee857b035.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5910b476-8ae5-4cd1-b82c-32cee857b035-1497116004.jpg",
+    "url_thumb": "https://www.astrobin.com/299075/0/rawthumb/thumb/",
+    "user": "novo",
+    "views": 1481,
+    "w": 1300
+}

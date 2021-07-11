@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNKNOWN",
+    "dec": "15.802",
+    "description": "Current processing workflow:\r\n\r\nLinear Procedures\r\n\r\n0.0 Subframe Weight\r\n0.1 Batch/Integrate/Drizzle, possible MURE denoise\r\n0.2 Crop\r\n0.3 Linear red applied to RGB L HA\r\n0.4 Combine RGB\r\n0.5 ABE/DBE (25 close in and move samples individually)\r\n0.6 ID\r\n0.7 Deconvolution of L\r\n0.8 Background Neutralization Blanks Sections\r\n0.9  Photometric Color Calibration\r\n0.95 Optional linear noise reductions:\r\nL-Mask in STF Crush background to black but retain diffraction spikes and other L detail\r\nPreview\r\nL MLT Noise Reduction in Background\r\nColor MLT Noise Reduction in Background\r\n\r\nChange to Non-Linear\r\n\r\n1.0 HDR Wavelets on both stretched images 4-6 lightness mask activated\r\n1.1  LRBG-L Integration on best HDR Wavelet Layer\r\n1.2  PHOTOSHOP Neat-Image NOISE REDUCTION\r\n1.3 Clip Histogram to Left\r\n1.4 Adjust Colors:  SNCR Green Average Neutral\r\n1.45 Optional additional adjustments:\r\nL-Mask\r\nLHE to .6\r\nStar Reduction\r\nFinal Color Adjustments",
+    "h": 3791,
+    "hash": null,
+    "id": 350629,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804426/"
+    ],
+    "orientation": "267.104",
+    "pixscale": "0.551",
+    "published": "2018-06-10T09:02:33.898233",
+    "ra": "185.736",
+    "radius": "0.422",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/350629/",
+    "revisions": [
+        "/api/v1/imagerevision/147718/"
+    ],
+    "subjects": [
+        "M 100",
+        "M100",
+        "NGC 4312",
+        "NGC 4321",
+        "NGC 4322",
+        "NGC 4328",
+        "NGC4312",
+        "NGC4322",
+        "NGC4328"
+    ],
+    "title": "M100 from Deep Sky West",
+    "updated": "2021-03-17T15:13:59.096892",
+    "uploaded": "2018-06-10T10:02:37.090708",
+    "url_duckduckgo": "https://www.astrobin.com/350629/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350629/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350629/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350629/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350629/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350629/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350629/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/99cbdf7b-c719-491f-b592-b9238bbf2589.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/99cbdf7b-c719-491f-b592-b9238bbf2589-1528621520.jpg",
+    "url_thumb": "https://www.astrobin.com/350629/0/rawthumb/thumb/",
+    "user": "jerryyyyy",
+    "views": 235,
+    "w": 4004
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "43.770",
+    "description": "SII ~30x900s\r\nHa ~30x900s\r\nOIII ~30x900s",
+    "h": 1586,
+    "hash": "nwkxb0",
+    "id": 466150,
+    "imaging_cameras": [
+        "QHYCCD QHY695A"
+    ],
+    "imaging_telescopes": [
+        "Samyang 135 f/2 @3.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811638/"
+    ],
+    "orientation": "359.696",
+    "pixscale": "8.280",
+    "published": "2020-03-17T23:55:48.766394",
+    "ra": "313.805",
+    "radius": "2.864",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/466150/",
+    "revisions": [],
+    "subjects": [
+        "IC 5068",
+        "IC 5070",
+        "NGC 6989",
+        "NGC 6997",
+        "NGC 7000",
+        "North America Nebula",
+        "Pelican Nebula",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star ξCyg"
+    ],
+    "title": "NGC7000, IC5070, IC5068 second processing",
+    "updated": "2021-06-28T08:07:32.710029",
+    "uploaded": "2020-03-17T23:55:48.900545",
+    "url_duckduckgo": "https://www.astrobin.com/nwkxb0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nwkxb0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nwkxb0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nwkxb0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nwkxb0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nwkxb0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nwkxb0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/41770/2020/a2712deb-56d8-4e36-8f03-d629df538710.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/41770/2020/a2712deb-56d8-4e36-8f03-d629df538710-1584489533.jpg",
+    "url_thumb": "https://www.astrobin.com/nwkxb0/0/rawthumb/thumb/",
+    "user": "Tayson",
+    "views": 249,
+    "w": 1920
+}

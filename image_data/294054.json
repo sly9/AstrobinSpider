@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "17.786",
+    "description": "An interesting area with hundreds of galaxies. Happy scrolling! :)\r\n\r\nData acquisition: Karel Teuwen and Bart Delsaert\r\nProcessing: Bart Delsaert",
+    "h": 1824,
+    "hash": null,
+    "id": 294054,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 56,
+    "link": "http://delsaert.files.wordpress.com/2017/05/hercules_lrgb1.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.283",
+    "pixscale": "1.236",
+    "published": "2017-05-01T13:38:07.899173",
+    "ra": "241.214",
+    "radius": "0.874",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294054/",
+    "revisions": [
+        "/api/v1/imagerevision/115764/",
+        "/api/v1/imagerevision/127067/"
+    ],
+    "subjects": [
+        "NGC 6040",
+        "NGC 6041",
+        "NGC 6055"
+    ],
+    "title": "Hercules Cluster",
+    "updated": "2021-03-17T21:02:13.056510",
+    "uploaded": "2017-05-01T14:38:08.683546",
+    "url_duckduckgo": "https://www.astrobin.com/294054/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294054/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294054/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294054/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294054/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294054/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294054/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7344/2017/1d0ff5c5-17b7-4bff-83e0-77b82e55c069.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1d0ff5c5-17b7-4bff-83e0-77b82e55c069-1493647367.jpg",
+    "url_thumb": "https://www.astrobin.com/294054/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 247,
+    "w": 1824
+}

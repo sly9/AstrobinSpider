@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-23.925",
+    "description": "Dual imaging setup: HyperStar C9.25\" f/2.2 and Atik 490 mono with OIII filter for luminance, and Esprit 100 f/4.3 with ASI294 for color data, mounted side-by-side on a CGX mount.  Taken from my backyard north of Tucson, aimed low back over the city.  SQM was 19.6 toward the object.  I was surprised how well this came out, though it could use more than 5 hours of exposure time.",
+    "h": 1390,
+    "hash": null,
+    "id": 392721,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro",
+        "Atik 490EX monochrome"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100 ED f/5.5 APO",
+        "Celestron 9.25 SCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810596/"
+    ],
+    "orientation": "91.959",
+    "pixscale": "2.437",
+    "published": "2019-02-26T05:02:27.582697",
+    "ra": "103.590",
+    "radius": "0.717",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/392721/",
+    "revisions": [],
+    "subjects": [
+        "The star ο1CMa"
+    ],
+    "title": "Sharpless 308 in Canis Major",
+    "updated": "2021-06-20T19:25:31.470865",
+    "uploaded": "2019-02-26T05:02:27.759583",
+    "url_duckduckgo": "https://www.astrobin.com/392721/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/392721/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/392721/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/392721/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/392721/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/392721/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/392721/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3a28d076-f6c4-4db8-9b5b-cc8e519c04fa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3a28d076-f6c4-4db8-9b5b-cc8e519c04fa-1551157771.jpg",
+    "url_thumb": "https://www.astrobin.com/392721/0/rawthumb/thumb/",
+    "user": "Tucker512",
+    "views": 1273,
+    "w": 1600
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Jupiter in a brief period of good seeing, Sat 18 May 2019 AEST.\r\n\r\nConditions continue to be very variable at my location, skies are clear but high altitude winds are prevalent.  Was fortunate to be blessed with relatively calm period half an hour after midnight with Jupiter in ascendency.  The planet has visibly grown in size and is now sporting a 45\" disk.\r\n\r\nWinJUPOS sequence covers eight minute period between 12:24 and 12:27 am Canberra time. It's combining four 80 second stacks, 5760 frames in total.  I have increased stacking ratio to 1440 frames per interval taking quality estimator down to 62% (using 68% threshold previously).\r\n\r\nGRS is seen rising over P limb while Oval BA and A4/A5 neighbours rotate out of view.  Continue to be pleased with Skyris 236C's ability to reproduce subtle colour differentiations in polar latitudes - the south is greyish with aquamarine belt cutting midway across it while the north has a distinct golden hue.",
+    "h": 897,
+    "hash": null,
+    "id": 406531,
+    "imaging_cameras": [
+        "Celestron Skyris 236C"
+    ],
+    "imaging_telescopes": [
+        "Meade LX 200 12\" ACF"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808649/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-05-19T14:24:24.815085",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/406531/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter 17 May 2019 - 8 min WinJ composite",
+    "updated": "2021-03-17T10:54:23.324420",
+    "uploaded": "2019-05-19T14:40:27.267361",
+    "url_duckduckgo": "https://www.astrobin.com/406531/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406531/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406531/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406531/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406531/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406531/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406531/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/406531/0/rawthumb/thumb/",
+    "user": "Seb",
+    "views": 112,
+    "w": 1033
+}

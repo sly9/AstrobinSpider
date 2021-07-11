@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 28,
+    "data_source": "BACKYARD",
+    "dec": "68.264",
+    "description": "Along the edge of a large molecular cloud in the constellation Cepheus, and nearby to the Veil nebula sits a large amount of galactic dust... the portion in the middle which makes up the reflection nebula often referred to as the Ghost Nebula. This concentration of dust is lit up by bright stars nearby, of which a few are sitting right in the middle of it causing interesting light cones to emerge through from our vantage point. There are two formations on the inner most dust cloud that many say look like cats, and others say tormented souls... either case I most enjoy the apparent rays of dust coming down on them from the bat-signal shaped region at the top of the frame, and the faint whisp of a spirit flying overhead. My favorite formation however is the lighter white whisp on the left side of the field above the bright white star in that area.\r\n\r\nEquipment:\r\n* 8in f4.9 Newtonian Reflector w/ Sesto Senso Auto Focuser\r\n* Skywatcher Quattro Coma Corrector\r\n* ZWO EFW and Astrodon LRGB Filters (First image taken and processed using LRGB filters!)\r\n* ZWO ASI 183mm Pro - Cooled to -15.0C\r\n* Celestron CGEM Mount\r\n* Dew Strips around the Primary mirror\r\n\r\nIntegration/Acquisition Time per Channel:\r\n* L: 248/269 x 120s (8.2hrs)\r\n* R:  82/ 86 x 120s (2.7hrs)\r\n* G:  86/ 88 x 120s (2.9hrs)\r\n* B:  87/ 89 x 120s (2.9hrs)\r\n\r\nTotal acquisition time: 17 hours 44 minutes\r\nTotal rejected frames:  00 hours 58 minutes\r\nTotal integration time: 16 hours 46 minutes\r\nData Taken across 3 nights: Aug 28th-Aug30th\r\nGuiding averaged ~0.8\"/px RMS across all nights; Image Scale: 0.5\"/px\r\n\r\nFlats: 20/filter Calibrated Dark Flats;\r\nDarks: 60/120s @ -15.0C\r\nBias: None\r\n\r\nEach color channel was stacked by\r\n* Integrating all images with\r\n    * Linear Fit Clipping\r\n    * Default rejection settings\r\n* Drizzle Integration with\r\n    * Scale: 1x\r\n    * Drop Shrink: 0.9\r\n    * Kernel Function Var k=1.5\r\n\r\nA superluminance was created by\r\n* Integrating all images with \r\n    * Linear Fit Clipping\r\n    * Sigma High=10\r\n    * Sigma Low=10 \r\n* Drizzle Integration with \r\n    * Scale: 1x\r\n    * Drop shrink: 0.7 \r\n    * Kernel Function: Var k=1.5\r\n\r\nLuminance Processing (with Super Luminance):\r\n* Crop edges\r\n* One gentle pass of DBE with a low Shadow Relaxation (A very dusty region causes for challenging gradient removal... Feedback greatly appreciated)\r\n* Deconvolution\r\n    * Using a dynamic PSF created with 60 stars from around the whole image\r\n    * Iterations: 60\r\n    * No Deringing\r\n    * 5 Layer Gaussian Wavelet Regularization with noise thresholds (13,12,9,6,4) and reduction (1,1,0.8,0.8,0.6)\r\n    * Filled in the ringing left behind with PixelMath ``L_Orig`` and a star mask created by ``L_Orig |> Histogram Stretched |> Starnet in StarMask mode |> MT Maximize |> Convolve``\r\n* Noise Reduction using TGVDenoise using\r\n    * STF for Local Support\r\n    * Low Contrast mask\r\n* Additional sharpening/smoothing with MMT targeting the middle 6 of 8 wavelets and a star mask\r\n    * Bias:        0.000, 0.010, 0.020, 0.030, 0.020, 0.008\r\n    * NR Threshold:1.000, 1.500, 2.000, 3.000, 2.000, 1.000\r\n    * NR Amount:   0.350, 0.500, 0.400, 0.300, 0.200, 0.200\r\n\r\n* Stretched a second copy using the Histogram Transformation with STF after shifting the white point to a desirable place\r\n* Created previews around 4 background regions to make a background reference for Masked Stretch\r\n* Masked Stretch \r\n    * 1000 iterations \r\n    * Used the median of the STF copy's background reference as target\r\n    * Created a preview aggregator from the same background references on the target image for stretching\r\n* Histogram to bring the black point in without clipping\r\n* Repeat Masked Stretch a second time\r\n* Blend the Histogram Stretched copy (33%) with the Masked Stretch copy (66%) using PixelMath\r\n* Final luminance smoothing using ACDNR\r\n    * StDev 0.8\r\n    * Amount: 0.23\r\n    * Iterations: 5\r\n    * With Luminance Mask enabled\r\n    * Remaining: Defaults\r\n\r\n\r\nRGB Processing:\r\n* Cropped edges using the same Dynamic Crop process from Luminance\r\n* LRGB Combination of R, G and B (no L)\r\n* One gentle pass of DBE with a low Shadow Relaxation (Normalization enabled for verifying gradients with same STF)\r\n* Color Calibration:\r\n    * Background Neutralization using previews around 4 background regions and Preview aggregator\r\n    * Color Calibration with the full image and then Photometric Color Calibration using Average Spiral Galaxy as white reference\r\n    * RGB Working space set to 1,1,1\r\n* Noise Reduction:\r\n    * Two passes of small scale TGV (very low edge protection on first pass... backed off edge protection for second pass)\r\n    * MMT Noise reduction using a strong luminance mask targeting chrominance\r\n    * SCNR Green with a luminance mask to remove the green color cast\r\n* Recover Blown Out Star Color:\r\n    * HSV Repair Separation script using defaults and Recombining: H, Sv and Unrepaired_V\r\n* Stretched with ArcSinh (50) followed up with a histogram transformation\r\n    * Between stretches performed additional ACDNR noise reduction:\r\n        * L Stdev: 2.0\r\n        * L Amount: 0.2\r\n        * L Iterations: 3\r\n        * L Bright Sides Edge Protection Threshold: 0.001\r\n        * Chr Stdev: 3.0\r\n        * Chr Amount: 0.5\r\n        * Chr Iterations: 4\r\n        * Chr Bright Sides Edge Protection Threshold: 0.001\r\n        * Remaining: Defaults\r\n\r\nCombined and Final Touches:\r\n* LRGB Combination of Processed Luminance with RGB (no chrominance noise reduction)\r\n* Curves to boost the contrast and saturation throughout the field\r\n* Remove faint magenta noise with inverted SCNR targetting green inverted (with a mask to protect highlights)\r\n* HDR to bring out contrast in the central nebula pillar with 7 layers and a convolved/binarized star mask\r\n* Lift the overall faint dust with Exponential Transformation:\r\n    * Function: Power of Inverted Pixels\r\n    * Order 0.8\r\n    * Smoothing: 1.5\r\n    * With Lightness Mask",
+    "h": 3444,
+    "hash": "rp0fxy",
+    "id": 426945,
+    "imaging_cameras": [
+        "ZWO ASI183MM-pro"
+    ],
+    "imaging_telescopes": [
+        "Orion 203/1000 f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 165,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "179.446",
+    "pixscale": "0.498",
+    "published": "2019-09-12T20:31:04.342521",
+    "ra": "319.062",
+    "radius": "0.430",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/426945/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-136",
+        "VdB141"
+    ],
+    "title": "Ghost Nebula - Reflections in Cepheus",
+    "updated": "2021-04-26T14:18:24.721158",
+    "uploaded": "2019-09-12T21:31:04.571070",
+    "url_duckduckgo": "https://www.astrobin.com/rp0fxy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rp0fxy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rp0fxy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rp0fxy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rp0fxy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rp0fxy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rp0fxy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25575/2019/d03b8883-2da4-4c24-9a3d-920931c7fb62.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25575/2019/d03b8883-2da4-4c24-9a3d-920931c7fb62-1582552743.jpg",
+    "url_thumb": "https://www.astrobin.com/rp0fxy/0/rawthumb/thumb/",
+    "user": "eigenVector",
+    "views": 515,
+    "w": 5169
+}

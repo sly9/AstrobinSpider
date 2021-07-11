@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-1.946",
+    "description": "",
+    "h": 2200,
+    "hash": null,
+    "id": 307426,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 77,
+    "link": "http://astro.ioda.by/en/m-12#full",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804384/"
+    ],
+    "orientation": "90.507",
+    "pixscale": "0.632",
+    "published": "2017-08-16T08:32:53.406187",
+    "ra": "251.810",
+    "radius": "0.273",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/307426/",
+    "revisions": [],
+    "subjects": [
+        "M 12",
+        "NGC 6218"
+    ],
+    "title": "M12",
+    "updated": "2021-03-17T20:10:19.935142",
+    "uploaded": "2017-08-16T09:32:54.384892",
+    "url_duckduckgo": "https://www.astrobin.com/307426/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/307426/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/307426/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/307426/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/307426/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/307426/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/307426/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14911/2017/e356b275-6070-4c3f-8254-7752b44f1384.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14911/2017/e356b275-6070-4c3f-8254-7752b44f1384-1582587146.jpg",
+    "url_thumb": "https://www.astrobin.com/307426/0/rawthumb/thumb/",
+    "user": "Ioda",
+    "views": 125,
+    "w": 2200
+}

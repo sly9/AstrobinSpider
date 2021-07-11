@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-0.037",
+    "description": "",
+    "h": 2598,
+    "hash": null,
+    "id": 400632,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 77,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "215.069",
+    "pixscale": "0.655",
+    "published": "2019-04-12T10:46:45.211846",
+    "ra": "166.452",
+    "radius": "0.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/400632/",
+    "revisions": [
+        "/api/v1/imagerevision/176364/",
+        "/api/v1/imagerevision/176365/",
+        "/api/v1/imagerevision/176366/",
+        "/api/v1/imagerevision/176417/",
+        "/api/v1/imagerevision/176457/",
+        "/api/v1/imagerevision/177109/",
+        "/api/v1/imagerevision/177110/"
+    ],
+    "subjects": [
+        "NGC 3521"
+    ],
+    "title": "The Bubble Galaxy - NGC 3521",
+    "updated": "2021-03-17T11:21:47.618322",
+    "uploaded": "2019-04-12T10:47:02.818459",
+    "url_duckduckgo": "https://www.astrobin.com/400632/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400632/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400632/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400632/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400632/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400632/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400632/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/101b5b68-5636-4dcd-ae97-5f36740076ec.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/101b5b68-5636-4dcd-ae97-5f36740076ec-1555066461.jpg",
+    "url_thumb": "https://www.astrobin.com/400632/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 471,
+    "w": 3330
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 8,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-22.863",
+    "description": "Very bright but not that easy to process object.\r\n\r\nWas surprized to see quite a lot of hydrogen around it. Rev D shows Ha channel only. You can see that there is a lot of hydrogen and it even has some structure.",
+    "h": 1373,
+    "hash": null,
+    "id": 348013,
+    "imaging_cameras": [
+        " QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 172,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805312/"
+    ],
+    "orientation": "0.036",
+    "pixscale": "2.097",
+    "published": "2018-05-21T22:53:31.175673",
+    "ra": "270.766",
+    "radius": "1.198",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/348013/",
+    "revisions": [
+        "/api/v1/imagerevision/146000/",
+        "/api/v1/imagerevision/146001/"
+    ],
+    "subjects": [
+        "M 20",
+        "M 21",
+        "NGC 6514",
+        "NGC 6531",
+        "Trifid nebula"
+    ],
+    "title": "Trifid nebula surrounded by hydrogen",
+    "updated": "2021-05-04T11:04:21.951599",
+    "uploaded": "2018-05-21T23:35:43.663733",
+    "url_duckduckgo": "https://www.astrobin.com/348013/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/348013/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/348013/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/348013/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/348013/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/348013/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/348013/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b30496a8-1879-455b-b935-49f3687f2301.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b30496a8-1879-455b-b935-49f3687f2301-1526993008.jpg",
+    "url_thumb": "https://www.astrobin.com/348013/0/rawthumb/thumb/",
+    "user": "nekitmm",
+    "views": 706,
+    "w": 1824
+}

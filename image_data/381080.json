@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "68.900",
+    "description": "Data from: 11,16 nov, 1,4,5,6,8 & 9 dec 2018.",
+    "h": 2289,
+    "hash": null,
+    "id": 381080,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 100 Esprit APO F5.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803225/"
+    ],
+    "orientation": "271.322",
+    "pixscale": "3.367",
+    "published": "2018-12-14T08:46:11.927648",
+    "ra": "148.717",
+    "radius": "1.722",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/381080/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 2976",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "Galaxies in the Mist",
+    "updated": "2021-03-17T12:51:12.708247",
+    "uploaded": "2018-12-14T08:40:18.278666",
+    "url_duckduckgo": "https://www.astrobin.com/381080/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/381080/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/381080/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/381080/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/381080/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/381080/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/381080/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12061/2020/ad686170-d3af-4eaf-9233-47133440f38b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12061/2020/ad686170-d3af-4eaf-9233-47133440f38b-1582622336.jpg",
+    "url_thumb": "https://www.astrobin.com/381080/0/rawthumb/thumb/",
+    "user": "keesscherer",
+    "views": 432,
+    "w": 2884
+}

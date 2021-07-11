@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 15,
+    "data_source": "UNSET",
+    "dec": "61.038",
+    "description": "",
+    "h": 2398,
+    "hash": null,
+    "id": 308493,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 196,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "173.342",
+    "pixscale": "1.264",
+    "published": "2017-08-22T23:55:56.582136",
+    "ra": "15.075",
+    "radius": "0.997",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/308493/",
+    "revisions": [
+        "/api/v1/imagerevision/247981/"
+    ],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "Ghost of Cassiopeia HaRGB",
+    "updated": "2021-04-19T12:19:48.127149",
+    "uploaded": "2017-08-23T00:55:58.210190",
+    "url_duckduckgo": "https://www.astrobin.com/308493/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/308493/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/308493/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/308493/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/308493/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/308493/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/308493/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/9b8434d7-01d9-4420-a7d5-594842bf0f7c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/9b8434d7-01d9-4420-a7d5-594842bf0f7c-1503446398.png",
+    "url_thumb": "https://www.astrobin.com/308493/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1145,
+    "w": 1824
+}

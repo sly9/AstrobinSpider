@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "PRO_DATA",
+    "dec": "66.118",
+    "description": "This is a HaRGB image that I processed from data from the Liverpool Telescope with a cryptic name on the subs \"bd65_1637\", so I had no idea what it was during processing. The coordinates are 21 42 50, +66 06 46. \r\n\r\nPlate solving by Astrobin solved the mystery:  it is NGC 7129\r\n\r\nNGC 7129 is a reflection nebula located 3,300 light years away in the constellation Cepheus. A young open cluster is responsible for illuminating the surrounding nebula. A recent survey indicates the cluster contains more than 130 stars less than 1 million years old [all according to Wikipedia] \r\n\r\nFliters and Exposures used:\r\nsdss- r 15 x 90 s\r\nHa 9 x 120 s (stacked 40:60 with sdss-r for red channel)\r\nBessell B  14 x 90 s (blue channel)\r\nBessell V  13 x 90 s (green channel)",
+    "h": 1215,
+    "hash": null,
+    "id": 298388,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "90.134",
+    "pixscale": "0.449",
+    "published": "2017-06-04T12:56:39.574626",
+    "ra": "325.716",
+    "radius": "0.111",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298388/",
+    "revisions": [
+        "/api/v1/imagerevision/120476/"
+    ],
+    "subjects": [
+        "NGC 7129"
+    ],
+    "title": "NGC 7129",
+    "updated": "2021-03-17T20:45:08.239671",
+    "uploaded": "2017-06-04T13:56:40.674434",
+    "url_duckduckgo": "https://www.astrobin.com/298388/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298388/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298388/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298388/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298388/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298388/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298388/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/8dc2019b-0def-47dd-9914-da28e01d88cd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/8dc2019b-0def-47dd-9914-da28e01d88cd-1582579681.jpg",
+    "url_thumb": "https://www.astrobin.com/298388/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 219,
+    "w": 1300
+}

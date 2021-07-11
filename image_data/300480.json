@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-48.747",
+    "description": "Exp 9,46 h\r\nHa & OIII",
+    "h": 1403,
+    "hash": null,
+    "id": 300480,
+    "imaging_cameras": [
+        "QSI 660WSG-8 OAG"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV105-3FT"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 105,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803188/"
+    ],
+    "orientation": "283.198",
+    "pixscale": "1.742",
+    "published": "2017-06-22T01:49:50.421929",
+    "ra": "249.991",
+    "radius": "0.611",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300480/",
+    "revisions": [
+        "/api/v1/imagerevision/118960/"
+    ],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193"
+    ],
+    "title": "NGC 6188 - NGC 6193",
+    "updated": "2021-07-02T14:53:03.554737",
+    "uploaded": "2017-06-22T02:49:50.978363",
+    "url_duckduckgo": "https://www.astrobin.com/300480/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300480/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300480/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300480/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300480/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300480/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300480/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8757/2017/b6ccef1a-bf8c-4f92-8725-e4d847fa3b4e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b6ccef1a-bf8c-4f92-8725-e4d847fa3b4e-1498105379.jpg",
+    "url_thumb": "https://www.astrobin.com/300480/0/rawthumb/thumb/",
+    "user": "renan",
+    "views": 275,
+    "w": 1824
+}

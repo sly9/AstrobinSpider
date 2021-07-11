@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "67.190",
+    "description": "36 hours total.",
+    "h": 2028,
+    "hash": null,
+    "id": 371010,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800031/"
+    ],
+    "orientation": "334.104",
+    "pixscale": "2.749",
+    "published": "2018-10-10T12:51:33.987611",
+    "ra": "0.449",
+    "radius": "1.343",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/371010/",
+    "revisions": [
+        "/api/v1/imagerevision/159425/"
+    ],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "NGC 7822",
+    "updated": "2021-05-03T07:12:14.765559",
+    "uploaded": "2018-10-10T13:51:34.600296",
+    "url_duckduckgo": "https://www.astrobin.com/371010/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371010/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371010/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371010/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371010/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371010/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371010/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5736/2018/99a21358-7909-4594-a36e-b1c621075a69.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5736/2018/99a21358-7909-4594-a36e-b1c621075a69-1582567696.jpg",
+    "url_thumb": "https://www.astrobin.com/371010/0/rawthumb/thumb/",
+    "user": "Honza_Eliasek",
+    "views": 1126,
+    "w": 2875
+}

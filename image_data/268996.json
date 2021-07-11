@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "60.381",
+    "description": "This is an image of mostly narrow band data with a little RGB thrown in for star color. I used the hubble pallet (SHO) and modified the final color generally along the recommendation used by Bob Franke.\r\n\r\nSII - Red  22 x 1800 secs\r\nHa - Green 28 x 1800 secs\r\nOIII - Blue 24 x 1800 secs\r\nRed - 10 x 600 secs\r\nGreen - 10 x 600 secs\r\nBlue - 10 x 600 secs",
+    "h": 3763,
+    "hash": null,
+    "id": 268996,
+    "imaging_cameras": [
+        "SBIG STXL-11002/FW8"
+    ],
+    "imaging_telescopes": [
+        "FSQ-106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803594/"
+    ],
+    "orientation": "2.931",
+    "pixscale": "1.754",
+    "published": "2016-10-21T15:43:18.571276",
+    "ra": "43.439",
+    "radius": "1.549",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268996/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "Soul Nebula",
+    "updated": "2021-06-22T00:59:45.885449",
+    "uploaded": "2016-10-21T16:43:18.571276",
+    "url_duckduckgo": "https://www.astrobin.com/268996/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268996/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268996/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268996/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268996/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268996/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268996/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4630/2016/f4007ed0-874e-4cce-928b-ef3283659ab5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4630/2016/f4007ed0-874e-4cce-928b-ef3283659ab5-1582428784.jpg",
+    "url_thumb": "https://www.astrobin.com/268996/0/rawthumb/thumb/",
+    "user": "KC",
+    "views": 273,
+    "w": 5128
+}

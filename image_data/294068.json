@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "I played around with different settings for capturing the disk and prominences. This is my first attempt at combining them into a single image. I used AS2 for stacking both images separately, then sharpened in PI. I couldn't figure out a decent way to combine them in PI, so I loaded the images into Gimp as layers and aligned them by hand.\r\n\r\nLiked the grayscale image. Liked the color version. Going to keep both.",
+    "h": 894,
+    "hash": null,
+    "id": 294068,
+    "imaging_cameras": [
+        "ZWO ASI120MM"
+    ],
+    "imaging_telescopes": [
+        "Lunt LS100THa"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 30,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802659/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-05-01T15:30:22.458091",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294068/",
+    "revisions": [
+        "/api/v1/imagerevision/115638/",
+        "/api/v1/imagerevision/115639/"
+    ],
+    "subjects": [],
+    "title": "Solar disk and prom, 2017-04-29",
+    "updated": "2021-03-17T21:02:10.020922",
+    "uploaded": "2017-05-01T16:18:29.457478",
+    "url_duckduckgo": "https://www.astrobin.com/294068/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294068/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294068/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294068/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294068/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294068/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294068/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/294068/0/rawthumb/thumb/",
+    "user": "legova",
+    "views": 74,
+    "w": 1026
+}

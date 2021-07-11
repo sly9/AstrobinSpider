@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "-7.762",
+    "description": "Limited data due to poor weather conditions.  Luminance QHY163M + RGB QHY168C, 3 hours only..",
+    "h": 1250,
+    "hash": null,
+    "id": 326976,
+    "imaging_cameras": [
+        "QHYCCD QHY168C",
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "Canon 300mm f/4.0 L",
+        "Canon 200 mm f/2.8 L II USM"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 223,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803396/"
+    ],
+    "orientation": "179.866",
+    "pixscale": "11.273",
+    "published": "2017-12-25T01:50:31.948006",
+    "ra": "76.048",
+    "radius": "2.493",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/326976/",
+    "revisions": [],
+    "subjects": [
+        "IC 2118",
+        "The star λEri",
+        "The star ψEri",
+        "Witch Head nebula"
+    ],
+    "title": "Witch Head Nebula, IC 2118",
+    "updated": "2021-03-21T01:19:36.335111",
+    "uploaded": "2017-12-25T01:50:32.408783",
+    "url_duckduckgo": "https://www.astrobin.com/326976/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/326976/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/326976/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/326976/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/326976/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/326976/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/326976/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6818935f-2063-42ab-a426-2d2ee3a3f348.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6818935f-2063-42ab-a426-2d2ee3a3f348-1514167258.jpg",
+    "url_thumb": "https://www.astrobin.com/326976/0/rawthumb/thumb/",
+    "user": "dvalid",
+    "views": 1619,
+    "w": 986
+}

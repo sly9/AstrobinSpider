@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "The GRS was on the central meridian about 4am this morning when I started imaging. There was a significant drop in the histogram as I was about to start which I compensated by increasing the Gain. As I found out when the sun rose there was a lot of mist around, which is quite unusual at my location. However, as the planet rose higher in the sky the transparency and see improved greatly. I made a total of 18 RGB runs as the transit progressed. The seeing was much better for the last 9 runs, and I produced this image from them.\r\nThe chimney above the GRS looks like it is the process of closing, whilst the turbulent wake seems to be quite broken up. There are huge festoons in the north part of EZ and the one at the central meridian is notably whiter than the light brown of the rest of the EZ.\r\nThe Mouse over gives an animation of the 3 images I produced showing the planet's rotation over half an hour.",
+    "h": 800,
+    "hash": "7rtrnk",
+    "id": 467316,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-03-22T03:50:36.792351",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/467316/",
+    "revisions": [
+        "/api/v1/imagerevision/220513/"
+    ],
+    "subjects": [],
+    "title": "Jupiter's GRS in transit - mouse-over to see an animation of the rotation over half an hour",
+    "updated": "2021-03-17T04:04:43.317535",
+    "uploaded": "2020-03-22T03:32:58.911873",
+    "url_duckduckgo": "https://www.astrobin.com/7rtrnk/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/7rtrnk/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/7rtrnk/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/7rtrnk/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/7rtrnk/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/7rtrnk/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/7rtrnk/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/7rtrnk/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 254,
+    "w": 800
+}

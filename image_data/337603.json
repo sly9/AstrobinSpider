@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "-23.913",
+    "description": "Sh2-308\r\nDate: 30Dec.2016-3Jan 2017 , 1Mar 2017\r\nPlace : Meizhou , Guangdong Province\r\nTelescope : C11/HyperStar (SX), OS RH200(ASI)\r\nMount : SkyWatcher AZEQ6\r\nCamera : SX-H694(-10ºC) , ASI1600MM(-20ºC)\r\nFilter : Baader Oiii (SX) , Astrodon RGB/Oiii/Ha (ASI), Optolong Ha(SX),\r\nExposure : Oiii  300sx138 (11.5hr),Ha 300sx97(8.1hr) ,R 300sx21,G 300sx18, B 300sx17  (RGB ~4.7hr)\r\nGuiding: Tamron 100mm CCTV lens / lodestar, \r\nProcessing: PI、PS-CC",
+    "h": 1714,
+    "hash": null,
+    "id": 337603,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 SCT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799247/"
+    ],
+    "orientation": "87.927",
+    "pixscale": "1.948",
+    "published": "2018-03-16T11:54:08.198968",
+    "ra": "103.616",
+    "radius": "0.723",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337603/",
+    "revisions": [],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "SH2-308",
+    "updated": "2021-07-05T22:29:42.984520",
+    "uploaded": "2018-03-16T11:54:12.641727",
+    "url_duckduckgo": "https://www.astrobin.com/337603/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337603/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337603/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337603/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337603/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337603/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337603/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bfc47004-67e8-4248-b343-b002cc447806.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bfc47004-67e8-4248-b343-b002cc447806-1521201379.jpg",
+    "url_thumb": "https://www.astrobin.com/337603/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 1112,
+    "w": 2048
+}

@@ -1,0 +1,71 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.642",
+    "description": "12 x 600s L and 6 x 600s each RGB during a night with a lot of moonlight. But I wanted to test my observatory anyway... There is some red gradient I can't get rid of at the bottom. Need to do this again under better seeing conditions and with less moonlight.\r\n\r\nLast version, 39 x 600s L, 8 x 600s R, 9 x 600s G and 12 x 600s B.",
+    "h": 2504,
+    "hash": null,
+    "id": 335034,
+    "imaging_cameras": [
+        "Quantum Scientific Imaging QSI583wsg"
+    ],
+    "imaging_telescopes": [
+        "Home made 400mm F/4 Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806079/"
+    ],
+    "orientation": "269.240",
+    "pixscale": "0.615",
+    "published": "2018-02-24T06:52:11.325216",
+    "ra": "191.506",
+    "radius": "0.356",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/335034/",
+    "revisions": [
+        "/api/v1/imagerevision/141049/",
+        "/api/v1/imagerevision/141056/",
+        "/api/v1/imagerevision/141128/",
+        "/api/v1/imagerevision/176023/",
+        "/api/v1/imagerevision/214137/"
+    ],
+    "subjects": [
+        "NGC 4676",
+        "NGC4676",
+        "PGC1901131",
+        "PGC1904614",
+        "PGC1910087",
+        "PGC1911584",
+        "PGC1914354",
+        "PGC1920627",
+        "PGC43002",
+        "PGC43065",
+        "PGC43088",
+        "The Mice"
+    ],
+    "title": "NGC4676 \"The Mice\",  PGC43002, PGC43088 and more faint fuzzies",
+    "updated": "2021-03-17T16:24:29.975220",
+    "uploaded": "2018-02-24T06:44:50.117456",
+    "url_duckduckgo": "https://www.astrobin.com/335034/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335034/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335034/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335034/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335034/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335034/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335034/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3862/2018/aea878b9-a0ca-4c8d-9bd0-6692953b7f9e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3862/2018/aea878b9-a0ca-4c8d-9bd0-6692953b7f9e-1582511198.jpg",
+    "url_thumb": "https://www.astrobin.com/335034/0/rawthumb/thumb/",
+    "user": "Albert_van_Duin",
+    "views": 350,
+    "w": 3326
+}

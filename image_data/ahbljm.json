@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 19,
+    "data_source": "MIX",
+    "dec": null,
+    "description": "2x4 mosaic - leftmost column from TMB92ss in oakland, right 3 columns from tak FSQ @ SRO in 2014",
+    "h": 5766,
+    "hash": "ahbljm",
+    "id": 439403,
+    "imaging_cameras": [
+        "QSI 683WSG",
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "TMB-92SS",
+        "FSQ-106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 188,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798717/",
+        "/api/v1/location/2801238/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-11-19T06:27:41.102215",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439403/",
+    "revisions": [
+        "/api/v1/imagerevision/200637/"
+    ],
+    "subjects": [],
+    "title": "Veil Complex HA - starless / star reduced",
+    "updated": "2021-06-10T06:11:45.924407",
+    "uploaded": "2019-11-19T06:04:00.992887",
+    "url_duckduckgo": "https://www.astrobin.com/ahbljm/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ahbljm/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ahbljm/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ahbljm/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ahbljm/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ahbljm/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ahbljm/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/ahbljm/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 545,
+    "w": 8316
+}

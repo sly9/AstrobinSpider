@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "67.826",
+    "description": "Version B : original\r\nVersion C : Ha channel",
+    "h": 2316,
+    "hash": null,
+    "id": 272499,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 80ED APO Doublet FPL-53"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803463/"
+    ],
+    "orientation": "16.788",
+    "pixscale": "4.262",
+    "published": "2016-11-17T01:05:31.937608",
+    "ra": "0.660",
+    "radius": "1.645",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/272499/",
+    "revisions": [
+        "/api/v1/imagerevision/104306/",
+        "/api/v1/imagerevision/104307/"
+    ],
+    "subjects": [
+        "NGC 7822"
+    ],
+    "title": "[SHO] Sh2-171  - NGC 7822 @Calern",
+    "updated": "2021-03-17T22:28:36.328751",
+    "uploaded": "2016-11-17T01:05:32.747920",
+    "url_duckduckgo": "https://www.astrobin.com/272499/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/272499/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/272499/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/272499/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/272499/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/272499/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/272499/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12964/2016/03467e95-50fe-4c4d-89ec-3bac6c789b07.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/12964/2016/03467e95-50fe-4c4d-89ec-3bac6c789b07-1582446444.jpg",
+    "url_thumb": "https://www.astrobin.com/272499/0/rawthumb/thumb/",
+    "user": "Raypulsif",
+    "views": 514,
+    "w": 1537
+}

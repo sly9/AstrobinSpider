@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": "42.325",
+    "description": "This image captures two very faint and fascinating objects, Sh2-224 to the left and Sh2-223 to the right, located in the constellation of Auriga.   It is amazing to me that these two rare objects can be captured in the same field of view.  Both of these objects have been classified as supernova remnants (SNRs), which they appear to resemble optically.  But these two objects are no longer believed to both be SNRs.\r\n\r\nSh2-224, located 12,000 light years away, has plenty of Ha and OIII signal, characteristic of all SNR that I have imaged.  The primary section on the left side is spherical with an apparent diameter equal to our full moon.  The much wider wing just to the right occurred from an eruption of the spherical SNR into a very low density cavity of the interstellar medium.  Once erupted, the SNR rapidly expanded into the low density cavity, creating the larger wing.   I don't quite understand everything about how this mechanism works, but the result is visually very interesting.  We are fortunate to have this perspective from earth's view - views from other perspectives would make it difficult to understand the mechanism.  My mind tends to think that empty interstellar space is uniform, but obviously it is not empty nor uniform.  The SNR is believed to be 60,000 years old and currently spans 150 light years.  It is believed to be one of the older SNRs.  The progenitor star for this SNR has not been identified.  \r\n\r\nAlthough Sh2-224 is huge, Sh2-223 is even larger.   It has been identified in numerous sources as one of the largest SNRs known.  I was surprised that I found no oxygen in the nebula, unlike all of the other SNRs I have imaged.  After further digging, I discovered that a paper published in 2006 (The Galactic H II region OA 184 by Foster/Kothes/Sun/Reich/Han) has concluded that this object is not a SNR as many sources describe.  Instead, it is a HII region energized by the lone star BD+41 1144 (identified in the attached annotated image).  The paper also gives this object a new distance of 7000 light years.  The spherical, SNR-like shape of this HII region is unlike that of any HII region that I can recall imaging.\r\n\r\nDespite its demotion from SNR status,  SH2-223 is still a big beautiful object as it hangs alongside its SNR neighbor Sh2-224 in the bright, colorful star-filled sky of Auriga.",
+    "h": 3160,
+    "hash": null,
+    "id": 380492,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805974/"
+    ],
+    "orientation": "35.548",
+    "pixscale": "2.381",
+    "published": "2018-12-10T14:11:30.282388",
+    "ra": "80.506",
+    "radius": "1.826",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/380492/",
+    "revisions": [
+        "/api/v1/imagerevision/164640/"
+    ],
+    "subjects": [
+        "20 rho Aur",
+        "Sh2-223",
+        "Sh2-224",
+        "The star ρAur"
+    ],
+    "title": "Sh2-224 & Sh2-223",
+    "updated": "2021-03-17T12:54:00.798761",
+    "uploaded": "2018-12-10T13:07:58.931756",
+    "url_duckduckgo": "https://www.astrobin.com/380492/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/380492/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/380492/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/380492/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/380492/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/380492/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/380492/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18133/2018/b3451ede-1bef-4027-925f-bfaa7504cb81.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18133/2018/b3451ede-1bef-4027-925f-bfaa7504cb81-1582623941.JPG",
+    "url_thumb": "https://www.astrobin.com/380492/0/rawthumb/thumb/",
+    "user": "GaryI",
+    "views": 519,
+    "w": 4526
+}

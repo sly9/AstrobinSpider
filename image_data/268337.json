@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 15,
+    "data_source": "UNSET",
+    "dec": "-13.788",
+    "description": "M16 lies from Earth around 6.000Light ears, is located on the Serpens Cauda Constelationn and it is described as an open cluster with nebulosity,\r\nThe star mass of the open cluster is thought to be about 20000 time the solar mass.\r\nThe apparent cluster size of 8' which correponds to 14 light years.\r\nThe open cluster is emmbedded in a gas cloud from which the cluster formed and the star forming is still going on.\r\nYoung hot stars ionizes the gas cloud making it to glow as a H2 region, cataloged as IC4703, which is nicknamed the Eagle Nebula or the Star Queen Nebula.\r\nThis region is well known due to the Pillars of Creation, just SE of the open cluster,  with an elephant trunks shape. The pillars are regions of dark molecular gas  and dust that are being eroded by intense radiation from the stars to their NW.  Stars in M-16 are thought to progress in age, from young in NE, around 1 million years, to older, with 3 million years, in SE, possibily because star fromation in this region was progressively triggered by an interaction starting on the south several million years ago with a giante molecular shell created early by suoernovae explosions. \r\nAlso the dark filaments can be seen lying on the Ha region.\r\n\r\nThe Image:\r\nStack: 6x 1200sec for ech channel of Ha S2 and O3\r\nScope: Skywatcher QuatroCF 10\" f/4\r\nCamera: SX-694 Trius\r\n\r\n==REV.2==\r\nThe target of this Revision was to get a more contrasty image. In addition a better denoise routine has been applied.",
+    "h": 2750,
+    "hash": null,
+    "id": 268337,
+    "imaging_cameras": [
+        "Starlight Xpress Trius SX-694 mono"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4 Carbon Fibre Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "56.968",
+    "pixscale": "0.940",
+    "published": "2016-10-15T18:39:01.955944",
+    "ra": "274.766",
+    "radius": "0.460",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268337/",
+    "revisions": [
+        "/api/v1/imagerevision/102448/",
+        "/api/v1/imagerevision/141150/"
+    ],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "The Eagle Nebula using the HST Pallet  ==REV-3==",
+    "updated": "2021-03-17T22:43:17.970827",
+    "uploaded": "2016-10-15T19:39:01.955944",
+    "url_duckduckgo": "https://www.astrobin.com/268337/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268337/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268337/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268337/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268337/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268337/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268337/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2566/2016/23d12880-7d3f-42b2-ad80-e0de84988ce5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2566/2016/23d12880-7d3f-42b2-ad80-e0de84988ce5-1582627796.jpg",
+    "url_thumb": "https://www.astrobin.com/268337/0/rawthumb/thumb/",
+    "user": "nandopg",
+    "views": 562,
+    "w": 2200
+}

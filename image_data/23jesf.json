@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "0.056",
+    "description": "M78 , 2-panel mosaic\r\n\r\nObject : M78\r\nDate : Oct.- Dec. 2019\r\nPlace : Gemini Remote Observatory, Lijiang, Yunnan, China\r\nTelescope : GSO RC10 /AP CCDT67\r\nMount : SkyWatcher EQ8\r\nCamera : SX-H694(-10ºC)\r\nFilter : Astrodon LRGB,Ha\r\nExposure : R:300sx18, G:300sx25, B:300sx24, L:300sx46 , Ha:1200sx12\r\n                     R:300sx23, G:300sx22, B:300sx28, L:300sx46 ,Ha:1200sx14\r\n                     panel 1 ~13.42hr , panel 2 ~14.58hr\r\nGuiding: OAG ASI174,\r\nProcessing: PI、PS-CC\r\n\r\nhttps://astro-noodle.blogspot.com/2019/12/m78.html?view=flipcard",
+    "h": 2065,
+    "hash": "23jesf",
+    "id": 443934,
+    "imaging_cameras": [
+        "Starlight Xpress SX-H694"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" f/8 RC GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "https://astro-noodle.blogspot.com/2019/12/m78.html?view=flipcard",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812007/"
+    ],
+    "orientation": "268.649",
+    "pixscale": "0.669",
+    "published": "2019-12-19T06:45:01.395695",
+    "ra": "86.664",
+    "radius": "0.488",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/443934/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M78 , 2 panel mosaic",
+    "updated": "2021-04-30T11:17:04.917111",
+    "uploaded": "2019-12-19T06:45:02.789713",
+    "url_duckduckgo": "https://www.astrobin.com/23jesf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/23jesf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/23jesf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/23jesf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/23jesf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/23jesf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/23jesf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1366/2020/3beffd8c-631a-4348-90f6-3fcb0cb597a9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1366/2020/3beffd8c-631a-4348-90f6-3fcb0cb597a9-1582285102.png",
+    "url_thumb": "https://www.astrobin.com/23jesf/0/rawthumb/thumb/",
+    "user": "noodle",
+    "views": 544,
+    "w": 4832
+}

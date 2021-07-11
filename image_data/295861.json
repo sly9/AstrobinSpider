@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "25.501",
+    "description": "",
+    "h": 2699,
+    "hash": null,
+    "id": 295861,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "88.232",
+    "pixscale": "0.589",
+    "published": "2017-05-16T17:44:08.422744",
+    "ra": "192.610",
+    "radius": "0.352",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295861/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4712",
+        "NGC 4725"
+    ],
+    "title": "NGC4725 LRGB+Ha",
+    "updated": "2021-03-17T20:55:21.909326",
+    "uploaded": "2017-05-16T18:44:09.674210",
+    "url_duckduckgo": "https://www.astrobin.com/295861/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295861/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295861/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295861/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295861/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295861/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295861/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/c9114d53-1b2e-4863-ae6b-bd38c4c4f7eb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c9114d53-1b2e-4863-ae6b-bd38c4c4f7eb-1494956904.jpg",
+    "url_thumb": "https://www.astrobin.com/295861/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 453,
+    "w": 3352
+}

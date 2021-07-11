@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 11,
+    "data_source": "OWN_REMOTE",
+    "dec": "-5.247",
+    "description": "The Orion Nebula is often the first object we shoot when starting deep sky astrophotography.  I think I've shot this with every set of equipment I've owned!   I had some data from two years ago that wasn't sufficient so I added more this year with the goal of going deep.   I wound up with 35.8 hours of usable primary data plus 3.25 hours on the core.  \r\n\r\nThe core is comprised of 120 second subs, all RGB as there was no need to shoot luminance when the object is too bright to start with.  I pulled two separate stretches from the core data to try and resolve the Triangulum as best as I could.  A round of shorter exposures is probably needed.  \r\n\r\nThe background is 17-18 hours per side and I pulled two separate stretches from each master.  One for the dimmer bits and one for the brighter parts.  \r\n\r\nLRGB masters were assembled in CCDStack.  The different stretches and the core were assembled using layers in Photoshop.  After joining the Mosaic in Photoshop, I took a 16bit master back to CCDStack for deconvolution and sharpening.  Then back to Photoshop for final processing.",
+    "h": 4048,
+    "hash": null,
+    "id": 378454,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "80.671",
+    "pixscale": "0.725",
+    "published": "2018-11-25T20:15:48.227205",
+    "ra": "83.811",
+    "radius": "0.827",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/378454/",
+    "revisions": [
+        "/api/v1/imagerevision/163167/",
+        "/api/v1/imagerevision/163184/",
+        "/api/v1/imagerevision/163584/",
+        "/api/v1/imagerevision/163587/",
+        "/api/v1/imagerevision/163708/"
+    ],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "M 43",
+        "NGC 1973",
+        "NGC 1975",
+        "NGC 1976",
+        "NGC 1977",
+        "NGC 1980",
+        "NGC 1982",
+        "The star 42Ori",
+        "The star 45Ori",
+        "The star θ1Ori",
+        "The star θ2Ori",
+        "The star ιOri"
+    ],
+    "title": "Deep look at M42 and SH2-279",
+    "updated": "2021-03-17T13:03:32.472207",
+    "uploaded": "2018-11-25T20:15:48.662947",
+    "url_duckduckgo": "https://www.astrobin.com/378454/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378454/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378454/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378454/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378454/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378454/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378454/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2018/7d1ca4fc-c564-4404-bd48-86378ceaf38c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7d1ca4fc-c564-4404-bd48-86378ceaf38c-1543177732.jpg",
+    "url_thumb": "https://www.astrobin.com/378454/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 532,
+    "w": 7152
+}

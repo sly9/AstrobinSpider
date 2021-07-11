@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 53,
+    "data_source": "BACKYARD",
+    "dec": "-13.207",
+    "description": "Thor's Helmet has always been one of my favorite deep sky objects (I mean, obviously - I studied Scandinavian Studies!). I had a lot of difficulty doing this one though. \r\n\r\nFirst off, it's just kind of low on the southern horizon - this is where I have the most light pollution and concrete, which makes for very poor seeing. My stars, in particular, came out a bit blurrier than I was hoping for. \r\n\r\nSecondly, I just couldn't get a decent hydrogen signal - my OIII came out significantly better than my Ha. I had to tone map the Ha and still didn't get the depth I was hoping for. I think a Chroma 5 nm Ha filter is definitely in my future.\r\n\r\nLastly and most importantly: This is the first image I've done with my replacement Newtonian and I have been having a bear of a time collimating it (even with a Glatter). I usually only have to collimate it when the weather changes since I don't really move it around, but I've taken it down 7 times since mid-January already to recollimate it, and I still can't get it right. It arrived with nearly every single screw loose, the focuser not completely attached and the secondary not even facing the focuser (one of the few screws that was tightened down). I was planning on taking it to <a href=https://www.skiesunlimited.com/>Skies Unlimited</a> and have their optician look at it, but I wasn't able to make the trip before the quarantine. I'm going to replace the screws for the focuser soon and give the mirror clips a more thorough look. This is actually the third version of this scope I've owned, and I've never had anywhere near this much trouble collimating it before, which makes me think that there's something fundamental wrong that I keep overlooking. I'll keep you posted!\r\n\r\nEdit: Previous two efforts from 2017 and 2016 can be found here:\r\nBicolor narrowband: <a href=https://www.astrobin.com/287479/>https://www.astrobin.com/287479/</a>\r\nOSC: <a href=https://www.astrobin.com/277070/>https://www.astrobin.com/277070/</a>",
+    "h": 3000,
+    "hash": "bup3h3",
+    "id": 468281,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific PN-208/812 Carbon Fiber OTA"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 241,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "94.777",
+    "pixscale": "0.888",
+    "published": "2020-03-24T17:58:48.121677",
+    "ra": "109.626",
+    "radius": "0.617",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/468281/",
+    "revisions": [
+        "/api/v1/imagerevision/234034/"
+    ],
+    "subjects": [
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet (NGC 2359)",
+    "updated": "2021-04-20T18:31:33.592670",
+    "uploaded": "2020-03-24T17:14:16.874818",
+    "url_duckduckgo": "https://www.astrobin.com/bup3h3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bup3h3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bup3h3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bup3h3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bup3h3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bup3h3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bup3h3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2020/e3210872-0570-4aaf-8045-b965fc646101.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2020/e3210872-0570-4aaf-8045-b965fc646101-1585072188.png",
+    "url_thumb": "https://www.astrobin.com/bup3h3/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 1093,
+    "w": 4000
+}

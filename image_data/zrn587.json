@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "60.156",
+    "description": "This is <a href=\"http://cdsportal.u-strasbg.fr/?target=NGC%206946\">NGC 6946</a>, so-called the <a href=\"https://en.wikipedia.org/wiki/NGC_6946\">Fireworks Galaxy</a> for its prodigious amount of supernovae (SN) that have been observed.  Between 1917 and 2017 there have been 10 SN observed, an average of one per decade.  In contrast, our Milky Way has about 1 per century.  It is also listed as Arp 29.  It is a barred spiral with inner, S-shaped ring.  It has a distance of about 5.5 - 7 Mpc, apparent size approximately 11.5' x 9.8'.  (Ref: <a href=\"https://www.willbell.com/HANDBOOK/Annals.html\">Kanipe and Webb, <i>Annals of the Deep Sky</i>, vol. 5</a>)\r\n\r\nNGC 6946 straddles the commonly-described boundary between the constellations Cygnus and Cepheus in an odd panhandle region of Cygnus.  The annotated image (Version D) shows this boundary, with Cygnus on the left (East) side of the image, Cepheus on the right (West).\r\n\r\nKanipe and Webb note the lack of a sizeable nucleus compared with other galaxies, and this can be seen in my image, where the nucleus is quite small but still easily distinguishable.  If my data is to be believed, I can discern a rather oblong nucleus, mostly in the red, with longer axis running diagonally from bottom left to upper right.\r\n\r\nI am impressed by the redness of the bright star to the lower left of the galaxy.  Stellarium lists this as magnitude 10 with color index B-V of 3.5, which is indeed quite high in the red color.  I also note that my newly installed Gaia DR2 catalog in Cares du Ciel lists it as magnitude G 8.6 and color index B-V 1.5.  My image, which by no means is presented with any scientific accurate rigor, seems to indicate the brighter magnitude of CdC but crazy red color of Stellarium.\r\n\r\nThe only two background galaxies that I could quickly find in the catalogs are to the lower right of NGC 6946, namely, from top to bottom, PGC2597826 and PGC2597233, as noted in CdC.  Unfortunately, I was not able to find links to these online.\r\n\r\nThis was imaged and processed in LRGB.  From wider field of view images, mine and others, I determined that there is not too much IFN present directly around this galaxy, despite there being a notable amount not too far afield from this image in all directions.  As such, I made no attempt to resolve any IFN and likely suppressed what little was present in my data into the background.\r\n\r\nI masked for just the galaxy detail for a Deconvolution step (in PixInsight) in the linear phase and a MultiscaleLinearTransform sharpening step in the non-linear phase.  I wished to protect the stars in both cases as I don't like how these steps can cause the stars to become flat disks.  For the stars I performed a MorphologicalTransform.\r\n\r\nA recurring and annoying result of using my Celestron 11\" EDGE is the smearing of bright, somewhat saturated stars.  I have received various suggestions as to what may be causing this form misalignment of optics to an unavoidable result of the corrector plate's design to misalignment of the imaging train from the scope.\r\n\r\nIn addition to the smearing, one can also see a collection of diffraction spikes with the brightest stars, and I believe this is a compounded issue with the presence of my Optec Secondary Mirror Focusing System.  I have a cable the runs across the aperture.  This is attached to a thin, rigid wire that I have formed into a semicircle to minimize diffraction spikes, but I need to check if it may have kinks, pieces of tape sticking out, etc.  The spikes only seem to show up with the smeared out saturated stars.  I also have noticed just how filthy my corrector plate is, in dire need of cleaning.\r\n\r\nThe Original version shows a fuller field of view of this scope and camera combination (with a small amount of cropping around the edges).  The Final Version has more cropping to display the galaxy a bit larger in the field.  All the other versions are based off the original.\r\n\r\nI was pleased to have acquired a decent amount of integration time for a change.  <b>I hope you enjoy, and as always your comments and suggestions would be greatly appreciated.</b>",
+    "h": 3400,
+    "hash": "zrn587",
+    "id": 430358,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Celestron 11\" EdgeHD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 174,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "359.904",
+    "pixscale": "0.442",
+    "published": "2019-10-04T22:03:22.771189",
+    "ra": "308.721",
+    "radius": "0.337",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/430358/",
+    "revisions": [
+        "/api/v1/imagerevision/194901/",
+        "/api/v1/imagerevision/194902/",
+        "/api/v1/imagerevision/194903/",
+        "/api/v1/imagerevision/194904/"
+    ],
+    "subjects": [
+        "NGC 6946",
+        "NGC6946"
+    ],
+    "title": "NGC 6946 Fireworks Galaxy (Cyg/Cep) in LRGB",
+    "updated": "2021-06-06T02:52:33.553220",
+    "uploaded": "2019-09-30T02:32:45.468906",
+    "url_duckduckgo": "https://www.astrobin.com/zrn587/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zrn587/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zrn587/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zrn587/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zrn587/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zrn587/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zrn587/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7533/2020/458fa687-296e-4600-8ae7-aaa2a9727b65.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7533/2020/458fa687-296e-4600-8ae7-aaa2a9727b65-1582643886.jpg",
+    "url_thumb": "https://www.astrobin.com/zrn587/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 491,
+    "w": 4300
+}

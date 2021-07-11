@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "61.421",
+    "description": "This is a tight crop from the full FOV, edited separately.",
+    "h": 1608,
+    "hash": "adhzvp",
+    "id": 542801,
+    "imaging_cameras": [
+        "ZWO ASI 294MM Pro monochrome"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 8 HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2813841/"
+    ],
+    "orientation": "332.535",
+    "pixscale": "0.647",
+    "published": "2020-11-19T21:30:50.304112",
+    "ra": "38.352",
+    "radius": "0.210",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/542801/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Melotte 15 in IC 1805",
+    "updated": "2021-02-20T15:36:55.864314",
+    "uploaded": "2020-11-19T21:24:56.515610",
+    "url_duckduckgo": "https://www.astrobin.com/adhzvp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/adhzvp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/adhzvp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/adhzvp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/adhzvp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/adhzvp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/adhzvp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/68818/2020/2edf2a93-778d-450b-88ee-09367efe028b.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/68818/2020/2edf2a93-778d-450b-88ee-09367efe028b-1605821462.png",
+    "url_thumb": "https://www.astrobin.com/adhzvp/0/rawthumb/thumb/",
+    "user": "chadleader",
+    "views": 389,
+    "w": 1692
+}

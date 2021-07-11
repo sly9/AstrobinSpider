@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-16.385",
+    "description": "HaRGB:\r\n\r\nHa = 10 x 1800\"\r\nR = 16 x 900\"\r\nG = 15 x 900\"\r\nB = 13 x 900\"",
+    "h": 1373,
+    "hash": null,
+    "id": 302141,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806674/"
+    ],
+    "orientation": "0.043",
+    "pixscale": "2.095",
+    "published": "2017-07-04T22:58:39.550776",
+    "ra": "274.704",
+    "radius": "1.212",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302141/",
+    "revisions": [],
+    "subjects": [
+        "IC 4701",
+        "M 17",
+        "M 18",
+        "NGC 6613",
+        "NGC 6618",
+        "Omega nebula",
+        "Other"
+    ],
+    "title": "M17 - Swan Nebula @ DeepSkyWest",
+    "updated": "2021-03-17T20:31:02.345843",
+    "uploaded": "2017-07-04T23:58:40.617906",
+    "url_duckduckgo": "https://www.astrobin.com/302141/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302141/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302141/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302141/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302141/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302141/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302141/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/7a44efcc-0aca-4246-b5b8-7b9fd507ed52.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7a44efcc-0aca-4246-b5b8-7b9fd507ed52-1499214742.jpg",
+    "url_thumb": "https://www.astrobin.com/302141/0/rawthumb/thumb/",
+    "user": "pullaqua",
+    "views": 50,
+    "w": 1824
+}

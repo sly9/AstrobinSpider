@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "22.088",
+    "description": "This is an interesting area with a variety of galaxy shapes, but it is not a great image. There were thin high clouds that caused horrible gradients and caused the star spikes to seemingly go on forever. I used PixInsight and DBE'ed this to death, but a few gradients refused to come out completely. Also, the framing isn't great - it could use a bit of camera rotation. I like this field enough that I plan on revisiting it sometime in the future.",
+    "h": 2427,
+    "hash": null,
+    "id": 390749,
+    "imaging_cameras": [
+        "QSI 583WSG"
+    ],
+    "imaging_telescopes": [
+        "AstroTech AT10RC"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806904/"
+    ],
+    "orientation": "270.362",
+    "pixscale": "0.795",
+    "published": "2019-02-14T04:30:58.245655",
+    "ra": "27.581",
+    "radius": "0.446",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/390749/",
+    "revisions": [],
+    "subjects": [
+        "IC 167",
+        "NGC 678",
+        "NGC 680",
+        "NGC 691",
+        "NGC 694",
+        "NGC 697",
+        "The star 1Ari"
+    ],
+    "title": "NGC 678, 680, 691, 697, and IC 167",
+    "updated": "2021-05-02T10:25:22.176532",
+    "uploaded": "2019-02-14T04:15:59.766136",
+    "url_duckduckgo": "https://www.astrobin.com/390749/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390749/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390749/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390749/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390749/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390749/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390749/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17970/2019/1ba56c4f-57de-41ff-939f-7f58d9988988.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17970/2019/1ba56c4f-57de-41ff-939f-7f58d9988988-1582424741.jpg",
+    "url_thumb": "https://www.astrobin.com/390749/0/rawthumb/thumb/",
+    "user": "DaveB",
+    "views": 508,
+    "w": 3231
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "15.699",
+    "description": "Sh 2-261 is a faint emission nebula located in the constellation Orion. It is named after Harold and Charles Lower - father and son amateur astronomers who captured the nebula on a photographic plate in 1939. It is thought to be some 530 light years from Earth.\r\n\r\nThis is a combination of data acquired from remote imaging facilities in New Mexico (Deep Sky West) and Extremadura in Spain (e-EyE).  The DSW data were captured over several nights between 3 October and 20 November 2017.  The Spanish rig is jointly owned and operated with Barry Wilson.  Data from Spain were collected between 30 November 2017 and 4 April 2018.\r\n\r\nThis is an SHO (Hubble Palette) image:\r\n\r\nHa (DSW): 21 x 1800s\r\nHa (e-EyE): 21 x 1200s\r\n\r\nOIII (DSW): 12 x 1800s\r\nOIII (e-EyE): 19 x 1200s\r\n\r\nSII (DSW): 14 x 1800s\r\nSII (e-EyE): 19 x 1200s\r\n\r\nA total of  43.2 hours exposure.",
+    "h": 2068,
+    "hash": null,
+    "id": 341114,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 87,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/",
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "358.149",
+    "pixscale": "2.094",
+    "published": "2018-04-10T08:29:59.024311",
+    "ra": "92.350",
+    "radius": "0.914",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341114/",
+    "revisions": [
+        "/api/v1/imagerevision/142209/"
+    ],
+    "subjects": [
+        "The star 69Ori"
+    ],
+    "title": "Sharpless 2-261 from New Mexico and Extremadura (Hubble Palette)",
+    "updated": "2021-03-17T15:55:51.043470",
+    "uploaded": "2018-04-10T09:30:00.831425",
+    "url_duckduckgo": "https://www.astrobin.com/341114/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341114/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341114/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341114/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341114/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341114/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341114/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/eaac446d-cf92-4242-8a58-c9027f9080ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/eaac446d-cf92-4242-8a58-c9027f9080ff-1582606073.jpg",
+    "url_thumb": "https://www.astrobin.com/341114/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 305,
+    "w": 2366
+}

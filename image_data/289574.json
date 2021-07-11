@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-29.868",
+    "description": "This is 5 hour LRGB (120:60:60:60) capture of M83 from Perth, Western Australia. A magnificent object visually, at mag 8 it is bright enough to image through the light pollution of a city of 2 million people.",
+    "h": 4908,
+    "hash": null,
+    "id": 289574,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Meade Starfinder 10\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799640/"
+    ],
+    "orientation": "8.866",
+    "pixscale": "0.275",
+    "published": "2017-04-01T06:36:16.628834",
+    "ra": "204.252",
+    "radius": "0.311",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/289574/",
+    "revisions": [
+        "/api/v1/imagerevision/113506/"
+    ],
+    "subjects": [
+        "M 83",
+        "NGC 5236"
+    ],
+    "title": "M83: The southern pinwheel.",
+    "updated": "2021-04-10T13:41:49.497791",
+    "uploaded": "2017-04-01T07:36:17.725246",
+    "url_duckduckgo": "https://www.astrobin.com/289574/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/289574/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/289574/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/289574/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/289574/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/289574/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/289574/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1473/2017/d2e86b61-d020-456c-bf7c-5d35ac307865.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1473/2017/d2e86b61-d020-456c-bf7c-5d35ac307865-1582495550.jpg",
+    "url_thumb": "https://www.astrobin.com/289574/0/rawthumb/thumb/",
+    "user": "alocky",
+    "views": 422,
+    "w": 6520
+}

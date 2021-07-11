@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "26.327",
+    "description": "<p>LBN777 - The Happy lil' Ghost Nebula</p>\r\n\r\n<p>I first came across this target when imaging the dusty region between the Taurus Dark Molecular Cloud and the Pleiades with my 135mm camera lens in early 2019.  I immediately saw what looked like a hybrid of the \"Pacman\" character of the late arcade game and one of the ghost within the game.  To me it looks like a ghost-like pacman lurching forward mouth-open to consume that bright shiny yellow star.   I have yet to process that widefield image to my satisfaction, but set a goal for myself late this season to try and capture it with my  8in Newt. Despite the large amount of integration time, I felt that it still just isn't enough to do it justice. There were after a number of false starts processing this data, but nontheless was a pleasure to work on this data seeing all of the wisps of dust in the lower right corner, and the small yet prominant galaxies throughout the field.  The brightest star has what appeared to be some sort of reflection or halo going on, but turns out this is a real structure as it shows up in almost all images I've been able to find of this target.  But here it is, I have finally reached a version I am fairly happy with and hope you do too.   Constructive Criticism is highly encouraged as I hope to continue to improve my processing abilities.   I have also acquired more widefield data of this region, and it's on my processing check-list.  Perhaps with the recent decrees to \"stay home\" as people are reacting to the outbreak of COVID-19 I'll finally get to put a dent into my processing backlog.</p>\r\n\r\n<p>Equipment:</p>\r\n\r\n<ul>\r\n<li><p>Orion 8in F4.9 1000mm Newtonian Reflector</p>\r\n\r\n<ul>\r\n<li>Flocked / Primary mirror replaced due to turned-down-edge</li></ul></li>\r\n\r\n<li><p>Skywatcher F4 Aplanatic Coma Corrector</p></li>\r\n\r\n<li><p>Astrodon I Series L, R, G, B  broadband filters</p></li>\r\n\r\n<li><p>ASI183mm Pro cooled to -15C</p></li>\r\n\r\n<li><p>Celestron CGEM Mount</p>\r\n\r\n<ul>\r\n<li><p>Self tuned / hacks to get guiding stable include:</p>\r\n\r\n<ul>\r\n<li><p>Intentional offset polar alignment so dec always pulses in one direction</p></li>\r\n\r\n<li><p>Balance \"west\" heavy (rather than the recommended east) so that the ota \"falls\" onto the gear teeth rather than get \"lifted\"</p></li>\r\n\r\n<li><p>Factor Reset hand-controller daily (to prevent cgem from being possessed and forgetting where the meridian is on subsequent night)</p></li>\r\n\r\n<li><p>Dither in RA only</p></li></ul></li></ul></li>\r\n</ul>\r\n\r\n<p>Acquisition Details:</p>\r\n\r\n<ul>\r\n<li><p>Images captured using <a href=\"https://nighttime-imaging.eu\">N.I.N.A</a></p></li>\r\n\r\n<li><p>Red: 80x2min (+8 rejected)</p></li>\r\n\r\n<li><p>Green: 69x2min (+17 rejected)</p></li>\r\n\r\n<li><p>Blue: 73x2min (+11 rejected)</p></li>\r\n\r\n<li><p>Lum: 300x2min (+57 rejected)</p></li>\r\n\r\n<li><p>Lum: 26x4min (none rejected)</p></li>\r\n</ul>\r\n\r\n<p>Total Integration Time: 19 hours 08 minutes</p>\r\n\r\n<p>Imaging Dates: Data Captured over 9 Nights in late November and December 2019\r\n    2019-11-01 2019-11-02 2019-11-03\r\n    2019-11-20 2019-11-24 2019-11-25\r\n    2019-12-24 2019-12-25 2019-12-30</p>\r\n\r\n<p>The resulting image is a combination of the following steps:</p>\r\n\r\n<ul>\r\n<li><p>Inspected all 610 subs for bad images with Blink after each session, discarding those with clouds, or trailing stars from poor stars. </p></li>\r\n\r\n<li><p>Calibrated all subs with their corresponding master flat and master dark</p></li>\r\n\r\n<li><p>Used subframe selector to weight all remaining subs together using the following formula:</p></li>\r\n</ul>\r\n\r\n<pre><code class=\"C language-C\">(15*(1-(FWHM-FWHMMin)/(FWHMMax-FWHMMin))\r\n\r\n+ 25*(1-(Eccentricity-EccentricityMin)/(EccentricityMax-EccentricityMin))\r\n\r\n+ 15*(SNRWeight-SNRWeightMin)/(SNRWeightMax-SNRWeightMin)\r\n\r\n+ 20*(1-(Median-MedianMin)/(MedianMax-MedianMin))\r\n\r\n+ 10*(Stars-StarsMin)/(StarsMax-StarsMin))\r\n\r\n+ 25\r\n</code></pre>\r\n\r\n<ul>\r\n<li><p>Selected the best sub from subframe and blink to use as a reference frame in stacking</p></li>\r\n\r\n<li><p>Created a super luminance by integrating all remaining 548 frames together</p></li>\r\n\r\n<li><p>Integrated all Red frames together, Blue frames together and Green frames together to create masters for each color</p></li>\r\n\r\n<li><p>Cropped the stacking edges of the integrated masters</p></li>\r\n\r\n<li><p>Combined the Red, Green and Blue masters to create a color RGB image</p></li>\r\n</ul>\r\n\r\n<p>Superluminance Processing:</p>\r\n\r\n<ul>\r\n<li><p>Automatic Background Extractor</p>\r\n\r\n<ul>\r\n<li>Function degree 1 with normalization</li></ul></li>\r\n\r\n<li><p>Independently produce a noise reduced image and a sharpened image </p>\r\n\r\n<ul>\r\n<li><p>Two rounds of Noise Reduction was done using TGV Denoise with a low contrast mask and an autostretched local support (First round with very strong edge protection, second round with very weak edge protection but very small strength)</p></li>\r\n\r\n<li><p>Deconvolution was done on a separate copy of the luminance with</p>\r\n\r\n<ul>\r\n<li><p>No deringing</p></li>\r\n\r\n<li><p>wavelet regularization with 5 layers and strong but reducing amounts/thresholds</p></li>\r\n\r\n<li><p>A starmask was created from the Noise Reduction copy to replace the stars with the origional superluminance, eliminating the ringing artifacts from deconvolution as similarly <a href=\"https://www.youtube.com/watch?v=R4bK_InTGWI\">documented</a>  by <a href=\"https://www.reddit.com/user/OkeWoke/\">/u/OkeWoke</a></p></li></ul></li></ul></li>\r\n\r\n<li><p>The noise reduced copy and the sharpened copy were combined using a luminance-based mask where the high-signal areas were filled in from the deconvolution copy and the low-signal areas were filled in from the noise reduction copy:\r\n<code>Decon*CombineMask+NR*~CombineMask</code></p></li>\r\n\r\n<li><p>Masked Stretch was used with no clipping and a background reference created from 4 preview windows and the Preview Aggregator script. Histogram Transformation was used to bring the tail of the blacks in without clipping and perform additional lifting of the nebulosity..</p></li>\r\n\r\n<li><p>Local Histogram Equalization was used to enhance the larger structures</p></li>\r\n\r\n<li><p>The overall impact of the stars were reduced and star cores were shaped with two rounds of Morphological Transformation and a contours based mask created by subtracting the resulting image from an expanded starmask.</p></li>\r\n</ul>\r\n\r\n<p>RGB Processing:</p>\r\n\r\n<ul>\r\n<li><p>Automatic Background Extractor</p>\r\n\r\n<ul>\r\n<li>Function degree 1 with normalization</li></ul></li>\r\n\r\n<li><p>Background Neutralization using 5 preview windows and the Preview Aggregator script as the background reference</p></li>\r\n\r\n<li><p>Color Calibration using Photometric Color Calibration using the Average Spiral Galaxy as the white reference</p></li>\r\n\r\n<li><p>Noise Reduction using TGV Denoise with a low contrast mask and an autostretched local support targetting luminance and chrominance</p></li>\r\n\r\n<li><p>Noise Reduction using MMT with a very protective luminance mask targetting luminance and chrominance</p></li>\r\n\r\n<li><p>Repair the saturated star cores with the HSV Repaired Separation script</p></li>\r\n\r\n<li><p>Arcsinh Stretch and Histogram Stretch to bring to non-linear</p></li>\r\n\r\n<li><p>SCNR Green on the background with a luminance mask</p></li>\r\n\r\n<li><p>Additional curves transformation to increase overall color saturation</p></li>\r\n</ul>\r\n\r\n<p>Final Steps:</p>\r\n\r\n<ul>\r\n<li><p>The super luminance and the RGB image were then combined using the Channel Combination tool in CIE L*A*B mode to apply the Super Luminance to the RGB image</p></li>\r\n\r\n<li><p>Curves Transformation to increase contrast and colors throughout the field</p></li>\r\n\r\n<li><p>Final round of noise reduction with MLT to target the remaining small scale chrominance noise</p></li>\r\n\r\n<li><p>ICC Color Profile was added and the image saved as PNG for viewing on the internet</p></li>\r\n</ul>",
+    "h": 3147,
+    "hash": "6rvlbp",
+    "id": 465406,
+    "imaging_cameras": [
+        "ZWO ASI183MM-pro"
+    ],
+    "imaging_telescopes": [
+        "Orion 203/1000 f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "273.769",
+    "pixscale": "0.498",
+    "published": "2020-03-15T01:48:16.566783",
+    "ra": "61.096",
+    "radius": "0.422",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/465406/",
+    "revisions": [
+        "/api/v1/imagerevision/219195/"
+    ],
+    "subjects": [
+        "B207"
+    ],
+    "title": "LBN777 - Happy Lil' Ghost Nebula",
+    "updated": "2021-05-07T06:24:34.791210",
+    "uploaded": "2020-03-15T01:48:16.815772",
+    "url_duckduckgo": "https://www.astrobin.com/6rvlbp/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6rvlbp/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6rvlbp/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6rvlbp/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6rvlbp/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6rvlbp/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6rvlbp/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25575/2020/ad289b49-9aeb-430b-b027-f4edc7252b36.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25575/2020/ad289b49-9aeb-430b-b027-f4edc7252b36-1584237136.jpg",
+    "url_thumb": "https://www.astrobin.com/6rvlbp/0/rawthumb/thumb/",
+    "user": "eigenVector",
+    "views": 394,
+    "w": 5226
+}

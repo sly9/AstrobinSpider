@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "40.365",
+    "description": "(LHa)(RHa)GB rendition",
+    "h": 4096,
+    "hash": null,
+    "id": 408615,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.483",
+    "pixscale": "1.235",
+    "published": "2019-06-03T21:18:16.593422",
+    "ra": "305.935",
+    "radius": "0.993",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/408615/",
+    "revisions": [],
+    "subjects": [
+        "IC 1318",
+        "NGC 6910",
+        "The star Sadr (γCyg)",
+        "gamma Cyg nebula"
+    ],
+    "title": "Sadr region",
+    "updated": "2021-03-17T10:44:14.065923",
+    "uploaded": "2019-06-03T22:18:16.691603",
+    "url_duckduckgo": "https://www.astrobin.com/408615/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408615/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408615/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408615/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408615/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408615/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408615/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2020/e2b01285-4708-499b-81b5-56ab844cc723.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7344/2020/e2b01285-4708-499b-81b5-56ab844cc723-1582639007.jpg",
+    "url_thumb": "https://www.astrobin.com/408615/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 227,
+    "w": 4096
+}

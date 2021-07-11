@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-24.140",
+    "description": "Mesier 8 - the Lagoon Nebula - is an interstellar cloud around 4100 light years away in the constellation Sagittarius.\r\n\r\nThis is HaLRGB data from Deep Sky West in new Mexico.  Data were captured between April and June 2017.  The 'capture date' shown is the final date on which subs were obtained. ",
+    "h": 1429,
+    "hash": null,
+    "id": 299163,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "359.842",
+    "pixscale": "3.587",
+    "published": "2017-06-11T10:26:33.094512",
+    "ra": "271.734",
+    "radius": "1.193",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299163/",
+    "revisions": [
+        "/api/v1/imagerevision/118361/",
+        "/api/v1/imagerevision/118378/",
+        "/api/v1/imagerevision/118380/",
+        "/api/v1/imagerevision/118479/",
+        "/api/v1/imagerevision/136604/"
+    ],
+    "subjects": [
+        "Hourglass nebula",
+        "IC 1274",
+        "IC 1275",
+        "IC 4684",
+        "IC 4685",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "NGC 6559",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 - The Lagoon Nebula in Sagittarius",
+    "updated": "2021-05-20T12:29:57.056888",
+    "uploaded": "2017-06-11T11:26:34.358043",
+    "url_duckduckgo": "https://www.astrobin.com/299163/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299163/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299163/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299163/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299163/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299163/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299163/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2017/178b5076-0be6-430a-96ee-c2a9856c9dc2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2017/178b5076-0be6-430a-96ee-c2a9856c9dc2-1582606304.jpg",
+    "url_thumb": "https://www.astrobin.com/299163/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 257,
+    "w": 1920
+}

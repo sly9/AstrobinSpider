@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "21.853",
+    "description": "",
+    "h": 600,
+    "hash": null,
+    "id": 296219,
+    "imaging_cameras": [
+        "QSI 683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 22,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806753/"
+    ],
+    "orientation": "-90.512",
+    "pixscale": "2.097",
+    "published": "2017-05-20T13:25:52.495853",
+    "ra": "154.500",
+    "radius": "0.315",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/296219/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3190",
+        "NGC 3193"
+    ],
+    "title": "NGC 3189 - DSW",
+    "updated": "2021-03-17T20:53:57.887515",
+    "uploaded": "2017-05-20T14:21:55.612912",
+    "url_duckduckgo": "https://www.astrobin.com/296219/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/296219/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/296219/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/296219/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/296219/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/296219/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/296219/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/d1499825-4268-4bc3-8c96-ceea98d45c58.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/d1499825-4268-4bc3-8c96-ceea98d45c58-1495286703.png",
+    "url_thumb": "https://www.astrobin.com/296219/0/rawthumb/thumb/",
+    "user": "jshortt",
+    "views": 146,
+    "w": 900
+}

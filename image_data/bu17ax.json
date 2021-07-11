@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 13,
+    "data_source": "BACKYARD",
+    "dec": "61.063",
+    "description": "",
+    "h": 4124,
+    "hash": "bu17ax",
+    "id": 443481,
+    "imaging_cameras": [
+        "QSI 6120WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808334/"
+    ],
+    "orientation": "180.741",
+    "pixscale": "1.201",
+    "published": "2019-12-15T20:10:04.310047",
+    "ra": "14.889",
+    "radius": "0.833",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/443481/",
+    "revisions": [],
+    "subjects": [
+        "27 gam Cas",
+        "IC 59",
+        "IC 63",
+        "IC59",
+        "IC63",
+        "Sh2-185",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "IC63 - Ghost of Cassiopeia",
+    "updated": "2021-03-17T06:02:33.591240",
+    "uploaded": "2019-12-15T14:28:58.802104",
+    "url_duckduckgo": "https://www.astrobin.com/bu17ax/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bu17ax/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bu17ax/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bu17ax/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bu17ax/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bu17ax/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bu17ax/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24166/2020/8dbfe2ef-d785-4d23-8b86-abe38d48d1fd.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24166/2020/8dbfe2ef-d785-4d23-8b86-abe38d48d1fd-1582285800.png",
+    "url_thumb": "https://www.astrobin.com/bu17ax/0/rawthumb/thumb/",
+    "user": "mikko.viljamaa@gmail.com",
+    "views": 496,
+    "w": 2808
+}

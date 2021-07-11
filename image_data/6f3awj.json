@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 26,
+    "data_source": "OWN_REMOTE",
+    "dec": "33.410",
+    "description": "A composite image produced from recent Ha data from the TEC 140 scope and older SII and OIII data from the FSQ106.  Steve and I imaged a handful of Ha frames recently on the Tadpoles as a holding target until our intended project target had sufficient altitude to image.  We therefore only gathered 13 x 1200s subs and I don't think we'll manage any more this year.  Looking at these Ha subs, I thought it would be fun to process the image by aligning our older December 2017 FSQ106 data (21 x 1200s each NB channel for the SII and OIII).  The resultant image doesn't stand too much close pixel peeping (and if/when we do gather more data on the TEC140 it will be a delight) but it was fun and I have allowed myself to play with a rich palette.\r\n\r\nFrom APOD: \"This telescopic close-up shows off the otherwise faint emission nebula IC 410. It also features two remarkable inhabitants of the cosmic pond of gas and dust below and left of center, the tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. Composed of denser cooler gas and dust, the tadpoles are around 10 light-years long and are likely sites of ongoing star formation. Sculpted by winds and radiation from the cluster stars, their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central region. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.\"\r\n\r\nData acquisition: Barry Wilson & Steve Milne\r\nProcessing: Barry Wilson",
+    "h": 2712,
+    "hash": "6f3awj",
+    "id": 465546,
+    "imaging_cameras": [
+        "QSI683wsg",
+        "QSI 690 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "TEC 140",
+        "Takahashi FSQ-106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 254,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808118/"
+    ],
+    "orientation": "89.841",
+    "pixscale": "0.743",
+    "published": "2020-03-15T17:06:20.189056",
+    "ra": "80.628",
+    "radius": "0.448",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/465546/",
+    "revisions": [],
+    "subjects": [
+        "IC410",
+        "NGC 1893",
+        "NGC1893",
+        "Sh2-236"
+    ],
+    "title": "IC 410 The Tadpoles",
+    "updated": "2021-06-16T10:23:00.083606",
+    "uploaded": "2020-03-15T17:06:20.343036",
+    "url_duckduckgo": "https://www.astrobin.com/6f3awj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6f3awj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6f3awj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6f3awj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6f3awj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6f3awj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6f3awj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5519/2020/b67abb50-ec73-4187-a6d5-15712806edd7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5519/2020/b67abb50-ec73-4187-a6d5-15712806edd7-1585422470.jpg",
+    "url_thumb": "https://www.astrobin.com/6f3awj/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 506,
+    "w": 3388
+}

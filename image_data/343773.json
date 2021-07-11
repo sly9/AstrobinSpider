@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 11,
+    "data_source": "UNSET",
+    "dec": "47.309",
+    "description": "Messier 106 is a barred galaxy that is approximately 24 million light years distant in the constellation of Canes Venatici.  \r\n\r\nThis was imaged from my home observatory in the UK between 15 February and 23 April 2018.  Despite devoting over two months to the object, the usual weather meant that I got considerably less data than I had hoped for, especially in the Ha.  Nevertheless, I decided it was time to move on.  I may return at some point in the future.\r\n\r\nSo, for the time being, this is:\r\n\r\nLum: 37 x 600s\r\nRed: 13 x 600s\r\nGreen: 12 x 600s\r\nBlue: 13 x 600s\r\nHa: 8 x 1200s\r\n\r\nA total of 15.2 hours exposure.",
+    "h": 2640,
+    "hash": null,
+    "id": 343773,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TEC-140"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 164,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808074/"
+    ],
+    "orientation": "89.329",
+    "pixscale": "0.743",
+    "published": "2018-04-25T14:00:34.367239",
+    "ra": "184.738",
+    "radius": "0.438",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/343773/",
+    "revisions": [
+        "/api/v1/imagerevision/143431/",
+        "/api/v1/imagerevision/143520/",
+        "/api/v1/imagerevision/143591/",
+        "/api/v1/imagerevision/170891/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "Messier 106 - HaLRGB from the UK",
+    "updated": "2021-06-01T21:36:59.926996",
+    "uploaded": "2018-04-25T15:00:36.217300",
+    "url_duckduckgo": "https://www.astrobin.com/343773/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/343773/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/343773/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/343773/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/343773/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/343773/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/343773/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/128998a7-c2ad-455b-b1d3-378f22c9b9ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/128998a7-c2ad-455b-b1d3-378f22c9b9ff-1582606067.jpg",
+    "url_thumb": "https://www.astrobin.com/343773/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 634,
+    "w": 3324
+}

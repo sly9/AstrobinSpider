@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "31.404",
+    "description": "I only used the RGB filters for this image.  L was derived from the RGB image.\r\n\r\nThe Veil Nebula is a cloud of heated and ionized gas and dust in the constellation Cygnus. It constitutes the visible portions of the Cygnus Loop, a large but relatively faint supernova remnant. The source supernova exploded circa 3,000 BC to 6,000 BC, and the remnants have since expanded to cover an area roughly 3 degrees in diameter (about 6 times the diameter, or 36 times the area, of the full moon). The distance to the nebula is not precisely known, but Far Ultraviolet Spectroscopic Explorer (FUSE) data supports a distance of about 1,470 light-years.\r\n\r\nThe Hubble Space Telescope captured several images of the nebula. The analysis of the emissions from the nebula indicate the presence of oxygen, sulfur, and hydrogen. This is also one of the largest, brightest features in the x-ray sky.\r\n\r\nThe nebula was discovered on 1784 September 5 by William Herschel. (Wikipedia)",
+    "h": 2808,
+    "hash": null,
+    "id": 320488,
+    "imaging_cameras": [
+        "ZWOASI1600M-C"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "89.329",
+    "pixscale": "1.181",
+    "published": "2017-11-08T13:51:33.543403",
+    "ra": "314.058",
+    "radius": "0.831",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320488/",
+    "revisions": [
+        "/api/v1/imagerevision/132151/"
+    ],
+    "subjects": [
+        "IC 1340",
+        "IC1340",
+        "NGC 6992",
+        "NGC 6995",
+        "NGC6992",
+        "NGC6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "NGC6992 Veil Nebula",
+    "updated": "2021-03-17T19:17:13.689392",
+    "uploaded": "2017-11-06T19:55:23.803369",
+    "url_duckduckgo": "https://www.astrobin.com/320488/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320488/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320488/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320488/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320488/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320488/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320488/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2017/f5f0f37f-927b-4807-8eea-fba0c0a3e107.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2017/f5f0f37f-927b-4807-8eea-fba0c0a3e107-1582591050.jpg",
+    "url_thumb": "https://www.astrobin.com/320488/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 274,
+    "w": 4220
+}

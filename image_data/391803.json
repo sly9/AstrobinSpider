@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 12,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "9.817",
+    "description": "Les nébuleuses de la \"Fourrure de renard\" et du \"Cône\". \r\n\r\nTraitement réalisé dans le cadre du Astrophotography Processing Competition de février 2019 organisé par Chilescope.\r\n\r\nAcquisitions réalisées par Chilescope et mises à la disposition des participants pour le concours.  Merci à Chilescope pour nous permettre de traiter de telles images ! :)\r\n\r\nEn remote au Chili (Chilescope - www.chilescope.com)\r\n\r\n-----------------------\r\n\r\nFox Fur & Cone nebulae in Monoceros. \r\n\r\nProcessing made for the Chilescope Astrophotography Processing Competition of Feb. 2019.\r\n\r\nRaw files acquisition by Chilescope and graciously made avalaible to the contest participants. Many Thanks to Chilescope for allowing us to process such images ! :)\r\n\r\nRemote acquisition from Chile (Chilescope - www.chilescope.com).\r\n\r\n------------------------------------------------\r\n\r\nChilescope - Telescopes 2 & 3\r\nNewton ASA 500mm f/3.6 \r\nASA DDM85\r\nCCD FLI Proline16803\r\n\r\nL: 60x600s bin1\r\nHa : 35x1200s bin1\r\nR : 26x300s bin2\r\nG : 23x300s bin2\r\nB : 26x300s bin2\r\nTotal : 28h\r\n\r\nProcessed with Pixinsight & Photoshop",
+    "h": 4029,
+    "hash": null,
+    "id": 391803,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 20\" Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809201/"
+    ],
+    "orientation": "89.682",
+    "pixscale": "0.962",
+    "published": "2019-02-19T21:14:14.319201",
+    "ra": "100.238",
+    "radius": "0.761",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/391803/",
+    "revisions": [],
+    "subjects": [
+        "15 S Mon",
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "Sh2-273",
+        "The star 15Mon"
+    ],
+    "title": "NGC 2264 - Cone & Fox Fur Nebulae (Chilescope processing competition)",
+    "updated": "2021-05-25T20:58:41.310393",
+    "uploaded": "2019-02-19T20:47:11.879314",
+    "url_duckduckgo": "https://www.astrobin.com/391803/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391803/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391803/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391803/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391803/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391803/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391803/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2200/2019/9ddbfb42-d5c8-441d-ad20-02b8a979ae49.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2200/2019/9ddbfb42-d5c8-441d-ad20-02b8a979ae49-1582526346.png",
+    "url_thumb": "https://www.astrobin.com/391803/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 505,
+    "w": 4027
+}

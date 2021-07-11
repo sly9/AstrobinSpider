@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "27.213",
+    "description": "This is a new processing of my TMC data. This dataset used superpixels in DSS to get less noise in the final image. I managed much better to get the clouds out of the background. ",
+    "h": 1295,
+    "hash": null,
+    "id": 274815,
+    "imaging_cameras": [
+        "Sony A6000"
+    ],
+    "imaging_telescopes": [
+        "Samyang 135mm f/2 ED UMC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "89.806",
+    "pixscale": "16.271",
+    "published": "2016-12-04T19:13:25.944919",
+    "ra": "64.343",
+    "radius": "5.384",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/274815/",
+    "revisions": [
+        "/api/v1/imagerevision/105394/",
+        "/api/v1/imagerevision/105467/"
+    ],
+    "subjects": [
+        "IC 359",
+        "IC 360",
+        "The star 41Tau",
+        "The star 44Tau",
+        "The star 72Tau",
+        "The star υTau",
+        "The star φTau",
+        "The star χTau",
+        "The star ψTau"
+    ],
+    "title": "Part of Taurus Molecular Cloud (TMC), reprocess",
+    "updated": "2021-06-26T02:14:54.984163",
+    "uploaded": "2016-12-04T19:13:26.660095",
+    "url_duckduckgo": "https://www.astrobin.com/274815/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/274815/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/274815/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/274815/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/274815/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/274815/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/274815/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12876/2016/ca37678a-1e90-4388-859c-ee9f34444917.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/12876/2016/ca37678a-1e90-4388-859c-ee9f34444917-1582447007.jpg",
+    "url_thumb": "https://www.astrobin.com/274815/0/rawthumb/thumb/",
+    "user": "BjoernH",
+    "views": 418,
+    "w": 2000
+}

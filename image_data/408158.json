@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "36.445",
+    "description": "",
+    "h": 1850,
+    "hash": null,
+    "id": 408158,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 150/750 PDS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.371",
+    "pixscale": "1.250",
+    "published": "2019-06-01T14:15:47.951903",
+    "ra": "250.426",
+    "radius": "0.526",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408158/",
+    "revisions": [
+        "/api/v1/imagerevision/182516/"
+    ],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "M 13",
+        "NGC 6205"
+    ],
+    "title": "M13",
+    "updated": "2021-03-17T10:46:38.438784",
+    "uploaded": "2019-06-01T15:08:24.551761",
+    "url_duckduckgo": "https://www.astrobin.com/408158/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408158/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408158/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408158/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408158/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408158/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408158/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9214/2019/eb001627-800a-4a8d-a2e2-4f9a674d5b3c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9214/2019/eb001627-800a-4a8d-a2e2-4f9a674d5b3c-1582437588.jpg",
+    "url_thumb": "https://www.astrobin.com/408158/0/rawthumb/thumb/",
+    "user": "skyborg",
+    "views": 110,
+    "w": 2396
+}

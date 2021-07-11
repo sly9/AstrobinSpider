@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 68,
+    "data_source": "BACKYARD",
+    "dec": "39.366",
+    "description": "ARP 273 (UGC 1810 - 1813)\r\nInteracting galaxies,  in the constellation Andromeda\r\ndistance :  300 million light years\r\n\r\nLum : 82 x 2min (2,7h) / ASI 174mm\r\nColour : 18 x 5min (1,5h) / Moravian G3-11000c",
+    "h": 1210,
+    "hash": "qtjzfi",
+    "id": 440368,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 298,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "359.233",
+    "pixscale": "1.104",
+    "published": "2019-11-25T16:58:43.373293",
+    "ra": "35.375",
+    "radius": "0.308",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440368/",
+    "revisions": [],
+    "subjects": [],
+    "title": "ARP 273 (UGC 1810 - 1813)",
+    "updated": "2021-05-18T19:28:18.359318",
+    "uploaded": "2019-11-25T16:45:07.333844",
+    "url_duckduckgo": "https://www.astrobin.com/qtjzfi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qtjzfi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qtjzfi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qtjzfi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qtjzfi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qtjzfi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qtjzfi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8048/2020/32d902ed-f0a2-4b08-a5d2-b94d913971fc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8048/2020/32d902ed-f0a2-4b08-a5d2-b94d913971fc-1582290025.jpg",
+    "url_thumb": "https://www.astrobin.com/qtjzfi/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 1249,
+    "w": 1600
+}

@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 20,
+    "data_source": "TRAVELLER",
+    "dec": "-13.805",
+    "description": "Derniere image de messier 16 en HOO . Les couleurs proviennent du processing de pixinsight sans retouche de celles-ci . (le bleu dans le centre de la nébuleuse est naturel car souvent celui-ci apparait vert dans les images ).\r\n\r\nLast picture of messier 16 in HOO. The colors come from the processing of pixinsight without retouching them. (the blue in the center of the nebula is natural because often it appears green in the pictures).\r\n\r\n35x300s Ha en bin1 de 2018\r\n58x300s Ha en bin1 avec red de 2019\r\n15x180s OIII en bin2 de 2018\r\n13x180s OIII en bin2 avec red de 2019\r\n\r\n\r\nTotal : ~ 9 Heures",
+    "h": 1998,
+    "hash": "8dcnd9",
+    "id": 423646,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 147,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808139/"
+    ],
+    "orientation": "89.407",
+    "pixscale": "2.255",
+    "published": "2019-08-30T07:40:01.049575",
+    "ra": "274.756",
+    "radius": "1.003",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/423646/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "Messier 16 en HOO",
+    "updated": "2021-03-17T09:30:29.574910",
+    "uploaded": "2019-08-30T08:40:01.208173",
+    "url_duckduckgo": "https://www.astrobin.com/8dcnd9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8dcnd9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8dcnd9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8dcnd9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8dcnd9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8dcnd9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8dcnd9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/f55ee70d-0826-4c4e-8e76-23ff743cb420.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/f55ee70d-0826-4c4e-8e76-23ff743cb420-1582030677.jpg",
+    "url_thumb": "https://www.astrobin.com/8dcnd9/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 267,
+    "w": 2500
+}

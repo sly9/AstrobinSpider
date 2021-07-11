@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "60.478",
+    "description": "38*600 sec L 1x1 bin\r\n8*300 sec rgb each, 2x2 bin",
+    "h": 2081,
+    "hash": null,
+    "id": 313552,
+    "imaging_cameras": [
+        "ATIK 460ex mono"
+    ],
+    "imaging_telescopes": [
+        "TS Optics 102mm f/7 Triplet Apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "107.561",
+    "pixscale": "2.106",
+    "published": "2017-09-24T20:51:55.522949",
+    "ra": "308.382",
+    "radius": "0.965",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313552/",
+    "revisions": [
+        "/api/v1/imagerevision/126244/",
+        "/api/v1/imagerevision/134265/",
+        "/api/v1/imagerevision/179722/",
+        "/api/v1/imagerevision/244470/"
+    ],
+    "subjects": [
+        "NGC 6939",
+        "NGC 6946"
+    ],
+    "title": "NGC 6946 with sn 17eaw, NGC 6939 ",
+    "updated": "2021-05-18T18:41:30.828153",
+    "uploaded": "2017-09-24T21:51:56.264624",
+    "url_duckduckgo": "https://www.astrobin.com/313552/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313552/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313552/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313552/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313552/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313552/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313552/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9498/2017/cca0e828-f7c5-4022-af75-dd857513711e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/9498/2017/cca0e828-f7c5-4022-af75-dd857513711e-1582429590.png",
+    "url_thumb": "https://www.astrobin.com/313552/0/rawthumb/thumb/",
+    "user": "StefanMuckenhuber",
+    "views": 570,
+    "w": 2562
+}

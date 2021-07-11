@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "69.447",
+    "description": "NGC 4236 is magnitude 10.5 barred spiral galaxy in the constellation of Draco.  It is thought to be part of the M81 galaxy group and is 14.5 million light years from Earth.  It is large from our point of view, at 21.9 x 7.2 arc minutes, but also pretty dim since its mag 10 light is spread over a large surface area.\r\n\r\nImaging data:\r\nDate: Mar 16-22 2020\r\nLocation: New Ringgold PA\r\n\r\nOptics: Celestron EdgeHD 1100 on Paramount MX\r\nCamera: Sbig STL-11000 for RGB\r\n\r\nOptics: Starizona Hyperion f/8 12.5 inch, FL 2540 mm on Paramount ME\r\nCamera: Apogee U8300 for Lum\r\n\r\nGuiding: ST-402 on Innovations Foresight On-Axis Guider and STL-11000 Self guiding\r\n\r\nExposure: LRGB - L:51x10, R:16x10 min, G:16x10 min, B:16x10 min - Total 12.5 hrs Avg Exp 455 sec\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.",
+    "h": 2504,
+    "hash": "1qwm9i",
+    "id": 468408,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11",
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "257.423",
+    "pixscale": "0.440",
+    "published": "2020-03-24T22:49:16.307871",
+    "ra": "184.181",
+    "radius": "0.255",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/468408/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4236",
+        "NGC4236"
+    ],
+    "title": "NGC 4236",
+    "updated": "2021-04-05T21:39:04.136264",
+    "uploaded": "2020-03-24T22:49:16.438129",
+    "url_duckduckgo": "https://www.astrobin.com/1qwm9i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1qwm9i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1qwm9i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1qwm9i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1qwm9i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1qwm9i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1qwm9i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/5ce53afe-243f-4c25-b483-ead9e815099b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/5ce53afe-243f-4c25-b483-ead9e815099b-1585090417.jpg",
+    "url_thumb": "https://www.astrobin.com/1qwm9i/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 209,
+    "w": 3326
+}

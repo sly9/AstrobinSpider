@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 43,
+    "data_source": "BACKYARD",
+    "dec": "43.788",
+    "description": "This is an \"All-Backyard\" project - all data from my bortle class 9 backyard under the moon, including Ha, S-II, O-III and R/G/B star layers. It took 7 nights to collect all the data for this project. It's quite unusual - one whole week with clear night sky. Right after I failed miserably trying to capture some data for the SH2-129/Ou4. Now I do admit that some targets are not practical for backyarders. \r\n\r\nLearned quite a lot from imaging and processing the RGB stars. Intentionally, the stars are decreased a lot to expose more nebulosity. Three versions are made and uploaded - star spikes, no spikes and no stars. Don't know why one is better. \r\n\r\n<B><I>Comments are welcome! </I></B>\r\n<I>Thinking about Western Veil as the next target. </I>\r\n\r\n<I><B>Pre-processing of Narrowband Masters</B></I>\r\n\r\n- Calibration / Integration, Astro Pixel Processor\r\n- Deconvolution, PixInsight (Only for H-Alpha)\r\n- MultiscaleLinearTransformation (Denoise), PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B><I>Pre-processing of RGB Masters</I></B>\r\n\r\n- Calibration / Integration, Astro Pixel Processor\r\n- Dynamic Background Extraction, PixInsight\r\n- MorphologicalTransformation, PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<I><B>RGB Combination</B></I>\r\n\r\n- LRGBCombination, PixInsight\r\n- MorphologicalTransformation, PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<I><B>Narrowband Combination</B></I>\r\n\r\n- PixelMath, PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<I><B>Narrband & RGB Combination</B></I>\r\n- Star adjustment, Lightroom\r\n- Final Touch-up, Photoshop",
+    "h": 3330,
+    "hash": null,
+    "id": 419098,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "QHYCCD PoleMaster",
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 164,
+    "link": "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2020/stars-and-nebulae",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/"
+    ],
+    "orientation": "0.637",
+    "pixscale": "1.708",
+    "published": "2019-08-04T21:50:49.602780",
+    "ra": "313.994",
+    "radius": "1.332",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/419098/",
+    "revisions": [
+        "/api/v1/imagerevision/187895/",
+        "/api/v1/imagerevision/187896/",
+        "/api/v1/imagerevision/249165/"
+    ],
+    "subjects": [
+        "IC 5070",
+        "NGC 7000",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Dark Molecular Cloud in NGC 7000",
+    "updated": "2021-06-18T14:00:30.841276",
+    "uploaded": "2019-08-04T21:44:38.020201",
+    "url_duckduckgo": "https://www.astrobin.com/419098/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/419098/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/419098/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/419098/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/419098/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/419098/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/419098/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24520/2020/598922c3-3869-4ebb-847f-91c54967e23e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24520/2020/598922c3-3869-4ebb-847f-91c54967e23e-1582003602.png",
+    "url_thumb": "https://www.astrobin.com/419098/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1044,
+    "w": 4520
+}

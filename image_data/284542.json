@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "21.538",
+    "description": "NGC 2903 is a field barred spiral galaxy about 30 million light-years away in the constellation Leo. This is a simple LRGB combination.",
+    "h": 2289,
+    "hash": null,
+    "id": 284542,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "297.946",
+    "pixscale": "0.551",
+    "published": "2017-02-22T12:11:05.182609",
+    "ra": "143.055",
+    "radius": "0.248",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/284542/",
+    "revisions": [
+        "/api/v1/imagerevision/110930/",
+        "/api/v1/imagerevision/110937/",
+        "/api/v1/imagerevision/111004/",
+        "/api/v1/imagerevision/111430/",
+        "/api/v1/imagerevision/111433/"
+    ],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905"
+    ],
+    "title": "NGC 2903 @DSW",
+    "updated": "2021-06-10T08:05:28.090999",
+    "uploaded": "2017-02-21T13:25:52.751800",
+    "url_duckduckgo": "https://www.astrobin.com/284542/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/284542/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/284542/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/284542/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/284542/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/284542/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/284542/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2017/1f90c9fc-e7bb-4171-8f5f-c48614d56c50.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2017/1f90c9fc-e7bb-4171-8f5f-c48614d56c50-1582616268.jpg",
+    "url_thumb": "https://www.astrobin.com/284542/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 348,
+    "w": 2289
+}

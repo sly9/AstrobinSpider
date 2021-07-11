@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "61.317",
+    "description": "Ha 35x600s\r\nSII OIII 2x 300s bin 2",
+    "h": 1463,
+    "hash": null,
+    "id": 303985,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 104,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "90.463",
+    "pixscale": "1.368",
+    "published": "2017-07-19T21:11:25.581662",
+    "ra": "350.517",
+    "radius": "1.091",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303985/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "M 52",
+        "NGC 7635",
+        "NGC 7654"
+    ],
+    "title": "Bubble nebula",
+    "updated": "2021-03-17T20:24:11.828441",
+    "uploaded": "2017-07-19T20:58:20.039629",
+    "url_duckduckgo": "https://www.astrobin.com/303985/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303985/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303985/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303985/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303985/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303985/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303985/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/77ff7a84-3d78-46a5-944a-a8d74aa8bb15.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/77ff7a84-3d78-46a5-944a-a8d74aa8bb15-1500494480.jpg",
+    "url_thumb": "https://www.astrobin.com/303985/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 320,
+    "w": 1824
+}

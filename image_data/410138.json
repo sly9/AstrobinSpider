@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "15.742",
+    "description": "Collecting subframes from Marth, and found a Supernova near the center of the Galaxy M00 in May. It was dimmed quite fast in June.\r\n\r\nL: 93x5min\r\nRGB: 28x5min each",
+    "h": 2199,
+    "hash": null,
+    "id": 410138,
+    "imaging_cameras": [
+        "Atik One 6.0"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 99,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808835/"
+    ],
+    "orientation": "87.212",
+    "pixscale": "0.861",
+    "published": "2019-06-13T03:32:10.965153",
+    "ra": "185.726",
+    "radius": "0.421",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/410138/",
+    "revisions": [],
+    "subjects": [
+        "M 100",
+        "NGC 4312",
+        "NGC 4321",
+        "NGC 4322",
+        "NGC 4328"
+    ],
+    "title": "M100 with Supernova SN 2019ehk",
+    "updated": "2021-03-17T10:36:35.188292",
+    "uploaded": "2019-06-13T04:32:11.098491",
+    "url_duckduckgo": "https://www.astrobin.com/410138/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410138/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410138/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410138/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410138/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410138/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410138/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b280f58e-b5aa-47f7-82e8-6d356d4e01a4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b280f58e-b5aa-47f7-82e8-6d356d4e01a4-1560400979.jpg",
+    "url_thumb": "https://www.astrobin.com/410138/0/rawthumb/thumb/",
+    "user": "rayliao",
+    "views": 791,
+    "w": 2749
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "41.105",
+    "description": "M94 is one of the tougher galaxies to process with its very bright core and dim outer ring.",
+    "h": 1824,
+    "hash": null,
+    "id": 340636,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 132,
+    "link": "http://delsaert.files.wordpress.com/2018/04/m94_lrgb.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.418",
+    "pixscale": "1.542",
+    "published": "2018-04-06T21:25:38.630966",
+    "ra": "192.687",
+    "radius": "0.969",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340636/",
+    "revisions": [
+        "/api/v1/imagerevision/141695/"
+    ],
+    "subjects": [
+        "M 94",
+        "NGC 4736"
+    ],
+    "title": "M94",
+    "updated": "2021-03-17T15:58:04.219616",
+    "uploaded": "2018-04-06T22:25:40.462740",
+    "url_duckduckgo": "https://www.astrobin.com/340636/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340636/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340636/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340636/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340636/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340636/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340636/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bba0ac9a-accf-456a-86a1-6d7784fef07b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bba0ac9a-accf-456a-86a1-6d7784fef07b-1523050340.jpg",
+    "url_thumb": "https://www.astrobin.com/340636/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 583,
+    "w": 1824
+}

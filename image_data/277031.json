@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "67.644",
+    "description": "The neighborhood of the Iris Nebula in Cepheus holds more secrets. This arrow-shaped complex is LBN 468 with lots of swirling bright and dark nebulosity.\r\n\r\nA very interesting and small structure, resembling a tiny comet, can be found at the tip of the arrow. This is the Herbig-Haro object known as HH 215 or Gyulbudaghian's Nebula. It consists of a jet of gas streaming from the variable protostar, PV Cephei, and it varies in brightness and shape as the progenitor star brightens and darkens.\r\n\r\nThis is an LRGB composite of 24 L and 16 R, G and B exposure of 900sec each, taken at the Deep Sky West Observatory.",
+    "h": 2328,
+    "hash": null,
+    "id": 277031,
+    "imaging_cameras": [
+        "QSI 683 WSG8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX III"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "http://deepskyview.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804163/"
+    ],
+    "orientation": "358.348",
+    "pixscale": "2.100",
+    "published": "2016-12-23T13:55:45.245903",
+    "ra": "310.135",
+    "radius": "1.089",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277031/",
+    "revisions": [
+        "/api/v1/imagerevision/106707/"
+    ],
+    "subjects": [],
+    "title": "LBN 468 - Bright & Dark",
+    "updated": "2021-03-17T22:11:52.659669",
+    "uploaded": "2016-12-23T13:41:09.431101",
+    "url_duckduckgo": "https://www.astrobin.com/277031/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277031/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277031/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277031/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277031/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277031/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277031/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9633/2016/984469e7-f7a5-44eb-a18f-9ee6bb111da2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9633/2016/984469e7-f7a5-44eb-a18f-9ee6bb111da2-1582453646.jpg",
+    "url_thumb": "https://www.astrobin.com/277031/0/rawthumb/thumb/",
+    "user": "deepskyview",
+    "views": 252,
+    "w": 2922
+}

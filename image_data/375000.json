@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "28.117",
+    "description": "",
+    "h": 3161,
+    "hash": null,
+    "id": 375000,
+    "imaging_cameras": [
+        "Zwo Asi 071"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130d"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808840/"
+    ],
+    "orientation": "354.862",
+    "pixscale": "2.292",
+    "published": "2018-11-04T22:41:22.256981",
+    "ra": "64.290",
+    "radius": "1.833",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/375000/",
+    "revisions": [
+        "/api/v1/imagerevision/161122/",
+        "/api/v1/imagerevision/199468/"
+    ],
+    "subjects": [
+        "IC 359",
+        "The star φTau"
+    ],
+    "title": "Dusty Taurus",
+    "updated": "2021-03-17T13:20:46.018147",
+    "uploaded": "2018-11-03T17:02:26.153648",
+    "url_duckduckgo": "https://www.astrobin.com/375000/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/375000/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/375000/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/375000/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/375000/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/375000/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/375000/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16962/2018/a1cf2ba4-7810-47dc-ba29-c7ec77cad8b0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16962/2018/a1cf2ba4-7810-47dc-ba29-c7ec77cad8b0-1582617387.jpg",
+    "url_thumb": "https://www.astrobin.com/375000/0/rawthumb/thumb/",
+    "user": "Allinthehead",
+    "views": 563,
+    "w": 4816
+}

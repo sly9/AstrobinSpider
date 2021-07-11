@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "44.336",
+    "description": "After trying several clever mixes, I decided a straight SHO image best gave me what I was looking for.  Greens were controlled via SNCR in PI.   Star color was controlled with a combination of de-saturating Magentas and blurring of the color channel.  Noise reduction with Topaz 5.1.\r\n\r\nThis data was very sharp as we are in the sharp summer season at SRO.  The data defied all attempts at further sharpening.  Deconvolution, unsharp masking and every other method I tried gave no more detail and only produced noise!",
+    "h": 4062,
+    "hash": null,
+    "id": 417116,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 135,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "230.300",
+    "pixscale": "0.728",
+    "published": "2019-07-26T15:01:14.196348",
+    "ra": "312.793",
+    "radius": "0.581",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/417116/",
+    "revisions": [],
+    "subjects": [
+        "56 Cyg",
+        "57 Cyg",
+        "IC 5070",
+        "IC5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "Pelican Nebula in SHO",
+    "updated": "2021-05-17T00:49:46.933902",
+    "uploaded": "2019-07-26T16:01:14.299445",
+    "url_duckduckgo": "https://www.astrobin.com/417116/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/417116/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/417116/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/417116/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/417116/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/417116/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/417116/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3c9873be-f709-4c46-9b80-5baddda99f88.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3c9873be-f709-4c46-9b80-5baddda99f88-1564157317.jpg",
+    "url_thumb": "https://www.astrobin.com/417116/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 353,
+    "w": 4062
+}

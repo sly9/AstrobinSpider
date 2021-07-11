@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "68.206",
+    "description": "Interesting object to say the least. This data is much different from what I am used to and it is very challenging by comparison. There is a lot a like about this image, but also a lot I dislike. For example, I particularly like the colors and all the red in the nebula that the scope was able to pick up, however, I regret introducing so many artifacts in the nebula due to deconvolution followed by trying to reduce them with noise reduction.  I will definitely revisit this some day and improve upon it.",
+    "h": 3000,
+    "hash": null,
+    "id": 329841,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 14.5\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803933/"
+    ],
+    "orientation": "148.493",
+    "pixscale": "0.734",
+    "published": "2018-01-18T01:21:08.990907",
+    "ra": "315.238",
+    "radius": "0.432",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/329841/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023",
+        "NGC7023",
+        "VdB139"
+    ],
+    "title": "The Iris Nebula, my first image from the 14.5\" RCOS",
+    "updated": "2021-03-17T16:47:57.941198",
+    "uploaded": "2018-01-18T01:21:09.658684",
+    "url_duckduckgo": "https://www.astrobin.com/329841/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329841/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329841/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329841/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329841/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329841/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329841/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13971/2020/ef6b0507-3c9f-4518-a6ee-81345402327c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13971/2020/ef6b0507-3c9f-4518-a6ee-81345402327c-1582641273.jpg",
+    "url_thumb": "https://www.astrobin.com/329841/0/rawthumb/thumb/",
+    "user": "matherneconnor",
+    "views": 542,
+    "w": 3000
+}

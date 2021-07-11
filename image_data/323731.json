@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "64.290",
+    "description": "Telesocpe : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilters : Astrodon true-balance gen2 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : SBIG RemoteGuideHead\r\nExposure : L 600s x 40(1bin), RGB each 600s x 21(2bin) total 17h 10m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)\r\nDate :  14/Nov/2017, 15/Nov/2017, 16/Nov/2017, 19/Nov/2017",
+    "h": 4000,
+    "hash": null,
+    "id": 323731,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "181.798",
+    "pixscale": "3.488",
+    "published": "2017-11-27T07:17:55.395387",
+    "ra": "336.391",
+    "radius": "2.740",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/323731/",
+    "revisions": [],
+    "subjects": [
+        "The star 25Cep",
+        "The star 26Cep",
+        "The star 30Cep"
+    ],
+    "title": "SH2-140, 145, 150",
+    "updated": "2021-03-17T19:03:45.064907",
+    "uploaded": "2017-11-27T07:17:56.155251",
+    "url_duckduckgo": "https://www.astrobin.com/323731/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323731/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323731/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323731/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323731/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323731/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323731/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/01a7016d-9506-4e75-8044-35ed3e2852f9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/01a7016d-9506-4e75-8044-35ed3e2852f9-1511767458.jpg",
+    "url_thumb": "https://www.astrobin.com/323731/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 329,
+    "w": 4000
+}

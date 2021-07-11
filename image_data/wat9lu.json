@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "78.365",
+    "description": "Image acquisition 2016-2019",
+    "h": 2429,
+    "hash": "wat9lu",
+    "id": 448989,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "Deep Sky Instruments RC10C"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803499/"
+    ],
+    "orientation": "261.803",
+    "pixscale": "0.594",
+    "published": "2020-01-13T10:41:18.073258",
+    "ra": "94.646",
+    "radius": "0.330",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/448989/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2146"
+    ],
+    "title": "NGC 2146",
+    "updated": "2021-03-17T05:35:54.758047",
+    "uploaded": "2020-01-13T10:13:36.884480",
+    "url_duckduckgo": "https://www.astrobin.com/wat9lu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/wat9lu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/wat9lu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/wat9lu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/wat9lu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/wat9lu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/wat9lu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7819/2020/a85fa076-3007-42d9-9906-37a1b76fae3b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7819/2020/a85fa076-3007-42d9-9906-37a1b76fae3b-1578911429.jpg",
+    "url_thumb": "https://www.astrobin.com/wat9lu/0/rawthumb/thumb/",
+    "user": "-mhj-",
+    "views": 156,
+    "w": 3179
+}

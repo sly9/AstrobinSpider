@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-39.199",
+    "description": "",
+    "h": 2597,
+    "hash": "c52usc",
+    "id": 470433,
+    "imaging_cameras": [
+        "QHYCCD qhy16200a"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 150ED ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811073/"
+    ],
+    "orientation": "93.303",
+    "pixscale": "1.148",
+    "published": "2020-03-29T19:23:18.790910",
+    "ra": "3.794",
+    "radius": "0.575",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/470433/",
+    "revisions": [
+        "/api/v1/imagerevision/222529/",
+        "/api/v1/imagerevision/222539/"
+    ],
+    "subjects": [
+        "IC 1537",
+        "NGC 55",
+        "Other"
+    ],
+    "title": "NGC 55",
+    "updated": "2021-03-17T03:48:12.314159",
+    "uploaded": "2020-03-29T20:23:19.394581",
+    "url_duckduckgo": "https://www.astrobin.com/c52usc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/c52usc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/c52usc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/c52usc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/c52usc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/c52usc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/c52usc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23126/2020/0a92b6a0-d10a-434e-89ae-73c5a3249ad4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23126/2020/0a92b6a0-d10a-434e-89ae-73c5a3249ad4-1585520326.png",
+    "url_thumb": "https://www.astrobin.com/c52usc/0/rawthumb/thumb/",
+    "user": "Fernando_Menezes",
+    "views": 85,
+    "w": 2504
+}

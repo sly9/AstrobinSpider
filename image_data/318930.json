@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 20,
+    "data_source": "UNSET",
+    "dec": "0.046",
+    "description": "It is difficult to get the color balance right with M78. I'm not sure if it is OK like this. Suggestions are welcome.",
+    "h": 1824,
+    "hash": null,
+    "id": 318930,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 159,
+    "link": "http://delsaert.files.wordpress.com/2017/10/m78_lrgb3.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "359.843",
+    "pixscale": "1.235",
+    "published": "2017-10-27T19:23:07.147900",
+    "ra": "86.640",
+    "radius": "0.971",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/318930/",
+    "revisions": [
+        "/api/v1/imagerevision/128452/"
+    ],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M78",
+    "updated": "2021-03-17T19:23:08.855593",
+    "uploaded": "2017-10-27T20:23:07.472738",
+    "url_duckduckgo": "https://www.astrobin.com/318930/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/318930/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/318930/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/318930/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/318930/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/318930/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/318930/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/b3c344c4-f246-4e0b-af47-af984ffa7555.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b3c344c4-f246-4e0b-af47-af984ffa7555-1509136355.jpg",
+    "url_thumb": "https://www.astrobin.com/318930/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 498,
+    "w": 1824
+}

@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 27,
+    "comments": 54,
+    "data_source": "OWN_REMOTE",
+    "dec": "12.991",
+    "description": "M66 (NGC 3627) is a SABb galaxy with a weak bar located in the Leo Triplet at a distance of about 31 mly.  Five super nova have been observed in M66 (through 2018.)  At an apparent magnitude of 8.9 it's a popular target for both visual observers and for photographers.  With an apparent angular size of 9.1' x 4.2' M66 is about 95,000 ly across.  It's a particularly interesting target because it contains a complex array of striking dark dust lanes, star clusters, and hydrogen emission regions.  \r\n\r\nThis LRGB+Ha  image is the result of a concentrated effort that spanned many months with pretty crummy conditions where wind, clouds, and lousy seeing conspired to produce pretty low yield over a long effort.  The shutter was open for a total of 71.3 hrs.  During that time, problems related directly to the weather (either wind or clouds) completely trashed 10 hrs of subs with no useable data.  There was 51 hrs of LRGB data and 10 hrs of Ha data that contained star images.  Out of that total amount of 61 hrs of data, I was only able to use 27.7 hrs of data that met a fairly lax threshold of 2.5\" FWHM (with eccentricity less than 0.55).  That's a yield of about 38% for LRGB and 45% for LRGBHa, which reflects the generally lousy imaging conditions that northern New Mexico has experienced this year.   Although I had one night with most subs showing below 2.0\" FWHM, the combined data in this image produced FWHM stars at about 2.2\".  Breaking the 2\" barrier at this location seems elusive (at best.)\r\n\r\nI used a slightly different approach to process this data.  The most significant was to use the MURE (mixed noise unbiased risk estimator) de-noise tool in PI to clean up the stacked data in each channel. The results were impressive and only a very minor application of masked TVGDenoise was applied to the final result.  PhotometricColorCorrection worked well on this data set.  Ultimately, about 95% of the processing on this image was done in PI.  I'm not willing to abandon PhotoShop but most of the work that I do in PS has been reduced to fairly minor tweaks.\r\n\r\nC&C is aways appreciated so feel free to let me know what you think.\r\n\r\nJohn\r\n\r\n\r\nPS  I thought that the Ha data was pretty interesting so I posted it as version D.",
+    "h": 1824,
+    "hash": null,
+    "id": 400392,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 356,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "73.333",
+    "pixscale": "0.477",
+    "published": "2019-04-11T17:29:14.048782",
+    "ra": "170.053",
+    "radius": "0.222",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/400392/",
+    "revisions": [
+        "/api/v1/imagerevision/176275/",
+        "/api/v1/imagerevision/176280/",
+        "/api/v1/imagerevision/176319/"
+    ],
+    "subjects": [
+        "Leo Triplet",
+        "M 66",
+        "M66",
+        "NGC 3627"
+    ],
+    "title": "The Amazing Dust Lanes of M66",
+    "updated": "2021-04-22T19:07:36.740470",
+    "uploaded": "2019-04-11T05:49:19.547877",
+    "url_duckduckgo": "https://www.astrobin.com/400392/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/400392/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/400392/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/400392/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/400392/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/400392/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/400392/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2052eaac-7067-46ca-adda-6a75489e7951.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2052eaac-7067-46ca-adda-6a75489e7951-1554962701.jpg",
+    "url_thumb": "https://www.astrobin.com/400392/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 2354,
+    "w": 1824
+}

@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "69.300",
+    "description": "- 170x120s, Gain139, ASI1600MMC\r\n- 40x600s, ISO 200, 1100Da\r\n\r\n8\" F/f GSO Newton with GPU4",
+    "h": 1289,
+    "hash": null,
+    "id": 293118,
+    "imaging_cameras": [
+        "Canon EOS 1100Da",
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "55.255",
+    "pixscale": "1.754",
+    "published": "2017-04-24T19:16:47.478819",
+    "ra": "148.993",
+    "radius": "0.716",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/293118/",
+    "revisions": [
+        "/api/v1/imagerevision/114968/",
+        "/api/v1/imagerevision/115917/",
+        "/api/v1/imagerevision/118238/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 / M82 - LRGB ASi1600MMC / 1100Da",
+    "updated": "2021-03-17T21:05:34.653461",
+    "uploaded": "2017-04-24T20:08:57.149546",
+    "url_duckduckgo": "https://www.astrobin.com/293118/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/293118/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/293118/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/293118/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/293118/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/293118/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/293118/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4577/2017/4cab2be0-eb79-4de1-9c04-e6edea5bf7f7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4cab2be0-eb79-4de1-9c04-e6edea5bf7f7-1493061222.jpg",
+    "url_thumb": "https://www.astrobin.com/293118/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 582,
+    "w": 1824
+}

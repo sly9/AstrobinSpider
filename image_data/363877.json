@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 23,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.250",
+    "description": "Like so many of the objects I shoot I discovered this one from others on Astrobin - Thanks everyone!\r\n\r\nMy FOV is too small for this so I planned a two panel capture.  We had a couple of weeks of great weather and seeing so capturing the 65 hours of data was pretty painless.  (Automation via CCDAutopilot!!)\r\n\r\nColor here comes from OIII and SII with a 50-50 blend used for green.  Ha is used for Luminance.  I took non-linear channel masters from CCDStack into Photoshop and created the color masters there.  The two color masters were joined using the mosaic automation in PS.  I then did the usual color noise reduction, saturation, and color balancing.  The Luminance channel has some unsharp masking and contrast enhancement.  Noise reduction in the luminance channel was done by applying PS noise reduction to the dim part of a luminance mask.\r\n\r\n20 minute subs were used with Astrondon 5,3,3 filters.  65.67 Hours total split roughly evenly between each side.",
+    "h": 4036,
+    "hash": null,
+    "id": 363877,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 195,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "284.899",
+    "pixscale": "0.729",
+    "published": "2018-08-29T21:52:27.430118",
+    "ra": "348.699",
+    "radius": "0.764",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/363877/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7510"
+    ],
+    "title": "Lobster Claw Mosaic - SH2-157",
+    "updated": "2021-03-17T14:14:01.866931",
+    "uploaded": "2018-08-29T22:52:27.840495",
+    "url_duckduckgo": "https://www.astrobin.com/363877/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/363877/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/363877/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/363877/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/363877/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/363877/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/363877/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0a59efb7-817e-476d-8b41-92b0d964e5b1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0a59efb7-817e-476d-8b41-92b0d964e5b1-1535583975.jpg",
+    "url_thumb": "https://www.astrobin.com/363877/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 980,
+    "w": 6375
+}

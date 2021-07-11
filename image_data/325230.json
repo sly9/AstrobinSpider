@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.175",
+    "description": "",
+    "h": 2856,
+    "hash": null,
+    "id": 325230,
+    "imaging_cameras": [
+        "QHYCCD QHY168C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806128/"
+    ],
+    "orientation": "0.676",
+    "pixscale": "0.491",
+    "published": "2017-12-09T23:36:17.025262",
+    "ra": "350.179",
+    "radius": "0.334",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/325230/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "NGC7635 - Bubble Nebula",
+    "updated": "2021-03-17T18:57:31.028786",
+    "uploaded": "2017-12-09T23:36:17.450130",
+    "url_duckduckgo": "https://www.astrobin.com/325230/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/325230/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/325230/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/325230/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/325230/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/325230/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/325230/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/712f67a9-f45f-4d33-afcf-fac2fb16ff39.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/712f67a9-f45f-4d33-afcf-fac2fb16ff39-1512862800.jpg",
+    "url_thumb": "https://www.astrobin.com/325230/0/rawthumb/thumb/",
+    "user": "manumilian",
+    "views": 891,
+    "w": 3978
+}

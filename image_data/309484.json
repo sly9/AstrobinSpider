@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "34.416",
+    "description": "14 X 900 secondes en luminance (Bin 1 X 1)\r\n10  X 240 secondes filtre rouge (Bin 2X2)\r\n10  X 240 secondes filtre vert (Bin 2X2)\r\n10  X 240 secondes filtre bleu (Bin 2X2)\r\n",
+    "h": 885,
+    "hash": null,
+    "id": 309484,
+    "imaging_cameras": [
+        "CCD Labs QHY9-M"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Quattro 10 CF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800722/"
+    ],
+    "orientation": "240.907",
+    "pixscale": "1.117",
+    "published": "2017-08-27T17:14:39.641613",
+    "ra": "339.266",
+    "radius": "0.218",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/309484/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7337"
+    ],
+    "title": "NGC7331 LRGB",
+    "updated": "2021-03-17T20:02:17.245876",
+    "uploaded": "2017-08-27T18:14:40.443250",
+    "url_duckduckgo": "https://www.astrobin.com/309484/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/309484/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/309484/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/309484/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/309484/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/309484/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/309484/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1512/2017/d3e1013e-1399-44ba-b71d-d961c989e578.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1512/2017/d3e1013e-1399-44ba-b71d-d961c989e578-1582434514.png",
+    "url_thumb": "https://www.astrobin.com/309484/0/rawthumb/thumb/",
+    "user": "mario_hebert",
+    "views": 236,
+    "w": 1094
+}

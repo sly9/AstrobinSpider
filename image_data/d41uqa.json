@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-61.229",
+    "description": "Added 2 hours of high res  data (using small pixel camera, QHY163M), to another 2 hours of data from last year (using Apogee 16803 camera).",
+    "h": 4656,
+    "hash": "d41uqa",
+    "id": 464027,
+    "imaging_cameras": [
+        "QHY 163M",
+        "Apogee Aspen CG16M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "18.521",
+    "pixscale": "0.625",
+    "published": "2020-03-08T20:27:37.760813",
+    "ra": "168.077",
+    "radius": "0.507",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/464027/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3576",
+        "NGC 3579",
+        "NGC 3590"
+    ],
+    "title": "NGC3579 in H-alpha",
+    "updated": "2021-03-17T04:22:24.870966",
+    "uploaded": "2020-03-08T20:27:38.443986",
+    "url_duckduckgo": "https://www.astrobin.com/d41uqa/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/d41uqa/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/d41uqa/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/d41uqa/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/d41uqa/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/d41uqa/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/d41uqa/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2020/1bb60781-47c8-4520-87d5-74aa3a23fc64.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2020/1bb60781-47c8-4520-87d5-74aa3a23fc64-1583699528.jpg",
+    "url_thumb": "https://www.astrobin.com/d41uqa/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 167,
+    "w": 3522
+}

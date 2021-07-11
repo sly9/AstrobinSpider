@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "54.540",
+    "description": "C925 F10 - ASI1600MMC\r\nL - 56x120s bin1 \r\nHa - 15x300s bin1\r\nRVB - 6x180s bin1",
+    "h": 2559,
+    "hash": null,
+    "id": 360372,
+    "imaging_cameras": [
+        "ZWO ASI1600MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "C9.25"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "270.372",
+    "pixscale": "0.366",
+    "published": "2018-08-09T13:26:12.600095",
+    "ra": "315.135",
+    "radius": "0.215",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/360372/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7008"
+    ],
+    "title": "NGC 7008",
+    "updated": "2021-03-17T14:31:32.751653",
+    "uploaded": "2018-08-09T14:26:12.956179",
+    "url_duckduckgo": "https://www.astrobin.com/360372/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/360372/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/360372/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/360372/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/360372/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/360372/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/360372/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22570/2018/e6e7f9e5-c76f-4aa5-b8c3-0565873530a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22570/2018/e6e7f9e5-c76f-4aa5-b8c3-0565873530a3-1582459794.jpg",
+    "url_thumb": "https://www.astrobin.com/360372/0/rawthumb/thumb/",
+    "user": "AstroBofix",
+    "views": 171,
+    "w": 3362
+}

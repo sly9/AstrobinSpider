@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "13.279",
+    "description": "The Leo Triplet, a small group of galaxies about 35 million light-years away in the constellation Leo.\r\n\r\nSetup:\r\nT: TS Super APO 80/500\r\nM: SW EQ6-r guided ASI120MM\r\nC: QHY163M \r\nFilters: Baader neodymium | Optolong RGB\r\nFrames: Gain50/OffSet25 ; -15ºC\r\nL: 180x60s bin 1x1\r\nR: 90x30s bin 2x2 \r\nG: 90x30s bin 2x2 \r\nB: 90x30s bin 2x2 \r\nTotal exposure: ~5h15min\r\n\r\nAcquisition: APT\r\nEdition: PixInsight Core + PS\r\n28/03/2019 & 29/03/2019\r\nSabugo - Portugal\r\nSky quality: 19.03 | Magnitude Classe 6 Bortle",
+    "h": 2738,
+    "hash": null,
+    "id": 422454,
+    "imaging_cameras": [
+        "QHY163m"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service 80/500 TS Super APO 80/500"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802219/"
+    ],
+    "orientation": "228.837",
+    "pixscale": "1.272",
+    "published": "2019-08-24T20:57:23.001798",
+    "ra": "170.013",
+    "radius": "0.806",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/422454/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628"
+    ],
+    "title": "Leo Triplet - M65, M66 & NGC3628",
+    "updated": "2021-04-12T17:26:13.084051",
+    "uploaded": "2019-08-24T21:57:23.159553",
+    "url_duckduckgo": "https://www.astrobin.com/422454/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/422454/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/422454/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/422454/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/422454/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/422454/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/422454/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10378/2020/79bc6f04-d87b-4590-9457-80661e81fdcf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10378/2020/79bc6f04-d87b-4590-9457-80661e81fdcf-1582620002.jpg",
+    "url_thumb": "https://www.astrobin.com/422454/0/rawthumb/thumb/",
+    "user": "Henrique_Silva",
+    "views": 378,
+    "w": 3651
+}

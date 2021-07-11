@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "60.372",
+    "description": "Luminance from QHY9, color from QHY8",
+    "h": 1467,
+    "hash": null,
+    "id": 305913,
+    "imaging_cameras": [
+        "QHYCCD QHY8",
+        "QHYCCD QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Williams Optics FLT 98",
+        "TS Optics TS6IN"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800259/"
+    ],
+    "orientation": "261.067",
+    "pixscale": "2.289",
+    "published": "2017-08-03T02:53:56.511737",
+    "ra": "308.314",
+    "radius": "0.775",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305913/",
+    "revisions": [
+        "/api/v1/imagerevision/128953/"
+    ],
+    "subjects": [
+        "NGC 6939",
+        "NGC 6946"
+    ],
+    "title": "NGC 6946, NGC 6939",
+    "updated": "2021-03-17T20:16:10.878548",
+    "uploaded": "2017-08-03T03:53:56.931749",
+    "url_duckduckgo": "https://www.astrobin.com/305913/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305913/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305913/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305913/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305913/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305913/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305913/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5177/2017/d91c951d-dc6e-439f-bc7a-469042658a3d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d91c951d-dc6e-439f-bc7a-469042658a3d-1501729425.jpg",
+    "url_thumb": "https://www.astrobin.com/305913/0/rawthumb/thumb/",
+    "user": "Stathis",
+    "views": 338,
+    "w": 1824
+}

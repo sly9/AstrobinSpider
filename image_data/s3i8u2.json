@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "62.559",
+    "description": "The Cave Nebula complex in Cepheus shows refelection and emission regions.\r\n\r\nThis is a HSO-RGB combination where Ha-dominant parts show in red. SII rich regions lead to a orange and yellow color toning while blue tones represent OIII emissions.\r\n\r\nASI1600mmp and 130/910 mm TS Photoline triplet apo.\r\n\r\n36 x 300s Ha\r\n36 x 300s SII\r\n42 x 300s OIII\r\n51 x 30s R\r\n50 x 30s G\r\n40 x 30s B\r\n\r\nAstro Pixel Processor and PS CC2020.",
+    "h": 3279,
+    "hash": "s3i8u2",
+    "id": 439401,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "322.990",
+    "pixscale": "1.069",
+    "published": "2019-11-19T04:59:35.885578",
+    "ra": "344.195",
+    "radius": "0.825",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/439401/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-155 - Cave Nebula Region in HSO-RGB",
+    "updated": "2021-03-17T06:22:15.526196",
+    "uploaded": "2019-11-19T04:59:36.179830",
+    "url_duckduckgo": "https://www.astrobin.com/s3i8u2/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/s3i8u2/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/s3i8u2/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/s3i8u2/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/s3i8u2/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/s3i8u2/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/s3i8u2/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2019/4915ddbd-a5d4-4282-99c4-e6b851860d1c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2019/4915ddbd-a5d4-4282-99c4-e6b851860d1c-1582616972.jpg",
+    "url_thumb": "https://www.astrobin.com/s3i8u2/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 321,
+    "w": 4490
+}

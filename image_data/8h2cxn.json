@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 21,
+    "data_source": "BACKYARD",
+    "dec": "-12.193",
+    "description": "Forming the left wing tip of the Seagull Nebula (IC 2177) is Cederblad 90/Gum 3,  an object with dual properties of both an emission and reflection nebula. Hydrogen mixed with dust and that is energized by the bright star, SAO 152349, creates a pinkish hue intermixed with faint traces of blue nebulosity.\r\n\r\nIt has been challenging weather for astrophotography this winter in Northern California. Relentless cloudiness, uneven transparency, and bad seeing has made acquiring quality data difficult. There was a stretch of clear nighttime hours over a three week period in February in which I acquired 15.6 hours of data for this image. I stopped data acquisition when the object fell below the horizon for the season. I used RGB data for color mapping and Ha data for structural mapping, combined using the PixInsight NBRGB script. For delicate reflection nebula, such as this, it is difficult to find a balance between subtle features of the reflection and the robust structures of the emitting Ha. In this image I attempted to process those portions of the image separately.",
+    "h": 2911,
+    "hash": "8h2cxn",
+    "id": 462050,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "117.255",
+    "pixscale": "0.863",
+    "published": "2020-03-05T05:14:14.492810",
+    "ra": "106.288",
+    "radius": "0.579",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/462050/",
+    "revisions": [
+        "/api/v1/imagerevision/217603/",
+        "/api/v1/imagerevision/217604/",
+        "/api/v1/imagerevision/217630/"
+    ],
+    "subjects": [
+        "Sh2-297",
+        "VdB94"
+    ],
+    "title": "Wing Tip (Cederblad 90/Gum 3)",
+    "updated": "2021-07-07T00:10:26.750372",
+    "uploaded": "2020-03-05T05:14:14.705351",
+    "url_duckduckgo": "https://www.astrobin.com/8h2cxn/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/8h2cxn/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/8h2cxn/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/8h2cxn/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/8h2cxn/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/8h2cxn/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/8h2cxn/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/cd3b8d1c-3e17-46a6-a794-03a5ed4116d7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/cd3b8d1c-3e17-46a6-a794-03a5ed4116d7-1583385806.jpg",
+    "url_thumb": "https://www.astrobin.com/8h2cxn/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 288,
+    "w": 3850
+}

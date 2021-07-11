@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 14,
+    "data_source": "UNSET",
+    "dec": "21.503",
+    "description": "",
+    "h": 1250,
+    "hash": null,
+    "id": 290724,
+    "imaging_cameras": [
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "RCOS 16\" RC f/9"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 166,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "358.039",
+    "pixscale": "0.507",
+    "published": "2017-04-07T12:05:47.402281",
+    "ra": "143.039",
+    "radius": "0.275",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/290724/",
+    "revisions": [
+        "/api/v1/imagerevision/113820/"
+    ],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905"
+    ],
+    "title": "NGC 2903 HLRGB Image",
+    "updated": "2021-03-17T21:14:17.875416",
+    "uploaded": "2017-04-07T13:05:47.899184",
+    "url_duckduckgo": "https://www.astrobin.com/290724/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/290724/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/290724/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/290724/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/290724/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/290724/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/290724/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5209/2017/527df05d-8f49-4290-9556-053fe76b56e1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/527df05d-8f49-4290-9556-053fe76b56e1-1491566917.jpg",
+    "url_thumb": "https://www.astrobin.com/290724/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 611,
+    "w": 1824
+}

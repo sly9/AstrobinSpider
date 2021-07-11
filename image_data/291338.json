@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "47.480",
+    "description": "The first light of QHY16200A.",
+    "h": 2048,
+    "hash": null,
+    "id": 291338,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806968/"
+    ],
+    "orientation": "0.366",
+    "pixscale": "2.004",
+    "published": "2017-04-10T20:21:40.211322",
+    "ra": "184.411",
+    "radius": "0.727",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291338/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4220",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106",
+    "updated": "2021-03-17T21:12:13.026946",
+    "uploaded": "2017-04-10T21:21:40.544232",
+    "url_duckduckgo": "https://www.astrobin.com/291338/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291338/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291338/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291338/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291338/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291338/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291338/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/4b3340c6-f9b0-43ec-b8ad-a4e293e40ad2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/4b3340c6-f9b0-43ec-b8ad-a4e293e40ad2-1582599152.jpg",
+    "url_thumb": "https://www.astrobin.com/291338/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 60,
+    "w": 1622
+}

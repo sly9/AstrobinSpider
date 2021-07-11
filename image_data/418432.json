@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 9,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.179",
+    "description": "Exposure: (SII,Ha,OIII) 22.2h Ha 31x900s binx1, SII 33x900s, OIII 25x900s bin x2",
+    "h": 1138,
+    "hash": null,
+    "id": 418432,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "TEC 140/980"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "269.993",
+    "pixscale": "1.253",
+    "published": "2019-08-01T19:30:06.303633",
+    "ra": "350.165",
+    "radius": "0.326",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/418432/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "The Bubble Nebula  NGC 7635 (Mapped colour)",
+    "updated": "2021-03-17T09:57:02.250992",
+    "uploaded": "2019-08-01T20:30:06.444289",
+    "url_duckduckgo": "https://www.astrobin.com/418432/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418432/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418432/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418432/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418432/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418432/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418432/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0378b250-6129-41b8-a8b2-ffba14137aa8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0378b250-6129-41b8-a8b2-ffba14137aa8-1564691852.jpg",
+    "url_thumb": "https://www.astrobin.com/418432/0/rawthumb/thumb/",
+    "user": "Astrosib250",
+    "views": 1106,
+    "w": 1486
+}

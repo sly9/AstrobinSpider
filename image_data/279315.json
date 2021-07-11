@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-23.954",
+    "description": "Another edition of SH2-308 where I've endevoured to show the areas that have higher levels of hydrogen (the pink bits). Its seems that the outer most skin of the bubble is purely oxygen, with the irregular patches of hydrogen just below.\r\n\r\n\r\nLocations: \r\nBlairgowrie, Victoria, Australia\r\nHeathcote, Victoria, Australia\r\n\r\nScope: Takahashi 130 TOA NBF refractor, focal length 1000 mm\r\nCamera: mono ML16200 with a Loadstar X2 on an Astrodon MOAG off-axis guider.\r\nAcquisition:\r\n19 x 1200 sec on an Astrodon OIII 3nm filter\r\n11 x 1200 sec with an Astrodon Ha 3nm filter\r\n10 x 60 sec RGB (for the stars)\r\nSensor temp: -30",
+    "h": 1511,
+    "hash": null,
+    "id": 279315,
+    "imaging_cameras": [
+        "FLI Microline ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA 130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 59,
+    "link": "https://www.flickr.com/photos/nicholasjones/32010658622/in/photostream/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801856/"
+    ],
+    "orientation": "88.723",
+    "pixscale": "1.231",
+    "published": "2017-01-07T11:45:29.496018",
+    "ra": "103.572",
+    "radius": "0.946",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/279315/",
+    "revisions": [],
+    "subjects": [
+        "The star ο1CMa"
+    ],
+    "title": "sh2-308 with blended Ha and OIII",
+    "updated": "2021-03-17T22:03:06.603799",
+    "uploaded": "2017-01-07T11:45:30.501984",
+    "url_duckduckgo": "https://www.astrobin.com/279315/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/279315/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/279315/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/279315/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/279315/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/279315/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/279315/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/tmpti0G2_",
+    "url_solution": "https://cdn.astrobin.com/solutions/tmpti0G2_-1483789731",
+    "url_thumb": "https://www.astrobin.com/279315/0/rawthumb/thumb/",
+    "user": "whale",
+    "views": 246,
+    "w": 1824
+}

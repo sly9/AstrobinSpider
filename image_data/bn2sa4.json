@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "47.282",
+    "description": "LRGB of IC 5146 imaged over several weeks.  Pixinsight used for stacking and noise reduction.  Photoshop was used to stretch and then combine the LRGB image.  further enhancements with luminosity masks were used in final image.",
+    "h": 1645,
+    "hash": "bn2sa4",
+    "id": 432665,
+    "imaging_cameras": [
+        "FLI - PL16070AE"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 175mm"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 9,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "271.303",
+    "pixscale": "0.655",
+    "published": "2019-10-10T23:21:26.656585",
+    "ra": "328.325",
+    "radius": "0.328",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/432665/",
+    "revisions": [],
+    "subjects": [
+        "Cocoon nebula",
+        "IC 5146"
+    ],
+    "title": "IC 5146 Cocoon Nebula",
+    "updated": "2021-03-17T08:45:11.599797",
+    "uploaded": "2019-10-11T00:21:27.494894",
+    "url_duckduckgo": "https://www.astrobin.com/bn2sa4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/bn2sa4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/bn2sa4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/bn2sa4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/bn2sa4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/bn2sa4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/bn2sa4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4d98b334-ef54-48d5-8c8b-8ada19b229bd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4d98b334-ef54-48d5-8c8b-8ada19b229bd-1570753979.jpg",
+    "url_thumb": "https://www.astrobin.com/bn2sa4/0/rawthumb/thumb/",
+    "user": "escepg",
+    "views": 50,
+    "w": 1824
+}

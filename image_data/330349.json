@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 17,
+    "data_source": "UNSET",
+    "dec": "4.938",
+    "description": "Ha 22 x 1800s\r\nS2 27 x 1800s\r\nO3 24 x 1800s\r\n\r\nR: Ha 20%, S2 80%\r\nG: Ha 60%, O3 30%, S2 10%\r\nB: O3 100%",
+    "h": 1456,
+    "hash": null,
+    "id": 330349,
+    "imaging_cameras": [
+        "Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Televue NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 152,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807353/"
+    ],
+    "orientation": "80.781",
+    "pixscale": "1.830",
+    "published": "2018-01-21T16:09:49.028278",
+    "ra": "97.984",
+    "radius": "1.452",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330349/",
+    "revisions": [
+        "/api/v1/imagerevision/135221/",
+        "/api/v1/imagerevision/137419/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC 2237 SHO",
+    "updated": "2021-03-17T16:45:39.229191",
+    "uploaded": "2018-01-21T16:09:49.640012",
+    "url_duckduckgo": "https://www.astrobin.com/330349/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330349/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330349/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330349/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330349/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330349/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330349/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15517/2018/278cb7c8-070a-438f-962d-4728afd919d4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/278cb7c8-070a-438f-962d-4728afd919d4-1516553460.jpg",
+    "url_thumb": "https://www.astrobin.com/330349/0/rawthumb/thumb/",
+    "user": "Peque",
+    "views": 486,
+    "w": 1824
+}

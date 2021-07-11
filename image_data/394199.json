@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "An old project from late summer/fall of 2018. This is a pretty deep integration of all three major narrow bands, Ha, OIII and SII. Refined my use of \"Linear Alignment\", a simple pixel-math technique I've created to align data without using a linear fit, which I feel can result in bloated blue halos and somewhat break the natural differences between channels. I now align on a carefully selected region of background to optimize the process.\r\n\r\nThis is probably one of the most colorful places I've come across when performing Hubble Palette blends. Combined with all the dust, it is one amazingly detailed, rainbow-colored region of space!",
+    "h": 130,
+    "hash": null,
+    "id": 394199,
+    "imaging_cameras": [
+        "ZWO ASI183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Canon EF 600mm f/4 L II"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 169,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802418/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-03-05T21:04:31.738898",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394199/",
+    "revisions": [
+        "/api/v1/imagerevision/172400/"
+    ],
+    "subjects": [],
+    "title": "Pelican Nebula - NB",
+    "updated": "2021-03-17T11:51:41.740993",
+    "uploaded": "2019-03-05T21:04:31.931418",
+    "url_duckduckgo": "https://www.astrobin.com/394199/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394199/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394199/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394199/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394199/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394199/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394199/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/394199/0/rawthumb/thumb/",
+    "user": "jrista",
+    "views": 1460,
+    "w": 130
+}

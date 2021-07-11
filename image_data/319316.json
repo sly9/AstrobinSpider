@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "59.443",
+    "description": "So now I am a believer.  I know most are already using flats so this for those that are not.  They are pretty easy to take if you have a DSLR. After doing astrophotography for a couple years I have finally started using flats.  Not coming from a photography background they were always something of a mystery to of me.  I have read many directions on how to take them and tried them unsuccessfully last year.  For me what was missing was a video of someone actually doing it in the field.  That all changed a couple of weeks ago thanks to Trevor Jones from Astrobackyard.com.  His YouTube tutorial (How to take Flat Frames), as usual, was excellent especially since I was able to follow it.  Setting the DSLR on Av-mode and putting a T-shirt over the objective as he described worked o.k. on the Double Cluster image I took a few week back, however I don't think the sky was optimal.  He suggested getting a light box.  As luck would have it, Scott (https://www.astrobin.com/users/BigScott_27/) a user on Astrobin who happens to live really close to me saw my post and said he had a really nice light box (http://spike-a.com/flatfielders/) that is collecting dust.\r\n\r\nThe top image of the Soul Nebula is stacked without using flats and the bottom image is stacked with flats (taken using the light box).  I did about 5 minutes of the same processing on each for comparison, thus the only processing that was done after stacking was RGB set to 35, curve stretch, levels (except I used Gradient Exterminator on the image without flats).   The image is not done yet I still have much more processing left, however, it will be a lot easier to get a good image.",
+    "h": 6912,
+    "hash": null,
+    "id": 319316,
+    "imaging_cameras": [
+        "Canon T3i Full Spectrum 600D"
+    ],
+    "imaging_telescopes": [
+        "Orion ED80 80mm f/7.5 Apochromatic Refractor Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "http://kurt-zeppetello.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "165.056",
+    "pixscale": "1.835",
+    "published": "2017-10-29T21:59:40.350751",
+    "ra": "43.764",
+    "radius": "2.202",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319316/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871",
+        "IC1848",
+        "IC289",
+        "PK138+02.1",
+        "Sh2-196",
+        "Sh2-198",
+        "Sh2-199",
+        "Sh2-201"
+    ],
+    "title": "Soul - Using Flats in Astrophotography",
+    "updated": "2021-03-17T19:21:41.267578",
+    "uploaded": "2017-10-29T21:59:41.471356",
+    "url_duckduckgo": "https://www.astrobin.com/319316/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319316/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319316/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319316/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319316/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319316/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319316/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/aa5951fc-2f7e-4ee7-ab33-42dde15973d1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/aa5951fc-2f7e-4ee7-ab33-42dde15973d1-1582636252.jpg",
+    "url_thumb": "https://www.astrobin.com/319316/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 80,
+    "w": 5184
+}

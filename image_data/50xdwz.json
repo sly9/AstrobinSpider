@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "34.504",
+    "description": "Dual telescope setup, ASI1600 on Esprit 150 with Apex reducer at f/4.6 and ASI294 on Esprit 100 with field flattener at f/5.5.",
+    "h": 1512,
+    "hash": "50xdwz",
+    "id": 462646,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro",
+        "ZWO ASI1600MM"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100 ED f/5.5 APO",
+        "Skywatcher Esprit 150ED - 150mm f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 27,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810596/"
+    ],
+    "orientation": "357.246",
+    "pixscale": "2.636",
+    "published": "2020-03-07T05:18:37.163578",
+    "ra": "82.210",
+    "radius": "0.918",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/462646/",
+    "revisions": [],
+    "subjects": [
+        "IC 417",
+        "NGC 1931",
+        "The star φAur"
+    ],
+    "title": "IC417 and NGC1931 in Auriga",
+    "updated": "2021-04-11T09:49:33.934328",
+    "uploaded": "2020-03-07T05:18:37.319830",
+    "url_duckduckgo": "https://www.astrobin.com/50xdwz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/50xdwz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/50xdwz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/50xdwz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/50xdwz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/50xdwz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/50xdwz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31743/2020/38b8c51d-6877-4465-8fb1-e9d03176e7c5.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31743/2020/38b8c51d-6877-4465-8fb1-e9d03176e7c5-1583558663.jpeg",
+    "url_thumb": "https://www.astrobin.com/50xdwz/0/rawthumb/thumb/",
+    "user": "Tucker512",
+    "views": 247,
+    "w": 2000
+}

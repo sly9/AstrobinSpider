@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "41.265",
+    "description": "A Mosaic of 6 panels",
+    "h": 3006,
+    "hash": "ms4z4i",
+    "id": 463848,
+    "imaging_cameras": [
+        "Atik one 9.0 CCD with OAG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon-130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812786/"
+    ],
+    "orientation": "270.762",
+    "pixscale": "3.554",
+    "published": "2020-03-08T13:32:42.738800",
+    "ra": "10.684",
+    "radius": "2.244",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/463848/",
+    "revisions": [],
+    "subjects": [
+        "Andromeda Galaxy",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "The star νAnd"
+    ],
+    "title": "M31",
+    "updated": "2021-03-17T04:23:09.671245",
+    "uploaded": "2020-03-08T13:32:43.981440",
+    "url_duckduckgo": "https://www.astrobin.com/ms4z4i/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ms4z4i/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ms4z4i/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ms4z4i/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ms4z4i/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ms4z4i/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ms4z4i/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26247/2020/fcd4fa97-e0fc-4e70-85ce-5d5710e29d55.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26247/2020/fcd4fa97-e0fc-4e70-85ce-5d5710e29d55-1583674805.jpg",
+    "url_thumb": "https://www.astrobin.com/ms4z4i/0/rawthumb/thumb/",
+    "user": "chengdkf",
+    "views": 426,
+    "w": 3410
+}

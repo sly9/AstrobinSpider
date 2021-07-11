@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "20.539",
+    "description": "Narrowband images (Ha, OIII, SII) arranged as a RGB composition.",
+    "h": 2877,
+    "hash": null,
+    "id": 333245,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 125,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "203.607",
+    "pixscale": "1.390",
+    "published": "2018-02-28T15:46:11.323953",
+    "ra": "92.420",
+    "radius": "0.720",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333245/",
+    "revisions": [],
+    "subjects": [
+        "IC2159",
+        "NGC 2174",
+        "NGC 2175",
+        "NGC2174",
+        "NGC2175",
+        "Sh2-252"
+    ],
+    "title": "NGC 2174 - Monkey Head Nebula (SHO)",
+    "updated": "2021-03-17T16:33:01.559698",
+    "uploaded": "2018-02-11T23:38:39.407682",
+    "url_duckduckgo": "https://www.astrobin.com/333245/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333245/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333245/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333245/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333245/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333245/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333245/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2018/6680dc6c-893f-4405-bf57-fe89c9079355.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2018/6680dc6c-893f-4405-bf57-fe89c9079355-1582606894.jpg",
+    "url_thumb": "https://www.astrobin.com/333245/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 278,
+    "w": 2372
+}

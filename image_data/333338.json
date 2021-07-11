@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.508",
+    "description": "I thought it would be interesting to crop the original image of NGC 2903 to just the core of the galaxy and see how much detail and color could be extracted. This is the result. It is certainly much easier to get the color correct when you just deal with the galaxy itself.\r\n\r\nIt's interesting that you can get even this much detail from only 6% of the area of the original image.",
+    "h": 988,
+    "hash": null,
+    "id": 333338,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "174.923",
+    "pixscale": "1.104",
+    "published": "2018-02-12T17:27:55.287453",
+    "ra": "143.042",
+    "radius": "0.210",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/333338/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905",
+        "NGC2903",
+        "NGC2905"
+    ],
+    "title": "NGC 2903 RGB Crop to Core",
+    "updated": "2021-03-17T16:32:35.699117",
+    "uploaded": "2018-02-12T17:27:55.494464",
+    "url_duckduckgo": "https://www.astrobin.com/333338/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333338/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333338/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333338/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333338/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333338/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333338/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/e90b3080-f2c4-47bc-ad06-baa19aad0713.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/e90b3080-f2c4-47bc-ad06-baa19aad0713-1587375908.jpg",
+    "url_thumb": "https://www.astrobin.com/333338/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 336,
+    "w": 948
+}

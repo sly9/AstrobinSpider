@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.391",
+    "description": "Recent work in Cygnus- still working towards a 6 panel mosaic of the Loop.  I have been shooting the Hydrogen and Oxygen data from Chattanooga while shooting my LRGB data from Marathon remotely.  I've been using a 3nm Hydrogen and a 6nm Oxygen filter to do my work.  Results have been pleasing to me.  \r\n\r\nI hope to add a 3nm Oxygen filter soon.  \r\n\r\nThanks for looking-  Details: \r\n\r\nImage statistics: \r\nL- 20 x 180s\r\nR- 20 x 180s\r\nG- 20 x 180s\r\nB- 20 x 180s \r\nHA- 20 x 600s \r\nO3- 20 x 600s\r\n\r\nMaking it around 10.5 hours per panel at present. Image acquired during July and August in Marathon Texas and Chattanooga, TN.",
+    "h": 4420,
+    "hash": null,
+    "id": 421577,
+    "imaging_cameras": [
+        "QHY 16200A 16200 #2",
+        "QHY 16200A"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO WOFLT132",
+        "William Optics FLT 132 Triplet APO Scope #2"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800646/",
+        "/api/v1/location/2807773/",
+        "/api/v1/location/2809665/"
+    ],
+    "orientation": "120.999",
+    "pixscale": "1.651",
+    "published": "2019-08-19T13:31:15.786256",
+    "ra": "312.284",
+    "radius": "1.982",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/421577/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6960",
+        "The star 52Cyg",
+        "Veil Nebula"
+    ],
+    "title": "The Western Veil Nebula",
+    "updated": "2021-03-23T07:48:55.936640",
+    "uploaded": "2019-08-19T14:31:15.964838",
+    "url_duckduckgo": "https://www.astrobin.com/421577/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/421577/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/421577/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/421577/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/421577/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/421577/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/421577/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5954/2020/558aa4b5-af64-4b7e-88d0-67fe6a0eea42.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5954/2020/558aa4b5-af64-4b7e-88d0-67fe6a0eea42-1594763809.jpg",
+    "url_thumb": "https://www.astrobin.com/421577/0/rawthumb/thumb/",
+    "user": "CosmicWreckingBall",
+    "views": 373,
+    "w": 7430
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "43.581",
+    "description": "NGC 3675 is a magnitude 10 spiral galaxy located in Ursa Major.  It is about 50 million light years away.  NGC 3675 belongs to the Ursa Major Cluster, part of the Virgo Supercluster.\r\n\r\nDate: Mar 16-24  2018\r\nLocation: New Ringgold PA\r\n\r\nOptics: LUM: Starizona Hyperion f/8 12.5 inch, FL 2540 mm \r\nMount: LUM: Paramount ME\r\nCamera: LUM: Apogee U8300\r\n\r\nOptics: RGB: Celestron EdgeHD 1100 \r\nMount: RGB: Paramount MX\r\nCamera: RGB:Sbig STL-11000\r\n\r\nGuiding: Self-guided/ONAG\r\nExposure: LRGB: L:34x20 min R:15x10 min, G:14x10 min, B:18x10 min for a total of 19.2  hrs. \r\nProcessing: Image acquisition using Maxim DL and CCD Autopilot. The Lum and RGB color images were created in Maxim with final processing in Photoshop.",
+    "h": 1867,
+    "hash": null,
+    "id": 339634,
+    "imaging_cameras": [
+        "SBIG STL-11000",
+        "Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Celestron EdgeHD 11",
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "82.070",
+    "pixscale": "0.440",
+    "published": "2018-03-29T19:12:05.543094",
+    "ra": "171.541",
+    "radius": "0.184",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339634/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3675",
+        "NGC3675"
+    ],
+    "title": "NGC 3675",
+    "updated": "2021-04-17T20:02:45.691879",
+    "uploaded": "2018-03-29T20:12:07.386420",
+    "url_duckduckgo": "https://www.astrobin.com/339634/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339634/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339634/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339634/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339634/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339634/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339634/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c5e686ac-6c64-434f-a7f7-2ffcbbb659ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c5e686ac-6c64-434f-a7f7-2ffcbbb659ff-1522350919.jpg",
+    "url_thumb": "https://www.astrobin.com/339634/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 426,
+    "w": 2367
+}

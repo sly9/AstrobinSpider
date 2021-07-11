@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "32.542",
+    "description": "Update:\r\nhere is the \"raw\" PI drizzle image,\r\n<a href=\"http://www.dl.dropboxusercontent.com/s/b9lkfhqsmpbybxs/NGC4631-ScreenDump1-2020.jpg?raw=1\" target=\"_new\">NGC4631-raw-DrizzleIntegration-All-Frames</a>\r\n\r\nHere's the image after I have processed it in PS,\r\n<a href=\"http://www.dl.dropboxusercontent.com/s/4jhq9jj5zv4g6wp/NGC4631-drizzle-integrationAPSsize33pct.jpg?raw=1\" target=\"_new\">PS enhanced Image</a>\r\nAbove images was then used as a luminance layer is PS -> ImageV3.\r\nI have not yet calculated the total exposure time of the drizzle integrated 324 images, a manually task.\r\n\r\nOrg. text:\r\nExpect this color picture of NGC4631 to be my last one for this astro season, summer is approaching fast in DK.\r\n\r\nExposures done like this:\r\n20 April-2018, R=38x60sec, G=36x60sec, B=42x60sec.\r\n21 April-2018, Ha=6x300sec, OIII=6x300sec, Lum=52x60sec.\r\n22 April-2018, Ha=10x300sec, OIII=11x300sec.\r\n\r\nMy home build observatory is placed in my front yard/in the \"red light\" polution zone, have a look here,\r\n<a href=\"https://www.dropbox.com/s/lnr3elrgm81uj0i/Light-polution-mapDK.jpg?dl=0\"; target=\"_new\">Red Zone</a>\r\n\r\nStack info. available (as 16bit Tiff) if needed/on request.\r\nKind regards Niels",
+    "h": 1045,
+    "hash": null,
+    "id": 343384,
+    "imaging_cameras": [
+        "ATIK Horizon beta camera"
+    ],
+    "imaging_telescopes": [
+        "Meade Lx200ACF 16\" F6.2 Meade SCT 16\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 223,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806588/"
+    ],
+    "orientation": "139.235",
+    "pixscale": "0.922",
+    "published": "2018-04-23T14:21:15.519243",
+    "ra": "190.533",
+    "radius": "0.196",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/343384/",
+    "revisions": [
+        "/api/v1/imagerevision/143298/",
+        "/api/v1/imagerevision/211712/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631"
+    ],
+    "title": "NGC4631, a LArtL-RHa,GOIII,BOIII picture",
+    "updated": "2021-03-17T15:45:16.926546",
+    "uploaded": "2018-04-23T15:21:16.824938",
+    "url_duckduckgo": "https://www.astrobin.com/343384/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/343384/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/343384/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/343384/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/343384/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/343384/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/343384/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8ae3afde-ad29-4c88-b8de-a2a5f12dc248.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8ae3afde-ad29-4c88-b8de-a2a5f12dc248-1524493849.jpg",
+    "url_thumb": "https://www.astrobin.com/343384/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 879,
+    "w": 1382
+}

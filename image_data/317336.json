@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "33.420",
+    "description": "",
+    "h": 1372,
+    "hash": null,
+    "id": 317336,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA-102"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799396/"
+    ],
+    "orientation": "179.911",
+    "pixscale": "1.725",
+    "published": "2017-10-18T22:26:57.561437",
+    "ra": "80.678",
+    "radius": "0.999",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/317336/",
+    "revisions": [],
+    "subjects": [
+        "IC 410",
+        "NGC 1893",
+        "The star 19Aur"
+    ],
+    "title": "NGC1893",
+    "updated": "2021-03-17T19:29:56.425622",
+    "uploaded": "2017-10-18T23:13:02.597938",
+    "url_duckduckgo": "https://www.astrobin.com/317336/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/317336/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/317336/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/317336/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/317336/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/317336/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/317336/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/2db2cf47-ae81-49b0-8730-a0dca7d9806f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2db2cf47-ae81-49b0-8730-a0dca7d9806f-1508365496.jpg",
+    "url_thumb": "https://www.astrobin.com/317336/0/rawthumb/thumb/",
+    "user": "TobiasLindemann",
+    "views": 162,
+    "w": 1824
+}

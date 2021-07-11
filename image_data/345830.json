@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 18,
+    "data_source": "UNSET",
+    "dec": "42.019",
+    "description": "",
+    "h": 1220,
+    "hash": null,
+    "id": 345830,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BD 150/750 Newton f5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 215,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.732",
+    "pixscale": "1.068",
+    "published": "2018-05-08T15:29:27.092070",
+    "ra": "198.941",
+    "radius": "0.431",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345830/",
+    "revisions": [],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M63  (the Sunflower Galaxy)",
+    "updated": "2021-06-02T12:53:28.286886",
+    "uploaded": "2018-05-08T16:24:12.803719",
+    "url_duckduckgo": "https://www.astrobin.com/345830/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345830/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345830/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345830/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345830/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345830/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345830/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9b995e62-b520-4a60-aa90-cfe192f44848.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9b995e62-b520-4a60-aa90-cfe192f44848-1525793334.jpg",
+    "url_thumb": "https://www.astrobin.com/345830/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 651,
+    "w": 1824
+}

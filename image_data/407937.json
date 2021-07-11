@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "60.408",
+    "description": "Original: ‘Natural’ colors with H-alpha in red and OIII in teal/blue. Straight HOO combination after linear fit of OIII to Ha, no tone mapping.\r\n\r\nRev. E: False color tone map with H-alpha luminance. Color mapping was: red = Ha, green = Ha * OIII, blue = OIII.\r\n\r\nI captured this near the end of nebula season and would like to add more exposure time this summer, might add SII as well.",
+    "h": 1628,
+    "hash": null,
+    "id": 407937,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service Triplet FPL-53 APO 80/480"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "179.583",
+    "pixscale": "4.032",
+    "published": "2019-05-30T20:38:52.976859",
+    "ra": "43.757",
+    "radius": "1.499",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/407937/",
+    "revisions": [
+        "/api/v1/imagerevision/181161/"
+    ],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "IC 1848 – Soul Nebula",
+    "updated": "2021-03-17T10:47:44.692615",
+    "uploaded": "2019-05-30T21:02:56.674454",
+    "url_duckduckgo": "https://www.astrobin.com/407937/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/407937/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/407937/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/407937/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/407937/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/407937/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/407937/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17286/2020/56127e66-66a0-476b-a681-aa6ec803ebb3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17286/2020/56127e66-66a0-476b-a681-aa6ec803ebb3-1582517304.jpg",
+    "url_thumb": "https://www.astrobin.com/407937/0/rawthumb/thumb/",
+    "user": "VicV",
+    "views": 305,
+    "w": 2124
+}

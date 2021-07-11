@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "56.647",
+    "description": "The Pacman in Hubble Palette with RGB stars. Pretty surprised to see some faint nebulosity appear in the outer regions with around 5h of extra exposure. The O and S subs are a mix of Zwo 7nm filters and the new Astrodon 3nm filters.\r\n\r\n72 x 5min Ha gain 139 offset 21\r\n76 x 5 min O3 gain 200 offset 50\r\n76x 5min S2 gain 200 offset 50\r\n30 x 1 min R gain 139 offset 21\r\n30 x 1 min G gain 139 offset 21\r\n30 x 1 min B gain 139 offset 21\r\n\r\nThe whole process unfolded over the month of september, over 7 nights.",
+    "h": 1335,
+    "hash": "mghqrh",
+    "id": 433041,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "101.040",
+    "pixscale": "0.782",
+    "published": "2019-10-13T11:46:35.526175",
+    "ra": "13.118",
+    "radius": "0.597",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/433041/",
+    "revisions": [
+        "/api/v1/imagerevision/196769/"
+    ],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "Pacman Nebula in SHO",
+    "updated": "2021-03-17T08:43:49.670432",
+    "uploaded": "2019-10-13T12:46:35.822352",
+    "url_duckduckgo": "https://www.astrobin.com/mghqrh/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mghqrh/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mghqrh/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mghqrh/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mghqrh/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mghqrh/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mghqrh/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/a3b70817-205b-4ca2-a168-a191f7e21ba9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/a3b70817-205b-4ca2-a168-a191f7e21ba9-1570971298.png",
+    "url_thumb": "https://www.astrobin.com/mghqrh/0/rawthumb/thumb/",
+    "user": "Bobinius",
+    "views": 168,
+    "w": 1824
+}

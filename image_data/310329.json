@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "5.001",
+    "description": "(Composite study of RGB and HsOOh to make stars smaller)",
+    "h": 2383,
+    "hash": null,
+    "id": 310329,
+    "imaging_cameras": [
+        "QSI 583ws",
+        "Nikon D810A"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D",
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807132/"
+    ],
+    "orientation": "1.279",
+    "pixscale": "2.586",
+    "published": "2017-08-31T19:33:49.399406",
+    "ra": "97.985",
+    "radius": "1.123",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310329/",
+    "revisions": [
+        "/api/v1/imagerevision/124060/",
+        "/api/v1/imagerevision/124061/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "The Rosette Nebula",
+    "updated": "2021-03-17T19:58:33.238858",
+    "uploaded": "2017-08-31T20:33:50.415287",
+    "url_duckduckgo": "https://www.astrobin.com/310329/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310329/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310329/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310329/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310329/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310329/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310329/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/426a0e37-ab1a-4c95-ac69-6fdc60e5969c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/426a0e37-ab1a-4c95-ac69-6fdc60e5969c-1582598883.jpg",
+    "url_thumb": "https://www.astrobin.com/310329/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 405,
+    "w": 2023
+}

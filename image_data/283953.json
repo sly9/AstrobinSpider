@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "Luminace data: Marcel Drechsler\r\nRGB data: André Graupe\r\n\r\nAndre Graupe\r\n16x380s, 23x390s, 42x450s (ISO 400) RGB , TS APO 65Q\r\nCanon 1000Da, IDAS D1\r\n\r\nMarcel Drechsler\r\n467x30s Lum, Celestron RASA \r\nASI 1600mm cool, Baader Lum",
+    "h": 1386,
+    "hash": null,
+    "id": 283953,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph",
+        "TS65Q"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 190,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-02-17T15:15:01.155002",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283953/",
+    "revisions": [
+        "/api/v1/imagerevision/248101/"
+    ],
+    "subjects": [],
+    "title": "Messier 78",
+    "updated": "2021-07-01T19:02:23.694566",
+    "uploaded": "2017-02-17T15:15:02.252256",
+    "url_duckduckgo": "https://www.astrobin.com/283953/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283953/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283953/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283953/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283953/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283953/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283953/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/283953/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1230,
+    "w": 1824
+}

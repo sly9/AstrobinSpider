@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "-2.426",
+    "description": "I'm relatively happy with the result, except for one thing. If you look carefully you might notice that the bright flares near the center of Alnitak have a rectangular shape (and to a lesser extent on less brighter stars). Something to do with optical diffraction somewhere in the image train? Suggestions are welcome.\r\n\r\n90x60s L + 3x30x60s RGB",
+    "h": 1368,
+    "hash": null,
+    "id": 275325,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 60,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800783/"
+    ],
+    "orientation": "106.376",
+    "pixscale": "3.704",
+    "published": "2016-12-07T19:05:42.005555",
+    "ra": "85.142",
+    "radius": "1.543",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/275325/",
+    "revisions": [],
+    "subjects": [
+        "Horsehead nebula",
+        "IC 431",
+        "IC 432",
+        "IC 434",
+        "IC 435",
+        "NGC 2023",
+        "NGC 2024",
+        "The star Alnitak (ζOri)",
+        "The star σOri"
+    ],
+    "title": "IC434, Horsehead nebula",
+    "updated": "2021-03-17T22:18:24.113267",
+    "uploaded": "2016-12-07T19:05:42.393006",
+    "url_duckduckgo": "https://www.astrobin.com/275325/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/275325/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/275325/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/275325/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/275325/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/275325/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/275325/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/4c6297e9-ac50-48e4-b611-663b336055aa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4c6297e9-ac50-48e4-b611-663b336055aa-1481137826.jpg",
+    "url_thumb": "https://www.astrobin.com/275325/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 330,
+    "w": 1824
+}

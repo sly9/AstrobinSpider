@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "57.486",
+    "description": "",
+    "h": 3487,
+    "hash": null,
+    "id": 410700,
+    "imaging_cameras": [
+        "ZWO ASI1600MMC"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810579/"
+    ],
+    "orientation": "269.626",
+    "pixscale": "1.819",
+    "published": "2019-06-16T19:58:18.323057",
+    "ra": "324.041",
+    "radius": "1.461",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410700/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396"
+    ],
+    "title": "IC 1396A",
+    "updated": "2021-04-28T12:36:10.733198",
+    "uploaded": "2019-06-16T20:58:18.731156",
+    "url_duckduckgo": "https://www.astrobin.com/410700/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410700/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410700/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410700/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410700/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410700/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410700/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c19621ce-31d5-4023-a02b-be53a14003cb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c19621ce-31d5-4023-a02b-be53a14003cb-1560719185.jpg",
+    "url_thumb": "https://www.astrobin.com/410700/0/rawthumb/thumb/",
+    "user": "Andreas_Hauf",
+    "views": 576,
+    "w": 4612
+}

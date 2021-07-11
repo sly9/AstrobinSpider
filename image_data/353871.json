@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "-23.057",
+    "description": "",
+    "h": 2475,
+    "hash": null,
+    "id": 353871,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Orion 10\" f/3.9 Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 14,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808302/"
+    ],
+    "orientation": "0.496",
+    "pixscale": "1.106",
+    "published": "2018-07-03T05:37:55.676769",
+    "ra": "270.581",
+    "radius": "0.633",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/353871/",
+    "revisions": [
+        "/api/v1/imagerevision/151304/",
+        "/api/v1/imagerevision/151305/"
+    ],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "Trifid Nebula",
+    "updated": "2021-03-17T15:00:46.080912",
+    "uploaded": "2018-07-03T06:37:57.720703",
+    "url_duckduckgo": "https://www.astrobin.com/353871/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/353871/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/353871/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/353871/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/353871/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/353871/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/353871/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0a3ac958-f74c-4a1c-8078-cfc6bc55ee59.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0a3ac958-f74c-4a1c-8078-cfc6bc55ee59-1530597712.jpg",
+    "url_thumb": "https://www.astrobin.com/353871/0/rawthumb/thumb/",
+    "user": "swaroopshere",
+    "views": 120,
+    "w": 3296
+}

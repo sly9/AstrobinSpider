@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "PRO_DATA",
+    "dec": null,
+    "description": "On the 24th of January 2017, some user of the Liverpool Telescope decided to spend a few frames on Thor's Helmet. This is the only data on this object in the LT database and it consists of seven 120 s exposures, 3 with a Ha filter and two exposures of each of Bessell V (green) and Bessell B (blue). That is not much data but also not much work to stack, so I had a go at it. So this is a 14 min HaGB image. Thus, I put the Ha data in the red channel (since there were no red filter data), which probably explains the slightly unusual colours. All done in PS CS5.\r\n\r\nThis is of course a rather noisy image (pixel peepers should stay away) compared to the Little Dumbbell that I recently posted with 3.6 h of LT data. Still, I am slightly amazed what a big scope can collect in 14 minutes.\r\n\r\nThe scope is a 2 m RC f/10 (so 20 m focal length!) equipped with a 6 x 6 cm (15 µm pixels) 18 Mpix CCD camera (normally run at 2x2 bin) of the brand e2v, which I think is chilled to -100°C.",
+    "h": 2057,
+    "hash": null,
+    "id": 292876,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-04-23T09:01:49.486497",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292876/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Thor's Helmet 14 min snapshot with a 79\" RC scope",
+    "updated": "2021-03-17T21:06:25.902566",
+    "uploaded": "2017-04-23T10:01:50.554152",
+    "url_duckduckgo": "https://www.astrobin.com/292876/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292876/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292876/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292876/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292876/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292876/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292876/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/292876/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 266,
+    "w": 2049
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "-13.184",
+    "description": "A work-in-process version of NGC 2359; more data will be added as collection continues at DSW. ",
+    "h": 3742,
+    "hash": null,
+    "id": 282443,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 14.5\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 137,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "106.602",
+    "pixscale": "0.550",
+    "published": "2017-02-03T09:30:40.356145",
+    "ra": "109.637",
+    "radius": "0.405",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/282443/",
+    "revisions": [
+        "/api/v1/imagerevision/109721/"
+    ],
+    "subjects": [
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "NGC 2359 HRGB",
+    "updated": "2021-03-17T21:50:33.601984",
+    "uploaded": "2017-02-03T09:30:41.183448",
+    "url_duckduckgo": "https://www.astrobin.com/282443/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/282443/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/282443/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/282443/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/282443/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/282443/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/282443/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2017/829f877c-64fe-4bd0-bded-b6c129697e0d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2017/829f877c-64fe-4bd0-bded-b6c129697e0d-1582616273.jpg",
+    "url_thumb": "https://www.astrobin.com/282443/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 745,
+    "w": 3742
+}

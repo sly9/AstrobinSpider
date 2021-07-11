@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "43.135",
+    "description": "I'd have to admit Rodd's now defunct globular cluster contest was an interesting diversion for me while working on this week-long 24\" M92 project. Looking back 3 years into my first visit of M92 with an 8\" definitely helped me not make the same mistakes, especially regarding color.\r\n\r\nAfter seeing a hint of IFN in the subs, I decided to aim for 6 hours of L and 3 hours of each RGB. Luckily the weather cooperated with 21.5 to 21.7 skies and FWHM on the 5-min subs between 1.7\" and 2.0\". I captured about 8 hours of L and discarded subs greater than 2\" FWHM to help achieve the resolution you see here.\r\n\r\nWith the quality data, deconvolution in PI didn't help much. Instead a very gentle decovolution using PS Smart Sharpen provided sharper stars without the typical deconvolution artifacts.\r\n\r\nAfter PI DBE, BN and PCC, color stretching was done in PI using Masked Stretch followed by careful curves in PS to extract more color in the shadows. This helped soften the brightest stars while bringing out very low-level color.\r\n\r\nBackground noise processing (PS Camera Raw with globular mask) was very gentle to help preserve the faint IFN, albeit a bit more noise and a higher black level.\r\n\r\nAs always, comments are much appreciated!\r\n\r\n\r\n\"M92 is a globular cluster of stars in the northern constellation of Hercules. It was discovered by Johann Elert Bode in 1777. The cluster was independently rediscovered by Charles Messier on March 18, 1781. M92 is at a distance of about 26,700 light-years away from Earth.\r\n\r\nM92 is one of the brighter globular clusters in the northern hemisphere, but it is often overlooked by amateur astronomers because of its proximity to the even more spectacular M13. It's visible to the naked eye under very good conditions.\r\n\r\nAmong the Milky Way population of globular clusters, M92 is among the brighter clusters in terms of absolute magnitude. It is also one of the oldest clusters.\"",
+    "h": 3544,
+    "hash": null,
+    "id": 412820,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "179.095",
+    "pixscale": "0.468",
+    "published": "2019-07-01T15:54:05.557380",
+    "ra": "259.282",
+    "radius": "0.337",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/412820/",
+    "revisions": [],
+    "subjects": [
+        "M 92",
+        "NGC 6341"
+    ],
+    "title": "M92 with 24\"",
+    "updated": "2021-06-27T22:23:00.110233",
+    "uploaded": "2019-07-01T16:54:05.699464",
+    "url_duckduckgo": "https://www.astrobin.com/412820/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/412820/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/412820/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/412820/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/412820/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/412820/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/412820/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/1cbcb2a4-4f41-426d-a206-94076358875e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/1cbcb2a4-4f41-426d-a206-94076358875e-1585790089.jpg",
+    "url_thumb": "https://www.astrobin.com/412820/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 648,
+    "w": 3776
+}

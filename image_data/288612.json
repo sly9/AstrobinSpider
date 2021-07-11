@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "21.832",
+    "description": "",
+    "h": 2456,
+    "hash": null,
+    "id": 288612,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 62,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "104.148",
+    "pixscale": "0.689",
+    "published": "2017-03-26T23:03:03.163309",
+    "ra": "154.529",
+    "radius": "0.396",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/288612/",
+    "revisions": [
+        "/api/v1/imagerevision/246787/"
+    ],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3193"
+    ],
+    "title": "Hickson 44",
+    "updated": "2021-03-17T21:26:48.805956",
+    "uploaded": "2017-03-27T00:03:03.728855",
+    "url_duckduckgo": "https://www.astrobin.com/288612/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/288612/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/288612/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/288612/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/288612/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/288612/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/288612/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8751/2020/692617ed-848b-482d-ba00-93667905dc74.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8751/2020/692617ed-848b-482d-ba00-93667905dc74-1598191703.jpg",
+    "url_thumb": "https://www.astrobin.com/288612/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 206,
+    "w": 3321
+}

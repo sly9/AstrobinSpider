@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "4.940",
+    "description": "Rosette Nebula in Monoceros imaged in NB over 7 nights.\r\nModified SHO\r\nR: 60%SII+40%H-Alpha\r\nG: 30%SII+30%H-Alpha+40%OIII\r\nB:10%SII+10%H-Alpha+80%OIII",
+    "h": 1504,
+    "hash": null,
+    "id": 277326,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802446/"
+    ],
+    "orientation": "80.613",
+    "pixscale": "1.055",
+    "published": "2016-12-26T17:15:00.099908",
+    "ra": "98.006",
+    "radius": "1.383",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277326/",
+    "revisions": [
+        "/api/v1/imagerevision/107543/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula Modified Narrowband",
+    "updated": "2021-03-17T22:10:47.129782",
+    "uploaded": "2016-12-26T17:15:00.939871",
+    "url_duckduckgo": "https://www.astrobin.com/277326/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277326/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277326/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277326/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277326/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277326/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277326/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5806/2016/ea3e52b1-530b-46db-8aea-bc440e8b5be7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ea3e52b1-530b-46db-8aea-bc440e8b5be7-1482773265.jpg",
+    "url_thumb": "https://www.astrobin.com/277326/0/rawthumb/thumb/",
+    "user": "Astrovetteman",
+    "views": 126,
+    "w": 1824
+}

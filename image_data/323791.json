@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 30,
+    "comments": 19,
+    "data_source": "BACKYARD",
+    "dec": "36.384",
+    "description": "BiColor Image",
+    "h": 3515,
+    "hash": null,
+    "id": 323791,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 277,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "99.271",
+    "pixscale": "1.265",
+    "published": "2017-11-27T16:15:05.562019",
+    "ra": "59.854",
+    "radius": "1.024",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323791/",
+    "revisions": [
+        "/api/v1/imagerevision/247873/"
+    ],
+    "subjects": [
+        "The star ξPer"
+    ],
+    "title": "NGC 1499",
+    "updated": "2021-04-12T06:48:55.977901",
+    "uploaded": "2017-11-27T16:15:06.361497",
+    "url_duckduckgo": "https://www.astrobin.com/323791/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323791/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323791/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323791/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323791/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323791/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323791/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20996/2020/12fb1d93-56f6-4edc-9b5f-e5c0169d82b2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20996/2020/12fb1d93-56f6-4edc-9b5f-e5c0169d82b2-1598883280.jpg",
+    "url_thumb": "https://www.astrobin.com/323791/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1608,
+    "w": 4652
+}

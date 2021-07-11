@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 5,
+    "data_source": "OWN_REMOTE",
+    "dec": "30.683",
+    "description": "<p><a href=\"http://www.deepskywest.com/\" target=\"_blank\"><img src=\"http://deepskywest.com/wp-content/uploads/2018/07/logo-for-AB-1.png\"/></a></p>\r\n\r\nA long integration across 4 instruments:  AP-175, AP RH-305 (16803), AP RH-305 (8300), AG Optical 12.5\".  All data registered to the AG Optical.",
+    "h": 1824,
+    "hash": null,
+    "id": 372706,
+    "imaging_cameras": [
+        "SBIG STX 16803",
+        "Finger Lakes Instrumentation PL 16070"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK",
+        "RC Optical Systems RCOS 14.5\"",
+        "Astro-Physics 175mm Starfire f/8 EDF",
+        "Astro-Physics RH-305"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 216,
+    "link": "https://www.deepskywest.com",
+    "link_to_fits": "https://www.deepskywest.com",
+    "locations": [],
+    "orientation": "180.210",
+    "pixscale": "0.873",
+    "published": "2018-10-20T05:46:51.850776",
+    "ra": "23.472",
+    "radius": "0.703",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/372706/",
+    "revisions": [
+        "/api/v1/imagerevision/159629/",
+        "/api/v1/imagerevision/159633/",
+        "/api/v1/imagerevision/159635/",
+        "/api/v1/imagerevision/159859/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 - Deep Sky West Remote Observatory",
+    "updated": "2021-03-17T13:31:35.684713",
+    "uploaded": "2018-10-19T22:48:10.288589",
+    "url_duckduckgo": "https://www.astrobin.com/372706/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/372706/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/372706/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/372706/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/372706/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/372706/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/372706/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4510/2018/862ee2a3-1bc1-4634-8280-8e107a773049.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/862ee2a3-1bc1-4634-8280-8e107a773049-1540003525.jpg",
+    "url_thumb": "https://www.astrobin.com/372706/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 1045,
+    "w": 1824
+}

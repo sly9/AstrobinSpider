@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "54.354",
+    "description": "",
+    "h": 1179,
+    "hash": null,
+    "id": 289033,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "Meade  LX850-ACF f/8 10\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806327/"
+    ],
+    "orientation": "-177.941",
+    "pixscale": "1.099",
+    "published": "2017-03-29T00:38:08.323608",
+    "ra": "210.768",
+    "radius": "0.303",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/289033/",
+    "revisions": [
+        "/api/v1/imagerevision/134245/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457"
+    ],
+    "title": "M101 L_HA_RGB",
+    "updated": "2021-03-17T21:25:17.119780",
+    "uploaded": "2017-03-29T01:38:08.783888",
+    "url_duckduckgo": "https://www.astrobin.com/289033/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/289033/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/289033/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/289033/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/289033/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/289033/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/289033/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/e6a4a028-2aa2-4687-b431-c0e1ac89b428.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/e6a4a028-2aa2-4687-b431-c0e1ac89b428-1492605042.jpg",
+    "url_thumb": "https://www.astrobin.com/289033/0/rawthumb/thumb/",
+    "user": "novo",
+    "views": 982,
+    "w": 1600
+}

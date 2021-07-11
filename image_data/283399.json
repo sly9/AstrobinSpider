@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "47.285",
+    "description": "Shooting 30, 31 January and 04 February  2017.\r\nThe air temperature -25 degrees Celsius.\r\nL 17x1200 sec, Ha 8x1500 sec, all bin 1x1;\r\nR  11x300sec, bin 2x2 and 10x600 sec, bin 1x1;\r\nG 12x300sec, bin 2x2 and 9x600 sec, bin 1x1;\r\nB 12x300sec, bin 2x2 and 11x600 sec, bin 1x1;",
+    "h": 2123,
+    "hash": null,
+    "id": 283399,
+    "imaging_cameras": [
+        "SBIG 8300M camera"
+    ],
+    "imaging_telescopes": [
+        "TEC 160 FL Refractor "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806569/"
+    ],
+    "orientation": "2.412",
+    "pixscale": "1.333",
+    "published": "2017-02-12T17:32:19.970387",
+    "ra": "184.627",
+    "radius": "0.504",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/283399/",
+    "revisions": [
+        "/api/v1/imagerevision/110375/",
+        "/api/v1/imagerevision/111154/",
+        "/api/v1/imagerevision/112201/"
+    ],
+    "subjects": [
+        "M 106",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M 106 or NGC 4258",
+    "updated": "2021-03-17T21:46:49.622536",
+    "uploaded": "2017-02-12T17:15:20.276687",
+    "url_duckduckgo": "https://www.astrobin.com/283399/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/283399/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/283399/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/283399/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/283399/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/283399/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/283399/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/21436/2017/42615d69-cc7a-4878-b29a-ff1932ff3d82.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/21436/2017/42615d69-cc7a-4878-b29a-ff1932ff3d82-1582574175.jpg",
+    "url_thumb": "https://www.astrobin.com/283399/0/rawthumb/thumb/",
+    "user": "Vadim@K",
+    "views": 1346,
+    "w": 1700
+}

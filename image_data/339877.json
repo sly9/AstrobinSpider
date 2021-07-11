@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "4.980",
+    "description": "This object consists of a star cluster (Caldwell 50) centered within a large emission nebula (Caldwell 49), both located 5000 light years away in the constellation of Monoceros. \r\n\r\nI always have difficulty with narrowband images, struggling especially with the Hubble palette (used here).  My struggle is making the dominant Ha signal, which is green in the palette, to be visually pleasing and not a sickly green.  I tried many different techniques with this image and I finally landed on an outcome that I am fairly satisfied with.  This image has the longest integration time of any object I have imaged.  \r\n\r\nNumerous star-producing dark Bok globules are visible in the upper left of the nebula, especially in the full resolution view. The globules are curving in various directions, but the windswept heads of all of them point back to the cluster center. Less developed globules, looking like puffy clouds, are seen on the opposite side of the central star cluster, towards the bottom right of the nebula. Also seen in this image are the bright whitish wisps of nebula arcs, seen most prominently just below and to the right of the central star cluster.  The beautiful cluster NGC 2252, 30 multicolored stars in a pretty left-to-right arc, is seen at the bottom of the image, just left of center.",
+    "h": 3408,
+    "hash": null,
+    "id": 339877,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805974/"
+    ],
+    "orientation": "91.692",
+    "pixscale": "1.742",
+    "published": "2018-04-03T12:10:29.725642",
+    "ra": "97.980",
+    "radius": "1.376",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/339877/",
+    "revisions": [
+        "/api/v1/imagerevision/268064/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC 2237",
+    "updated": "2021-07-02T15:37:17.030060",
+    "uploaded": "2018-03-31T16:31:37.001236",
+    "url_duckduckgo": "https://www.astrobin.com/339877/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/339877/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/339877/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/339877/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/339877/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/339877/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/339877/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18133/2018/66a220b0-33db-455d-bd82-67c824a9ab92.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18133/2018/66a220b0-33db-455d-bd82-67c824a9ab92-1582624175.JPG",
+    "url_thumb": "https://www.astrobin.com/339877/0/rawthumb/thumb/",
+    "user": "GaryI",
+    "views": 764,
+    "w": 4552
+}

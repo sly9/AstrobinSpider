@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 14,
+    "data_source": "TRAVELLER",
+    "dec": "-48.122",
+    "description": "NGC 6164 is a bipolar emission nebula spanning about 4 light years approximately 4,200 light years away and can be seen in the constellation of Norma. Although initially believed to be a planetary nebula, the shell-like nebula is now thought to have been ejected by the winds of the central supermassive O-type star (HD 148937). The central star is approximately 40 times the mass of our own sun and is expected to eventually explode as a supernova. \r\n\r\nThe picture was formed by combining individual images taken with two different filters that allow imaging of ionised Hydrogen (Ha) and Oxygen (OIII).  It was processed in PixInsight using a two-colour palette (Red = Ha, Green and Blue = OIII). It has been cropped, and drizzle integrated to a resolution of approx. 0.6 arcsec/pixel.",
+    "h": 2842,
+    "hash": null,
+    "id": 395395,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 195,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "90.032",
+    "pixscale": "0.610",
+    "published": "2019-03-13T02:20:28.991296",
+    "ra": "248.486",
+    "radius": "0.402",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395395/",
+    "revisions": [],
+    "subjects": [
+        "NGC6164",
+        "NGC6165",
+        "PK336-00.1"
+    ],
+    "title": "NGC 6164 [NB HOO]",
+    "updated": "2021-04-19T12:06:08.434969",
+    "uploaded": "2019-03-13T01:56:59.468226",
+    "url_duckduckgo": "https://www.astrobin.com/395395/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395395/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395395/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395395/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395395/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395395/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395395/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2019/fd4e417a-d8b3-487b-b2f0-9c1d31fcf587.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2019/fd4e417a-d8b3-487b-b2f0-9c1d31fcf587-1582516429.jpg",
+    "url_thumb": "https://www.astrobin.com/395395/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 1016,
+    "w": 3805
+}

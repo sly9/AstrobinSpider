@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "27.959",
+    "description": "I've heard this is one of the brighter and easier galaxies on the Caldwell list, but I found it really difficult to 'extract' the dimmer parts of the galaxy from the background - the data are there, but just barely. It's just really tough to do galaxies from my location. On the other hand: For the first time since NGC 7331 (over a year ago), the colors came together without any struggle whatsoever. I'm also really impressed with how well the hydrogen areas pop considering I only gave it a little over an hour.\r\n\r\nAs for why so many red / a good deal of blue / not so many green: I had a light leak issue when I began this galaxy and reshot my red subs, but Kappa-Sigma clipping actually took care of the light leak issue. I didn't realize that until later, so I included everything anyway. I don't regret it though, because I shot nearly all my reds under a full moon. I also removed the Orion SkyGlow AP filter towards the end of the acquisition here and felt it necessary to reshoot the blue, but it didn't really affect my green at all.",
+    "h": 3193,
+    "hash": null,
+    "id": 399142,
+    "imaging_cameras": [
+        "QHYCCD 183"
+    ],
+    "imaging_telescopes": [
+        "TPO/GSO RC8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809069/"
+    ],
+    "orientation": "270.507",
+    "pixscale": "0.427",
+    "published": "2019-04-03T16:16:17.734273",
+    "ra": "188.991",
+    "radius": "0.345",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/399142/",
+    "revisions": [
+        "/api/v1/imagerevision/235300/"
+    ],
+    "subjects": [
+        "NGC 4559"
+    ],
+    "title": "NGC 4559 / Caldwell 36 / Koi Fish Galaxy",
+    "updated": "2021-06-28T15:21:08.481680",
+    "uploaded": "2019-04-03T16:54:00.133030",
+    "url_duckduckgo": "https://www.astrobin.com/399142/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/399142/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/399142/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/399142/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/399142/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/399142/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/399142/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18270/2019/5e36dddb-a2e7-4e69-b9c0-6fc8f3430ee1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18270/2019/5e36dddb-a2e7-4e69-b9c0-6fc8f3430ee1-1582624746.png",
+    "url_thumb": "https://www.astrobin.com/399142/0/rawthumb/thumb/",
+    "user": "Chris-PA",
+    "views": 861,
+    "w": 4859
+}

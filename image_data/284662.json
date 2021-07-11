@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 7,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "36.462",
+    "description": "Short and long exposures (drizzled) integrated using PI HDRComposition.  \r\n\r\nCould crop to center cluster as drizzled image quadruples in size but stars are round.",
+    "h": 3142,
+    "hash": null,
+    "id": 284662,
+    "imaging_cameras": [
+        "QSI 683WSG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 154,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804426/"
+    ],
+    "orientation": "179.873",
+    "pixscale": "1.051",
+    "published": "2017-02-22T16:34:44.421817",
+    "ra": "250.423",
+    "radius": "0.730",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/284662/",
+    "revisions": [],
+    "subjects": [
+        "Great Cluster in Hercules",
+        "Hercules globular cluster",
+        "IC4617",
+        "M 13",
+        "M13",
+        "NGC 6205",
+        "NGC 6207",
+        "NGC6207"
+    ],
+    "title": "HDR Version M13 from Deep Sky West",
+    "updated": "2021-04-28T09:26:16.549960",
+    "uploaded": "2017-02-22T16:34:46.088051",
+    "url_duckduckgo": "https://www.astrobin.com/284662/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/284662/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/284662/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/284662/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/284662/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/284662/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/284662/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1338/2020/065fb7d9-f821-4cc6-bad6-e7e5cb67ed72.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1338/2020/065fb7d9-f821-4cc6-bad6-e7e5cb67ed72-1582446103.jpg",
+    "url_thumb": "https://www.astrobin.com/284662/0/rawthumb/thumb/",
+    "user": "jerryyyyy",
+    "views": 879,
+    "w": 3893
+}

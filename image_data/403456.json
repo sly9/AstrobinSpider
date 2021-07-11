@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 42,
+    "data_source": "OTHER",
+    "dec": "69.684",
+    "description": "It's with great pleasure & honor that I can show this color image of M82 on my astrobin account.\r\nThe raw data come from Mr. Morten la Cour & was taken in his own observatorie that is placed in the Northern part of Sjælland, DK, Halsnæs.\r\n\r\nData from spring 2019 and fall 2018.\r\nThe exposure details were like this: 187x300s Ha, 122x600s Ha, 178x300s R, 75x300s B, 72x300s G\r\nRGB subs are all with a FWHM below 2\"and Ha FWHM was below 2,25\".\r\nA small amout of 10 sec RGB subs was also stacked and used in the shown picture.\r\n\r\nMorten's astro EQ: Telescope 300mm f/3.7 newt incl. TS wynne corrector. Camera qsi660 with astrodon filters. Mount ap1600gto.\r\n\r\nThe picture processing part, for this picture, is a 50/50 % mix (opacity settings in PS) between a processing effort done by Morten (MaxIM DL=>Stacks/PixInsight) and my own processing effort done 100 % in PS & CCDStack2 (got stacks from Morten) where I also did some stars  & galaxy interior adjustments.\r\n\r\nPlease check this link, that show Morten's own processed version of his great M82 raw data,\r\n<a href=\"https://astrob.in/403343/0/\" target=\"_new\">MlC M82 Image</a>\r\n\r\nCS Niels",
+    "h": 1478,
+    "hash": null,
+    "id": 403456,
+    "imaging_cameras": [
+        "QSI 660 WSG"
+    ],
+    "imaging_telescopes": [
+        "Orion UK Newton 300 F4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 299,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "359.161",
+    "pixscale": "0.847",
+    "published": "2019-04-30T10:31:15.439089",
+    "ra": "148.983",
+    "radius": "0.339",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/403456/",
+    "revisions": [
+        "/api/v1/imagerevision/191492/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 82",
+        "NGC 3034"
+    ],
+    "title": "M82, a Ha, RGB picture",
+    "updated": "2021-06-23T17:27:52.817685",
+    "uploaded": "2019-04-30T11:31:15.540849",
+    "url_duckduckgo": "https://www.astrobin.com/403456/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403456/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403456/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403456/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403456/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403456/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403456/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4c51102e-6918-4f6e-a78f-c3c4548e1a93.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4c51102e-6918-4f6e-a78f-c3c4548e1a93-1556627322.jpg",
+    "url_thumb": "https://www.astrobin.com/403456/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 1109,
+    "w": 1824
+}

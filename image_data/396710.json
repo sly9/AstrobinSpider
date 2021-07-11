@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 28,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I reprocessed my 35000 x 200ms frames of novembre with AS!3. The histo was stretched before stacking to help AS!3 registering.\r\n\r\nHST picture is 50% reduced. A lot of structures are visible on the T350 image. The seeing was very good.\r\n\r\nJF",
+    "h": 729,
+    "hash": null,
+    "id": 396710,
+    "imaging_cameras": [
+        "ZWO ASI 224MC",
+        "ZWO ASI290MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 358,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-03-21T16:40:51.160200",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/396710/",
+    "revisions": [
+        "/api/v1/imagerevision/182256/"
+    ],
+    "subjects": [],
+    "title": "NGC 7662 \"blue snow ball\". T350 Vs HST",
+    "updated": "2021-06-15T18:34:07.098569",
+    "uploaded": "2019-03-21T16:32:10.594656",
+    "url_duckduckgo": "https://www.astrobin.com/396710/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396710/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396710/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396710/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396710/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396710/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396710/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/396710/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 1450,
+    "w": 1119
+}

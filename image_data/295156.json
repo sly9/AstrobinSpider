@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "PRO_DATA",
+    "dec": "35.270",
+    "description": "This is nearly 2 hours of HaRGB data that I have processed from this 2 m RC scope on a mountain top. I have not seen any other images of this nebula that have this degree of high resolution (at least not among the images found in a google search)\r\n\r\nFilters and exposures:\r\nsdss-r   25 x 90 s\r\nHa   12 x 120 s (mixed 33:67 with sdss-r for the red channel)\r\nBessell B + sdss-g   20 x 90 s (blue channel)\r\nBessell V   15 x 90 s (green channel)",
+    "h": 1933,
+    "hash": null,
+    "id": 295156,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "89.925",
+    "pixscale": "0.304",
+    "published": "2017-05-10T11:03:47.524112",
+    "ra": "67.557",
+    "radius": "0.115",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295156/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1579",
+        "NGC1579",
+        "Sh2-222"
+    ],
+    "title": "Northern Trifid Nebula NGC1579",
+    "updated": "2021-04-21T14:28:42.874517",
+    "uploaded": "2017-05-10T12:03:48.100011",
+    "url_duckduckgo": "https://www.astrobin.com/295156/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295156/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295156/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295156/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295156/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295156/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295156/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/0fa25e21-7b63-4421-b66b-4ab713d3a194.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/0fa25e21-7b63-4421-b66b-4ab713d3a194-1582579746.jpg",
+    "url_thumb": "https://www.astrobin.com/295156/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 251,
+    "w": 1934
+}

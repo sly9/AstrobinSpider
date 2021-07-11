@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "-22.977",
+    "description": "This was a test, whether it makes sense trying to image this wonderful nebula directly from my backyard. During the shortest nights of the year I could spend three of them to collect some LRGB data and additional some H-Alpha data for the emission part and Ha-regions beside the nebula. With a max. height of 16 degrees over horizon I think it was worth the effort. :-)\r\n\r\nI found some interesting backgroud informations regarding the name of M20: Its name means 'divided into three lobes'. The object is an unusual combination of an open cluster of stars; an emission nebula (the lower, red portion), a reflection nebula (the upper, blue portion) and a dark nebula (the apparent 'gaps' within the emission nebula that cause the trifurcated appearance; these are also designated Barnard 85).",
+    "h": 1781,
+    "hash": null,
+    "id": 365135,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 156,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "353.427",
+    "pixscale": "1.335",
+    "published": "2018-09-06T16:04:03.116618",
+    "ra": "270.620",
+    "radius": "0.524",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/365135/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "M20 - Trifid Nebula (HaLRGB)",
+    "updated": "2021-03-17T14:08:19.580744",
+    "uploaded": "2018-09-06T16:41:42.375346",
+    "url_duckduckgo": "https://www.astrobin.com/365135/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/365135/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/365135/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/365135/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/365135/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/365135/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/365135/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2018/cb1a6607-688c-4b85-b12d-92e9d8054646.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2018/cb1a6607-688c-4b85-b12d-92e9d8054646-1582606854.jpg",
+    "url_thumb": "https://www.astrobin.com/365135/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 719,
+    "w": 2192
+}

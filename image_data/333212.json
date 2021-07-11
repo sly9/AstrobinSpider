@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.285",
+    "description": "",
+    "h": 2243,
+    "hash": null,
+    "id": 333212,
+    "imaging_cameras": [
+        "Moravian G3-11000FW"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799743/"
+    ],
+    "orientation": "272.320",
+    "pixscale": "3.493",
+    "published": "2018-02-11T20:33:53.080536",
+    "ra": "169.666",
+    "radius": "1.994",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/333212/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3593",
+        "NGC 3596",
+        "NGC 3623",
+        "NGC 3627",
+        "NGC 3628",
+        "The star 73Leo"
+    ],
+    "title": "M66 Tripletto del Leone",
+    "updated": "2021-03-17T16:33:11.895671",
+    "uploaded": "2018-02-11T20:33:53.652445",
+    "url_duckduckgo": "https://www.astrobin.com/333212/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333212/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333212/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333212/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333212/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333212/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333212/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/51fd9781-b48b-4963-a739-956b5cf5101a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/51fd9781-b48b-4963-a739-956b5cf5101a-1518381732.jpg",
+    "url_thumb": "https://www.astrobin.com/333212/0/rawthumb/thumb/",
+    "user": "DocMax",
+    "views": 48,
+    "w": 3444
+}

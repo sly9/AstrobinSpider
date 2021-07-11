@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 34,
+    "data_source": "OWN_REMOTE",
+    "dec": "-24.285",
+    "description": "Having shot this before I knew I wanted to do a mosaic of the Lagoon to capture more of the nebulousity that surrounds the bright center.  I also wanted to present the detail in the core that the SII band reveals.   My FOV is square so this image is two FOVs side by side. \r\n\r\nM8 only spends a couple of hours above 20 degrees for me.  And I shot 67 hours of subs so this took a while!  Only 31 hours of the subs were used.  Being so low in the sky the atmospheric refraction warped the field quite a bit.  I was not able to get subs from the two different panels to join using Pixinsight.   Possibly because I don't know PI well enough!  So the joining of the panels occurred in Photoshop CC.\r\n\r\nJoining in PS meant I had to complete all of my color combination and linear processing before joining non-linear panels.  I used CCDStack for that, matching the histograms visually so the join would work in PS.\r\n\r\nTo meet my goal of bringing out the SII structure in the core while allowing the Ha data to support the nebulosity, I had to use pixel math in CCDStack to compress the Ha highlights and reduce the background in the SII.   The Luminance channel here is a mean of the compressed Ha and highlights of the SII.  That mix was also used for the Red channel.  The green used the compressed Ha and OIII.  Blue is all OIII.  \r\n\r\nThat was my first time trying to manually compress with pixelmath.  My process was to add 1200 and then reduce by the power of 0.7.  This kept the shadows constant and matched the highlights to the SII highlights.  With the SII I subtracted the mode to reduce the background noise.",
+    "h": 4043,
+    "hash": null,
+    "id": 416554,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "348.439",
+    "pixscale": "0.729",
+    "published": "2019-07-22T15:34:21.404898",
+    "ra": "270.968",
+    "radius": "0.835",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/416554/",
+    "revisions": [
+        "/api/v1/imagerevision/190628/"
+    ],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 - Lagoon Nebula 2 panel Mosaic",
+    "updated": "2021-03-17T10:05:52.024326",
+    "uploaded": "2019-07-22T16:34:21.662479",
+    "url_duckduckgo": "https://www.astrobin.com/416554/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416554/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416554/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416554/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416554/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416554/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416554/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4c54848b-d88f-49e9-ac45-7f283823c9a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4c54848b-d88f-49e9-ac45-7f283823c9a3-1563815463.jpg",
+    "url_thumb": "https://www.astrobin.com/416554/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 439,
+    "w": 7188
+}

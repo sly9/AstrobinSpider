@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 7,
+    "data_source": "OWN_REMOTE",
+    "dec": "21.500",
+    "description": "Beautiful Leo Galaxy.  It remains a mystery how Messier could have missed something so spectacular.  Note that the actual image acquisition times are 144 300sec RGBs binned 2x2 and 36 600sec Lums, binned 1x1.",
+    "h": 2047,
+    "hash": null,
+    "id": 337241,
+    "imaging_cameras": [
+        "SBIG STXL 6303 AO-X"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK 17"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 75,
+    "link": "http://jimmorse-astronomy.com/Images/NGC2903.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805511/"
+    ],
+    "orientation": "127.831",
+    "pixscale": "0.631",
+    "published": "2018-03-13T02:34:06.917685",
+    "ra": "143.041",
+    "radius": "0.323",
+    "remote_source": "NMS",
+    "resource_uri": "/api/v1/image/337241/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2903",
+        "NGC 2905",
+        "NGC2903",
+        "NGC2905"
+    ],
+    "title": "NGC 2903 - The Missing Messier",
+    "updated": "2021-07-04T03:08:36.962518",
+    "uploaded": "2018-03-13T02:34:08.902241",
+    "url_duckduckgo": "https://www.astrobin.com/337241/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337241/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337241/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337241/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337241/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337241/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337241/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14449/2018/66fea7fb-9dc1-4277-8e81-8e3f9e07bcf7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14449/2018/66fea7fb-9dc1-4277-8e81-8e3f9e07bcf7-1582540068.jpg",
+    "url_thumb": "https://www.astrobin.com/337241/0/rawthumb/thumb/",
+    "user": "JimMorse",
+    "views": 401,
+    "w": 3072
+}

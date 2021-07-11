@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 7,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.034",
+    "description": "M65 and M66, a pair of interacting galaxies and a part of the Leo Triplet.   I'm happy about the detail I was able to get on these.  I'm a bit under-sampled with a .73 image scale and it's difficult to get below 2 a-s on my subs. \r\n\r\nLRGB composition cropped from a square frame.  Calibration in CCDStack, registration, integration and LRGB assembly in PI.  Photoshop unsharp masking was used to sharped at multiple scales.  A soft light layer was used between the color and luminance layers.  \r\n\r\n83 subs, L22, R23, G21, B18.  All 600 seconds.  Total of 13.9 hours.",
+    "h": 1974,
+    "hash": null,
+    "id": 336258,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 187,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "339.672",
+    "pixscale": "0.728",
+    "published": "2018-03-05T08:18:33.733324",
+    "ra": "169.894",
+    "radius": "0.384",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/336258/",
+    "revisions": [
+        "/api/v1/imagerevision/138887/",
+        "/api/v1/imagerevision/223039/"
+    ],
+    "subjects": [
+        "Leo Triplet",
+        "M 65",
+        "M 66",
+        "M65",
+        "M66",
+        "NGC 3623",
+        "NGC 3627"
+    ],
+    "title": "M65 and M66",
+    "updated": "2021-03-17T16:18:52.209741",
+    "uploaded": "2018-03-05T08:18:35.132586",
+    "url_duckduckgo": "https://www.astrobin.com/336258/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336258/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336258/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336258/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336258/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336258/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336258/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6e17fed1-8959-4120-8df1-8de706bcacfa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6e17fed1-8959-4120-8df1-8de706bcacfa-1520238400.jpg",
+    "url_thumb": "https://www.astrobin.com/336258/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1143,
+    "w": 3247
+}

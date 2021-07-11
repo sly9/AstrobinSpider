@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "22.013",
+    "description": "Just to have a version of M1 from this astronomical season.\r\n\r\nMy home build observatory is placed in my front yard/in the \"red light\" pollution zone, have a look here,\r\n<a href=\"https://www.dropbox.com/s/lnr3elrgm81uj0i/Light-polution-mapDK.jpg?dl=0\"; target=\"_new\">Red Zone</a>\r\nCS Niels",
+    "h": 1130,
+    "hash": "t2jzkz",
+    "id": 450247,
+    "imaging_cameras": [
+        "Atik 460 EX Mono Atik 460EX Mono",
+        "ZWO ASI 1600MM-Cooled ZWO mono"
+    ],
+    "imaging_telescopes": [
+        "WO FLT-110 WO",
+        "Meade Lx200ACF 16\" F6.2 Meade SCT 16\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 216,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806588/"
+    ],
+    "orientation": "53.652",
+    "pixscale": "0.832",
+    "published": "2020-01-20T15:43:58.133899",
+    "ra": "83.630",
+    "radius": "0.217",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450247/",
+    "revisions": [
+        "/api/v1/imagerevision/208453/",
+        "/api/v1/imagerevision/208514/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "M1 the Crab Nebula, a LUM bi-color Ha, OIII image",
+    "updated": "2021-06-23T13:19:39.790088",
+    "uploaded": "2020-01-20T15:43:58.374431",
+    "url_duckduckgo": "https://www.astrobin.com/t2jzkz/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/t2jzkz/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/t2jzkz/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/t2jzkz/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/t2jzkz/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/t2jzkz/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/t2jzkz/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4400/2020/10cbe4ff-c4a8-40ba-a185-aedc9b6b277a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4400/2020/10cbe4ff-c4a8-40ba-a185-aedc9b6b277a-1579535837.jpg",
+    "url_thumb": "https://www.astrobin.com/t2jzkz/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 598,
+    "w": 1496
+}

@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "7.953",
+    "description": "NGC4535 - a barred spiral galaxy and NGC4526 - a lenticular galaxy. \r\n10hours 45 mins total integration (23x900 Lum, RGB each 10x600)",
+    "h": 2785,
+    "hash": null,
+    "id": 349939,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "290.096",
+    "pixscale": "0.533",
+    "published": "2018-06-04T17:44:36.441587",
+    "ra": "188.537",
+    "radius": "0.372",
+    "remote_source": "IC",
+    "resource_uri": "/api/v1/image/349939/",
+    "revisions": [
+        "/api/v1/imagerevision/147250/"
+    ],
+    "subjects": [
+        "NGC 4526",
+        "NGC 4535",
+        "NGC4526",
+        "NGC4535",
+        "PGC1331227",
+        "PGC1331945",
+        "PGC1336640",
+        "PGC1340665",
+        "PGC1340834",
+        "PGC1342675",
+        "PGC41713",
+        "PGC41726",
+        "PGC41734",
+        "PGC41752",
+        "PGC41860"
+    ],
+    "title": "NGC4535 with NGC4526",
+    "updated": "2021-03-19T07:47:20.603923",
+    "uploaded": "2018-06-04T18:44:38.599761",
+    "url_duckduckgo": "https://www.astrobin.com/349939/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/349939/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/349939/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/349939/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/349939/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/349939/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/349939/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2018/53e6b7be-d3a9-4394-8729-2990fe504412.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2018/53e6b7be-d3a9-4394-8729-2990fe504412-1582608406.jpg",
+    "url_thumb": "https://www.astrobin.com/349939/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 261,
+    "w": 4186
+}

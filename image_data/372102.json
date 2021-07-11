@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 33,
+    "data_source": "OWN_REMOTE",
+    "dec": "42.349",
+    "description": "NGC 891, also know as the Silver Sliver is an excellent example of an edge-on spiral galaxy in the constellation of Andromeda.   Located at a distance of about 30 million-ly, it lies within the local (or Virgo) super-cluster of galaxies that includes M31, M51, and the Milky Way.  It was chosen as the first light-object for both the LBT and Discovery Channel telescopes and it's been featured in a couple of songs.  My favorite is the instrumental piece featured in the 1974 movie \"Dark Star\" called \"When Twilight Falls On NGC 891.\"  \"Dark Star\" was one of my favorite low-budget sci-fi movies while I was in college.\r\n\r\nI haven't imaged '891 for about four years and I chose it to test my system after implementing a number of fixes to address reliability issues.  FINALLY, after nearly 6 months of struggles, I think I've finally got it fixed and the scope has been 100% reliable.  What a pleasure!  Now I start it,  it runs all night, and parks at the end of the session--just like it's supposed to.  I still have to address a few issues with the anti-dew system and I'll have it completely dialed in.\r\n\r\nI shot this image using 20 minute subs, which does a great job of bringing out faint detail, but a lot of stars wound up getting clipped.  I briefly considered trying an HDR combination with some shorter exposures to fix the stars, but between the weather and the lunar cycle, I ran out of time to gather the data needed to try this approach.  Consequently, the stars were a challenge when I processed this data.  I fooled with trying to minimize the effects of clipping the stars but I reached a point of diminishing returns and decided to set this image free to see what you folks think.  I ultimately decided that is was better to get enough high quality data to reveal the most detail in the galaxy and let the stars look the way they look.  My goal had been to only use data with FWHM less than 2.0\", but that was a bit restrictive so I opened the tolerance to include some additional color data <2.3\".  This image is from a 2x drizzle of 5/8 of the full FOV.\r\n\r\nAs usual, C&C is always welcome.\r\n\r\n-John",
+    "h": 1824,
+    "hash": null,
+    "id": 372102,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 278,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "89.671",
+    "pixscale": "0.239",
+    "published": "2018-10-16T19:58:25.012239",
+    "ra": "35.630",
+    "radius": "0.240",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/372102/",
+    "revisions": [
+        "/api/v1/imagerevision/159244/",
+        "/api/v1/imagerevision/159251/",
+        "/api/v1/imagerevision/159297/",
+        "/api/v1/imagerevision/159379/"
+    ],
+    "subjects": [
+        "NGC 891",
+        "NGC891"
+    ],
+    "title": "NGC 891, The Silver Sliver",
+    "updated": "2021-05-02T02:20:43.541233",
+    "uploaded": "2018-10-16T18:46:12.922438",
+    "url_duckduckgo": "https://www.astrobin.com/372102/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/372102/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/372102/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/372102/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/372102/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/372102/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/372102/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2b19da89-e72b-43ff-980e-50692365f72c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2b19da89-e72b-43ff-980e-50692365f72c-1539738587.jpg",
+    "url_thumb": "https://www.astrobin.com/372102/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 2185,
+    "w": 1824
+}

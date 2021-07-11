@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 31,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I imaged Mars the day after closest approach in 2018, making 2 runs approximately 4 hours apart. The first run consisted of 4 RBG captures of 4 minutes per colour channel. By the time I came to the 2nd run the seeing began to deteriorate such that I pulled up after 2 RGB captures. When I first processed these data, I ditched the 2nd set of data, feeling that it was too low in quality. However, I thought it would be worthwhile reworking the first set and having another go at at the 2nd set. This time around I have done a better job with the processing and the image from the 2nd run, although a little noisy came out well enough to publish. \r\nAs seen in other images of Mars around opposition, the dust storm had abated from its peak of a month earlier. Although the classic albedo areas were emerging there is still significant dust in the atmosphere and consequent obscuration of surface features. The dust gives the planet a more yellow/ brown hue versus the rusty red when there is an absence of significant dust.  \r\nIn both images the iconic Sinus Gomer can be seen with its 2 dark peninsulas point down (north). The cone of the volcano Elysium Mons can be seen in both images although it much clearer in the earlier image at left. It is a circular feature towards the bottom of the image, near the blueish clouds around the north polar region. In the later image the golden coloured Hella Basin and to its north Syrtis Major are rotating into view.\r\nThe south polar cap is intriguing. Although the seeing was not good enough to allow really fine detail to be made out, the normally very light coloured ice is darkened and discoloured. There are however some bright patches, which I thought may have been clouds, but on checking out images from the Mars Reconnaissance Orbiter (MRO), there didn't seem to be any clouds over it at that time (see Version B for detail of the SPC from the MRO image from that day). Incidentally, the MRO images of this time show a much greater obscuration of the albedo areas than my images and those of other amateurs. Perhaps the wavelengths being captured by the MRO don't give the differentiation versus the RGB captures from the Earth? The dusty atmosphere is also quite grey in colour in the MRO images and not at all like the hues seen in amateur images.",
+    "h": 1000,
+    "hash": "56hr52",
+    "id": 450803,
+    "imaging_cameras": [
+        "ZWO174MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron  C14 Edge HD"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806717/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-01-23T05:43:22.074332",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450803/",
+    "revisions": [
+        "/api/v1/imagerevision/208745/"
+    ],
+    "subjects": [],
+    "title": "Mars 1st August 2018 the day after closest approach",
+    "updated": "2021-03-17T05:26:59.571721",
+    "uploaded": "2020-01-23T03:34:28.643686",
+    "url_duckduckgo": "https://www.astrobin.com/56hr52/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/56hr52/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/56hr52/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/56hr52/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/56hr52/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/56hr52/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/56hr52/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/56hr52/0/rawthumb/thumb/",
+    "user": "macnenia",
+    "views": 360,
+    "w": 1500
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "61.166",
+    "description": "This is a crop (about 70%) to better show the nebula.  The full frame includes M52.\r\n\r\nRevision B: tighter crop",
+    "h": 1331,
+    "hash": null,
+    "id": 268030,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 120,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803531/"
+    ],
+    "orientation": "94.477",
+    "pixscale": "1.475",
+    "published": "2016-10-12T16:01:15.438355",
+    "ra": "350.181",
+    "radius": "0.671",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268030/",
+    "revisions": [
+        "/api/v1/imagerevision/101990/"
+    ],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635"
+    ],
+    "title": "NGC 7635 The Bubble Nebula in HST",
+    "updated": "2021-03-17T22:44:23.949463",
+    "uploaded": "2016-10-12T17:01:15.438355",
+    "url_duckduckgo": "https://www.astrobin.com/268030/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268030/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268030/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268030/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268030/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268030/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268030/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5519/2016/2076d312-eb4c-4b12-9bf6-598e682b8d31.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2076d312-eb4c-4b12-9bf6-598e682b8d31.jpg",
+    "url_thumb": "https://www.astrobin.com/268030/0/rawthumb/thumb/",
+    "user": "Barry-Wilson",
+    "views": 396,
+    "w": 1824
+}

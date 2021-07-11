@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-20.838",
+    "description": "LRGB+ Ha +OIII about 35-40 hour of data.",
+    "h": 1542,
+    "hash": null,
+    "id": 327834,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Astrophysics Riccardi-Honders Astrograph 305mm F/3,8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802870/"
+    ],
+    "orientation": "0.977",
+    "pixscale": "1.662",
+    "published": "2017-12-31T14:59:32.643356",
+    "ra": "337.417",
+    "radius": "0.656",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327834/",
+    "revisions": [
+        "/api/v1/imagerevision/133724/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix",
+    "updated": "2021-03-17T18:46:29.952307",
+    "uploaded": "2017-12-31T14:59:33.035896",
+    "url_duckduckgo": "https://www.astrobin.com/327834/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327834/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327834/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327834/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327834/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327834/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327834/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11713/2017/93ce0036-f17d-41b8-8d56-e9c515f7d9cf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/93ce0036-f17d-41b8-8d56-e9c515f7d9cf-1514732555.jpg",
+    "url_thumb": "https://www.astrobin.com/327834/0/rawthumb/thumb/",
+    "user": "maxmirot",
+    "views": 238,
+    "w": 1824
+}

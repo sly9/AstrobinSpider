@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "34.457",
+    "description": "Ha 56x600s bin1\r\nSII OIII 2x12x600s bin2",
+    "h": 3491,
+    "hash": null,
+    "id": 319823,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 127,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "269.784",
+    "pixscale": "1.368",
+    "published": "2017-11-02T08:12:16.592118",
+    "ra": "78.757",
+    "radius": "1.056",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319823/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405"
+    ],
+    "title": "Flamming Star Nebula SHO",
+    "updated": "2021-03-17T19:19:35.224118",
+    "uploaded": "2017-11-02T08:09:23.031325",
+    "url_duckduckgo": "https://www.astrobin.com/319823/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319823/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319823/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319823/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319823/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319823/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319823/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/62ddeda0-2456-4cf1-a313-2fe9413a0e18.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/62ddeda0-2456-4cf1-a313-2fe9413a0e18-1509610411.jpg",
+    "url_thumb": "https://www.astrobin.com/319823/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 428,
+    "w": 4324
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-18.866",
+    "description": "This target is challenging from my location as it transits at an elevation of only 31° and doesn't stay above the horizon very long, but I decided to give it a shot because I thought I could probably do better than last year's effort and it's a lot of fun to try and image the tidal tails. Everything was working about as well as could be expected, but I did miscalculate what time the target would set so I got only 6 R subs, many fewer than I was aiming for, and in general I struggled from not having quite enough data. The L data were noisier than expected. I may want to try either using a bit longer subs or going back to unity gain. But I do think this is better than I got last year. \r\n\r\nDate: 21 Apr 2017\r\nSubject: NGC 4038/4039, Antennae Galaxies\r\nScope: AT8IN + High Point Scientific coma corrector\r\nFilters: ZWO 31 mm diameter unmounted L, R, G, B\r\nMount: EQ-6 (EQMOD 2.000j)+PEC\r\nGuiding: Orion Thin Off-axis Guider + DSI +PHD 2.6.3.2 (Win 10 ASCOM) using predictive PEC algorithm\r\nCamera: ASI1600MM-Cool, -20 °C, Gain 0 Offset 10 \r\nAcquisition: Sequence Generator Pro 2.6.0.21\r\nExposure: 50x180 L, 6x180 R, 15x180 G, 15x180 B\r\nStacking: Neb 4.1.5, flats & darks, trans+rot align, Nebulosity 1.5σ stack and align.\r\nProcessing: StarTools 1.4.327. Stretched and deconvoluted the luminance. Combined RGB in Neb 4 and stretched,  color balanced, and sharpened in StarTools. Layered luminance over RGB in Photoshop CC 2014, used Carboni’s Astronomy Tools deep space noise reduction several times, boosted the vibrance a lot and saturation almost as much, used fairly aggressive unsharp mask to make up for less aggressive deconvolution in StarTools, topped off with AstroFrame.",
+    "h": 1282,
+    "hash": null,
+    "id": 292863,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8IN"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798185/"
+    ],
+    "orientation": "269.408",
+    "pixscale": "0.861",
+    "published": "2017-04-23T04:57:13.834562",
+    "ra": "180.539",
+    "radius": "0.598",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/292863/",
+    "revisions": [
+        "/api/v1/imagerevision/114921/",
+        "/api/v1/imagerevision/114922/"
+    ],
+    "subjects": [
+        "Antennae",
+        "NGC 4038",
+        "NGC 4039"
+    ],
+    "title": "NGC 4038/4039, Antennae Galaxies, LRGB, 21 Apr 2017",
+    "updated": "2021-05-09T19:04:51.845227",
+    "uploaded": "2017-04-23T05:57:14.453494",
+    "url_duckduckgo": "https://www.astrobin.com/292863/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/292863/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/292863/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/292863/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/292863/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/292863/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/292863/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1346/2017/36f5a33b-7652-4a74-8463-2055599cef24.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/36f5a33b-7652-4a74-8463-2055599cef24-1492926615.png",
+    "url_thumb": "https://www.astrobin.com/292863/0/rawthumb/thumb/",
+    "user": "dvdearden",
+    "views": 251,
+    "w": 1824
+}

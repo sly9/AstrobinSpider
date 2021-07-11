@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 66,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.413",
+    "description": "It's been a while since I posted a new image; but, it's not for the lack of trying.  After struggling with hardware issues through the summer, I spent nearly 100 hours on another object that's going to take another season to finish.  Then I spent about 80 hours on this object and I finally had time to get it processed.\r\n\r\nAfter nearly two years of struggling with my remote system to make it run reliably, I think that I finally have a solution!  Intermittent problems are the hardest to find so it took a lot of perseverance to figure out why my system would sometimes run just fine and other times (a lot of other times) it would run for a little while and then just hang.  Based on event messages from MaximDL, it sure looked as if the ASI-1600MM-C guide camera was the cause.  And in a lot of cases, it it looked like the outside air temperature affected the likelihood of a hang.  Regardless,  I went through every possible hardware upgrade to eliminate USB hubs, noise issues, and wiring issues as the cause.  I swapped cameras, cables, hubs, computers, and software--you name it and nothing worked.  After a lot of detective work, I finally put a debugger on the PC to trace function calls and bingo, we caught numerous failures.  It became obvious that the TE cooler in the camera was somehow involved with the failure.  When the camera would hang, calls to retrieve an image would be replaced with communications with the cooler.  I saw this behavior on two ASI-1600 cameras (both the \"Cooled\" and the \"Pro\" versions) and another user in the Netherlands was able to catch this same error using different driver software.  So it looks like there is a bug in these cameras.  Most folks normally won't see it unless the camera is run taking very short exposures for relatively long periods of time.  My testing showed that simply unplugging the cooler or specifying a set point temperature much higher than ambient solves the problem.  So this data set was taken with the camera set-point temperature set to +40C to prevent the cooler from being activated and it has run flawlessly for well over a month without a single problem.  Good news...FINALLY!\r\n\r\nIn spite of a lot of cloudy conditions this Fall, whenever it has been clear, the seeing has been pretty good.  This data set includes a lot of subs that have FWHM stars in the range of 1.5\" - 2.0\".  The one issue that I ran into with this galaxy was the lack of a bight guide-star within the field of my guide-camera.  I solved the problem by offsetting the image from the center of the field to catch a pretty bright star right at the edge of the guide sensor field.  That worked well but it limited my cropping and rotation options for the final image.  This is one case where having my camera package on a rotator would have helped!  (Yes, I could have flipped the scope, but that created problems with the observatory walls at the end of the session.)\r\n\r\nNGC 7331 is a type Sb spiral galaxy located at a distance of about 40Mly, while the other four major members the group, the unbarred spirals NGC 7335 and 7336, the barred spiral galaxy NGC 7337 and the elliptical galaxy NGC 7340 lie at distances of approximately 332, 365, 348 and 294 Mly, respectively.  This is why they appear to be significantly more red-shifted than NGC 7331, which is in the foreground.  An interesting feature of NGC 7331 is that it has a central core that is in counter-rotating with respect to the spiral arms. This has been seen in other galaxies, but current models of galactic evolution don't have a good explanation for why this occurs.  This field contains a lot of even more distant galaxies (I count around 2 dozen) so it's worth looking at this image up close to see all of the small galaxies scattered around the background.\r\n\r\nThis image is the result of a 1:2 drizzle integration so be aware that the pixel scale reflects that fact.  I'm not sure that drizzling this data helped to provide more information but after processing the data both before and after drizzling, I preferred the results from the larger (drizzled) image so I went with it.  My processing flow often has to be modified depending on the data and the object that I'm imaging.  In this case, I wound up processing this image four times before I reached a point that I was reasonably happy with.  By now, it's burned into my retina so deep that can't tell if it's good or bad so let me know if I missed anything!\r\n\r\nAs always, C&C is welcome so feel free to let me know what you think.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": "m9kdlj",
+    "id": 430600,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 337,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "269.726",
+    "pixscale": "0.238",
+    "published": "2019-10-01T20:40:38.933811",
+    "ra": "339.282",
+    "radius": "0.243",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/430600/",
+    "revisions": [
+        "/api/v1/imagerevision/195126/",
+        "/api/v1/imagerevision/195131/"
+    ],
+    "subjects": [
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7337"
+    ],
+    "title": "The Deer Lick Group - Featuring NGC 7331",
+    "updated": "2021-05-02T02:20:45.224772",
+    "uploaded": "2019-10-01T05:06:22.622345",
+    "url_duckduckgo": "https://www.astrobin.com/m9kdlj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/m9kdlj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/m9kdlj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/m9kdlj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/m9kdlj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/m9kdlj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/m9kdlj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/ab01598c-cd19-4d08-9e73-632ac4ee5f3f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ab01598c-cd19-4d08-9e73-632ac4ee5f3f-1569907107.jpg",
+    "url_thumb": "https://www.astrobin.com/m9kdlj/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 2812,
+    "w": 1824
+}

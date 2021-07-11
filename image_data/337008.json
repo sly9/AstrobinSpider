@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "13.039",
+    "description": "I've had this data since last year and was never able to properly stack and align it nor get the colors quite right due to various problems with DSS so I decided to give it a go with Astro Pixel Processor.  APP did a great job aligning and correcting the LRGB colors.   L  28x300s, RGB 12x200s 2x2 binned.",
+    "h": 2333,
+    "hash": null,
+    "id": 337008,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron C-11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "94.991",
+    "pixscale": "0.652",
+    "published": "2018-03-11T00:45:15.257940",
+    "ra": "169.894",
+    "radius": "0.310",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337008/",
+    "revisions": [],
+    "subjects": [
+        "M 65",
+        "M 66",
+        "NGC 3623",
+        "NGC 3627"
+    ],
+    "title": "M65 and M66",
+    "updated": "2021-03-17T16:15:20.413927",
+    "uploaded": "2018-03-11T00:34:21.673479",
+    "url_duckduckgo": "https://www.astrobin.com/337008/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337008/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337008/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337008/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337008/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337008/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337008/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/8eeaf0b1-f17c-43af-a4bd-5cf80d8b3628.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8eeaf0b1-f17c-43af-a4bd-5cf80d8b3628-1520729019.jpg",
+    "url_thumb": "https://www.astrobin.com/337008/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 408,
+    "w": 1824
+}

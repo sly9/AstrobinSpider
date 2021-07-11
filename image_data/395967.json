@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 34,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "69.343",
+    "description": "Exposure: (L,R,G,B) 24,5h L 26x60s, L 59x600s, R 25x300s , G 25x300s, B 44x300s, Ha 25x900s(binx1)",
+    "h": 2148,
+    "hash": null,
+    "id": 395967,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "TEC 140/980"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 379,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.287",
+    "pixscale": "1.252",
+    "published": "2019-03-16T21:43:28.018292",
+    "ra": "149.014",
+    "radius": "0.603",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/395967/",
+    "revisions": [
+        "/api/v1/imagerevision/220613/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 M82",
+    "updated": "2021-05-11T05:34:56.575750",
+    "uploaded": "2019-03-16T21:43:29.065936",
+    "url_duckduckgo": "https://www.astrobin.com/395967/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395967/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395967/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395967/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395967/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395967/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395967/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/28284/2020/706c343a-1908-4c8b-9dd7-89b477241a9e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/28284/2020/706c343a-1908-4c8b-9dd7-89b477241a9e-1582793527.jpg",
+    "url_thumb": "https://www.astrobin.com/395967/0/rawthumb/thumb/",
+    "user": "Astrosib250",
+    "views": 2749,
+    "w": 2724
+}

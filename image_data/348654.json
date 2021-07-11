@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "-43.019",
+    "description": "NGC5128 LRGB\r\n140 x 200sec Lum\r\n20 x 200sec Red\r\n20 x 200sec Green\r\n20 x 200sec Blue",
+    "h": 1366,
+    "hash": null,
+    "id": 348654,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher CFP2008 Carbon Fibre 8\" f4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800169/"
+    ],
+    "orientation": "94.047",
+    "pixscale": "1.024",
+    "published": "2018-05-26T12:33:09.644188",
+    "ra": "201.370",
+    "radius": "0.739",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/348654/",
+    "revisions": [
+        "/api/v1/imagerevision/146826/",
+        "/api/v1/imagerevision/146958/"
+    ],
+    "subjects": [
+        "NGC 5128"
+    ],
+    "title": "NGC5128",
+    "updated": "2021-03-17T15:22:22.326845",
+    "uploaded": "2018-05-26T13:33:12.616843",
+    "url_duckduckgo": "https://www.astrobin.com/348654/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/348654/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/348654/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/348654/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/348654/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/348654/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/348654/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6060/2018/d6d571dd-65fe-4c8e-a51a-d31d0b3b2b67.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d6d571dd-65fe-4c8e-a51a-d31d0b3b2b67-1527338479.jpg",
+    "url_thumb": "https://www.astrobin.com/348654/0/rawthumb/thumb/",
+    "user": "Rex",
+    "views": 237,
+    "w": 1824
+}

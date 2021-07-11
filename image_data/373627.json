@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "-6.434",
+    "description": "At low altitude from my location, this was a challenge to process.",
+    "h": 1824,
+    "hash": null,
+    "id": 373627,
+    "imaging_cameras": [
+        "Finger Lakes Instruments FLI ML16803"
+    ],
+    "imaging_telescopes": [
+        "16\" f3.75 Dream Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 134,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807009/"
+    ],
+    "orientation": "179.860",
+    "pixscale": "1.899",
+    "published": "2018-10-24T22:03:25.044790",
+    "ra": "92.264",
+    "radius": "0.970",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/373627/",
+    "revisions": [
+        "/api/v1/imagerevision/160202/"
+    ],
+    "subjects": [
+        "NGC 2170",
+        "NGC 2182",
+        "NGC 2185"
+    ],
+    "title": "NGC 2170",
+    "updated": "2021-04-11T18:01:15.922661",
+    "uploaded": "2018-10-24T23:03:25.763308",
+    "url_duckduckgo": "https://www.astrobin.com/373627/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/373627/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/373627/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/373627/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/373627/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/373627/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/373627/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7344/2018/2caf8c65-ba60-4f4c-b1ed-521618bd681c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2caf8c65-ba60-4f4c-b1ed-521618bd681c-1540422453.jpg",
+    "url_thumb": "https://www.astrobin.com/373627/0/rawthumb/thumb/",
+    "user": "BieDie",
+    "views": 387,
+    "w": 1824
+}

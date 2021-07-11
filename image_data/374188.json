@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 32,
+    "data_source": "BACKYARD",
+    "dec": "56.620",
+    "description": "The Pacman Nebula, NGC281, is an emission nebula about 10,000 light years away in the constellation of Cassiopeia.   The nickname is due to its wide-field resemblance to the Pacman video game character.  Though, high magnification and deeper exposures tend to wash that resemblance away.   The nebula is home to many Bok globule dust clouds which are likely still forming stars.  \r\n\r\nWhile it took me a good while to circle back around to processing this image, I was able to combine all the data I collected on it.   In total, the integration topped 33 hours.   I think many astrophotographers would immediately notice this looks a bit different than a standard \"Hubble Palette\" SHO mix.   The twist here was the inclusion of near infrared (NIR) data.  The NIR was shot through an Astronomik IR pass filter designed for planetary use.  The filter cuts on at 742nm.    Since modern CMOS astro cameras only have limited sensitivity to IR wavelengths, it really took narrowband style exposures to bring the signal out.   Still, this channel was the weakest of the four used in the image.   \r\n\r\nThe color mix: \r\nRed:        NIR, SII\r\nGreen:    Ha\r\nBlue:       OIII\r\n\r\nThe final mix was color shifted a bit to remove the predominant green cast.   I was pleased to see that NIR did show some reddish nebulosity in areas not usually seen in this nebula.   It worked!  :)    Interestingly, the brightest of these spots is within a major dust lane of the nebula.   I can only suppose that there are some concealed stars behind this dust, but that is only a guess.   It also contributed to the purple tones in the core of the nebula.  \r\n\r\nEnjoy a different spin on a common target.",
+    "h": 3520,
+    "hash": null,
+    "id": 374188,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "CELESTRON EdgeHD 800"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.794",
+    "pixscale": "0.525",
+    "published": "2018-10-28T21:40:18.987818",
+    "ra": "13.291",
+    "radius": "0.426",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/374188/",
+    "revisions": [
+        "/api/v1/imagerevision/160532/"
+    ],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "NGC281 - The Pacman Nebula",
+    "updated": "2021-07-04T08:09:41.449175",
+    "uploaded": "2018-10-28T21:05:04.091564",
+    "url_duckduckgo": "https://www.astrobin.com/374188/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/374188/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/374188/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/374188/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/374188/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/374188/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/374188/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/04a9f73a-dac3-4a20-b0a8-301622ff4427.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/04a9f73a-dac3-4a20-b0a8-301622ff4427-1540761546.jpg",
+    "url_thumb": "https://www.astrobin.com/374188/0/rawthumb/thumb/",
+    "user": "Thirteen",
+    "views": 1190,
+    "w": 4656
+}

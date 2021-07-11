@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "-16.184",
+    "description": "Testing new mount without guiding @ 2800mm \r\nnebula - Celestron Edge HD 1100 + Atik11000\r\nstars - Takahashi FSQ-8 + Moravian G2-8300 FW\r\n\r\n26.AUG.2017 - Celestron Edge HD 1100 + Atik11000\r\n9 x 600s Baader 3.5nm Ha\r\n\r\n22.AUG.2017 - Celestron Edge HD 1100 + Atik11000\r\n7 x 600s Baader 7nm Ha\r\n11 x 600s Baader 8.5nm O3\r\n8 x 600s Baader 8nm S2\r\n\r\n22.AUG.2017 - Takahashi FSQ-85 + Moravian G2-8300 FW\r\n30 x 120s Astronomik B\r\n30 x 120s Astronomik G\r\n30 x 120s Astronomik R\r\n30 x 120s Astronomik L",
+    "h": 1315,
+    "hash": null,
+    "id": 311929,
+    "imaging_cameras": [
+        "Atik 11000",
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Edge HD 1100",
+        "Takahashi FSQ-85ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 239,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798314/"
+    ],
+    "orientation": "0.247",
+    "pixscale": "1.372",
+    "published": "2017-09-12T04:12:53.544742",
+    "ra": "275.201",
+    "radius": "0.452",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/311929/",
+    "revisions": [],
+    "subjects": [
+        "M 17",
+        "M17",
+        "NGC 6618",
+        "Omega nebula",
+        "Sh2-45"
+    ],
+    "title": "M17 - First-Light for a new mount",
+    "updated": "2021-03-17T19:52:07.369678",
+    "uploaded": "2017-09-12T05:12:54.222909",
+    "url_duckduckgo": "https://www.astrobin.com/311929/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311929/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311929/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311929/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311929/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311929/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311929/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1586/2020/a65c9a79-5c38-415f-a5e2-89a96c68d32f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1586/2020/a65c9a79-5c38-415f-a5e2-89a96c68d32f-1582644999.jpg",
+    "url_thumb": "https://www.astrobin.com/311929/0/rawthumb/thumb/",
+    "user": "equinoxx",
+    "views": 917,
+    "w": 1973
+}

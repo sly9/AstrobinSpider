@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "26.806",
+    "description": "For comet luminance : 12x600 second with Comet Tracking Module of ASA Autoslew software.\r\nFor comet colour: 5x300 secs each channel with Comet Tracking Module.\r\nFor background: 5x300 secs.",
+    "h": 1567,
+    "hash": null,
+    "id": 297318,
+    "imaging_cameras": [
+        "ATIK ONE 9 M"
+    ],
+    "imaging_telescopes": [
+        "Officina Stellare Veloce RH 200 Veloce RH 200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "267.395",
+    "pixscale": "2.066",
+    "published": "2017-05-28T14:07:12.647854",
+    "ra": "223.116",
+    "radius": "0.729",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/297318/",
+    "revisions": [
+        "/api/v1/imagerevision/117438/",
+        "/api/v1/imagerevision/117482/"
+    ],
+    "subjects": [],
+    "title": "Comet C/2015 V2 Johnson 27.05.2017 at 23:30",
+    "updated": "2021-03-17T20:49:27.956137",
+    "uploaded": "2017-05-28T14:52:11.559827",
+    "url_duckduckgo": "https://www.astrobin.com/297318/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/297318/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/297318/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/297318/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/297318/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/297318/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/297318/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7649/2017/ad84b283-5193-43a2-94fd-fb9b13a7b073.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7649/2017/ad84b283-5193-43a2-94fd-fb9b13a7b073-1582512687.png",
+    "url_thumb": "https://www.astrobin.com/297318/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 548,
+    "w": 2000
+}

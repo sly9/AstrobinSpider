@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "32.347",
+    "description": "Raw data captured with 3 telescopes:\r\n1. SkyWatcher 2501, Baader MPCC, IDAS LPS, Asi071mc\r\n2. SkyWatcher 2501, Televue Paracorr 2, IDAS LPS, Asi071mc\r\n3. TAL250, 0.72 reducer, Optolong Lpro, Skyrus453C camera (by <a href=\"https://www.astrobin.com/users/A-tan/\">Roman Bochenkov</a>)",
+    "h": 3300,
+    "hash": null,
+    "id": 343868,
+    "imaging_cameras": [
+        "ZWO ASI071MC-Cool"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 250/1000 OTA",
+        "НПЗ (NPZ) TAL-250K"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805249/",
+        "/api/v1/location/2807298/"
+    ],
+    "orientation": "0.311",
+    "pixscale": "0.856",
+    "published": "2018-04-25T21:05:11.835215",
+    "ra": "190.724",
+    "radius": "0.712",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/343868/",
+    "revisions": [
+        "/api/v1/imagerevision/143567/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC 4656",
+        "NGC 4657"
+    ],
+    "title": "NGC4631(Whale) & NGC4656(Crowbar)",
+    "updated": "2021-03-17T15:43:18.889357",
+    "uploaded": "2018-04-25T21:28:51.912847",
+    "url_duckduckgo": "https://www.astrobin.com/343868/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/343868/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/343868/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/343868/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/343868/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/343868/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/343868/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13275/2018/894c27fa-1408-492e-bfac-7063c573f6ba.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13275/2018/894c27fa-1408-492e-bfac-7063c573f6ba-1582440650.png",
+    "url_thumb": "https://www.astrobin.com/343868/0/rawthumb/thumb/",
+    "user": "Csve",
+    "views": 628,
+    "w": 5000
+}

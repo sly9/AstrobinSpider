@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 7,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "34.186",
+    "description": "Stefan's Quintet and NGC7331 with traces of galactic cirrus\r\n\r\nThe goal was to obtain  in one frame Stefan's Quintet and NGC 7331 with traces of so called ‘galactic cirrus’ - dust beyond main body of our own Milky Way reflecting the combined light of the stars of the Galaxy (seen as subtile variation in background lightness) and more correct to be named as <a href='https://en.wikipedia.org/wiki/Integrated_Flux_Nebula'>IFN (Integrated Flux Nebulas)</a>.\r\n\r\nImaged from 2017/08/21 till 2017/09/21 in 13 nights.\r\n\r\nL 600s x 110\r\nR 600s x 36\r\nG 600s x 44\r\nB 600s x 84\r\n(and 10 x 60s frames in each filter for better shaped stars)\r\n\r\nProcessed is PixInsight\r\n\r\n\r\nCloseup:\r\n* <a href=https://www.astrobin.com/314281/>Stefan's Quintet</a>\r\n* <a href=https://www.astrobin.com/314280/B/>NGC7331</a>\r\n\r\n<a href=https://www.astrobin.com/314281/><img src=\"http://astrob.in/314281/0/rawthumb/gallery/get.jpg?insecure\"></a> <a href=https://www.astrobin.com/314280/B/><img src=\"http://astrob.in/314280/B/rawthumb/gallery/get.jpg?insecure\"></a>",
+    "h": 1365,
+    "hash": null,
+    "id": 314277,
+    "imaging_cameras": [
+        "Atik 383L+ Mono"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher BKP250/F1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 117,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806860/"
+    ],
+    "orientation": "182.255",
+    "pixscale": "1.111",
+    "published": "2017-09-28T08:23:46.871951",
+    "ra": "339.142",
+    "radius": "0.641",
+    "remote_source": "AHK",
+    "resource_uri": "/api/v1/image/314277/",
+    "revisions": [
+        "/api/v1/imagerevision/126441/",
+        "/api/v1/imagerevision/235096/"
+    ],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7337",
+        "NGC 7343",
+        "Stephan's Quintet"
+    ],
+    "title": "Stefan's Quintet, NGC7331 and galactic cirrus",
+    "updated": "2021-05-18T20:29:06.652712",
+    "uploaded": "2017-09-28T08:06:20.285670",
+    "url_duckduckgo": "https://www.astrobin.com/314277/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/314277/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/314277/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/314277/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/314277/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/314277/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/314277/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20728/2017/f4c80f3e-9cba-4590-a25f-96310cfd5d2a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f4c80f3e-9cba-4590-a25f-96310cfd5d2a-1506585379.jpg",
+    "url_thumb": "https://www.astrobin.com/314277/0/rawthumb/thumb/",
+    "user": "BorisE",
+    "views": 395,
+    "w": 1824
+}

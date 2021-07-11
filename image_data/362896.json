@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "61.930",
+    "description": "",
+    "h": 1345,
+    "hash": null,
+    "id": 362896,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC Ritchey-Chretien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "359.017",
+    "pixscale": "0.846",
+    "published": "2018-08-22T23:05:42.884267",
+    "ra": "26.132",
+    "radius": "0.390",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/362896/",
+    "revisions": [
+        "/api/v1/imagerevision/154297/"
+    ],
+    "subjects": [
+        "NGC 654"
+    ],
+    "title": "NGC 654",
+    "updated": "2021-03-17T14:18:44.352593",
+    "uploaded": "2018-08-23T00:05:43.228604",
+    "url_duckduckgo": "https://www.astrobin.com/362896/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/362896/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/362896/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/362896/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/362896/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/362896/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/362896/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/312697db-89b4-40c2-8198-b289434dc4e9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/312697db-89b4-40c2-8198-b289434dc4e9-1534982957.jpg",
+    "url_thumb": "https://www.astrobin.com/362896/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 278,
+    "w": 1824
+}

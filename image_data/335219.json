@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "42.021",
+    "description": "In three nights I could gather this light of M63, the well known galaxy in CVn. Data from a fourth night I have to skip because of bad seeing and wind, resulting in bloated stars. I hope you enjoy.",
+    "h": 2541,
+    "hash": null,
+    "id": 335219,
+    "imaging_cameras": [
+        "ZWO ASI 1600 MM-C"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 300/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805645/"
+    ],
+    "orientation": "352.445",
+    "pixscale": "0.656",
+    "published": "2018-02-25T11:19:02.926110",
+    "ra": "198.947",
+    "radius": "0.498",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335219/",
+    "revisions": [
+        "/api/v1/imagerevision/138123/",
+        "/api/v1/imagerevision/138273/",
+        "/api/v1/imagerevision/138281/"
+    ],
+    "subjects": [
+        "M 63",
+        "NGC 5055",
+        "Sunflower galaxy"
+    ],
+    "title": "M 63 Sunflower galaxy",
+    "updated": "2021-03-17T16:23:40.041575",
+    "uploaded": "2018-02-25T11:19:07.129346",
+    "url_duckduckgo": "https://www.astrobin.com/335219/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335219/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335219/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335219/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335219/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335219/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335219/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18217/2018/773974f6-b7ea-4909-9f83-7ab04d5c0715.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/773974f6-b7ea-4909-9f83-7ab04d5c0715-1519557793.png",
+    "url_thumb": "https://www.astrobin.com/335219/0/rawthumb/thumb/",
+    "user": "Algorab",
+    "views": 468,
+    "w": 1824
+}

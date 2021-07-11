@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "69.662",
+    "description": "A collaboration effort with Anis and I. Anis has been gracious enough to supply his C11 EdgeHD and QHY814 ccd to be set up in our remote observatory in West Texas. This is more than 50 hours worth of data.",
+    "h": 2400,
+    "hash": null,
+    "id": 388188,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11Edge HD Celestron C11EdgeHD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 201,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804222/"
+    ],
+    "orientation": "89.278",
+    "pixscale": "0.277",
+    "published": "2019-01-28T04:11:03.926362",
+    "ra": "148.987",
+    "radius": "0.144",
+    "remote_source": "MARIO",
+    "resource_uri": "/api/v1/image/388188/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "Cigar galaxy",
+        "M 82",
+        "M82",
+        "NGC 3034"
+    ],
+    "title": "M82 - Cigar Galaxy",
+    "updated": "2021-03-17T12:19:16.752384",
+    "uploaded": "2019-01-28T04:11:04.169375",
+    "url_duckduckgo": "https://www.astrobin.com/388188/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388188/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388188/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388188/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388188/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388188/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388188/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1641/2019/cd5c5a78-4d43-4e8b-83d3-5678d056d4d8.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1641/2019/cd5c5a78-4d43-4e8b-83d3-5678d056d4d8-1582489863.png",
+    "url_thumb": "https://www.astrobin.com/388188/0/rawthumb/thumb/",
+    "user": "dhavalbbhatt",
+    "views": 1332,
+    "w": 2880
+}

@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "5.248",
+    "description": "NGC 488 + surrounding field. A 100MLy distant SA(r)b-type galaxy measuring 151000Ly across. Its incilination is 40°, although it looks fairly round. It has quite a number of companion galaxies and a high rotation velocity might refer to a large amount of dark matter in its halo.\r\nTaken during nights with a lot of fog. I am still satisfied with the detail of spiral structure. Lum taken at bin1x1, color at 2x2. I need to remind myself to do color at bin 1x1, since I tend to get artifacts on certain stars.\r\n\r\nedit: I had to redo the color in this picture, because of too much red stars. I selected only those red frames with the lowest FHMW. Only 8 made it in the final pictures :|. However, PI was still giving me very red stars with the photometric color calibration process. After looking through older images (done with the older \"color calibration\" tool) I did the color calibration with the older tool. It turns out better in my opinion. I need to find the appropriate parameter in PCC, otherwise I have to use the CC tool instead.",
+    "h": 1997,
+    "hash": null,
+    "id": 374958,
+    "imaging_cameras": [
+        "Atik 460EX mono"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 123"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 25,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.203",
+    "pixscale": "1.271",
+    "published": "2018-11-03T11:37:23.279109",
+    "ra": "20.438",
+    "radius": "0.585",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/374958/",
+    "revisions": [
+        "/api/v1/imagerevision/160907/",
+        "/api/v1/imagerevision/160908/",
+        "/api/v1/imagerevision/161035/"
+    ],
+    "subjects": [
+        "IC1678",
+        "NGC 488",
+        "NGC486",
+        "NGC488",
+        "NGC490",
+        "NGC492",
+        "NGC500"
+    ],
+    "title": "NGC 488",
+    "updated": "2021-04-11T12:33:41.424635",
+    "uploaded": "2018-11-03T11:37:23.532968",
+    "url_duckduckgo": "https://www.astrobin.com/374958/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/374958/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/374958/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/374958/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/374958/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/374958/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/374958/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12522/2020/a0aacc8d-0213-4182-a2df-5099b6c6ec58.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/12522/2020/a0aacc8d-0213-4182-a2df-5099b6c6ec58-1582645315.png",
+    "url_thumb": "https://www.astrobin.com/374958/0/rawthumb/thumb/",
+    "user": "Micha_Lj",
+    "views": 148,
+    "w": 2645
+}

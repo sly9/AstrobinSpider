@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "53.421",
+    "description": "Combined RGB and Ha/OIII data. 34 hours in total.",
+    "h": 2712,
+    "hash": null,
+    "id": 335852,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "290.345",
+    "pixscale": "0.534",
+    "published": "2018-03-02T09:12:08.099635",
+    "ra": "119.454",
+    "radius": "0.367",
+    "remote_source": "IC",
+    "resource_uri": "/api/v1/image/335852/",
+    "revisions": [],
+    "subjects": [
+        "PGC2439677",
+        "PGC2439961",
+        "PK164+31.1"
+    ],
+    "title": "Jones-Emberson 1",
+    "updated": "2021-03-17T16:20:58.205597",
+    "uploaded": "2018-03-02T09:12:10.014629",
+    "url_duckduckgo": "https://www.astrobin.com/335852/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335852/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335852/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335852/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335852/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335852/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335852/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2018/50f08083-ab5d-46fb-8b45-54947bef05e4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2018/50f08083-ab5d-46fb-8b45-54947bef05e4-1582608481.jpg",
+    "url_thumb": "https://www.astrobin.com/335852/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 249,
+    "w": 4136
+}

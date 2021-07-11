@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-59.868",
+    "description": "Acquisition by Martin Pugh, processing by Jeff A. Brown\r\n\r\nS = 8 x 1800\"\r\nH = 6 x 1800\"\r\nO = 7 x 1800\"\r\nR = 11 x 1200\"\r\nG = 11 x 1200\"\r\nB = 11 x 1200\"",
+    "h": 1459,
+    "hash": null,
+    "id": 335740,
+    "imaging_cameras": [
+        "SBIG STXL 16200"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH 305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 45,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807940/"
+    ],
+    "orientation": "359.616",
+    "pixscale": "1.106",
+    "published": "2018-03-01T01:19:36.466496",
+    "ra": "160.952",
+    "radius": "0.885",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335740/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3372",
+        "eta Car nebula",
+        "Other"
+    ],
+    "title": "Eta Carinae (NSW Australia)",
+    "updated": "2021-03-17T16:21:27.915318",
+    "uploaded": "2018-03-01T01:19:38.538558",
+    "url_duckduckgo": "https://www.astrobin.com/335740/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335740/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335740/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335740/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335740/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335740/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335740/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/bd86a447-127e-4086-a001-07a92bd85a50.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bd86a447-127e-4086-a001-07a92bd85a50-1519868238.jpg",
+    "url_thumb": "https://www.astrobin.com/335740/0/rawthumb/thumb/",
+    "user": "pullaqua",
+    "views": 127,
+    "w": 1824
+}

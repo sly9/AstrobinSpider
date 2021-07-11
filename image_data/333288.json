@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "62.511",
+    "description": "Abell 85 HO(RHGBO).",
+    "h": 4096,
+    "hash": null,
+    "id": 333288,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "181.687",
+    "pixscale": "1.660",
+    "published": "2018-02-12T07:42:21.519523",
+    "ra": "359.726",
+    "radius": "1.336",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333288/",
+    "revisions": [],
+    "subjects": [
+        "9 Cas",
+        "PK116+00.1",
+        "The star 9Cas"
+    ],
+    "title": "Abell 85 (HORGB)",
+    "updated": "2021-03-17T16:32:49.441561",
+    "uploaded": "2018-02-12T07:37:29.236109",
+    "url_duckduckgo": "https://www.astrobin.com/333288/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333288/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333288/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333288/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333288/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333288/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333288/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2212/2018/4c2aface-90a1-41cb-8506-386e6f6e4195.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2212/2018/4c2aface-90a1-41cb-8506-386e6f6e4195-1582616023.jpg",
+    "url_thumb": "https://www.astrobin.com/333288/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 173,
+    "w": 4096
+}

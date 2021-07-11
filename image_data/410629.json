@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 15,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "15.701",
+    "description": "<b>Messier 100</b>\r\n\r\nNot so popular Messier object <b>M 100</b> is a bright member of Virgo Cluster 55 million light years away from Earth with diameter 2/3 of Milky Way.\r\n__________\r\nProcessed in PixInsight and finetuned in Photoshop.\r\n\r\nFor getting best SNR and resolution, sum of 50% of best FWHM subframes were processed separately and later combined with all other subframes by mask to get super luminosity channel for LRGB. Stretched using Arcsinh process.\r\n__________\r\n<table>\r\n<tr>\r\n<td>Galaxy Crop:\r\n<a href=https://www.astrobin.com/410629/0/><img src=\"http://astrob.in/410629/0/rawthumb/gallery/get.jpg?insecure\">\r\n</td>\r\n<td>Full (wide) frame:\r\n<a href=https://www.astrobin.com/410629/C/><img src=\"http://astrob.in/410629/C/rawthumb/gallery/get.jpg?insecure\">\r\n</td>\r\n</tr>\r\n</table>",
+    "h": 1922,
+    "hash": null,
+    "id": 410629,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "SkyWatcher BKP250/F1000"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 276,
+    "link": "http://www.astromania.info/gallery/M100lrgb/M100_3_v6_full.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806860/"
+    ],
+    "orientation": "90.344",
+    "pixscale": "1.113",
+    "published": "2019-06-16T13:51:26.064310",
+    "ra": "185.689",
+    "radius": "0.490",
+    "remote_source": "AHK",
+    "resource_uri": "/api/v1/image/410629/",
+    "revisions": [
+        "/api/v1/imagerevision/182901/"
+    ],
+    "subjects": [
+        "IC 783",
+        "M 100",
+        "NGC 4312",
+        "NGC 4321",
+        "NGC 4322",
+        "NGC 4328"
+    ],
+    "title": "M 100 in Coma Berenices",
+    "updated": "2021-06-15T14:32:08.177242",
+    "uploaded": "2019-06-16T14:51:26.235869",
+    "url_duckduckgo": "https://www.astrobin.com/410629/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410629/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410629/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410629/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410629/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410629/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410629/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4ab3ac43-f92d-419c-9086-16dd8062696b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4ab3ac43-f92d-419c-9086-16dd8062696b-1560766837.jpg",
+    "url_thumb": "https://www.astrobin.com/410629/0/rawthumb/thumb/",
+    "user": "BorisE",
+    "views": 1966,
+    "w": 2516
+}

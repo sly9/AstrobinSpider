@@ -1,0 +1,71 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "13.016",
+    "description": "Un peu plus de 6 heures de Luminance, et 2 h par RGB. Tout en bin 1. CCD à -20°C.",
+    "h": 1824,
+    "hash": null,
+    "id": 302590,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "AstroPhysics 155mm f/7 Starfire ED AP155EDF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 83,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802989/"
+    ],
+    "orientation": "179.848",
+    "pixscale": "1.571",
+    "published": "2017-07-09T08:27:09.330230",
+    "ra": "187.052",
+    "radius": "1.252",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302590/",
+    "revisions": [
+        "/api/v1/imagerevision/120024/"
+    ],
+    "subjects": [
+        "M 84",
+        "M 86",
+        "M 87",
+        "NGC 4374",
+        "NGC 4388",
+        "NGC 4402",
+        "NGC 4406",
+        "NGC 4413",
+        "NGC 4425",
+        "NGC 4435",
+        "NGC 4438",
+        "NGC 4461",
+        "NGC 4473",
+        "NGC 4477",
+        "NGC 4486",
+        "The Eyes"
+    ],
+    "title": "Chaîne de Markarian",
+    "updated": "2021-04-10T06:08:09.084716",
+    "uploaded": "2017-07-08T18:16:54.269606",
+    "url_duckduckgo": "https://www.astrobin.com/302590/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302590/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302590/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302590/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302590/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302590/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302590/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10316/2017/5a844d92-62c4-473d-b698-05cde5130cb2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5a844d92-62c4-473d-b698-05cde5130cb2-1499534482.jpg",
+    "url_thumb": "https://www.astrobin.com/302590/0/rawthumb/thumb/",
+    "user": "Marian",
+    "views": 472,
+    "w": 1824
+}

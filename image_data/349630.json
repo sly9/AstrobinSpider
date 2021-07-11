@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "-13.839",
+    "description": "The Eagle nebula (M16) in narrowband with Hubble Palette.\r\n\r\n20x10 min H-alpha\r\n18x15 min OIII\r\n12x20 min SII",
+    "h": 2340,
+    "hash": null,
+    "id": 349630,
+    "imaging_cameras": [
+        "QHYCCD 163M"
+    ],
+    "imaging_telescopes": [
+        "SharpStar AL107 PH"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808052/"
+    ],
+    "orientation": "64.084",
+    "pixscale": "2.123",
+    "published": "2018-06-02T11:19:56.210961",
+    "ra": "274.724",
+    "radius": "0.871",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/349630/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "The Eagle nebula in Serpens (Messier 16 - M16)",
+    "updated": "2021-07-02T13:13:26.366183",
+    "uploaded": "2018-06-02T12:19:58.210578",
+    "url_duckduckgo": "https://www.astrobin.com/349630/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/349630/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/349630/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/349630/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/349630/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/349630/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/349630/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25179/2020/09cf6391-46c1-4274-9b15-f5779b8bd720.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25179/2020/09cf6391-46c1-4274-9b15-f5779b8bd720-1582465606.jpg",
+    "url_thumb": "https://www.astrobin.com/349630/0/rawthumb/thumb/",
+    "user": "tranha053",
+    "views": 932,
+    "w": 1800
+}

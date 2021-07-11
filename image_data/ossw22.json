@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 26,
+    "data_source": "BACKYARD",
+    "dec": "37.962",
+    "description": "For this small planetary nebula I spent a lot of time. I have already started image acquisition in summer last year. Unfortunately I had to fight very hard with elongated stars, so I decided to change the autoguiding from the guide tube to an off axis guider. This works very well now! \r\n\r\nBut also the following processing of the PN was quite demanding and took longer than usual. The remains of this former star are insanely weak and my real challenge was to emphasize the OIII part in a correct manner. :-) As a side effect I had to collect data for a very long overall integration time, which of course was good for the depth of the final image. I think there are also many great structures to discover beside the PN. \r\n\r\nHope you like it! :-)",
+    "h": 1336,
+    "hash": "ossw22",
+    "id": 447540,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 250/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 160,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "272.324",
+    "pixscale": "0.929",
+    "published": "2020-01-06T12:53:57.307621",
+    "ra": "303.847",
+    "radius": "0.296",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/447540/",
+    "revisions": [],
+    "subjects": [],
+    "title": "PN G075.5+01.7 - The Soap Bubble (Bicolor RGB)",
+    "updated": "2021-03-17T05:41:53.788449",
+    "uploaded": "2020-01-06T12:17:51.540226",
+    "url_duckduckgo": "https://www.astrobin.com/ossw22/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ossw22/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ossw22/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ossw22/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ossw22/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ossw22/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ossw22/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2020/0507ce3e-b5c7-488d-bbdc-9222e8f90030.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2020/0507ce3e-b5c7-488d-bbdc-9222e8f90030-1582280051.png",
+    "url_thumb": "https://www.astrobin.com/ossw22/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 322,
+    "w": 1866
+}

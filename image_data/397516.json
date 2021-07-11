@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 29,
+    "data_source": "BACKYARD",
+    "dec": "5.015",
+    "description": "This image shows the Rosette Nebula (Caldwell 49 or NGC 2237) captured using narrowband filters which give it the psychedelic look.  The nebula is located 5200 ly away in Monoceros and is 130 ly across.  The central star cluster (NGC 2244) was discovered in 1690 long before the nebula.  This object is an emission nebula created by young stars exciting atoms in a could of gas and dust which it turn causes them to emit radiation themselves producing the colors we see.\r\n\r\nThere are several interesting parts on this nebula such as the dark dust lanes on the upper left and the gold streamers on the bottom right.  One thing in particular is the blue loop in the central portion which seems to be part of the star cluster.  This loop is what caused me to go back and totally reprocess this for a second time as I somehow degraded it on my first attempt.\r\n\r\nThis half of this data was obtained during a near full moon and the other half during a partial moon.  Because I was using narrowband filters the moon is less of a factor as narrowband filters only allow light of certain frequencies pass.\r\n\r\nThe filters:\r\n\r\nHydrogen-Alpha – 656.3nm\r\nThis light is created by ionized hydrogen dropping one energy level.  H-alpha is in the red part of the spectrum and contributes to the overwhelming red color of most nebulae as seen in normal RGB images. \r\n\r\nOxygen-III – 500.7nm\r\nThis line is given off by doubly-ionized oxygen atoms, meaning the electrons are dropping two energy levels. This line is in the blue-green portion of the spectrum.\r\n\r\nSulfur-II – 672.4nm\r\nSingly ionized sulfur emits light in the deep red part of the spectrum, beyond H-alpha. It is a weaker emission than H-alpha and OIII, but it is the most common filter used after these two.\r\n(source: Starizona)\r\n\r\nThis is my second strictly narrowband image ever, the first being the Wizard, and I am much happier how this one turned out although I there are many better ones out there than my image.  I normally collect images using a gain of 139 because Gary Imm and Chuck Ayoub (thanks Gary and Chuck) use that as a standard, however, Gary used 300 on his recent NB image the Fish Head (https://www.astrobin.com/389550/?nc=collection&nce=910) so I figured I would try it. \r\n\r\nI tried many combinations using PixelMath and straight combos before settling on this SHO version. I used both PI and PS extensively doing new things in both in order to bring out gold rim and cyan interior.  What a pain in the neck to process, I though narrowband processing was going to be easy but it is anything but!\r\n\r\nLastly, if interested, I did a video on YouTube that compares imaging with narrowband filters during a full moon vs. partial moon.  I had to collect over several nights anyway so decided to make the best of it with an experiment.\r\n\r\nVideo Link: https://youtu.be/9AvPAGezNpk\r\nWeb Post: http://astroquest1.blogspot.com/2019/03/how-moonshine-affects-narrowband-imaging.html",
+    "h": 3408,
+    "hash": null,
+    "id": 397516,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "http://astroquest1.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "102.044",
+    "pixscale": "1.205",
+    "published": "2019-03-26T21:40:24.031048",
+    "ra": "98.005",
+    "radius": "0.937",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/397516/",
+    "revisions": [
+        "/api/v1/imagerevision/174515/"
+    ],
+    "subjects": [
+        "12 Mon",
+        "NGC 2239",
+        "NGC 2244",
+        "NGC2237",
+        "NGC2238",
+        "NGC2239",
+        "NGC2244",
+        "NGC2246",
+        "Rosette nebula",
+        "Sh2-275",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula using the Hubble Palette (SHO)",
+    "updated": "2021-06-21T07:12:53.134447",
+    "uploaded": "2019-03-26T21:40:24.246304",
+    "url_duckduckgo": "https://www.astrobin.com/397516/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397516/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397516/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397516/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397516/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397516/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397516/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/de6ed0e8-6350-458e-82e3-5ad55a284c73.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/de6ed0e8-6350-458e-82e3-5ad55a284c73-1582636074.jpg",
+    "url_thumb": "https://www.astrobin.com/397516/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 609,
+    "w": 4446
+}

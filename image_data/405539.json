@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "PUBLIC_AMATEUR_DATA",
+    "dec": "8.743",
+    "description": "I have re-processed this object using the National Schools' Observatory, Liverpool Telescope data. It has more details. NGC 2261 is lit up by R Monocerotis and the shape and brightness are slowly changes over short periods of time.",
+    "h": 1912,
+    "hash": null,
+    "id": 405539,
+    "imaging_cameras": [
+        "IO:O Optical Wide Field Camera"
+    ],
+    "imaging_telescopes": [],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810978/"
+    ],
+    "orientation": "359.979",
+    "pixscale": "0.304",
+    "published": "2019-05-13T05:30:37.488012",
+    "ra": "99.793",
+    "radius": "0.114",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405539/",
+    "revisions": [],
+    "subjects": [
+        "Hubble's variable neb",
+        "NGC 2261"
+    ],
+    "title": "Hubble's Variable Nebula (NGC 2261)",
+    "updated": "2021-03-17T10:58:41.776492",
+    "uploaded": "2019-05-13T06:30:37.567792",
+    "url_duckduckgo": "https://www.astrobin.com/405539/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405539/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405539/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405539/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405539/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405539/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405539/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33212/2019/27d6aa0c-7887-4e01-aed3-50eb756fae54.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33212/2019/27d6aa0c-7887-4e01-aed3-50eb756fae54-1582539160.jpeg",
+    "url_thumb": "https://www.astrobin.com/405539/0/rawthumb/thumb/",
+    "user": "SGabos",
+    "views": 76,
+    "w": 1904
+}

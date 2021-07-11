@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "61.369",
+    "description": "This is the center of the Heart Nebula acquired in NB and processed in the SHO palette.  The data was acquired in late November 2015.\r\n\r\nThe <a href=\"https://en.wikipedia.org/wiki/Heart_Nebula\">Heart Nebula</a> (IC 1805, Sharpless 2-190) is an emission nebula about 7500 ly from Earth, located in Cassiopeia and in the Perseus Arm of our galaxy.  There is a small group of stars near the center, an open cluster called Melotte 15 whose radiation is the main source of the nebula's intense red output.  However, here I have rendered in the SHO palette.  Melotte 15 is at center right in my image.\r\n\r\nDespite this data being two years old now, I'm overall pleased with the quality, mostly because I am more forgiving of my abilities from that time.  Now I have a little more skill and a lot more resources to play around with processing the data, and this is my first rendition.  I may return to it again and not remove so much green.  I was hoping to achieve a bit of yellow around the outer rim of the nebula (this would be on the left of my image), but that didn't happen this time.",
+    "h": 1313,
+    "hash": null,
+    "id": 323986,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT8RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 182,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806882/"
+    ],
+    "orientation": "359.434",
+    "pixscale": "1.121",
+    "published": "2017-11-29T05:58:57.487913",
+    "ra": "38.672",
+    "radius": "0.588",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/323986/",
+    "revisions": [
+        "/api/v1/imagerevision/131413/",
+        "/api/v1/imagerevision/131414/",
+        "/api/v1/imagerevision/131561/"
+    ],
+    "subjects": [
+        "IC 1805",
+        "IC1805",
+        "Sh2-190"
+    ],
+    "title": "IC 1805 - NB SHO - Center of Heart Nebula - 2015-11-25",
+    "updated": "2021-06-28T16:45:38.275768",
+    "uploaded": "2017-11-29T04:55:46.624910",
+    "url_duckduckgo": "https://www.astrobin.com/323986/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323986/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323986/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323986/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323986/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323986/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323986/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7533/2017/61b8683a-fda2-43b1-a037-107f800b0ac4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/61b8683a-fda2-43b1-a037-107f800b0ac4-1511931782.jpg",
+    "url_thumb": "https://www.astrobin.com/323986/0/rawthumb/thumb/",
+    "user": "BenKolt",
+    "views": 472,
+    "w": 1824
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-48.682",
+    "description": "RCW 108 is also included in the NGC catalogue (NGC 6188) and the Gum catalogue (Gum 53) and is located in the constellation of Ara 3,767 light years away. It is a large molecular cloud that it being bombarded by radiation from the open cluster in the foreground - NGC 6193.\r\n\r\nThe data for this image was taken using an Astronomik 6nm Ha filter and is composed from 25 images of 20 minutes each. Processing completed in Pixinsight.",
+    "h": 1332,
+    "hash": null,
+    "id": 301287,
+    "imaging_cameras": [
+        "QSI 683 ws-8"
+    ],
+    "imaging_telescopes": [
+        "Tak TSA120"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800408/"
+    ],
+    "orientation": "91.468",
+    "pixscale": "1.259",
+    "published": "2017-06-28T13:03:54.578315",
+    "ra": "250.101",
+    "radius": "0.645",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301287/",
+    "revisions": [
+        "/api/v1/imagerevision/120085/"
+    ],
+    "subjects": [
+        "NGC 6188",
+        "NGC 6193"
+    ],
+    "title": "RCW108_NGC6188 In Ha",
+    "updated": "2021-03-17T20:34:14.482946",
+    "uploaded": "2017-06-28T13:44:29.529937",
+    "url_duckduckgo": "https://www.astrobin.com/301287/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301287/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301287/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301287/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301287/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301287/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301287/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1551/2017/b6beca89-58ff-4502-9d0a-28877a7b033c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b6beca89-58ff-4502-9d0a-28877a7b033c-1498654777.png",
+    "url_thumb": "https://www.astrobin.com/301287/0/rawthumb/thumb/",
+    "user": "Ryderscope",
+    "views": 149,
+    "w": 1824
+}

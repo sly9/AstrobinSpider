@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "OTHER",
+    "dec": "-16.165",
+    "description": "Here is big bright summer object M17 in Sagittarius. Not a huge amount of data, however captured on two good seeing nights out in San Diego east county desert.\r\n\r\nRaw data include 20x180sec for each R,G,B colors\r\n\r\nProcess flow:\r\nCalibration, registration, integration all done in Astro Pixel Processor, multi session cal!\r\nBackground, RGB color cal, wavelets, noise reduction in Pixinsight",
+    "h": 1362,
+    "hash": null,
+    "id": 368591,
+    "imaging_cameras": [
+        "ASI ZWO ASI 1600 pro mono"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 10 inch Truss iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 22,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806952/"
+    ],
+    "orientation": "359.908",
+    "pixscale": "0.938",
+    "published": "2018-09-25T15:17:28.180859",
+    "ra": "275.252",
+    "radius": "0.375",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/368591/",
+    "revisions": [],
+    "subjects": [
+        "M 17",
+        "NGC 6618",
+        "Omega nebula"
+    ],
+    "title": "M17 RGB",
+    "updated": "2021-03-17T13:51:38.088549",
+    "uploaded": "2018-09-25T16:17:28.436878",
+    "url_duckduckgo": "https://www.astrobin.com/368591/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/368591/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/368591/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/368591/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/368591/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/368591/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/368591/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7bb65a5b-e37c-4d86-a6f7-3d35229d362c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7bb65a5b-e37c-4d86-a6f7-3d35229d362c-1537892829.jpg",
+    "url_thumb": "https://www.astrobin.com/368591/0/rawthumb/thumb/",
+    "user": "st_armen5",
+    "views": 151,
+    "w": 1824
+}

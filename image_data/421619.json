@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "-25.287",
+    "description": "",
+    "h": 2006,
+    "hash": null,
+    "id": 421619,
+    "imaging_cameras": [
+        "ZWO ASI 294 MC PRO"
+    ],
+    "imaging_telescopes": [
+        "ORION 8\" f3.9 Newtonian Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809673/"
+    ],
+    "orientation": "247.501",
+    "pixscale": "1.240",
+    "published": "2019-08-19T18:28:04.559755",
+    "ra": "11.885",
+    "radius": "0.593",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/421619/",
+    "revisions": [],
+    "subjects": [
+        "NGC 253",
+        "Sculptor galaxy"
+    ],
+    "title": "Scultor Galaxy NGC 253",
+    "updated": "2021-03-17T09:40:49.699980",
+    "uploaded": "2019-08-19T19:28:04.766805",
+    "url_duckduckgo": "https://www.astrobin.com/421619/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/421619/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/421619/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/421619/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/421619/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/421619/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/421619/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25993/2019/96658668-bf25-4bbb-88a2-c586f2cd3b38.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25993/2019/96658668-bf25-4bbb-88a2-c586f2cd3b38-1582539865.jpeg",
+    "url_thumb": "https://www.astrobin.com/421619/0/rawthumb/thumb/",
+    "user": "Ignaciomont",
+    "views": 1273,
+    "w": 2800
+}

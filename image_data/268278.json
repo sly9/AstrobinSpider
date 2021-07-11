@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "30.659",
+    "description": "My second try on proper LRGB data. \r\nNever had a chance before to collect LRGB under a decent dark sky (SQM21,17). I found this pretty tricky to process, regarding the dynamic from the bright core and trying to save the dust lanes, without losing the faint brightness from the spiral arms. \r\nAfter not getting a proper result with the HaRVB-AIP script when trying to add the halpha into the the RGB image, I just used pixelmath and combined Red (30%) and halpha (70%) before combing the RGB. Luminance was rather tricky, I added it in 2 steps by just integrating 30% each time. \r\nAfterwards a lot of stretching  with masks. Finally selective color correction and sharpening/de-noising with NIK in PS, as well as some final curves/dynamic and highpass for selective sharpening on the core.\r\n\r\nData collected during the annual South Brandenburg Star party, the HTT 2016. ",
+    "h": 1159,
+    "hash": null,
+    "id": 268278,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Meade 5000 ED 127mm Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806178/"
+    ],
+    "orientation": "83.436",
+    "pixscale": "1.998",
+    "published": "2016-10-15T04:12:13.767772",
+    "ra": "23.483",
+    "radius": "0.641",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268278/",
+    "revisions": [],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33",
+    "updated": "2021-07-06T15:29:25.082973",
+    "uploaded": "2016-10-15T05:12:13.767772",
+    "url_duckduckgo": "https://www.astrobin.com/268278/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268278/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268278/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268278/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268278/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268278/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268278/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9769/2016/4ae96407-04aa-4c0f-bfbc-7e2b67e62635.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9769/2016/4ae96407-04aa-4c0f-bfbc-7e2b67e62635-1582544826.jpg",
+    "url_thumb": "https://www.astrobin.com/268278/0/rawthumb/thumb/",
+    "user": "bobandrews23",
+    "views": 313,
+    "w": 2000
+}

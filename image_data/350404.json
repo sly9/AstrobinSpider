@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "53.066",
+    "description": "L: 17x900s  (TMB 152/1200)\r\nRGB: 18x600s each filter (Tak FSQ106ED)",
+    "h": 1526,
+    "hash": null,
+    "id": 350404,
+    "imaging_cameras": [
+        "QSI 583 WSG"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED",
+        "TMB - LZOS TMB 152/1200 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809077/"
+    ],
+    "orientation": "1.414",
+    "pixscale": "0.925",
+    "published": "2018-06-08T14:09:26.771383",
+    "ra": "173.281",
+    "radius": "0.347",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/350404/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "NGC3718",
+    "updated": "2021-04-29T11:58:32.117458",
+    "uploaded": "2018-06-08T15:09:28.619543",
+    "url_duckduckgo": "https://www.astrobin.com/350404/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350404/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350404/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350404/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350404/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350404/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350404/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23276/2020/afaf458e-e416-4592-86eb-d5615d730e1f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23276/2020/afaf458e-e416-4592-86eb-d5615d730e1f-1582548365.jpg",
+    "url_thumb": "https://www.astrobin.com/350404/0/rawthumb/thumb/",
+    "user": "SpaceExpedition",
+    "views": 1116,
+    "w": 2229
+}

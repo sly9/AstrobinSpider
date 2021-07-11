@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "64.158",
+    "description": "",
+    "h": 2828,
+    "hash": null,
+    "id": 407583,
+    "imaging_cameras": [
+        "QHY 163M QHY 163 Mono"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10 Carbon"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 31,
+    "link": "http://www.rwstanley.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807368/"
+    ],
+    "orientation": "171.348",
+    "pixscale": "0.511",
+    "published": "2019-06-01T22:26:42.973558",
+    "ra": "140.182",
+    "radius": "0.337",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/407583/",
+    "revisions": [
+        "/api/v1/imagerevision/180902/",
+        "/api/v1/imagerevision/180906/",
+        "/api/v1/imagerevision/181347/"
+    ],
+    "subjects": [
+        "IC2458",
+        "NGC 2805",
+        "NGC 2814",
+        "NGC 2820",
+        "NGC2805",
+        "NGC2814",
+        "NGC2820"
+    ],
+    "title": "NGC 2805, NGC 2820, NGC 2814, IC 2458",
+    "updated": "2021-05-23T12:31:44.099464",
+    "uploaded": "2019-05-27T20:27:31.631430",
+    "url_duckduckgo": "https://www.astrobin.com/407583/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/407583/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/407583/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/407583/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/407583/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/407583/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/407583/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/fe520f3c-806d-4a19-87a2-7506c0e8102e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/fe520f3c-806d-4a19-87a2-7506c0e8102e-1559433598.jpg",
+    "url_thumb": "https://www.astrobin.com/407583/0/rawthumb/thumb/",
+    "user": "rwstanley",
+    "views": 201,
+    "w": 3808
+}

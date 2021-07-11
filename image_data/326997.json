@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "4.941",
+    "description": "SHO",
+    "h": 2536,
+    "hash": null,
+    "id": 326997,
+    "imaging_cameras": [
+        "Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "PrimaLuceLab airy 65"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 29,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810010/"
+    ],
+    "orientation": "90.473",
+    "pixscale": "2.644",
+    "published": "2017-12-25T12:28:17.277178",
+    "ra": "97.980",
+    "radius": "1.546",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/326997/",
+    "revisions": [
+        "/api/v1/imagerevision/138393/",
+        "/api/v1/imagerevision/139568/",
+        "/api/v1/imagerevision/197643/"
+    ],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon",
+        "Other"
+    ],
+    "title": "NGC2244 Rosette Nebula",
+    "updated": "2021-03-17T18:49:50.086488",
+    "uploaded": "2017-12-25T12:28:17.888873",
+    "url_duckduckgo": "https://www.astrobin.com/326997/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/326997/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/326997/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/326997/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/326997/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/326997/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/326997/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/04bb7eea-768b-43fc-8a73-c6f3fe65f08a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/04bb7eea-768b-43fc-8a73-c6f3fe65f08a-1514206858.png",
+    "url_thumb": "https://www.astrobin.com/326997/0/rawthumb/thumb/",
+    "user": "turki_alamri",
+    "views": 179,
+    "w": 3358
+}

@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "56.143",
+    "description": "Combine nebula with natural SHO and star color with RGB.\r\n(Natural SHO is synthesized by assigning SII to red, Ha to red orange and OIII to cyan blue in Photoshop screen drawing mode layer)",
+    "h": 2295,
+    "hash": null,
+    "id": 313039,
+    "imaging_cameras": [
+        "Nikon D810A",
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807014/"
+    ],
+    "orientation": "0.245",
+    "pixscale": "0.821",
+    "published": "2017-09-21T01:42:00.670513",
+    "ra": "334.875",
+    "radius": "0.437",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313039/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Sh2-132 (Natural SHO and RGB)",
+    "updated": "2021-03-17T19:47:33.964485",
+    "uploaded": "2017-09-21T02:42:01.949457",
+    "url_duckduckgo": "https://www.astrobin.com/313039/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313039/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313039/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313039/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313039/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313039/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313039/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/b9ff4b1b-5aa9-4cc4-a4a2-a9e4a3d023ee.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/b9ff4b1b-5aa9-4cc4-a4a2-a9e4a3d023ee-1582598846.jpg",
+    "url_thumb": "https://www.astrobin.com/313039/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 807,
+    "w": 3072
+}

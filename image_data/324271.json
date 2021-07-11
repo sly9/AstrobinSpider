@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "31.459",
+    "description": "Cette image provient d' une collaboration entre trois membres du club d'astronomie d'Antony:\r\nChristopher (Ha : 8x15mn OIII : 10x15mn) KAI4022 sur APM107\r\nGeorges (Ha 22x10mn RVB 10x3mn/couches bin2) Sony ICX814 sur FSQ85\r\nBaptiste (Ha : 22x10mn RVB 15x2mn/couches bin2) Kaf8300 sur 80ED\r\nTotal: 14h50\r\n\r\nThis image comes from a collaboration between three members of the Antony Astronomy Club :\r\nChristopher (Ha : 8x15mn OIII : 10x15mn) KAI4022 on APM107\r\nGeorges (Ha 22x10mn RVB 10x3mn/couches bin2) Sony ICX814 on FSQ85\r\nBaptiste (Ha : 22x10mn RVB 15x2mn/couches bin2) Kaf8300 on 80ED\r\nTotal: 14h50\r\nProcessing by Baptiste with Pixinsight",
+    "h": 1483,
+    "hash": null,
+    "id": 324271,
+    "imaging_cameras": [
+        "Atik One 9.0",
+        "Moravian Instruments G2-4000",
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed",
+        "Skywatcher Black Diamond 80ED",
+        "APM telescopes APM107"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 66,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808142/",
+        "/api/v1/location/2808157/"
+    ],
+    "orientation": "269.719",
+    "pixscale": "2.132",
+    "published": "2017-12-01T08:50:43.733268",
+    "ra": "314.125",
+    "radius": "0.969",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/324271/",
+    "revisions": [],
+    "subjects": [
+        "IC 1340",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "NGC6992 L-HOO  First Collaborative image",
+    "updated": "2021-03-17T19:01:25.031038",
+    "uploaded": "2017-12-01T08:50:44.136607",
+    "url_duckduckgo": "https://www.astrobin.com/324271/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/324271/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/324271/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/324271/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/324271/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/324271/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/324271/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/dbdd042d-41fb-4a7d-851c-c54e3124ed10.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/dbdd042d-41fb-4a7d-851c-c54e3124ed10-1512118828.jpg",
+    "url_thumb": "https://www.astrobin.com/324271/0/rawthumb/thumb/",
+    "user": "Astro_Club_Antony",
+    "views": 440,
+    "w": 1824
+}

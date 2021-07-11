@@ -1,0 +1,71 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-25.062",
+    "description": "Version E and Original is a gradient free version. There is no uneven gradient from the sky and no  effection of the  flat frame mis-correction. \r\n\r\nVersion B is a reference image. The uneven gradient and ugly color from Version C was fixed by this version.\r\n\r\nVersion C is an ugly version with bad badground  elimination and failure color callibration.\r\n\r\nVersion D is an older processed version. https://www.astrobin.com/full/398309/0/\r\n\r\nMy next step is to create a 9 frame mosaic base on the reference image.",
+    "h": 1195,
+    "hash": null,
+    "id": 414937,
+    "imaging_cameras": [
+        "Nikon D800 Mod"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810031/"
+    ],
+    "orientation": "90.622",
+    "pixscale": "4.052",
+    "published": "2019-07-12T12:13:49.372930",
+    "ra": "246.757",
+    "radius": "2.865",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/414937/",
+    "revisions": [
+        "/api/v1/imagerevision/185437/",
+        "/api/v1/imagerevision/185438/",
+        "/api/v1/imagerevision/185439/",
+        "/api/v1/imagerevision/185442/",
+        "/api/v1/imagerevision/185480/"
+    ],
+    "subjects": [
+        "IC 4603",
+        "IC 4604",
+        "IC 4605",
+        "M 4",
+        "NGC 6121",
+        "NGC 6144",
+        "The star 22Sco",
+        "The star Al Niyat (σSco)",
+        "The star Antares (αSco)",
+        "The star οSco",
+        "The star ρOph",
+        "rho Oph nebula"
+    ],
+    "title": "Scorpius-Ophiuchus",
+    "updated": "2021-03-17T10:13:16.015937",
+    "uploaded": "2019-07-12T13:13:50.300046",
+    "url_duckduckgo": "https://www.astrobin.com/414937/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414937/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414937/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414937/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414937/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414937/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414937/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/12085/2019/ec535239-1dbd-4752-9df1-e142e3acd367.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ec535239-1dbd-4752-9df1-e142e3acd367-1562937985.jpg",
+    "url_thumb": "https://www.astrobin.com/414937/0/rawthumb/thumb/",
+    "user": "LAZYMAN",
+    "views": 485,
+    "w": 1824
+}

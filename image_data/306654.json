@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "-34.944",
+    "description": "Cat's Paw and Lobster shot HaLRGB\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nData gathered:\r\n(35) Ha @ 300secs - 1x1\r\n(26) Lum @ 300secs - 1x1\r\n(30) R @ 120secs - 1x1\r\n(30) G @ 120secs - 1x1\r\n(30) B @ 120secs - 1x1\r\n\r\nCamera : ZWO ASI1600MM-Cool @ Gain 75 - Offset 12\r\nTelescope: Stellarvue SV70T W_0.8x Reducer Flattener\r\nMount: Celestron AVX",
+    "h": 949,
+    "hash": null,
+    "id": 306654,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV70T"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 125,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "270.900",
+    "pixscale": "8.359",
+    "published": "2017-08-09T13:37:42.145064",
+    "ra": "260.595",
+    "radius": "1.850",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306654/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6334",
+        "NGC 6357",
+        "the War and Peace Nebula"
+    ],
+    "title": "Cat's Paw and Lobster",
+    "updated": "2021-06-15T10:03:57.995194",
+    "uploaded": "2017-08-09T14:37:43.434236",
+    "url_duckduckgo": "https://www.astrobin.com/306654/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306654/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306654/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306654/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306654/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306654/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306654/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2020/4161d7ba-6029-4fe0-8a4e-b55aa42578fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2020/4161d7ba-6029-4fe0-8a4e-b55aa42578fd-1610187588.jpg",
+    "url_thumb": "https://www.astrobin.com/306654/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 807,
+    "w": 1280
+}

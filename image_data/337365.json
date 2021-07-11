@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 15,
+    "data_source": "UNSET",
+    "dec": "-59.702",
+    "description": "TS 115/800\r\nZWO ASI 183 MM PRO\r\nLRGB ASTRODON 1,25\r\n120-60-60-60 (bin 1x1)\r\nSubs 1 minute\r\nDSS+PIXINSIGHT+PS6",
+    "h": 3301,
+    "hash": null,
+    "id": 337365,
+    "imaging_cameras": [
+        "ZWO ASI 183 MM PRO"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 194,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "99.736",
+    "pixscale": "0.763",
+    "published": "2018-03-14T01:16:08.993542",
+    "ra": "161.219",
+    "radius": "0.647",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337365/",
+    "revisions": [
+        "/api/v1/imagerevision/139996/"
+    ],
+    "subjects": [
+        "NGC 3372",
+        "eta Car nebula"
+    ],
+    "title": "ETA CARINAE LRGB",
+    "updated": "2021-03-17T16:13:39.146800",
+    "uploaded": "2018-03-14T01:16:13.180874",
+    "url_duckduckgo": "https://www.astrobin.com/337365/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337365/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337365/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337365/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337365/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337365/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337365/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/73b93ffd-5d32-493f-a6a2-797ee4f7fcf1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/73b93ffd-5d32-493f-a6a2-797ee4f7fcf1-1520990348.jpg",
+    "url_thumb": "https://www.astrobin.com/337365/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 1815,
+    "w": 5134
+}

@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-47.465",
+    "description": "Test image for GSO and TOA Flattener",
+    "h": 1198,
+    "hash": null,
+    "id": 291424,
+    "imaging_cameras": [
+        "SBIG STL-6303E"
+    ],
+    "imaging_telescopes": [
+        "GSO RC8\"  f/8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 49,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798291/"
+    ],
+    "orientation": "-90.498",
+    "pixscale": "1.179",
+    "published": "2017-04-11T15:14:50.317432",
+    "ra": "201.667",
+    "radius": "0.584",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291424/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "NGC5139 test",
+    "updated": "2021-03-17T21:11:52.112284",
+    "uploaded": "2017-04-11T14:43:52.494296",
+    "url_duckduckgo": "https://www.astrobin.com/291424/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291424/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291424/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291424/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291424/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291424/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291424/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/ef4597c6-e0fe-4db2-a30a-41cd595d4d9a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ef4597c6-e0fe-4db2-a30a-41cd595d4d9a-1491921913.jpg",
+    "url_thumb": "https://www.astrobin.com/291424/0/rawthumb/thumb/",
+    "user": "Djt",
+    "views": 255,
+    "w": 1824
+}

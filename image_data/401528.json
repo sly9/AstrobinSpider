@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "-47.496",
+    "description": "First light for the CFF RC250 F7. Easy target but you take what you can when the skies arnt too friendly. A custom field flattener was in the imaging train. Small tweak to collimation needed but really happy with this",
+    "h": 2030,
+    "hash": null,
+    "id": 401528,
+    "imaging_cameras": [
+        "SBIG STL-6303E"
+    ],
+    "imaging_telescopes": [
+        "CFF RC250 F7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798291/"
+    ],
+    "orientation": "96.157",
+    "pixscale": "1.042",
+    "published": "2019-04-17T11:34:46.621176",
+    "ra": "201.668",
+    "radius": "0.527",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/401528/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "CFF RC250 F7 First Light - NGC5139",
+    "updated": "2021-03-17T11:17:49.475087",
+    "uploaded": "2019-04-17T12:25:17.014513",
+    "url_duckduckgo": "https://www.astrobin.com/401528/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/401528/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/401528/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/401528/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/401528/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/401528/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/401528/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/f7767ff0-c5d6-4583-be65-4c054620f8d9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f7767ff0-c5d6-4583-be65-4c054620f8d9-1555504309.jpg",
+    "url_thumb": "https://www.astrobin.com/401528/0/rawthumb/thumb/",
+    "user": "Djt",
+    "views": 439,
+    "w": 3025
+}

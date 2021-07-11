@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 12,
+    "data_source": "OWN_REMOTE",
+    "dec": "55.018",
+    "description": "I took these RBG images to provide star colors for an HOO version of the Owl, but the Ha and OIII are so strong on this target that RGB alone makes a fine image.  The HOO version will follow shortly.  It displays the outer halo quite prominently.\r\n\r\nThe Final Version F has followed my usual processing work flow and has been accurately color calibrated (as best I can with this image with few stars).\r\nThe Original version is a slightly different work flow, and the green was suppressed resulting in a deep blue owl. \r\n\r\nThe Owl Nebula (also known as Messier 97, M97 or NGC 3587) is a planetary nebula located approximately 2,030 light years away in the constellation Ursa Major. It was discovered by French astronomer Pierre Méchain on February 16, 1781. When William Parsons, 3rd Earl of Rosse, observed the nebula in 1848, his hand-drawn illustration resembled an owl's head. It has been known as the Owl Nebula ever since.\r\n\r\nThe nebula is approximately 8,000 years old. It is approximately circular in cross-section with a little visible internal structure. It was formed from the outflow of material from the stellar wind of the central star as it evolved along the asymptotic giant branch. The nebula is arranged in three concentric shells, with the outermost shell being about 20–30% larger than the inner shell. The owl-like appearance of the nebula is the result of an inner shell that is not circularly symmetric, but instead forms a barrel-like structure aligned at an angle of 45° to the line of sight.\r\n\r\nThe nebula holds about 0.13 solar masses of matter, including hydrogen, helium, nitrogen, oxygen, and sulfur; all with a density of less than 100 particles per cubic centimeter. Its outer radius is around 0.91 ly (0.28 pc) and it is expanding with velocities in the range of 27–39 km/s into the surrounding interstellar medium.\r\n\r\nThe 14th magnitude central star has since reached the turning point of its evolution where it condenses to form a white dwarf. It has 55–60% of the Sun's mass, 41–148 times the brightness of the Sun, and an effective temperature of 123,000 K. The star has been successfully resolved by the Spitzer Space Telescope as a point source that does not show the infrared excess characteristic of a circumstellar disk.\r\n(Wikipedia)",
+    "h": 1800,
+    "hash": null,
+    "id": 397823,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 179,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.474",
+    "pixscale": "0.702",
+    "published": "2019-03-29T16:41:01.646038",
+    "ra": "168.695",
+    "radius": "0.292",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/397823/",
+    "revisions": [
+        "/api/v1/imagerevision/174745/"
+    ],
+    "subjects": [
+        "M 97",
+        "M97",
+        "NGC 3587",
+        "Owl nebula",
+        "PGC2482280",
+        "PGC2483306",
+        "PGC2486236",
+        "PGC2489233",
+        "PGC2490291",
+        "PGC2490640",
+        "PGC2493264",
+        "PGC34279",
+        "PK148+57.1"
+    ],
+    "title": "M97 Owl Nebula - RGB",
+    "updated": "2021-06-14T20:11:51.214705",
+    "uploaded": "2019-03-28T16:48:54.375201",
+    "url_duckduckgo": "https://www.astrobin.com/397823/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397823/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397823/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397823/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397823/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397823/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397823/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/a4eedab5-0934-4901-979d-06bdfc869f9a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/a4eedab5-0934-4901-979d-06bdfc869f9a-1582590851.jpg",
+    "url_thumb": "https://www.astrobin.com/397823/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 715,
+    "w": 2400
+}

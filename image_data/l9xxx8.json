@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "56.619",
+    "description": "The Pacman Nebula, NGC281, is an H-II region in the constellation Cassiopeia and lies some 9500 light years away. It contains an open cluster as well as several Bok globules, small dark nebulae where dust and gas condense to form a molecular cloud where star formation can occur.",
+    "h": 2679,
+    "hash": "l9xxx8",
+    "id": 455355,
+    "imaging_cameras": [
+        "QSI 683wsg-8",
+        "Quantum Scientific Imaging QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TMB Optical TMB130SS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.475",
+    "pixscale": "1.119",
+    "published": "2020-02-16T20:46:44.781830",
+    "ra": "13.248",
+    "radius": "0.665",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/455355/",
+    "revisions": [
+        "/api/v1/imagerevision/211990/",
+        "/api/v1/imagerevision/211991/"
+    ],
+    "subjects": [
+        "IC1590",
+        "NGC 281",
+        "NGC281",
+        "Sh2-184"
+    ],
+    "title": "The Pacman Nebula",
+    "updated": "2021-04-25T12:06:05.575708",
+    "uploaded": "2020-02-16T20:21:18.884805",
+    "url_duckduckgo": "https://www.astrobin.com/l9xxx8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/l9xxx8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/l9xxx8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/l9xxx8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/l9xxx8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/l9xxx8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/l9xxx8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3580/2020/e977ef16-5365-48ab-8a41-7393e2cc865a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3580/2020/e977ef16-5365-48ab-8a41-7393e2cc865a-1592844947.png",
+    "url_thumb": "https://www.astrobin.com/l9xxx8/0/rawthumb/thumb/",
+    "user": "AstroGabe",
+    "views": 310,
+    "w": 3340
+}

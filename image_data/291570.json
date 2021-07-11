@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "PRO_DATA",
+    "dec": "22.015",
+    "description": "This is HaRGB data that I processed from subs downloaded from the Liverpool Telescope. I had to be very selective in choosing the subs as they were quite variable, some had eggy stars and others slightly rotated. Exposures used varied between 60 and 120 s. The following filters were used: sdss-r, Bessell-B, Bessell-V and Ha6566.",
+    "h": 1865,
+    "hash": null,
+    "id": 291570,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "269.993",
+    "pixscale": "0.304",
+    "published": "2017-04-12T14:48:21.900721",
+    "ra": "83.631",
+    "radius": "0.111",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291570/",
+    "revisions": [
+        "/api/v1/imagerevision/114240/",
+        "/api/v1/imagerevision/120636/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "M1 The Crab Nebula",
+    "updated": "2021-03-17T21:11:18.216304",
+    "uploaded": "2017-04-12T15:48:22.994015",
+    "url_duckduckgo": "https://www.astrobin.com/291570/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291570/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291570/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291570/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291570/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291570/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291570/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/ebdb5b2d-740e-4e6c-89f0-989a3cf987a8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/ebdb5b2d-740e-4e6c-89f0-989a3cf987a8-1582579806.jpg",
+    "url_thumb": "https://www.astrobin.com/291570/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 405,
+    "w": 1845
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "69.379",
+    "description": "",
+    "h": 734,
+    "hash": null,
+    "id": 375007,
+    "imaging_cameras": [
+        "Lodestar X2",
+        "QSI 532 WSG"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10 Carbon"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "http://www.rwstanley.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807368/"
+    ],
+    "orientation": "1.245",
+    "pixscale": "0.782",
+    "published": "2018-11-03T17:21:41.388048",
+    "ra": "85.573",
+    "radius": "0.143",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/375007/",
+    "revisions": [
+        "/api/v1/imagerevision/160959/"
+    ],
+    "subjects": [
+        "NGC 1961",
+        "NGC1961"
+    ],
+    "title": "NGC 1961 (Arp 184)",
+    "updated": "2021-05-23T14:42:04.807453",
+    "uploaded": "2018-11-03T17:21:41.504302",
+    "url_duckduckgo": "https://www.astrobin.com/375007/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/375007/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/375007/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/375007/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/375007/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/375007/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/375007/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23385/2020/daa8a680-56ea-4ad9-bdcf-a95af1865e11.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23385/2020/daa8a680-56ea-4ad9-bdcf-a95af1865e11-1582347728.jpg",
+    "url_thumb": "https://www.astrobin.com/375007/0/rawthumb/thumb/",
+    "user": "rwstanley",
+    "views": 137,
+    "w": 1093
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 19,
+    "data_source": "OWN_REMOTE",
+    "dec": "47.309",
+    "description": "I was attracted to M106 by its nice apparent size and the anomalous arms.  I've already presented the Ha and OIII data I shot on the core/arms - see my earlier post.   Here I've finally gotten enough decent LRGB to present the full image.\r\n\r\nThe narrowband data was combined with the broadband in Photoshop.  I used the narrowband data as a layer blended as an overlay.  This seemed to best pull out the structures while preserving as much of luminance profile as possible.  I prefer to keep the galaxy cores brighter than the arms but still find some way to show the detail.  That's always a challenge.\r\n\r\nMy yield was very low due to the poor skies YTD in the west.  30 hours of LRGB data made it from the Observatory to my processing computer and only 17.5 hours of that was used.  Mostly due to transparency issues.  I was able to use 25 of 28 hours of Ha/OIII data.  So total time here is 42.5 hours, though that's pretty meaningless as the vast majority of pixels are from the 17 hours of LRGB.\r\n\r\nCalibration, stacking and LRGB combination done in CCDStack.\r\nDBE and SCNR done in PI.\r\nBackground and color noise reduction with Topaz DeNoise 5.1\r\nEverything else was done in PS CC 2019.\r\n\r\nI've heard a number of complaints about over saturation lately.  Is this too much?",
+    "h": 2529,
+    "hash": null,
+    "id": 408053,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 164,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "303.536",
+    "pixscale": "0.729",
+    "published": "2019-05-31T18:08:51.217414",
+    "ra": "184.725",
+    "radius": "0.425",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/408053/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106 LRGB with HaOIII core",
+    "updated": "2021-03-17T10:47:10.618850",
+    "uploaded": "2019-05-31T19:08:51.354919",
+    "url_duckduckgo": "https://www.astrobin.com/408053/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408053/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408053/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408053/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408053/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408053/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408053/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/f35b22d2-a24d-41e1-89d0-68ec7f7751f6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/f35b22d2-a24d-41e1-89d0-68ec7f7751f6-1585357681.jpg",
+    "url_thumb": "https://www.astrobin.com/408053/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 573,
+    "w": 3347
+}

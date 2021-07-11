@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "0.198",
+    "description": "Messier 78\r\nTS 115/800\r\nASI ZWO 1600 Mono Cooled\r\nOptolong: LRGB (180 - 35 - 24 - 24)\r\nProcessamento: PixInsight + PS6\r\n",
+    "h": 1704,
+    "hash": null,
+    "id": 313613,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "248.378",
+    "pixscale": "2.016",
+    "published": "2017-09-25T02:07:53.997012",
+    "ra": "86.761",
+    "radius": "0.831",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/313613/",
+    "revisions": [
+        "/api/v1/imagerevision/212266/"
+    ],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "Messier 78",
+    "updated": "2021-03-17T19:45:00.096558",
+    "uploaded": "2017-09-25T03:07:54.643695",
+    "url_duckduckgo": "https://www.astrobin.com/313613/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/313613/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/313613/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/313613/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/313613/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/313613/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/313613/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22145/2017/7cf79e91-86de-4e15-b29e-e70740d4a004.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22145/2017/7cf79e91-86de-4e15-b29e-e70740d4a004-1582616866.jpg",
+    "url_thumb": "https://www.astrobin.com/313613/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 455,
+    "w": 2429
+}

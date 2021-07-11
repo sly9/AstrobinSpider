@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "30.963",
+    "description": "This is an attempt to better visualize spacial distribution of H-Alpha, OIII and SII regions of the nebula. I stretched the original monochrome images to roughly match background and signal levels. This was followed by the standard SHO palette combination and somewhat aggressive star reduction.",
+    "h": 1440,
+    "hash": null,
+    "id": 369206,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Canon 70-200 F/4 L"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 10,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "227.873",
+    "pixscale": "8.749",
+    "published": "2018-09-30T15:14:53.757695",
+    "ra": "312.771",
+    "radius": "2.916",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/369206/",
+    "revisions": [
+        "/api/v1/imagerevision/193737/"
+    ],
+    "subjects": [
+        "Filamentary nebula",
+        "IC 1340",
+        "Lace-work nebula",
+        "NGC 6960",
+        "NGC 6992",
+        "NGC 6995",
+        "Network nebula",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "Veil nebula",
+    "updated": "2021-03-17T13:48:59.615715",
+    "uploaded": "2018-09-30T01:54:57.684126",
+    "url_duckduckgo": "https://www.astrobin.com/369206/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/369206/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/369206/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/369206/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/369206/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/369206/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/369206/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27653/2020/a6023547-1c4f-4995-a4f6-58edcf8d7803.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27653/2020/a6023547-1c4f-4995-a4f6-58edcf8d7803-1582509484.jpg",
+    "url_thumb": "https://www.astrobin.com/369206/0/rawthumb/thumb/",
+    "user": "meeus",
+    "views": 192,
+    "w": 1920
+}

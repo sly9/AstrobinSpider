@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "41.508",
+    "description": "Stock camera.",
+    "h": 865,
+    "hash": null,
+    "id": 380189,
+    "imaging_cameras": [
+        "Canon 1100D"
+    ],
+    "imaging_telescopes": [
+        "TPO/GSO 6\" f/6 Imaging Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802832/"
+    ],
+    "orientation": "181.808",
+    "pixscale": "1.156",
+    "published": "2018-12-08T21:08:44.920849",
+    "ra": "49.947",
+    "radius": "0.253",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/380189/",
+    "revisions": [
+        "/api/v1/imagerevision/164391/",
+        "/api/v1/imagerevision/164667/",
+        "/api/v1/imagerevision/166306/"
+    ],
+    "subjects": [
+        "NGC 1267",
+        "NGC 1268",
+        "NGC 1270",
+        "NGC 1272",
+        "NGC 1273",
+        "NGC 1274",
+        "NGC 1275",
+        "NGC 1277",
+        "NGC 1278",
+        "NGC 1281",
+        "NGC 1283"
+    ],
+    "title": "NGC 1275",
+    "updated": "2021-03-17T12:55:11.920432",
+    "uploaded": "2018-12-08T21:08:45.945339",
+    "url_duckduckgo": "https://www.astrobin.com/380189/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/380189/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/380189/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/380189/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/380189/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/380189/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/380189/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/91c0e48e-79c4-4c71-adfd-29007c81ec36.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/91c0e48e-79c4-4c71-adfd-29007c81ec36-1544303484.png",
+    "url_thumb": "https://www.astrobin.com/380189/0/rawthumb/thumb/",
+    "user": "georgemsimon",
+    "views": 104,
+    "w": 1320
+}

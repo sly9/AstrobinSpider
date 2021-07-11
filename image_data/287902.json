@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "25.973",
+    "description": "Dark nebula Barnard 22 with embedded reflection nebula IC2087. \r\n\r\nAn LRGB composite using 30+20+20+20 individual frames with 900 sec exposure time. Data taken at the Deep Sky West Observatory.",
+    "h": 2504,
+    "hash": null,
+    "id": 287902,
+    "imaging_cameras": [
+        "QSI 683 WSG8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX III"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 166,
+    "link": "http://deepskyview.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804163/"
+    ],
+    "orientation": "270.150",
+    "pixscale": "2.103",
+    "published": "2017-03-21T20:22:05.681594",
+    "ra": "69.830",
+    "radius": "1.216",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/287902/",
+    "revisions": [],
+    "subjects": [
+        "IC 2087"
+    ],
+    "title": "Barnard 22 and Little Flame",
+    "updated": "2021-03-17T21:29:27.711186",
+    "uploaded": "2017-03-20T21:12:32.711389",
+    "url_duckduckgo": "https://www.astrobin.com/287902/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/287902/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/287902/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/287902/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/287902/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/287902/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/287902/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9633/2017/ee56d3df-d191-4b6a-8129-6355fddc938d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9633/2017/ee56d3df-d191-4b6a-8129-6355fddc938d-1582453619.jpg",
+    "url_thumb": "https://www.astrobin.com/287902/0/rawthumb/thumb/",
+    "user": "deepskyview",
+    "views": 857,
+    "w": 3326
+}

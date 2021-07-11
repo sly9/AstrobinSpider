@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "62.301",
+    "description": "Another try of the comet 41p with FSQ-106 with one hour of exposure @ bin 2.",
+    "h": 621,
+    "hash": null,
+    "id": 291560,
+    "imaging_cameras": [
+        "STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106N"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 43,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805407/"
+    ],
+    "orientation": "266.411",
+    "pixscale": "6.984",
+    "published": "2017-04-12T11:54:27.627847",
+    "ra": "238.081",
+    "radius": "0.968",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291560/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6015",
+        "NGC6015"
+    ],
+    "title": "Comet 41P Tuttle–Giacobini–Kresák with Galaxy NGC 6015",
+    "updated": "2021-03-17T21:11:20.641971",
+    "uploaded": "2017-04-12T12:49:11.350110",
+    "url_duckduckgo": "https://www.astrobin.com/291560/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291560/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291560/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291560/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291560/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291560/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291560/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2017/82f06eb9-8960-450b-807c-a806fa5c6ea0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2017/82f06eb9-8960-450b-807c-a806fa5c6ea0-1582616236.jpg",
+    "url_thumb": "https://www.astrobin.com/291560/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 144,
+    "w": 781
+}

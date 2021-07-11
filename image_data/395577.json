@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 22,
+    "data_source": "BACKYARD",
+    "dec": "53.047",
+    "description": "Voici ngc 3718 (Arp 214) et ngc 3729 et compagnie (Hickson 56)\r\nsituée à 52 millions d'année lumière de la terre dans la constellation de le grande ourse. A l'origine, les astronomes pensaient que ngc 3718 était une galaxie lenticulaire. Mais ces 2 extensions qui émergent de chaque coté montre qu'il s'agit sûrement d'une galaxies spirale.\r\nCertains astronomes incluent NGC 3718 dans la classe des galaxies avec des noyaux actifs connus sous le nom de LINER (Low-Ionization Nuclear Emission-line Regions). D'autres le classifient comme la galaxie de Seyfert. Beaucoup d'astronomes croient que les noyaux galactiques actifs sont alimentés par des trous noirs géants qui se cachent dans le centre.\r\n\r\nConcernant l'acquisition, ce ne fut pas simple... Le signal à f/6.3 est évidemment bien plus faible qu'à f/2.3...\r\nJ'ai mixé avec les 2 focales différentes afin de gagner en signal mais d'avoir également du détail. \r\nCPC925 sur table équatoriale\r\nzwo asi 1600 mm pro \r\nL: 240x60sec (f/6.3) \r\n    200x30sec (f/2.3) \r\nHa: 100*120sec (f/6.3)\r\nRVB: 3*60*60sec (f/2.3) \r\nsoit 12h  d'intégration totale",
+    "h": 3388,
+    "hash": null,
+    "id": 395577,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 255,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "61.913",
+    "pixscale": "0.482",
+    "published": "2019-03-22T08:55:53.432041",
+    "ra": "173.203",
+    "radius": "0.376",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395577/",
+    "revisions": [
+        "/api/v1/imagerevision/174024/"
+    ],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729"
+    ],
+    "title": "Ngc 3718 & ngc 3729. Hickson 56",
+    "updated": "2021-05-21T10:44:50.525813",
+    "uploaded": "2019-03-14T09:23:39.195637",
+    "url_duckduckgo": "https://www.astrobin.com/395577/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395577/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395577/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395577/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395577/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395577/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395577/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0090dfc7-ae4d-494b-893b-d20c57b6faee.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0090dfc7-ae4d-494b-893b-d20c57b6faee-1552555759.jpeg",
+    "url_thumb": "https://www.astrobin.com/395577/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 1891,
+    "w": 4488
+}

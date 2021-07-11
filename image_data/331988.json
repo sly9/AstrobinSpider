@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "UNSET",
+    "dec": "-4.803",
+    "description": "Sh2-279 is made up of three NGC catalog objects--NGC 1973, NGC 1975, and NGC 1977.  The entire complex includes the reflection, emission, and dark nebula that make up the Running Man nebula just to the side of the great Orion nebula M42.\r\n\r\nI've never shot the Running Man so it was a quick decision to give it a try between other projects that weren't as well positioned in the sky.  I managed to snag this data during a stretch of clear weather during the new moon--just before I began to have computer/software troubles with my remote system.  As usual, I had hoped to gather more data to better bring out details in the dark nebula, but wind and poor seeing ultimately capped my effort.  The wide dynamic range in this data made the processing a bit more challenging than I expected so feel free to let me know what you think of the result.  As usual, C&C is always welcome.\r\n \r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 331988,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 172,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.924",
+    "pixscale": "0.476",
+    "published": "2018-02-03T01:02:57.486000",
+    "ra": "83.887",
+    "radius": "0.363",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/331988/",
+    "revisions": [
+        "/api/v1/imagerevision/136084/"
+    ],
+    "subjects": [
+        "NGC 1973",
+        "NGC 1975",
+        "NGC 1977",
+        "The star 42Ori",
+        "The star 45Ori"
+    ],
+    "title": "Sh2-279 The Running Man Nebula",
+    "updated": "2021-06-15T14:32:47.438911",
+    "uploaded": "2018-02-03T00:04:11.914627",
+    "url_duckduckgo": "https://www.astrobin.com/331988/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/331988/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/331988/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/331988/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/331988/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/331988/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/331988/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3186fe5a-b7af-46e9-9c58-b46e395d228e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3186fe5a-b7af-46e9-9c58-b46e395d228e-1517618032.jpg",
+    "url_thumb": "https://www.astrobin.com/331988/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 865,
+    "w": 1824
+}

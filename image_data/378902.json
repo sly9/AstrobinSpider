@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "15.791",
+    "description": "Messier 74 (also known as NGC 628) is a face-on spiral galaxy in the constellation Pisces. It is about 32 million light-years away from Earth. The galaxy contains two clearly defined spiral arms. M74 is the brightest member of the M74 Group, a group of 5-7 galaxies that also includes the peculiar spiral galaxy NGC 660 and a few irregular galaxies.  It is estimated that M74 is home to about 100 billion stars.\r\n\r\nProcessing information:\r\n\r\nDate: Oct 3,8,9,10,13 2010  Processing update in Nov 2018\r\nLocation: New Ringgold PA\r\nOptics: Hyperion f/8 12.5 inch, FL 2540 mm \r\nMount: Paramount ME\r\nCamera: Sbig STL-11000 Guiding: Internal\r\nExposure: LRGB: L:48x7 min R:31x5 min, G:27x5 min, B:26x5 min, Total= 12.6 hours\r\nProcessing: Image acquisition using CCD Autopilot. Initial processing was done using Maxim DL with subsequent processing with Photoshop.  The image was cropped about 50% to bring the galaxy out from the background.",
+    "h": 2167,
+    "hash": null,
+    "id": 378902,
+    "imaging_cameras": [
+        "SBIG STL-11000"
+    ],
+    "imaging_telescopes": [
+        "Starizona Hyperion"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800295/"
+    ],
+    "orientation": "333.292",
+    "pixscale": "0.597",
+    "published": "2018-11-29T23:34:07.626835",
+    "ra": "24.161",
+    "radius": "0.307",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/378902/",
+    "revisions": [],
+    "subjects": [
+        "M 74",
+        "M74",
+        "NGC 628"
+    ],
+    "title": "M74",
+    "updated": "2021-03-17T13:01:21.034722",
+    "uploaded": "2018-11-29T23:34:07.771446",
+    "url_duckduckgo": "https://www.astrobin.com/378902/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378902/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378902/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378902/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378902/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378902/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378902/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6388/2020/2e6f7277-a82b-440a-acd7-7d9ee91f2ebc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6388/2020/2e6f7277-a82b-440a-acd7-7d9ee91f2ebc-1582435171.jpg",
+    "url_thumb": "https://www.astrobin.com/378902/0/rawthumb/thumb/",
+    "user": "franko",
+    "views": 283,
+    "w": 3000
+}

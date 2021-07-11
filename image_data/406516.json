@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "0.060",
+    "description": "LRGB taken between 20190110 and 20190405",
+    "h": 1849,
+    "hash": null,
+    "id": 406516,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Alluna RC18"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804934/"
+    ],
+    "orientation": "194.384",
+    "pixscale": "0.478",
+    "published": "2019-05-19T11:12:26.771766",
+    "ra": "86.653",
+    "radius": "0.369",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/406516/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "M 78",
+    "updated": "2021-03-17T10:54:27.796018",
+    "uploaded": "2019-05-19T12:03:12.185177",
+    "url_duckduckgo": "https://www.astrobin.com/406516/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/406516/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/406516/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/406516/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/406516/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/406516/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/406516/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/a02e0f3b-a48c-49a9-ace4-acdf9826f6d9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a02e0f3b-a48c-49a9-ace4-acdf9826f6d9-1558268246.jpg",
+    "url_thumb": "https://www.astrobin.com/406516/0/rawthumb/thumb/",
+    "user": "peterbrack",
+    "views": 102,
+    "w": 1824
+}

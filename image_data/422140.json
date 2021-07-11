@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 30,
+    "data_source": "BACKYARD",
+    "dec": "43.762",
+    "description": "This is a wide-angle view of Sharpless 119 (Sh2-119), a large emission nebula covering about three degrees of the sky in the constellation Cygnus. My previous posting of Sh2-119 focused on the Bok globules and dark dust lanes of the object using a traditional HST palette (https://www.astrobin.com/421855/?nc=user). In this rendition, I am showing the entire nebula using much of the same narrowband data, but here with a combination of the three channels that yields a more “natural” color representation. Since the OIII data for this project were very poor, the perimeter of most frames blown out by light from the full Moon, I mixed the much stronger SII data with the OIII to retain structure in both the green and blue channels. After a fair amount of trial and error in PI Pixel Math, I was able to salvage a reasonable image if Sh2-119.\r\n\r\nUPDATE\r\nVan McComas astutely observed that the structure of this nebula, with the very light OIII signal in the core, gives the appearance of looking through a window at the cosmos beyond. So, since this object does not have a common name, how about we call it Window Nebula?",
+    "h": 3325,
+    "hash": null,
+    "id": 422140,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "88.993",
+    "pixscale": "2.303",
+    "published": "2019-08-23T12:49:28.899219",
+    "ra": "319.593",
+    "radius": "1.764",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/422140/",
+    "revisions": [],
+    "subjects": [
+        "68 A Cyg",
+        "NGC7044",
+        "PK087-03.1",
+        "Sh2-119",
+        "The star 68Cyg"
+    ],
+    "title": "Sh2-119 Narrowband Natural",
+    "updated": "2021-07-07T00:19:30.790982",
+    "uploaded": "2019-08-23T13:49:30.808148",
+    "url_duckduckgo": "https://www.astrobin.com/422140/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/422140/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/422140/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/422140/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/422140/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/422140/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/422140/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/12a98f67-bc0e-495d-bd0b-874fb521c797.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/12a98f67-bc0e-495d-bd0b-874fb521c797-1582640997.jpg",
+    "url_thumb": "https://www.astrobin.com/422140/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 447,
+    "w": 4398
+}

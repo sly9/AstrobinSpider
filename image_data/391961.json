@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "18.039",
+    "description": "Part 1 - Hydrogen Alpha\r\nThis is the first step, imaging in Ha as the nearly full moon is out.  I managed to get 80 minutes on it and that was lucky given my limited field of view and dodging clouds.  Normally I would wait until I get color and finish the object but the weather has been so cloudy lately it may be a couple weeks.  I am back to using the modified T3i/600D rather than the monochrome ASI1600 so the 80 minutes falls short of an optimal amount of Ha data but beggars can't be choosers and it is better than nothing.  In addition I somehow took flats wrong it was dark and late) and they subtracted real data, I tried take them again but they still were not working so I stacked it in DSS without flats which added to the processing.  Not surprisingly, I had to do some \"wacky\" noise reduction - I think I invented stuff in PS.  I miss my the ASI1600...\r\n\r\nNow about object or objects.  I became interested in this after seeing Gary Imm's very detailed recent image.  Although Stellarium only has IC 2162 listed it is actually a star forming region approximately 8000 light years away at the top edge of the Orion constellation, above Betelgeuse towards Gemini.  It is composed of 5 Sharpless HII emission objects; from left to right, Sh2-254 (large and diffuse), Sh2-257 (bright middle object), Sh2-256 (small and just above), Sh2-255 (brightest nebula a.k.a. IC 2162), and finally Sh2-258 (not visible in my image). \r\n\r\nI like the structure of each of the three bright nebula and was happy it came out as the moon was bright and I was not sure how well I had the focus.  Focusing in Ha with a monochrome camera is much easier in APT.  Lastly, I did not crop it much as I was interested in some of the colorful surrounding stars in some other Astrobin images of this but I will most likely crop the final image.",
+    "h": 2533,
+    "hash": null,
+    "id": 391961,
+    "imaging_cameras": [
+        "Canon T3i Full Spectrum 600D"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech AT115EDT f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 54,
+    "link": "http://astroquest1.blogspot.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805373/"
+    ],
+    "orientation": "180.784",
+    "pixscale": "1.362",
+    "published": "2019-02-20T22:30:55.989988",
+    "ra": "93.125",
+    "radius": "0.811",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391961/",
+    "revisions": [],
+    "subjects": [
+        "13.43",
+        "58 Concordia",
+        "IC 2162",
+        "IC2162",
+        "NGC2195",
+        "Sh2-254",
+        "Sh2-255",
+        "Sh2-256",
+        "Sh2-257",
+        "Sh2-258"
+    ],
+    "title": "IC 2162 and Other Sharpless Objects",
+    "updated": "2021-03-17T12:01:48.992388",
+    "uploaded": "2019-02-20T22:30:57.713641",
+    "url_duckduckgo": "https://www.astrobin.com/391961/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391961/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391961/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391961/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391961/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391961/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391961/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17270/2020/d6d2ba65-cde9-44bb-a1cf-4daf64121513.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17270/2020/d6d2ba65-cde9-44bb-a1cf-4daf64121513-1582636080.jpg",
+    "url_thumb": "https://www.astrobin.com/391961/0/rawthumb/thumb/",
+    "user": "kurtzepp",
+    "views": 228,
+    "w": 3458
+}

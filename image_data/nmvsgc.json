@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "66.118",
+    "description": "My goal with this project was to see how close I could get to the remarkable composite image produced by several folks using LRGB amateur data and 656 nm and 671 nm data from the large Subaru telescope...\r\n\r\nhttps://apod.nasa.gov/apod/ap160829.html\r\n\r\nThe real challenge was trying to capture the faint red strands that are clearly visible in the 656 nm and 671 nm Subaru data. Even with almost 9 hours of Ha data (656 nm @ 5 nm), I could barely expose the brightest strands. \r\n\r\n\"Young suns still lie within dusty NGC 7129, some 3,000 light-years away toward the royal constellation Cepheus. While these stars are at a relatively tender age, only a few million years old, it is likely that our own Sun formed in a similar stellar nursery some five billion years ago. Most noticeable are the lovely bluish dust clouds that reflect the youthful starlight. But the compact, deep red crescent shapes are also markers of energetic, young stellar objects. Known as Herbig-Haro objects, their shape and color is characteristic of glowing hydrogen gas shocked by jets streaming away from newborn stars. Paler, extended filaments of reddish emission mingling with the bluish clouds are caused by dust grains effectively converting the invisible ultraviolet starlight to visible red light through photoluminesence. Ultimately the natal gas and dust in the region will be dispersed, the stars drifting apart as the loose cluster orbits the center of the Galaxy. The very faint red strands of emission at the upper left are recently recognized as a likely supernova remnant.\"",
+    "h": 3840,
+    "hash": "nmvsgc",
+    "id": 428140,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 126,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "179.432",
+    "pixscale": "0.468",
+    "published": "2019-09-20T03:37:12.602241",
+    "ra": "325.745",
+    "radius": "0.347",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/428140/",
+    "revisions": [],
+    "subjects": [
+        "IC 5134",
+        "NGC 7129",
+        "NGC7129",
+        "NGC7133",
+        "VdB146"
+    ],
+    "title": "NGC 7129",
+    "updated": "2021-06-19T16:05:06.669053",
+    "uploaded": "2019-09-20T04:37:12.759094",
+    "url_duckduckgo": "https://www.astrobin.com/nmvsgc/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nmvsgc/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nmvsgc/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nmvsgc/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nmvsgc/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nmvsgc/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nmvsgc/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11748/2020/05491a21-72bf-4a1c-be66-5730f3edc29c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11748/2020/05491a21-72bf-4a1c-be66-5730f3edc29c-1587365146.jpg",
+    "url_thumb": "https://www.astrobin.com/nmvsgc/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 776,
+    "w": 3714
+}

@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 57,
+    "data_source": "BACKYARD",
+    "dec": "21.854",
+    "description": "",
+    "h": 3468,
+    "hash": null,
+    "id": 404743,
+    "imaging_cameras": [
+        "ZWO ASI 183MC Pro (cooled)"
+    ],
+    "imaging_telescopes": [
+        "Vixen R200SS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 173,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809187/"
+    ],
+    "orientation": "212.346",
+    "pixscale": "0.617",
+    "published": "2019-05-12T04:31:39.325518",
+    "ra": "154.511",
+    "radius": "0.515",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404743/",
+    "revisions": [
+        "/api/v1/imagerevision/179311/",
+        "/api/v1/imagerevision/179435/",
+        "/api/v1/imagerevision/181004/"
+    ],
+    "subjects": [
+        "NGC 3185",
+        "NGC 3187",
+        "NGC 3189",
+        "NGC 3190",
+        "NGC 3193",
+        "NGC3185",
+        "NGC3187",
+        "NGC3189",
+        "NGC3190",
+        "NGC3193"
+    ],
+    "title": "Hickson 44",
+    "updated": "2021-05-23T02:12:34.872384",
+    "uploaded": "2019-05-08T04:02:12.912105",
+    "url_duckduckgo": "https://www.astrobin.com/404743/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404743/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404743/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404743/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404743/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404743/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404743/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26669/2019/d98023b5-d9df-4770-ad29-a6f43aae94a4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26669/2019/d98023b5-d9df-4770-ad29-a6f43aae94a4-1582586699.png",
+    "url_thumb": "https://www.astrobin.com/404743/0/rawthumb/thumb/",
+    "user": "MikeF29",
+    "views": 727,
+    "w": 4904
+}

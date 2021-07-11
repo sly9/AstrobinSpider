@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 28,
+    "comments": 14,
+    "data_source": "TRAVELLER",
+    "dec": "53.066",
+    "description": "The famous polar ring galaxy NGC3718 with companion NGC3729 in UMa, right below of it Hicksons Compact Group Nr.56 or HCG56 in short.  The distance is about 49 Mio. lightyears, while HCG56 is estimated to be about 10 times further.\r\n\r\nLRGB with ASI1600MM-cool at gain zero and Astronomik Deepsky RGB filters. 10\" f/4 Lacerta Photonewton on AZEQ6 guided/dithered by MGEN.",
+    "h": 952,
+    "hash": null,
+    "id": 394866,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 262,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "358.632",
+    "pixscale": "1.179",
+    "published": "2019-03-09T23:12:45.893397",
+    "ra": "173.239",
+    "radius": "0.260",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/394866/",
+    "revisions": [
+        "/api/v1/imagerevision/172878/",
+        "/api/v1/imagerevision/172879/"
+    ],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729",
+        "NGC3718",
+        "NGC3729"
+    ],
+    "title": "NGC3718",
+    "updated": "2021-05-17T07:23:53.401220",
+    "uploaded": "2019-03-09T23:12:46.084478",
+    "url_duckduckgo": "https://www.astrobin.com/394866/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394866/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394866/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394866/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394866/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394866/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394866/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/6579964d-bc98-44f0-b9dc-1005b0a403fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/6579964d-bc98-44f0-b9dc-1005b0a403fd-1582611960.jpg",
+    "url_thumb": "https://www.astrobin.com/394866/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 2140,
+    "w": 1270
+}

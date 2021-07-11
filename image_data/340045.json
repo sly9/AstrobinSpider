@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "69.332",
+    "description": "This is a mosaic from one camera and two telescopes on three occations.\r\nBackground is done with a 700mm F6.5 apo but for the galaxies I used my Meade LX200-ACF plus 0.78x reducer. Each one of those got 26x15 min @iso200 with a modded Nikon D7000 and CLS filter.\r\n\r\nMount is HEQ5 Pro, guided with a standalone NexGuider. Captured with DslrDashboard on Android tablet. \r\nNo darks, flats or bias used. \r\nProcessing with Registar, PS and Topaz Suite.",
+    "h": 2173,
+    "hash": null,
+    "id": 340045,
+    "imaging_cameras": [
+        "Nikon D7000"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 8\" ACF",
+        "TS Optics TS107 Super Apo Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 24,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "76.819",
+    "pixscale": "1.882",
+    "published": "2018-04-01T13:19:08.722310",
+    "ra": "148.755",
+    "radius": "1.077",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340045/",
+    "revisions": [
+        "/api/v1/imagerevision/141693/",
+        "/api/v1/imagerevision/142115/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "M81 & M82",
+    "updated": "2021-03-17T16:00:50.448155",
+    "uploaded": "2018-04-01T14:19:10.686997",
+    "url_duckduckgo": "https://www.astrobin.com/340045/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340045/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340045/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340045/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340045/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340045/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340045/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/71c0f007-c749-4388-b156-d345a8e665c8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/71c0f007-c749-4388-b156-d345a8e665c8-1522589055.jpg",
+    "url_thumb": "https://www.astrobin.com/340045/0/rawthumb/thumb/",
+    "user": "helios",
+    "views": 212,
+    "w": 3500
+}

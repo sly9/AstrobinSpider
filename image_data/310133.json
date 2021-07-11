@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "40.384",
+    "description": "Resolution ........ 1.247 arcsec/px\r\nRotation .......... 2.815 deg\r\nFocal ............. 826.90 mm\r\nPixel size ........ 5.00 um\r\nField of view ..... 38' 39.8\" x 28' 41.2\"\r\nImage center ...... RA: 20 25 53.700  Dec: +40 23 01.95",
+    "h": 1380,
+    "hash": null,
+    "id": 310133,
+    "imaging_cameras": [
+        "Atik 428EX"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher BKP 150 DS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799422/"
+    ],
+    "orientation": "357.189",
+    "pixscale": "1.247",
+    "published": "2017-08-30T20:34:32.309763",
+    "ra": "306.474",
+    "radius": "0.401",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310133/",
+    "revisions": [],
+    "subjects": [],
+    "title": "IC 1318 B",
+    "updated": "2021-03-17T19:59:27.614978",
+    "uploaded": "2017-08-30T21:29:17.421601",
+    "url_duckduckgo": "https://www.astrobin.com/310133/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310133/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310133/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310133/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310133/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310133/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310133/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2545/2020/774e894a-ca71-41c6-8a8b-03ac43ffafc6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2545/2020/774e894a-ca71-41c6-8a8b-03ac43ffafc6-1582630560.png",
+    "url_thumb": "https://www.astrobin.com/310133/0/rawthumb/thumb/",
+    "user": "northisup2",
+    "views": 132,
+    "w": 1860
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 13,
+    "data_source": "UNSET",
+    "dec": "-23.956",
+    "description": "This is primarily a test for QHY814A's narrowband capabilities. I have shot this image before with ASI1600MM camera with 10 minute subs and this test with 20 min subs on QHY814A.\r\n\r\nThe total signal on this target seems to have better depth than the ASI1600 (But it used 10 min subs for a total of 12 hour)  whereas this one is about 13 hour worth of integration.\r\n\r\nAlso due to better calibration characteristic of the QHY, the fainter OIII region ourside of the main nebula could be extracted. With the ASI1600, the ampglows at the edge were getting pretty hard to completely eliminate.",
+    "h": 1138,
+    "hash": null,
+    "id": 330693,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 211,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "90.480",
+    "pixscale": "4.096",
+    "published": "2018-01-24T03:46:16.409412",
+    "ra": "103.631",
+    "radius": "1.026",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330693/",
+    "revisions": [
+        "/api/v1/imagerevision/135388/"
+    ],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "SH2-308 - OIII",
+    "updated": "2021-03-17T16:44:08.333407",
+    "uploaded": "2018-01-24T03:46:17.432550",
+    "url_duckduckgo": "https://www.astrobin.com/330693/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330693/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330693/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330693/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330693/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330693/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330693/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7b5a865c-87cf-4f08-adb5-75499e1a60b6.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7b5a865c-87cf-4f08-adb5-75499e1a60b6-1516765788.png",
+    "url_thumb": "https://www.astrobin.com/330693/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 858,
+    "w": 1400
+}

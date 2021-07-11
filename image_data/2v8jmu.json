@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-54.950",
+    "description": "After I was losing the battle to dew pointing at the sculptor galaxy (basically vertical), I switched to this second target for some images.  Originally was images captured over two nights, but the second night images were all too poor quality to keep (focus/collimation is what I suspect).\r\n\r\nUnfortunately for my sleep deprived self I moved the camera after passing the meridian, in order to find a guide star, before I remembered to take flats. This resulted in 11x guided, 5-minute, non-flat calibrated, images at ISO-1600. (hello dust!). Collimation and focus from the first night was fairly decent for a second attempt (at collimating an SCT), but I'm sure it should be better.\r\n\r\nThis time I also tried using a mix of arcsinh stretch followed with histogram stretch to avoid the strange red/blue halo around stars. Overall, I think it came out alright for only 11 images, if I ever get a chance in the next few weeks I might try adding some more data.\r\n\r\nOne more image to run through, lucky last being the sculptor galaxy set",
+    "h": 4032,
+    "hash": "2v8jmu",
+    "id": 431800,
+    "imaging_cameras": [
+        "Nikon D750"
+    ],
+    "imaging_telescopes": [
+        "MEADE LX200 10\" ACF Meade LX200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 9,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805857/"
+    ],
+    "orientation": "31.007",
+    "pixscale": "0.451",
+    "published": "2019-10-06T14:56:20.416063",
+    "ra": "64.996",
+    "radius": "0.454",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/431800/",
+    "revisions": [],
+    "subjects": [
+        "NGC 1566",
+        "NGC1566"
+    ],
+    "title": "NGC 1566",
+    "updated": "2021-03-17T08:49:10.827950",
+    "uploaded": "2019-10-06T15:26:59.983951",
+    "url_duckduckgo": "https://www.astrobin.com/2v8jmu/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2v8jmu/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2v8jmu/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2v8jmu/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2v8jmu/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2v8jmu/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2v8jmu/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16858/2019/22b1fa8f-479f-49c1-9726-d2d88846d95c.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16858/2019/22b1fa8f-479f-49c1-9726-d2d88846d95c-1582471409.png",
+    "url_thumb": "https://www.astrobin.com/2v8jmu/0/rawthumb/thumb/",
+    "user": "chaosrand",
+    "views": 83,
+    "w": 6032
+}

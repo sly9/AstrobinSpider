@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "-23.714",
+    "description": "IC4685 in Sagittarius\r\n\r\nLRGB, 24.5 Hours total integration time.\r\n\r\nTelescope: Planewave CDK14\r\nCCD: FLI PL16803",
+    "h": 1824,
+    "hash": null,
+    "id": 302184,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "137.530",
+    "pixscale": "0.738",
+    "published": "2017-07-05T13:00:40.336320",
+    "ra": "272.434",
+    "radius": "0.594",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302184/",
+    "revisions": [
+        "/api/v1/imagerevision/119953/"
+    ],
+    "subjects": [
+        "IC 1274",
+        "IC 1275",
+        "IC 4684",
+        "IC 4685",
+        "NGC 6559",
+        "The star 11Sgr"
+    ],
+    "title": "IC4685 in Sagittarius",
+    "updated": "2021-03-17T20:30:51.947718",
+    "uploaded": "2017-07-05T14:00:41.012594",
+    "url_duckduckgo": "https://www.astrobin.com/302184/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302184/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302184/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302184/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302184/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302184/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302184/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4212/2017/82659ccf-3aa3-4d3c-8183-01b7dcf87a62.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/82659ccf-3aa3-4d3c-8183-01b7dcf87a62-1499260120.jpg",
+    "url_thumb": "https://www.astrobin.com/302184/0/rawthumb/thumb/",
+    "user": "SpaceNoob",
+    "views": 525,
+    "w": 1824
+}

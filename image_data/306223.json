@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "61.128",
+    "description": "",
+    "h": 2167,
+    "hash": null,
+    "id": 306223,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 106,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "177.200",
+    "pixscale": "1.264",
+    "published": "2017-08-05T16:57:53.597883",
+    "ra": "15.071",
+    "radius": "0.957",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/306223/",
+    "revisions": [],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "Gamma Cas Region",
+    "updated": "2021-03-17T20:14:55.929615",
+    "uploaded": "2017-08-05T17:57:55.391530",
+    "url_duckduckgo": "https://www.astrobin.com/306223/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/306223/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/306223/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/306223/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/306223/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/306223/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/306223/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20996/2017/5538a39d-b210-4a39-94b3-5dd42703c77e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/5538a39d-b210-4a39-94b3-5dd42703c77e-1501952543.png",
+    "url_thumb": "https://www.astrobin.com/306223/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 488,
+    "w": 1824
+}

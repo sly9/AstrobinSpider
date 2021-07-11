@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "29.897",
+    "description": "A very difficult image to process even with a 16\" RCOS with excellent seeing",
+    "h": 2202,
+    "hash": null,
+    "id": 296573,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "RCOS 16 RCOS "
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798119/"
+    ],
+    "orientation": "179.275",
+    "pixscale": "0.587",
+    "published": "2017-05-23T11:18:52.407097",
+    "ra": "185.637",
+    "radius": "0.290",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/296573/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4308",
+        "NGC 4314"
+    ],
+    "title": "NGC 4314",
+    "updated": "2021-05-12T19:55:24.631337",
+    "uploaded": "2017-05-23T12:18:52.775951",
+    "url_duckduckgo": "https://www.astrobin.com/296573/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/296573/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/296573/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/296573/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/296573/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/296573/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/296573/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/192/2017/089bc075-5216-4f02-952d-2ca4b94d15a2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/192/2017/089bc075-5216-4f02-952d-2ca4b94d15a2-1582443334.jpg",
+    "url_thumb": "https://www.astrobin.com/296573/0/rawthumb/thumb/",
+    "user": "circpro",
+    "views": 388,
+    "w": 2796
+}

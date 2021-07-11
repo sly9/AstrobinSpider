@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "BACKYARD",
+    "dec": "4.915",
+    "description": "Halpha: 109x600s en bin1\r\nOIII: 24x180s en bin2",
+    "h": 2554,
+    "hash": null,
+    "id": 404268,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805429/"
+    ],
+    "orientation": "275.020",
+    "pixscale": "2.324",
+    "published": "2019-05-05T14:27:35.719424",
+    "ra": "97.949",
+    "radius": "1.349",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404268/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2237 en HOO",
+    "updated": "2021-06-18T16:31:08.139023",
+    "uploaded": "2019-05-05T15:27:35.889854",
+    "url_duckduckgo": "https://www.astrobin.com/404268/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404268/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404268/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404268/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404268/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404268/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404268/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0b4d239d-acbb-4d76-aa99-fd81b2eba7ad.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0b4d239d-acbb-4d76-aa99-fd81b2eba7ad-1557070188.jpg",
+    "url_thumb": "https://www.astrobin.com/404268/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 276,
+    "w": 3308
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "9.475",
+    "description": "A Ha color blend image.\r\n\r\nThe Luminance layer in this image consist mainly of Ha info.\r\nTotal Ha exposues: 2x9x300sec.\r\n\r\nThe colors come from this WF color image:\r\n<a href=\"https://astrob.in/6f4pi6/0/\" target=\"_new\">WF cone nebula</a>\r\n\r\nThe FOV come from my WO FLT-110 refractor.\r\nThe Registar program was used align & resize the Ha SCT image & the Hyperstar color image to the chosen FOV.\r\nCS Niels",
+    "h": 1049,
+    "hash": "ydgew3",
+    "id": 450408,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Cooled ZWO mono"
+    ],
+    "imaging_telescopes": [
+        "WO FLT-110 WO",
+        "Meade Lx200ACF 16\" F6.2 Meade SCT 16\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806588/"
+    ],
+    "orientation": "49.165",
+    "pixscale": "2.438",
+    "published": "2020-01-21T11:27:02.192845",
+    "ra": "100.283",
+    "radius": "0.568",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450408/",
+    "revisions": [],
+    "subjects": [
+        "Christmas Tree Cluster",
+        "NGC 2264",
+        "The star 15Mon"
+    ],
+    "title": "Part of the cone nebula, a Ha, color image",
+    "updated": "2021-03-17T05:28:54.571359",
+    "uploaded": "2020-01-21T11:27:02.298647",
+    "url_duckduckgo": "https://www.astrobin.com/ydgew3/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ydgew3/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ydgew3/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ydgew3/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ydgew3/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ydgew3/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ydgew3/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4400/2020/d4152805-fcfc-4bdc-a22c-a1ad7aecec34.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4400/2020/d4152805-fcfc-4bdc-a22c-a1ad7aecec34-1603057354.jpg",
+    "url_thumb": "https://www.astrobin.com/ydgew3/0/rawthumb/thumb/",
+    "user": "nvcchr1",
+    "views": 338,
+    "w": 1310
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "4.968",
+    "description": "The Rosette Nebula, a stunning emission nebula at  the edge of a large molecular cloud in Monoceros, some 5000 light years away. Its flowery appearance is sculpted by the winds and radiation from its central cluster of hot young stars. \r\n\r\nThis is a narrowband composite from (16,16,20) x 1800 sec exposures in Ha, OIII, and SII. Data taken at the Deep Sky West Observatory.\r\n\r\nMake sure to look at the full-size image.",
+    "h": 2319,
+    "hash": null,
+    "id": 270874,
+    "imaging_cameras": [
+        "QSI 683 WSG8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX III"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 91,
+    "link": "http://deepskyview.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804163/"
+    ],
+    "orientation": "7.139",
+    "pixscale": "2.097",
+    "published": "2016-11-05T20:50:38.367129",
+    "ra": "98.004",
+    "radius": "1.102",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270874/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "Rosette Nebula",
+    "updated": "2021-03-17T22:34:33.584924",
+    "uploaded": "2016-11-05T14:34:58.053309",
+    "url_duckduckgo": "https://www.astrobin.com/270874/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270874/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270874/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270874/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270874/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270874/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270874/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9633/2016/9e0c57c1-4f73-4e99-a8c9-12f30bced553.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9633/2016/9e0c57c1-4f73-4e99-a8c9-12f30bced553-1582453654.jpg",
+    "url_thumb": "https://www.astrobin.com/270874/0/rawthumb/thumb/",
+    "user": "deepskyview",
+    "views": 411,
+    "w": 2991
+}

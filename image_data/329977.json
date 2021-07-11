@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "24.309",
+    "description": "Barnard 18 is a dark nebula in the constellation of Taurus.  \r\n\r\nData for this were captured over several nights between 23 December 2017 and 17 January 2018 from the Deep Sky West facility in New Mexico.  It consists:\r\n\r\nLum:  20 x 900s\r\nRed: 24 x 900s\r\nGreen: 28 x 900s\r\nBlue: 23 x 900s\r\n\r\nA total of  23.8 hours exposure.",
+    "h": 2476,
+    "hash": null,
+    "id": 329977,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 81,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "13.279",
+    "pixscale": "2.101",
+    "published": "2018-01-19T11:59:08.304531",
+    "ra": "67.964",
+    "radius": "1.202",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329977/",
+    "revisions": [
+        "/api/v1/imagerevision/136605/"
+    ],
+    "subjects": [],
+    "title": "Barnard 18 in Taurus - LRGB",
+    "updated": "2021-03-17T16:47:20.760732",
+    "uploaded": "2018-01-19T11:59:08.807602",
+    "url_duckduckgo": "https://www.astrobin.com/329977/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329977/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329977/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329977/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329977/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329977/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329977/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/72bcd4fb-6a9d-45a8-8ad7-0166ab542206.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/72bcd4fb-6a9d-45a8-8ad7-0166ab542206-1516363482.jpg",
+    "url_thumb": "https://www.astrobin.com/329977/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 169,
+    "w": 3291
+}

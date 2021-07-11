@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "38.307",
+    "description": "30x120s Ha\r\n30x120s O3",
+    "h": 1407,
+    "hash": null,
+    "id": 316406,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 103,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "53.013",
+    "pixscale": "0.972",
+    "published": "2017-10-12T21:49:44.274903",
+    "ra": "303.049",
+    "radius": "0.452",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316406/",
+    "revisions": [
+        "/api/v1/imagerevision/127213/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888 BiColor",
+    "updated": "2021-03-17T19:34:01.584237",
+    "uploaded": "2017-10-12T22:44:28.762040",
+    "url_duckduckgo": "https://www.astrobin.com/316406/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316406/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316406/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316406/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316406/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316406/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316406/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4577/2017/ca055411-78d5-497e-9ab6-81682df5992b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ca055411-78d5-497e-9ab6-81682df5992b-1507844946.jpg",
+    "url_thumb": "https://www.astrobin.com/316406/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 438,
+    "w": 1824
+}

@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 15,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.850",
+    "description": "I recently installed a Takahashi FSQ106 and ZWO ASI1600 on top of the Planewave.  I was concerned that this added weight at both ends (counter weight too) would degrade the guiding performance of the Planewave.  It does seem to have more variation in the model error, but my guide error is close to where it was before.  The model error moved up from 5a-s to 12a-s, and my guide error is usually in the 0.5\" rather than 0.4\" range.  \r\n\r\nBut this does not impact the results from my 1.46\" image scale on the Tak!  The resolution I'm seeing from this little scope is quite nice!  I haven't got things completely dialed in but I have been able to capture good data.\r\n\r\nThis is a SHO image with the following blend:\r\n\r\nRed = SII+33%Ha\r\nGreen = SII25%+Ha 50%+OIII25%\r\nBlue = OIII\r\nLuminance = Ha\r\nStar color is SHO\r\n\r\nPre-processing in CCDStack and Post-processed in Photoshop.  \r\nPost-processing included lane darkening with a High Pass filter, Sharpening with Unsharp Mask, Luminance noise reduction via Topaz, color noise reduction with Gaussian Blur and Dust and Scratches.",
+    "h": 3182,
+    "hash": "2u0nst",
+    "id": 428101,
+    "imaging_cameras": [
+        "ZWO ASI1600MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 EDX4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 177,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "228.935",
+    "pixscale": "1.475",
+    "published": "2019-09-19T21:15:27.718906",
+    "ra": "324.085",
+    "radius": "1.114",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/428101/",
+    "revisions": [
+        "/api/v1/imagerevision/193511/",
+        "/api/v1/imagerevision/193516/",
+        "/api/v1/imagerevision/193580/"
+    ],
+    "subjects": [
+        "B161",
+        "IC 1396",
+        "IC1396",
+        "Sh2-131",
+        "VdB142"
+    ],
+    "title": "Elephant Trunk - First Light with ASI1600",
+    "updated": "2021-03-17T09:07:05.316919",
+    "uploaded": "2019-09-19T22:15:27.811237",
+    "url_duckduckgo": "https://www.astrobin.com/2u0nst/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2u0nst/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2u0nst/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2u0nst/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2u0nst/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2u0nst/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2u0nst/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2020/a0f2050a-59c1-42fa-a8f6-f860361986df.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17450/2020/a0f2050a-59c1-42fa-a8f6-f860361986df-1582460098.jpg",
+    "url_thumb": "https://www.astrobin.com/2u0nst/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 1010,
+    "w": 4410
+}

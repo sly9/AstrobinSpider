@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 5,
+    "data_source": "UNSET",
+    "dec": "38.341",
+    "description": "*** Was able to add data from 2017-07-29 to bring out the Oiii in the region as well as bring more definition and color to the Oiii envelope***\r\n\r\nI finally had some clear nights and of course they were during an almost full moon.  Despite the moon I just had to get out, so this was imaged over two nights with an average of 90% moon.   I captured 1.75 hours of SII as well, but the signal is weak and with this limited integration all I could seem to do was neutralize color and add noise.  I ended up settling on HOO as the signal was really good for both of these channels despite a short integration.  I'm going to spend some more time on this if I get the chance.  Dark skies would really make this target stand out.",
+    "h": 3408,
+    "hash": null,
+    "id": 302521,
+    "imaging_cameras": [
+        "ZWO  ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Boren-Simon PowerNewt 8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "53.608",
+    "pixscale": "1.288",
+    "published": "2017-07-08T03:29:37.752927",
+    "ra": "303.037",
+    "radius": "1.015",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302521/",
+    "revisions": [
+        "/api/v1/imagerevision/121621/"
+    ],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "Crescent Nebula NGC 6888- HOO",
+    "updated": "2021-03-17T20:29:45.155210",
+    "uploaded": "2017-07-08T04:15:08.516020",
+    "url_duckduckgo": "https://www.astrobin.com/302521/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302521/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302521/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302521/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302521/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302521/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302521/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14318/2017/d6743f18-76ba-44ee-b970-a235dc4eda1a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14318/2017/d6743f18-76ba-44ee-b970-a235dc4eda1a-1582580868.jpg",
+    "url_thumb": "https://www.astrobin.com/302521/0/rawthumb/thumb/",
+    "user": "CRW_Photography",
+    "views": 1004,
+    "w": 4536
+}

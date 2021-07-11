@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 26,
+    "comments": 42,
+    "data_source": "BACKYARD",
+    "dec": "20.911",
+    "description": "In juanuary 2017,  I posted my first image on AB. It was a picture of NGC 2392 taken with an ASI 224 MC using Lucky Imaging (500 ms frames) : \r\n\r\n<a href=\"https://astrob.in/278908/0/\"><img src=\"https://astrob.in/278908/0/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n\r\n2 years later (2019), I have changed my camera for an ASI 290 MMC to continue with Lucky Imaging on DSO, using shorter exposure times. I have also upgraded my scope (secondary and focuser) and tried to learn more on processing.\r\n\r\nA few days ago, The seeing was very good here. So I decided to come back on this \"eskimo\" to see how I can improve the image. I took 3 hours of 200ms and 100ms frames with the ASI 290 MMC, 1 hour with the ASI 294 MC Pro for color. I mixed all the data, including the 2017 one, in a long processing session with SIRIL and AS!3, then finishing with CS. The ASI 290 MMC 100 ms data is mainly used in the center of the nebula.\r\n\r\nThe result is not a revolution as the 2017 picture was already good. But I think there are some improvements in the center. The picture is less Noisy as there is far more data. The ASI 290 makes it bigger. I made It more blue than green this time (the ASI 294 image is less green than, the ASI 224 one). Hope you enjoy.\r\n\r\nCS\r\n\r\nJF",
+    "h": 1145,
+    "hash": null,
+    "id": 398060,
+    "imaging_cameras": [
+        "ZWO ASI 294MC Pro",
+        "ZWO ASI 224MC",
+        "ZWO ASI290MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "ORION Personnal 14\" Newton customized"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 367,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806638/"
+    ],
+    "orientation": "338.559",
+    "pixscale": "0.278",
+    "published": "2019-03-29T23:24:44.052204",
+    "ra": "112.294",
+    "radius": "0.074",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/398060/",
+    "revisions": [
+        "/api/v1/imagerevision/176469/",
+        "/api/v1/imagerevision/209261/",
+        "/api/v1/imagerevision/256617/"
+    ],
+    "subjects": [
+        "Eskimo nebula",
+        "NGC 2392"
+    ],
+    "title": "NGC 2392 - Nébuleuse du clown (version 2019)",
+    "updated": "2021-05-23T13:13:37.714511",
+    "uploaded": "2019-03-29T22:41:36.769438",
+    "url_duckduckgo": "https://www.astrobin.com/398060/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/398060/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/398060/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/398060/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/398060/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/398060/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/398060/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21355/2019/db739f69-3f8b-4112-9554-5113ed9a835a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21355/2019/db739f69-3f8b-4112-9554-5113ed9a835a-1582572699.jpg",
+    "url_thumb": "https://www.astrobin.com/398060/0/rawthumb/thumb/",
+    "user": "jeffbax",
+    "views": 1509,
+    "w": 1540
+}

@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 56,
+    "comments": 14,
+    "data_source": "TRAVELLER",
+    "dec": "47.182",
+    "description": "This is a LRGBHa of 149+62+36+28+29 subframes. The trick for the details was to sort out the best Luminance data by FWHM, and stack them separately to build the highlights from them. All of them were used for the background and extracting weak signal.\r\n\r\nA crop on the galaxy and a full field is provided, both at 100% resolution.\r\n\r\nA good deal of sharpening and contrasting was done using a new technique developed for Photoshop by Christoph Kaltseis, he showed it first at CEDIC 2017 conference in Austria. It free and non commercial, learn more about APF-R here:\r\nhttp://www.cedic.at/apfr/",
+    "h": 3520,
+    "hash": null,
+    "id": 301501,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Photonewton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 439,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "0.676",
+    "pixscale": "0.782",
+    "published": "2017-06-30T00:02:07.629956",
+    "ra": "202.466",
+    "radius": "0.634",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301501/",
+    "revisions": [
+        "/api/v1/imagerevision/119423/",
+        "/api/v1/imagerevision/119479/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "IC4263",
+        "IC4278",
+        "M 51",
+        "M51",
+        "NGC 5194",
+        "NGC 5195",
+        "NGC5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 the Whirlpool Galaxy",
+    "updated": "2021-06-11T10:21:23.982365",
+    "uploaded": "2017-06-30T01:02:10.362773",
+    "url_duckduckgo": "https://www.astrobin.com/301501/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301501/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301501/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301501/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301501/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301501/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301501/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/57305e0b-7181-4002-ba19-c07dfb3ce42a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/57305e0b-7181-4002-ba19-c07dfb3ce42a-1582612076.png",
+    "url_thumb": "https://www.astrobin.com/301501/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 8803,
+    "w": 4656
+}

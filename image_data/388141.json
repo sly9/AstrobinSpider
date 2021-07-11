@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 4,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "53.403",
+    "description": "Jones-Emberson 1, planetary nebula in Lynx.  Really small target for this scope. Data from 2017.\r\n\r\nR = 16x 900s (2/21 - 2/22/2017)\r\nG = 19x 900s (3/17 - 3/19/2017)\r\nB = 18x 900s (3/2 - 3/5/2017)\r\nL = 21x 900s (2/25 - 3/5/2017)",
+    "h": 2503,
+    "hash": null,
+    "id": 388141,
+    "imaging_cameras": [
+        "QSI683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 28,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808700/"
+    ],
+    "orientation": "270.159",
+    "pixscale": "2.100",
+    "published": "2019-01-27T22:18:26.570825",
+    "ra": "119.453",
+    "radius": "1.164",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/388141/",
+    "revisions": [
+        "/api/v1/imagerevision/168860/",
+        "/api/v1/imagerevision/168898/"
+    ],
+    "subjects": [
+        "NGC2474",
+        "NGC2475",
+        "PK164+31.1"
+    ],
+    "title": "PK 164 in Lynx",
+    "updated": "2021-03-17T12:19:30.576449",
+    "uploaded": "2019-01-27T22:11:02.756491",
+    "url_duckduckgo": "https://www.astrobin.com/388141/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/388141/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/388141/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/388141/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/388141/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/388141/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/388141/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/74673bcc-978b-4977-8473-5822363e2946.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/74673bcc-978b-4977-8473-5822363e2946-1548627478.png",
+    "url_thumb": "https://www.astrobin.com/388141/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 83,
+    "w": 3108
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "-29.866",
+    "description": "",
+    "h": 1800,
+    "hash": "avar5f",
+    "id": 469551,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "49.880",
+    "pixscale": "0.654",
+    "published": "2020-03-28T06:38:05.553124",
+    "ra": "204.251",
+    "radius": "0.273",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/469551/",
+    "revisions": [
+        "/api/v1/imagerevision/239008/",
+        "/api/v1/imagerevision/239032/"
+    ],
+    "subjects": [
+        "M 83",
+        "NGC 5236",
+        "Southern Pinwheel Galaxy"
+    ],
+    "title": "The Southern Pinwheel Galaxy M83",
+    "updated": "2021-04-16T15:53:41.931640",
+    "uploaded": "2020-03-28T06:38:05.746656",
+    "url_duckduckgo": "https://www.astrobin.com/avar5f/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/avar5f/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/avar5f/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/avar5f/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/avar5f/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/avar5f/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/avar5f/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2020/2f7b0704-5d94-4613-8c22-6ace89814373.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2020/2f7b0704-5d94-4613-8c22-6ace89814373-1585378097.jpg",
+    "url_thumb": "https://www.astrobin.com/avar5f/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 358,
+    "w": 2400
+}

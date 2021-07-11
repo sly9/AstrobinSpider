@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "28.290",
+    "description": "LBN 782 LRGB.",
+    "h": 2478,
+    "hash": null,
+    "id": 277269,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5 FSQ 106ED f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "1.248",
+    "pixscale": "2.101",
+    "published": "2016-12-26T04:58:21.617834",
+    "ra": "64.068",
+    "radius": "1.202",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277269/",
+    "revisions": [
+        "/api/v1/imagerevision/106720/",
+        "/api/v1/imagerevision/106800/"
+    ],
+    "subjects": [
+        "IC 359"
+    ],
+    "title": "LBN 782 @DSW",
+    "updated": "2021-03-17T22:10:58.225588",
+    "uploaded": "2016-12-26T04:58:21.915317",
+    "url_duckduckgo": "https://www.astrobin.com/277269/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277269/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277269/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277269/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277269/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277269/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277269/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2016/c9db1dd2-935a-4dad-9769-0ccc3d6b0776.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2016/c9db1dd2-935a-4dad-9769-0ccc3d6b0776-1582616309.jpg",
+    "url_thumb": "https://www.astrobin.com/277269/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 327,
+    "w": 3291
+}

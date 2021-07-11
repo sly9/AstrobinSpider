@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "-8.209",
+    "description": "Data: 01.,02.01.19\r\nTelescope: Vixen VSD 100 f3,8\r\nMount: SW AZ EQ6\r\nCamera: Canon 5d MkII mod.\r\nIntegration time: 40x6min, ISO800\r\n7 Darks, 24 Flats, 118 Bias\r\nPostprocessing: DSS, FW4, PSCs6, Startools",
+    "h": 2743,
+    "hash": null,
+    "id": 403121,
+    "imaging_cameras": [
+        "Canon 5D Mark II"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD 100 f/3.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 158,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810674/"
+    ],
+    "orientation": "359.765",
+    "pixscale": "5.359",
+    "published": "2019-04-28T13:36:42.260733",
+    "ra": "75.794",
+    "radius": "3.233",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/403121/",
+    "revisions": [],
+    "subjects": [
+        "IC 2118",
+        "The star 63Eri",
+        "The star λEri",
+        "The star ψEri",
+        "Witch Head nebula"
+    ],
+    "title": "IC 2118 Witch Head Nebula",
+    "updated": "2021-05-17T03:23:37.164552",
+    "uploaded": "2019-04-28T14:36:42.452389",
+    "url_duckduckgo": "https://www.astrobin.com/403121/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/403121/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/403121/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/403121/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/403121/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/403121/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/403121/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/afdf6200-3212-4265-973b-b34e640e2b22.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/afdf6200-3212-4265-973b-b34e640e2b22-1556462408.jpg",
+    "url_thumb": "https://www.astrobin.com/403121/0/rawthumb/thumb/",
+    "user": "Chillspeedy",
+    "views": 530,
+    "w": 1824
+}

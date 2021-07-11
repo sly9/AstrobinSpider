@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "44.060",
+    "description": "",
+    "h": 1355,
+    "hash": null,
+    "id": 268948,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "SharpStar AL-107PH Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 15,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806238/"
+    ],
+    "orientation": "-86.752",
+    "pixscale": "1.758",
+    "published": "2016-10-21T02:25:50.671278",
+    "ra": "312.625",
+    "radius": "1.353",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/268948/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "IC 5070",
+    "updated": "2021-06-16T16:59:57.209395",
+    "uploaded": "2016-10-21T03:25:50.671278",
+    "url_duckduckgo": "https://www.astrobin.com/268948/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/268948/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/268948/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/268948/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/268948/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/268948/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/268948/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/46973b08-9c59-4e37-b3ac-c2713e614550.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/46973b08-9c59-4e37-b3ac-c2713e614550.JPG",
+    "url_thumb": "https://www.astrobin.com/268948/0/rawthumb/thumb/",
+    "user": "firefly",
+    "views": 111,
+    "w": 1824
+}

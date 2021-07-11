@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "13.669",
+    "description": "Version B is a much improved processing version using some of the new techniques I have been learning recently.  Amazing how there are always new things to learn about processing with PI.\r\n\r\nImaged on nights of 2018-9-13, 2018-9-14, 2018-11-8, 2018-11-9, 2018-11-12, 2018-11-13.\r\nThe RGB were taken on the AG12+ASI1600MM at .70 asec/pix, the L on TV127is+ASI183MM at .75 asec/pix.  Using L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThere are many fine galaxies in this image in addition to NGC660.  Many of the small ones show some fine detail.\r\n\r\nNGC 660 is a peculiar and unique polar-ring galaxy located approximately 45 million light years from Earth in the Pisces constellation. It is the only such galaxy having, as its host, a \"late-type lenticular galaxy\". It was probably formed when two galaxies collided a billion years ago. However, it may have first started as a disk galaxy that captured matter from a passing galaxy. This material could have, over time, become \"strung out\" to form a rotating ring.\r\n\r\nThe ring is not actually polar, but rather has an inclination from the plane of the host disk of approximately 45 degrees. The extreme number of pinkish star-forming areas that occurs along the galaxy's ring could be the result of the gravitation interaction caused by this collision. The ring is 50,000 light-years across - much broader than the disk itself - and has a greater amount of gas and star formation than the host ring. This likely indicates a very violent formation. The polar ring contains objects numbering in the hundreds. Many of these are red and blue supergiant stars. The most recently created stars in the ring were just formed approximately 7 million years ago. This indicates that the formation of these stars has been a long process and is still occurring.\r\n\r\nData about the dark matter halo of NGC 660 can be extracted by observing the gravitational effects of the dark matter on the disk and ring's rotation. From the core of the disk, radio waves are being emitted. The source of these waves is an area only 21 light years across. This may indicate the presence of a super-cluster of stars located within an area of cloud of gas. The region in the centre has a vast amount of star formation, so luminous that it is considered to be a starburst galaxy.\r\n\r\nLate in 2012, this polar-ring galaxy produced an enormous outburst having a magnitude of approximately ten times brighter than a supernova explosion. The cause is not certain, but this event may have resulted from a tremendous jet being emenating from galaxy's central black hole.\r\n\r\nNGC 660 is a member of the M74 Group.\r\n(Wikipedia)",
+    "h": 2646,
+    "hash": null,
+    "id": 378657,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 211,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "87.659",
+    "pixscale": "0.701",
+    "published": "2018-11-27T19:15:33.825433",
+    "ra": "25.775",
+    "radius": "0.416",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/378657/",
+    "revisions": [
+        "/api/v1/imagerevision/170856/"
+    ],
+    "subjects": [
+        "NGC 660",
+        "NGC660",
+        "PGC1432001",
+        "PGC1432913",
+        "PGC1433323",
+        "PGC1433543",
+        "PGC1436430",
+        "PGC1442394",
+        "PGC6292",
+        "PGC6364"
+    ],
+    "title": "NGC660 Polar Ring Galaxy",
+    "updated": "2021-05-28T12:12:08.073252",
+    "uploaded": "2018-11-27T19:01:19.384377",
+    "url_duckduckgo": "https://www.astrobin.com/378657/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/378657/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/378657/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/378657/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/378657/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/378657/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/378657/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2018/995dca78-4250-43f2-bb46-c8830ceee913.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2018/995dca78-4250-43f2-bb46-c8830ceee913-1582590889.jpg",
+    "url_thumb": "https://www.astrobin.com/378657/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 702,
+    "w": 3352
+}

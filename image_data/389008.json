@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "70.554",
+    "description": "FSQ data from Q4, 2017 that I did not process til now. \r\n\r\nR = 18x 600s (11/15 - 11/20/2017)\r\nG = 21x 600s (11/16 - 11/20/2017)\r\nB = 18x 600s (11/16 - 11/20/2017)\r\nL = 32x 600s (11/15 - 11/20/2017)",
+    "h": 2140,
+    "hash": null,
+    "id": 389008,
+    "imaging_cameras": [
+        "QSI683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ -106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 47,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808700/"
+    ],
+    "orientation": "270.835",
+    "pixscale": "2.099",
+    "published": "2019-02-03T01:52:06.999256",
+    "ra": "333.519",
+    "radius": "0.974",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/389008/",
+    "revisions": [],
+    "subjects": [
+        "B175",
+        "PK111+11.1",
+        "VdB152"
+    ],
+    "title": "vdB 152, Wolf's Cave Nebula in Cepheus",
+    "updated": "2021-03-17T12:15:26.827279",
+    "uploaded": "2019-02-03T01:43:06.663652",
+    "url_duckduckgo": "https://www.astrobin.com/389008/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/389008/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/389008/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/389008/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/389008/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/389008/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/389008/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22480/2019/181050e1-e7de-45fd-be6a-05130eb37b43.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22480/2019/181050e1-e7de-45fd-be6a-05130eb37b43-1582568740.png",
+    "url_thumb": "https://www.astrobin.com/389008/0/rawthumb/thumb/",
+    "user": "scottstirling",
+    "views": 209,
+    "w": 2563
+}

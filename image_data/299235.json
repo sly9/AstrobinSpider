@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "44.286",
+    "description": "This image was reprocessed from 8 frames mosaic data.\r\n\r\nDate: July 2, 2017\r\n\r\nHa 16 x 240s (2x2 Binning)\r\nSII 8 x 240s (3x3 Binning)\r\nOIII 8 x240s (3x3 Binning)",
+    "h": 3903,
+    "hash": null,
+    "id": 299235,
+    "imaging_cameras": [
+        "QHYCCD QHY16200A Mono"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806965/"
+    ],
+    "orientation": "0.624",
+    "pixscale": "2.761",
+    "published": "2017-06-11T16:41:38.968341",
+    "ra": "314.018",
+    "radius": "2.472",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299235/",
+    "revisions": [],
+    "subjects": [
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star ξCyg"
+    ],
+    "title": "North America and Pelican  (8 frames mosaic) ",
+    "updated": "2021-06-18T11:56:02.904035",
+    "uploaded": "2017-06-11T17:41:39.562532",
+    "url_duckduckgo": "https://www.astrobin.com/299235/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299235/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299235/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299235/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299235/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299235/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299235/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22506/2017/eb701600-c40d-4e44-afb9-fcfac477a0c3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22506/2017/eb701600-c40d-4e44-afb9-fcfac477a0c3-1582598947.jpg",
+    "url_thumb": "https://www.astrobin.com/299235/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 244,
+    "w": 5130
+}

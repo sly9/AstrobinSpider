@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "67.737",
+    "description": "Telescope : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400\r\nFilters : Astrodon 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : SBIG RemoteGuideHead\r\nExposure : L 600s x 28(1x1bin), RGB each 600s x 12(1x1bin) total 10h 40m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)",
+    "h": 2667,
+    "hash": "4igh3y",
+    "id": 432537,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 180,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "359.590",
+    "pixscale": "3.485",
+    "published": "2019-10-10T07:08:49.728930",
+    "ra": "312.328",
+    "radius": "2.327",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/432537/",
+    "revisions": [],
+    "subjects": [
+        "NGC 7023",
+        "The star 4Cep"
+    ],
+    "title": "Iris nebula wide field",
+    "updated": "2021-03-17T08:45:47.262368",
+    "uploaded": "2019-10-10T08:08:50.967350",
+    "url_duckduckgo": "https://www.astrobin.com/4igh3y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/4igh3y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/4igh3y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/4igh3y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/4igh3y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/4igh3y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/4igh3y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/8823/2020/b2a487c6-1ec8-47be-833c-e4a6a4ab1982.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/8823/2020/b2a487c6-1ec8-47be-833c-e4a6a4ab1982-1582631390.jpg",
+    "url_thumb": "https://www.astrobin.com/4igh3y/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 713,
+    "w": 4000
+}

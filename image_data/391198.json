@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "61.534",
+    "description": "Barry and Steve imaged Melotte 15 from their remote observatory in Spain back in November 2018.  I decided that I would like to have a go at imaging it from our home observatory in the UK.  The scope and camera combination gave a significantly wider field of view, but at less resolution, of course.\r\n\r\nCapture proved ‘interesting’.  We used filter focus offsets (as we usually do), but we forgot to calculate these offsets after rebuilding the rig following our trip to Spain – it was a new camera/scope combination for us.  As a result, we thought we had lost 12 hours of data.  As it turned out, once we calculated our offsets, the Ha and SII were thankfully pretty close to the Lum filter.  So we only (!) lost around 4 hours of OIII data – that is why we ended up with so much Ha. \r\n \r\nMelotte 15 lies within the heart of the Heart Nebula (IC 1805), around 7,500 light years away in the constellation of Cassiopeia.\r\n\r\nData for Melotte 15 were gathered between 18 November 2018 and 15 February 2019 from our home observatory in the UK. \r\n\r\nCapture details are as follows:\r\n\r\nTelescope: Skywatcher Esprit 120ED \r\nCamera: Moravian G2-8300\r\nFilters: Chroma 3nm NB \r\nMount: Mesu 200\r\n\r\nHa: 32 x 1200s\r\nOIII: 24 x 1200s\r\nSII: 22 x 1200s\r\n\r\nA total of 26 hours capture time.",
+    "h": 3543,
+    "hash": null,
+    "id": 391198,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 75,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810184/"
+    ],
+    "orientation": "359.605",
+    "pixscale": "1.204",
+    "published": "2019-02-16T16:12:56.277323",
+    "ra": "38.752",
+    "radius": "0.739",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391198/",
+    "revisions": [],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "Melotte 15 in Cassiopeia - SHO",
+    "updated": "2021-03-17T12:05:11.651455",
+    "uploaded": "2019-02-16T16:12:56.423180",
+    "url_duckduckgo": "https://www.astrobin.com/391198/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391198/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391198/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391198/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391198/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391198/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391198/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/30676/2020/45c1f25f-4f69-4675-b61f-611b6dba20a1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/30676/2020/45c1f25f-4f69-4675-b61f-611b6dba20a1-1582532082.jpg",
+    "url_thumb": "https://www.astrobin.com/391198/0/rawthumb/thumb/",
+    "user": "MrsGnomus",
+    "views": 483,
+    "w": 2638
+}

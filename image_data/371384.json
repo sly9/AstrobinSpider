@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "-47.462",
+    "description": "Time to reprocess for better star color",
+    "h": 1854,
+    "hash": null,
+    "id": 371384,
+    "imaging_cameras": [
+        "FLI Proline 16803 CHILE OBSERVATORY CAMERA"
+    ],
+    "imaging_telescopes": [
+        "ASA N 20 inch f3/6 CHILE - NEWTONIAN"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 34,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808510/"
+    ],
+    "orientation": "269.728",
+    "pixscale": "0.960",
+    "published": "2018-10-13T00:29:10.756556",
+    "ra": "201.668",
+    "radius": "0.723",
+    "remote_source": "CS",
+    "resource_uri": "/api/v1/image/371384/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "NGC 51398 - Omega Centiri",
+    "updated": "2021-03-17T13:37:58.168238",
+    "uploaded": "2018-10-13T01:29:11.294408",
+    "url_duckduckgo": "https://www.astrobin.com/371384/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371384/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371384/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371384/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371384/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371384/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371384/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3088e1e1-3f16-4113-9ef4-2ca429e8cbb5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3088e1e1-3f16-4113-9ef4-2ca429e8cbb5-1539394453.jpg",
+    "url_thumb": "https://www.astrobin.com/371384/0/rawthumb/thumb/",
+    "user": "ltcvollink",
+    "views": 90,
+    "w": 1824
+}

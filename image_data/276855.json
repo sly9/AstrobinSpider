@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.313",
+    "description": "Ic 1805 narrowband",
+    "h": 3278,
+    "hash": null,
+    "id": 276855,
+    "imaging_cameras": [
+        "SBIG ST-8300M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FQS 106 EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804022/"
+    ],
+    "orientation": "5.674",
+    "pixscale": "2.923",
+    "published": "2016-12-21T04:34:31.150582",
+    "ra": "38.597",
+    "radius": "1.674",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/276855/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "Ic 1805",
+    "updated": "2021-03-17T22:12:36.336119",
+    "uploaded": "2016-12-21T04:34:31.827571",
+    "url_duckduckgo": "https://www.astrobin.com/276855/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/276855/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/276855/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/276855/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/276855/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/276855/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/276855/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/14291/2016/0d928162-9ff1-40be-8cc8-fdef99c23d5d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/14291/2016/0d928162-9ff1-40be-8cc8-fdef99c23d5d-1582420926.jpg",
+    "url_thumb": "https://www.astrobin.com/276855/0/rawthumb/thumb/",
+    "user": "aznights",
+    "views": 126,
+    "w": 2500
+}

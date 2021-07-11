@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "0.374",
+    "description": "Messier 78 is a reflection nebula around 1,600 light years away in the constellation of Orion.  This was captured between 16 December 2017 and 15 January 2018 from our remote imaging facility in Extremadura, Spain.  \r\n\r\nThere were some issues with regard to flaring from nearby Alnitak, so some additional data had to be shot as a patch.  Total acquisition was:\r\n\r\nHa: 30 x 600s\r\nLum:  96 x 600s\r\nRed: 48 x 600s\r\nGreen: 48 x 600s\r\nBlue: 48 x 600s\r\n\r\nA total of 45 hours.\r\n\r\nCapture:  Steve Milne & Barry Wilson\r\nProcessing: Steve Milne",
+    "h": 2263,
+    "hash": null,
+    "id": 329779,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 116,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808075/"
+    ],
+    "orientation": "90.974",
+    "pixscale": "2.096",
+    "published": "2018-01-17T16:35:41.668595",
+    "ra": "86.845",
+    "radius": "1.120",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329779/",
+    "revisions": [
+        "/api/v1/imagerevision/134977/",
+        "/api/v1/imagerevision/135038/",
+        "/api/v1/imagerevision/135086/"
+    ],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "Messier 78 in Orion - with a hint of Barnard's Loop",
+    "updated": "2021-03-17T16:48:12.756270",
+    "uploaded": "2018-01-17T16:35:42.073814",
+    "url_duckduckgo": "https://www.astrobin.com/329779/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329779/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329779/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329779/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329779/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329779/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329779/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/873722ee-85f2-4a11-9623-f035b5360972.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/873722ee-85f2-4a11-9623-f035b5360972-1582606128.jpg",
+    "url_thumb": "https://www.astrobin.com/329779/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 326,
+    "w": 3111
+}

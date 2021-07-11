@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 10,
+    "data_source": "OWN_REMOTE",
+    "dec": "-37.007",
+    "description": "NGC 6729 shot LRGB.\r\n\r\nSoftware used to capture image:\r\nSequence Generator Pro\r\nPHD2\r\n\r\nSoftware used to edit:\r\nPixInsight\r\nPhotoshop\r\n\r\nData gathered:\r\n(96) Lum @ 45secs - 1x1\r\n(32) R @ 60secs - 1x1\r\n(32) G @ 60secs - 1x1\r\n(32) B @ 60secs - 1x1\r\n\r\n\r\nCamera : ZWO ASI1600MMPro with Gain set to 0\r\nTelescope: William Optics GT102 W_0.8x Reducer Flattener\r\nMount: AP Mach1GTO",
+    "h": 967,
+    "hash": null,
+    "id": 352008,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Pro"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT102 102mm f/6.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 124,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807502/"
+    ],
+    "orientation": "359.861",
+    "pixscale": "4.781",
+    "published": "2018-06-19T20:03:48.137959",
+    "ra": "285.394",
+    "radius": "1.065",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/352008/",
+    "revisions": [],
+    "subjects": [
+        "Corona Australis",
+        "IC4812",
+        "NGC 6723",
+        "NGC 6726",
+        "NGC6723",
+        "NGC6726",
+        "NGC6727",
+        "NGC6729",
+        "The star εCrA",
+        "eps CrA"
+    ],
+    "title": "NGC 6729",
+    "updated": "2021-03-17T15:07:55.658282",
+    "uploaded": "2018-06-19T21:03:49.949755",
+    "url_duckduckgo": "https://www.astrobin.com/352008/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/352008/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/352008/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/352008/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/352008/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/352008/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/352008/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/11235/2018/8dff36a1-a947-4235-b231-c15897e3d9fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/11235/2018/8dff36a1-a947-4235-b231-c15897e3d9fd-1582595307.jpg",
+    "url_thumb": "https://www.astrobin.com/352008/0/rawthumb/thumb/",
+    "user": "sprinklestudios",
+    "views": 477,
+    "w": 1280
+}

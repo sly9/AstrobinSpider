@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "33.341",
+    "description": "Narrowband images (Ha, OIII, SII) arranged with standard Hubble palette.",
+    "h": 1659,
+    "hash": null,
+    "id": 334392,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "Lacerta Newton ohne Namen 200/800"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 88,
+    "link": "http://sternwarte-wasserberg.de/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808555/"
+    ],
+    "orientation": "110.261",
+    "pixscale": "1.389",
+    "published": "2018-02-28T15:46:23.640208",
+    "ra": "80.692",
+    "radius": "0.500",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334392/",
+    "revisions": [
+        "/api/v1/imagerevision/137556/"
+    ],
+    "subjects": [
+        "IC 410",
+        "IC410",
+        "NGC 1893",
+        "NGC1893",
+        "Sh2-236"
+    ],
+    "title": "IC 410 - Tadpole Nebula (SHO)",
+    "updated": "2021-03-17T16:27:35.068893",
+    "uploaded": "2018-02-20T00:41:31.019911",
+    "url_duckduckgo": "https://www.astrobin.com/334392/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334392/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334392/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334392/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334392/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334392/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334392/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22761/2018/dfb5a54d-958e-4183-a191-3112346add33.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22761/2018/dfb5a54d-958e-4183-a191-3112346add33-1582606883.jpg",
+    "url_thumb": "https://www.astrobin.com/334392/0/rawthumb/thumb/",
+    "user": "_Frank_",
+    "views": 270,
+    "w": 1989
+}

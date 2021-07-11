@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 3,
+    "data_source": "BACKYARD",
+    "dec": "61.504",
+    "description": "Heart Nebula in narrowband. 2x2 binning. Colors are the result of many processing steps - not strictly Hubble palette mapping. Close to the upper image border you can also identify the small elliptical planetary nebula \"WeBo 1\".",
+    "h": 1133,
+    "hash": null,
+    "id": 332888,
+    "imaging_cameras": [
+        "Astrel Instruments AST8300"
+    ],
+    "imaging_telescopes": [
+        "TS Optics TS 65/420 Quadruplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807930/"
+    ],
+    "orientation": "280.716",
+    "pixscale": "5.284",
+    "published": "2018-02-09T19:12:35.873072",
+    "ra": "38.232",
+    "radius": "1.397",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332888/",
+    "revisions": [
+        "/api/v1/imagerevision/136661/",
+        "/api/v1/imagerevision/136738/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 896"
+    ],
+    "title": "Heart Nebula (IC 1805) in narrowband",
+    "updated": "2021-03-17T16:34:28.125534",
+    "uploaded": "2018-02-09T19:12:36.204468",
+    "url_duckduckgo": "https://www.astrobin.com/332888/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332888/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332888/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332888/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332888/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332888/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332888/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24899/2018/5ba595a4-af1e-49db-9b5b-863df6256677.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5ba595a4-af1e-49db-9b5b-863df6256677-1518204121.jpg",
+    "url_thumb": "https://www.astrobin.com/332888/0/rawthumb/thumb/",
+    "user": "HaSeSky",
+    "views": 378,
+    "w": 1529
+}

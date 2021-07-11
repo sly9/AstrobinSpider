@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-13.900",
+    "description": "H-a/RGB Image",
+    "h": 1384,
+    "hash": null,
+    "id": 301971,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool",
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 80,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "96.321",
+    "pixscale": "1.265",
+    "published": "2017-07-03T15:16:17.737424",
+    "ra": "274.720",
+    "radius": "1.006",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301971/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "Messier 16",
+    "updated": "2021-04-19T12:28:34.238533",
+    "uploaded": "2017-07-03T16:16:19.068122",
+    "url_duckduckgo": "https://www.astrobin.com/301971/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301971/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301971/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301971/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301971/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301971/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301971/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/62e7341e-df28-4640-a2fc-e5148f2e8a6f.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/62e7341e-df28-4640-a2fc-e5148f2e8a6f-1499097052.png",
+    "url_thumb": "https://www.astrobin.com/301971/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 316,
+    "w": 1824
+}

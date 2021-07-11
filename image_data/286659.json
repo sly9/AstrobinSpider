@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "PRO_DATA",
+    "dec": "-13.835",
+    "description": "This is data that I have processed from the Liverpool Telescope, a 2 meter scope on La Palma, Canary Islands. At their site they have quite a lot of data on the Eagle, so I ended up making a four panel mosaic, downloading totally 96 subs from the following filters for each panel: Ha (3 x 60s), Bessell B (mainly blue, 3 x 90s), Bessell V (mainly green, 3 x 60s), Sloan-r (red, 3 x 60s), and clear (12 x 60-90s). Ttotally 27 min per panel and 1.8 hours for the whole image. That does not sound much so clearly, aperture has helped with the quality of the data.",
+    "h": 1887,
+    "hash": null,
+    "id": 286659,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "359.961",
+    "pixscale": "0.534",
+    "published": "2017-03-09T17:16:10.277190",
+    "ra": "274.643",
+    "radius": "0.202",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/286659/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "IC4703",
+        "M 16",
+        "M16",
+        "NGC 6611",
+        "Sh2-49",
+        "Star Queen nebula"
+    ],
+    "title": "Eagle Nebula M16 HaLRGB",
+    "updated": "2021-03-17T21:34:06.681058",
+    "uploaded": "2017-03-09T17:16:10.809038",
+    "url_duckduckgo": "https://www.astrobin.com/286659/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/286659/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/286659/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/286659/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/286659/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/286659/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/286659/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/3ecc1312-1490-4a4a-86f0-b3d62a2b201a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/3ecc1312-1490-4a4a-86f0-b3d62a2b201a-1582579863.jpg",
+    "url_thumb": "https://www.astrobin.com/286659/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 264,
+    "w": 1969
+}

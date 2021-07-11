@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "-24.316",
+    "description": "Modified SHO color blend using Pixinsight's PixelMath process:\r\n\r\nRed: Ha 50%+ SII 50%\r\nGreen: Ha 25% + SII 25% + OIII 50%\r\nBlue: OIII 100%\r\n\r\nI just like it better than the \"normal\" SHO mixture.",
+    "h": 1258,
+    "hash": null,
+    "id": 414656,
+    "imaging_cameras": [
+        "QHYCCD QHY183M"
+    ],
+    "imaging_telescopes": [
+        "Explore Scientific ED127 FCD 100 Air-Spaced Triplet Apochromatic Refractor"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 199,
+    "link": "https://alexroberts.smugmug.com/Alex-Roberts-Astrophotos/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811319/"
+    ],
+    "orientation": "355.581",
+    "pixscale": "0.651",
+    "published": "2019-07-10T18:46:47.126899",
+    "ra": "271.036",
+    "radius": "0.509",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/414656/",
+    "revisions": [
+        "/api/v1/imagerevision/185291/",
+        "/api/v1/imagerevision/185293/",
+        "/api/v1/imagerevision/185343/",
+        "/api/v1/imagerevision/185376/"
+    ],
+    "subjects": [
+        "Hourglass nebula",
+        "Lagoon nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "The Lagoon Nebula in SHO",
+    "updated": "2021-06-05T19:20:42.800122",
+    "uploaded": "2019-07-10T19:46:47.339126",
+    "url_duckduckgo": "https://www.astrobin.com/414656/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414656/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414656/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414656/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414656/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414656/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414656/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/aefffceb-3a43-4b38-8c4e-749c5e38d56f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/aefffceb-3a43-4b38-8c4e-749c5e38d56f-1562788408.jpg",
+    "url_thumb": "https://www.astrobin.com/414656/0/rawthumb/thumb/",
+    "user": "Arcturus19",
+    "views": 1393,
+    "w": 1824
+}

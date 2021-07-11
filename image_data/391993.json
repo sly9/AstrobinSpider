@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "20.551",
+    "description": "Data acquisition credit: John Kasianowicz, Josh Balsam, Justin Lian, Scott Johnson., Michael Bushell., Mike Shelby., Rich Johnson. and Dhaval Brahmbhatt.\r\n\r\nImage processing: Dhaval Brahmbhatt",
+    "h": 3643,
+    "hash": null,
+    "id": 391993,
+    "imaging_cameras": [
+        "FLI Proline 16803 FLI"
+    ],
+    "imaging_telescopes": [
+        "Planewave 17\" CDK Panewave"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806667/"
+    ],
+    "orientation": "179.190",
+    "pixscale": "0.635",
+    "published": "2019-02-21T04:53:59.295928",
+    "ra": "92.470",
+    "radius": "0.459",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/391993/",
+    "revisions": [],
+    "subjects": [
+        "IC2159",
+        "NGC 2174",
+        "NGC 2175",
+        "NGC2174",
+        "NGC2175",
+        "Sh2-252"
+    ],
+    "title": "NGC 2175 - Monkey Head Nebula",
+    "updated": "2021-03-17T12:01:40.458897",
+    "uploaded": "2019-02-21T04:53:59.495466",
+    "url_duckduckgo": "https://www.astrobin.com/391993/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391993/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391993/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391993/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391993/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391993/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391993/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1641/2019/6493bbf1-2252-4741-b9a0-7162fddb54fe.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1641/2019/6493bbf1-2252-4741-b9a0-7162fddb54fe-1582489820.png",
+    "url_thumb": "https://www.astrobin.com/391993/0/rawthumb/thumb/",
+    "user": "dhavalbbhatt",
+    "views": 472,
+    "w": 3713
+}

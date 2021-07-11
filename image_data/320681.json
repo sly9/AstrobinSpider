@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "61.229",
+    "description": "Telesocpe : Takahashi FSQ-106ED (D:106mm, fl:530mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilters : Astrodon true-balance gen2 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : SBIG RemoteGuideHead\r\nExposure (right panel - heart) : L 600s x 38(1x1bin), RGB each 600s x 23(2bin) total 17h 50m\r\nExposure (left panel - soul) : L 600s x 44(1x1bin), RGB each 600s x 16(2bin) total 15h 20m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky NewMexico)\r\nDate :  Jul/2016, Sep/2017, Oct/2017",
+    "h": 1026,
+    "hash": null,
+    "id": 320681,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 89,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "359.591",
+    "pixscale": "8.097",
+    "published": "2017-11-08T01:03:26.799646",
+    "ra": "40.646",
+    "radius": "3.303",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320681/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC 1848",
+        "IC 1871",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "Soul & Heart Nebula Mosaic",
+    "updated": "2021-03-17T19:16:39.490919",
+    "uploaded": "2017-11-08T01:03:27.120955",
+    "url_duckduckgo": "https://www.astrobin.com/320681/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320681/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320681/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320681/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320681/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320681/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320681/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/c8f581ba-1a06-4149-8501-bea2a4b17d8d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/c8f581ba-1a06-4149-8501-bea2a4b17d8d-1510103207.jpg",
+    "url_thumb": "https://www.astrobin.com/320681/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 167,
+    "w": 1824
+}

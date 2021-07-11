@@ -1,0 +1,66 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "24.084",
+    "description": "1 st mosaic attempt , unfortunately a sad gleam from a near star.\r\nL 24 x 300sec  x 2  bin 1\r\nRGB 7( x3 )x 200 sec  x 2    bin 2",
+    "h": 3281,
+    "hash": null,
+    "id": 322111,
+    "imaging_cameras": [
+        "Moravian Instruments G2-8300 FW"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service  8\" f/5 ONTC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802444/"
+    ],
+    "orientation": "88.828",
+    "pixscale": "1.103",
+    "published": "2017-11-18T21:12:12.887605",
+    "ra": "56.527",
+    "radius": "0.863",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/322111/",
+    "revisions": [
+        "/api/v1/imagerevision/130385/"
+    ],
+    "subjects": [
+        "Maia nebula",
+        "Merope nebula",
+        "NGC 1432",
+        "NGC 1435",
+        "The star Celaeno (16Tau)",
+        "The star Electra (17Tau)",
+        "The star Merope (23Tau)",
+        "The star Sterope I (21Tau)",
+        "The star Taygeta (19Tau)",
+        "The star ηTau",
+        "The star μLep"
+    ],
+    "title": "M 45 , 2 panels",
+    "updated": "2021-03-17T19:10:42.760957",
+    "uploaded": "2017-11-18T21:05:35.932396",
+    "url_duckduckgo": "https://www.astrobin.com/322111/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/322111/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/322111/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/322111/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/322111/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/322111/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/322111/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10524/2017/273c54a9-ff5f-4048-bed2-77621a537a8c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10524/2017/273c54a9-ff5f-4048-bed2-77621a537a8c-1582462454.jpg",
+    "url_thumb": "https://www.astrobin.com/322111/0/rawthumb/thumb/",
+    "user": "echosud",
+    "views": 152,
+    "w": 4580
+}

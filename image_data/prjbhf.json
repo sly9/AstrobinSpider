@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 55,
+    "data_source": "BACKYARD",
+    "dec": "27.437",
+    "description": "Sharpless 2-240, known as the Spaghetti Nebula, is a large supernova remnant straddling the border between the constellations Auriga and Taurus. The glowing gas filaments cover nearly 3 degrees of the sky, a cloud of stellar debris that is about 150 light years across. The explosion occurred about 40,000 years ago, the light reaching Earth a few thousand years later. A spinning neutron star or pulsar is all that remains of the original star’s core.\r\n\r\nThis image is an HaRGB rendition. The data were collected over a four week period in November and December 2019, during three clear nights between rain storms. This is one of the faintest objects that I have attempted. Even coupling a fast OTA (WO GT 71 refractor reduced to 336mm FL and f/4.7), a sensitive camera (ZWO ASI1600MM Pro using 300 gain), and 300 second exposures produced very faint light subs. I found that I needed to collect more than more than 25 hours of Ha data to visualize the detail and control the noise in this object. I collected OII data as well, but the very uneven HFR of the subs diminished quality of an HaOIII version, so I settled on the HaRGB approach.",
+    "h": 3450,
+    "hash": "prjbhf",
+    "id": 448134,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT71 71mm f/5.9 Apo Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 181,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "113.539",
+    "pixscale": "2.302",
+    "published": "2020-01-08T05:28:51.108344",
+    "ra": "84.720",
+    "radius": "1.829",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/448134/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-240"
+    ],
+    "title": "Scarlet Lightening  (Sh2-240, Simeis 147, SNR G180. 0-01.7)",
+    "updated": "2021-07-07T06:59:13.817297",
+    "uploaded": "2020-01-08T05:28:51.585483",
+    "url_duckduckgo": "https://www.astrobin.com/prjbhf/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/prjbhf/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/prjbhf/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/prjbhf/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/prjbhf/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/prjbhf/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/prjbhf/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/23898/2020/b0c5ada9-fcb5-4baf-ade0-be3de46aa1d2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/23898/2020/b0c5ada9-fcb5-4baf-ade0-be3de46aa1d2-1582279602.jpg",
+    "url_thumb": "https://www.astrobin.com/prjbhf/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 1006,
+    "w": 4563
+}

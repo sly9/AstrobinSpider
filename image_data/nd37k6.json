@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.403",
+    "description": "This is a sum of data from both a 2019 and 2015 capture. The detail from each of the named nebula comes from the H-alpha data captured in 2015. The wider field data comes form 2019 RGB captures.",
+    "h": 4500,
+    "hash": "nd37k6",
+    "id": 464476,
+    "imaging_cameras": [
+        "SBIG STXL 16200",
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph",
+        "RCOS 16\" RC f/9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 130,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/"
+    ],
+    "orientation": "70.370",
+    "pixscale": "1.103",
+    "published": "2020-03-10T15:42:23.587444",
+    "ra": "82.224",
+    "radius": "0.883",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/464476/",
+    "revisions": [],
+    "subjects": [
+        "24 phi Aur",
+        "IC 417",
+        "IC417",
+        "NGC 1931",
+        "NGC1931",
+        "Sh2-234",
+        "Sh2-237",
+        "The star φAur"
+    ],
+    "title": "The Spider and the Fly Nebula",
+    "updated": "2021-03-17T04:20:06.152750",
+    "uploaded": "2020-03-10T15:42:24.194330",
+    "url_duckduckgo": "https://www.astrobin.com/nd37k6/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nd37k6/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nd37k6/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nd37k6/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nd37k6/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nd37k6/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nd37k6/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/780eba43-3636-4c05-8f82-269b15954bb3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/780eba43-3636-4c05-8f82-269b15954bb3-1583858499.jpg",
+    "url_thumb": "https://www.astrobin.com/nd37k6/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 367,
+    "w": 3600
+}

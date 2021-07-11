@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "54.253",
+    "description": "L, 10min x 40; \r\nR, 10min x 52; \r\nG, 10min x 46; \r\nB, 10min x 40; \r\ntotal ~30 hours",
+    "h": 3544,
+    "hash": "iqdqfy",
+    "id": 444844,
+    "imaging_cameras": [
+        "Moravian G3-16200(Enhanced Cooler model)"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812309/"
+    ],
+    "orientation": "275.149",
+    "pixscale": "1.238",
+    "published": "2019-12-25T11:57:07.019473",
+    "ra": "210.976",
+    "radius": "0.975",
+    "remote_source": "LGO",
+    "resource_uri": "/api/v1/image/444844/",
+    "revisions": [
+        "/api/v1/imagerevision/204679/"
+    ],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5473",
+        "NGC 5474",
+        "NGC 5477",
+        "NGC 5485"
+    ],
+    "title": "M101",
+    "updated": "2021-03-17T05:55:52.228092",
+    "uploaded": "2019-12-25T11:57:07.191297",
+    "url_duckduckgo": "https://www.astrobin.com/iqdqfy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/iqdqfy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/iqdqfy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/iqdqfy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/iqdqfy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/iqdqfy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/iqdqfy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/01661dcf-3ab5-4413-9e70-7c22d1d469e3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/01661dcf-3ab5-4413-9e70-7c22d1d469e3-1577275232.jpg",
+    "url_thumb": "https://www.astrobin.com/iqdqfy/0/rawthumb/thumb/",
+    "user": "skywalkerxx",
+    "views": 124,
+    "w": 4430
+}

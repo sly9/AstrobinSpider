@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "-36.142",
+    "description": "",
+    "h": 1369,
+    "hash": null,
+    "id": 270214,
+    "imaging_cameras": [
+        "QSI 683wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA 130T"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 54,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806282/"
+    ],
+    "orientation": "268.672",
+    "pixscale": "1.226",
+    "published": "2016-11-01T21:21:08.828674",
+    "ra": "53.400",
+    "radius": "0.556",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270214/",
+    "revisions": [
+        "/api/v1/imagerevision/107851/"
+    ],
+    "subjects": [
+        "NGC 1365"
+    ],
+    "title": "Galaxy NGC 1365",
+    "updated": "2021-03-17T22:36:33.049440",
+    "uploaded": "2016-11-01T21:21:09.875900",
+    "url_duckduckgo": "https://www.astrobin.com/270214/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270214/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270214/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270214/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270214/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270214/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270214/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11617/2016/6b2d71ee-b107-4a1a-bbe0-916d5d70abcc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6b2d71ee-b107-4a1a-bbe0-916d5d70abcc-1478064290.jpg",
+    "url_thumb": "https://www.astrobin.com/270214/0/rawthumb/thumb/",
+    "user": "uriabraham",
+    "views": 265,
+    "w": 1824
+}

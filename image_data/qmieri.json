@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "21.508",
+    "description": "NGC 2903 in the constellation Leo. Just about big enough to make sense with my scope - lovely little galxay, I think. \r\nPlease note, that the L channel is actually a pseudo-L combining L, R, G and B to total of 7,5 hours integration time at F4.",
+    "h": 3270,
+    "hash": "qmieri",
+    "id": 468116,
+    "imaging_cameras": [
+        "QHYCCD QHY163m"
+    ],
+    "imaging_telescopes": [
+        "Lacerta 200/800 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806710/"
+    ],
+    "orientation": "266.153",
+    "pixscale": "0.980",
+    "published": "2020-03-24T08:08:35.698235",
+    "ra": "143.015",
+    "radius": "0.750",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/468116/",
+    "revisions": [
+        "/api/v1/imagerevision/221125/",
+        "/api/v1/imagerevision/221177/",
+        "/api/v1/imagerevision/226325/",
+        "/api/v1/imagerevision/226326/",
+        "/api/v1/imagerevision/226398/"
+    ],
+    "subjects": [
+        "NGC 2903"
+    ],
+    "title": "NGC 2903",
+    "updated": "2021-03-26T09:42:44.879696",
+    "uploaded": "2020-03-24T08:08:37.499712",
+    "url_duckduckgo": "https://www.astrobin.com/qmieri/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/qmieri/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/qmieri/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/qmieri/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/qmieri/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/qmieri/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/qmieri/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17557/2020/ef34cadc-0e83-47dc-a727-fbd0914d4398.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17557/2020/ef34cadc-0e83-47dc-a727-fbd0914d4398-1585037954.jpg",
+    "url_thumb": "https://www.astrobin.com/qmieri/0/rawthumb/thumb/",
+    "user": "Lasastard",
+    "views": 435,
+    "w": 4440
+}

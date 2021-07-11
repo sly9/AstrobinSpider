@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-20.837",
+    "description": "Here is ngc7293, aka the Helix nebula in Aquarius. Estimated distance: 700 light years. Diameter six light years. I've been wanting to image this fantastically beautiful planetary for a few years. first serious effort. As usual, about twice this amount of data would make things much improved. Next year, maybe I'll be able to add more data with the same setup. That's if the nebula is no too dynamic :). This is a challenging object, large and dim.\r\n\r\nProcessed with combination of Pixinsight for calibration -> Startools for stretch, sharpen and noise reduction -> Pixinsight for color saturation and green reduction (SCNR). This result was resampled down to 50% for a little SNR improvement and converted to JPEG for display.\r\n\r\nRaw data: 12x600s each or R,G,B. One half of the data captured at TDS, the other half at Borrego springs, CA.",
+    "h": 1226,
+    "hash": null,
+    "id": 319990,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "AG Optical 10 inch Truss iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806952/"
+    ],
+    "orientation": "270.719",
+    "pixscale": "1.332",
+    "published": "2017-11-03T03:00:12.099205",
+    "ra": "337.407",
+    "radius": "0.378",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319990/",
+    "revisions": [],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "NGC7293",
+    "updated": "2021-03-17T19:19:02.670777",
+    "uploaded": "2017-11-03T03:00:12.478514",
+    "url_duckduckgo": "https://www.astrobin.com/319990/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319990/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319990/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319990/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319990/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319990/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319990/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9e473965-0ddc-44ae-8b06-d41bb6b677f3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9e473965-0ddc-44ae-8b06-d41bb6b677f3-1509678799.jpg",
+    "url_thumb": "https://www.astrobin.com/319990/0/rawthumb/thumb/",
+    "user": "st_armen5",
+    "views": 116,
+    "w": 1637
+}

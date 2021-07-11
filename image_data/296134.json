@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "54.395",
+    "description": "",
+    "h": 1297,
+    "hash": null,
+    "id": 296134,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool",
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph",
+        "TSOptics TS100Q"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 72,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "266.936",
+    "pixscale": "1.262",
+    "published": "2017-05-19T14:19:40.399138",
+    "ra": "210.844",
+    "radius": "0.670",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/296134/",
+    "revisions": [],
+    "subjects": [
+        "M 101",
+        "NGC 5457",
+        "NGC 5473",
+        "NGC 5477"
+    ],
+    "title": "Messier 101 crop",
+    "updated": "2021-03-23T11:44:29.659523",
+    "uploaded": "2017-05-19T15:19:42.354311",
+    "url_duckduckgo": "https://www.astrobin.com/296134/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/296134/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/296134/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/296134/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/296134/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/296134/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/296134/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/20996/2017/c5903324-8baf-42ca-b5ac-f490b955df59.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/c5903324-8baf-42ca-b5ac-f490b955df59-1495213953.png",
+    "url_thumb": "https://www.astrobin.com/296134/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 654,
+    "w": 1824
+}

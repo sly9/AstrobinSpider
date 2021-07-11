@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "69.268",
+    "description": "8 hours of L bin1 300s\r\n7 hours of RVB bin2 300s\r\n4 hours of Ha bin 2 600s",
+    "h": 1460,
+    "hash": null,
+    "id": 345976,
+    "imaging_cameras": [
+        "Moravian Instrument G3-16200FW"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria ASA 10'"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798941/"
+    ],
+    "orientation": "269.609",
+    "pixscale": "1.370",
+    "published": "2018-05-09T15:59:46.052134",
+    "ra": "149.504",
+    "radius": "1.083",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345976/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "M81 M82 NGC 3077",
+    "updated": "2021-03-17T15:34:25.010537",
+    "uploaded": "2018-05-09T16:54:58.622196",
+    "url_duckduckgo": "https://www.astrobin.com/345976/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345976/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345976/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345976/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345976/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345976/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345976/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/13b6fc16-253b-4135-894a-993536e0ba52.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/13b6fc16-253b-4135-894a-993536e0ba52-1525881546.jpg",
+    "url_thumb": "https://www.astrobin.com/345976/0/rawthumb/thumb/",
+    "user": "litobrit",
+    "views": 270,
+    "w": 1824
+}

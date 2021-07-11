@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "11.701",
+    "description": "15 x 600s B, 12 x 600s R, G and 9 x 600s L made during several nights (14, 18, 19, 20 and 21) in March 2018. Data was not always of the best quality.",
+    "h": 2478,
+    "hash": null,
+    "id": 338334,
+    "imaging_cameras": [
+        "Quantum Scientific Imaging QSI583wsg"
+    ],
+    "imaging_telescopes": [
+        "Home made 400mm F/4 Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 85,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806079/"
+    ],
+    "orientation": "89.228",
+    "pixscale": "0.615",
+    "published": "2018-03-21T18:06:49.280525",
+    "ra": "160.995",
+    "radius": "0.351",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/338334/",
+    "revisions": [
+        "/api/v1/imagerevision/140232/",
+        "/api/v1/imagerevision/140622/"
+    ],
+    "subjects": [
+        "M 95",
+        "M95",
+        "NGC 3351"
+    ],
+    "title": "M95 LRGB",
+    "updated": "2021-03-17T16:08:50.186357",
+    "uploaded": "2018-03-21T17:52:37.273255",
+    "url_duckduckgo": "https://www.astrobin.com/338334/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338334/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338334/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338334/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338334/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338334/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338334/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/3862/2018/ada35d73-ed3a-441f-8e0c-e9734b618339.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/3862/2018/ada35d73-ed3a-441f-8e0c-e9734b618339-1582511192.jpg",
+    "url_thumb": "https://www.astrobin.com/338334/0/rawthumb/thumb/",
+    "user": "Albert_van_Duin",
+    "views": 355,
+    "w": 3279
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "-37.674",
+    "description": "imaged over 9 sessions in October and November. Data were selected for high resolution and imaging was only carried out when the seeing was good.\r\nExposure was:\r\nL  239x60s\r\nR 42x90s\r\nG 35x90s\r\nB 30x120s",
+    "h": 1567,
+    "hash": null,
+    "id": 276705,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Newtonian 250/1000"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 163,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "-128.120",
+    "pixscale": "0.636",
+    "published": "2016-12-19T05:41:16.283927",
+    "ra": "13.736",
+    "radius": "0.314",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/276705/",
+    "revisions": [],
+    "subjects": [
+        "NGC 300"
+    ],
+    "title": "NGC300",
+    "updated": "2021-03-17T22:13:11.125854",
+    "uploaded": "2016-12-19T05:41:16.661124",
+    "url_duckduckgo": "https://www.astrobin.com/276705/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/276705/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/276705/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/276705/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/276705/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/276705/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/276705/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/91121332-53c2-4501-a7df-63691b2b0d00.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/91121332-53c2-4501-a7df-63691b2b0d00-1482126356.jpg",
+    "url_thumb": "https://www.astrobin.com/276705/0/rawthumb/thumb/",
+    "user": "Shiraz",
+    "views": 1149,
+    "w": 1824
+}

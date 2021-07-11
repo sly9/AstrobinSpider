@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 29,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.199",
+    "description": "Back in 2016, I shot the Bubble nebula in narrow band with my new FLI-ML16802.  I've never been completely satisfied with that image and it's been in the back of my mind to see if I could do better.  Fast forward to a few month ago and my trusty camera was back at FLI to fix an intermittent problem.  In the meantime, I mounted a new FLI-ML16200 on the C14HD.  The sensor and the pixels are smaller so it's not quite a perfect match for the scope but I figured that I'd soon be back to swap the repaired ML16803 back onto the scope.  No sooner did I get back home from the observatory, than the scope went dead.  It took a few days to get someone out there to look at it and we quickly discovered that mice had eaten through my main USB cable to the scope!  As soon as that problem was fixed, the monsoons moved in and storms pretty much shut down the skies for next last 5 weeks.  Occasionally the clouds parted to excellent seeing and the idea of reshooting the bubble hit me.  It's a very detailed object so maybe I could pull a tiny bit more detail out of the smaller pixels in the new camera and it was a good fit for the smaller FOV.\r\n\r\nRight away a couple of things jumped out.  First, the smaller size of the sensor is really obvious when it's compared to the 16803.  It's like having blinders on!   Second, the two sensors have almost identical sensitivity (QE) so the smaller 6 micron pixels in the new camera produce a signal that's noticeably less than what the 9 microns pixels in my first camera produce by a factor of about 44%.  The 16200 really isn't a very good match for the C14HD but I bought it for use with a second, much faster scope where it should work a LOT better.  Anyway, with the lower camera sensitivity and the intermittent weather, I could see that there wasn't much of a chance of gathering enough NB data for a full image within any reasonable time frame.  The good news is that I gathered a fair amount of data with FWHM<2.0\" (the best was around 1.3\") so I decided to combine it with my original data set, which was quite good.\r\n\r\nAs always, the processing was a challenge.  I drizzled all of the data and sampled the 16803 data to fit the 16200 data.  All of the processing was done on the full resolution image and only down-sampled to uploaded it here.  The one minor detail that I couldn't fix is the small, overexposed region on the bubble.  No matter how I twisted it, I couldn't fix that region--probably because it was overexposed in the original data set.  I think that the noise is better controlled than in my first image and I've toned down the colors a little bit.  I learned that trying to improve on a previous effort ain't easy!  I really don't know if I improved on my first effort.  The first image is a lot more colorful so it that will certainly have a big influence on opinions.  I'm interested to know what you think so feel free to leave C&C.  The C14 should be able to pull out more detail so I may be back again next year...\r\n\r\nJohn",
+    "h": 3340,
+    "hash": null,
+    "id": 360744,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 271,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "177.488",
+    "pixscale": "0.318",
+    "published": "2018-08-13T02:17:12.561782",
+    "ra": "350.159",
+    "radius": "0.232",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/360744/",
+    "revisions": [],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635",
+        "NGC7635",
+        "Sh2-162"
+    ],
+    "title": "NGC 7635:  Another Look at the Bubble",
+    "updated": "2021-06-20T15:46:37.529007",
+    "uploaded": "2018-08-11T23:35:40.276927",
+    "url_duckduckgo": "https://www.astrobin.com/360744/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/360744/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/360744/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/360744/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/360744/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/360744/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/360744/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7598/2020/5a6f96be-5db7-4df7-9f18-89f1e86d3a46.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7598/2020/5a6f96be-5db7-4df7-9f18-89f1e86d3a46-1582087006.jpg",
+    "url_thumb": "https://www.astrobin.com/360744/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1868,
+    "w": 4036
+}

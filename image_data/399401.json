@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "22.476",
+    "description": "The jellyfish nebula (IC443) in narrow band as regular BiColor.\r\nCombined: R = Ha / G = (Ha * .2) + (OIII * ~ .01) / B = OIII",
+    "h": 3564,
+    "hash": null,
+    "id": 399401,
+    "imaging_cameras": [
+        "ZWO Optical ASI183mmPro"
+    ],
+    "imaging_telescopes": [
+        "TS Optics UNC 6\" f/4 newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "https://www.lexpics.de/astrofotografie/ic-katalog/ic443/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806602/"
+    ],
+    "orientation": "30.821",
+    "pixscale": "1.076",
+    "published": "2019-04-05T10:00:53.772078",
+    "ra": "94.207",
+    "radius": "0.960",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/399401/",
+    "revisions": [],
+    "subjects": [
+        "7 eta Gem",
+        "IC 443",
+        "IC443",
+        "Sh2-248",
+        "Tejat Prior",
+        "The star Propus (ηGem)"
+    ],
+    "title": "The Jellyfish Nebula (IC443) BiColor",
+    "updated": "2021-05-10T09:23:26.069548",
+    "uploaded": "2019-04-05T10:43:56.033486",
+    "url_duckduckgo": "https://www.astrobin.com/399401/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/399401/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/399401/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/399401/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/399401/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/399401/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/399401/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/4098/2019/30b3b340-e717-4489-9217-ed4d9c979cc6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/4098/2019/30b3b340-e717-4489-9217-ed4d9c979cc6-1582635404.jpg",
+    "url_thumb": "https://www.astrobin.com/399401/0/rawthumb/thumb/",
+    "user": "LexPics",
+    "views": 334,
+    "w": 5342
+}

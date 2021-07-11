@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "-59.789",
+    "description": "",
+    "h": 1013,
+    "hash": null,
+    "id": 333426,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Takahashi FSQ85EDX"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799211/"
+    ],
+    "orientation": "357.177",
+    "pixscale": "6.182",
+    "published": "2018-02-13T10:57:45.597639",
+    "ra": "161.329",
+    "radius": "1.443",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333426/",
+    "revisions": [
+        "/api/v1/imagerevision/137053/"
+    ],
+    "subjects": [
+        "NGC 3372",
+        "eta Car nebula"
+    ],
+    "title": "Pinkety pink",
+    "updated": "2021-03-17T16:32:11.473303",
+    "uploaded": "2018-02-13T10:57:45.892641",
+    "url_duckduckgo": "https://www.astrobin.com/333426/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333426/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333426/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333426/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333426/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333426/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333426/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2843/2018/a28e0bc3-2e88-444f-ab50-fde90a0f48b0.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a28e0bc3-2e88-444f-ab50-fde90a0f48b0-1518520692.jpg",
+    "url_thumb": "https://www.astrobin.com/333426/0/rawthumb/thumb/",
+    "user": "LewisM",
+    "views": 124,
+    "w": 1341
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "PRO_DATA",
+    "dec": null,
+    "description": "This is a HaRGB image that I processed from data from the Liverpool Telescope with a cryptic name on the subs \"MLNeb-1 160607\". The coordinates are 20:51:07, +44:26:54.\r\n\r\nAstrobin (using Astrometry.net) failed to plate solve it but thanks to some SGL friends I found out it is a detail up in the neck region of the Pelican Nebula. \r\n\r\nAt the tip of what looks like a black snake head are two pink jets. The object is named Herbig-Haro 555.  Herbig–Haro (HH) objects are small patches of nebulosity associated with newly born stars, and are formed when narrow jets of gas ejected by those stars collide with nearby clouds of gas and dust at speeds of several hundred kilometres per second. Herbig–Haro objects are ubiquitous in star-forming regions, and several are often seen around a single star, aligned with its rotational axis.\r\n\r\nHH objects are transient phenomena that last less than a few thousand years. They can evolve visibly over quite short astronomical timescales as they move rapidly away from their parent star into the gas clouds of interstellar space (the interstellar medium or ISM). Hubble Space Telescope observations have revealed the complex evolution of HH objects over the period of a few years, as parts of the nebula fade while others brighten as they collide with clumpy material of the interstellar medium.\r\n\r\nThe objects were first observed in the late 19th century by Sherburne Wesley Burnham, but were not recognised as being a distinct type of emission nebula until the 1940s. The first astronomers to study them in detail were George Herbig and Guillermo Haro, after whom they have been named. Herbig and Haro were working independently on studies of star formation when they first analysed the objects, and recognised that they were a by-product of the star formation process. \r\n\r\nFliters and Exposures used:\r\nsdss- r  3 x 90 s\r\nHa  3 x 90 s (stacked with sdss-r for red channel)\r\nsdss-g 3 x 120  (blue channel)\r\nBessell V 3 x 120 s (green channel)",
+    "h": 2028,
+    "hash": null,
+    "id": 298250,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2017-06-03T13:36:48.616015",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298250/",
+    "revisions": [
+        "/api/v1/imagerevision/120478/"
+    ],
+    "subjects": [],
+    "title": "HH555 The neck of the Pelican Nebula",
+    "updated": "2021-06-17T08:06:15.472010",
+    "uploaded": "2017-06-03T14:36:49.325108",
+    "url_duckduckgo": "https://www.astrobin.com/298250/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298250/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298250/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298250/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298250/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298250/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298250/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/298250/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 221,
+    "w": 2053
+}

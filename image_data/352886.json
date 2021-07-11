@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 13,
+    "data_source": "MIX",
+    "dec": "-16.223",
+    "description": "* Image acquisition: Liverpool Telescope\r\n* Processing: Ruben barbosa\r\n\r\nMessier 17 is an HII region, composed of gas and dust, which has recently begun to form stars and can be observed in the heart of the Milky Way in the Sagittarius Constellation.\r\n\r\nAlso known as the Swan Nebula or Omega Nebula (or horseshoe), this object is about 5,500 light years away and the brightest zone (the swan) extends for 15 light-years in diameter (a total 40 light-years away from the interstellar matter cloud).\r\n\r\nThe color of the Nebula is red with a slight tilt to the rose, which is derived from the hydrogen ionized by the radiation of the young stars that make up the nebula. The inner region is brighter because it also reflects the stellar glow in the dust there. Other darker regions show intense brightness in the infrared band.\r\n\r\nThis target is popular among amateur astrophotographers as it is recurring to obtain quality images using small aperture telescopes.",
+    "h": 2086,
+    "hash": null,
+    "id": 352886,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 184,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.053",
+    "pixscale": "0.304",
+    "published": "2018-06-25T16:05:34.290586",
+    "ra": "275.160",
+    "radius": "0.163",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/352886/",
+    "revisions": [
+        "/api/v1/imagerevision/208820/"
+    ],
+    "subjects": [
+        "M 17",
+        "M17",
+        "NGC 6618",
+        "Omega nebula",
+        "Sh2-45"
+    ],
+    "title": "M17, The Swan Nebula (4 panels)",
+    "updated": "2021-06-05T03:43:41.004208",
+    "uploaded": "2018-06-25T16:35:09.996914",
+    "url_duckduckgo": "https://www.astrobin.com/352886/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/352886/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/352886/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/352886/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/352886/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/352886/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/352886/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21170/2018/7783b239-e9b4-46d6-ac10-b1b9e6b4022f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21170/2018/7783b239-e9b4-46d6-ac10-b1b9e6b4022f-1582570836.jpg",
+    "url_thumb": "https://www.astrobin.com/352886/0/rawthumb/thumb/",
+    "user": "RRBBarbosa",
+    "views": 455,
+    "w": 3242
+}

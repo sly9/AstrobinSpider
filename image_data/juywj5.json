@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 18,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "9.646",
+    "description": "Well, I have imaged this object before and posted it, but only a single very short exposure. I managed to capture a couple four minute live stacks of  240 one second exposures for a total of 8 minutes before it got too close to the side of my house. This object is actually pretty bright, so 8 minutes was enough to show it pretty well hidden next to a bright star (4th magnitude Mu Orionis).\r\n\r\nI was also able to construct a model of the star glow to show the nebula a little more clearly with better color. That version if the image is in the inset. I pasted back the star andt he flow right near it from the original image into the glow subtracted image since the star itself looked pretty bizzare after the glow subtraction procedure.\r\n\r\nAs I noted in my original post, the nebula looks a lot like a lens flare or filter reflection artifact, and is probably tough to pick up visually despite its brightness (12.39 magnitude). Its not surprising that it was omitted from both the IC and NGC catalogs.",
+    "h": 1647,
+    "hash": "juywj5",
+    "id": 455417,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Orion Skyquest xx16g Skyquest xx16g"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808760/"
+    ],
+    "orientation": "356.621",
+    "pixscale": "0.507",
+    "published": "2020-02-17T03:05:43.578926",
+    "ra": "90.592",
+    "radius": "0.205",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/455417/",
+    "revisions": [],
+    "subjects": [
+        "61 mu. Ori",
+        "PK198-06.1",
+        "The star μOri"
+    ],
+    "title": "Abell 12 revisited",
+    "updated": "2021-06-15T11:04:20.769302",
+    "uploaded": "2020-02-17T02:56:09.163193",
+    "url_duckduckgo": "https://www.astrobin.com/juywj5/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/juywj5/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/juywj5/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/juywj5/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/juywj5/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/juywj5/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/juywj5/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27158/2020/508bb08c-4c79-4855-88ea-137059fa1bd0.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27158/2020/508bb08c-4c79-4855-88ea-137059fa1bd0-1581908839.png",
+    "url_thumb": "https://www.astrobin.com/juywj5/0/rawthumb/thumb/",
+    "user": "lowenthalm",
+    "views": 1315,
+    "w": 2404
+}

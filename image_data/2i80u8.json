@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "47.192",
+    "description": "",
+    "h": 3240,
+    "hash": "2i80u8",
+    "id": 464341,
+    "imaging_cameras": [
+        "ASI ZWO 1600MM PRO"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher 250/1200 PDS"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 93,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812250/"
+    ],
+    "orientation": "270.069",
+    "pixscale": "0.638",
+    "published": "2020-03-09T20:05:11.728442",
+    "ra": "202.456",
+    "radius": "0.485",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/464341/",
+    "revisions": [
+        "/api/v1/imagerevision/223875/"
+    ],
+    "subjects": [
+        "IC 4263",
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool Galaxy"
+    ],
+    "title": "M51 whirlpool galaxy",
+    "updated": "2021-05-05T21:44:14.984200",
+    "uploaded": "2020-03-09T20:05:13.358384",
+    "url_duckduckgo": "https://www.astrobin.com/2i80u8/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2i80u8/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2i80u8/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2i80u8/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2i80u8/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2i80u8/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2i80u8/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/49440/2020/0ffe41a5-209e-452f-82b8-70725cd8c347.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/49440/2020/0ffe41a5-209e-452f-82b8-70725cd8c347-1583784798.jpg",
+    "url_thumb": "https://www.astrobin.com/2i80u8/0/rawthumb/thumb/",
+    "user": "Lukas_TW",
+    "views": 660,
+    "w": 4416
+}

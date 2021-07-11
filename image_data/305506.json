@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "38.357",
+    "description": "First bi-color with the IDK 12.5\".  I used the following combination to map the color:\r\nHa: Red\r\nO3: Green\r\n.2*Ha+.8*O3: Blue\r\n\r\nI could use a bit more data, especially the O3 but I am very happy with the performance of the scope and mount.  ",
+    "h": 4032,
+    "hash": null,
+    "id": 305506,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 107,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807413/"
+    ],
+    "orientation": "0.349",
+    "pixscale": "0.881",
+    "published": "2017-07-31T16:45:29.754227",
+    "ra": "303.030",
+    "radius": "0.698",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305506/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC 6888",
+    "updated": "2021-03-17T20:17:55.534265",
+    "uploaded": "2017-07-31T17:45:31.183600",
+    "url_duckduckgo": "https://www.astrobin.com/305506/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305506/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305506/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305506/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305506/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305506/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305506/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2652/2017/1c66e69f-42d5-4c32-9c5c-00b9391b03f4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/2652/2017/1c66e69f-42d5-4c32-9c5c-00b9391b03f4-1582501816.png",
+    "url_thumb": "https://www.astrobin.com/305506/0/rawthumb/thumb/",
+    "user": "prostcj",
+    "views": 575,
+    "w": 4041
+}

@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "60.327",
+    "description": "2 panel mosaic of the Soul Nebula\r\nPanel 1:\r\n53x10min Halpha\r\n30x10min O3\r\n27x10min S2\r\nPanel 2:\r\n29x10min Halpha\r\n25x10min O3\r\n10 x10min S2 [ :-( ]\r\n\r\nCalibrated and registered in Pixinsight, DBE and Stretch of all 6 images, match brightness, combine both panels per channel in ICE.\r\nCreate starless images for tonemapping.\r\nCreate luminance from Ha and Ha starless, process luminance and tonemap and L RGB combine.\r\nLast tweaks in Lightroom.",
+    "h": 3755,
+    "hash": "zwbwxj",
+    "id": 469905,
+    "imaging_cameras": [
+        "SBIG STXL-11002/FW8G-STXL"
+    ],
+    "imaging_telescopes": [
+        "APM LZOS 203/1800 APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 16,
+    "link": "https://www.instagram.com/felix_wegerer/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "0.275",
+    "pixscale": "1.337",
+    "published": "2020-03-28T22:00:58.270740",
+    "ra": "43.774",
+    "radius": "1.132",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/469905/",
+    "revisions": [],
+    "subjects": [
+        "IC 1848",
+        "IC 1871"
+    ],
+    "title": "Soul Nebula Deep View",
+    "updated": "2021-03-17T03:51:05.772727",
+    "uploaded": "2020-03-28T22:00:58.384491",
+    "url_duckduckgo": "https://www.astrobin.com/zwbwxj/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/zwbwxj/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/zwbwxj/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/zwbwxj/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/zwbwxj/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/zwbwxj/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/zwbwxj/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/31559/2020/0707bbb7-e660-4282-8e1a-d298c8956ba8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/31559/2020/0707bbb7-e660-4282-8e1a-d298c8956ba8-1585433490.jpg",
+    "url_thumb": "https://www.astrobin.com/zwbwxj/0/rawthumb/thumb/",
+    "user": "felixwegerer",
+    "views": 71,
+    "w": 4804
+}

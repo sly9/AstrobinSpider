@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "OWN_REMOTE",
+    "dec": "43.726",
+    "description": "Exposure: (SII,Ha,OIII) 9h Ha: 12x900s SII: 12 x900s  OIII: 12x900s\r\nDate and place: 07.2018 Ochojno, Poland",
+    "h": 1461,
+    "hash": null,
+    "id": 357074,
+    "imaging_cameras": [
+        "QHYCCD 695A"
+    ],
+    "imaging_telescopes": [
+        "CFF Telescopes CFF 160 f/6.5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "91.749",
+    "pixscale": "1.249",
+    "published": "2018-07-21T16:19:10.528760",
+    "ra": "314.784",
+    "radius": "0.497",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/357074/",
+    "revisions": [
+        "/api/v1/imagerevision/153984/"
+    ],
+    "subjects": [],
+    "title": "NGC7000 (Cygnus Wall) Ha SII OIII",
+    "updated": "2021-06-08T08:14:44.082611",
+    "uploaded": "2018-07-21T17:19:10.761064",
+    "url_duckduckgo": "https://www.astrobin.com/357074/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/357074/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/357074/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/357074/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/357074/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/357074/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/357074/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b3ed1949-076d-4258-82e1-273769228009.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b3ed1949-076d-4258-82e1-273769228009-1532193854.jpg",
+    "url_thumb": "https://www.astrobin.com/357074/0/rawthumb/thumb/",
+    "user": "Astrosib250",
+    "views": 559,
+    "w": 1824
+}

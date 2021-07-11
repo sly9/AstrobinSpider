@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 19,
+    "data_source": "OWN_REMOTE",
+    "dec": "53.415",
+    "description": "PK164+31.1 is a relatively large planetary nebula with rich colors and impressive detail; however, at a magnitude of 17, it's faint with a very low surface brightness.  It lies at a distance of about 1,600 ly in the constellation of Lynx. It's the result of a sun-like star that went nova, expelling a shell of material after running out of fusible material in its core. The blue-green star at the center of the nebula is what remains after the explosion. The surrounding nebula is full of interesting detail but it requires good resolution and a LOT of exposure to pull it out. This is a bi-color image using Ha and OII narrow band filters. \r\n\r\nI made my first attempt at this object one year ago when I ran into a lot of trouble gathering enough high quality data so I promised to return the next time it appeared high in the sky.  This year, the winter weather in northern New Mexico has been absolutely terrible but I got lucky and snagged some new data that was pretty good between the clouds, snow, fog, wind, and nights of poor seeing.  Unfortunately, my yield was still pretty low but I was still able to double the total exposure time from last year, which allowed selecting higher quality subs.  Clearly, the added exposure time helps to reveal more of the fascinating detail contained in this nebula.   This result is clearly much better than what I achieved last year, but I've concluded that it would probably take around 100 hrs to take this image to the next level.  This image is cropped to exactly half the field of my 16803 sensor.  It's the result of a 2x  drizzled integration with a circular kernel.  No additional sharpening operations were performed and since I've pushed it pretty hard to bring out  bit more detail, it's not going to stand up to extreme zoomed viewing very well.  In any case, it is not an easy NB object to image; but who knows, maybe I'll try again next year!\r\n\r\nSeeing the detail emerge with more exposure time makes me think about some conversations that I've recently had with other imagers.  I often see folks stressing about using smaller pixels to achieve higher \"resolution\" to more accurately represent star profiles while shooting faint objects and this image is proof that for faint objects, what really counts is SNR--not sampling rate.  The image scale on my scope is just slightly below 0.5\"/px, which is just two samples across a 1\" blur diameter.  Under most good conditions, this sampling rate works fine for long EFL systems.  Sampling at a much higher rate generally just throws away SNR while doing nothing to improve detail in an image and as you can see, SNR is what counts on an object like this.\r\n\r\nAfter messing with it for way too long, it's probably time to set it free.  As always, C&C is welcome so let me know what you think.\r\n\r\nJohn",
+    "h": 1824,
+    "hash": null,
+    "id": 395942,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 197,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.520",
+    "pixscale": "0.239",
+    "published": "2019-03-16T20:25:19.716891",
+    "ra": "119.459",
+    "radius": "0.189",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/395942/",
+    "revisions": [
+        "/api/v1/imagerevision/173573/",
+        "/api/v1/imagerevision/173707/",
+        "/api/v1/imagerevision/173709/"
+    ],
+    "subjects": [],
+    "title": "PK164+31.1 A Faint Planetary Nebula: Take 2",
+    "updated": "2021-05-03T08:26:07.398726",
+    "uploaded": "2019-03-16T18:40:57.674623",
+    "url_duckduckgo": "https://www.astrobin.com/395942/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395942/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395942/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395942/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395942/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395942/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395942/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/b90dc927-9cdd-44a2-b85e-af132ef36d1e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/b90dc927-9cdd-44a2-b85e-af132ef36d1e-1552763795.jpg",
+    "url_thumb": "https://www.astrobin.com/395942/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1150,
+    "w": 1824
+}

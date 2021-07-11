@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "61.340",
+    "description": "Earlier I posted the Ha version of this.  With this post I am finishing up my work on IC1805, at least for a while.  This is a combination of a data set taken with my NP127is while in Manhattan KS and data sets taken with a RH305 and a RCOS 14.5\" both located at DSW. The rotations were fairly close (modulo 90˚) so they were quite compatible.  The FSQ provided the smallest FOV so it was the basis of the final crop.  The FOVs for the data sets were FSQ 1d56m18.4s x 1d27m33.7s, NP127is 2d20m33.9s x 1d52m27.1s and RH305 1d53m20.2s x 1d53m20.2s.  While the necessary crop preserved IC1805, IC1795 ended up on the cutting room floor.",
+    "h": 3648,
+    "hash": null,
+    "id": 327726,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Takahashi 106FSQ",
+        "TeleVue NP127is",
+        "AstroPhysics RH-305"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 72,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806451/",
+        "/api/v1/location/2806452/"
+    ],
+    "orientation": "181.486",
+    "pixscale": "1.660",
+    "published": "2017-12-30T21:31:50.322036",
+    "ra": "38.463",
+    "radius": "1.097",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327726/",
+    "revisions": [
+        "/api/v1/imagerevision/134210/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC1805 - Heart Nebula in SHO (3 data sets)",
+    "updated": "2021-03-17T18:46:50.792381",
+    "uploaded": "2017-12-30T21:31:51.552746",
+    "url_duckduckgo": "https://www.astrobin.com/327726/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327726/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327726/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327726/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327726/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327726/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327726/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21126/2017/e2d5b70a-4360-403b-9188-d32d719ebcb9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21126/2017/e2d5b70a-4360-403b-9188-d32d719ebcb9-1582548640.jpg",
+    "url_thumb": "https://www.astrobin.com/327726/0/rawthumb/thumb/",
+    "user": "Richard_Bratt",
+    "views": 243,
+    "w": 3056
+}

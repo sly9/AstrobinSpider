@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "58.032",
+    "description": "NGC-7380 in SHO.\r\n\r\nProcessing on this started off normally -- calibration and tone-mapping the narrowband channels -- and then went off the rails. Normally, I'd create a synthetic luminance by combining the original Ha with the O-iii and S-ii tone maps. Unfortunately some of my Ha data was slightly out of focus with the result that I had to choose between bloated stars or severely clipped luminance.\r\n\r\nHmm. What to do. I ended up working over the combined tone map image more than usual: two rounds of LocalHistogramEqualization with a range mask to heighten contrast in the nebula, curves to increase overall contrast and restore a bit of saturation, MultiscaleMedianTransform with a small amount of bias at layers 1-5 to sharpen details, and a final round of curves for contrast. Then I added the RGB stars using PixelMath, and used a gentle round of SCNR on the background (nebula protected by a range mask) to desaturate the red channel a bit.\r\n\r\nThe result is probably a little less crisp than it would be with a proper luminance but I like that it captured faint nebulosity in the region and the stars were prettier than the hard white stars that tone-mapping + luminance usually produces.",
+    "h": 1643,
+    "hash": null,
+    "id": 374199,
+    "imaging_cameras": [
+        "Atik 460EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 80ED APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 53,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804100/"
+    ],
+    "orientation": "5.868",
+    "pixscale": "2.076",
+    "published": "2018-10-28T22:01:05.115961",
+    "ra": "341.820",
+    "radius": "0.729",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/374199/",
+    "revisions": [
+        "/api/v1/imagerevision/160480/"
+    ],
+    "subjects": [
+        "NGC 7380"
+    ],
+    "title": "NGC-7380 (Wizard Nebula)",
+    "updated": "2021-03-17T13:24:45.581241",
+    "uploaded": "2018-10-28T22:01:05.232433",
+    "url_duckduckgo": "https://www.astrobin.com/374199/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/374199/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/374199/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/374199/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/374199/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/374199/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/374199/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14414/2018/6f00e753-edcc-4126-b4cb-376792d0e964.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14414/2018/6f00e753-edcc-4126-b4cb-376792d0e964-1582447128.jpg",
+    "url_thumb": "https://www.astrobin.com/374199/0/rawthumb/thumb/",
+    "user": "JoelShepherd",
+    "views": 225,
+    "w": 1920
+}

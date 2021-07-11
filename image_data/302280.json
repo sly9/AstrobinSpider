@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "57.368",
+    "description": "4 panel hydrogen-alpha mosaic of IC 1396, the Elephant's Trunk nebula.\r\n \r\n16X900 per panel.",
+    "h": 2304,
+    "hash": null,
+    "id": 302280,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star 71"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799970/"
+    ],
+    "orientation": "1.319",
+    "pixscale": "6.334",
+    "published": "2017-07-06T07:12:29.830498",
+    "ra": "325.073",
+    "radius": "3.406",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302280/",
+    "revisions": [
+        "/api/v1/imagerevision/119900/",
+        "/api/v1/imagerevision/119902/"
+    ],
+    "subjects": [
+        "IC 1396",
+        "The star 13Cep",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC 1396, Elephant's Trunk nebula, 4 panel mosaic",
+    "updated": "2021-03-17T20:30:31.539235",
+    "uploaded": "2017-07-06T08:12:30.540867",
+    "url_duckduckgo": "https://www.astrobin.com/302280/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302280/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302280/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302280/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302280/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302280/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302280/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1070/2017/dac97a6a-f25a-476c-82cc-cd9774a1da63.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1070/2017/dac97a6a-f25a-476c-82cc-cd9774a1da63-1582585492.jpg",
+    "url_thumb": "https://www.astrobin.com/302280/0/rawthumb/thumb/",
+    "user": "rflinn68",
+    "views": 304,
+    "w": 3112
+}

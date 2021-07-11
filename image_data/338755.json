@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-27.411",
+    "description": "",
+    "h": 2252,
+    "hash": null,
+    "id": 338755,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "170.008",
+    "pixscale": "1.001",
+    "published": "2018-03-24T07:23:19.898598",
+    "ra": "200.177",
+    "radius": "0.520",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338755/",
+    "revisions": [
+        "/api/v1/imagerevision/140514/",
+        "/api/v1/imagerevision/140605/",
+        "/api/v1/imagerevision/140606/"
+    ],
+    "subjects": [
+        "IC 874",
+        "IC 879",
+        "NGC 5078",
+        "NGC 5101"
+    ],
+    "title": "NGC 5101 and NGC 5078",
+    "updated": "2021-03-17T16:06:46.859504",
+    "uploaded": "2018-03-24T07:01:40.390121",
+    "url_duckduckgo": "https://www.astrobin.com/338755/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338755/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338755/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338755/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338755/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338755/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338755/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2018/4caa2837-ab62-454d-8ae9-96822948b1ff.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2018/4caa2837-ab62-454d-8ae9-96822948b1ff-1582594022.jpg",
+    "url_thumb": "https://www.astrobin.com/338755/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 265,
+    "w": 2989
+}

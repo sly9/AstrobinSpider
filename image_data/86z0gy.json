@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 29,
+    "data_source": "BACKYARD",
+    "dec": "22.014",
+    "description": "There are eight human recorded supernovae in the Milky Way. SN 1054 was first observed on July 4, 1054 by Chinese astronomers and remained visible to the naked eye for two years. It was also described in the Japanese and Arab literature as well as, possibly, in Ancestral Puebloan pictographs in New Mexico. \r\n\r\nThe remnant of SN 1054, which consists of debris and hot gases released during the explosion of the star is knows as the Crab Nebula in the constellation Taurus and was first observed by  English astronomer John Bevis in 1731. In 1928, Edwin Hubble was the first to note that the changing aspect of the Crab Nebula, which was growing bigger in size, suggests that it is the remains of a stellar explosion. Hubble's conjecture remained controversial as the physical phenomenon of the explosion was not known at the time. In 1939, Nicholas Mayall proposed that the star of 1054 was actually a supernova, based on the speed of expansion of the cloud, measured by spectroscopy, which allows astronomers to determine its physical size and distance. \r\n\r\nThe nebula lies in the Perseus Arm of the Milky Way galaxy, at a distance of about 6,500 light years from Earth. It has a diameter of 11 light years, corresponding to an apparent diameter of some 7 arcminutes, and is expanding at a rate of about 1,500 kilometres per second.\r\n\r\nAt the center of the nebula lies the Crab Pulsar, a neutron star 28–30 kilometres across with a spin rate of 30.2 times per second, which emits pulses of radiation from gamma rays to radio waves. At X-ray and gamma ray energies above 30 keV, the Crab Nebula is generally the brightest persistent source in the sky, with measured flux extending to above 10 TeV.\r\n\r\nThe image presented here is the result of over 42 hours of imaging data, culled to include only ~30 hours of the sharpest subexposures. The color palette used is the Hubble palette (SII=Red, Ha=Green, OIII=Blue) with no modification. The hues in the color wheel represent mixture of the three ionized chemical species in the lobes and tendrils of the nebula.",
+    "h": 1777,
+    "hash": "86z0gy",
+    "id": 452613,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service ONTC 10\" f4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 202,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808899/"
+    ],
+    "orientation": "179.672",
+    "pixscale": "0.431",
+    "published": "2020-02-01T14:52:30.091295",
+    "ra": "83.636",
+    "radius": "0.163",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/452613/",
+    "revisions": [
+        "/api/v1/imagerevision/210044/",
+        "/api/v1/imagerevision/210697/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "The Crab Nebula (Messier 1)",
+    "updated": "2021-03-17T05:18:17.599527",
+    "uploaded": "2020-02-01T03:06:15.125401",
+    "url_duckduckgo": "https://www.astrobin.com/86z0gy/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/86z0gy/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/86z0gy/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/86z0gy/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/86z0gy/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/86z0gy/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/86z0gy/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27558/2020/7fe81475-b859-4606-879b-0f6ea1852e93.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27558/2020/7fe81475-b859-4606-879b-0f6ea1852e93-1582273398.jpg",
+    "url_thumb": "https://www.astrobin.com/86z0gy/0/rawthumb/thumb/",
+    "user": "lucam_astro",
+    "views": 1308,
+    "w": 2058
+}

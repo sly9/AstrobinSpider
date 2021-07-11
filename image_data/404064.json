@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "I have been hoping to image the GRS to capture the interesting cloud formation I have seen in the images of others, but clouds have been spoiling the party.\r\n\r\nIndeed, it was cloudy when I went to bed this particular night, so I expected to miss it again. However, when I woke in the middle of the night transparency had improved to decent levels, so I rushed to grab some frames before the GRS rotated out of view.\r\n\r\nThis did, however, mean my 'scope had no time to reach thermal equilibrium, so I had some (very local) seeing issues. Happy with the result, considering this!\r\n\r\nVery interesting to see the solid line of brown cloud from the SEB being drawn completely around the GRS. I wonder whether this has anything to do with the bright/white eddy that is trailing the GRS ... perhaps this disturbance is helping to divert the clouds around the GRS.\r\n\r\nThe main image is a series of 5 separate stacks (each 90s long) de-rotated in WinJUPOS.\r\n\r\nA single wider-field capture (including Io) is presented in rev B.",
+    "h": 380,
+    "hash": null,
+    "id": 404064,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 80,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-05-05T03:16:28.515416",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404064/",
+    "revisions": [
+        "/api/v1/imagerevision/178484/"
+    ],
+    "subjects": [],
+    "title": "Jupiter 2019-05-03 (UT 19:49 2015-05-02)",
+    "updated": "2021-06-13T09:32:29.530430",
+    "uploaded": "2019-05-04T13:44:30.607781",
+    "url_duckduckgo": "https://www.astrobin.com/404064/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404064/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404064/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404064/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404064/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404064/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404064/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/404064/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 462,
+    "w": 380
+}

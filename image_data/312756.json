@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "56.137",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 3254,
+    "hash": null,
+    "id": 312756,
+    "imaging_cameras": [
+        "QSI 690WSG QSI"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes APM 152/1200 ED APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 151,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803830/"
+    ],
+    "orientation": "89.580",
+    "pixscale": "0.626",
+    "published": "2017-09-18T14:42:06.776708",
+    "ra": "334.827",
+    "radius": "0.363",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/312756/",
+    "revisions": [
+        "/api/v1/imagerevision/125428/",
+        "/api/v1/imagerevision/125429/",
+        "/api/v1/imagerevision/125430/"
+    ],
+    "subjects": [],
+    "title": "Sharpless 2-132 Hubble Palette",
+    "updated": "2021-06-05T19:18:48.493787",
+    "uploaded": "2017-09-18T15:16:51.586175",
+    "url_duckduckgo": "https://www.astrobin.com/312756/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/312756/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/312756/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/312756/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/312756/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/312756/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/312756/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11158/2017/3ac6580d-48af-4daf-9d9f-f81435b2bf25.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11158/2017/3ac6580d-48af-4daf-9d9f-f81435b2bf25-1582524176.jpg",
+    "url_thumb": "https://www.astrobin.com/312756/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 459,
+    "w": 2604
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 26,
+    "comments": 7,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "57.503",
+    "description": "<b>IC1396A Elephant's Trunk in SHO</b>\r\n\r\nMy first SHO (aka Hubble) palette try. Imaged almost a year ago during moon nights in narrowband filters.\r\n\r\nMain workflow steps:\r\n- separate noise reduction for Sii, Ha, Oiii integrations in PI (using <a href=https://www.astrobin.com/users/jrista/>Jon Rista</a>  approach, <a href=https://jonrista.com/the-astrophotographers-guide/pixinsights/effective-noise-reduction-part-1/>see details</a>)\r\n- applying LinearFit to Oiii and channel combination into SHO, HistogramTransformation\r\n- using <a href=https://www.astrobin.com/users/RickS/>Rick Stivenson</a> ColorMask script to remove magenta tint, reduce green, boost cyan, ephasize yellow (see more info <a href=https://pixinsight.com/forum/index.php?topic=7751.0>here</a>)\r\n- some other postprocessing in PI (local contrast, additional noise reduction, etc)",
+    "h": 2529,
+    "hash": null,
+    "id": 382490,
+    "imaging_cameras": [
+        "Atik 383L+ Mono"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher BKP250/F1000"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 214,
+    "link": "http://astromania.info/gallery/IC1396/SHO_tvg_linearfit_tvg_mmt_HT_LRGB_fork3_acdnr_color_fork2_halo.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806860/"
+    ],
+    "orientation": "1.592",
+    "pixscale": "1.111",
+    "published": "2018-12-27T00:11:45.705456",
+    "ra": "323.735",
+    "radius": "0.648",
+    "remote_source": "AHK",
+    "resource_uri": "/api/v1/image/382490/",
+    "revisions": [],
+    "subjects": [
+        "VdB142"
+    ],
+    "title": "IC1396A Elephant's Trunk in SHO",
+    "updated": "2021-07-03T01:26:51.935454",
+    "uploaded": "2018-12-23T22:07:35.582805",
+    "url_duckduckgo": "https://www.astrobin.com/382490/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382490/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382490/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382490/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382490/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382490/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382490/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/822f7101-7f4c-4667-8a26-06d42c2ebb5c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/822f7101-7f4c-4667-8a26-06d42c2ebb5c-1546498776.jpg",
+    "url_thumb": "https://www.astrobin.com/382490/0/rawthumb/thumb/",
+    "user": "BorisE",
+    "views": 1221,
+    "w": 3354
+}

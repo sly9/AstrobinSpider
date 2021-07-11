@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 16,
+    "data_source": "UNKNOWN",
+    "dec": "-13.787",
+    "description": "Ha: 37x300s en bin1\r\nOIII: 17x300s en bin1\r\nSII: 16x300s en bin1",
+    "h": 1503,
+    "hash": null,
+    "id": 360811,
+    "imaging_cameras": [
+        "Atik One 9.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 85ed"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 173,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808139/"
+    ],
+    "orientation": "89.418",
+    "pixscale": "1.690",
+    "published": "2018-08-12T09:45:08.963994",
+    "ra": "274.733",
+    "radius": "0.530",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/360811/",
+    "revisions": [
+        "/api/v1/imagerevision/213032/"
+    ],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "Messier 16 en SHO",
+    "updated": "2021-03-17T14:29:18.567871",
+    "uploaded": "2018-08-12T10:45:09.349297",
+    "url_duckduckgo": "https://www.astrobin.com/360811/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/360811/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/360811/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/360811/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/360811/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/360811/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/360811/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17512/2020/7ac57677-b9e6-4734-8f0a-736513d11212.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17512/2020/7ac57677-b9e6-4734-8f0a-736513d11212-1582060181.jpg",
+    "url_thumb": "https://www.astrobin.com/360811/0/rawthumb/thumb/",
+    "user": "Georges",
+    "views": 402,
+    "w": 1686
+}

@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "After a stressful week, it was nice to be able to spend some relaxing time under the stars on Saturday morning with an old friend: Jupiter's Great Red Spot.\r\n\r\nIt's the first time I've managed to capture the GRS this \"season\", due to a combination of long working hours and the limited capture window this early in the apparition.\r\n\r\nAs has been the case for my morning sessions so far this year, seeing was not great and Jupiter spent far more time out of focus than in focus. I imaged for over an hour and a half, but ultimately was unable to use the majority of the individual runs (only 14 out of 30 stacks were used).\r\n\r\nEach of the images above was produced by de-rotating 7 separate image stacks in WinJUPOS. Each stacked image was produced using the top 15% of frames from a 2 minute capture @ 80fps average. Therefore each of the final images above contain around 10,000 frames of data. The final images are effectively 27 minutes apart from one another (UT 21:47 and 22:14).\r\n\r\nSelection of stacked images for de-rotation was purely based on quality but, when I put them together as a montage, I thought to try viewing them as a \"stereo pair\". Amazingly, they seem to serve this purpose quite well! (Question: what is the \"ideal\" time separation for a stereo pair, anyway?)\r\n\r\nI have uploaded two versions here: the original version is for those who (like me) find it easier to view stereo images \"crossed eyed\". Rev B is for those who prefer the \"far sighted\" approach.\r\n\r\nThis is my first time attempting the stereo pair approach, however ... C&C welcome, especially if anyone knows the optimal spacing etc.",
+    "h": 440,
+    "hash": "yffxmb",
+    "id": 470052,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-03-29T06:38:57.260089",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/470052/",
+    "revisions": [
+        "/api/v1/imagerevision/222238/"
+    ],
+    "subjects": [],
+    "title": "Jupiter 2020-03-28: Stereo/3D Pair",
+    "updated": "2021-03-17T03:50:19.072497",
+    "uploaded": "2020-03-29T07:08:02.579830",
+    "url_duckduckgo": "https://www.astrobin.com/yffxmb/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/yffxmb/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/yffxmb/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/yffxmb/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/yffxmb/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/yffxmb/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/yffxmb/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/yffxmb/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 290,
+    "w": 852
+}

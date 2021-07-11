@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 36,
+    "comments": 39,
+    "data_source": "BACKYARD",
+    "dec": "-24.018",
+    "description": "This delicate OIII bubble is one of my favorite targets. I have imaged this twice in the last couple of years. Once with ASI1600 and another with QHY814 CCD.\r\n\r\nI had shot Ha, OIII with both camera and R/G/B for strars with the QHY814CCD. But I had not processed image with RGB stars.\r\n\r\nThis time, I processed this with all data I have however I realize the Ha is very weak (most of the time is spent on OIII). I need to get more Ha and get that red Ha shimmering through this bubble next.\r\n The final tally is\r\n\r\nOIII = 40x1200s , 57x600s\r\nHa = 20x600s\r\nR/G/B = 12x 180s / channel",
+    "h": 1498,
+    "hash": "1dvhxr",
+    "id": 465808,
+    "imaging_cameras": [
+        "QHYCCD QHY814A",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 364,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "95.048",
+    "pixscale": "3.317",
+    "published": "2020-03-17T01:43:49.810046",
+    "ra": "103.654",
+    "radius": "1.044",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/465808/",
+    "revisions": [],
+    "subjects": [
+        "16 omi01 CMa",
+        "Sh2-308",
+        "The star ο1CMa"
+    ],
+    "title": "Sh2-308 Star Bubble",
+    "updated": "2021-07-07T15:45:12.927719",
+    "uploaded": "2020-03-16T20:01:15.909796",
+    "url_duckduckgo": "https://www.astrobin.com/1dvhxr/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1dvhxr/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1dvhxr/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1dvhxr/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1dvhxr/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1dvhxr/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1dvhxr/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2020/30a27840-4e27-4919-baf9-9a458656230a.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7483/2020/30a27840-4e27-4919-baf9-9a458656230a-1584393565.png",
+    "url_thumb": "https://www.astrobin.com/1dvhxr/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 1978,
+    "w": 1700
+}

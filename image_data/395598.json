@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 5,
+    "data_source": "TRAVELLER",
+    "dec": "-47.480",
+    "description": "Luminance taken at a dark sky site (only 70 minutes) and colour data in the suburbs.",
+    "h": 3460,
+    "hash": null,
+    "id": 395598,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-C"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 8\" "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804095/",
+        "/api/v1/location/2805452/"
+    ],
+    "orientation": "35.124",
+    "pixscale": "0.654",
+    "published": "2019-03-14T22:25:37.561507",
+    "ra": "201.700",
+    "radius": "0.523",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395598/",
+    "revisions": [
+        "/api/v1/imagerevision/173322/",
+        "/api/v1/imagerevision/173371/",
+        "/api/v1/imagerevision/173431/",
+        "/api/v1/imagerevision/173515/"
+    ],
+    "subjects": [
+        "NGC 5139",
+        "omega Cen"
+    ],
+    "title": "Omega Centauri",
+    "updated": "2021-03-17T11:45:17.101398",
+    "uploaded": "2019-03-14T12:06:27.723162",
+    "url_duckduckgo": "https://www.astrobin.com/395598/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395598/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395598/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395598/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395598/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395598/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395598/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14405/2019/f86e9757-697a-489f-ab7a-5e2f1c436d86.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14405/2019/f86e9757-697a-489f-ab7a-5e2f1c436d86-1582593976.jpg",
+    "url_thumb": "https://www.astrobin.com/395598/0/rawthumb/thumb/",
+    "user": "DiscoDuck",
+    "views": 542,
+    "w": 4600
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 27,
+    "comments": 35,
+    "data_source": "BACKYARD",
+    "dec": "59.908",
+    "description": "This has been my most difficult image so far to produce, the logistics of making sure you get the same or at least similar integrations for each filter for each panel is not easy, especially under Manchester's Bortle 8 skies with an average SQM of 18.5 (varied between ~17.8 to 18.9).\r\n\r\nDue to the size of this task I imaged over 42 separate nights all between July and Nov 2018.\r\n\r\nThis is a 12 panel mosaic, consisting of 416 subs (taken at, or converted to bin 2x2 {software binned}), with a total integration time of 142.5 hrs\r\n\r\nEach of the panels has about 9hrs integrated exposure except the two panels that cover the OU4 nebula, those have 28hrs each. Most of those being OIII i.e. 35 x 1800s per panel. OU4 is really, really, really faint. It was really unfortunate that OU4 would not fit inside one frame, this meant doubling up on subs)\r\n\r\nProcessing has also been a challenge because the quality of the subs varied greatly over that period making matching the panels somewhat difficult.\r\n\r\nI also shot Oiii for all the panels but not enough to allow me to produce a 12 panel mosaic as the two panels that cover the OU4 nebula had lots more data, there was no way a 5 sub panel would blend with a 35 sub panel next to it. In the end I decided to leave all the other panels out and just blend the Oiii as a tone mapped image for those 2 panels only over the rest of the image which is a bi-colour using Ha and Sii.\r\n\r\nThe Ha and Sii where simply combined with Ha to red and Sii to blue/cyan which produced a pleasing colour. Oiii is obviously blue/cyan. All the final colour blending was done in Photoshop (see note below) and all calibration, processing and mosaic construction was in PixInsight.\r\n\r\nPhotoshop colour combination figures (the hue applied to each filter stack)\r\nHa: 8, Sii: 190 & 104 Oiii: 208\r\n\r\nI don't plan on doing any other large mosaics anytime soon! But I am very glad I finished it, especially as it turned out far better than I thought it would when I started it.",
+    "h": 5118,
+    "hash": null,
+    "id": 391104,
+    "imaging_cameras": [
+        "Starlight Xpress SX-814 Trius Monochrome CCD"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 274,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799831/"
+    ],
+    "orientation": "359.753",
+    "pixscale": "2.868",
+    "published": "2019-02-16T13:06:05.475205",
+    "ra": "317.212",
+    "radius": "2.751",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391104/",
+    "revisions": [],
+    "subjects": [],
+    "title": "SH2-129 & OU4 (The Bat & Squid Nebulae)",
+    "updated": "2021-05-14T04:24:14.716702",
+    "uploaded": "2019-02-16T08:25:42.881581",
+    "url_duckduckgo": "https://www.astrobin.com/391104/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391104/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391104/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391104/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391104/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391104/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391104/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/08a6a1d3-dd7c-45d4-916e-f6fa870e5ed1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/08a6a1d3-dd7c-45d4-916e-f6fa870e5ed1-1550322284.jpg",
+    "url_thumb": "https://www.astrobin.com/391104/0/rawthumb/thumb/",
+    "user": "MikeOates",
+    "views": 2157,
+    "w": 4641
+}

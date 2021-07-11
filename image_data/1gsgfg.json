@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "22.014",
+    "description": "My goal with this project was to expose as much as the natural color (RGB) as possible with the details present in the Ha. To that end, I used Ha as a luminance layer over the RGB. A Masked Stretch in PI helped minimize any harshness in the bright Ha areas.\r\n\r\nI then created a starless OIII layer by subtracting Ha from OIII and layering that result over the HaRGB.\r\n\r\nSo in effect I have Ha (luminance) over RGB and then layered with (OIII - Ha) as subtle blue-green. This all helps maintain the original RGB fidelity.\r\n\r\nSeeing during Ha capture was between 2\" and 3\" FWHM rather than my normal 1\" to 2\". Carefull deconvolution of the Ha layer followed by PI MultiscaleLinearTransform helped improve this Ha data.\r\n\r\n\r\n\"The Crab Nebula is a supernova remnant in the constellation of Taurus. The current name is due to William Parsons, 3rd Earl of Rosse, who observed the object in 1840 using a 36-inch telescope and produced a drawing that looked somewhat like a crab. Corresponding to a bright supernova recorded by Chinese astronomers in 1054, the nebula was observed later by English astronomer John Bevis in 1731. The nebula was the first astronomical object identified with a historical supernova explosion.\r\n\r\nAt an apparent magnitude of 8.4, comparable to that of Saturn's moon Titan, it is not visible to the naked eye but can be made out using binoculars under favourable conditions. The nebula lies in the Perseus Arm of the Milky Way galaxy, at a distance of about 6,500 ly from Earth. It has a diameter of 11 ly, and is expanding at a rate of about 1,500 kilometres per second (930 mi/s), or 0.5% of the speed of light.\r\n\r\nAt the center of the nebula lies the Crab Pulsar, a neutron star 28–30 kilometres (17–19 mi) across with a spin rate of 30.2 times per second, which emits pulses of radiation from gamma rays to radio waves. At X-ray and gamma ray energies above 30 keV, the Crab Nebula is generally the brightest persistent source in the sky, with measured flux extending to above 10 TeV. The nebula's radiation allows detailed study of celestial bodies that occult it. In the 1950s and 1960s, the Sun's corona was mapped from observations of the Crab Nebula's radio waves passing through it, and in 2003, the thickness of the atmosphere of Saturn's moon Titan was measured as it blocked out X-rays from the nebula.\"",
+    "h": 1868,
+    "hash": "1gsgfg",
+    "id": 436651,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 155,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "178.225",
+    "pixscale": "0.468",
+    "published": "2019-11-03T02:59:38.877165",
+    "ra": "83.635",
+    "radius": "0.200",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/436651/",
+    "revisions": [
+        "/api/v1/imagerevision/198870/",
+        "/api/v1/imagerevision/201673/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "Sh2-244"
+    ],
+    "title": "Crab Nebula",
+    "updated": "2021-03-17T08:26:12.310609",
+    "uploaded": "2019-11-03T02:59:39.108777",
+    "url_duckduckgo": "https://www.astrobin.com/1gsgfg/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1gsgfg/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1gsgfg/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1gsgfg/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1gsgfg/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1gsgfg/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1gsgfg/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/063676d7-c849-4603-8e37-b0cc3e389dc4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/063676d7-c849-4603-8e37-b0cc3e389dc4-1572750197.jpg",
+    "url_thumb": "https://www.astrobin.com/1gsgfg/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 644,
+    "w": 1824
+}

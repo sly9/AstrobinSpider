@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 11,
+    "data_source": "BACKYARD",
+    "dec": "3.947",
+    "description": "Arp 286, Un triplet de galaxies dans la vierge: Ngc 5566, Ngc 5569 et Ngc 5560 situées à 65,5 millions d’année lumière. \r\nDu fait du tout vissé avec impossibilité de faire une rotation, je trouve que mon cadrage pour la full n’est pas top. D’où le crop avec légère rotation.\r\nNiveau acquisition, pas simple... j’ai eu qques soucis de guidage (mauvais équilibrage à cause d’un poids qui avait bougé) pour le filtre rouge et la moitié du bleu dc étoiles moyennes et petit décentrage par rapport aux sessions précédentes. \r\nPas moins de 5 nuits pour cette image avec 2 nuits pour le RVB et 3 pour le L. \r\nMalgré qques déchets et de la coma, je suis content des détails que j’ai pu avoir. \r\nPas de Ha pour celle la... peut être à voir un jour. \r\nCpc 925 avec red. de focale 6.3 \r\nZwo asi 1600mm pro\r\nRVB: 3x80x120sec \r\nL: 320x120sec\r\nSoit environ 18h30 sur 21h d’acquisition totale.... (2h30 de déchets...)",
+    "h": 3044,
+    "hash": null,
+    "id": 399454,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "63.006",
+    "pixscale": "0.481",
+    "published": "2019-04-05T17:14:00.645509",
+    "ra": "215.038",
+    "radius": "0.341",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/399454/",
+    "revisions": [
+        "/api/v1/imagerevision/175653/"
+    ],
+    "subjects": [
+        "NGC 5560",
+        "NGC 5566",
+        "NGC 5569"
+    ],
+    "title": "Arp 286, Ngc 5566, Ngc 5569, Ngc 5560",
+    "updated": "2021-06-03T12:30:06.222458",
+    "uploaded": "2019-04-05T18:14:00.850415",
+    "url_duckduckgo": "https://www.astrobin.com/399454/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/399454/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/399454/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/399454/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/399454/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/399454/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/399454/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2020/4a5cc38a-9c48-4a99-be0a-b7d2f6aca805.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2020/4a5cc38a-9c48-4a99-be0a-b7d2f6aca805-1582561404.jpeg",
+    "url_thumb": "https://www.astrobin.com/399454/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 736,
+    "w": 4092
+}

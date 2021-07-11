@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.612",
+    "description": "Telescope : Planewave CDK14 (D:356mm, fl:2563mm)\r\nCCD : SBIG STX-16803 \r\nMount : RainbowAstro RST-400 \r\nFilters : Astrodon true-balance gen2 50mm square LRGB\r\nOAG : Astrodon MOAG\r\nGuide CCD : ZWO ASI174MM\r\nExposure : L 900s x 30(1x1bin), RGB 900s x 23(2x2bin) total 24h 45m\r\nLocation : RainbowAstro Remote Observatory @ NewMexico (Dark Sky New Mexico)\r\nDate : 25/Sep/2017, 24/Oct/2017, 9/Nov/2017, 12/Nov/2017",
+    "h": 3900,
+    "hash": null,
+    "id": 323050,
+    "imaging_cameras": [
+        "SBIG STX-16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave Instruments CDK 14\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 88,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805867/"
+    ],
+    "orientation": "0.262",
+    "pixscale": "0.730",
+    "published": "2017-11-24T00:20:02.418796",
+    "ra": "344.188",
+    "radius": "0.559",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/323050/",
+    "revisions": [],
+    "subjects": [],
+    "title": "SH2-155 Cave nebula",
+    "updated": "2021-03-17T19:06:36.806543",
+    "uploaded": "2017-11-24T00:20:02.807480",
+    "url_duckduckgo": "https://www.astrobin.com/323050/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/323050/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/323050/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/323050/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/323050/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/323050/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/323050/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/df55ec0a-464a-433c-ba5f-1856d41ca857.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/df55ec0a-464a-433c-ba5f-1856d41ca857-1511483086.jpg",
+    "url_thumb": "https://www.astrobin.com/323050/0/rawthumb/thumb/",
+    "user": "xuranus",
+    "views": 258,
+    "w": 3900
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "5.039",
+    "description": "NGC2237 Rosette\r\n\r\nHa:  17x10min\r\nSII:  12x10min\r\nOIII: 12x10min\r\n\r\nTotal:  6hrs 50 mins",
+    "h": 2690,
+    "hash": null,
+    "id": 335161,
+    "imaging_cameras": [
+        "QSI 690WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVA130T-IS f/5 Stellarvue 130"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 13,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807832/"
+    ],
+    "orientation": "93.548",
+    "pixscale": "1.153",
+    "published": "2018-02-25T00:44:52.209071",
+    "ra": "97.955",
+    "radius": "0.680",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/335161/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2239",
+        "NGC 2244",
+        "Rosette nebula",
+        "The star 12Mon"
+    ],
+    "title": "NGC2237 Rosette",
+    "updated": "2021-03-17T16:23:55.552818",
+    "uploaded": "2018-02-25T00:44:57.092884",
+    "url_duckduckgo": "https://www.astrobin.com/335161/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/335161/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/335161/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/335161/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/335161/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/335161/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/335161/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17040/2018/5f5c8911-a5cd-493f-abc4-951b4cb32159.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/17040/2018/5f5c8911-a5cd-493f-abc4-951b4cb32159-1582441565.png",
+    "url_thumb": "https://www.astrobin.com/335161/0/rawthumb/thumb/",
+    "user": "kranky22",
+    "views": 88,
+    "w": 3280
+}

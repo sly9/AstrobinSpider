@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 25,
+    "data_source": "TRAVELLER",
+    "dec": "28.378",
+    "description": "Object description (wikipedia.org):\r\n\r\nMessier 3 (M3 or NGC 5272) is a globular cluster of stars in the northern constellation of Canes Venatici. It was discovered on May 3, 1764, and was the first Messier object to be discovered by Charles Messier himself. Messier originally mistook the object for a nebula without stars. This mistake was corrected after the stars were resolved by William Herschel around 1784. Since then, it has become one of the best-studied globular clusters. Identification of the cluster's unusually large variable star population was begun in 1913 by American astronomer Solon Irving Bailey and new variable members continue to be identified up through 2004.",
+    "h": 3589,
+    "hash": null,
+    "id": 398455,
+    "imaging_cameras": [
+        "ZWO ASI 183 MM PRO"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/5 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 250,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806264/"
+    ],
+    "orientation": "54.557",
+    "pixscale": "0.494",
+    "published": "2019-03-31T16:59:09.245724",
+    "ra": "205.540",
+    "radius": "0.446",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/398455/",
+    "revisions": [
+        "/api/v1/imagerevision/174990/",
+        "/api/v1/imagerevision/175270/",
+        "/api/v1/imagerevision/177919/"
+    ],
+    "subjects": [
+        "M 3",
+        "M3",
+        "NGC 5272"
+    ],
+    "title": "Globular Cluster M3 in Canes Venatici",
+    "updated": "2021-05-16T12:30:24.496411",
+    "uploaded": "2019-03-31T17:47:54.383352",
+    "url_duckduckgo": "https://www.astrobin.com/398455/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/398455/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/398455/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/398455/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/398455/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/398455/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/398455/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6530/2019/c6baf5a3-c6a7-4641-8571-cf25c3806c72.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6530/2019/c6baf5a3-c6a7-4641-8571-cf25c3806c72-1582601168.jpg",
+    "url_thumb": "https://www.astrobin.com/398455/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 1478,
+    "w": 5430
+}

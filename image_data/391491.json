@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "-36.933",
+    "description": "",
+    "h": 1418,
+    "hash": null,
+    "id": 391491,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 140,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "144.343",
+    "pixscale": "2.528",
+    "published": "2019-02-18T00:52:04.032151",
+    "ra": "285.224",
+    "radius": "0.978",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/391491/",
+    "revisions": [
+        "/api/v1/imagerevision/175845/"
+    ],
+    "subjects": [
+        "NGC 6723",
+        "NGC 6726",
+        "The star εCrA"
+    ],
+    "title": "Corona Australis Nebula",
+    "updated": "2021-03-17T12:03:53.063018",
+    "uploaded": "2019-02-18T00:52:04.177749",
+    "url_duckduckgo": "https://www.astrobin.com/391491/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/391491/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/391491/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/391491/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/391491/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/391491/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/391491/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0d5c6cb6-97c3-4fa7-aa5e-bb2045f15768.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0d5c6cb6-97c3-4fa7-aa5e-bb2045f15768-1550451297.jpg",
+    "url_thumb": "https://www.astrobin.com/391491/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 412,
+    "w": 1824
+}

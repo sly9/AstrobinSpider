@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "OWN_REMOTE",
+    "dec": "9.678",
+    "description": "This is a narrowband take on the Cone and Foxfur nebulae.  I blended Ha with OIII for the Blue and a little Ha with the SII for red.  The two are mixed for Green and the Ha is used straight for Luminance.   By no means a representation of the correct colors!\r\n\r\n52 Ha, 49 OIII, 31 SII all 10 minute 2x2 subs (a binning decision I regret).",
+    "h": 1927,
+    "hash": null,
+    "id": 345975,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 115,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "10.949",
+    "pixscale": "1.456",
+    "published": "2018-05-09T15:54:16.082668",
+    "ra": "100.262",
+    "radius": "0.564",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/345975/",
+    "revisions": [],
+    "subjects": [
+        "15 S Mon",
+        "Christmas Tree cluster",
+        "Cone nebula",
+        "NGC 2264",
+        "Sh2-273",
+        "The star 15Mon"
+    ],
+    "title": "Cone nebula - a different look",
+    "updated": "2021-03-28T18:31:15.611646",
+    "uploaded": "2018-05-09T16:54:18.197349",
+    "url_duckduckgo": "https://www.astrobin.com/345975/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345975/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345975/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345975/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345975/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345975/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345975/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2a51b290-3498-4e14-8ac7-a90011b0999d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2a51b290-3498-4e14-8ac7-a90011b0999d-1525881529.jpg",
+    "url_thumb": "https://www.astrobin.com/345975/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 269,
+    "w": 1824
+}

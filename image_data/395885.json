@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 1,
+    "data_source": "OTHER",
+    "dec": "69.080",
+    "description": "Final image for this project produced using different telescopes (thanks to my friend Alejandro Rodriguez). Despite the considerable amount of Luminance, IFN hasn't been enhanced: anytime I tried do do so, it turnend into a huge quality loss. I guess at this focal length, more then 20h exposure are necessary to reveal a clear and clean IFN. Maybe I will collect data later on. So far I am quite happy with the result.",
+    "h": 1298,
+    "hash": null,
+    "id": 395885,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Esprit 100ED Super APO Triplet",
+        "Sky-Watcher Esprit 120ED Super APO triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806901/"
+    ],
+    "orientation": "90.066",
+    "pixscale": "1.678",
+    "published": "2019-03-17T16:18:22.608237",
+    "ra": "148.868",
+    "radius": "0.495",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395885/",
+    "revisions": [
+        "/api/v1/imagerevision/173532/",
+        "/api/v1/imagerevision/173541/",
+        "/api/v1/imagerevision/173548/",
+        "/api/v1/imagerevision/173579/",
+        "/api/v1/imagerevision/173581/",
+        "/api/v1/imagerevision/173658/",
+        "/api/v1/imagerevision/173663/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "NGC 3031"
+    ],
+    "title": "M81 - Bode's Galaxy - HaLRGB",
+    "updated": "2021-03-17T11:43:56.562954",
+    "uploaded": "2019-03-16T13:02:43.027983",
+    "url_duckduckgo": "https://www.astrobin.com/395885/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395885/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395885/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395885/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395885/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395885/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395885/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14824/2019/2e439dd0-ce07-46b0-ad1b-904b72a21f94.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14824/2019/2e439dd0-ce07-46b0-ad1b-904b72a21f94-1582525454.jpg",
+    "url_thumb": "https://www.astrobin.com/395885/0/rawthumb/thumb/",
+    "user": "Viper",
+    "views": 809,
+    "w": 1681
+}

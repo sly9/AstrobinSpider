@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.926",
+    "description": "IC 63\r\nTOA130 + MORAVIAN G3-16200\r\nL-RGB & Ha bin 1\r\n135-75:60:75 & 120 min bin 1\r\n\r\n\r\nVennturi - Antonucci",
+    "h": 2403,
+    "hash": null,
+    "id": 308929,
+    "imaging_cameras": [
+        "Moravian   Moravian G3-16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130 APO Refractor"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "http://www.lumhatrex.it/WORKINimages/IC63_TOA_2017.jpg",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806977/"
+    ],
+    "orientation": "270.033",
+    "pixscale": "1.863",
+    "published": "2017-08-24T17:05:13.100616",
+    "ra": "14.739",
+    "radius": "0.992",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/308929/",
+    "revisions": [],
+    "subjects": [
+        "IC 59",
+        "IC 63",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "IC 63 Gamma Cas",
+    "updated": "2021-03-17T20:04:31.749950",
+    "uploaded": "2017-08-24T18:05:14.193165",
+    "url_duckduckgo": "https://www.astrobin.com/308929/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/308929/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/308929/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/308929/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/308929/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/308929/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/308929/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10105/2020/993c645b-31ee-4dfb-8eb6-409d18f4d4a3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10105/2020/993c645b-31ee-4dfb-8eb6-409d18f4d4a3-1582629895.jpg",
+    "url_thumb": "https://www.astrobin.com/308929/0/rawthumb/thumb/",
+    "user": "croara",
+    "views": 359,
+    "w": 2988
+}

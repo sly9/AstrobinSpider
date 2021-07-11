@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "31.212",
+    "description": "",
+    "h": 2500,
+    "hash": null,
+    "id": 404075,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 73,
+    "link": "http://astro.ioda.by/en/ngc-4414#full",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804384/"
+    ],
+    "orientation": "135.980",
+    "pixscale": "0.635",
+    "published": "2019-05-04T13:50:18.839341",
+    "ra": "186.597",
+    "radius": "0.312",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/404075/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4414"
+    ],
+    "title": "NGC4414",
+    "updated": "2021-03-17T11:05:35.526449",
+    "uploaded": "2019-05-04T14:50:18.982571",
+    "url_duckduckgo": "https://www.astrobin.com/404075/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404075/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404075/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404075/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404075/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404075/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404075/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14911/2019/89a1aca1-9110-426d-8001-0285b990eaf1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14911/2019/89a1aca1-9110-426d-8001-0285b990eaf1-1582587057.jpg",
+    "url_thumb": "https://www.astrobin.com/404075/0/rawthumb/thumb/",
+    "user": "Ioda",
+    "views": 232,
+    "w": 2500
+}

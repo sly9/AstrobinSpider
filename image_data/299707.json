@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 14,
+    "data_source": "UNSET",
+    "dec": "57.416",
+    "description": "Yes, this is a bicolor Ha/OIII image, not an SHO.\r\nI'm working on a new technique to combine channels with Pixelmath in order to create an \"SHO feeling\" on bicolor images. Let me know what you think of it !",
+    "h": 2411,
+    "hash": null,
+    "id": 299707,
+    "imaging_cameras": [
+        "Moravian G2-8300"
+    ],
+    "imaging_telescopes": [
+        "William Optics Zenithstar 66"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 94,
+    "link": "http://www.astropixels.fr",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "180.089",
+    "pixscale": "3.453",
+    "published": "2017-06-16T09:18:02.645533",
+    "ra": "324.791",
+    "radius": "1.955",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299707/",
+    "revisions": [
+        "/api/v1/imagerevision/118904/"
+    ],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 and the Elephant's Trunk Nebula [Narrowband Bi-color Ha/OIII]",
+    "updated": "2021-03-17T20:40:18.984951",
+    "uploaded": "2017-06-16T10:18:04.556900",
+    "url_duckduckgo": "https://www.astrobin.com/299707/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299707/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299707/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299707/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299707/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299707/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299707/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/13955/2017/795b688b-f315-4583-b095-20b3c8f3d4b5.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/795b688b-f315-4583-b095-20b3c8f3d4b5-1497819482.jpg",
+    "url_thumb": "https://www.astrobin.com/299707/0/rawthumb/thumb/",
+    "user": "NicolasKizilian",
+    "views": 431,
+    "w": 1824
+}

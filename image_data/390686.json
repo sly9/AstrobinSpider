@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 18,
+    "data_source": "OWN_REMOTE",
+    "dec": "60.671",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\n AG12+ASI1600MM at .70 asec/pix\r\n TV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best Ha image taken on the AG12.\r\n\r\nImaged on nights of 2018/1/27, 28, 29, 30, 31.\r\n\r\nI am quite pleased with how the star colors came out.  They are reasonably close to RGB colors, but no RBG was used.  I have Barry Wilson to thank for that.  His excellent tutorial on processing NB images taught me a wonderful way to handle the pink stars, which I have struggled with for ages.  Just Invert the image, then remove the green.  Magic, and so easy.  Thanks Barry.  Another tip I like was to leave some of the green tones in.  Adds a lot of depth to the image.  Go to https://barrywilson.smugmug.com/PixInsight-Tutorials\r\n\r\nThis image looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871, and are commonly referred to as the Whirling Dervish.   About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation Cassiopeia. An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions. \r\n(Starship Asterisk)",
+    "h": 3180,
+    "hash": null,
+    "id": 390686,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 153,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "177.297",
+    "pixscale": "0.701",
+    "published": "2019-02-13T21:03:02.304366",
+    "ra": "44.144",
+    "radius": "0.514",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/390686/",
+    "revisions": [],
+    "subjects": [
+        "IC 1871",
+        "Sh2-199"
+    ],
+    "title": "IC1871 Whirling Dervish in Soul Nebula - SHO",
+    "updated": "2021-03-17T12:07:25.038568",
+    "uploaded": "2019-02-13T20:40:16.838499",
+    "url_duckduckgo": "https://www.astrobin.com/390686/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390686/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390686/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390686/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390686/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390686/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390686/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/385ec9af-3d94-486f-aeed-eaded0454a4c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/385ec9af-3d94-486f-aeed-eaded0454a4c-1550091312.jpg",
+    "url_thumb": "https://www.astrobin.com/390686/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 674,
+    "w": 4220
+}

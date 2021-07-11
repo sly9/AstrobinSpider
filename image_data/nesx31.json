@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 5,
+    "data_source": "BACKYARD",
+    "dec": "34.268",
+    "description": "The Spider Nebula (IC 417) and the Fly Nebula (NGC1931) in the constellation Auriga.\r\n\r\nZWO ASI1600mmp and TS Photoline 130/910 mm\r\n\r\n50 x 200s H-alpha\r\n65 x 30 s red\r\n56 x 30 s green\r\n 78 x 30 s blue",
+    "h": 3331,
+    "hash": "nesx31",
+    "id": 446636,
+    "imaging_cameras": [
+        "ZWO ASI1600mmpro"
+    ],
+    "imaging_telescopes": [
+        "Teleskopservice TS Photoline 130/910 mm APO Triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 119,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808860/"
+    ],
+    "orientation": "359.641",
+    "pixscale": "0.864",
+    "published": "2020-01-02T20:39:49.135218",
+    "ra": "82.378",
+    "radius": "0.656",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/446636/",
+    "revisions": [],
+    "subjects": [
+        "IC 417",
+        "NGC 1931",
+        "The star φAur"
+    ],
+    "title": "Spider & Fly Nebula in Auriga (IC417 & NGC1931)",
+    "updated": "2021-06-17T01:45:04.211283",
+    "uploaded": "2020-01-02T20:36:24.837531",
+    "url_duckduckgo": "https://www.astrobin.com/nesx31/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nesx31/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nesx31/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nesx31/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nesx31/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nesx31/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nesx31/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/16505/2020/9921a08a-8c11-4db2-b3eb-44349997c70a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/16505/2020/9921a08a-8c11-4db2-b3eb-44349997c70a-1582281362.jpg",
+    "url_thumb": "https://www.astrobin.com/nesx31/0/rawthumb/thumb/",
+    "user": "pete_xl",
+    "views": 431,
+    "w": 4338
+}

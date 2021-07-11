@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "OWN_REMOTE",
+    "dec": "38.365",
+    "description": "Image Acquisition Details:\r\nLocation: Ft. Davis, TX\r\nImaging Scope: Planewave 17in CDK @ 2939mm FL\r\nImaging Camera: FLI PL16803 w/ 50mm Astrodon LRGBSHO filters\r\nMount: AP1600 w/Absolute Encoders\r\n\r\nData capture credit: John Kasianowicz, Josh Balsam, Justin Lian, Scott Johnson., Michael Bushell., Mike Selby., Rich Johnson. and Dhaval Brahmbhatt.\r\n\r\nImage Processing: Dhaval Brahmbhatt using PixInsight 1.8.5",
+    "h": 7865,
+    "hash": null,
+    "id": 356354,
+    "imaging_cameras": [
+        "FLI Proline 16803 FLI"
+    ],
+    "imaging_telescopes": [
+        "Planewave 17\" CDK Panewave"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806667/"
+    ],
+    "orientation": "89.178",
+    "pixscale": "0.317",
+    "published": "2018-07-17T21:33:11.953060",
+    "ra": "303.034",
+    "radius": "0.480",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/356354/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888",
+        "NGC6888",
+        "Sh2-105"
+    ],
+    "title": "NGC6888 Crescent Nebula SHO + RGB Stars",
+    "updated": "2021-03-17T14:49:22.821368",
+    "uploaded": "2018-07-17T22:33:12.508517",
+    "url_duckduckgo": "https://www.astrobin.com/356354/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/356354/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/356354/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/356354/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/356354/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/356354/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/356354/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1641/2018/148a530b-e8d9-4bb6-b541-45ff8144f6bf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1641/2018/148a530b-e8d9-4bb6-b541-45ff8144f6bf-1582489925.jpg",
+    "url_thumb": "https://www.astrobin.com/356354/0/rawthumb/thumb/",
+    "user": "dhavalbbhatt",
+    "views": 193,
+    "w": 7540
+}

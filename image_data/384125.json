@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "-13.259",
+    "description": "Ha:50x120sec\r\nO3: 50x120sec\r\nPixinsight avec process de Baptiste Zloch",
+    "h": 2916,
+    "hash": null,
+    "id": 384125,
+    "imaging_cameras": [
+        "ZWO ASI1600mm-Pro ZWO ASI 1600MM cool Pro"
+    ],
+    "imaging_telescopes": [
+        "Celestron CPC 9.25 XLT fastar"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 139,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808094/"
+    ],
+    "orientation": "92.782",
+    "pixscale": "1.453",
+    "published": "2019-01-04T09:05:38.856303",
+    "ra": "109.606",
+    "radius": "0.884",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/384125/",
+    "revisions": [
+        "/api/v1/imagerevision/167488/"
+    ],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "Ngc2359- Le casque de Thor",
+    "updated": "2021-03-25T17:02:59.939892",
+    "uploaded": "2019-01-04T09:05:42.389046",
+    "url_duckduckgo": "https://www.astrobin.com/384125/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/384125/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/384125/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/384125/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/384125/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/384125/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/384125/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/25337/2020/39175af1-f994-4d99-8eaf-15b30922c971.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/25337/2020/39175af1-f994-4d99-8eaf-15b30922c971-1582561455.jpeg",
+    "url_thumb": "https://www.astrobin.com/384125/0/rawthumb/thumb/",
+    "user": "astromat89",
+    "views": 387,
+    "w": 3268
+}

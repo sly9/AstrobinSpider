@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "0.080",
+    "description": "",
+    "h": 1385,
+    "hash": null,
+    "id": 396500,
+    "imaging_cameras": [
+        "QHY163M"
+    ],
+    "imaging_telescopes": [
+        "ED80"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 155,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800152/"
+    ],
+    "orientation": "32.231",
+    "pixscale": "2.663",
+    "published": "2019-03-19T23:56:31.099622",
+    "ra": "86.765",
+    "radius": "1.022",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/396500/",
+    "revisions": [],
+    "subjects": [
+        "M 78",
+        "NGC 2064",
+        "NGC 2067",
+        "NGC 2068",
+        "NGC 2071"
+    ],
+    "title": "Messier 78",
+    "updated": "2021-03-17T11:41:15.613562",
+    "uploaded": "2019-03-19T23:56:31.194539",
+    "url_duckduckgo": "https://www.astrobin.com/396500/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396500/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396500/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396500/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396500/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396500/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396500/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/d40e4c68-391d-4a34-9544-d15410a4cfd4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d40e4c68-391d-4a34-9544-d15410a4cfd4-1553040033.jpg",
+    "url_thumb": "https://www.astrobin.com/396500/0/rawthumb/thumb/",
+    "user": "starfall",
+    "views": 576,
+    "w": 1824
+}

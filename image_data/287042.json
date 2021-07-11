@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "-13.245",
+    "description": "",
+    "h": 1305,
+    "hash": null,
+    "id": 287042,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Newton 200/800 f4"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799771/",
+        "/api/v1/location/2799772/"
+    ],
+    "orientation": "89.711",
+    "pixscale": "0.976",
+    "published": "2017-03-12T21:45:24.477199",
+    "ra": "109.615",
+    "radius": "0.762",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/287042/",
+    "revisions": [],
+    "subjects": [
+        "IC 468",
+        "NGC 2359"
+    ],
+    "title": "Thor's Helmet - NGC2359 - Asi1600mm-C",
+    "updated": "2021-03-17T21:32:39.896132",
+    "uploaded": "2017-03-12T21:45:25.170071",
+    "url_duckduckgo": "https://www.astrobin.com/287042/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/287042/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/287042/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/287042/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/287042/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/287042/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/287042/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/22147b25-26b9-429e-928a-cbf60a1c29af.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22147b25-26b9-429e-928a-cbf60a1c29af-1489379390.jpg",
+    "url_thumb": "https://www.astrobin.com/287042/0/rawthumb/thumb/",
+    "user": "quercus",
+    "views": 650,
+    "w": 1824
+}

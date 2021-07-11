@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "30.661",
+    "description": "",
+    "h": 1459,
+    "hash": null,
+    "id": 302433,
+    "imaging_cameras": [
+        "ATIK 460ex Mono"
+    ],
+    "imaging_telescopes": [
+        "Sky-watcher Newton PDS 130mm  F5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 166,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803136/"
+    ],
+    "orientation": "120.870",
+    "pixscale": "1.432",
+    "published": "2017-07-07T09:26:52.722503",
+    "ra": "311.525",
+    "radius": "0.700",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302433/",
+    "revisions": [
+        "/api/v1/imagerevision/120804/",
+        "/api/v1/imagerevision/120869/",
+        "/api/v1/imagerevision/121030/"
+    ],
+    "subjects": [
+        "Filamentary nebula",
+        "Lace-work nebula",
+        "NGC 6960",
+        "The star 52Cyg",
+        "Veil nebula"
+    ],
+    "title": "NGC 6960 Western Veil",
+    "updated": "2021-03-17T20:30:01.113064",
+    "uploaded": "2017-07-07T10:26:53.487464",
+    "url_duckduckgo": "https://www.astrobin.com/302433/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302433/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302433/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302433/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302433/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302433/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302433/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/a4c5af5e-61ef-4cf9-98b0-0a3baf42a720.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a4c5af5e-61ef-4cf9-98b0-0a3baf42a720-1499419902.jpg",
+    "url_thumb": "https://www.astrobin.com/302433/0/rawthumb/thumb/",
+    "user": "vermakke",
+    "views": 572,
+    "w": 1824
+}

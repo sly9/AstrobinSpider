@@ -1,0 +1,53 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 12,
+    "data_source": "UNSET",
+    "dec": "62.797",
+    "description": "For more information: https://www.deep-sky-astroteam.de/en/Nebula/hdw2\r\nCollaboration project with Jens Zippel http://www.spaceimages.de\r\nImage aquisition took from october 2017 until early january 2018.\r\n\r\nImage data from Jens:\r\n\r\n- 10\", f4 Newton:\r\nHa: 33 x 900\"\r\nOIII: 22 x 900\"\r\nRGB: 27 x 300\"\r\n16,0 hrs \r\n\r\n- Takahashi Epsilon 130 D, f3,3: \r\nHa: 4 x 900\"\r\nOIII: 6 x 900\"\r\nRGB: 30 x 240\"\r\n4,5 hrs",
+    "h": 1810,
+    "hash": null,
+    "id": 329078,
+    "imaging_cameras": [
+        "Atik383L+"
+    ],
+    "imaging_telescopes": [
+        "10\" f/4 TS ONTC Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 211,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800760/",
+        "/api/v1/location/2806033/"
+    ],
+    "orientation": "2.069",
+    "pixscale": "2.210",
+    "published": "2018-01-11T19:09:03.576669",
+    "ra": "47.738",
+    "radius": "0.923",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/329078/",
+    "revisions": [],
+    "subjects": [],
+    "title": "HDW2 - Hartl-Dengel-Weinberger2",
+    "updated": "2021-03-17T16:51:22.765787",
+    "uploaded": "2018-01-11T19:09:04.586061",
+    "url_duckduckgo": "https://www.astrobin.com/329078/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/329078/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/329078/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/329078/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/329078/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/329078/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/329078/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/75ee00a8-dbb8-4574-bf06-45f3a88121c7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/75ee00a8-dbb8-4574-bf06-45f3a88121c7-1515697924.jpg",
+    "url_thumb": "https://www.astrobin.com/329078/0/rawthumb/thumb/",
+    "user": "Frank_",
+    "views": 598,
+    "w": 2400
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-10.622",
+    "description": "This portion of the Seagull Nebula contains both reflection and emission nebulas.  16 exposures at 1800 seconds each for the H-alpha, which is used here as luminosity.  600-second exposures for red, green, and blue (23 frames, 26 frames, and 24 frames, respectively).",
+    "h": 2156,
+    "hash": null,
+    "id": 340307,
+    "imaging_cameras": [
+        "QSI  683 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-106EDX IV"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808764/"
+    ],
+    "orientation": "46.054",
+    "pixscale": "2.103",
+    "published": "2018-04-03T16:03:27.645997",
+    "ra": "106.564",
+    "radius": "1.135",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340307/",
+    "revisions": [
+        "/api/v1/imagerevision/141793/"
+    ],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335",
+        "NGC 2343"
+    ],
+    "title": "SH2-292 HaRGB",
+    "updated": "2021-04-13T18:28:59.427590",
+    "uploaded": "2018-04-03T17:03:29.708871",
+    "url_duckduckgo": "https://www.astrobin.com/340307/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340307/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340307/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340307/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340307/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340307/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340307/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22243/2018/afc0ddbd-3941-4f70-ae01-bffac655ea82.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22243/2018/afc0ddbd-3941-4f70-ae01-bffac655ea82-1582444086.jpg",
+    "url_thumb": "https://www.astrobin.com/340307/0/rawthumb/thumb/",
+    "user": "Molechaser",
+    "views": 94,
+    "w": 3234
+}

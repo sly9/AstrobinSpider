@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "8.795",
+    "description": "Sharpless 2-290 HRGB. We also have some Oiii data, which provided some information of the center blue area, but didn't provider more info than Ha does. So, it is ignored.",
+    "h": 1778,
+    "hash": null,
+    "id": 337255,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 65,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "181.223",
+    "pixscale": "1.661",
+    "published": "2018-03-13T05:54:42.960057",
+    "ra": "133.469",
+    "radius": "0.684",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337255/",
+    "revisions": [
+        "/api/v1/imagerevision/139533/",
+        "/api/v1/imagerevision/139534/"
+    ],
+    "subjects": [
+        "IC 523"
+    ],
+    "title": "Sharpless 2-290",
+    "updated": "2021-03-17T16:14:09.995549",
+    "uploaded": "2018-03-13T05:17:01.864503",
+    "url_duckduckgo": "https://www.astrobin.com/337255/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337255/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337255/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337255/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337255/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337255/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337255/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2212/2018/9efbb2c3-61f4-4eaa-833a-e6cd4588a68d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2212/2018/9efbb2c3-61f4-4eaa-833a-e6cd4588a68d-1582616012.jpg",
+    "url_thumb": "https://www.astrobin.com/337255/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 265,
+    "w": 2371
+}

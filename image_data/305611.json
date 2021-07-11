@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-13.791",
+    "description": "Shot over a few nights in July.  I decided to shoot this one in Unity gain just for the learning experience, but I think for it to be meaningful, I would need to shoot it again at high gain. \r\n\r\nI read on Cloudy Nights that its advisable to do Deconvolution before resampling down.  It is said that this technique will sharpen details before the resampling takes care of noise.  I tried very hard to get Decon working, but still can't figure it out.  Supposedly you can do it without a luminance mask, but I can't get it to work.  With a lum mask, the improvements I am getting aren't worth the trouble.\r\n\r\nAll the stuff I've read says to do the histogram stretch first on the individual channels, before the color combine, but I went against conventional wisdom and did the opposite.  I just could not get the different channels stretched equally before the combine.  I have used Masked Stretch in the past, but it did not do very well this time with my narrowband data.  It made the weaker channels look terrible.  But I've done it successfully with RGB shots (my recent galaxies) and had a much easier time with Masked Stretch.\r\n\r\nAfter my stretch, I went against conventional wisdom again and didn't bother with DBE (or ABE) or background neutralization.  Just wasn't necessary and only made things look worse.  But I plan to go back later and try doing it again, just to see what the end results might be.\r\n\r\nAfter that, I did some noise control, another small stretch to darken the background after the noise was cleaned up, then went on to sharpening.  then HDRMultiscaleTransform, then LHE, and Exponential Transform.\r\n\r\nI also did some saturation adjustments to bring down the stars bright magenta color that came from the SHO combine, followed by only a slight amount of saturation on the nebula.",
+    "h": 1861,
+    "hash": null,
+    "id": 305611,
+    "imaging_cameras": [
+        "ZWO ASI 178MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue 80mm Triplet APO SV080ST-25FT"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804080/"
+    ],
+    "orientation": "179.988",
+    "pixscale": "1.028",
+    "published": "2017-08-01T05:26:34.155645",
+    "ra": "274.719",
+    "radius": "0.456",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305611/",
+    "revisions": [],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "The Eagle Nebula - Narrowband",
+    "updated": "2021-03-17T20:17:33.436279",
+    "uploaded": "2017-08-01T06:00:42.176955",
+    "url_duckduckgo": "https://www.astrobin.com/305611/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305611/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305611/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305611/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305611/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305611/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305611/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/5f314c71-d404-481e-a464-bff813a7630e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/5f314c71-d404-481e-a464-bff813a7630e-1501564951.png",
+    "url_thumb": "https://www.astrobin.com/305611/0/rawthumb/thumb/",
+    "user": "Don",
+    "views": 728,
+    "w": 2592
+}

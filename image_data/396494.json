@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 12,
+    "data_source": "PRO_DATA",
+    "dec": "42.346",
+    "description": "* Image Acquisition: LTA (not public data).\r\n* Processing: Ruben Barbosa.\r\n* Distance: 30 Mly.\r\n\r\nIn the image it is possible to be observed:\r\n\r\n* filaments along the dusty disk, which extend into the halo. It is unclear what is causing these patterns but is presumed to be related to events of supernovae, processes of intense star formation or the pressure exerted on the gas by the central stars;\r\n\r\n* on the left side you can see blue zones (where new hot stars have just been born) and pink zones (due to h-alpha, stellar nurseries);\r\n\r\n* stars that shine brightly because they are closer, so belong to our galaxy and\r\n\r\n* in a distant plane, several galaxies in the same direction.\r\n\r\nNGC 891 (also known as Caldwell 23) is a spiral galaxy located about 30 million light-years away in the direction of the Andromeda constellation.\r\n\r\nThe object is a member of the group NGC 1023, a small group of galaxies in the Local Supercluster, of which they are part: NGC 925, 949, 959, 1003, 1023 and 1058, among others, that remain units by gravity.\r\n\r\nIt is thought that this will be the aspect of our galaxy when observed in profile, both in size (~ 100,000 light years) and in luminosity.",
+    "h": 1033,
+    "hash": null,
+    "id": 396494,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 212,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "259.978",
+    "pixscale": "0.304",
+    "published": "2019-04-25T13:15:17.360540",
+    "ra": "35.645",
+    "radius": "0.084",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/396494/",
+    "revisions": [
+        "/api/v1/imagerevision/173910/"
+    ],
+    "subjects": [
+        "NGC 891",
+        "NGC891"
+    ],
+    "title": "NGC 891, a Edge-on Galaxy (close-up)",
+    "updated": "2021-07-06T12:04:52.190746",
+    "uploaded": "2019-03-19T22:37:16.416837",
+    "url_duckduckgo": "https://www.astrobin.com/396494/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/396494/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/396494/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/396494/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/396494/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/396494/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/396494/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/39dc3bab-394a-4f82-b742-2a707af93956.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/39dc3bab-394a-4f82-b742-2a707af93956-1553035618.jpg",
+    "url_thumb": "https://www.astrobin.com/396494/0/rawthumb/thumb/",
+    "user": "RRBBarbosa",
+    "views": 915,
+    "w": 1702
+}

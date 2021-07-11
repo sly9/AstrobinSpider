@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "32.533",
+    "description": "NGC 4631, The Whale Galaxy in Canes Venatici.  It's also known as The Whale and the Pup, with the pup being the small galaxy directly above NGC 4631 in this image.\r\n\r\nThis is the third of three images captured at a trip to a dark sky site south of Prineville, OR in May of 2017.  My priorities on the trip were M106 and NCG 5907, both targets that I've had problems capturing in the past.  I was able to spend two nights on each of the priority targets which, after accounting for a night of tuning, left me with 2 final nights on sight.  I decided on this target on a whim to use the last nights.\r\n\r\nNormally, I do luminance captures on the first night and color captures on the second night.  In this case, the forecast for the second night indicated much better seeing, so I did the color first.  As it happened, the seeing did soften considerably from earlier in the week, and the raw subs for this image were about 3.5 arc seconds, vs near 2 arc seconds earlier.  Unfortunately, it did not improve on the second night of this target as forecast, so the data is a bit soft, especially at this focal length.\r\n\r\nStill, I am happy with the image and have used it to get more time working with PixInsight.  I've especially made progress with Deconvolution processing this image.",
+    "h": 1592,
+    "hash": null,
+    "id": 299684,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 8\" ACF f/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807261/"
+    ],
+    "orientation": "179.147",
+    "pixscale": "0.719",
+    "published": "2017-06-16T00:48:35.796167",
+    "ra": "190.521",
+    "radius": "0.267",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299684/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631"
+    ],
+    "title": "NGC 4631",
+    "updated": "2021-05-17T08:42:24.840298",
+    "uploaded": "2017-06-16T01:48:36.498021",
+    "url_duckduckgo": "https://www.astrobin.com/299684/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299684/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299684/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299684/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299684/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299684/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299684/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/5b69d427-42a6-49ce-a2bc-1908c0658a22.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5b69d427-42a6-49ce-a2bc-1908c0658a22-1497823976.jpg",
+    "url_thumb": "https://www.astrobin.com/299684/0/rawthumb/thumb/",
+    "user": "wadeh237",
+    "views": 502,
+    "w": 2152
+}

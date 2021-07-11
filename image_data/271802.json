@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 10,
+    "data_source": "TRAVELLER",
+    "dec": "-19.394",
+    "description": "This complex lies in the constellation Scorpius along the plane of our Milky Way Galaxy. This is a fantastic object to be imaged, although it never rises much above the horizon for Northern imagers. Being at 22ºS, I have a particularly privileged view of this area. The star near the eye of the horse is embedded in blue reflection nebula IC 4592, over 400 light-years away.  The horse's gaze seems fixed on Beta Scorpii, also named Graffias. Toward the top right, near the horse's ear, is another striking bluish reflection nebula, IC 4601. The characteristic blue hue of reflection nebulae is caused by the tendency of interstellar dust to more strongly scatter blue starlight.  [Paragraph adapted from APOD and Wikipedia]\r\n\r\nThis image was a great surprise to me: despite its low integration time of less than 1.5h, it shows a great deal of dust, and, to me, is a major improvement over my previous 30min attemp. Check it out http://astrob.in/115574/E/. The area is just crowded with dust, and more time would have improved the SNR on the fainter regions. Perhaps next season... What do you think?\r\n\r\n*Please check the full image 1800px - resized from original)*\r\n\r\nConstructive criticism, comments and suggestions are more than welcome in the comments section. Thank's for taking your time to look at this image.\r\n\r\nTaken from Rural Skies (Bortle 3-4; NELM ~6.2; SQM ~21.6*calculated), from Cristina, MG, Brazil (22ºS latitude).\r\n\r\nDate and Time: July 4th, 2016, at 20:30h (UTC-3, start of capture)\r\nCamera: Unmodded Canon T4i/650D, at ISO 800\r\nLens: Tamron 70-200mm f/2.8, at 200mm, operated at f/3.5\r\nMount: Sky-Watcher HEQ5, tracking, controlled with EQASCOM, unguided\r\nExposure Detail: 38x120s (total 76min)\r\n\r\n*Revision -B- features more star shrinking, that, although doesn't look perfect at 100%, can definitily make more nebulosity pop up on a display sized image. Which do you prefer?*",
+    "h": 1200,
+    "hash": null,
+    "id": 271802,
+    "imaging_cameras": [
+        "Canon EOS 650D / Rebel T4i"
+    ],
+    "imaging_telescopes": [
+        "Tamron 70-200mm f/2.8"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 170,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804245/"
+    ],
+    "orientation": "166.555",
+    "pixscale": "13.161",
+    "published": "2016-11-11T19:03:49.372628",
+    "ra": "243.762",
+    "radius": "3.954",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271802/",
+    "revisions": [
+        "/api/v1/imagerevision/104490/",
+        "/api/v1/imagerevision/111570/"
+    ],
+    "subjects": [
+        "IC 4592",
+        "IC 4601",
+        "The star Graffias (β1Sco)",
+        "The star β2Sco",
+        "The star νSco",
+        "The star χOph",
+        "The star ψOph",
+        "The star ω1Sco",
+        "The star ω2Sco"
+    ],
+    "title": "The Blue Horsehead Nebula Region - IC 4592 and Surroundings",
+    "updated": "2021-04-12T18:42:04.677732",
+    "uploaded": "2016-11-11T19:03:49.986186",
+    "url_duckduckgo": "https://www.astrobin.com/271802/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271802/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271802/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271802/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271802/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271802/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271802/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/5670/2016/60c0e217-b163-41f6-b428-35dab0127a7d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/5670/2016/60c0e217-b163-41f6-b428-35dab0127a7d-1582524847.jpg",
+    "url_thumb": "https://www.astrobin.com/271802/0/rawthumb/thumb/",
+    "user": "grsotnas",
+    "views": 1044,
+    "w": 1800
+}

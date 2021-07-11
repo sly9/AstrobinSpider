@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "41.011",
+    "description": "",
+    "h": 3400,
+    "hash": null,
+    "id": 408323,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled"
+    ],
+    "imaging_telescopes": [
+        "GSO 6\" f/4 Imaging Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 36,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811152/"
+    ],
+    "orientation": "352.102",
+    "pixscale": "1.298",
+    "published": "2019-06-02T14:07:50.156671",
+    "ra": "302.435",
+    "radius": "1.024",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408323/",
+    "revisions": [
+        "/api/v1/imagerevision/181385/"
+    ],
+    "subjects": [
+        "B342",
+        "IC 1311",
+        "IC1311",
+        "PK077+03.1"
+    ],
+    "title": "IC1311",
+    "updated": "2021-06-09T18:01:09.086774",
+    "uploaded": "2019-06-02T14:15:35.186930",
+    "url_duckduckgo": "https://www.astrobin.com/408323/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408323/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408323/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408323/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408323/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408323/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408323/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24709/2020/740369a7-53c1-4b11-b511-a0309861cb1c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24709/2020/740369a7-53c1-4b11-b511-a0309861cb1c-1582594843.jpg",
+    "url_thumb": "https://www.astrobin.com/408323/0/rawthumb/thumb/",
+    "user": "BerndST",
+    "views": 126,
+    "w": 4548
+}

@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "-63.313",
+    "description": "S: 51 x 900s = 12,75 h\r\nH: 36 x 900s = 9 h\r\nO: 44 x 900s = 11 h\r\nTotal: 32,75 h",
+    "h": 4923,
+    "hash": "cy7ap0",
+    "id": 469378,
+    "imaging_cameras": [
+        "QHYCCD QHY9M"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ100"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "1.793",
+    "pixscale": "0.955",
+    "published": "2020-03-27T16:59:35.749695",
+    "ra": "173.810",
+    "radius": "1.096",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/469378/",
+    "revisions": [
+        "/api/v1/imagerevision/222195/",
+        "/api/v1/imagerevision/222599/"
+    ],
+    "subjects": [
+        "IC 2872",
+        "IC 2944",
+        "IC 2948",
+        "The star λCen",
+        "lam Cen Nebula"
+    ],
+    "title": "IC 2944",
+    "updated": "2021-03-17T03:53:52.011098",
+    "uploaded": "2020-03-27T16:59:36.136866",
+    "url_duckduckgo": "https://www.astrobin.com/cy7ap0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/cy7ap0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/cy7ap0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/cy7ap0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/cy7ap0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/cy7ap0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/cy7ap0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/38589/2020/2c282780-b40e-41c3-842e-9211f732cbd7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/38589/2020/2c282780-b40e-41c3-842e-9211f732cbd7-1585328815.jpg",
+    "url_thumb": "https://www.astrobin.com/cy7ap0/0/rawthumb/thumb/",
+    "user": "Ochentaiocho",
+    "views": 100,
+    "w": 6633
+}

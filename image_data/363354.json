@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "-6.383",
+    "description": "NGC 4731 is deformed galaxy located approximately 65 million light-years away in Virgo. The shape is possibly related to interaction from the larger elliptical NGC 4967 around a degree away.\r\nApparent magnitude is 11.5. \r\nNGC4731 with a size of 6.6x4.2 arc minutes, has been stretched and ripped by a larger neighboring elliptical galaxy, NGC4697. \r\n\r\nIt looks like there is not too much information about this galaxy.\r\n\r\nIMAGE:\r\nLuminance: 30x1200sec\r\nRed: 20x1200sec\r\nGreen: 20x600sec\r\nBlue: 20x1200sec\r\n\r\nTelescope: APO 120mm f/7\r\n\r\nCamera: SX694\r\n\r\nFlats, Bias and Darks applied\r\n\r\nPre-processing and Processing: Pixinsight",
+    "h": 1507,
+    "hash": null,
+    "id": 363354,
+    "imaging_cameras": [
+        "Starlight Xpress Trius SX-694 mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120mm f/7"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798804/"
+    ],
+    "orientation": "311.480",
+    "pixscale": "1.075",
+    "published": "2018-08-25T22:21:14.836914",
+    "ra": "192.742",
+    "radius": "0.393",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/363354/",
+    "revisions": [
+        "/api/v1/imagerevision/154542/",
+        "/api/v1/imagerevision/155633/",
+        "/api/v1/imagerevision/188211/"
+    ],
+    "subjects": [
+        "NGC 4731"
+    ],
+    "title": "NGC 4731 - A Virgo Galaxy",
+    "updated": "2021-03-17T14:16:27.581759",
+    "uploaded": "2018-08-25T23:21:15.635795",
+    "url_duckduckgo": "https://www.astrobin.com/363354/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/363354/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/363354/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/363354/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/363354/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/363354/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/363354/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2566/2018/fde92638-c242-4226-9a7c-9ee305acfc56.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2566/2018/fde92638-c242-4226-9a7c-9ee305acfc56-1582627720.jpg",
+    "url_thumb": "https://www.astrobin.com/363354/0/rawthumb/thumb/",
+    "user": "nandopg",
+    "views": 212,
+    "w": 2162
+}

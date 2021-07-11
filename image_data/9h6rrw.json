@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "6.541",
+    "description": "I decided to image this nebula mainly because of its interesting name! It is rather faint and looks like a ghostly apparition of the moon floating among the stars. The outer ring is more defined than the center, reminiscent of the Ring Nebula. If you look at the full resolution image, you can see a faint web-like structure in the inner part of the nebula.\r\n\r\nThe colorful bubble we see is about two light years across. It comprises of the shells of gas blown off from the faint, but very hot, central star’s surface. The shells of gas expand out into space and shine under the intense ultraviolet radiation from the progenitor star.\r\n\r\nThe LRGB image was enhanced with narrowband data:\r\n\r\nLuminance – Enhanced with Ha data\r\nRed – Enhanced with Ha data\r\nGreen – Enhanced with OIII data\r\nBlue – Enhanced with OIII data\r\n\r\nThis was one of my first attempts at combining narrowband and broadband data. The main challenge I faced was not overdoing the enhancement, striking a balance between accurately representing the data and artistic license.\r\n\r\nI aimed to tweak the image just enough to make the nebula’s structures clearer/visible. For example, I found that the faint nebulousity extending beyond the ring in the upper right quadrant was all but invisible in the LRGB image. It popped out when enhanced with the Ha data. In fact, it was so surprising that I went back to check whether I had made a mistake in processing!\r\n\r\nAll in all, it was an enjoyable experience working on the image to tease out this ghostly nebula from the starry background!",
+    "h": 1422,
+    "hash": "9h6rrw",
+    "id": 424214,
+    "imaging_cameras": [
+        "ZWO ASI183MM-PRO"
+    ],
+    "imaging_telescopes": [
+        "Celestron 9.25\" EdgeHD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 11,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2809155/"
+    ],
+    "orientation": "179.172",
+    "pixscale": "0.416",
+    "published": "2019-09-12T14:36:42.748046",
+    "ra": "289.616",
+    "radius": "0.143",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/424214/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6781"
+    ],
+    "title": "NGC 6781 - Ghost of the Moon Nebula",
+    "updated": "2021-03-17T09:27:24.279698",
+    "uploaded": "2019-09-01T17:19:16.147835",
+    "url_duckduckgo": "https://www.astrobin.com/9h6rrw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9h6rrw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9h6rrw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9h6rrw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9h6rrw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9h6rrw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9h6rrw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3c54e86d-a2f2-4938-9d95-63be2051bb08.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/3c54e86d-a2f2-4938-9d95-63be2051bb08-1567358855.png",
+    "url_thumb": "https://www.astrobin.com/9h6rrw/0/rawthumb/thumb/",
+    "user": "starlord",
+    "views": 163,
+    "w": 2030
+}

@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "42.350",
+    "description": "I tried to get as much detail as I could - given the fact that the 6D's pixel size and it's bayer matrix locate it's suitability rather on smaller focal lenghts. I used a 1.5x coma-correcting APM barlow lens to extend the focal lenght to 1500mm, took around 300 lightframes, used the subframe selector script in pixinsight to filter out the 81 best and weighted them by FWHM prior to stacking. For the latter, I did a 2x drizzle integration to preserve detail and to allow more headroom for post-processing. After that, I downscaled the image by factor 2 to compensate oversampling and hide the deficits ;-). Therefore, the result above represents the object's original size on the initial raw images.",
+    "h": 824,
+    "hash": null,
+    "id": 382335,
+    "imaging_cameras": [
+        "Canon EOS 6Da"
+    ],
+    "imaging_telescopes": [
+        "TS OPTICS ONTC 1010"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 152,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805383/"
+    ],
+    "orientation": "91.139",
+    "pixscale": "0.899",
+    "published": "2018-12-22T14:52:32.934739",
+    "ra": "35.636",
+    "radius": "0.174",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/382335/",
+    "revisions": [
+        "/api/v1/imagerevision/165338/",
+        "/api/v1/imagerevision/165339/",
+        "/api/v1/imagerevision/166086/",
+        "/api/v1/imagerevision/166087/",
+        "/api/v1/imagerevision/166088/",
+        "/api/v1/imagerevision/167902/",
+        "/api/v1/imagerevision/167903/",
+        "/api/v1/imagerevision/167904/",
+        "/api/v1/imagerevision/174838/",
+        "/api/v1/imagerevision/174839/",
+        "/api/v1/imagerevision/175220/",
+        "/api/v1/imagerevision/175221/"
+    ],
+    "subjects": [
+        "NGC 891",
+        "NGC891"
+    ],
+    "title": "NGC 891",
+    "updated": "2021-03-17T12:45:33.023248",
+    "uploaded": "2018-12-22T14:52:33.049835",
+    "url_duckduckgo": "https://www.astrobin.com/382335/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382335/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382335/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382335/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382335/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382335/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382335/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17314/2018/d4fb4531-820b-4dc8-a14a-62c44cd9db2c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/d4fb4531-820b-4dc8-a14a-62c44cd9db2c-1545490615.jpg",
+    "url_thumb": "https://www.astrobin.com/382335/0/rawthumb/thumb/",
+    "user": "BastiH",
+    "views": 665,
+    "w": 1122
+}

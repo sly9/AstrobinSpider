@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "60.645",
+    "description": "",
+    "h": 3227,
+    "hash": null,
+    "id": 370963,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 122,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "181.531",
+    "pixscale": "0.589",
+    "published": "2018-10-10T06:35:48.827412",
+    "ra": "44.480",
+    "radius": "0.502",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/370963/",
+    "revisions": [],
+    "subjects": [
+        "IC 1871"
+    ],
+    "title": "IC1871 SHO 2 Panel Mosaic",
+    "updated": "2021-03-17T13:40:18.163550",
+    "uploaded": "2018-10-10T07:35:49.313103",
+    "url_duckduckgo": "https://www.astrobin.com/370963/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/370963/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/370963/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/370963/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/370963/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/370963/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/370963/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/945dbc97-e2e2-49fa-81dc-8ce9c4a935f1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/945dbc97-e2e2-49fa-81dc-8ce9c4a935f1-1539157361.jpg",
+    "url_thumb": "https://www.astrobin.com/370963/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 424,
+    "w": 5198
+}

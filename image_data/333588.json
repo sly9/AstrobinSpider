@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 25,
+    "data_source": "BACKYARD",
+    "dec": "69.364",
+    "description": "This is another project that has taken the best part of a year to complete.  This is two panels of data from my home observatory in the UK, using a Skywatcher Esprit 120 and a QSI 690.  The project began on 6 March 2017 and the last subs were collected on 12 February 2018.\r\n\r\nI tried 30 minute Ha exposures for this object – not for any theoretical reason – I think this was the first time I had gone that long.  I don’t know if the longer exposure has made any difference, but I was reasonably pleased with the Ha elements in M82.  I’d like to say that I took a decision to concentrate on presenting the galaxies, and decided not to present IFN.  However, that would be untrue.  I went looking for IFN, but didn’t find anything of any consequence in my data.  I’m not sure why.  Possibly the nights I imaged were not as good as I thought.\r\n\r\nHa:  24 x 1800s\r\nLum: 47 x 600s\r\nRed: 36 x 600s\r\nGreen: 36 x 600s\r\nBlue: 36 x 600s\r\n\r\nA total of 37.8 hours exposure.\r\n\r\nBoth Messier 81 (Bode’s Galaxy, NGC 3031) and Messier 82 (the Cigar Galaxy, NGC 3034) are around 12 million light years away in the constellation of Ursa Major.  Both galaxies were discovered by Johann Elert Bode in 1774, and observed by Charles Messier on 9 February 1781 (from O’Meara, ‘Messier Objects 2nd Edition; 2014).  The relatively young (200 million light year) dwarf, irregular galaxy, Holmberg IX) can also be seen.",
+    "h": 2466,
+    "hash": null,
+    "id": 333588,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher Esprit 120ED Super APO Triplet"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 215,
+    "link": "https://stevemilne.smugmug.com/Photos/Sky/Galaxies/i-wDfxwNc",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808074/"
+    ],
+    "orientation": "267.703",
+    "pixscale": "0.881",
+    "published": "2018-02-14T13:33:27.892659",
+    "ra": "148.899",
+    "radius": "0.727",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333588/",
+    "revisions": [
+        "/api/v1/imagerevision/137538/"
+    ],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "Messier 81 & Messier 82 in Ursa Major: Two Panel Mosaic – HaLRGB",
+    "updated": "2021-03-17T16:31:25.589937",
+    "uploaded": "2018-02-14T13:33:28.472888",
+    "url_duckduckgo": "https://www.astrobin.com/333588/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333588/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333588/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333588/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333588/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333588/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333588/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2018/96ec3b32-d67b-4e28-b468-108e24da4c8e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2018/96ec3b32-d67b-4e28-b468-108e24da4c8e-1582606090.jpg",
+    "url_thumb": "https://www.astrobin.com/333588/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 1325,
+    "w": 5405
+}

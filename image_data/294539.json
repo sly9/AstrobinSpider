@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "PRO_DATA",
+    "dec": "14.428",
+    "description": "Another galaxy processed from Liverpool Telescope data. Not completely happy with this one. Looks a bit too solid and chunky I think, but not sure how to change that. One reason could be the lack of those bright star-forming regions that usually light up galaxies. I get a similar impression from other images I found of M88 on the net, so maybe it is an old and very mature galaxy with not much happening.\r\n\r\nData:\r\n\r\n9 x 90 s Bessell B (for blue channel)\r\n\r\n9 x 90 s Bessell V (for green channel)\r\n\r\n19 x 90 s sdss-r (for red channel)\r\n\r\nSo, totally a bit less than an hours",
+    "h": 1887,
+    "hash": null,
+    "id": 294539,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 52,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806793/"
+    ],
+    "orientation": "269.974",
+    "pixscale": "0.303",
+    "published": "2017-05-05T08:01:08.342768",
+    "ra": "187.999",
+    "radius": "0.113",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/294539/",
+    "revisions": [
+        "/api/v1/imagerevision/118689/",
+        "/api/v1/imagerevision/118700/"
+    ],
+    "subjects": [
+        "M 88",
+        "NGC 4501"
+    ],
+    "title": "M88",
+    "updated": "2021-04-20T03:58:29.763794",
+    "uploaded": "2017-05-05T09:01:08.786872",
+    "url_duckduckgo": "https://www.astrobin.com/294539/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/294539/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/294539/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/294539/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/294539/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/294539/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/294539/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/16731/2017/724e8872-7de6-4836-9de8-696f5c11dc91.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/16731/2017/724e8872-7de6-4836-9de8-696f5c11dc91-1582579771.jpg",
+    "url_thumb": "https://www.astrobin.com/294539/0/rawthumb/thumb/",
+    "user": "gorann",
+    "views": 439,
+    "w": 1906
+}

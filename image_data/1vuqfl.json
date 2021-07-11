@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.004",
+    "description": "NGC896_SHO",
+    "h": 3576,
+    "hash": "1vuqfl",
+    "id": 444290,
+    "imaging_cameras": [
+        "FLI Microline CCD FLI Microline 16200"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 17\" f5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807743/"
+    ],
+    "orientation": "5.037",
+    "pixscale": "0.577",
+    "published": "2019-12-21T21:20:15.728546",
+    "ra": "36.814",
+    "radius": "0.459",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/444290/",
+    "revisions": [
+        "/api/v1/imagerevision/204378/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "NGC 896"
+    ],
+    "title": "NGC896",
+    "updated": "2021-03-17T05:58:39.838057",
+    "uploaded": "2019-12-21T21:20:15.893427",
+    "url_duckduckgo": "https://www.astrobin.com/1vuqfl/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/1vuqfl/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/1vuqfl/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/1vuqfl/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/1vuqfl/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/1vuqfl/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/1vuqfl/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/73f1b65a-5035-4338-ad8d-3d1580455bf2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/73f1b65a-5035-4338-ad8d-3d1580455bf2-1576963512.jpg",
+    "url_thumb": "https://www.astrobin.com/1vuqfl/0/rawthumb/thumb/",
+    "user": "sidis5",
+    "views": 128,
+    "w": 4470
+}

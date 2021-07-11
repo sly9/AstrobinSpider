@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 1,
+    "data_source": "OWN_REMOTE",
+    "dec": "61.183",
+    "description": "SHO bubble nebula\r\n\r\naugust-sept 2018, nov-dec 2017 (some Ha subs)\r\n37x1800 astrodon 5nm SII\r\n19x1800 astrodon 5nm Ha\r\n39x1800 astrodon 5hm OIII\r\n\r\nat10RC + CCDT67 on mach1GTO\r\nSTT-8300M with FW8G-STT",
+    "h": 2280,
+    "hash": null,
+    "id": 368776,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Astro-Tech AT10RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 98,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807696/"
+    ],
+    "orientation": "358.085",
+    "pixscale": "0.783",
+    "published": "2018-09-27T03:16:37.508612",
+    "ra": "350.171",
+    "radius": "0.407",
+    "remote_source": "OTHER",
+    "resource_uri": "/api/v1/image/368776/",
+    "revisions": [
+        "/api/v1/imagerevision/173398/"
+    ],
+    "subjects": [
+        "Bubble nebula",
+        "NGC 7635",
+        "NGC7635",
+        "Sh2-162"
+    ],
+    "title": "bubble sho (stanford)",
+    "updated": "2021-03-17T13:50:51.735715",
+    "uploaded": "2018-09-27T04:04:57.022926",
+    "url_duckduckgo": "https://www.astrobin.com/368776/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/368776/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/368776/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/368776/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/368776/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/368776/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/368776/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/d665381c-d083-47f9-badc-6b06b0940224.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/d665381c-d083-47f9-badc-6b06b0940224-1582628641.jpg",
+    "url_thumb": "https://www.astrobin.com/368776/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 550,
+    "w": 2964
+}

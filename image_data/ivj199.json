@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-58.631",
+    "description": "Gabriela Mistral Nebula in Narrow Band",
+    "h": 2404,
+    "hash": "ivj199",
+    "id": 450290,
+    "imaging_cameras": [
+        "QSI583wsg5 QSI583"
+    ],
+    "imaging_telescopes": [
+        "Skyrover 115 triplet"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 19,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2811176/"
+    ],
+    "orientation": "93.028",
+    "pixscale": "1.732",
+    "published": "2020-01-20T19:58:23.943535",
+    "ra": "160.158",
+    "radius": "0.968",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/450290/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3324"
+    ],
+    "title": "NGC3324",
+    "updated": "2021-03-17T05:29:29.548102",
+    "uploaded": "2020-01-20T19:58:24.099519",
+    "url_duckduckgo": "https://www.astrobin.com/ivj199/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/ivj199/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/ivj199/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/ivj199/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/ivj199/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/ivj199/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/ivj199/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/33501/2020/d2c9594d-d577-486a-a2b0-680973b3a70b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/33501/2020/d2c9594d-d577-486a-a2b0-680973b3a70b-1582276782.jpg",
+    "url_thumb": "https://www.astrobin.com/ivj199/0/rawthumb/thumb/",
+    "user": "ghealey",
+    "views": 89,
+    "w": 3226
+}

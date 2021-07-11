@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 16,
+    "data_source": "OWN_REMOTE",
+    "dec": "57.480",
+    "description": "I have probably imaged The Elephant Trunk at least six times with three different telescopes. This is a consolidation and reprocessing of a number of images from those captures. And some data from several collaborations. Need to do something interesting during these cloudy, rainy and snowy days at the SRO and my back deck.\r\n\r\nBTW, this is the exact same FOV as the Hubble Palette image I posted a few days ago.",
+    "h": 4510,
+    "hash": null,
+    "id": 394750,
+    "imaging_cameras": [
+        "SBIG STXL 16200",
+        "SBIG STT-8300M",
+        "QSI 583 WSG"
+    ],
+    "imaging_telescopes": [
+        "Astro Physics 305 mm f/3.8 Riccardi-Honders Astrograph",
+        "Celestron EdgeHD 9.25\"",
+        "Astro-Physics AP 130mm f/6.3 Starfire EDF"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 156,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803278/",
+        "/api/v1/location/2805661/"
+    ],
+    "orientation": "261.489",
+    "pixscale": "0.467",
+    "published": "2019-03-09T11:29:52.062495",
+    "ra": "323.893",
+    "radius": "0.360",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/394750/",
+    "revisions": [],
+    "subjects": [
+        "VdB142"
+    ],
+    "title": "The Elephant Trunk - LHRGB Image",
+    "updated": "2021-03-17T11:49:10.491869",
+    "uploaded": "2019-03-09T11:29:52.259095",
+    "url_duckduckgo": "https://www.astrobin.com/394750/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/394750/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/394750/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/394750/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/394750/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/394750/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/394750/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5209/2020/19e26503-82bb-498d-84b6-bb474781f9c1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5209/2020/19e26503-82bb-498d-84b6-bb474781f9c1-1582636510.jpg",
+    "url_thumb": "https://www.astrobin.com/394750/0/rawthumb/thumb/",
+    "user": "coles44",
+    "views": 609,
+    "w": 3231
+}

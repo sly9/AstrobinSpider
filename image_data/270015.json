@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "68.361",
+    "description": "van den Berph 141 (LRGB). \r\n\r\nVersion C did some noise reduction.",
+    "h": 2449,
+    "hash": null,
+    "id": 270015,
+    "imaging_cameras": [
+        "QSI 683 wsg-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106ED f/5 FSQ 106ED f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805505/"
+    ],
+    "orientation": "179.679",
+    "pixscale": "2.098",
+    "published": "2016-10-31T13:50:49.652592",
+    "ra": "318.781",
+    "radius": "1.192",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270015/",
+    "revisions": [
+        "/api/v1/imagerevision/103154/",
+        "/api/v1/imagerevision/103155/"
+    ],
+    "subjects": [],
+    "title": "van den Berph 141 (LRGB)",
+    "updated": "2021-03-17T22:37:21.162526",
+    "uploaded": "2016-10-31T13:50:49.652592",
+    "url_duckduckgo": "https://www.astrobin.com/270015/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270015/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270015/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270015/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270015/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270015/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270015/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2212/2016/4b26114b-b003-4f9e-ab30-d148a80a5738.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2212/2016/4b26114b-b003-4f9e-ab30-d148a80a5738-1582616406.jpg",
+    "url_thumb": "https://www.astrobin.com/270015/0/rawthumb/thumb/",
+    "user": "mileszhou",
+    "views": 169,
+    "w": 3276
+}

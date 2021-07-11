@@ -1,0 +1,72 @@
+{
+    "animated": false,
+    "bookmarks": 24,
+    "comments": 9,
+    "data_source": "TRAVELLER",
+    "dec": "60.262",
+    "description": "This is a two frame mosaic, taken mostly on Maunakea.\r\n\r\nMy earlier attempt on this subject can be found here:\r\nhttps://www.astrobin.com/120256/?nc=user\r\nI didn't like it.  So I took it again using a different camera.  The new version is indeed better, thanks to the higher sensitivity of the camera, and probably better processing too.\r\n\r\nVer.B is a reprocessing made in 2020, particularly with the help of Starnet++.\r\n\r\n(The plate-solved overlay seems way off.)",
+    "h": 3600,
+    "hash": null,
+    "id": 344054,
+    "imaging_cameras": [
+        "Nikon D800 Mod"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 180ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 292,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800772/",
+        "/api/v1/location/2801908/"
+    ],
+    "orientation": "358.934",
+    "pixscale": "4.025",
+    "published": "2018-04-27T07:49:01.373087",
+    "ra": "317.556",
+    "radius": "3.265",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/344054/",
+    "revisions": [
+        "/api/v1/imagerevision/216457/"
+    ],
+    "subjects": [
+        "B150",
+        "B152",
+        "IC 4756",
+        "Part of the constellation Equuleus (Equ)",
+        "Sh2-129",
+        "The star 19Aql",
+        "The star 41Psc",
+        "The star 55Peg",
+        "The star 58Peg",
+        "The star Enif (εPeg)",
+        "The star γEqu",
+        "The star δEqu",
+        "The star μAql",
+        "The star ξAql",
+        "The star σPeg",
+        "VdB140"
+    ],
+    "title": "Sh2-129 and Ou4",
+    "updated": "2021-06-12T13:36:41.694398",
+    "uploaded": "2018-04-27T08:49:04.116179",
+    "url_duckduckgo": "https://www.astrobin.com/344054/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/344054/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/344054/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/344054/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/344054/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/344054/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/344054/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7327/2020/2948a8e4-28e5-4be8-aae2-6170978f0cb9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7327/2020/2948a8e4-28e5-4be8-aae2-6170978f0cb9-1582985843.jpg",
+    "url_thumb": "https://www.astrobin.com/344054/0/rawthumb/thumb/",
+    "user": "whwang",
+    "views": 2103,
+    "w": 4600
+}

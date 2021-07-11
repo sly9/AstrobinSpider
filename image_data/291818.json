@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "-63.219",
+    "description": "IC 2944, also known as Running Chicken Nebula, in reallity is an open cluster embedded in a emission nebula found in constellation Centaurus, near Lambda Centauri. The nebula shows some Thackeray Globes, which are associated to an area of active star formation rgion, although there is no evidence of this fact due to the erosion caused by the intensse radiation coming from the closeby young stars.\r\nAnyway, it is still know very little about their origin and nature, except that they are generally associated with areas of HII with a tendency for star formation. \r\nIC 2944 is filled with gas and dust that is illuminated and heated by a loose cluster of massive stars. These stars are much hotter and much more massive than our Sun.\r\n\r\nSome Databook facts:\r\nName:                                       IC 2944  or Caldwell 100 or λ Centauri Nebula\r\nObject Type:  \t                     Open Cluster / Emission Nebula\r\nConstellation\t                     Centaurus\r\nDistance (light-years)\t      6,500 (cluster)\r\nApparent Mag.\t                      +4.5\r\nRA (J2000)\t                               11h 36m 36s\r\nDEC (J2000)\t                               -63d 02m 00s\r\nApparent Size (arc mins)\t15 (cluster)\r\nRadius (light-years)\t                14 (cluster)\r\nNumber of Stars\t                30 (cluster)\r\nOther Names\t                       Running Chicken Nebula\r\n\r\nIMAGE:\r\nStack:   10 x 900 sec of Ha , O3 and S2\r\nScope:  Q-65, a short refrator with 65mm and f/6.5.\r\nCamera: ST-8300M\r\nFlats, Darks and Bias Applied\r\n\r\nPre-processing and post-processing in PixInsight",
+    "h": 2280,
+    "hash": null,
+    "id": 291818,
+    "imaging_cameras": [
+        "SBIG ST8300M"
+    ],
+    "imaging_telescopes": [
+        "Astro-Tech Astrotech APO 65mm f/6.5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798804/"
+    ],
+    "orientation": "181.312",
+    "pixscale": "2.627",
+    "published": "2017-04-14T19:41:01.430502",
+    "ra": "174.162",
+    "radius": "1.330",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/291818/",
+    "revisions": [],
+    "subjects": [
+        "IC 2872",
+        "IC 2944",
+        "IC 2948",
+        "The star λCen",
+        "lambda Cen nebula"
+    ],
+    "title": "IC 2944 In Wide Field Narrowband Using a Modified HST Palette",
+    "updated": "2021-03-17T21:10:24.487237",
+    "uploaded": "2017-04-14T20:41:02.018903",
+    "url_duckduckgo": "https://www.astrobin.com/291818/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/291818/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/291818/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/291818/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/291818/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/291818/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/291818/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2566/2017/767cdf51-939f-4069-8937-3c1e12f81575.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/2566/2017/767cdf51-939f-4069-8937-3c1e12f81575-1582627767.jpg",
+    "url_thumb": "https://www.astrobin.com/291818/0/rawthumb/thumb/",
+    "user": "nandopg",
+    "views": 238,
+    "w": 2844
+}

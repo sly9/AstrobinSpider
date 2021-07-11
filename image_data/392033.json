@@ -1,0 +1,70 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 32,
+    "data_source": "OWN_REMOTE",
+    "dec": "4.933",
+    "description": "Encompassing five NGC objects, NGCs 2237, 2238, 2239, 2244, 2246, the Rosette is one of my top 5 favorite objects.  But shooting at 2563mm I was forced to use a four panel mosaic.  The mosaic was stitched using the PS CC automate photomerge command.  Pre-processing was in CCDStack to produce the four panel masters that were finished fully in PS CC.\r\n\r\n221 twenty minute subs for a total of 73.7 hours.  79 Ha, 66 OIII, 76 SII.  I would like to have added more time in some of the panels but the season is coming to a close and roof open time is fleeting this Winter.\r\n\r\nThe color mix is straight SHO.  I may try some alternate mixes down the road.\r\n\r\nEDIT 30.12.2019:  Added new data and re-processed completely.  My goal was to get the noise and quality up so I can do a large print for my home.  For this version SHO master panels were joined in PS and then the Ha channel was used for luminance.",
+    "h": 6519,
+    "hash": null,
+    "id": 392033,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK14"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 269,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806040/"
+    ],
+    "orientation": "159.931",
+    "pixscale": "0.726",
+    "published": "2019-02-21T15:41:41.691596",
+    "ra": "98.015",
+    "radius": "0.981",
+    "remote_source": "SRO",
+    "resource_uri": "/api/v1/image/392033/",
+    "revisions": [
+        "/api/v1/imagerevision/205351/",
+        "/api/v1/imagerevision/205396/",
+        "/api/v1/imagerevision/215229/"
+    ],
+    "subjects": [
+        "12 Mon",
+        "NGC 2239",
+        "NGC 2244",
+        "NGC 2252",
+        "NGC2237",
+        "NGC2238",
+        "NGC2239",
+        "NGC2244",
+        "NGC2246",
+        "NGC2252",
+        "Rosette nebula",
+        "Sh2-275",
+        "The star 12Mon"
+    ],
+    "title": "4 Panel Rosette Mosaic - Caldwell 49",
+    "updated": "2021-03-17T12:01:31.494952",
+    "uploaded": "2019-02-21T15:41:42.199841",
+    "url_duckduckgo": "https://www.astrobin.com/392033/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/392033/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/392033/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/392033/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/392033/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/392033/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/392033/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17450/2019/4497215f-f2a4-45dd-a790-3209f71dd5a2.jpeg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4497215f-f2a4-45dd-a790-3209f71dd5a2-1550764317.jpeg",
+    "url_thumb": "https://www.astrobin.com/392033/0/rawthumb/thumb/",
+    "user": "morefield",
+    "views": 966,
+    "w": 7276
+}

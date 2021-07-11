@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "NGC 2932 - The Eskimo Nebula somwtimes called also Clown Nebula). Its angular size is around 45 '' (arc sec) and brightness is 9,1 mag.\r\n\r\nSurrounds the star HD 59088 with 10,5 mag brigthness (surface temperature 40000 K, spectral type O8e). A small difference in the brightness of the star and the nebula makes it difficult to collect material and later with post-processing. Simply - star is overbright the nebula :)\r\n\r\nLRGB composition - Baader filter.\r\nNewton 250/1250 + ASI 178 MM-C. Scale 0,41 arcsec / pixel\r\n\r\nExposure:\r\n\r\nL - 500 x 800ms (gain 75%)\r\n\r\nRGB-100 x 1,5 s per channel (gain 75 %)\r\n\r\nTwo photos - crop for nebula and full frame (I cut only amp glow)",
+    "h": 940,
+    "hash": null,
+    "id": 330038,
+    "imaging_cameras": [
+        "ZWO ASI 178-Cool (mono)"
+    ],
+    "imaging_telescopes": [
+        "Sky Watcher 250/1200 Newtonian Sky Watcher 250/1200 "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 149,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-01-19T22:10:10.470529",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/330038/",
+    "revisions": [
+        "/api/v1/imagerevision/135149/"
+    ],
+    "subjects": [],
+    "title": "NGC 2392 - Eskimo Nebula",
+    "updated": "2021-03-24T15:26:56.655658",
+    "uploaded": "2018-01-19T22:06:49.305953",
+    "url_duckduckgo": "https://www.astrobin.com/330038/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/330038/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/330038/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/330038/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/330038/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/330038/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/330038/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/330038/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 848,
+    "w": 1436
+}

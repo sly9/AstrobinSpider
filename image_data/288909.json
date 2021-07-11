@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 50,
+    "comments": 23,
+    "data_source": "UNSET",
+    "dec": "75.175",
+    "description": "",
+    "h": 1382,
+    "hash": null,
+    "id": 288909,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 352,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "-152.662",
+    "pixscale": "1.267",
+    "published": "2017-03-28T15:05:08.304189",
+    "ra": "338.435",
+    "radius": "1.003",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/288909/",
+    "revisions": [
+        "/api/v1/imagerevision/248002/"
+    ],
+    "subjects": [],
+    "title": "LDN 1250",
+    "updated": "2021-07-06T07:22:06.437025",
+    "uploaded": "2017-03-28T16:05:10.053314",
+    "url_duckduckgo": "https://www.astrobin.com/288909/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/288909/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/288909/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/288909/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/288909/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/288909/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/288909/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/7264554f-a9d3-4dec-9268-ce441c9129af.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7264554f-a9d3-4dec-9268-ce441c9129af-1490713616.png",
+    "url_thumb": "https://www.astrobin.com/288909/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1810,
+    "w": 1824
+}

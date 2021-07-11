@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 20,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-42.300",
+    "description": "The Grus Triplet: NGC 7582, 7590 and 7599 (& background galaxies)\r\n\r\nOTA:                     RCOS  (12.5” f/8) \r\nCamera:              SBIG STXL11002\r\nObservatory:      Heaven’s Mirror, Au\r\n\r\nEXPOSURES:\r\n        Red:         9  x 1200”\r\n        Blue:        11 x 1200\r\n        Green:     13 x 1200\r\n        Lum:        44 x 1200\r\n\r\nTotal exposure       ~26      hours\r\nImage Width:         ~1/2     deg\r\nProcessed by Alex Woronow (2020) using PixInsight, Skylum, Topaz, SWT\r\n\r\nThis galaxy triplet lies in the southern constellation of Grus and the three spiral galaxies (NGC 7582, 7590, 7599) exhibit telltale signs of gravitational interactions, such as the distortions of the upper two galaxies distending them toward the lower, NGC 7582 galaxy. Numerous other galaxies occur in this field-of-view. Often they are easily distinguished from the stars by their extended fuzzy halos or oblong shapes. The background galaxies lie at a much greater distance than the triad, which is about 60M light-years away.\r\n\r\nFor the record, there’s a fourth member to this “Quartet”: NGC 7552. It lies about 1/2 deg toward the SW, out of this field-of-view.",
+    "h": 1920,
+    "hash": "6fk0nw",
+    "id": 450661,
+    "imaging_cameras": [
+        "SBIG STXL 11002M"
+    ],
+    "imaging_telescopes": [
+        "RCOS 12.5 AU"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 132,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "330.593",
+    "pixscale": "0.844",
+    "published": "2020-01-22T14:24:16.185235",
+    "ra": "349.680",
+    "radius": "0.361",
+    "remote_source": "HMO",
+    "resource_uri": "/api/v1/image/450661/",
+    "revisions": [
+        "/api/v1/imagerevision/208641/"
+    ],
+    "subjects": [
+        "IC 5308",
+        "IC5308",
+        "NGC 7582",
+        "NGC 7590",
+        "NGC 7599",
+        "NGC7582",
+        "NGC7590",
+        "NGC7599"
+    ],
+    "title": "The Grus Triplet: NGC 7582, 7590 and 7599 (& background galaxies)",
+    "updated": "2021-03-17T05:27:41.037049",
+    "uploaded": "2020-01-22T14:24:16.339445",
+    "url_duckduckgo": "https://www.astrobin.com/6fk0nw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/6fk0nw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/6fk0nw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/6fk0nw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/6fk0nw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/6fk0nw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/6fk0nw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32963/2020/4ba2daa2-7f96-41e5-8662-b2df809f6bcb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32963/2020/4ba2daa2-7f96-41e5-8662-b2df809f6bcb-1582276112.jpg",
+    "url_thumb": "https://www.astrobin.com/6fk0nw/0/rawthumb/thumb/",
+    "user": "Alex_Woronow",
+    "views": 656,
+    "w": 2404
+}

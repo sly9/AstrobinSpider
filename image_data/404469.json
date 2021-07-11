@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 40,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Everything came together for one of those special nights over the weekend: the skies were clearer than they had been for some time, seeing was generally good (especially so at the beginning of the session, the data from which you see here) ... and I didn't have to work the next day, so could stay up most of the night.  :)\r\n\r\nIn total I have nearly an hour's worth (100Gb) of data from that session to process, hoping this may result in a nice animation (edit: the resulting animation <a href='https://www.astrobin.com/404807/'>can be seen here</a>). The seeing did decrease slightly mid-session but the bigger concern I have is that, as I was getting ready to pack up, I noticed a thin layer of dew on the corrector. \r\n\r\nThis has never happened to me before in Singapore - the temperature was likely no lower than 27 deg C! It was extremely humid though, as evidenced by the sweat running down my arms.\r\n\r\nAnyway, one good image at least so, no matter what happens with the rest of the data, it was all worth it.\r\n\r\nThis image represents 8 x 90s captures, de-rotated in WinJUPOS. In addition to the good imaging conditions, I had a minor epiphany regarding the implications of WinJUPOS de-rotation (based on some advice from Darryl Milika, AKA \"Kokatha man\" on Cloudy Nights).\r\n\r\nI have revised my sharpening settings prior to WinJUPOS processing accordingly and feel this gives a crisper image without looking over-sharpened (albeit at the expense of a bit more noise).\r\n\r\nBut I've been looking at this data for hours now, so I need some external opinions. Comments & criticism very much welcomed!\r\n\r\nDo also let me know which colour treatment you prefer ... I'm leaning towards Rev A as it brings out the blue in the polar regions better.",
+    "h": 474,
+    "hash": null,
+    "id": 404469,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": false,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 215,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-05-06T15:35:09.134800",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404469/",
+    "revisions": [
+        "/api/v1/imagerevision/178755/",
+        "/api/v1/imagerevision/178833/"
+    ],
+    "subjects": [],
+    "title": "Jupiter: 2019-05-05 (UT 19:10 2019-05-04)",
+    "updated": "2021-03-17T11:03:36.985743",
+    "uploaded": "2019-05-06T16:00:09.241834",
+    "url_duckduckgo": "https://www.astrobin.com/404469/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404469/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404469/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404469/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404469/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404469/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404469/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/404469/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 1702,
+    "w": 474
+}

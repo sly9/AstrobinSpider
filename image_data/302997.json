@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 22,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "41.137",
+    "description": "Mix of Lum from smaller pixel QHY178M with R,G,B,Ha  from ASI1600M using ZWO EFW Mini on Hyperstar running unguided on a Paramount MX+ mount.\r\n\r\n119 Lum (QHY178M) 45sec\r\n45 lum (QHY178M) 5sec\r\n\r\n171 Red (ASI1600M) 45sec\r\n146 Green (ASI1600M) 45sec\r\n181 Blue (ASI1600M) 45sec\r\n203 Ha (ASI1600M) 90sec \r\n\r\n13.85 Hours total",
+    "h": 2000,
+    "hash": null,
+    "id": 302997,
+    "imaging_cameras": [
+        "ASI 1600MM-C",
+        "QHYCCD QHY178MM"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 Edge+Hyperstar"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 222,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.294",
+    "pixscale": "0.722",
+    "published": "2017-07-11T23:27:04.470925",
+    "ra": "192.731",
+    "radius": "0.353",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/302997/",
+    "revisions": [
+        "/api/v1/imagerevision/120316/"
+    ],
+    "subjects": [
+        "M 94",
+        "NGC 4736"
+    ],
+    "title": "M94",
+    "updated": "2021-04-15T13:11:26.031815",
+    "uploaded": "2017-07-12T00:27:05.132570",
+    "url_duckduckgo": "https://www.astrobin.com/302997/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/302997/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/302997/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/302997/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/302997/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/302997/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/302997/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/17923/2017/aced92a6-4de4-4eff-9682-56cd6c1b1a8d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/17923/2017/aced92a6-4de4-4eff-9682-56cd6c1b1a8d-1582516186.jpg",
+    "url_thumb": "https://www.astrobin.com/302997/0/rawthumb/thumb/",
+    "user": "Mark_Holbrook",
+    "views": 2134,
+    "w": 2904
+}

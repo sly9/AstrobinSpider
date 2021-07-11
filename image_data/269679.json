@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "33.026",
+    "description": "",
+    "h": 714,
+    "hash": null,
+    "id": 269679,
+    "imaging_cameras": [
+        "QHYCCD qhy23"
+    ],
+    "imaging_telescopes": [
+        "Meade 10\" ACF"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 288,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801693/"
+    ],
+    "orientation": "272.718",
+    "pixscale": "0.552",
+    "published": "2016-10-28T16:37:33.091153",
+    "ra": "283.390",
+    "radius": "0.088",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269679/",
+    "revisions": [
+        "/api/v1/imagerevision/236888/"
+    ],
+    "subjects": [
+        "IC 1296",
+        "M 57",
+        "NGC 6720",
+        "Ring nebula in Lyra"
+    ],
+    "title": "M57",
+    "updated": "2021-05-26T14:59:57.979857",
+    "uploaded": "2016-10-28T17:37:33.091153",
+    "url_duckduckgo": "https://www.astrobin.com/269679/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269679/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269679/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269679/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269679/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269679/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269679/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/6149/2017/af2d51c6-fc17-4299-94af-d878a8b2d963.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/6149/2017/af2d51c6-fc17-4299-94af-d878a8b2d963-1582522593.png",
+    "url_thumb": "https://www.astrobin.com/269679/0/rawthumb/thumb/",
+    "user": "StarDiver",
+    "views": 1439,
+    "w": 904
+}

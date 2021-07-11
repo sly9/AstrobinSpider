@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 20,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "-63.418",
+    "description": "Acquired on a night of unusually good seeing, as evidenced by a \"perfect\" guiding (RMS error < 0.4\") and perfectly shaped V-curves during focusing.",
+    "h": 1820,
+    "hash": null,
+    "id": 395745,
+    "imaging_cameras": [
+        "Apogee Alta U8300"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics 167 FLZ"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 168,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798431/"
+    ],
+    "orientation": "40.463",
+    "pixscale": "0.886",
+    "published": "2019-03-15T12:55:43.118217",
+    "ra": "174.665",
+    "radius": "0.373",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/395745/",
+    "revisions": [],
+    "subjects": [
+        "IC 2948",
+        "lambda Cen nebula"
+    ],
+    "title": "Globules in IC2944",
+    "updated": "2021-03-17T11:44:35.267642",
+    "uploaded": "2019-03-15T12:55:43.284687",
+    "url_duckduckgo": "https://www.astrobin.com/395745/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/395745/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/395745/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/395745/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/395745/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/395745/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/395745/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/1778/2019/d89aec10-3479-490f-90b3-a98493464edf.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/1778/2019/d89aec10-3479-490f-90b3-a98493464edf-1582509787.JPG",
+    "url_thumb": "https://www.astrobin.com/395745/0/rawthumb/thumb/",
+    "user": "ignacio_db",
+    "views": 558,
+    "w": 2427
+}

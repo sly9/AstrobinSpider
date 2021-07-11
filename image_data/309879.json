@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "58.416",
+    "description": "Ha LRGB presentation.\r\nHa:20x1200 secs\r\nOIII: 9x1200 secs\r\nRGB: 6x600 each channel",
+    "h": 1434,
+    "hash": null,
+    "id": 309879,
+    "imaging_cameras": [
+        "ATIK ONE 9 M"
+    ],
+    "imaging_telescopes": [
+        "Takahashi  FS 128"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 57,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802301/",
+        "/api/v1/location/2806541/"
+    ],
+    "orientation": "0.839",
+    "pixscale": "1.129",
+    "published": "2017-08-29T15:00:49.040334",
+    "ra": "22.612",
+    "radius": "0.386",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/309879/",
+    "revisions": [
+        "/api/v1/imagerevision/123924/"
+    ],
+    "subjects": [],
+    "title": "Sh2-188 Dolphin Nebula bicolor",
+    "updated": "2021-03-17T20:00:34.787270",
+    "uploaded": "2017-08-29T16:00:50.006002",
+    "url_duckduckgo": "https://www.astrobin.com/309879/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/309879/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/309879/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/309879/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/309879/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/309879/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/309879/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7649/2017/89e895a1-ec31-4447-b74c-9e64f2b371a4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/7649/2017/89e895a1-ec31-4447-b74c-9e64f2b371a4-1582512538.png",
+    "url_thumb": "https://www.astrobin.com/309879/0/rawthumb/thumb/",
+    "user": "wessel",
+    "views": 258,
+    "w": 2000
+}

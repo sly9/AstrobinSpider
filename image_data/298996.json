@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "68.480",
+    "description": "There is a lot of stardust floating around in our galaxy. It is not all concentrated in the star generating nebulae like Orion. \"Integrated Flux Nebula\" (IFN) is the name given to these random dust clouds. IFN are reflection nebulae that are not associated with specific individual stars or star clusters, rather they reflect the total combined light (integrated flux) of all the stars in the Milky Way. IFN is most detectable at \"high-latitudes\" looking away from the galactic center. There is actually more IFN toward the center of the galaxy, but it is so dense in that direction that IFN is not imaged as wisps. Rather in that direction IFN just makes everything look redder.\r\n\r\nThis my first attempt at taking the IFN near M81 and M82. It took me several attempts to find the right exposure. For my equipment and sky, I had to use 8m @ f/2 ISO400, which is a lot more than I expected. I spent 5 nights experimenting on this, and I still don't have enough integration time at 8' exposures, but I've given up for this year, and printed what I have. Maybe next year I can add more exposure to this set of subframes.",
+    "h": 1026,
+    "hash": null,
+    "id": 298996,
+    "imaging_cameras": [
+        "Canon EOS 60Da"
+    ],
+    "imaging_telescopes": [
+        "Rokinon 135mm f/2"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806187/"
+    ],
+    "orientation": "-89.179",
+    "pixscale": "16.171",
+    "published": "2017-06-09T23:54:24.351363",
+    "ra": "147.299",
+    "radius": "4.948",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298996/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "The star 22UMa",
+        "The star 24UMa",
+        "The star 27UMa"
+    ],
+    "title": "M81 Bode's and M82 Cigar Galaxies in the IFN",
+    "updated": "2021-03-17T20:42:51.249375",
+    "uploaded": "2017-06-10T00:00:08.659880",
+    "url_duckduckgo": "https://www.astrobin.com/298996/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298996/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298996/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298996/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298996/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298996/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298996/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/524ef8c5-41ea-4d19-86b1-d23d45a955eb.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/524ef8c5-41ea-4d19-86b1-d23d45a955eb-1497051978.JPG",
+    "url_thumb": "https://www.astrobin.com/298996/0/rawthumb/thumb/",
+    "user": "AMultiverse",
+    "views": 116,
+    "w": 1824
+}

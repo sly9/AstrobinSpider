@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 9,
+    "data_source": "UNSET",
+    "dec": "19.016",
+    "description": "",
+    "h": 2000,
+    "hash": null,
+    "id": 326451,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 153,
+    "link": "http://astro.ioda.by/en/ngc-772#full",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804384/"
+    ],
+    "orientation": "359.961",
+    "pixscale": "0.633",
+    "published": "2017-12-20T17:35:05.312299",
+    "ra": "29.836",
+    "radius": "0.249",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/326451/",
+    "revisions": [],
+    "subjects": [
+        "NGC 770",
+        "NGC 772"
+    ],
+    "title": "NGC772",
+    "updated": "2021-05-23T22:01:23.939798",
+    "uploaded": "2017-12-20T17:35:06.504641",
+    "url_duckduckgo": "https://www.astrobin.com/326451/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/326451/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/326451/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/326451/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/326451/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/326451/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/326451/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14911/2017/6d120b81-77bc-40d0-83b2-51afb39e519b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14911/2017/6d120b81-77bc-40d0-83b2-51afb39e519b-1582587134.jpg",
+    "url_thumb": "https://www.astrobin.com/326451/0/rawthumb/thumb/",
+    "user": "Ioda",
+    "views": 360,
+    "w": 2000
+}

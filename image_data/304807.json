@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 13,
+    "data_source": "TRAVELLER",
+    "dec": "-13.804",
+    "description": "M16 Eagle nebula, legendary Pillars of Creation. Oh hell yeah. This one was unplanned and very very pleasent as a result of few factors. For starters- I still don't have astrodark back, so I imaged during civil and nautical dark. Another thing- this target goes up to whopping 21 degrees altitude! I imaged it betweed 16 and 21 degrees, so details are nowhere near what could be possible to get if it were at proper altitude. In any case, I really really enjoyed imaging and processing it, I still plan to get SII data (I currently have 3x300), hopefully weather will cooperate :) My star masks got better since my last image, but nowhere near perfect and I still struggle with them, but hopefully I can find a way to get those pesky little stars that tend to avoid me.\r\n\r\nDates: 2017-07-18, 2017-07-19, 2017-07-20, 2017-07-22\r\n\r\nProcessing details:\r\n1. Ha Deconvolution- https://youtu.be/gneDnQVEj6U?t=52\r\n2. Ha NR using MMT https://youtu.be/gneDnQVEj6U?t=173\r\n3. Ha Histogram transformation https://youtu.be/gneDnQVEj6U?t=221\r\n4. Ha HDRMT https://youtu.be/gneDnQVEj6U?t=235\r\n5. Ha LHE https://youtu.be/gneDnQVEj6U?t=264\r\n6. Ha Morphological transformation https://youtu.be/gneDnQVEj6U?t=285\r\n7. OIII NR using MMT https://youtu.be/gneDnQVEj6U?t=327\r\n8. OIII Histogram transformation https://youtu.be/gneDnQVEj6U?t=365\r\n9. OIII HDRMT https://youtu.be/gneDnQVEj6U?t=374\r\n10. OIII LHE https://youtu.be/gneDnQVEj6U?t=386\r\n11. OIII Creating starless version https://youtu.be/gneDnQVEj6U?t=400\r\n12. Combination to bicolor https://youtu.be/gneDnQVEj6U?t=526\r\n13. LRGBCombination https://youtu.be/gneDnQVEj6U?t=619\r\n14. Curves Transformation https://youtu.be/gneDnQVEj6U?t=637\r\n15. ACDNR https://youtu.be/gneDnQVEj6U?t=686\r\n16. More Curves https://youtu.be/gneDnQVEj6U?t=707\r\n17. Sharpness with MLT https://youtu.be/gneDnQVEj6U?t=739\r\n18. Color Saturation https://youtu.be/gneDnQVEj6U?t=783",
+    "h": 1449,
+    "hash": null,
+    "id": 304807,
+    "imaging_cameras": [
+        "Starlight Xpress SX694"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Explorer PDS 130/650 f/5"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 133,
+    "link": "http://arturas.space/images/image/5978c112452bee3b5f882874",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "345.871",
+    "pixscale": "1.433",
+    "published": "2017-07-26T19:25:05.057976",
+    "ra": "274.732",
+    "radius": "0.680",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/304807/",
+    "revisions": [
+        "/api/v1/imagerevision/138515/"
+    ],
+    "subjects": [
+        "Eagle nebula",
+        "M 16",
+        "NGC 6611"
+    ],
+    "title": "M16 Eagle Nebula",
+    "updated": "2021-06-13T09:08:06.413668",
+    "uploaded": "2017-07-26T20:25:05.795174",
+    "url_duckduckgo": "https://www.astrobin.com/304807/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/304807/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/304807/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/304807/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/304807/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/304807/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/304807/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/12133/2017/b381ddb1-b248-42a9-b31d-2c032497da2d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/b381ddb1-b248-42a9-b31d-2c032497da2d-1501097323.png",
+    "url_thumb": "https://www.astrobin.com/304807/0/rawthumb/thumb/",
+    "user": "burscikas",
+    "views": 599,
+    "w": 1824
+}

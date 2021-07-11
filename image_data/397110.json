@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 43,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "3.452",
+    "description": "The image presented spans about 30 arc minutes side to side.  To give some perspective or scale to the image, it would take light 600,000 years to travel across the space shown in the photo at the group's estimated distance of 70 million light-years.  The three galaxies presented are embedded within an extended ring of neutral hydrogen, with its centre on NGC 3169 (left).  In time, these galaxies will merge to form a single galaxy.\r\n\r\nAs these galaxies begin to merge, we can see signs that they are starting to be pulled apart. The faint wisps surrounding NGC 3169 are its outer spiral arms being pulled off, and lots of luminous gas has been drawn out from its disk. This gravitational tug of war has also fragmented the dust lanes in its companion NGC 3166. \r\n\r\nNGC 3169 (left) is an unbarred spiral galaxy.  Its arms are worth a second look as they are extremely tightly wound about its core, and the effects of gravity pulling then outwards have resulted in an unusual look.  In addition, this interaction has helped to create a crazily extended halo of sorts.  Several hydrogen-rich areas can be identified by their reddish colouration.  It is believed that a burst of star formation took place in its nucleus roughly one billion years ago.\r\n\r\nAn interesting note is that supernova (SN) activity has been captured two times in NGC 3169 fairly recently.  There are two types of SN: Type I and Type II. Type I does not show hydrogen in the spectra, whereas, Type II supernovae do show hydrogen in their spectra. Type II, occur as explosions of massive stars (more than 8 times the mass of our Sun).  In 1984, a Type II-L SN 1984E was discovered in NGC 3169 (left), and in 2003, a second SN, designated SN 2003cg, was discovered; a Type 1a SN.\r\n\r\nThe second of the larger galaxies NGC 3166 (centre) is estimated to be around 160,000 lightyears from NGC 3169.  It has a very small, and very bright nucleus within a short smooth bar (0.5' x 0.14').  Several dark vanes can be is seen running outwards from the core.  The close proximity of the two larger galaxies is creating a gravitational distortion that has warped the disk of 3166.\r\n\r\nNGC 3165 is a small and dim Spiral Galaxy that is also a member of the group. \r\n\r\nFrame Size:\t29.9 x 20 arcmin\r\nRadius:\t0.300 deg\r\n\r\n\r\n\r\nExposure Details:\r\n\r\nLum 69 X 900  Bin 1\r\nRed 16 X 450 Bin 2\r\nGreen 16 X 450 Bin 2\r\nBlue 24 X 450  Bin 2\r\nHa 13 X 1800 Bin 1   \r\nTotal time  30.75 hours \r\n\r\nInstruments Used:\r\n10 Inch RCOS fl 9.1\r\nAstro Physics AP-900 Mount\r\nSBIG STL 11000m\r\nFLI Filter Wheel\r\nAstrodon Lum, Red, Green, Blue Filters\r\nBaader Planetarium H-alpha 7nm Narrowband-Filter\r\n\r\nSoftware Used\r\n\r\nCCDStack (calibration, alignment, data rejection, stacking)\r\nPhotoshop CS 6 (Image processing)\r\n\r\nThanks for looking",
+    "h": 1491,
+    "hash": null,
+    "id": 397110,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 10\" Ritchey-Chrétien"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 297,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "54.844",
+    "pixscale": "0.804",
+    "published": "2019-03-24T09:47:36.288507",
+    "ra": "153.509",
+    "radius": "0.300",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/397110/",
+    "revisions": [
+        "/api/v1/imagerevision/217538/"
+    ],
+    "subjects": [
+        "NGC 3165",
+        "NGC 3166",
+        "NGC 3169"
+    ],
+    "title": "Interacting galaxies - NGC 3169, NGC 3166, and NGC 3165",
+    "updated": "2021-05-28T17:02:27.819142",
+    "uploaded": "2019-03-24T09:47:36.468548",
+    "url_duckduckgo": "https://www.astrobin.com/397110/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397110/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397110/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397110/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397110/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397110/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397110/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/44d0a729-3205-4079-b667-b3412309c783.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/44d0a729-3205-4079-b667-b3412309c783-1553421036.jpg",
+    "url_thumb": "https://www.astrobin.com/397110/0/rawthumb/thumb/",
+    "user": "trobison",
+    "views": 1627,
+    "w": 2236
+}

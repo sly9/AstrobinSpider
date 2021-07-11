@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-20.860",
+    "description": "",
+    "h": 1950,
+    "hash": null,
+    "id": 322388,
+    "imaging_cameras": [],
+    "imaging_telescopes": [
+        "Williams Optics FLT 110 Triplet Apo"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 23,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804301/"
+    ],
+    "orientation": "103.411",
+    "pixscale": "1.270",
+    "published": "2017-11-20T05:58:11.123837",
+    "ra": "337.412",
+    "radius": "0.633",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/322388/",
+    "revisions": [
+        "/api/v1/imagerevision/142328/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix Nebula",
+    "updated": "2021-03-17T19:09:27.340995",
+    "uploaded": "2017-11-20T05:58:11.487001",
+    "url_duckduckgo": "https://www.astrobin.com/322388/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/322388/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/322388/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/322388/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/322388/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/322388/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/322388/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14755/2017/2c8f9b60-52ad-442b-bd90-13174f403fc9.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14755/2017/2c8f9b60-52ad-442b-bd90-13174f403fc9-1582531683.png",
+    "url_thumb": "https://www.astrobin.com/322388/0/rawthumb/thumb/",
+    "user": "Lightbeam",
+    "views": 205,
+    "w": 3010
+}

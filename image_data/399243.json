@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "32.330",
+    "description": "Data acquisition under light pollution area with Optolong L-Pro ahead filterwheel L-RGB filters.\r\nBortle scale 7.",
+    "h": 2005,
+    "hash": null,
+    "id": 399243,
+    "imaging_cameras": [
+        "Atik One Mono 6.0"
+    ],
+    "imaging_telescopes": [
+        "Sky watcher Equinox ED 120/900"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 111,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808537/"
+    ],
+    "orientation": "358.828",
+    "pixscale": "1.038",
+    "published": "2019-04-04T07:27:37.267673",
+    "ra": "190.759",
+    "radius": "0.466",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/399243/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC 4656",
+        "NGC 4657"
+    ],
+    "title": "Ngc4631 / Ngc4656",
+    "updated": "2021-03-17T11:28:24.354641",
+    "uploaded": "2019-04-04T08:27:37.431463",
+    "url_duckduckgo": "https://www.astrobin.com/399243/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/399243/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/399243/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/399243/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/399243/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/399243/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/399243/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/523/2020/238e83cd-c84c-460f-bfdd-99cb63bab424.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/523/2020/238e83cd-c84c-460f-bfdd-99cb63bab424-1582594306.jpg",
+    "url_thumb": "https://www.astrobin.com/399243/0/rawthumb/thumb/",
+    "user": "RegisLeBihan",
+    "views": 534,
+    "w": 2535
+}

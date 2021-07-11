@@ -1,0 +1,67 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 5,
+    "data_source": "TRAVELLER",
+    "dec": "24.400",
+    "description": "On Dec 24th I got a special Xmas present, the sky went clear and I was able to try my new Eos77d. The cam has very little noise, bias approximately match the darks (but without hotpixels), and noise generally is low. Banding is much less than even with Eos6d. Canon finally has made a modern APS-C with tiny pixels, hooray! \r\nThe flats however were overcorrecting the lights, and I had to add an offset of 0.0234 to the BPP master flat to work normally (PixInsight processing). No idea yet what causes this, but the result... is pleasing.\r\n\r\nEos77d at Iso400, 54x3min subframes, Takahashi Epsilon 130D. AZ-EQ6 guided abd dithered by Lacerta MGEN.\r\n\r\nProvided is a crop on the so unequal brothers, but you may like the full field too ;-)\r\nTry the annotated version for object identification.\r\n\r\nThe little problem with flats is already solved. I am used to make flats at lowest Iso, but the Eos77d adds a different offset at Iso 100 and 200, compared to iso400, 800, 1600. \r\nI took a series of flats at same light flux, 1/160 sec at Iso100, 1/320 at Iso200, 1/640 at Iso400, 1/1250 at Iso800 and 1/2500 at Iso1600. The flats should have approx the same absolute brightness, but they do not. Here the median values measued in PI/Statistics\r\n\r\nIso100 0.05451\r\nIso200 0.05441\r\nIso400 0.07817\r\nIso800 0.07938\r\nIso1600 0.07973\r\n\r\nThere are two groups of median brightnesses, Iso100 and 200, and Iso400, 800, 1600. My empirical found difference 0.0234 is pretty close. 8)\r\n\r\nSo, with Eos77d always make your flats at least in the same offset (Bias) category!",
+    "h": 2637,
+    "hash": null,
+    "id": 327487,
+    "imaging_cameras": [
+        "Canon Eos77d"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799779/"
+    ],
+    "orientation": "359.411",
+    "pixscale": "2.687",
+    "published": "2017-12-28T22:53:38.574335",
+    "ra": "92.378",
+    "radius": "1.776",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/327487/",
+    "revisions": [
+        "/api/v1/imagerevision/133450/",
+        "/api/v1/imagerevision/133451/"
+    ],
+    "subjects": [
+        "2 Gem",
+        "5 Gem",
+        "IC 2157",
+        "IC2156",
+        "IC2157",
+        "M 35",
+        "M35",
+        "NGC 2158",
+        "NGC 2168",
+        "NGC2158",
+        "The star 5Gem"
+    ],
+    "title": "M35 and NGC2158 two brothers in the twins",
+    "updated": "2021-04-11T13:02:38.069661",
+    "uploaded": "2017-12-28T22:53:39.219591",
+    "url_duckduckgo": "https://www.astrobin.com/327487/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/327487/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/327487/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/327487/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/327487/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/327487/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/327487/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5220/2020/e89fd95a-c6f2-4832-85de-b33a7df3c93e.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5220/2020/e89fd95a-c6f2-4832-85de-b33a7df3c93e-1582612016.png",
+    "url_thumb": "https://www.astrobin.com/327487/0/rawthumb/thumb/",
+    "user": "tommy_nawratil",
+    "views": 1193,
+    "w": 3964
+}

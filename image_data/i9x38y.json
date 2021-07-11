@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 6,
+    "data_source": "MIX",
+    "dec": "69.331",
+    "description": "This is another 2 season shooting.\r\n\r\nIt began in the 2018-2019 season with shooting 2 panels with the 200p dobson ota put on the EQ6-R. I shot 8-9h of luminance on each panel from home, but the gradients due to light pollution killed any attempt of revealing the IFN. Nevertheless, I continued a few months later shooting some RGB and Ha data with the smaller 150PDS newton to have a coloured image.\r\nThen, this season I had one night the AstroProfessional 102mm FPL51 equipped refractor with me and I put it to work. This time I was at a dark location and the IFN revealed easily. I was encouraged seeing the dust decently in less than 3h of exposure so 2 and 3 days (nights) ago I took out the scope again to a less dark location, but still decent skies at zenith and I shot about 5 more hours.\r\n\r\nI combined all the refractor data which was intended to be used for the background and all the newtonian luminance for high resolution highlights.\r\nI then combined these trying to mask and hide the big bloated stars from the less than perfect refractor. To these I added colour data from shot with the other newton.\r\nThe process was tedious so some artifacts are still visible. 8h of luminance with a 4\" refractor is also not too much so the IFN is quite noisy.\r\n\r\nPerhaps I won't be visiting these galaxies again until I switch to a larger photon hoover.",
+    "h": 2570,
+    "hash": "i9x38y",
+    "id": 466711,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher 150/750 PDS",
+        "SkyWatcher 200/1200 F6 Newtonian",
+        "AstroProfessional 102ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 143,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "89.492",
+    "pixscale": "1.101",
+    "published": "2020-03-20T12:33:50.714569",
+    "ra": "148.949",
+    "radius": "0.712",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/466711/",
+    "revisions": [
+        "/api/v1/imagerevision/220194/",
+        "/api/v1/imagerevision/220199/"
+    ],
+    "subjects": [
+        "Bode's Galaxy",
+        "Cigar Galaxy",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034"
+    ],
+    "title": "Bode's and Cigar",
+    "updated": "2021-06-25T11:43:11.839078",
+    "uploaded": "2020-03-20T10:19:33.230774",
+    "url_duckduckgo": "https://www.astrobin.com/i9x38y/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i9x38y/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i9x38y/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i9x38y/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i9x38y/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i9x38y/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i9x38y/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20314/2020/f12f8b4e-55c2-448c-9f87-a01d3b483e06.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20314/2020/f12f8b4e-55c2-448c-9f87-a01d3b483e06-1584700034.jpg",
+    "url_thumb": "https://www.astrobin.com/i9x38y/0/rawthumb/thumb/",
+    "user": "alexbb",
+    "views": 1048,
+    "w": 3880
+}

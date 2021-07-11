@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 9,
+    "data_source": "BACKYARD",
+    "dec": "13.584",
+    "description": "",
+    "h": 1418,
+    "hash": null,
+    "id": 405158,
+    "imaging_cameras": [
+        "ZWO Optical ASI174MM",
+        "Moravian G3-11000C"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Quattro 10\" F/4  imaging Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 238,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805670/"
+    ],
+    "orientation": "1.300",
+    "pixscale": "0.963",
+    "published": "2019-05-10T21:06:04.536439",
+    "ra": "170.058",
+    "radius": "0.321",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405158/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3628"
+    ],
+    "title": "Hamburger galaxy",
+    "updated": "2021-03-17T11:00:21.182784",
+    "uploaded": "2019-05-10T21:57:07.710784",
+    "url_duckduckgo": "https://www.astrobin.com/405158/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405158/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405158/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405158/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405158/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405158/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405158/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7698e91a-6cc5-40c5-bbc9-31873c6c996b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7698e91a-6cc5-40c5-bbc9-31873c6c996b-1557591769.jpg",
+    "url_thumb": "https://www.astrobin.com/405158/0/rawthumb/thumb/",
+    "user": "sky-watcher",
+    "views": 602,
+    "w": 1935
+}

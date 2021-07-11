@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 1,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-45.953",
+    "description": "GUM Nebula-Vela SNR, from Siding Springs Australia using: \r\n<a  href=\" http://support.itelescope.net/support/solutions/articles/231911-telescope-8\"><b> i-telescope T8 </b></a>;\r\n<i><strong>mosaic out of 4 images</strong></i>.\r\nExposure time: H-alpha 127x5 min, OIII 200x5min, total 27.2 hours. \r\n<b>Cooperation: <a href=\"http://www.werbeagentur.org/oldwexi\"> Gerald Wechselberger</a> -  Franz Gruber</b>.\r\n\r\nDataProcessing:  Mostly done by Gerald - only using: <a href =\" http://www.pixinsight.com/\">  PixInsight</a>.\r\n\r\n<B> Objektbeschreibung von Dr. Thomas Schröfl: \r\n\r\nDer Vela SNR im Gum Nebel.\r\n\r\nVor ungefähr 11.000 – 12.300 Jahren explodierte im Sternbild Vela in einer Entfernung von etwas mehr als 800 Lichtjahren ein Stern als Typ II Supernova deren seither expandierende Gasschalen den Vela SNR (Supernovae Remnant) bilden. Der Vela Pulsar als Überrest des Ausgangssternes wurde von Astronomen der University of Sydney im Jahr 1968 als erster direkter Beweis eines Neutronensterns als Resultat einer Supernova beobachtet. Der Vela SNR hat einen Durchmesser von rund 100 Lichtjahren. Eines seiner markantesten Details ist der Emissionsnebel NGC 2736, manchmal auch Bleistiftnebel genannt. Der Vela SNR überlappt sich mit jenem von Puppis A, der aber mit rd. 7.000 Lichtjahren Entfernung weit dahinter liegt.\r\nDer Vela SNR und Puppis A sind eingebettet in den riesigen Gum Nebel (Gum12), der sich über nicht weniger als 40 Grad in den Sternbildern Vela und Puppis erstreckt. Der Gum-Nebel hat eine annähernd sphärische Ausdehnung, wobei sich der uns nähergelegene Rand in 450 Lichtjahren Entfernung befindet, während der uns abgewandte Rand 1500 Lichtjahre von uns entfernt ist. Es wird vermutet, daß es sich beim Gum Nebel um einen SNR einer vor über 1 Mio. Jahren abgelaufenen Supernovaexplosion (Vela X?) handelt, deren Gasreste sich noch immer mit 20km/s ausdehnen. Insgesamt gibt es 4 Erklärungsmodelle, da es nicht gesichert ist, ob eine Supernovaexplosion alleine in der Lage ist soviel an UV-Strahlung zu entwickeln um eine so große Gasregion zu ionisieren. </B>\r\n\r\nDiskussion:\r\n\r\n<I> Auffallend ist, daß es viele feine OIII-Strukturen gibt, aber wesentlich weniger davon in H-alpha. Wofür  im Augenblick keine Erklärung verfübar ist : im oberen Bereich ist ein schöner runder OIII-Bogen, der einer sich ausdehnenden Hülle entspricht, im unteren Bereich sind, teilweise sogar vollkreisförmige Schockfronten, die so gar nicht mit „oben“ harmonieren. Hat es da vielleicht noch ein zweites mal gekracht?  H-alpha zeigt viel weniger ausgeprägte Schockfronten und ist über das ganze Bild viel diffuser verteilt. Vermutlich handelt es sich eher um Teile des Gum-Nebels  und nicht um Teile des SNR. </I>",
+    "h": 1860,
+    "hash": null,
+    "id": 350325,
+    "imaging_cameras": [],
+    "imaging_telescopes": [],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "https://www.astrobin.com/353057/?nc=user",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806627/"
+    ],
+    "orientation": "359.388",
+    "pixscale": "7.006",
+    "published": "2018-07-03T19:40:47.596461",
+    "ra": "130.532",
+    "radius": "5.255",
+    "remote_source": "iT",
+    "resource_uri": "/api/v1/image/350325/",
+    "revisions": [
+        "/api/v1/imagerevision/147869/"
+    ],
+    "subjects": [
+        "NGC 2670"
+    ],
+    "title": "GUM Nebula-Vela SNR",
+    "updated": "2021-03-17T15:15:26.943652",
+    "uploaded": "2018-06-07T17:59:23.462091",
+    "url_duckduckgo": "https://www.astrobin.com/350325/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/350325/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/350325/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/350325/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/350325/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/350325/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/350325/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20836/2018/bc7ffb6d-c58a-4c7f-912f-c387cf9ada96.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/bc7ffb6d-c58a-4c7f-912f-c387cf9ada96-1528391066.jpg",
+    "url_thumb": "https://www.astrobin.com/350325/0/rawthumb/thumb/",
+    "user": "franziii",
+    "views": 329,
+    "w": 1824
+}

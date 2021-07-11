@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "55.845",
+    "description": "",
+    "h": 2753,
+    "hash": "biimr9",
+    "id": 438908,
+    "imaging_cameras": [
+        "QSI 6120WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106EDXIII"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 95,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808334/"
+    ],
+    "orientation": "359.966",
+    "pixscale": "1.641",
+    "published": "2019-11-16T00:06:42.341861",
+    "ra": "334.659",
+    "radius": "1.124",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/438908/",
+    "revisions": [],
+    "subjects": [
+        "B369",
+        "RW Cep",
+        "Sh2-132"
+    ],
+    "title": "Sh2-132 - Lion Nebula",
+    "updated": "2021-06-23T00:39:11.011616",
+    "uploaded": "2019-11-15T22:37:52.762896",
+    "url_duckduckgo": "https://www.astrobin.com/biimr9/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/biimr9/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/biimr9/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/biimr9/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/biimr9/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/biimr9/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/biimr9/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/24166/2020/cf319378-552f-47d0-9dd0-e8de4e489ef2.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/24166/2020/cf319378-552f-47d0-9dd0-e8de4e489ef2-1582641591.png",
+    "url_thumb": "https://www.astrobin.com/biimr9/0/rawthumb/thumb/",
+    "user": "mikko.viljamaa@gmail.com",
+    "views": 378,
+    "w": 4090
+}

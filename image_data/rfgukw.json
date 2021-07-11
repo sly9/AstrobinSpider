@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 10,
+    "data_source": "BACKYARD",
+    "dec": "57.519",
+    "description": "",
+    "h": 2030,
+    "hash": "rfgukw",
+    "id": 434052,
+    "imaging_cameras": [
+        "Moravian Instruments Moravian G2-4000"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FS60 CB"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802690/"
+    ],
+    "orientation": "216.519",
+    "pixscale": "5.864",
+    "published": "2019-10-20T10:53:27.000772",
+    "ra": "324.601",
+    "radius": "2.321",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/434052/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC 1396 - Nébuleuse de la trompe d'éléphant - SHO",
+    "updated": "2021-03-17T08:38:57.442749",
+    "uploaded": "2019-10-20T11:53:27.163143",
+    "url_duckduckgo": "https://www.astrobin.com/rfgukw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/rfgukw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/rfgukw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/rfgukw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/rfgukw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/rfgukw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/rfgukw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/9305/2019/99168e35-6d67-4227-af69-946739fc2324.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/9305/2019/99168e35-6d67-4227-af69-946739fc2324-1582511589.jpg",
+    "url_thumb": "https://www.astrobin.com/rfgukw/0/rawthumb/thumb/",
+    "user": "sebastien",
+    "views": 194,
+    "w": 2000
+}

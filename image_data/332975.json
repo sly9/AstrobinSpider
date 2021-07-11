@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "57.530",
+    "description": "",
+    "h": 2648,
+    "hash": null,
+    "id": 332975,
+    "imaging_cameras": [
+        "Moravian Instruments G2 8300",
+        "Moravian Instrument G3 11000"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD100F3.8",
+        "TEC 140 TEC140"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808260/"
+    ],
+    "orientation": "269.454",
+    "pixscale": "2.446",
+    "published": "2018-02-10T12:41:21.111598",
+    "ra": "324.523",
+    "radius": "1.609",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/332975/",
+    "revisions": [],
+    "subjects": [
+        "IC 1396",
+        "The star Garnet Star (μCep)"
+    ],
+    "title": "IC1396 hst",
+    "updated": "2021-03-17T16:34:06.588301",
+    "uploaded": "2018-02-10T12:41:21.562212",
+    "url_duckduckgo": "https://www.astrobin.com/332975/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/332975/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/332975/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/332975/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/332975/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/332975/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/332975/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22318/2018/860f6c75-1ed0-4ee1-9ac3-068c553bbc79.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22318/2018/860f6c75-1ed0-4ee1-9ac3-068c553bbc79-1582504084.jpg",
+    "url_thumb": "https://www.astrobin.com/332975/0/rawthumb/thumb/",
+    "user": "Gordon_Wright",
+    "views": 253,
+    "w": 3924
+}

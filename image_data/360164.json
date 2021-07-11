@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "57.599",
+    "description": "",
+    "h": 2484,
+    "hash": null,
+    "id": 360164,
+    "imaging_cameras": [
+        "QSI 683 ws-5"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ 106 ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 46,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802698/"
+    ],
+    "orientation": "290.346",
+    "pixscale": "2.093",
+    "published": "2018-08-07T19:48:45.553989",
+    "ra": "324.067",
+    "radius": "1.203",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/360164/",
+    "revisions": [],
+    "subjects": [
+        "B161",
+        "B365",
+        "IC 1396",
+        "IC1396",
+        "Sh2-131",
+        "VdB142"
+    ],
+    "title": "IC 1396 Elephant's  Trunk H-Alpha",
+    "updated": "2021-03-17T14:32:28.992525",
+    "uploaded": "2018-08-07T20:16:39.420774",
+    "url_duckduckgo": "https://www.astrobin.com/360164/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/360164/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/360164/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/360164/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/360164/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/360164/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/360164/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6674/2018/f638ccbc-c008-4cc6-808f-6ff3c9c7748d.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6674/2018/f638ccbc-c008-4cc6-808f-6ff3c9c7748d-1582602257.png",
+    "url_thumb": "https://www.astrobin.com/360164/0/rawthumb/thumb/",
+    "user": "zwerg",
+    "views": 73,
+    "w": 3310
+}

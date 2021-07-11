@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 9,
+    "comments": 14,
+    "data_source": "UNSET",
+    "dec": "22.001",
+    "description": "The Crab Nebula (catalogue designations M1, NGC 1952, Taurus A) is a supernova remnant and pulsar wind nebula in the constellation of Taurus. The now-current name is due to William Parsons, 3rd Earl of Rosse, who observed the object in 1840 using a 36-inch telescope and produced a drawing that looked somewhat like a crab. Corresponding to a bright supernova recorded by Chinese astronomers in 1054, the nebula was observed later by English astronomer John Bevis in 1731. The nebula was the first astronomical object identified with a historical supernova explosion.\r\n\r\nAt the center of the nebula lies the Crab Pulsar, a neutron star 28–30 kilometres (17–19 mi) across with a spin rate of 30.2 times per second, which emits pulses of radiation from gamma rays to radio waves. At X-ray and gamma ray energies above 30 keV, the Crab Nebula is generally the strongest persistent source in the sky, with measured flux extending to above 10 TeV. The nebula's radiation allows for the detailed studying of celestial bodies that occult it. In the 1950s and 1960s, the Sun's corona was mapped from observations of the Crab Nebula's radio waves passing through it, and in 2003, the thickness of the atmosphere of Saturn's moon Titan was measured as it blocked out X-rays from the nebula.\r\n\r\nIn visible light, the Crab Nebula consists of a broadly oval-shaped mass of filaments, about 6 arcminutes long and 4 arcminutes wide (by comparison, the full moon is 30 arcminutes across) surrounding a diffuse blue central region. In three dimensions, the nebula is thought to be shaped like a prolate spheroid. The filaments are the remnants of the progenitor star's atmosphere, and consist largely of ionised helium and hydrogen, along with carbon, oxygen, nitrogen, iron, neon and sulfur. The filaments' temperatures are typically between 11,000 and 18,000 K (~19,000 to ~32,000 F).\r\n\r\nThe Crab Nebula currently is expanding outward at about 1,500 km/s (930 mi/s). Images taken several years apart reveal the slow expansion of the nebula, and by comparing this angular expansion with its spectroscopically determined expansion velocity, the nebula's distance can be estimated. In 1973, an analysis of many methods used to compute the distance to the nebula had reached a conclusion of about 1.9 kpc (6,300 ly), consistent with the currently cited value.--Wiki",
+    "h": 2405,
+    "hash": null,
+    "id": 275215,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "GSO 10\" carbon truss RC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 154,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799970/"
+    ],
+    "orientation": "182.968",
+    "pixscale": "0.558",
+    "published": "2016-12-06T22:21:47.809369",
+    "ra": "83.620",
+    "radius": "0.309",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/275215/",
+    "revisions": [
+        "/api/v1/imagerevision/105576/"
+    ],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "NGC 1952"
+    ],
+    "title": "Messier 1, Crab Nebula",
+    "updated": "2021-03-17T22:18:50.847611",
+    "uploaded": "2016-12-06T22:21:48.258398",
+    "url_duckduckgo": "https://www.astrobin.com/275215/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/275215/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/275215/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/275215/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/275215/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/275215/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/275215/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1070/2016/f5125571-ba5e-47be-b904-c8472987ccc1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1070/2016/f5125571-ba5e-47be-b904-c8472987ccc1-1582585553.jpg",
+    "url_thumb": "https://www.astrobin.com/275215/0/rawthumb/thumb/",
+    "user": "rflinn68",
+    "views": 846,
+    "w": 3184
+}

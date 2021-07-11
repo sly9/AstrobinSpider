@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "22.021",
+    "description": "Finally got a nice image of the Crab. Its one of those objects that benefits from good seeing, and this was the night. Wish I had had more time to collect about double this data to bring out the edges of the nebula better, but my sky view is a bit too narrow and I was busy with a few other objects that I wanted to get in at a half arc second per pixel image scale. Its taken through an IDAS light pollution filter that passes plenty of blue, but excludes the 450nm blue peak from LED lighting. This helped bring out the pale blue color of the central part of the nebula. I like the little pockets of interstellar dust silhouetted against the nebula. A truly fascinating object. The pulsar is the right star in the bright double star at the center of the nebula.",
+    "h": 1943,
+    "hash": null,
+    "id": 390306,
+    "imaging_cameras": [
+        "ZWO ASI294MC PRO ASI294MC PRO"
+    ],
+    "imaging_telescopes": [
+        "Orion Skyquest xx16g Skyquest xx16g"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 18,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808760/"
+    ],
+    "orientation": "20.294",
+    "pixscale": "0.499",
+    "published": "2019-02-11T05:47:37.892433",
+    "ra": "83.633",
+    "radius": "0.236",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/390306/",
+    "revisions": [],
+    "subjects": [
+        "Crab nebula",
+        "M 1",
+        "M1",
+        "NGC 1952",
+        "PGC1660066",
+        "Sh2-244"
+    ],
+    "title": "M1 Crab Nebula on a Good Seeing night",
+    "updated": "2021-06-30T07:09:05.200921",
+    "uploaded": "2019-02-11T05:47:38.337328",
+    "url_duckduckgo": "https://www.astrobin.com/390306/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/390306/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/390306/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/390306/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/390306/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/390306/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/390306/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3a425690-f01d-472a-becd-90fee84cb599.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/3a425690-f01d-472a-becd-90fee84cb599-1549864696.png",
+    "url_thumb": "https://www.astrobin.com/390306/0/rawthumb/thumb/",
+    "user": "lowenthalm",
+    "views": 308,
+    "w": 2796
+}

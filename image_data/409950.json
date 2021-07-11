@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "3.960",
+    "description": "The galaxies NGC5566, NGC5569, and NGC5560 form a triplet known as Arp286. This triplet is an extension of the Virgo cluster. The redshift of the 2 smaller galaxies are almost identical , thus very probably at the same distance of 78 millions light years. \r\n\r\nRed 20subs@180s -20°C gain zero\r\nBlue 20subs@180s -20°C gain zero\r\nGreen 20subs@180s -20°C gain zero\r\nLight subs@180s -20°C, gain zero\r\n\r\n4 nights were necessary to get the subs: 25/26 , 26/27, 31/01, and 02 of June\r\n\r\nDon't hesitate too look at the full field :-)",
+    "h": 3444,
+    "hash": null,
+    "id": 409950,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA 250/1000 F4 LACERTA NEWTON"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 142,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "359.438",
+    "pixscale": "0.783",
+    "published": "2019-06-11T19:09:20.844496",
+    "ra": "215.055",
+    "radius": "0.624",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/409950/",
+    "revisions": [
+        "/api/v1/imagerevision/182431/"
+    ],
+    "subjects": [
+        "NGC 5560",
+        "NGC 5566",
+        "NGC 5569",
+        "NGC5560",
+        "NGC5566",
+        "NGC5569"
+    ],
+    "title": "ARP286 - Virgo trio - NGC5566 5569 and 5560",
+    "updated": "2021-06-04T18:07:07.474951",
+    "uploaded": "2019-06-11T19:26:19.145693",
+    "url_duckduckgo": "https://www.astrobin.com/409950/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/409950/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/409950/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/409950/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/409950/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/409950/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/409950/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/1d994d08-522e-4df4-b18f-c40cf07db1c6.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/1d994d08-522e-4df4-b18f-c40cf07db1c6-1582529342.jpg",
+    "url_thumb": "https://www.astrobin.com/409950/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 601,
+    "w": 4588
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "47.190",
+    "description": "Finally a Ha-L-RGB completelly done with the ASi1600mmc\r\n- 240x120s L\r\n- 64x120s Ha\r\n- 3x30x120s R-G-B\r\n\r\n- Baader 36mm Ha-LRGB Filters",
+    "h": 1390,
+    "hash": null,
+    "id": 299256,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 160,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "123.868",
+    "pixscale": "0.971",
+    "published": "2017-06-11T19:41:44.873067",
+    "ra": "184.407",
+    "radius": "0.741",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/299256/",
+    "revisions": [],
+    "subjects": [
+        "M 106",
+        "NGC 4217",
+        "NGC 4226",
+        "NGC 4231",
+        "NGC 4232",
+        "NGC 4248",
+        "NGC 4258"
+    ],
+    "title": "M106 - ASi1600MMC - HAlpha-L-RGB - Fullsize",
+    "updated": "2021-03-17T20:41:56.551336",
+    "uploaded": "2017-06-11T20:36:33.198342",
+    "url_duckduckgo": "https://www.astrobin.com/299256/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/299256/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/299256/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/299256/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/299256/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/299256/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/299256/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/10bfc41c-ac75-4b85-aadd-6306c9319034.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10bfc41c-ac75-4b85-aadd-6306c9319034-1497210075.jpg",
+    "url_thumb": "https://www.astrobin.com/299256/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 842,
+    "w": 1824
+}

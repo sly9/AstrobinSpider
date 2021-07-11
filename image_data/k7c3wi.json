@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "45.648",
+    "description": "SH2-112 in HS/O/O and RGB stars: in Cygnus, about 6000 light-years distant. I found this a very hard target to process even with 14 hours of data. The background is naturally mottled with gasses, which makes it difficult to pull the S-ii and O-iii channels out without making a complete mess of the background. After four passes at processing it, I finally decided to leave the background as more of a suggestion, at the cost of some variety in color in the nebula itself. I'll come back to this in 6-12 months, after I have a few more processing tricks up my sleeve but I'm reasonably happy with this rendition for now.",
+    "h": 1254,
+    "hash": "k7c3wi",
+    "id": 427811,
+    "imaging_cameras": [
+        "Atik 460EX Mono"
+    ],
+    "imaging_telescopes": [
+        "TEC 140 APO FL"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 40,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804100/"
+    ],
+    "orientation": "277.318",
+    "pixscale": "1.416",
+    "published": "2019-09-18T03:43:14.031963",
+    "ra": "308.471",
+    "radius": "0.400",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/427811/",
+    "revisions": [],
+    "subjects": [
+        "Sh2-112"
+    ],
+    "title": "SH2-112",
+    "updated": "2021-03-17T09:08:32.593955",
+    "uploaded": "2019-09-18T04:32:36.395562",
+    "url_duckduckgo": "https://www.astrobin.com/k7c3wi/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/k7c3wi/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/k7c3wi/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/k7c3wi/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/k7c3wi/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/k7c3wi/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/k7c3wi/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14414/2019/aaf41863-7f65-4eda-afdc-1cf393161c30.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14414/2019/aaf41863-7f65-4eda-afdc-1cf393161c30-1582447093.png",
+    "url_thumb": "https://www.astrobin.com/k7c3wi/0/rawthumb/thumb/",
+    "user": "JoelShepherd",
+    "views": 79,
+    "w": 1600
+}

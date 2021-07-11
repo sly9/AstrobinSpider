@@ -1,0 +1,68 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 13,
+    "data_source": "UNSET",
+    "dec": "43.695",
+    "description": "This 6 panel mosaic was taken over the nights between May 29 and June 8.\r\n\r\n16X900 per panel at -15C\r\n\r\n30 flats\r\n30 darks\r\n300 bias",
+    "h": 3300,
+    "hash": null,
+    "id": 300234,
+    "imaging_cameras": [
+        "SBIG STF-8300M"
+    ],
+    "imaging_telescopes": [
+        "William Optics Star 71"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 113,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799970/"
+    ],
+    "orientation": "359.053",
+    "pixscale": "6.332",
+    "published": "2017-06-20T06:28:18.620115",
+    "ra": "314.499",
+    "radius": "3.998",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/300234/",
+    "revisions": [
+        "/api/v1/imagerevision/118825/"
+    ],
+    "subjects": [
+        "IC 5068",
+        "IC 5070",
+        "NGC 6997",
+        "NGC 7000",
+        "NGC 7039",
+        "North America nebula",
+        "Pelican nebula",
+        "The star 55Cyg",
+        "The star 56Cyg",
+        "The star 57Cyg",
+        "The star 60Cyg",
+        "The star νCyg",
+        "The star ξCyg"
+    ],
+    "title": "North America/Pelican mosaic",
+    "updated": "2021-03-17T20:38:19.285356",
+    "uploaded": "2017-06-20T07:28:19.212611",
+    "url_duckduckgo": "https://www.astrobin.com/300234/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/300234/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/300234/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/300234/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/300234/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/300234/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/300234/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/1070/2017/c630f942-a202-4073-ad08-c97a23566cfb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/1070/2017/c630f942-a202-4073-ad08-c97a23566cfb-1582585497.jpg",
+    "url_thumb": "https://www.astrobin.com/300234/0/rawthumb/thumb/",
+    "user": "rflinn68",
+    "views": 307,
+    "w": 3128
+}

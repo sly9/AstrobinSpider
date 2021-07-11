@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "69.288",
+    "description": "M81 and M82 LRGB from DSW.",
+    "h": 1633,
+    "hash": null,
+    "id": 345084,
+    "imaging_cameras": [
+        "SBIG STX 16803"
+    ],
+    "imaging_telescopes": [
+        "Astro-Physics RH-305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 61,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808871/"
+    ],
+    "orientation": "181.764",
+    "pixscale": "2.939",
+    "published": "2018-05-04T07:16:02.863632",
+    "ra": "149.014",
+    "radius": "1.122",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/345084/",
+    "revisions": [],
+    "subjects": [
+        "Bode's nebulae",
+        "M 81",
+        "M 82",
+        "NGC 3031",
+        "NGC 3034",
+        "NGC 3077"
+    ],
+    "title": "M81 and M82",
+    "updated": "2021-03-17T15:38:19.384102",
+    "uploaded": "2018-05-04T08:16:04.793111",
+    "url_duckduckgo": "https://www.astrobin.com/345084/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/345084/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/345084/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/345084/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/345084/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/345084/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/345084/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/09eb0fcb-2c98-4b95-a174-bc2b4b791bf7.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/09eb0fcb-2c98-4b95-a174-bc2b4b791bf7-1525418786.jpg",
+    "url_thumb": "https://www.astrobin.com/345084/0/rawthumb/thumb/",
+    "user": "xjtian",
+    "views": 213,
+    "w": 1824
+}

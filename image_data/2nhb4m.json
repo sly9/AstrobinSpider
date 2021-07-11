@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 3,
+    "data_source": "OWN_REMOTE",
+    "dec": "32.547",
+    "description": "",
+    "h": 2500,
+    "hash": "2nhb4m",
+    "id": 465211,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Astrosib RC360"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 89,
+    "link": "http://astro.ioda.by/en/ngc-4631#full",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804384/"
+    ],
+    "orientation": "72.967",
+    "pixscale": "0.633",
+    "published": "2020-03-14T07:16:09.150241",
+    "ra": "190.553",
+    "radius": "0.311",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/465211/",
+    "revisions": [
+        "/api/v1/imagerevision/219210/",
+        "/api/v1/imagerevision/219284/",
+        "/api/v1/imagerevision/219461/"
+    ],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "Whale Galaxy"
+    ],
+    "title": "NGC4631",
+    "updated": "2021-06-24T15:00:00.462242",
+    "uploaded": "2020-03-14T07:16:09.853945",
+    "url_duckduckgo": "https://www.astrobin.com/2nhb4m/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/2nhb4m/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/2nhb4m/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/2nhb4m/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/2nhb4m/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/2nhb4m/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/2nhb4m/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14911/2020/6daf73a1-f513-4cfb-8a05-9e8db22a49b2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14911/2020/6daf73a1-f513-4cfb-8a05-9e8db22a49b2-1584170437.jpg",
+    "url_thumb": "https://www.astrobin.com/2nhb4m/0/rawthumb/thumb/",
+    "user": "Ioda",
+    "views": 250,
+    "w": 2500
+}

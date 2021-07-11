@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Heard this target from one my astrophotography buddies. Pulled out the Sky Guide App on the phone and checked if it's in my shooting range. From my backyard, the lobster is basically a tad above the tree lines and neighbors'  roofs. The cool thing is, it dances its way along the line and could give me 2~3 hours of imaging time before 1:00am. \r\n\r\nI never thought this is pretty hard until I got started. The target is extremely low and the scope is literally pointing and neighbors' roof top. Downtown Dallas is right on the direction where the scope is aiming at and the sky glow is that strong. My dear neighbor has the routine to play with the dog in their backyard from 9pm to 10pm with the garage door light on all night long. There is a thumbnail picture I attached in Revision B to show how low the scope is pointing. \r\n\r\nBut it's fun. The data is not the best and the amount of data is definitely not enough. I like it somehow. I might do this target again. Maybe. Collecting other channels especially O3 will be a big challenge from the backyard though.\r\n\r\n<B><I>Pre-processing of Ha Master</I></B>\r\n\r\n- Calibration / Integration, Astro Pixel Processor\r\n- Dynamic Background Extraction, PixInsight\r\n- Deconvolution, PixInsight\r\n- MultiscaleLinearTransformation (Denoise), PixInsight\r\n- ScreenTransferFunction / HistogramTransformation, PixInsight.\r\n\r\n<B><I>Post-processing</I></B>\r\n\r\n- Final touch up and export, PhotoShop",
+    "h": 2735,
+    "hash": null,
+    "id": 418005,
+    "imaging_cameras": [
+        "ASI1600mm Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDP"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 51,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808379/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-07-30T15:11:22.499901",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/418005/",
+    "revisions": [
+        "/api/v1/imagerevision/187306/"
+    ],
+    "subjects": [],
+    "title": "The Lobster Nebula - NGC 6357 (H-alpha)",
+    "updated": "2021-03-17T09:59:05.271761",
+    "uploaded": "2019-07-30T15:06:34.764608",
+    "url_duckduckgo": "https://www.astrobin.com/418005/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/418005/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/418005/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/418005/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/418005/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/418005/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/418005/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/418005/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 280,
+    "w": 4103
+}

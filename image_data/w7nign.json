@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "TRAVELLER",
+    "dec": "-24.254",
+    "description": "Finally a new image... This one is been acquired in 2016 duraing an astrocamp in a very nice and dark location in Italy. I've never considered as a good candidate for any editing purposes simply 'cos I've got just TWO exposures of 15min each, one in H-Alpha light and the other in OIII. I've never supposed that ther's enough signal nor SNR for a good result. In this very sad days of pandemy I've opened the frames just for fun realizing that ther's a very good amount of data and I've give it a chance. I've managed to include also some RGB datas, mainly for the stars an little bit for the nebula too that I've acquired also during the years. The resulting image is a surprise to me!\r\nAnyway this is my version of the Lagoon nebula in HII and OIII + some RGB for stars and nebula too. Total integration time is about 30min total for narrowband at 5nm + about 1.5 hours for straight RGB. Everything acquired through a Takahashi Epsilon 210 telescope and a QSI 683 WSG8 camera with Astrodon gen II filters.\r\n\r\nThanks",
+    "h": 3326,
+    "hash": "w7nign",
+    "id": 466569,
+    "imaging_cameras": [
+        "QSI 683 wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 210"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 58,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800165/"
+    ],
+    "orientation": "10.548",
+    "pixscale": "1.780",
+    "published": "2020-03-19T19:11:45.606688",
+    "ra": "271.021",
+    "radius": "1.030",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/466569/",
+    "revisions": [],
+    "subjects": [
+        "Lagoon Nebula",
+        "M 8",
+        "NGC 6523",
+        "NGC 6526",
+        "NGC 6530",
+        "The star 7Sgr",
+        "The star 9Sgr"
+    ],
+    "title": "M8 HII-OIII-RGB",
+    "updated": "2021-03-17T04:08:53.238649",
+    "uploaded": "2020-03-19T19:11:46.395558",
+    "url_duckduckgo": "https://www.astrobin.com/w7nign/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/w7nign/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/w7nign/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/w7nign/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/w7nign/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/w7nign/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/w7nign/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/142/2020/df32839f-949c-4b40-95ed-ce07f2c4bc6b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/142/2020/df32839f-949c-4b40-95ed-ce07f2c4bc6b-1584646345.jpg",
+    "url_thumb": "https://www.astrobin.com/w7nign/0/rawthumb/thumb/",
+    "user": "astrojoe",
+    "views": 260,
+    "w": 2504
+}

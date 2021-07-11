@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "41.300",
+    "description": "Just the narrow band data (SHO) for the M31 image...",
+    "h": 3996,
+    "hash": null,
+    "id": 280612,
+    "imaging_cameras": [
+        "Moravian Instruments G4-16000"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP 127is"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 82,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806563/"
+    ],
+    "orientation": "177.351",
+    "pixscale": "2.801",
+    "published": "2017-01-20T00:37:03.416855",
+    "ra": "10.676",
+    "radius": "2.198",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/280612/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 110",
+        "M 31",
+        "M 32",
+        "NGC 205",
+        "NGC 221",
+        "NGC 224",
+        "The star νAnd"
+    ],
+    "title": "M31 Andromeda Galaxy narrow-band data",
+    "updated": "2021-07-02T00:42:14.952527",
+    "uploaded": "2017-01-20T00:37:03.823163",
+    "url_duckduckgo": "https://www.astrobin.com/280612/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/280612/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/280612/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/280612/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/280612/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/280612/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/280612/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/21402/2017/370f2fd2-0a82-4e1a-8ee6-29815be78124.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/21402/2017/370f2fd2-0a82-4e1a-8ee6-29815be78124-1582532189.jpg",
+    "url_thumb": "https://www.astrobin.com/280612/0/rawthumb/thumb/",
+    "user": "ChrisLX200",
+    "views": 1854,
+    "w": 3996
+}

@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "30.776",
+    "description": "NGC 1514 preprocessed with 2x CFA Drizzle - due to light pollution and lots of noise which would have required me to apply an artificially looking strong NR or to downscale the image, I focused on the nebula's detail rather than on showing the interstellar dust. But I was pretty impressed, how much of it there was, so I also uploaded an over-stretched monochrome version to make the amount visible. It took me quite a while to realize that there really are almost no bluish stars in that area and that the dust is particulary illiuminated orange from the stars present. First I thought that I made mistakes while processing the colors - but after checking fellow AB members' images I finally accepted the (orange) facts.",
+    "h": 600,
+    "hash": null,
+    "id": 397202,
+    "imaging_cameras": [
+        "Canon EOS 6Da"
+    ],
+    "imaging_telescopes": [
+        "TS OPTICS ONTC 1010"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 176,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805383/"
+    ],
+    "orientation": "270.874",
+    "pixscale": "0.897",
+    "published": "2019-03-24T18:10:40.989210",
+    "ra": "62.322",
+    "radius": "0.135",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/397202/",
+    "revisions": [
+        "/api/v1/imagerevision/174294/",
+        "/api/v1/imagerevision/174295/",
+        "/api/v1/imagerevision/174296/"
+    ],
+    "subjects": [
+        "NGC 1514",
+        "NGC1514",
+        "PK165-15.1"
+    ],
+    "title": "NGC 1514",
+    "updated": "2021-03-17T11:38:08.096987",
+    "uploaded": "2019-03-24T18:10:41.076699",
+    "url_duckduckgo": "https://www.astrobin.com/397202/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/397202/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/397202/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/397202/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/397202/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/397202/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/397202/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/17314/2019/facd1888-3fd9-41bf-a22d-d5ae5c15b0fd.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/facd1888-3fd9-41bf-a22d-d5ae5c15b0fd-1553451289.jpg",
+    "url_thumb": "https://www.astrobin.com/397202/0/rawthumb/thumb/",
+    "user": "BastiH",
+    "views": 566,
+    "w": 900
+}

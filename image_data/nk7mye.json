@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-20.833",
+    "description": "One of the very first nebulae I ever actually saw an image. Have always wanted an image of it ever since. Luckily the skies in Chile offer some *excellent* views of this target. I've dumped quite a few days into editing this. Starting off with an HaRGB image, before finishing that image and realizing I thought it would be better if I added L to the image. \r\n\r\nInitially, the Ha was so noisy after intense stretching that sharpening it became quite dirty and resulted in a ton of artifacts. I opted to keep the halo, and go for a much more mild sharpness. I was getting ready to post it when I realized that maybe just using the L data for the sharpness and Ha for the giant halo might give me the best of both worlds, so that's what you see here! \r\n\r\nThe L data added many more stars to the image, and made them a bit larger. That was one thing I quite liked about the HaRGB version, was the stars were pretty small and much fewer in number. However, I think I did a well enough job controlling them when combining the L that I didn't get rid off too much of that feel it gave the image. \r\n\r\nOverall, very pleased with how this came out. I am looking forward to completing an SHO version of the image as well. Given the similarities of this target already though to the Hubble palette, I am thinking I may get a little experimental with the colors. \r\n\r\nStay tuned, and clear skies!",
+    "h": 3000,
+    "hash": "nk7mye",
+    "id": 439167,
+    "imaging_cameras": [
+        "FLI ML16200"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-150"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 136,
+    "link": "https://www.instagram.com/cosmic.speck/",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "187.383",
+    "pixscale": "1.128",
+    "published": "2019-11-17T17:14:39.252664",
+    "ra": "337.401",
+    "radius": "0.784",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/439167/",
+    "revisions": [
+        "/api/v1/imagerevision/200487/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293",
+        "NGC7293",
+        "PK036-57.1"
+    ],
+    "title": "The Helix Nebula / The Eye of God",
+    "updated": "2021-03-17T08:13:46.559417",
+    "uploaded": "2019-11-17T17:14:39.421231",
+    "url_duckduckgo": "https://www.astrobin.com/nk7mye/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/nk7mye/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/nk7mye/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/nk7mye/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/nk7mye/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/nk7mye/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/nk7mye/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/13971/2020/94ffd89b-eb33-4ced-a1ed-a34080d4cc54.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/13971/2020/94ffd89b-eb33-4ced-a1ed-a34080d4cc54-1582641116.jpg",
+    "url_thumb": "https://www.astrobin.com/nk7mye/0/rawthumb/thumb/",
+    "user": "matherneconnor",
+    "views": 404,
+    "w": 4000
+}

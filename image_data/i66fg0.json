@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 23,
+    "comments": 21,
+    "data_source": "OWN_REMOTE",
+    "dec": "62.795",
+    "description": "Another very faint planetary nebula.  The Ha signal is much weaker than the OIII so I went deeper on the Ha to balance the signal out.",
+    "h": 2724,
+    "hash": "i66fg0",
+    "id": 430443,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 178,
+    "link": "https://www.imagingdeepspace.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806464/"
+    ],
+    "orientation": "359.383",
+    "pixscale": "0.533",
+    "published": "2019-09-30T13:38:23.459594",
+    "ra": "47.823",
+    "radius": "0.339",
+    "remote_source": "eEyE",
+    "resource_uri": "/api/v1/image/430443/",
+    "revisions": [
+        "/api/v1/imagerevision/194955/"
+    ],
+    "subjects": [
+        "PGC168326",
+        "PK138+04.1",
+        "Sh2-200"
+    ],
+    "title": "Sh2-200 a.k.a. HDW 2 The Bearclaw Nebula",
+    "updated": "2021-03-17T08:55:31.465640",
+    "uploaded": "2019-09-30T14:38:23.565274",
+    "url_duckduckgo": "https://www.astrobin.com/i66fg0/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/i66fg0/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/i66fg0/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/i66fg0/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/i66fg0/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/i66fg0/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/i66fg0/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/21166/2019/c6905c3f-2197-46b7-b23a-0aef5055fbbb.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/21166/2019/c6905c3f-2197-46b7-b23a-0aef5055fbbb-1582608317.jpg",
+    "url_thumb": "https://www.astrobin.com/i66fg0/0/rawthumb/thumb/",
+    "user": "PeterGoodhew",
+    "views": 756,
+    "w": 3679
+}

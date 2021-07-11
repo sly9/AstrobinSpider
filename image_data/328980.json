@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 15,
+    "data_source": "UNSET",
+    "dec": "30.655",
+    "description": "Combination of data from RC Optical, RH-305 and AG Optical iDK.  This is what happens when you combine all that data.  Interesting.  The outer fringe has lots of faint noise that I at first thought was noise that I obliterated in earlier versions.  All frames registered to RC Optical data (0.55\" / pixel).  \r\n\r\nResults, especially luminance, were essentially noise free and did not require much if any NR.",
+    "h": 1824,
+    "hash": null,
+    "id": 328980,
+    "imaging_cameras": [
+        "Finger Lakes Instrumentation FLI ML 16803",
+        "SBIG STX 16803",
+        "Finger Lakes Instrumentation FLI ML 8300"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5\" iDK",
+        "RC Optical Systems RCOS 14.5\"",
+        "Astro-Physics RH-305"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 144,
+    "link": "http://www.deepskywest.com",
+    "link_to_fits": "http://www.deepskywest.com",
+    "locations": [
+        "/api/v1/location/2802988/"
+    ],
+    "orientation": "190.898",
+    "pixscale": "0.550",
+    "published": "2018-01-11T17:44:46.500787",
+    "ra": "23.450",
+    "radius": "0.443",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/328980/",
+    "revisions": [
+        "/api/v1/imagerevision/134526/",
+        "/api/v1/imagerevision/134527/"
+    ],
+    "subjects": [
+        "M 33",
+        "NGC 598",
+        "Triangulum galaxy"
+    ],
+    "title": "M33 (48 hours, 3 instruments) - Deep Sky West Remote Observatory",
+    "updated": "2021-05-23T14:49:45.455738",
+    "uploaded": "2018-01-10T22:06:07.763601",
+    "url_duckduckgo": "https://www.astrobin.com/328980/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/328980/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/328980/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/328980/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/328980/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/328980/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/328980/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/a4d07318-e6c6-433a-b087-b808859ad2f4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/a4d07318-e6c6-433a-b087-b808859ad2f4-1515622529.jpg",
+    "url_thumb": "https://www.astrobin.com/328980/0/rawthumb/thumb/",
+    "user": "sixburg",
+    "views": 659,
+    "w": 1824
+}

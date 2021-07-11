@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "61.438",
+    "description": "Heart nebula imaged from the backyard obsy, wanted to reshoot, it is a bicolor with HA as red and OIII as blue with a synthetic green channel. 49 hours total integration time.\r\nI used Local Normalization which worked decently to even out the background of each sub exposure, based on a reference image such as your best looking sub as far as background evenness, as passing clouds can cause gradients to appear in narrow band images.\r\nI actually have PI render the locally normalized subs instead of using the generated \"LN\" files. By doing this I can use SubframeSelector process to more accurately weight my subs based on SNR. Subframe Selector will mistake subs with gradients to be higher SNR images when they really aren't. Instead of throwing those put why not locally normalize the background to closer match the sub with the best background...or so the theory goes anyway.\r\nI also slightly eroded the stars to make them less apparent, not sure why I guess I just felt like it. The H and O were combined using a PixelMath formula, then the H has used as a luminace layer, using PSFGenrator script and using that psf model in the Deconvolution process. Some color adjustments in LightRoom as I find color adjustments, like hue shifting difficult for me at this time.\r\nI see some of these with blue in this image but it must be added because I just can't pull it out of there.\r\nHopefully I didn't ruin the data as I am pretty sure I used Local Normalization right but maybe I didn't.\r\nThanks for looking!\r\nTakahashi FSQ85EDX\r\nSBIG STT-8300+FW8G-STT\r\nBisque Paramount MyT\r\n47 x 1800\" H Astrodon 5nm\r\n49 x 1800\" O Astrodon 3nm",
+    "h": 4568,
+    "hash": "mqouey",
+    "id": 440811,
+    "imaging_cameras": [
+        "SBIG STT-8300M fw8gstt"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 21,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808339/"
+    ],
+    "orientation": "270.341",
+    "pixscale": "1.698",
+    "published": "2019-11-28T15:06:12.305905",
+    "ra": "38.368",
+    "radius": "1.840",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/440811/",
+    "revisions": [],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "NGC 896"
+    ],
+    "title": "Heart Nebula",
+    "updated": "2021-03-17T06:15:11.907515",
+    "uploaded": "2019-11-28T15:06:12.724502",
+    "url_duckduckgo": "https://www.astrobin.com/mqouey/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/mqouey/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/mqouey/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/mqouey/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/mqouey/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/mqouey/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/mqouey/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0d1e2f6d-c2f3-48fa-ab8b-403ecceb3554.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0d1e2f6d-c2f3-48fa-ab8b-403ecceb3554-1574953838.jpg",
+    "url_thumb": "https://www.astrobin.com/mqouey/0/rawthumb/thumb/",
+    "user": "wannaberocker_x",
+    "views": 70,
+    "w": 6324
+}

@@ -1,0 +1,64 @@
+{
+    "animated": false,
+    "bookmarks": 19,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "47.224",
+    "description": "Newton 250/1250 on NEQ-6 + ASI 178MM-C  + Baader LRGB\r\nL - 1000 x 10s\r\nRGB - 250 x 12s per channel",
+    "h": 1726,
+    "hash": null,
+    "id": 405100,
+    "imaging_cameras": [
+        "ZWO ASI 178-Cool (mono)"
+    ],
+    "imaging_telescopes": [
+        "Sky Watcher 250/1200 Newtonian Sky Watcher 250/1200 "
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 271,
+    "link": "https://www.facebook.com/lukasz.sujka.astronomy/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803627/",
+        "/api/v1/location/2804621/",
+        "/api/v1/location/2804622/"
+    ],
+    "orientation": "74.386",
+    "pixscale": "0.457",
+    "published": "2019-05-10T11:56:41.979807",
+    "ra": "202.477",
+    "radius": "0.187",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/405100/",
+    "revisions": [
+        "/api/v1/imagerevision/179182/",
+        "/api/v1/imagerevision/179320/",
+        "/api/v1/imagerevision/179323/",
+        "/api/v1/imagerevision/179327/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "Messier 51 - Whirlpool Galaxy",
+    "updated": "2021-06-07T10:59:17.639345",
+    "uploaded": "2019-05-10T12:51:40.260641",
+    "url_duckduckgo": "https://www.astrobin.com/405100/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/405100/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/405100/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/405100/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/405100/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/405100/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/405100/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/0a59e5c9-f5c5-4f43-b0cc-13eb758f7cf9.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/0a59e5c9-f5c5-4f43-b0cc-13eb758f7cf9-1557493263.jpg",
+    "url_thumb": "https://www.astrobin.com/405100/0/rawthumb/thumb/",
+    "user": "Lukasz83",
+    "views": 2029,
+    "w": 2385
+}

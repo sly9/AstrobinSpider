@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "25.492",
+    "description": "One armed spiral in Coma Berenices.  This field has ARP 159 as well NGC4712 and would have been nice to have those in the field as well :)  \r\nHappy to finally complete this target this season.\r\n\r\nL = 104x300 s\r\nR/G/B = 12x300s/channel",
+    "h": 1463,
+    "hash": null,
+    "id": 341309,
+    "imaging_cameras": [
+        "QHYCCD QHY814A"
+    ],
+    "imaging_telescopes": [
+        "Celestron Edge 11HD"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 218,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800873/"
+    ],
+    "orientation": "93.907",
+    "pixscale": "0.682",
+    "published": "2018-04-11T18:32:41.911266",
+    "ra": "192.613",
+    "radius": "0.220",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/341309/",
+    "revisions": [
+        "/api/v1/imagerevision/142289/",
+        "/api/v1/imagerevision/217685/",
+        "/api/v1/imagerevision/217702/"
+    ],
+    "subjects": [
+        "NGC 4725",
+        "NGC4725"
+    ],
+    "title": "NGC4725",
+    "updated": "2021-03-17T15:54:59.959871",
+    "uploaded": "2018-04-11T19:32:45.358725",
+    "url_duckduckgo": "https://www.astrobin.com/341309/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/341309/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/341309/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/341309/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/341309/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/341309/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/341309/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7483/2018/1889f024-8b3e-4c85-a3cc-af1a05f47a42.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/1889f024-8b3e-4c85-a3cc-af1a05f47a42-1523472080.png",
+    "url_thumb": "https://www.astrobin.com/341309/0/rawthumb/thumb/",
+    "user": "anismo",
+    "views": 845,
+    "w": 1800
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 20,
+    "data_source": "BACKYARD",
+    "dec": "38.703",
+    "description": "Here shown is a widefield view of the Crescent Nebula and surrounding nebulosity in the constellation Cygnus. In this false-color image Hydrogen(Ha) and Sulfur(SII) are shown as the warmer colors and Oxygen(OIII) is shown as blue. There are a few notable OIII structures that are not present in the other channels. Front and foremost is the shell around the Crescent nebula itself, and if you look to the top-center of the image you will see a perfectly shaped blue circle known as the Soap Bubble Nebula.\r\n\r\nI recently captured the OIII and SII data to combine with my 2017 Ha data on this target.\r\n\r\nEquipment:  \r\nOTA: William Optics GT81 w/0.8x reducer (382mm fl at f/4.7)\r\n74mm aperture stop-down ring (brings scope to f/5.2)\r\nMount: Orion Sirius EQ-G (HEQ-5)\r\nGuidescope: Orion 50mm guidescope\r\nGuiding camera: Orion StarShoot Autoguider\r\nImaging camera: ZWO ASI1600MM-Cool\r\n\r\nAccessories:\r\nDeepSkyDad Autofocuser AF1\r\nQHYCCD PoleMaster\r\n\r\nSoftware:  \r\nSGP\r\nPHD2\r\nCdC\r\nPixInsight\r\n\r\nAcquisition:  \r\nLocation: Flower Mound, TX (Bortle 7), Atoka, OK (Bortle 3)\r\nDates: 7/12/17, 7/18/17, 6/28/19, 9/1/19\r\nGain: 200 Offset: 50\r\nCamera temp: -10C\r\nHa: 154x180\" Astrodon 5nm\r\nSII: 56x300\" Astrodon 3nm\r\nOIII: 58x300\" Astrodon 3nm\r\nTotal integration time: 17hr 12min\r\n64x darks per calibration (master from library)\r\n30x flats per calibration\r\n200x bias per calibration (master from library)\r\n\r\nPreprocessing:\r\nBatch PreProcessing script to generate calibrated images\r\nStarAlignment\r\nLocalNormalization\r\nImageIntegration\r\nDrizzleIntegration\r\nDynamicCrop\r\nDBE\r\n\r\nLuminance Processing:\r\nDuplicated the master Ha and Oiii to use as the luminance\r\nDeconvolution on each Ha and Oiii\r\nCreated a synthetic luminance using PixelMath equation: \"(Ha)+(max(Ha,(1.5*Oiii)))\"\r\nArcsinhStretch and HistogramTransformation to bring to non-linear\r\nExponentialTransformation to push nebulosity\r\nLocalHistogramEqualization\r\nMultiscaleLinearTransform for sharpening\r\nMorphologicalTransformation to reduce star size\r\nUnsharpMask to harden up soft stars caused by previous step\r\n\r\nPreparing separate Sii, Ha, and Oiii linear masters for tonemapping (applied to each master individually):\r\nTGV & MMT noise reduction (via Jon Rista's method)\r\nArcsinhStretch and HistogramTransformation to bring to non-linear\r\nRemoved stars via StarNet++\r\nDBE on the SII and OIII channel to help corners\r\nLinearFit to Ha\r\n\r\nCombined prepared Sii, Ha, and Oiii masters with ChannelCombination:\r\nR: Sii\r\nG: Ha\r\nB: Oiii\r\n\r\nCreated an HOO image as well with this PixelMath formula (to blend later):\r\nR: iif(ha>.15,ha,(ha*.8)+(oiii*.2))\r\nG: iif(ha>0.5,1-(1-oiii)*(1-(ha-0.5)),oiii*(ha+0.5))\r\nB: iif(oiii>.1,oiii,(ha*.3)+(oiii*.2))\r\n\r\nSHO Tonemap Processing:\r\nInvert > SCNR Green > Invert to remove magenta\r\nCurvesTransformation to balance colors\r\nSeveral a/b channel CurvesTransformations using ColorMasks to alter the colors to an aesthetically pleasing palette\r\n\r\nHOO Tonemap Processing:\r\nInvert > SCNR Green > Invert to remove magenta\r\nHistogramTransformation to balance colors\r\nCurvesTransformation to further balance colors\r\n\r\nCombined SHO and HOO tonemap with PixelMath equation: \"min(SHO,HOO)\"\r\nCurvesTransformation to brighten the image up a bit\r\nSCNR Green\r\n\r\nCombined Tonemap with Luminance using LRGBCombination:\r\nResampled to 35% for web posting",
+    "h": 2324,
+    "hash": "izohea",
+    "id": 426421,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "William Optics GT-81"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808932/",
+        "/api/v1/location/2808933/"
+    ],
+    "orientation": "178.748",
+    "pixscale": "2.878",
+    "published": "2019-09-09T21:16:03.276033",
+    "ra": "303.714",
+    "radius": "1.565",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/426421/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888",
+        "The star 34Cyg"
+    ],
+    "title": "Crescent Nebula (NGC6888) imaged in SHO",
+    "updated": "2021-06-30T10:10:28.399163",
+    "uploaded": "2019-09-09T22:16:03.456491",
+    "url_duckduckgo": "https://www.astrobin.com/izohea/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/izohea/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/izohea/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/izohea/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/izohea/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/izohea/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/izohea/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/27683/2020/eb131124-7292-4b6c-a366-2631a89c7500.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/27683/2020/eb131124-7292-4b6c-a366-2631a89c7500-1582583399.jpg",
+    "url_thumb": "https://www.astrobin.com/izohea/0/rawthumb/thumb/",
+    "user": "ak_astro",
+    "views": 830,
+    "w": 3153
+}

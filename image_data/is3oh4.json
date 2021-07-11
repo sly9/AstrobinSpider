@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "53.425",
+    "description": "Back to imaging with a simplified workflow, first of a planetaries' batch.\r\nHa was good and I took a decent amount of subs, O2 was very noisy and I used a convolution algorithm to smooth it out.\r\n\r\nAdding RGB stars didn't really work the way I wanted but the final result is not too bad, enjoy!",
+    "h": 654,
+    "hash": "is3oh4",
+    "id": 426939,
+    "imaging_cameras": [
+        "Atik 414EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher N 150/750 PDS Explorer"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 33,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800908/"
+    ],
+    "orientation": "113.363",
+    "pixscale": "1.772",
+    "published": "2019-09-12T18:55:33.111871",
+    "ra": "119.465",
+    "radius": "0.284",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/426939/",
+    "revisions": [],
+    "subjects": [],
+    "title": "PK164+31.1, narrowband (HOO)",
+    "updated": "2021-04-12T19:38:38.769372",
+    "uploaded": "2019-09-12T19:55:33.233465",
+    "url_duckduckgo": "https://www.astrobin.com/is3oh4/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/is3oh4/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/is3oh4/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/is3oh4/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/is3oh4/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/is3oh4/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/is3oh4/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/7550/2020/1a99aff6-daba-4d8c-894e-10692cfc9901.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/7550/2020/1a99aff6-daba-4d8c-894e-10692cfc9901-1582618862.png",
+    "url_thumb": "https://www.astrobin.com/is3oh4/0/rawthumb/thumb/",
+    "user": "iva",
+    "views": 189,
+    "w": 951
+}

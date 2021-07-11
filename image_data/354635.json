@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 8,
+    "data_source": "OWN_REMOTE",
+    "dec": "-49.480",
+    "description": "This is NGC 4945, a large barred spiral galaxy located in the constellation Centaurus.   It is the second brightest galaxy in the subgroup centred on Centaurus-A with an apparent magnitude of 9.3, and an apparent size of 20’.0 X 3’.8.  NGC 4945 is about 13 million light-years distant, and is almost the size of our own Milky Way Galaxy.  Both X-Ray and infrared observations have shown unusual high energetic emissions and star formation at its core.  Like all happy galaxies, a super-massive black hole is thought to exist at its centre.\r\n\r\nThe data was a little tricky to work with, as it comes from 6 calibration streams (multiple cameras, all STL's), spanning about three years.  Needless to say, it was a challenge to piece together.\r\n\r\nWhen I first combined the data, it had a distinct mauve and dirty brown look about it.  This was really unusual I thought.  No matter what I did, it was present, so I followed the numbers.  I managed to collect a reasonable amount of Ha in the process, and decided to add that into the mix as well.  The Ha filter allows emission data to be easily identified.  Look for the pinks and reds throughout the galaxy to identify these areas.\r\n\r\nHa 26 X 1200 Binned 1x1  - 8.66 hours\r\nLum 34 X 900 Binned 1x1 - 8.5 hours\r\nRed 15 X 450 Binned 2X2  - 1.8 hours\r\nGreen 14 X 450 Binned 2X2 - 1.7 hours\r\nBlue 16 X 450 Binned 2X2 - 2.0 hours\r\nTotal hours 22.66 \r\n\r\nInstruments Used:\r\n10 Inch RCOS fl 9.1\r\nAstro Physics AP-900 Mount\r\nSBIG STL 11000m\r\nFLI Filter Wheel\r\nAstrodon Lum, Red, Green, Blue Filters\r\nBaader Planetarium H-alpha 7nm Narrowband-Filter\r\n\r\nDisclaimer:  All data is pure end-to-end own work from equipment through acquisition through processing.",
+    "h": 1836,
+    "hash": null,
+    "id": 354635,
+    "imaging_cameras": [
+        "SBIG STL-11000M"
+    ],
+    "imaging_telescopes": [
+        "RC Optical Systems RCOS 10\" Ritchey-Chrétien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 158,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "59.575",
+    "pixscale": "0.804",
+    "published": "2018-07-08T07:30:42.529883",
+    "ra": "196.360",
+    "radius": "0.369",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/354635/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4945"
+    ],
+    "title": "NGC 4945",
+    "updated": "2021-03-17T14:57:18.779646",
+    "uploaded": "2018-07-08T08:30:45.197194",
+    "url_duckduckgo": "https://www.astrobin.com/354635/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/354635/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/354635/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/354635/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/354635/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/354635/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/354635/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/ba7441e6-03fb-4fd1-8551-1abb2cb369b4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ba7441e6-03fb-4fd1-8551-1abb2cb369b4-1531035330.jpg",
+    "url_thumb": "https://www.astrobin.com/354635/0/rawthumb/thumb/",
+    "user": "trobison",
+    "views": 992,
+    "w": 2753
+}

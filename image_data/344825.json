@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "PRO_DATA",
+    "dec": null,
+    "description": "<strong>First Edition</strong>\r\n\r\nThis is a well processed and very tricky subject. Judy Schmidt once mentioned that the data published might have problem - same doubt here. First, I have no idea what's difference between the images with CLEAR1L or CLEAR2L filters and the ones without. Secondly, the FR656N images and F658N images don't look like that they are from different narrowband filters - I compared the two very carefully and can't tell the difference. But the data from ACS/WFC instrument are unbelievably clean and ready for processing! Kudos to NASA image stacking and pre-processing. \r\n\r\nThe FR656N and F658N images are basically the same, I really don't think they could be used as Red and Green channels - there is no way to present the layers at the outside border clearly. So, a different approach is utilized in this processing.\r\n\r\nBy the way, this is my first processing target with all narrowband data. Lots of fun!\r\n\r\nTarget: NGC 6543\r\n\r\nStretched and leveled the raw data a few times in Fits Liberator before getting it right. Converted FITS files to TIFF with Fits Liberator and PixelMath'ed them together in PixInsight. Cosmetic touch-ups done in Photoshop. Final process completed in Lightroom.\r\n\r\nACS/WFC: F658N\r\nACS/WFC: FR505N\r\nACS/WFC: F502N\r\n\r\nColor Mapping (PixelMath):\r\nRed - f658n*0.9\r\nGreen - fr505n*0.6 + f658n*0.25\r\nBlue - f502n*0.7 + fr505n*0.22\r\n\r\nThe best picture of this target should be the mosaic of wide-field Cat's Eye Nebula image with the Hubble image. That will be a very nice one on the wall...\r\n\r\n<strong>Chandra X-Ray Data</strong>\r\n\r\nDownloaded pre-processed data from: http://chandra.harvard.edu/photo/openFITS/multiwavelength_data.html\r\n\r\nChandra imaging used the same spectrum color mapping:\r\n- NGC 6543 Chandra X-ray (Magenta)\r\n- NGC 6543 Hubble Optical - ACS F502N (Blue)\r\n- NGC 6543 Hubble Optical - ACS F505N (Green)\r\n- NGC 6543 Hubble Optical - ACS F658N (Red)\r\n\r\nChandra's data is from HST as well but pre-processed. It seems smoothed a little too much and lost some of the details. But all optical image are well leveled - I just need to assign the R/G/B and Vola! - it's there. No struggle at all. \r\n\r\nNot sure which version is more preferred - but I do like the X-Ray touch...",
+    "h": 926,
+    "hash": null,
+    "id": 344825,
+    "imaging_cameras": [
+        "NASA · ESA · STScI Wide Field Camera 3 (WFC3)",
+        "NASA · ESA · STScI Advanced Camera for Surveys (ACS)"
+    ],
+    "imaging_telescopes": [
+        "NASA · ESA · STScI Hubble Space Telescope (HST)"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 129,
+    "link": "",
+    "link_to_fits": "https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html, http://chandra.harvard.edu/photo/openFITS/multiwavelength_data.html",
+    "locations": [
+        "/api/v1/location/2808379/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2018-05-02T04:36:43.399226",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/344825/",
+    "revisions": [
+        "/api/v1/imagerevision/144178/"
+    ],
+    "subjects": [],
+    "title": "Hubble Data Processing: NGC 6543, The Pupil of the \"Cat's Eye\"",
+    "updated": "2021-04-29T21:10:11.049354",
+    "uploaded": "2018-05-02T05:11:53.112850",
+    "url_duckduckgo": "https://www.astrobin.com/344825/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/344825/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/344825/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/344825/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/344825/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/344825/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/344825/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/344825/0/rawthumb/thumb/",
+    "user": "mxcoppell",
+    "views": 1525,
+    "w": 1388
+}

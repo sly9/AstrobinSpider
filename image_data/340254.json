@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 0,
+    "data_source": "TRAVELLER",
+    "dec": "-42.999",
+    "description": "The Puppis A supernova remnant is a messy cosmic calamity approximately 7,000 light years away. It overlaps the Vela Supernova Remnant, but is four times further away.\r\n\r\nPresent (but not visible) within the field of view of this image is the 'cosmic cannonball', a neutron star (RX J0822-4300) ejected at an incredible 3-5 million kph by the supernova explosion.   \r\n\r\nThis image was processed in PixInsight using a bicolor palette (Red = Ha, Green = OIII, Blue = OIII x 1.1). Short-exposure RGB image data was blended with stars in the NB image. The final image was re-sampled by 120% for aesthetic reasons.",
+    "h": 2984,
+    "hash": null,
+    "id": 340254,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "https://www.astrobin.com/9c2udx/H/?nc=user",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "0.959",
+    "pixscale": "1.015",
+    "published": "2018-04-07T03:05:42.029389",
+    "ra": "126.029",
+    "radius": "0.700",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/340254/",
+    "revisions": [
+        "/api/v1/imagerevision/141787/",
+        "/api/v1/imagerevision/253937/",
+        "/api/v1/imagerevision/256703/"
+    ],
+    "subjects": [
+        "PK260-03.1"
+    ],
+    "title": "Puppis A Supernova Remnant",
+    "updated": "2021-04-22T18:11:42.445394",
+    "uploaded": "2018-04-03T01:38:04.594614",
+    "url_duckduckgo": "https://www.astrobin.com/340254/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/340254/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/340254/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/340254/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/340254/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/340254/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/340254/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2018/1eb3406b-9fe0-4267-9a89-e221b0549adf.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2018/1eb3406b-9fe0-4267-9a89-e221b0549adf-1586833355.jpg",
+    "url_thumb": "https://www.astrobin.com/340254/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 208,
+    "w": 3971
+}

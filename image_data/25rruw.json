@@ -1,0 +1,62 @@
+{
+    "animated": false,
+    "bookmarks": 12,
+    "comments": 18,
+    "data_source": "BACKYARD",
+    "dec": "33.852",
+    "description": "The goal is to frame IC410, IC405 and IC417 all together without going with mosaic.  It turned into a three weeks project.  Partly because it could only  be seen from 1:20am to dawn in my backyard.  Besides, the dim O3 and S2 required additional  hours. Here are details:\r\n\r\nha: 72x5min\r\ns2:  144x5min\r\no3:  155x5min\r\nR/G/B: 20 mins each(20x60s)",
+    "h": 1172,
+    "hash": "25rruw",
+    "id": 434769,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM-Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ-85EDX"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 133,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810896/"
+    ],
+    "orientation": "0.433",
+    "pixscale": "7.145",
+    "published": "2019-10-24T22:40:54.465933",
+    "ra": "80.587",
+    "radius": "1.968",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/434769/",
+    "revisions": [],
+    "subjects": [
+        "Flaming Star nebula",
+        "IC 405",
+        "IC 410",
+        "IC 417",
+        "NGC 1893",
+        "The star 14Aur",
+        "The star 16Aur",
+        "The star 19Aur",
+        "The star φAur"
+    ],
+    "title": "IC410， IC405 and IC417 in one frame",
+    "updated": "2021-03-17T08:35:34.978510",
+    "uploaded": "2019-10-24T23:40:54.654675",
+    "url_duckduckgo": "https://www.astrobin.com/25rruw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/25rruw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/25rruw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/25rruw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/25rruw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/25rruw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/25rruw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/062ebbc3-aa46-420f-b2e5-82e6e4c73d75.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/062ebbc3-aa46-420f-b2e5-82e6e4c73d75-1571961102.jpg",
+    "url_thumb": "https://www.astrobin.com/25rruw/0/rawthumb/thumb/",
+    "user": "weili616",
+    "views": 614,
+    "w": 1600
+}

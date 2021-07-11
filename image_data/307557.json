@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 13,
+    "comments": 7,
+    "data_source": "BACKYARD",
+    "dec": "60.952",
+    "description": "Heart and Soul shot under the city lights and heavy light pollution.\r\nNarrowband nebula and RGB stars.\r\n2 panels of Ha, 6h each, shot with the Canon 300 F4 L lens,\r\n~2h of Ha, single panel shot with the Pentacon 200,\r\n2 panels of O3, ~4h each, shot with the Tair 3s,\r\n3h of O3, single panel shot with the Pentacon 200,\r\n4h of S2, single panel shot with the Pentacon 200,\r\nall narrowband 300s @unity gain.\r\n3 panels of RGB, 25x60s each channel/panel, shot with the Tair 3s.\r\nCamera cooled between -10C and -15C.",
+    "h": 2863,
+    "hash": null,
+    "id": 307557,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Canon 300mm f/4.0 L",
+        "Tair 3s",
+        "Pentacon 4/200 MC"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 235,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "354.284",
+    "pixscale": "3.897",
+    "published": "2017-08-17T09:44:35.124486",
+    "ra": "41.070",
+    "radius": "2.943",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/307557/",
+    "revisions": [
+        "/api/v1/imagerevision/212983/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "IC 1805",
+        "IC 1848",
+        "IC 1871",
+        "NGC 1027",
+        "NGC 896"
+    ],
+    "title": "Heart and Soul",
+    "updated": "2021-06-29T02:56:30.766541",
+    "uploaded": "2017-08-17T10:34:50.563501",
+    "url_duckduckgo": "https://www.astrobin.com/307557/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/307557/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/307557/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/307557/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/307557/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/307557/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/307557/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20314/2020/ada923fb-a2f9-4b14-b084-d6e58cae0223.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20314/2020/ada923fb-a2f9-4b14-b084-d6e58cae0223-1582279779.jpg",
+    "url_thumb": "https://www.astrobin.com/307557/0/rawthumb/thumb/",
+    "user": "alexbb",
+    "views": 2334,
+    "w": 4622
+}

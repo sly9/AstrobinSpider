@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "22.976",
+    "description": "IC433 Narrowband\r\n\r\n96 x 240s Ha\r\n77 x 240s OIII\r\n80 x 240s SII\r\n\r\n15 x 60s RGB\r\n\r\nGain: 139",
+    "h": 3520,
+    "hash": null,
+    "id": 338019,
+    "imaging_cameras": [
+        "ZWO ASI 1600MM Cool"
+    ],
+    "imaging_telescopes": [
+        "Takahashi Epsilon 130D"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 102,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "87.274",
+    "pixscale": "1.830",
+    "published": "2018-03-19T13:12:59.451542",
+    "ra": "94.645",
+    "radius": "1.484",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/338019/",
+    "revisions": [
+        "/api/v1/imagerevision/140035/",
+        "/api/v1/imagerevision/140103/",
+        "/api/v1/imagerevision/140192/"
+    ],
+    "subjects": [
+        "IC 443",
+        "IC 444",
+        "The star Propus (ηGem)"
+    ],
+    "title": "IC433 Narrowband",
+    "updated": "2021-06-21T07:11:06.417045",
+    "uploaded": "2018-03-19T12:35:46.394412",
+    "url_duckduckgo": "https://www.astrobin.com/338019/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/338019/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/338019/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/338019/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/338019/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/338019/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/338019/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14332/2018/6d7d208e-0812-47ff-bfbc-a6e765cdd109.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14332/2018/6d7d208e-0812-47ff-bfbc-a6e765cdd109-1582518988.jpg",
+    "url_thumb": "https://www.astrobin.com/338019/0/rawthumb/thumb/",
+    "user": "astroaffairs",
+    "views": 814,
+    "w": 4656
+}

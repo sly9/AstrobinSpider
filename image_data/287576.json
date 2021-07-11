@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "-10.882",
+    "description": "The data from DSW has allowed us to create 2 versions of the Seagull - a 'straight' LRGB here: http://www.astrobin.com/286146/B/?nc=user and a HaOIIILRGB posted here: http://www.astrobin.com/287442/?nc=user.\r\n\r\nThere was also some SII data and I decided to try a 'Hubble Palette' image.\r\n",
+    "h": 1431,
+    "hash": null,
+    "id": 287576,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "39.526",
+    "pixscale": "3.578",
+    "published": "2017-03-18T09:46:29.239645",
+    "ra": "106.354",
+    "radius": "1.190",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/287576/",
+    "revisions": [],
+    "subjects": [
+        "IC 2177",
+        "NGC 2335",
+        "NGC 2343"
+    ],
+    "title": "IC2177 - Seagull Nebula in SHO (Hubble Palette)",
+    "updated": "2021-03-17T21:30:47.370555",
+    "uploaded": "2017-03-18T09:46:29.810562",
+    "url_duckduckgo": "https://www.astrobin.com/287576/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/287576/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/287576/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/287576/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/287576/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/287576/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/287576/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/10769/2017/89ee67fa-0991-4b43-81bf-debc2af81872.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/10769/2017/89ee67fa-0991-4b43-81bf-debc2af81872-1582606383.jpg",
+    "url_thumb": "https://www.astrobin.com/287576/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 293,
+    "w": 1920
+}

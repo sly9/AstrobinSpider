@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "62.069",
+    "description": "www.astrolavistaobservatory.com",
+    "h": 2712,
+    "hash": null,
+    "id": 315077,
+    "imaging_cameras": [
+        "QSI 690WSG QSI"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes APM 152/1200 ED APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 150,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803830/"
+    ],
+    "orientation": "359.295",
+    "pixscale": "0.627",
+    "published": "2017-10-02T13:51:07.687254",
+    "ra": "36.735",
+    "radius": "0.378",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/315077/",
+    "revisions": [
+        "/api/v1/imagerevision/126638/"
+    ],
+    "subjects": [
+        "IC 1795",
+        "NGC 896"
+    ],
+    "title": "NGC 896 - HA + OIII",
+    "updated": "2021-03-17T19:39:35.099582",
+    "uploaded": "2017-10-02T14:40:54.804419",
+    "url_duckduckgo": "https://www.astrobin.com/315077/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/315077/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/315077/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/315077/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/315077/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/315077/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/315077/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/11158/2017/3d918f78-df38-4e22-b1e3-a0598f4b184c.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/11158/2017/3d918f78-df38-4e22-b1e3-a0598f4b184c-1582524157.jpg",
+    "url_thumb": "https://www.astrobin.com/315077/0/rawthumb/thumb/",
+    "user": "blueangel",
+    "views": 439,
+    "w": 3388
+}

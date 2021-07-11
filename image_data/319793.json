@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "OWN_REMOTE",
+    "dec": "-13.238",
+    "description": "This is my first go at processing this data acquired from ICA in Spain using an APM152 and QSI6120 back in Jan/Feb this year. It is 10 x 1800s H and 10 x 1800s O combined as R = H, G = (HxO)x1.5 and B = O",
+    "h": 2765,
+    "hash": null,
+    "id": 319793,
+    "imaging_cameras": [
+        "QSI 6120wsg-8"
+    ],
+    "imaging_telescopes": [
+        "APM Telescopes TMB - LZOS Apo refractor 152/1200"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800509/"
+    ],
+    "orientation": "88.084",
+    "pixscale": "0.534",
+    "published": "2017-11-01T19:04:20.138528",
+    "ra": "109.624",
+    "radius": "0.368",
+    "remote_source": "IC",
+    "resource_uri": "/api/v1/image/319793/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2359",
+        "NGC2359",
+        "Sh2-298"
+    ],
+    "title": "NGC2359 Thor's Helmet",
+    "updated": "2021-04-12T04:12:14.960962",
+    "uploaded": "2017-11-01T19:04:20.734670",
+    "url_duckduckgo": "https://www.astrobin.com/319793/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319793/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319793/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319793/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319793/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319793/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319793/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9349ac91-01ff-4c61-923e-66d6a8db540d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9349ac91-01ff-4c61-923e-66d6a8db540d-1509563239.jpg",
+    "url_thumb": "https://www.astrobin.com/319793/0/rawthumb/thumb/",
+    "user": "alistairmac",
+    "views": 457,
+    "w": 4115
+}

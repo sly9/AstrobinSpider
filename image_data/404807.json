@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 16,
+    "comments": 37,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "Presented here is an animation of the full set of data I collected the morning of 5th May, 2019. (The same data set as <a href='https://www.astrobin.com/404469/C/'>the still image I posted earlier</a>).\r\n\r\nIn total, I collected 25 x 90s captures. Each of these was sharpened, then de-rotated in incremental batches of 8 images using WinJUPOS. The animation therefore represents a moving average of 8 images - this reduces the overall number of frames in the animation, but improves the quality of each frame.\r\n\r\nTotal rotation time represented is just shy of 35 minutes.\r\n\r\nSeeing deteriorated only slightly over the imaging session, but I did have some dew form on the corrector towards the end of the session ... which I didn't think would be possible in Singapore (given the minimum temperature that night was a very typical 28 deg C) but there you go!\r\n\r\nA small dip in detail can therefore be seen in the last few frames if you look closely enough, but nowhere near as much as I'd feared ... pretty happy with the result!\r\n\r\nTo my eye, this animation suggests the possible formation of a white oval on the northern edge of the NEB, almost directly north of the GRS.",
+    "h": 474,
+    "hash": null,
+    "id": 404807,
+    "imaging_cameras": [
+        "ZWO ASI290MC"
+    ],
+    "imaging_telescopes": [
+        "Celestron C11 XLT"
+    ],
+    "is_final": true,
+    "is_solved": false,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 161,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808311/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2019-05-08T14:44:53.522585",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/404807/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Jupiter Animation: 2019-05-05",
+    "updated": "2021-05-20T12:39:39.922831",
+    "uploaded": "2019-05-08T14:10:54.791504",
+    "url_duckduckgo": "https://www.astrobin.com/404807/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/404807/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/404807/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/404807/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/404807/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/404807/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/404807/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/404807/0/rawthumb/thumb/",
+    "user": "DMach",
+    "views": 882,
+    "w": 474
+}

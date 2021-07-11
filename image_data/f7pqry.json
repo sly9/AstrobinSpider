@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 17,
+    "data_source": "BACKYARD",
+    "dec": "47.197",
+    "description": "Reprocessing of my prior image at https://www.astrobin.com/406200/C/ with more attention spent on the noise mask, color saturation, background level and star shrink.",
+    "h": 1830,
+    "hash": "f7pqry",
+    "id": 441955,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "Planewave CDK24"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 138,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808089/"
+    ],
+    "orientation": "89.334",
+    "pixscale": "0.468",
+    "published": "2019-12-05T01:57:37.862432",
+    "ra": "202.469",
+    "radius": "0.346",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/441955/",
+    "revisions": [
+        "/api/v1/imagerevision/202434/",
+        "/api/v1/imagerevision/202438/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 (Reprocessed)",
+    "updated": "2021-03-17T06:09:39.488875",
+    "uploaded": "2019-12-05T01:57:37.945367",
+    "url_duckduckgo": "https://www.astrobin.com/f7pqry/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/f7pqry/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/f7pqry/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/f7pqry/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/f7pqry/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/f7pqry/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/f7pqry/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/88e4132c-ff5d-4c2f-8252-c514ea1e5088.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/88e4132c-ff5d-4c2f-8252-c514ea1e5088-1575511382.jpg",
+    "url_thumb": "https://www.astrobin.com/f7pqry/0/rawthumb/thumb/",
+    "user": "KuriousGeorge",
+    "views": 426,
+    "w": 1824
+}

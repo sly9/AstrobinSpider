@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 16,
+    "data_source": "BACKYARD",
+    "dec": "1.994",
+    "description": "This object is a cometary cloud located \"only\" 500 light-years away in the constellation of Orion.    It spans about 10 light years across.   The densest parts of this cloud completely block out the background stars.\r\n\r\nThe most interesting aspect of this object to me is the bright yellow young pre-main sequence star (HBC 515) seen on the right side of the image.  This star is one of the visually brightest young stars known. The star is surrounded by a yellow reﬂection nebula designated as vdB 62 or Parsamian 3.  I also find it interesting that the cloud is silhouetted against a faint background of glowing reddish hydrogen gas.  \r\n\r\nThis cloud has been identified as the birthplace of many other stars besides HBC 515.  Typical of such a cloud, a number of Herbig-Haro objects and outflows have been identified in this region but I could not positively identify any of these very faint objects in my image.\r\n\r\nThis is the toughest object I have processed to date.  Nothing showed up in my RGB or Ha subs, and the Lum subs only faintly suggested that anything was there besides empty space.  Despite that initial discouragement, I am happy with the final result.  Modern processing is a wonderful thing!  Hopefully in the coming years I can add to the integration time and more fully capture this amazing object.",
+    "h": 2805,
+    "hash": null,
+    "id": 382198,
+    "imaging_cameras": [
+        "ZWO ASI  1600MM Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TOA-130NFB"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 108,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805974/"
+    ],
+    "orientation": "60.408",
+    "pixscale": "0.783",
+    "published": "2018-12-21T14:30:44.133345",
+    "ra": "88.731",
+    "radius": "0.578",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/382198/",
+    "revisions": [],
+    "subjects": [
+        "VdB62"
+    ],
+    "title": "LDN 1622 & vdb 62",
+    "updated": "2021-03-17T12:46:07.433944",
+    "uploaded": "2018-12-21T14:24:13.528047",
+    "url_duckduckgo": "https://www.astrobin.com/382198/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/382198/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/382198/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/382198/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/382198/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/382198/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/382198/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/18133/2018/d83f3a74-297d-431f-8d8e-c8c7e1dc141f.JPG",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/18133/2018/d83f3a74-297d-431f-8d8e-c8c7e1dc141f-1582623934.JPG",
+    "url_thumb": "https://www.astrobin.com/382198/0/rawthumb/thumb/",
+    "user": "GaryI",
+    "views": 294,
+    "w": 4520
+}

@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 14,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "30.830",
+    "description": "",
+    "h": 3286,
+    "hash": null,
+    "id": 305472,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool",
+        "Canon EOS 5D MKII Baader modified"
+    ],
+    "imaging_telescopes": [
+        "Celestron Rowe-Ackermann Schmidt Astrograph"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 6,
+    "license_name": "ATTRIBUTION_NO_DERIVS",
+    "likes": 191,
+    "link": "http://www.baerenstein-observatory.de",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806412/"
+    ],
+    "orientation": "83.547",
+    "pixscale": "1.264",
+    "published": "2017-07-31T10:08:58.538906",
+    "ra": "311.783",
+    "radius": "0.999",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/305472/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6960",
+        "The star 52Cyg",
+        "Veil Nebula"
+    ],
+    "title": "Western Veil Nebula",
+    "updated": "2021-03-21T11:07:46.000429",
+    "uploaded": "2017-07-31T11:08:59.579646",
+    "url_duckduckgo": "https://www.astrobin.com/305472/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/305472/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/305472/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/305472/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/305472/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/305472/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/305472/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/20996/2020/512cded2-f609-4bec-8543-af9ea7c96a6a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/20996/2020/512cded2-f609-4bec-8543-af9ea7c96a6a-1598952665.jpg",
+    "url_thumb": "https://www.astrobin.com/305472/0/rawthumb/thumb/",
+    "user": "Marcel_Drechsler",
+    "views": 1198,
+    "w": 4645
+}

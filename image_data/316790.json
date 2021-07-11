@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "56.646",
+    "description": "100x120s Ha\r\n100x120s O3\r\n 40x120s S2",
+    "h": 1282,
+    "hash": null,
+    "id": 316790,
+    "imaging_cameras": [
+        "ZWO Optical ZWO ASI 1600MM cool"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" F/4 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 79,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802093/"
+    ],
+    "orientation": "53.225",
+    "pixscale": "0.972",
+    "published": "2017-10-15T17:43:46.279188",
+    "ra": "13.158",
+    "radius": "0.691",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/316790/",
+    "revisions": [
+        "/api/v1/imagerevision/127328/"
+    ],
+    "subjects": [
+        "NGC 281"
+    ],
+    "title": "Pacman NGC 281 - HAlpha / O3 / S2",
+    "updated": "2021-03-17T19:32:18.871497",
+    "uploaded": "2017-10-15T18:35:47.679766",
+    "url_duckduckgo": "https://www.astrobin.com/316790/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/316790/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/316790/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/316790/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/316790/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/316790/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/316790/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4577/2017/6f12ab8d-14a1-4700-bfae-e15d3a91eb9e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/6f12ab8d-14a1-4700-bfae-e15d3a91eb9e-1508089144.jpg",
+    "url_thumb": "https://www.astrobin.com/316790/0/rawthumb/thumb/",
+    "user": "Jonas242",
+    "views": 230,
+    "w": 1824
+}

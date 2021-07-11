@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 6,
+    "data_source": "BACKYARD",
+    "dec": "61.313",
+    "description": "Red: 0.5 Ha + 0.5 SII<br>\r\nGreen: OIII<br>\r\nBlue: OIII<br>",
+    "h": 1712,
+    "hash": null,
+    "id": 371303,
+    "imaging_cameras": [
+        "ZWO ASI 183MM Pro"
+    ],
+    "imaging_telescopes": [
+        "Skywatcher 150/750 PDS Newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 128,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806796/"
+    ],
+    "orientation": "297.901",
+    "pixscale": "1.311",
+    "published": "2018-10-12T11:07:12.235363",
+    "ra": "38.673",
+    "radius": "0.568",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/371303/",
+    "revisions": [
+        "/api/v1/imagerevision/237052/"
+    ],
+    "subjects": [
+        "IC 1805"
+    ],
+    "title": "IC 1805 / Melotte 15 (Bi-Color)",
+    "updated": "2021-03-17T13:38:25.009179",
+    "uploaded": "2018-10-12T11:53:36.940304",
+    "url_duckduckgo": "https://www.astrobin.com/371303/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/371303/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/371303/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/371303/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/371303/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/371303/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/371303/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22095/2018/8c2a5857-ffdc-4390-a324-1dc1de7e79d1.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22095/2018/8c2a5857-ffdc-4390-a324-1dc1de7e79d1-1582580451.png",
+    "url_thumb": "https://www.astrobin.com/371303/0/rawthumb/thumb/",
+    "user": "fschiel",
+    "views": 583,
+    "w": 2606
+}

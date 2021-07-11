@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "44.108",
+    "description": "pelican nebula HOO (Ha, OIII, 0.2*Ha+0.8*OIII)\r\n7x1800s 5nm Ha\r\n15x1800s 5nm OIII\r\n\r\ntotal 11h\r\n\r\nstt-8300m and fw8g-stt on TMB92ss with orion flattener\r\nmach1gto\r\noakland, ca\r\n\r\nslightly sketchy as i forgot to take OIII flats...",
+    "h": 3297,
+    "hash": null,
+    "id": 298598,
+    "imaging_cameras": [
+        "SBIG STT 8300M"
+    ],
+    "imaging_telescopes": [
+        "TMB-92SS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 77,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798717/"
+    ],
+    "orientation": "0.911",
+    "pixscale": "2.187",
+    "published": "2017-06-06T03:23:03.749040",
+    "ra": "312.751",
+    "radius": "1.250",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298598/",
+    "revisions": [],
+    "subjects": [
+        "56 Cyg",
+        "57 Cyg",
+        "B349",
+        "IC 5070",
+        "IC5070",
+        "Pelican nebula",
+        "The star 56Cyg",
+        "The star 57Cyg"
+    ],
+    "title": "pelican HOO",
+    "updated": "2021-03-17T20:44:20.022110",
+    "uploaded": "2017-06-06T04:15:47.288461",
+    "url_duckduckgo": "https://www.astrobin.com/298598/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298598/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298598/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298598/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298598/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298598/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298598/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/160/2020/ae3074b1-7d91-42a6-ac02-e14ccec114c2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/160/2020/ae3074b1-7d91-42a6-ac02-e14ccec114c2-1582628681.jpg",
+    "url_thumb": "https://www.astrobin.com/298598/0/rawthumb/thumb/",
+    "user": "pfile",
+    "views": 233,
+    "w": 2463
+}

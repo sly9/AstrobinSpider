@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 13,
+    "data_source": "UNSET",
+    "dec": "47.210",
+    "description": "Object description (wikipedia.org): \r\nThe Whirlpool Galaxy, also known as Messier 51a, M51a, and NGC 5194, is an interacting grand-design spiral galaxy with a Seyfert 2 active galactic nucleus. It lies in the constellation Canes Venatici, and was the first galaxy to be classified as a spiral galaxy. Its distance is estimated to be between 15 and 35 million light-years.\r\n\r\nThe galaxy and its companion, NGC 5195, are easily observed by amateur astronomers, and the two galaxies may be seen with binoculars. The Whirlpool Galaxy has been extensively observed by professional astronomers, who study it to understand galaxy structure (particularly structure associated with the spiral arms) and galaxy interactions.",
+    "h": 2483,
+    "hash": null,
+    "id": 337711,
+    "imaging_cameras": [
+        "Moravian G2-8300FW"
+    ],
+    "imaging_telescopes": [
+        "GSO 8\" f/5 Newton"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 185,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800383/"
+    ],
+    "orientation": "41.303",
+    "pixscale": "0.553",
+    "published": "2018-03-17T10:09:15.277234",
+    "ra": "202.453",
+    "radius": "0.320",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/337711/",
+    "revisions": [
+        "/api/v1/imagerevision/139849/",
+        "/api/v1/imagerevision/139871/",
+        "/api/v1/imagerevision/140263/"
+    ],
+    "subjects": [
+        "M 51",
+        "NGC 5194",
+        "NGC 5195",
+        "Whirlpool galaxy"
+    ],
+    "title": "M51 LRGB Ha - from my backyard - drizzle version",
+    "updated": "2021-03-17T16:11:57.494927",
+    "uploaded": "2018-03-17T09:52:27.489391",
+    "url_duckduckgo": "https://www.astrobin.com/337711/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/337711/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/337711/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/337711/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/337711/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/337711/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/337711/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/6530/2018/b73c974d-f1f3-4778-b93d-5163a795855b.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/6530/2018/b73c974d-f1f3-4778-b93d-5163a795855b-1582601285.jpg",
+    "url_thumb": "https://www.astrobin.com/337711/0/rawthumb/thumb/",
+    "user": "superelch",
+    "views": 967,
+    "w": 3351
+}

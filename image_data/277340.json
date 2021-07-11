@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "-10.501",
+    "description": "This is my first attempt at not binning the color.  I think from here on out, I will go un-binned!  I think it produces a better result and allows me to degrade the resolution of the image for color if I want to.  The color in the image is a bit noisy, but I am going back for more data.  I find that my Moravian has a ratio of somewhere around 1R 1.3G 2.3B.  I am interested in knowing what others are experiencing.\r\n\r\nMerry Christmas!",
+    "h": 2302,
+    "hash": null,
+    "id": 277340,
+    "imaging_cameras": [
+        "Moravian Instruments G3-16200",
+        "QHY5L-II Mono"
+    ],
+    "imaging_telescopes": [
+        "TPO 10\" f/8 Ritchey–Chrétien"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 44,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805671/"
+    ],
+    "orientation": "91.543",
+    "pixscale": "0.618",
+    "published": "2016-12-26T19:19:51.944297",
+    "ra": "106.120",
+    "radius": "0.483",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/277340/",
+    "revisions": [],
+    "subjects": [
+        "IC 2177"
+    ],
+    "title": "Seagull Nebula IC2177",
+    "updated": "2021-03-17T22:10:45.716354",
+    "uploaded": "2016-12-26T19:19:54.400422",
+    "url_duckduckgo": "https://www.astrobin.com/277340/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/277340/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/277340/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/277340/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/277340/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/277340/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/277340/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/ea3656a2-92b3-4d30-b28f-03eb65e1db70.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/ea3656a2-92b3-4d30-b28f-03eb65e1db70-1482848142.jpg",
+    "url_thumb": "https://www.astrobin.com/277340/0/rawthumb/thumb/",
+    "user": "bigeastro",
+    "views": 184,
+    "w": 1824
+}

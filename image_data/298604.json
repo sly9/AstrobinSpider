@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "38.363",
+    "description": "Site : Gunwigoon, KOREA\r\nTelescope : GSO RC10\" + CCDT67\r\nMount : Rainbowastro RST400\r\nCamera : QSI690wsg, Lodestarx2\r\nExposeure : Ha 13 x 600s, O 13 x 600s each (Total 4h 20m, All 2x2 Bin)",
+    "h": 1324,
+    "hash": null,
+    "id": 298604,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "GSO RC 10\""
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806211/"
+    ],
+    "orientation": "91.664",
+    "pixscale": "1.093",
+    "published": "2017-06-06T05:26:38.440510",
+    "ra": "303.027",
+    "radius": "0.323",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/298604/",
+    "revisions": [],
+    "subjects": [
+        "Crescent nebula",
+        "NGC 6888"
+    ],
+    "title": "NGC6888",
+    "updated": "2021-03-17T20:44:18.545764",
+    "uploaded": "2017-06-06T06:26:39.900982",
+    "url_duckduckgo": "https://www.astrobin.com/298604/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/298604/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/298604/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/298604/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/298604/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/298604/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/298604/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/3e83bde2-b2ca-4958-8869-ca3ef2374b30.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3e83bde2-b2ca-4958-8869-ca3ef2374b30-1496727035.jpg",
+    "url_thumb": "https://www.astrobin.com/298604/0/rawthumb/thumb/",
+    "user": "Minseok.Chang",
+    "views": 489,
+    "w": 1668
+}

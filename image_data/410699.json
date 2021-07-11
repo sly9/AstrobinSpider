@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": "22.719",
+    "description": "With the new ASI290mm I made some test shots of M27 in 2016, unfortunately only in 8 bit. I have now edited the LRGB of this so that it can be combined with the bicolor from 2018. \r\nNext, I would have to make better RGB shots, then I could also renew the stars.\r\n\r\n30./31. August 2016 - APQ 130/1000 - ASI290mm:\r\nL = 211 x 6 s,  R = 73 x 12 s,  G = 72 x 12 s, B= 73 x 12 s\r\n\r\n13./14. Oktober 2018 - APQ 130/1000 x 0,75  - ASI1600mmc:\r\nH-alpha = 96 x 60 s,  OIII = 120 x 60 s",
+    "h": 1058,
+    "hash": null,
+    "id": 410699,
+    "imaging_cameras": [
+        "ASI290MM",
+        "ZWO ASI1600mm-Cool"
+    ],
+    "imaging_telescopes": [
+        "Zeiss APQ130"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 68,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "179.060",
+    "pixscale": "0.598",
+    "published": "2019-06-16T19:47:46.119696",
+    "ra": "299.880",
+    "radius": "0.170",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410699/",
+    "revisions": [
+        "/api/v1/imagerevision/183018/"
+    ],
+    "subjects": [
+        "Dumbbell nebula",
+        "M 27",
+        "NGC 6853"
+    ],
+    "title": "M 27  -  bicolor + RGB",
+    "updated": "2021-05-14T12:09:19.482116",
+    "uploaded": "2019-06-16T20:47:46.240390",
+    "url_duckduckgo": "https://www.astrobin.com/410699/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410699/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410699/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410699/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410699/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410699/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410699/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/34192/2019/c2a84ce8-1330-4e13-912d-ba130ee7ca6a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/34192/2019/c2a84ce8-1330-4e13-912d-ba130ee7ca6a-1582634529.jpg",
+    "url_thumb": "https://www.astrobin.com/410699/0/rawthumb/thumb/",
+    "user": "LarsSt",
+    "views": 254,
+    "w": 1756
+}

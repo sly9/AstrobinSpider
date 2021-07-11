@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 14,
+    "data_source": "BACKYARD",
+    "dec": "31.240",
+    "description": "The Bat Nebula is a curtain of glowing filaments and wisps of nebulosity that is a continuation of the Veil Nebula (Sh2-103) and a portion of the Cygnus Loop supernova remnant (SNR G074.0-08.6). Contiguous to the Bat Nebula (to the right in this image) is a knot of gas and dust catalogued NGC 6995, and beyond that is the Eastern Veil, NGC 6992. Taken together with the Western Veil (NGC 6990), Pickering’s Triangle, NGC 6979, NGC 6974 and the Southeastern Knot, Cygnus Loop covers nearly 3 degrees of the night sky and is about 1500 light-years from Earth.\r\n\r\nThis image is comprised of data collected over two years. All in all, about 18 hours of Ha and OIII were collected using one camera (ZWO ASI1600mm Pro), and two different OTA’s, including a 6” RC at 1100mm FL (X0.67 focal reducer) and a 132mm refractor at 925mm FL (native). The data were segregated and processed differently depending on their HFR. I created a master luminance using both Ha and OIII subs with an HFR <2.5, about 5.5 hours of exposure in total. I’d like to have more low HFR data, but the weather has not cooperated all spring and early summer. In fact, the last 90 minutes of low HFR data I collected for this image happened a few subs at a time over a four month period. I figured as soon as I quit trying the weather should improve.",
+    "h": 2881,
+    "hash": null,
+    "id": 414363,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "Orion 6\" Ritchey-Chretien",
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 131,
+    "link": "https://www.garylopezphotography.com",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "280.940",
+    "pixscale": "0.793",
+    "published": "2019-07-09T03:48:23.472823",
+    "ra": "314.177",
+    "radius": "0.572",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/414363/",
+    "revisions": [],
+    "subjects": [
+        "IC 1340",
+        "IC1340",
+        "NGC 6995",
+        "NGC6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "Bat Nebula (IC 1340)",
+    "updated": "2021-07-07T06:59:23.106235",
+    "uploaded": "2019-07-09T04:48:23.704976",
+    "url_duckduckgo": "https://www.astrobin.com/414363/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/414363/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/414363/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/414363/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/414363/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/414363/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/414363/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/982fe058-bfeb-4ac0-a4cd-61bb95fd4877.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/982fe058-bfeb-4ac0-a4cd-61bb95fd4877-1562648214.jpg",
+    "url_thumb": "https://www.astrobin.com/414363/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 518,
+    "w": 4321
+}

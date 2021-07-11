@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 22,
+    "data_source": "OWN_REMOTE",
+    "dec": "34.215",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix (Ha,OIII)\r\nTV127is+ASI183MM at .75 asec/pix. (LRGB,Ha,OIII)\r\nThey were all registered to the best Ha image taken on the AG12.\r\n\r\nMWP1 Motch-Werner-Pakull 1, also commonly known as the Methuselah Nebula, is a lovely bi-polar nebula not commonly imaged, despite its rather large size.\r\n\r\nDescription published in Astronomy Magazine, March, 2011, page 70\r\nMWP1 (Motch, Werner Pakull), PNG 80.8-10.6, is an ancient, bipolar planetary nebula located in Cygnus with a distance of 1400 light years. MWP1 is one of the largest known PNe. It has an apparent size of 13’x 9' and an estimated age of 150,000 years. It is a challenge for scientists studying its evolutionary history because its expansion time of 150,000 years (if an expansion velocity of 20 km/s is assumed) is at least two orders of magnitude longer than the time since the central star’s departure from the AGB (about 1000 years). One possible explanation for this discrepancy may be found in the born-again post-AGB nature of the central star: A late He-shell flash at already declining luminosity brings back the star to the AGB and it experiences a second, He-burning, post-AGB phase on a three times longer time scale. However, a “normal” PN will disperse in about 20 000 years below the detection limit and hence, MWP1 has to have extraordinary parameters. It is also rare, being a bipolar nebula, in which account for about 10% of young PNe. It is also interacting with the interstellar medium. A bipolar structure may suggest that there is a close binary central star or one that has a significant magnetic field. The central star, RX J2117.1+3412, is also a pulsating GW Vir star.",
+    "h": 4132,
+    "hash": null,
+    "id": 416932,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 154,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "357.874",
+    "pixscale": "0.565",
+    "published": "2019-07-27T11:24:47.538558",
+    "ra": "319.277",
+    "radius": "0.543",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/416932/",
+    "revisions": [],
+    "subjects": [
+        "PK080-10.1"
+    ],
+    "title": "MWP1 Motch-Werner-Pakull 1- Methuselah Nebula",
+    "updated": "2021-04-17T00:39:23.944662",
+    "uploaded": "2019-07-25T14:28:46.240793",
+    "url_duckduckgo": "https://www.astrobin.com/416932/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416932/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416932/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416932/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416932/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416932/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416932/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/89d3f79d-398f-4f09-825d-f1ae2fa85162.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/89d3f79d-398f-4f09-825d-f1ae2fa85162-1582590787.jpg",
+    "url_thumb": "https://www.astrobin.com/416932/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 649,
+    "w": 5545
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 4,
+    "data_source": "TRAVELLER",
+    "dec": "-69.327",
+    "description": "The Tarantula Nebula resides in the Large Magellanic Cloud, seen from the southern hemisphere.\r\nCeravolo 300mm astrograph with f/4.9 configuration. LRGB HA OIII: 35: 25: 20: 25: 25: 20 mins.\r\nAcquisition: Peter Ceravolo\r\nall processing: Debra Ceravolo",
+    "h": 4002,
+    "hash": "p27wjw",
+    "id": 455132,
+    "imaging_cameras": [
+        "Apogee U-16M Apogee CCD"
+    ],
+    "imaging_telescopes": [
+        "Ceravolo CDK dual config. 300mm f/4.9"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 48,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2812882/"
+    ],
+    "orientation": "181.636",
+    "pixscale": "1.270",
+    "published": "2020-02-15T20:25:01.489443",
+    "ra": "84.782",
+    "radius": "0.998",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/455132/",
+    "revisions": [],
+    "subjects": [
+        "NGC 2048",
+        "NGC 2070",
+        "NGC 2077",
+        "NGC 2100",
+        "Tarantula nebula"
+    ],
+    "title": "Tarantula Nebula",
+    "updated": "2021-03-17T05:05:51.465874",
+    "uploaded": "2020-02-15T20:25:01.712492",
+    "url_duckduckgo": "https://www.astrobin.com/p27wjw/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/p27wjw/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/p27wjw/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/p27wjw/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/p27wjw/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/p27wjw/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/p27wjw/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/55711/2020/f4d08e8c-4976-427b-a1a3-4f2e343c4a77.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/55711/2020/f4d08e8c-4976-427b-a1a3-4f2e343c4a77-1581799197.jpg",
+    "url_thumb": "https://www.astrobin.com/p27wjw/0/rawthumb/thumb/",
+    "user": "debraceravolo",
+    "views": 176,
+    "w": 4000
+}

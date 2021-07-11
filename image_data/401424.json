@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "32.365",
+    "description": "The global full  field with these 2 galaxies NGC4656 and NGC4631 the Hockey Stick and the Whale Galaxies.\r\n\r\nAfter a fisrt pass with LRGB subs , I decided to add Halpha (6 hours) to get all the small clusters and nebulas and it worked fine for both galaxies ! \r\n\r\n3 nights were necessary to get the subs: 31/01 of march and 04/05, and 12/13 of april\r\nRed 40 subs@180s -20°C gain zero\r\nBlue 30 subs@180s -20°C gain zero\r\nGreen 29 subs@180s -20°C gain zero\r\nLight 59subs@180s -20°C, gain zero\r\nHalpha 61subs@180s -20°C, gain 139",
+    "h": 3432,
+    "hash": null,
+    "id": 401424,
+    "imaging_cameras": [
+        "ZWO 1600mm Cooled Pro"
+    ],
+    "imaging_telescopes": [
+        "LACERTA 250/1000 F4 LACERTA NEWTON"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 84,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808690/"
+    ],
+    "orientation": "2.697",
+    "pixscale": "0.784",
+    "published": "2019-04-17T16:17:23.378140",
+    "ra": "190.749",
+    "radius": "0.623",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/401424/",
+    "revisions": [],
+    "subjects": [
+        "NGC 4627",
+        "NGC 4631",
+        "NGC 4656",
+        "NGC 4657"
+    ],
+    "title": "Whale and Hockey Stick Galaxies - NGC4656 and NGC4631",
+    "updated": "2021-03-17T11:18:17.497657",
+    "uploaded": "2019-04-16T18:26:08.358006",
+    "url_duckduckgo": "https://www.astrobin.com/401424/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/401424/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/401424/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/401424/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/401424/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/401424/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/401424/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26788/2019/56e4f880-69e9-4217-9342-71235a3157c1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26788/2019/56e4f880-69e9-4217-9342-71235a3157c1-1582529378.jpg",
+    "url_thumb": "https://www.astrobin.com/401424/0/rawthumb/thumb/",
+    "user": "Arnaudf92",
+    "views": 313,
+    "w": 4580
+}

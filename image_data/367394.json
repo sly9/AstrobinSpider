@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 5,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "13.676",
+    "description": "",
+    "h": 2779,
+    "hash": null,
+    "id": 367394,
+    "imaging_cameras": [
+        "QSI6120ws"
+    ],
+    "imaging_telescopes": [
+        "Takahashi CCA250"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 154,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807014/",
+        "/api/v1/location/2809569/"
+    ],
+    "orientation": "0.412",
+    "pixscale": "0.511",
+    "published": "2018-09-18T05:08:12.590515",
+    "ra": "25.836",
+    "radius": "0.355",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/367394/",
+    "revisions": [
+        "/api/v1/imagerevision/156923/"
+    ],
+    "subjects": [
+        "NGC 660"
+    ],
+    "title": "Polar Ring Galaxy NGC 660",
+    "updated": "2021-03-17T13:57:16.924261",
+    "uploaded": "2018-09-18T06:08:12.991389",
+    "url_duckduckgo": "https://www.astrobin.com/367394/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/367394/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/367394/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/367394/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/367394/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/367394/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/367394/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2018/c37a6b63-b641-4544-84ae-0228afd0d992.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2018/c37a6b63-b641-4544-84ae-0228afd0d992-1582598540.jpg",
+    "url_thumb": "https://www.astrobin.com/367394/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 566,
+    "w": 4161
+}

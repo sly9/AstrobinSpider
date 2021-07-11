@@ -1,0 +1,73 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 1,
+    "data_source": "BACKYARD",
+    "dec": "54.355",
+    "description": "",
+    "h": 1823,
+    "hash": null,
+    "id": 333741,
+    "imaging_cameras": [
+        "Atik 383+",
+        "ALCCD 6c pro"
+    ],
+    "imaging_telescopes": [
+        "TEC 140ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 55,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799378/"
+    ],
+    "orientation": "105.031",
+    "pixscale": "1.476",
+    "published": "2018-02-15T09:17:40.006095",
+    "ra": "210.819",
+    "radius": "0.629",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/333741/",
+    "revisions": [
+        "/api/v1/imagerevision/140036/"
+    ],
+    "subjects": [
+        "M 101",
+        "M101",
+        "NGC 5457",
+        "NGC 5473",
+        "NGC 5477",
+        "NGC5447",
+        "NGC5449",
+        "NGC5450",
+        "NGC5451",
+        "NGC5453",
+        "NGC5455",
+        "NGC5461",
+        "NGC5462",
+        "NGC5471",
+        "NGC5473",
+        "NGC5477",
+        "Pinwheel galaxy"
+    ],
+    "title": "M 101",
+    "updated": "2021-03-17T16:30:43.380599",
+    "uploaded": "2018-02-15T09:17:40.415749",
+    "url_duckduckgo": "https://www.astrobin.com/333741/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/333741/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/333741/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/333741/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/333741/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/333741/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/333741/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/761a9e79-b8c9-4fcc-a89d-5096814718a8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/761a9e79-b8c9-4fcc-a89d-5096814718a8-1518686383.jpg",
+    "url_thumb": "https://www.astrobin.com/333741/0/rawthumb/thumb/",
+    "user": "skyphoto_michael",
+    "views": 363,
+    "w": 2468
+}

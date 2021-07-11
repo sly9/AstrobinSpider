@@ -1,0 +1,59 @@
+{
+    "animated": false,
+    "bookmarks": 8,
+    "comments": 20,
+    "data_source": "OWN_REMOTE",
+    "dec": "-11.632",
+    "description": "Images from the following two scopes (piggybacked) contributed to this image:\r\nAG12+ASI1600MM at .70 asec/pix\r\nTV127is+ASI183MM at .75 asec/pix. \r\nThey were all registered to the best R image taken on the AG12.\r\nUsing L from the TV NP127is refractor effectively eliminates the spikes from the AG12.\r\n\r\nThe Sombrero Galaxy (also known as Messier Object 104, M104 or NGC 4594) is a lenticular galaxy in the constellation Virgo found 31,100,000 ly from Earth. The galaxy has a diameter of approximately 50,000 light-years, 30% the size of the Milky Way. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its inclined disk. The dark dust lane and the bulge give this galaxy the appearance of a sombrero hat. Astronomers initially thought that the halo was small and light, indicative of a spiral galaxy, but the Spitzer Space Telescope found that the dust ring around the Sombrero Galaxy is larger and more massive than previously thought, indicative of a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, making it easily visible with amateur telescopes, and it is considered by some authors to be the galaxy with the highest absolute magnitude within a radius of 10 megaparsecs of the Milky Way. Its large bulge, its central supermassive black hole, and its dust lane all attract the attention of professional astronomers.\r\n(Wikipedia)",
+    "h": 1656,
+    "hash": null,
+    "id": 411012,
+    "imaging_cameras": [
+        "ZWO ASI   183 MM pro",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Tele Vue NP127is",
+        "Orion Optics UK AG12"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 4,
+    "license_name": "ATTRIBUTION",
+    "likes": 219,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804416/"
+    ],
+    "orientation": "357.655",
+    "pixscale": "0.701",
+    "published": "2019-06-19T18:03:47.852395",
+    "ra": "189.997",
+    "radius": "0.264",
+    "remote_source": "OWN",
+    "resource_uri": "/api/v1/image/411012/",
+    "revisions": [],
+    "subjects": [
+        "M 104",
+        "M104",
+        "NGC 4594",
+        "Sombrero galaxy"
+    ],
+    "title": "M104 Sombrero Galaxy",
+    "updated": "2021-06-03T13:01:06.429060",
+    "uploaded": "2019-06-19T18:53:14.722589",
+    "url_duckduckgo": "https://www.astrobin.com/411012/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/411012/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/411012/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/411012/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/411012/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/411012/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/411012/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/14978/2019/ed472f2a-52de-470c-8950-876035121220.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/14978/2019/ed472f2a-52de-470c-8950-876035121220-1582590806.jpg",
+    "url_thumb": "https://www.astrobin.com/411012/0/rawthumb/thumb/",
+    "user": "jmacon",
+    "views": 1208,
+    "w": 2152
+}

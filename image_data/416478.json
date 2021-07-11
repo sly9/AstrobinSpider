@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 1,
+    "comments": 3,
+    "data_source": "TRAVELLER",
+    "dec": "-58.619",
+    "description": "This is another cropped version of a wider view of the Gabriela Mistral Nebula region already posted on Astrobin.  This particular crop includes an inset picture of Gabriela Mistral (public domain from Wikipedia), after whom the nebula has been nicknamed.\r\n\r\nAcquisition details are the same as for the wider view on Astrobin: Ha 5 hours, OII 4.5 hours, SII 3.5 hours = Total 13 hours\r\n\r\nIC 2599 is a bright HII emission nebula with an associated open star cluster NGC 3324 approximately 7,500 light years away in the constellation of Carina. Collectively, NGC3324 and IC 2599 have been nicknamed as the Gabriela Mistral Nebula because of the striking (and somewhat disturbing) resemblance to the late Chilean poet \r\n\r\nThe picture was formed by combining individual images taken with three different filters: ionised Hydrogen (Ha), Oxygen (OIII) and Sulphur (SII). It was processed in PixInsight using the Hubble Space Telescope palette (Red = SII, Green = Ha, Blue = OIII) and a synthetic luminance blended from all three colour components.",
+    "h": 1622,
+    "hash": null,
+    "id": 416478,
+    "imaging_cameras": [
+        "QSI683WSG-8"
+    ],
+    "imaging_telescopes": [
+        "Orion EON 130mm APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 35,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808370/"
+    ],
+    "orientation": "359.623",
+    "pixscale": "1.014",
+    "published": "2019-07-21T21:27:44.372844",
+    "ra": "159.238",
+    "radius": "0.421",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/416478/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3324",
+        "NGC3324"
+    ],
+    "title": "NGC3324 and IC2599 (Gabriela Mistral Nebula) [SHO] (Crop2, with Inset)",
+    "updated": "2021-03-17T10:06:14.297736",
+    "uploaded": "2019-07-21T22:20:07.245914",
+    "url_duckduckgo": "https://www.astrobin.com/416478/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/416478/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/416478/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/416478/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/416478/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/416478/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/416478/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/26027/2019/ba8a1bfc-8538-4b6f-ae32-b756e08139dc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/26027/2019/ba8a1bfc-8538-4b6f-ae32-b756e08139dc-1582516419.jpg",
+    "url_thumb": "https://www.astrobin.com/416478/0/rawthumb/thumb/",
+    "user": "dean.carr",
+    "views": 142,
+    "w": 2510
+}

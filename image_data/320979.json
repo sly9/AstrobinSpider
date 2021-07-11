@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 7,
+    "data_source": "UNSET",
+    "dec": "-72.083",
+    "description": "",
+    "h": 1824,
+    "hash": null,
+    "id": 320979,
+    "imaging_cameras": [
+        "FLI Proline 16803"
+    ],
+    "imaging_telescopes": [
+        "ASA - Astro Systeme Austria 500mm F3.6 corrected newtonian"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 178,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2808008/"
+    ],
+    "orientation": "88.571",
+    "pixscale": "0.953",
+    "published": "2018-01-02T16:54:52.328068",
+    "ra": "6.023",
+    "radius": "0.766",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/320979/",
+    "revisions": [
+        "/api/v1/imagerevision/129626/",
+        "/api/v1/imagerevision/133860/"
+    ],
+    "subjects": [
+        "47 Tuc",
+        "NGC 104"
+    ],
+    "title": "NGC104",
+    "updated": "2021-04-09T09:48:40.836015",
+    "uploaded": "2017-11-10T13:52:43.083043",
+    "url_duckduckgo": "https://www.astrobin.com/320979/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/320979/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/320979/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/320979/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/320979/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/320979/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/320979/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15577/2017/87962811-70ca-42ff-9d27-2e1209f7c3d1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/87962811-70ca-42ff-9d27-2e1209f7c3d1-1510368026.jpg",
+    "url_thumb": "https://www.astrobin.com/320979/0/rawthumb/thumb/",
+    "user": "YuichiKawamoto",
+    "views": 666,
+    "w": 1824
+}

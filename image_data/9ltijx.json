@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 11,
+    "comments": 30,
+    "data_source": "AMATEUR_HOSTING",
+    "dec": "-39.225",
+    "description": "NGC 55 (The Whale Galaxy)\r\nOTA:                        RCOS  (12.5” f/8) \r\nCamera:                 SBIG STXL11002\r\nObservatory:         Heaven’s Mirror, Au\r\nEXPOSURES:\r\n        Red:         12 x 1200\r\n        Blue:        15 x 1200\r\n        Green:     14 x 1200\r\n        Lum:        27 x 1200\r\n        Ha:           6 x 1800\r\nTotal exposure       ~16.5    hours\r\nImage Width:         ~1/2     deg\r\nProcessed by Alex Woronow (2019) using PixInsight, Matlab, Skylum, SWT\r\n\r\nNGC 55 maybe a member of the loosely associated Sculptor galaxy group, a close neighbor of our own “Local Group.” NGC 55 lies only about 6.5M light-years away. It is gravitationally bound to NGC 300, also in my Astrobin collection.\r\n\r\nThis nearly edge-on view shows dust bands and HII red clouds, and the blue from many young hot stars--NGC 55, apparently, has had a long history of high-rate star production. It is thought to be a barred galaxy, resembling the Large Magellanic Cloud. The distorted shape has be attributed to an abundance of super-novae explosions and extensive strong stellar winds.",
+    "h": 2593,
+    "hash": "9ltijx",
+    "id": 443864,
+    "imaging_cameras": [
+        "SBIG STXL 11002M"
+    ],
+    "imaging_telescopes": [
+        "RCOS 12.5 AU"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 200,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "228.809",
+    "pixscale": "0.645",
+    "published": "2019-12-18T16:32:33.464933",
+    "ra": "3.786",
+    "radius": "0.372",
+    "remote_source": "HMO",
+    "resource_uri": "/api/v1/image/443864/",
+    "revisions": [
+        "/api/v1/imagerevision/203957/",
+        "/api/v1/imagerevision/203958/"
+    ],
+    "subjects": [
+        "NGC 55",
+        "NGC55"
+    ],
+    "title": "NGC 55  (Whale Galaxy)",
+    "updated": "2021-03-17T06:00:43.068861",
+    "uploaded": "2019-12-18T16:32:33.623111",
+    "url_duckduckgo": "https://www.astrobin.com/9ltijx/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/9ltijx/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/9ltijx/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/9ltijx/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/9ltijx/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/9ltijx/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/9ltijx/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/32963/2019/b5559642-a88d-4845-add9-4633a882bdb8.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/32963/2019/b5559642-a88d-4845-add9-4633a882bdb8-1582285206.jpg",
+    "url_thumb": "https://www.astrobin.com/9ltijx/0/rawthumb/thumb/",
+    "user": "Alex_Woronow",
+    "views": 1558,
+    "w": 3244
+}

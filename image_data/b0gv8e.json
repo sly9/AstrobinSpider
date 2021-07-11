@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 2,
+    "data_source": "BACKYARD",
+    "dec": null,
+    "description": "California Nebula in HaRGB - Starless version\r\n-------------------------\r\nThis is the starless version of the image I was able to capture back in November/December 2019.\r\nIt is the result of 12 hours of combined Ha + RGB colour data on this enormous emission nebula, which is located ~1500 light years away from us.\r\nIt was produced using the Starnet++ software.\r\n\r\nThe original image can be found here:\r\n<a href=\"https://astrob.in/60r91f/E/\"><img src=\"https://astrob.in/60r91f/E/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n\r\nThe Ha-only version of it can be found here:\r\n<a href=\"https://astrob.in/v4shpy/B/\"><img src=\"https://astrob.in/v4shpy/B/rawthumb/gallery/get.jpg?insecure\"/></a>\r\n\r\nI don't usually do starless images, but sometimes they can be very impressive and show a clearer definition of the details of the nebulosity.\r\n-------------------------\r\nTotal imaging time: 12 hours (90x300\" in H-alpha + 90x180\" in colour)\r\nTelescope: Sky-Watcher Evostar ED80 Black Diamond\r\nCamera: ZWO ASI294MC Pro\r\nMount: Celestron AVX",
+    "h": 1946,
+    "hash": "b0gv8e",
+    "id": 470407,
+    "imaging_cameras": [
+        "ZWO ASI294MC Pro"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher ED80 Pro Black-Diamond"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 37,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810018/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2020-03-29T18:45:30.133273",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/470407/",
+    "revisions": [
+        "/api/v1/imagerevision/222492/"
+    ],
+    "subjects": [],
+    "title": "California Nebula in HaRGB - Starless version",
+    "updated": "2021-04-19T17:23:01.685328",
+    "uploaded": "2020-03-29T19:45:30.588657",
+    "url_duckduckgo": "https://www.astrobin.com/b0gv8e/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/b0gv8e/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/b0gv8e/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/b0gv8e/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/b0gv8e/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/b0gv8e/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/b0gv8e/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/b0gv8e/0/rawthumb/thumb/",
+    "user": "Orestis_Pavlou",
+    "views": 121,
+    "w": 2673
+}

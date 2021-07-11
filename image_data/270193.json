@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": null,
+    "description": "M57 spectra.\r\nUpper left  :Autoguider enhanced image (SDSS colored)\r\nUpper right : Part of the ring nebula used for this spectra \r\nLower part : synthetic colored spectra and elements\r\n\r\nNebula high excitation class (He line at 4686 A) : E7 or E8 with E = 2.05\r\nTeff central star = 90 000 to 100 000 K\r\n\r\nRatio S II I(6716)/I(6731) = 1,0645339217\r\nGiving approx up to Ne = 500  / cm3\r\n\r\nTe from [N II] procedure gives : \r\nTe [N II]= 11 500 K\r\n\r\nValues for outer ring from \r\nCHEMICAL ABUNDANCES AND KINEMATICS OF THE RING NEBULA AND ITS HALOS M. A. GUERRERO1 AND A. MANCHADO1- 1997  and Y.-H. CHU\r\n  (http://iopscience.iop.org/article/10.1086/304582/meta)\r\ngive :\r\n\r\nNe = 615 \r\nTe [N II] = 10240 K\r\n\r\nNot so bad for that time..;-)\r\n",
+    "h": 1000,
+    "hash": null,
+    "id": 270193,
+    "imaging_cameras": [
+        "Atik 314L+"
+    ],
+    "imaging_telescopes": [
+        "SkyWatcher Newton 150-750"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 32,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805987/"
+    ],
+    "orientation": null,
+    "pixscale": null,
+    "published": "2016-11-01T18:00:07.149777",
+    "ra": null,
+    "radius": null,
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270193/",
+    "revisions": [],
+    "subjects": [],
+    "title": "M57 outer ring spectra",
+    "updated": "2021-05-20T12:30:09.007070",
+    "uploaded": "2016-11-01T17:50:30.084600",
+    "url_duckduckgo": "https://www.astrobin.com/270193/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270193/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270193/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270193/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270193/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270193/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270193/0/rawthumb/regular/",
+    "url_skyplot": null,
+    "url_solution": null,
+    "url_thumb": "https://www.astrobin.com/270193/0/rawthumb/thumb/",
+    "user": "Stef",
+    "views": 311,
+    "w": 1400
+}

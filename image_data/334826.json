@@ -1,0 +1,63 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "34.225",
+    "description": "",
+    "h": 3115,
+    "hash": null,
+    "id": 334826,
+    "imaging_cameras": [
+        "Moravian G4-16000"
+    ],
+    "imaging_telescopes": [
+        "AG Optical 12.5 IDK"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 50,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2802334/"
+    ],
+    "orientation": "358.698",
+    "pixscale": "0.901",
+    "published": "2018-02-22T20:24:19.770919",
+    "ra": "339.164",
+    "radius": "0.545",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/334826/",
+    "revisions": [
+        "/api/v1/imagerevision/137910/"
+    ],
+    "subjects": [
+        "NGC 7317",
+        "NGC 7318",
+        "NGC 7319",
+        "NGC 7320",
+        "NGC 7331",
+        "NGC 7335",
+        "NGC 7337",
+        "Stephan's Quintet"
+    ],
+    "title": "NGC 7331 & Stephan's Quintet",
+    "updated": "2021-03-17T16:25:29.011692",
+    "uploaded": "2018-02-22T20:24:22.578747",
+    "url_duckduckgo": "https://www.astrobin.com/334826/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/334826/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/334826/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/334826/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/334826/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/334826/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/334826/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/51f0c85b-7e91-4616-a5d4-4bf7cb015d0e.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/51f0c85b-7e91-4616-a5d4-4bf7cb015d0e-1519391408.jpg",
+    "url_thumb": "https://www.astrobin.com/334826/0/rawthumb/thumb/",
+    "user": "Benoit_Gagnon",
+    "views": 377,
+    "w": 1824
+}

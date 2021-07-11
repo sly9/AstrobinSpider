@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 6,
+    "comments": 6,
+    "data_source": "UNSET",
+    "dec": "18.604",
+    "description": "Sh 2-239 is a reflection nebula within LDN 1551 located around 500 light years away in the constellation of Taurus.  \r\n\r\nThis is data from the Deep Sky West facility in New Mexico.  It was collected over several nights between 10 and 22 December 2017.\r\n\r\nLum:  41 x 900\r\nRed: 31 x 900\r\nGreen: 17 x 900\r\nBlue: 15 x 900\r\n\r\nA total of 26 hours exposure time",
+    "h": 2457,
+    "hash": null,
+    "id": 326747,
+    "imaging_cameras": [
+        "QSI683wsg"
+    ],
+    "imaging_telescopes": [
+        "Takahashi FSQ106ED"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 96,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2806774/"
+    ],
+    "orientation": "148.261",
+    "pixscale": "2.100",
+    "published": "2017-12-23T08:48:04.635038",
+    "ra": "67.412",
+    "radius": "1.176",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/326747/",
+    "revisions": [
+        "/api/v1/imagerevision/133045/"
+    ],
+    "subjects": [
+        "The star εTau"
+    ],
+    "title": "Sharpless 2-239 in Taurus - LRGB",
+    "updated": "2021-03-17T18:50:53.823728",
+    "uploaded": "2017-12-23T08:48:05.189448",
+    "url_duckduckgo": "https://www.astrobin.com/326747/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/326747/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/326747/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/326747/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/326747/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/326747/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/326747/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/10769/2017/97a82d80-38d4-45a6-8e8a-f9ea718c3fba.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/10769/2017/97a82d80-38d4-45a6-8e8a-f9ea718c3fba-1582606149.jpg",
+    "url_thumb": "https://www.astrobin.com/326747/0/rawthumb/thumb/",
+    "user": "gnomus",
+    "views": 239,
+    "w": 3197
+}

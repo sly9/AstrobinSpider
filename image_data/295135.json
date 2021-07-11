@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "-5.461",
+    "description": "This is a close up of M42. It was taken as bin1 RGB   30x300” per channel for faint portions, and  20x10” per channel for bright portions. After that image was combined as HDR in Pixinsight, so the resulting image has very wide dynamic range.",
+    "h": 2358,
+    "hash": null,
+    "id": 295135,
+    "imaging_cameras": [
+        "SBIG 8300M"
+    ],
+    "imaging_telescopes": [
+        "orion 200/1000 Newton"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 26,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2797904/"
+    ],
+    "orientation": "176.727",
+    "pixscale": "1.105",
+    "published": "2017-05-10T04:05:05.968265",
+    "ra": "83.753",
+    "radius": "0.616",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/295135/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "M 43",
+        "NGC 1976",
+        "NGC 1982",
+        "The star θ1Ori",
+        "The star θ2Ori"
+    ],
+    "title": "M42 closeup",
+    "updated": "2021-03-17T20:58:02.636211",
+    "uploaded": "2017-05-10T05:05:06.537483",
+    "url_duckduckgo": "https://www.astrobin.com/295135/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/295135/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/295135/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/295135/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/295135/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/295135/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/295135/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/f4a75182-1a54-48b6-96fc-dc641b572e22.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/f4a75182-1a54-48b6-96fc-dc641b572e22-1494390594.jpg",
+    "url_thumb": "https://www.astrobin.com/295135/0/rawthumb/thumb/",
+    "user": "avarakin",
+    "views": 137,
+    "w": 3252
+}

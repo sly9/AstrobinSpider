@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 8,
+    "data_source": "UNSET",
+    "dec": "-20.841",
+    "description": "Hélix Nebula (olho de Deus)\r\nTS 115/800\r\nZWO ASI 1600 MM\r\nHALRGB\r\nHA: 8 horas (subs de 10 minutos)\r\nL: 4 horas (subs de 5 minutos)\r\nRGB: 20 minutos cada canal (subs de 2 minutos\r\nTotal 13 horas de captura\r\nProcessamento: DSS + PixInsight + PS6",
+    "h": 1479,
+    "hash": null,
+    "id": 309990,
+    "imaging_cameras": [
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Teleskop Service TS 115 / 800 Triplet APO"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 137,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "274.765",
+    "pixscale": "2.407",
+    "published": "2017-08-30T02:51:37.184141",
+    "ra": "337.417",
+    "radius": "0.800",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/309990/",
+    "revisions": [
+        "/api/v1/imagerevision/124633/",
+        "/api/v1/imagerevision/126848/"
+    ],
+    "subjects": [
+        "Helix nebula",
+        "NGC 7293"
+    ],
+    "title": "Helix Nebula NGC 7293",
+    "updated": "2021-04-12T12:51:50.479732",
+    "uploaded": "2017-08-30T03:51:37.937299",
+    "url_duckduckgo": "https://www.astrobin.com/309990/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/309990/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/309990/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/309990/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/309990/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/309990/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/309990/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/22145/2017/e59b4d71-2905-4ef5-b5a5-c6fd79fd26f1.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/22145/2017/e59b4d71-2905-4ef5-b5a5-c6fd79fd26f1-1582616883.jpg",
+    "url_thumb": "https://www.astrobin.com/309990/0/rawthumb/thumb/",
+    "user": "GerminianiMaicon",
+    "views": 613,
+    "w": 1882
+}

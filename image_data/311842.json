@@ -1,0 +1,55 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "47.254",
+    "description": "I've been reimaging some targets that I did a few years ago as both my technique at the telescope and post-processing have advanced.  I did this target a few years back and blended in Ha into the L channel for higher nebula contrast.  This time, it is a straight LRGB that was acquired with good seeing and a very dark site.  The objective was to try and bring out some of the dark dust surrounding the nebula which was done by creating a moderately stretched image and a highly stretched image and then layered them together.  I kind of like the smoother look of the nebula without Ha added to the L channel.  I've also started using DSS for stacking as it does a better job aligning star colors than Nebulosity.  It took awhile to get all the settings right though.   L 20x400s, RGB 10x200s 2x2 binned.",
+    "h": 1457,
+    "hash": null,
+    "id": 311842,
+    "imaging_cameras": [
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "Celestron C-11"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 2,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL",
+    "likes": 110,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2803849/"
+    ],
+    "orientation": "267.933",
+    "pixscale": "0.652",
+    "published": "2017-09-11T03:36:13.790224",
+    "ra": "328.354",
+    "radius": "0.312",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/311842/",
+    "revisions": [],
+    "subjects": [
+        "Cocoon nebula",
+        "IC 5146"
+    ],
+    "title": "Cocoon Nebula LRGB",
+    "updated": "2021-03-26T05:17:03.899171",
+    "uploaded": "2017-09-11T04:25:17.944308",
+    "url_duckduckgo": "https://www.astrobin.com/311842/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/311842/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/311842/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/311842/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/311842/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/311842/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/311842/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/8ab1b93c-01e7-4ded-90f8-968f4d883187.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/8ab1b93c-01e7-4ded-90f8-968f4d883187-1505100946.jpg",
+    "url_thumb": "https://www.astrobin.com/311842/0/rawthumb/thumb/",
+    "user": "1074j",
+    "views": 324,
+    "w": 1824
+}

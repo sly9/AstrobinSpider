@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "59.028",
+    "description": "",
+    "h": 1360,
+    "hash": null,
+    "id": 365517,
+    "imaging_cameras": [
+        "QHYCCD QHY9S-M"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV90TBV-25SV"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 3,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_NO_DERIVS",
+    "likes": 73,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805130/"
+    ],
+    "orientation": "88.344",
+    "pixscale": "2.264",
+    "published": "2018-09-08T15:54:42.679282",
+    "ra": "331.891",
+    "radius": "1.285",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/365517/",
+    "revisions": [
+        "/api/v1/imagerevision/155623/"
+    ],
+    "subjects": [
+        "The star ζCep",
+        "The star λCep"
+    ],
+    "title": "Barnard 174",
+    "updated": "2021-03-17T14:06:32.803332",
+    "uploaded": "2018-09-08T16:54:43.188344",
+    "url_duckduckgo": "https://www.astrobin.com/365517/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/365517/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/365517/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/365517/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/365517/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/365517/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/365517/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3cfe10d5-a5f8-45eb-8868-7d84563b73f4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3cfe10d5-a5f8-45eb-8868-7d84563b73f4-1536425841.jpg",
+    "url_thumb": "https://www.astrobin.com/365517/0/rawthumb/thumb/",
+    "user": "bfde974",
+    "views": 224,
+    "w": 1824
+}

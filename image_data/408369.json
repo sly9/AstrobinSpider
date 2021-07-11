@@ -1,0 +1,57 @@
+{
+    "animated": false,
+    "bookmarks": 15,
+    "comments": 37,
+    "data_source": "OWN_REMOTE",
+    "dec": "53.066",
+    "description": "Located in the constellation of Ursa Major at a distance of about 48 Mly (+/- 8 Mly,) NGC 3718 is a warped spiral galaxy with two extended arms that are distorted by the gravitational interaction with NGC 3729, a spiral galaxy that sits only 150,000 ly away (to the right.)  The outer regions of the two spiral arms are littered with young, hot blue stars.  Hickson group 56 is a group of five interacting galaxies that can be seen above NGC 3718 located at a distance of 400 Mly.  NGC 3718 is moderately large object with an apparent magnitude of about 11 with very low brightness outer regions, which makes it a challenging object to image.  It requires long exposure times and careful processing to bring out details.\r\n\r\nI started this project last month under pretty steady skies.  Unfortunately the cooperative weather didn't last long and I had to gather about three times as much data than I actually used to cull out sufficient quality subs.  I would have liked to grab at least another 10 hours of data but I've run out of both good weather and time as this region of the sky sinks into the west.  My scope hasn't been serviced since last October so I'm pretty sure that the front corrector plat is absolutely filthy.  All that dirt may be contributing to the low level light scattering that I see around bright stars.   I hope to get out to the observatory to service the scope this next week so we'll see if it helps to clean up the optics going forward.  I couldn't gather as much data as I wanted so I really struggled to get this data set processed to my satisfaction.  Bringing out the faint arms created a conflict with noise reduction and I had to take numerous runs at the data before I reached a point where I was mostly satisfied with the result.   Still I never abandon a processing project without feeling like I could have done better so feel free to give me feedback.  Hopefully, I haven't screwed it up too badly.  I'll have to revisit this galaxy next year to see if I can get more data.\r\n\r\nJohn",
+    "h": 5232,
+    "hash": null,
+    "id": 408369,
+    "imaging_cameras": [
+        "FLI MicroLine 16803"
+    ],
+    "imaging_telescopes": [
+        "Celestron C14 EDGE HD"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 250,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2800929/"
+    ],
+    "orientation": "179.812",
+    "pixscale": "0.239",
+    "published": "2019-06-02T17:19:21.020677",
+    "ra": "173.251",
+    "radius": "0.246",
+    "remote_source": "DSW",
+    "resource_uri": "/api/v1/image/408369/",
+    "revisions": [],
+    "subjects": [
+        "NGC 3718",
+        "NGC 3729",
+        "NGC3718",
+        "NGC3729"
+    ],
+    "title": "Arp 214 (NGC 3718) - A Beautiful Unusual Galaxy in the Big Dipper",
+    "updated": "2021-05-25T11:40:39.837238",
+    "uploaded": "2019-06-02T17:26:34.875159",
+    "url_duckduckgo": "https://www.astrobin.com/408369/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408369/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408369/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408369/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408369/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408369/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408369/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/08e11b3a-17ed-4c96-beb6-2c060d68e8c4.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/08e11b3a-17ed-4c96-beb6-2c060d68e8c4-1559498437.jpg",
+    "url_thumb": "https://www.astrobin.com/408369/0/rawthumb/thumb/",
+    "user": "jhayes_tucson",
+    "views": 1471,
+    "w": 5232
+}

@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 31,
+    "comments": 76,
+    "data_source": "BACKYARD",
+    "dec": "31.663",
+    "description": "In the constellation Cygnus is a chaotic lace-work of glowing filaments, remnants of a super nova explosion whose light reached Earth about 5,000 years ago. It is called Pickering's Triangle, named for Charles Pickering, the director of Harvard College Observatory, cataloged NGC 6979, and part of the Veil Nebula complex. It has been argued that this object should really be called Flemming's Triangular Wisp since it was identified by Pickering's assistant, Williamina Flemming. She is credited with discovering 10 novae, over 310 variable stars, and 59 gaseous nebulae (citation Steve Cannista, Universe Today).\r\n\r\nAfter three months of cloudy nights, the sky began peeking through last week, an hour or two at a time. The seeing was inconsistent which meant that while I collected more than 20 hours of data for this project, I used only 11.5 hours, light subs with HFR <2.5. I reduced that number again in the creation of a master luminance (comprised of Ha, OIII, and SII), using only subs with an HFR <2.0. All in all, it was worth the effort as the resulting image has nice detail and shows both the characteristic ribbons of glowing Ha and OIII, as well as faint diaphanous sheets of gas and dust.",
+    "h": 2193,
+    "hash": null,
+    "id": 412660,
+    "imaging_cameras": [
+        "ZWO ASI1600MM Cooled PRO"
+    ],
+    "imaging_telescopes": [
+        "William Optics FLT 132 Triplet APO f/7"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 319,
+    "link": "https://www.garylopezphotography.com/",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807613/"
+    ],
+    "orientation": "85.700",
+    "pixscale": "0.864",
+    "published": "2019-06-30T19:17:18.813459",
+    "ra": "312.021",
+    "radius": "0.474",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/412660/",
+    "revisions": [],
+    "subjects": [],
+    "title": "Pickering's Triangle (NGC 6979)",
+    "updated": "2021-07-07T06:58:21.047196",
+    "uploaded": "2019-06-30T20:17:19.893333",
+    "url_duckduckgo": "https://www.astrobin.com/412660/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/412660/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/412660/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/412660/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/412660/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/412660/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/412660/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/7281d20c-bb8a-4142-8a97-c6e7c892d6aa.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/7281d20c-bb8a-4142-8a97-c6e7c892d6aa-1562263625.jpg",
+    "url_thumb": "https://www.astrobin.com/412660/0/rawthumb/thumb/",
+    "user": "GWLopez",
+    "views": 2253,
+    "w": 3289
+}

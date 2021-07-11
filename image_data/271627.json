@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 0,
+    "data_source": "UNSET",
+    "dec": "-5.472",
+    "description": "This started as an experiment but ended up as a decent project.\r\nData acquisition was unguided, so had to throw away 13 subs.\r\nNo calibration at all. Stacked and processed in PI, minor retouch in LR",
+    "h": 1373,
+    "hash": null,
+    "id": 271627,
+    "imaging_cameras": [
+        "QSI 583ws"
+    ],
+    "imaging_telescopes": [
+        "TS UNC 8\" Carbon f/5"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 64,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804251/"
+    ],
+    "orientation": "4.524",
+    "pixscale": "1.101",
+    "published": "2016-11-10T08:56:49.266342",
+    "ra": "83.729",
+    "radius": "0.625",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/271627/",
+    "revisions": [],
+    "subjects": [
+        "Great Nebula in Orion",
+        "M 42",
+        "M 43",
+        "NGC 1976",
+        "NGC 1982",
+        "The star θ1Ori",
+        "The star θ2Ori"
+    ],
+    "title": "Deep into Orion",
+    "updated": "2021-04-13T17:43:17.875017",
+    "uploaded": "2016-11-10T08:56:50.664226",
+    "url_duckduckgo": "https://www.astrobin.com/271627/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/271627/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/271627/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/271627/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/271627/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/271627/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/271627/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/skyplots/cd29bf4a-1a00-4e3c-9e47-6feb53bdddf2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/cd29bf4a-1a00-4e3c-9e47-6feb53bdddf2-1478768468.jpg",
+    "url_thumb": "https://www.astrobin.com/271627/0/rawthumb/thumb/",
+    "user": "LevanV",
+    "views": 494,
+    "w": 1824
+}

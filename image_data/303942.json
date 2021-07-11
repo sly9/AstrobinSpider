@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 3,
+    "data_source": "UNSET",
+    "dec": "-22.993",
+    "description": "",
+    "h": 996,
+    "hash": null,
+    "id": 303942,
+    "imaging_cameras": [
+        "Atik 314L+"
+    ],
+    "imaging_telescopes": [
+        "Konus 150/900 newtonian"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 5,
+    "license_name": "ATTRIBUTION_SHARE_ALIKE",
+    "likes": 56,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2801911/"
+    ],
+    "orientation": "358.262",
+    "pixscale": "1.510",
+    "published": "2017-07-19T12:39:55.550885",
+    "ra": "270.606",
+    "radius": "0.349",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/303942/",
+    "revisions": [],
+    "subjects": [
+        "M 20",
+        "NGC 6514",
+        "Trifid nebula"
+    ],
+    "title": "M 20 Trifid",
+    "updated": "2021-03-17T20:24:23.054653",
+    "uploaded": "2017-07-19T13:39:55.898024",
+    "url_duckduckgo": "https://www.astrobin.com/303942/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/303942/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/303942/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/303942/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/303942/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/303942/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/303942/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/9701/2017/9a568e57-24ae-4766-8e12-e2be5e96d4f3.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/9701/2017/9a568e57-24ae-4766-8e12-e2be5e96d4f3-1582621381.jpg",
+    "url_thumb": "https://www.astrobin.com/303942/0/rawthumb/thumb/",
+    "user": "PatrickChevalley",
+    "views": 264,
+    "w": 1331
+}

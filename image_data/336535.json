@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 7,
+    "comments": 6,
+    "data_source": "PRO_DATA",
+    "dec": "30.774",
+    "description": "Raw data processed from Liverpool Telescope public archive:\r\nR,G,B:40,40,30x90s bin2 \r\nTelescope: Ritchey-Chrétien Cassegrain 2.0m@f/10 \r\nCamera: IO:O",
+    "h": 2000,
+    "hash": null,
+    "id": 336535,
+    "imaging_cameras": [
+        "IO:O"
+    ],
+    "imaging_telescopes": [
+        "The Liverpool Telescope"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 1,
+    "license_name": "ATTRIBUTION_NON_COMMERCIAL_SHARE_ALIKE",
+    "likes": 172,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "90.016",
+    "pixscale": "0.301",
+    "published": "2018-03-07T20:27:29.625677",
+    "ra": "62.323",
+    "radius": "0.118",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/336535/",
+    "revisions": [
+        "/api/v1/imagerevision/265551/"
+    ],
+    "subjects": [
+        "NGC 1514"
+    ],
+    "title": "NGC1514",
+    "updated": "2021-07-07T19:12:09.295580",
+    "uploaded": "2018-03-07T20:22:16.719185",
+    "url_duckduckgo": "https://www.astrobin.com/336535/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/336535/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/336535/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/336535/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/336535/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/336535/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/336535/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15264/2020/33f384e6-637e-4d5d-9ecc-ddc6ca6b643d.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15264/2020/33f384e6-637e-4d5d-9ecc-ddc6ca6b643d-1590405222.jpg",
+    "url_thumb": "https://www.astrobin.com/336535/0/rawthumb/thumb/",
+    "user": "xordi",
+    "views": 788,
+    "w": 2000
+}

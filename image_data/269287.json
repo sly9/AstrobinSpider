@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "41.262",
+    "description": "Equipment:\r\nTelescope: 8\" f/8 Ritchey-Chrétien Astrograph\r\nCamera: Atik 383+\r\nCapture Details:\r\nLum 360x30sec at -10c Bin 2x2\r\nRGB 40X120sec at -10c Bin 2x2\r\nUpscale resolution with Pixinisight Drizzle Method.\r\nPlace: Thessaloniki Town Greece",
+    "h": 1644,
+    "hash": null,
+    "id": 269287,
+    "imaging_cameras": [
+        "ATIK 383L Mono CCD 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Ritchey-Chrétien Ritchey-Chretien 8\""
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 97,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [],
+    "orientation": "91.842",
+    "pixscale": "0.942",
+    "published": "2016-10-23T22:10:11.381247",
+    "ra": "10.671",
+    "radius": "0.269",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/269287/",
+    "revisions": [
+        "/api/v1/imagerevision/103756/"
+    ],
+    "subjects": [
+        "Great Nebula in Andromeda",
+        "M 31",
+        "NGC 224"
+    ],
+    "title": "Μ31 Andromeda Galaxy Core",
+    "updated": "2021-05-11T15:32:43.576869",
+    "uploaded": "2016-10-23T23:10:11.381247",
+    "url_duckduckgo": "https://www.astrobin.com/269287/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/269287/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/269287/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/269287/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/269287/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/269287/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/269287/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/4880/2016/4942ca3a-dc9f-44c3-b741-1e7002e4640a.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/4942ca3a-dc9f-44c3-b741-1e7002e4640a.jpg",
+    "url_thumb": "https://www.astrobin.com/269287/0/rawthumb/thumb/",
+    "user": "silverhawk",
+    "views": 584,
+    "w": 1238
+}

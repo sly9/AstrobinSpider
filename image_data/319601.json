@@ -1,0 +1,65 @@
+{
+    "animated": false,
+    "bookmarks": 10,
+    "comments": 8,
+    "data_source": "TRAVELLER",
+    "dec": "60.980",
+    "description": "",
+    "h": 2697,
+    "hash": null,
+    "id": 319601,
+    "imaging_cameras": [
+        "Atik ONE 6.0"
+    ],
+    "imaging_telescopes": [
+        "Takahashi TSA 102"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 183,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2804494/"
+    ],
+    "orientation": "104.243",
+    "pixscale": "1.528",
+    "published": "2017-10-31T14:12:30.954412",
+    "ra": "15.009",
+    "radius": "0.732",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319601/",
+    "revisions": [
+        "/api/v1/imagerevision/128917/",
+        "/api/v1/imagerevision/129133/",
+        "/api/v1/imagerevision/129391/"
+    ],
+    "subjects": [
+        "27 gam Cas",
+        "IC 59",
+        "IC 63",
+        "IC59",
+        "IC63",
+        "Sh2-185",
+        "The star Navi (γCas)",
+        "gamma Cas nebula"
+    ],
+    "title": "Ghost Nebula in HOO (TSA102/AtikOne)",
+    "updated": "2021-04-28T12:23:25.879806",
+    "uploaded": "2017-10-31T14:07:44.211123",
+    "url_duckduckgo": "https://www.astrobin.com/319601/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319601/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319601/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319601/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319601/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319601/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319601/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/2200/2017/f46790c1-dfe7-4fb3-b860-b81e911011d4.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/2200/2017/f46790c1-dfe7-4fb3-b860-b81e911011d4-1582526467.png",
+    "url_thumb": "https://www.astrobin.com/319601/0/rawthumb/thumb/",
+    "user": "Jean-Baptiste_Paris",
+    "views": 629,
+    "w": 2148
+}

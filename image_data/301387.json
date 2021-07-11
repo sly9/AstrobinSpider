@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 2,
+    "data_source": "UNSET",
+    "dec": "60.247",
+    "description": "Image of the Seahorse Nebula (B150) in Cepheus.  An example of a dark nebula hiding stars behind it.\r\nExposures:\r\nAstrodon luminance E-Series 11 X 900 seconds 1X1\r\nAstrodon red E-series 5 X 300 seconds binned 2X2\r\nAstrodon green E-Series 5 X 300 seconds binned 2X2\r\nAstrodn blue E-series 5 X 300 seconds binned 2X2\r\n",
+    "h": 1589,
+    "hash": null,
+    "id": 301387,
+    "imaging_cameras": [
+        "QSI 660 WSG"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SV70T"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 78,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2805818/"
+    ],
+    "orientation": "181.472",
+    "pixscale": "3.896",
+    "published": "2017-07-02T21:24:05.558405",
+    "ra": "312.503",
+    "radius": "1.376",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/301387/",
+    "revisions": [
+        "/api/v1/imagerevision/119365/",
+        "/api/v1/imagerevision/119366/",
+        "/api/v1/imagerevision/119433/",
+        "/api/v1/imagerevision/119519/",
+        "/api/v1/imagerevision/119668/"
+    ],
+    "subjects": [],
+    "title": "B150 Seahorse Nebula",
+    "updated": "2021-06-05T21:15:40.272069",
+    "uploaded": "2017-06-29T04:57:15.865140",
+    "url_duckduckgo": "https://www.astrobin.com/301387/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/301387/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/301387/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/301387/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/301387/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/301387/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/301387/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/18910/2017/0d2787cd-e252-4da9-925b-f92465a9a034.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/18910/2017/0d2787cd-e252-4da9-925b-f92465a9a034-1582389194.jpg",
+    "url_thumb": "https://www.astrobin.com/301387/0/rawthumb/thumb/",
+    "user": "dweixelman",
+    "views": 346,
+    "w": 1985
+}

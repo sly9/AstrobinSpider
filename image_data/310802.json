@@ -1,0 +1,52 @@
+{
+    "animated": false,
+    "bookmarks": 2,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "35.266",
+    "description": "Resolution ........ 0.935 arcsec/px\r\nRotation .......... 0.309 deg\r\nFocal ............. 1103.16 mm\r\nPixel size ........ 5.00 um\r\nField of view ..... 30' 5.3\" x 22' 36.5\"\r\nImage center ...... RA: 19 59 47.239 Dec: +35 15 51.53",
+    "h": 1410,
+    "hash": null,
+    "id": 310802,
+    "imaging_cameras": [
+        "Atik 428EX"
+    ],
+    "imaging_telescopes": [
+        "Sky-Watcher BKP P200 DS"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 70,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799422/"
+    ],
+    "orientation": "359.687",
+    "pixscale": "0.935",
+    "published": "2017-09-03T17:33:03.956932",
+    "ra": "299.942",
+    "radius": "0.307",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/310802/",
+    "revisions": [],
+    "subjects": [],
+    "title": "SH2-101",
+    "updated": "2021-03-17T19:56:36.294300",
+    "uploaded": "2017-09-03T18:27:14.457262",
+    "url_duckduckgo": "https://www.astrobin.com/310802/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/310802/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/310802/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/310802/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/310802/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/310802/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/310802/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/2545/2020/27669b54-3ba1-403e-8519-f793a7d667f5.png",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/2545/2020/27669b54-3ba1-403e-8519-f793a7d667f5-1582630554.png",
+    "url_thumb": "https://www.astrobin.com/310802/0/rawthumb/thumb/",
+    "user": "northisup2",
+    "views": 110,
+    "w": 1900
+}

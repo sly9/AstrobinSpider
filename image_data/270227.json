@@ -1,0 +1,60 @@
+{
+    "animated": false,
+    "bookmarks": 3,
+    "comments": 4,
+    "data_source": "UNSET",
+    "dec": "8.749",
+    "description": "",
+    "h": 1536,
+    "hash": null,
+    "id": 270227,
+    "imaging_cameras": [
+        "SBIG STF-8300M",
+        "Atik 460 EX Mono"
+    ],
+    "imaging_telescopes": [
+        "APM Fluorostar TMB 100/800",
+        "Selfmade Newton 16\" F4"
+    ],
+    "is_final": false,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 101,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799661/"
+    ],
+    "orientation": "182.301",
+    "pixscale": "0.594",
+    "published": "2016-11-01T22:09:53.463703",
+    "ra": "99.784",
+    "radius": "0.204",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/270227/",
+    "revisions": [
+        "/api/v1/imagerevision/103289/",
+        "/api/v1/imagerevision/103570/"
+    ],
+    "subjects": [
+        "Hubble's variable neb",
+        "NGC 2261"
+    ],
+    "title": "NGC2261 Hubble's Variable Nebula",
+    "updated": "2021-03-17T22:36:30.398194",
+    "uploaded": "2016-11-01T22:09:53.784010",
+    "url_duckduckgo": "https://www.astrobin.com/270227/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/270227/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/270227/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/270227/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/270227/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/270227/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/270227/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/3728/2016/1b7a24b1-efbc-4c68-b577-c591f9dc87ca.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/3728/2016/1b7a24b1-efbc-4c68-b577-c591f9dc87ca-1582607658.jpg",
+    "url_thumb": "https://www.astrobin.com/270227/0/rawthumb/thumb/",
+    "user": "Letman",
+    "views": 458,
+    "w": 1930
+}

@@ -1,0 +1,58 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 8,
+    "data_source": "BACKYARD",
+    "dec": "39.964",
+    "description": "",
+    "h": 3416,
+    "hash": null,
+    "id": 410400,
+    "imaging_cameras": [
+        "ZWO ASI294MC-PRO",
+        "ZWO ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Vixen VSD 100 f/3.8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 106,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2810059/"
+    ],
+    "orientation": "358.474",
+    "pixscale": "2.606",
+    "published": "2019-06-14T19:26:14.060906",
+    "ra": "305.535",
+    "radius": "2.079",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/410400/",
+    "revisions": [],
+    "subjects": [
+        "IC 1318",
+        "NGC 6910",
+        "The star Sadr (γCyg)",
+        "gamma Cyg nebula"
+    ],
+    "title": "IC1318 Gamma Cygni Nebula",
+    "updated": "2021-05-10T17:06:18.706239",
+    "uploaded": "2019-06-14T20:26:14.538346",
+    "url_duckduckgo": "https://www.astrobin.com/410400/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/410400/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/410400/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/410400/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/410400/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/410400/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/410400/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/22506/2019/c857e07a-ff87-428f-871a-6123a3693ba2.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/22506/2019/c857e07a-ff87-428f-871a-6123a3693ba2-1582598331.jpg",
+    "url_thumb": "https://www.astrobin.com/410400/0/rawthumb/thumb/",
+    "user": "ToshiyaArai",
+    "views": 356,
+    "w": 4616
+}

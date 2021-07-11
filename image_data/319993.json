@@ -1,0 +1,61 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 1,
+    "data_source": "UNSET",
+    "dec": "31.302",
+    "description": "A 3 band narrowband image of the Eastern Veil Nebula from the Arizona Sky Village near Portal, AZ. Color mix used is: \r\nRed: 76% Ha, 24% SII\r\nGreen: 100% OIII\r\nBlue: 95% OIII, 5% Ha\r\n\r\nwhich yields more of a bicolor look.",
+    "h": 6061,
+    "hash": null,
+    "id": 319993,
+    "imaging_cameras": [
+        "ZWO Optical ASI1600MM-Cool"
+    ],
+    "imaging_telescopes": [
+        "Stellarvue SVQ100"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 41,
+    "link": "http://www.thinairphotography.com/p139620504/e9b068062",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2799865/"
+    ],
+    "orientation": "270.209",
+    "pixscale": "0.671",
+    "published": "2017-11-03T03:18:14.635143",
+    "ra": "314.090",
+    "radius": "1.018",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/319993/",
+    "revisions": [],
+    "subjects": [
+        "IC 1340",
+        "IC1340",
+        "NGC 6992",
+        "NGC 6995",
+        "NGC6992",
+        "NGC6995",
+        "Network nebula",
+        "Veil nebula"
+    ],
+    "title": "Eastern Veil Nebula In Narrowband",
+    "updated": "2021-03-17T19:19:01.797756",
+    "uploaded": "2017-11-03T03:18:15.831169",
+    "url_duckduckgo": "https://www.astrobin.com/319993/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/319993/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/319993/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/319993/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/319993/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/319993/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/319993/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/5374/2017/5e172596-47af-445a-a13f-e4680b5d52fc.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/5374/2017/5e172596-47af-445a-a13f-e4680b5d52fc-1582458157.jpg",
+    "url_thumb": "https://www.astrobin.com/319993/0/rawthumb/thumb/",
+    "user": "mlewis",
+    "views": 260,
+    "w": 9092
+}

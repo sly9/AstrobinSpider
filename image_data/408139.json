@@ -1,0 +1,56 @@
+{
+    "animated": false,
+    "bookmarks": 4,
+    "comments": 4,
+    "data_source": "BACKYARD",
+    "dec": "59.354",
+    "description": "",
+    "h": 2664,
+    "hash": null,
+    "id": 408139,
+    "imaging_cameras": [
+        "QSI 690 WSG-8"
+    ],
+    "imaging_telescopes": [
+        "TPO RC8"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 100,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2807024/"
+    ],
+    "orientation": "271.463",
+    "pixscale": "0.590",
+    "published": "2019-06-01T11:34:27.109599",
+    "ra": "234.675",
+    "radius": "0.351",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/408139/",
+    "revisions": [],
+    "subjects": [
+        "NGC 5981",
+        "NGC 5982",
+        "NGC 5985"
+    ],
+    "title": "Drako Triplet LRGB",
+    "updated": "2021-03-17T10:46:45.228777",
+    "uploaded": "2019-06-01T12:34:27.336173",
+    "url_duckduckgo": "https://www.astrobin.com/408139/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/408139/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/408139/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/408139/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/408139/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/408139/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/408139/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/15965/2020/52ee26d3-c540-4bae-9733-1d9aa838968f.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/15965/2020/52ee26d3-c540-4bae-9733-1d9aa838968f-1583302879.jpg",
+    "url_thumb": "https://www.astrobin.com/408139/0/rawthumb/thumb/",
+    "user": "cgome004",
+    "views": 324,
+    "w": 3347
+}

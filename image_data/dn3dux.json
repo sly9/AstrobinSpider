@@ -1,0 +1,54 @@
+{
+    "animated": false,
+    "bookmarks": 0,
+    "comments": 0,
+    "data_source": "BACKYARD",
+    "dec": "7.052",
+    "description": "NGC 6384 is an intermediate barred spiral galaxy located about 77 million light-years away in the northern part of the constellation Ophiuchus. It's morphological classification indicates that it is a weakly barred galaxy (SAB) with an inner ring structure (r) orbiting the bar, and moderate to loosely wound spiral arms (bc). The galaxy is inclined by an angle of 47° to the line of sight, along a position angle of 40°. The estimated mass of the stars in this galaxy is 105 billion times the mass of the Sun.\r\nAt one time NGC 6384 was considered a normal galaxy with no activity in the nucleus. However, it is now classified as a transition object (T2), which is thought to be a LINER-type galaxy whose emission-line spectra is contaminated by H II regions in the nucleus.\r\nOn 24 June 1971, a type Ia supernova event was discovered in this galaxy at 27″ east and 20″ north of the nucleus. It reached a peak visual magnitude of 12.85 around the end of June. Designated SN 1971L, it was situated along a spiral arm, suggesting that the progenitor was not a member of the older, more evolved stellar population of the galaxy.  [Source:  Wikipedia]\r\n\r\nCAPTURE Information:\r\nThe image was captured with the iOptron CEM120 mount , the venerable Meade 12\"LX200 SCT, and my Atik 383L+ m CCD at F7.16 (2182mm FL). Image subs were taken through Astronomik's broadband filters L, R, G and B. Subs were done at 1x1 bin, -10C, at 10 minutes for L (luminance), and 5 minutes for R, G and B.\r\n\r\nIMAGE information -- 2019:\r\nLum: 41 subs (6.83hr) on Aug 20th, 21st and 25th.\r\nRed: 30 subs (2.50hr) on Aug 18th, 19th and 26th.\r\nGreen: 27 subs (2.25hr) on Aug 19th, 20th and 26th.\r\nBlue: 30 subs (2.50hr) on Aug 18th, 19th and 26th.\r\n on Aug 15th.\r\n\r\nProcessing was done with PixInsight, following (for the most part) kayronjm's tutorial of Feb. 24th. Only L was used to develop the Luminance image. R, G and B were collected for the color mix. \r\nNorth is to the right (I think), and this is a slight crop due to the misalignment accumulation from so many different filters and times.\r\n\r\nCOMMENTS:\r\nThis was an overall tough target.  From our skies it is dim and lacks much color.  I did boost both with the processing software and as a result, this image suffers (a bit) from over-processing.\r\nIt's interesting that in the 2nd paragraph from the above general description, there is a reference to H II in the nucleus.  I did make an attempt to capture some Ha filter photons in order to give the image a red boost.  However I saw no benefit.",
+    "h": 2394,
+    "hash": "dn3dux",
+    "id": 423113,
+    "imaging_cameras": [
+        "Atik 383L+ mono"
+    ],
+    "imaging_telescopes": [
+        "Meade LX200 12\" f/10"
+    ],
+    "is_final": true,
+    "is_solved": true,
+    "license": 0,
+    "license_name": "ALL_RIGHTS_RESERVED",
+    "likes": 14,
+    "link": "",
+    "link_to_fits": "",
+    "locations": [
+        "/api/v1/location/2798019/"
+    ],
+    "orientation": "358.773",
+    "pixscale": "0.511",
+    "published": "2019-08-27T14:32:34.030474",
+    "ra": "263.101",
+    "radius": "0.286",
+    "remote_source": null,
+    "resource_uri": "/api/v1/image/423113/",
+    "revisions": [],
+    "subjects": [
+        "NGC 6384"
+    ],
+    "title": "NGC6384 Spiral Galaxy",
+    "updated": "2021-03-17T09:33:13.516765",
+    "uploaded": "2019-08-27T14:48:56.804544",
+    "url_duckduckgo": "https://www.astrobin.com/dn3dux/0/rawthumb/duckduckgo/",
+    "url_duckduckgo_small": "https://www.astrobin.com/dn3dux/0/rawthumb/duckduckgo_small/",
+    "url_gallery": "https://www.astrobin.com/dn3dux/0/rawthumb/gallery/",
+    "url_hd": "https://www.astrobin.com/dn3dux/0/rawthumb/hd/",
+    "url_histogram": "https://www.astrobin.com/dn3dux/0/rawthumb/histogram/",
+    "url_real": "https://www.astrobin.com/dn3dux/0/rawthumb/real/",
+    "url_regular": "https://www.astrobin.com/dn3dux/0/rawthumb/regular/",
+    "url_skyplot": "https://cdn.astrobin.com/images/skyplots/images/231/2019/4ff07d2a-5a2d-4e56-9ddb-42d0ac543186.jpg",
+    "url_solution": "https://cdn.astrobin.com/solutions/images/231/2019/4ff07d2a-5a2d-4e56-9ddb-42d0ac543186-1582478880.jpg",
+    "url_thumb": "https://www.astrobin.com/dn3dux/0/rawthumb/thumb/",
+    "user": "niteman1946",
+    "views": 125,
+    "w": 3239
+}
