@@ -1,31 +1,161 @@
-<!doctype html>
-
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>D3-Celestial Starmap</title>
+    <script type="text/javascript" src="js/d3.min.js"></script>
+    <script type="text/javascript" src="js/d3.geo.projection.js"></script>
+    <script type="text/javascript" src="js/celestial.js"></script>
+    <script type="text/javascript" src="js/stats.js"></script>
+    <link rel="stylesheet" href="style/celestial.css">
 
-  <title>Top Nomiations for Astrobin</title>
-  <meta name="description" content="A simple HTML5 Template for new projects.">
-  <meta name="author" content="SitePoint">
-
-  <meta property="og:title" content="A Basic HTML5 Template">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.sitepoint.com/a-basic-html5-template/">
-  <meta property="og:description" content="A simple HTML5 Template for new projects.">
-  <meta property="og:image" content="image.png">
-
-  <link rel="icon" href="/favicon.ico">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-  <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
-  <script type="text/javascript" src="js/stats.js"></script>
+    <link type="text/css" rel="stylesheet" href="style/lightslider.min.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="js/lightslider.js"></script>
 
 </head>
 
 <body>
-    <svg id="svg" style="width:1000px;height:500px"> </svg>
+
+    <div id='container'>
+        <div id="celestial-map"></div>
+        <div class="slider">
+            <ul class="lightSlider" id="lightSlider">
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-1.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-1.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-2.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-2.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-3.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-3.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-4.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-4.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-5.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-5.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-6.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-6.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-7.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-7.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-8.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-8.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-9.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-9.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-10.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-10.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-11.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-12.jpg" />
+                </li>
+                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-13.jpg">
+                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-13.jpg" />
+                </li>
+            </ul>
+        </div>
+        <div id='info'>
+            <div>
+                <span>Name</span>
+                <span id='name'></span>
+            </div>
+            <div>
+                <span>Type</span>
+                <span id='type'></span>
+            </div>
+            <div>
+                <span>RA</span>
+                <span id='ra'></span>
+            </div>
+            <div>
+                <span>DEC</span>
+                <span id='dec'></span>
+            </div>
+            <div>
+                <span>Also known as:</span>
+                <span id='other_name'></span>
+            </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+        Celestial.display({
+            projection: 'equirectangular',
+            lang: 'zh',
+            disableAnimations: false,
+            form: false,
+            formFields: {
+                download: true
+            },
+            datapath: "../data/",
+            stars: {
+                propername: true,
+                propernameLimit: 1,
+                propernameStyle: {
+                    fill: "#ddddbb",
+                    font: "8px 'Palatino Linotype', Georgia, Times, 'Times Roman', serif",
+                    align: "right",
+                    baseline: "bottom"
+                },
+                limit: 2,
+                designationStyle: {
+                    fill: "#ddddbb",
+                    font: "7px 'Palatino Linotype', Georgia, Times, 'Times Roman', serif",
+                    align: "left",
+                    baseline: "top"
+                },
+
+            },
+            dsos: {
+                show: true,
+                limit: 5,
+                nameLimit: 6
+            },
+            constellations: {
+                nameStyle: {
+                    fill: "#cccc99",
+                    align: "center",
+                    baseline: "middle",
+                    font: ["9px Helvetica, Arial, sans-serif", // Style for constellations
+                        "8px Helvetica, Arial, sans-serif", // Different fonts for diff.
+                        "7px Helvetica, Arial, sans-serif"
+                    ]
+                }, // ranked constellations
+                lines: true, // Show constellation lines, style below
+                lineStyle: {
+                    stroke: "#cccccc",
+                    width: 1,
+                    opacity: 0.4
+                },
+                names: true, // Show constellation names 
+
+            },
+            horizon: { //Show horizon marker, if location is set and map projection is all-sky
+                show: true,
+                stroke: "#cccccc", // Line
+                width: 1.0,
+                fill: "#000000", // Area below horizon
+                opacity: 0.5
+            },
+            daylight: { //Show day sky as a gradient, if location is set and map projection is hemispheric
+                show: true
+            },
+            background: { // Background style
+                fill: "#0A0B43", // Area fill
+                opacity: 1,
+                stroke: "#000000", // Outline
+                width: 1.5
+            },
+            interactive: true
+        });
+    </script>
+
 </body>
+
 </html>
