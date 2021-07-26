@@ -7,83 +7,136 @@
     <script type="text/javascript" src="js/d3.min.js"></script>
     <script type="text/javascript" src="js/d3.geo.projection.js"></script>
     <script type="text/javascript" src="js/celestial.js"></script>
+    <script type="text/javascript" src="js/ui.js"></script>
     <script type="text/javascript" src="js/stats.js"></script>
     <link rel="stylesheet" href="style/celestial.css">
 
     <link type="text/css" rel="stylesheet" href="style/lightslider.min.css" />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/lightslider.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <link href="style/style.css" rel="stylesheet">
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
 
 </head>
 
 <body>
 
-    <div id='container'>
-        <div id="celestial-map"></div>
-        <div class="slider">
-            <ul class="lightSlider" id="lightSlider">
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-1.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-1.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-2.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-2.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-3.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-3.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-4.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-4.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-5.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-5.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-6.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-6.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-7.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-7.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-8.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-8.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-9.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-9.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-10.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-10.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-11.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-12.jpg" />
-                </li>
-                <li data-thumb="http://sachinchoolur.github.io/lightslider/img/thumb/cS-13.jpg">
-                    <img src="http://sachinchoolur.github.io/lightslider/img/cS-13.jpg" />
-                </li>
-            </ul>
+    <header class="mdc-top-app-bar">
+        <div class="mdc-top-app-bar__row">
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                <button class="material-icons mdc-top-app-bar__navigation-icon mdc-icon-button" aria-label="Open navigation menu">menu</button>
+                <span class="mdc-top-app-bar__title">Astrobin Top Pick Nominations</span>
+            </section>
+            <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-end" role="toolbar">
+                <button class="material-icons mdc-top-app-bar__action-item mdc-icon-button" aria-label="Refresh">refresh</button>
+                <!--<button class="material-icons mdc-top-app-bar__action-item mdc-icon-button" aria-label="Search">search</button>
+                <button class="material-icons mdc-top-app-bar__action-item mdc-icon-button" aria-label="Options">more_vert</button> -->
+            </section>
         </div>
-        <div id='info'>
-            <div>
-                <span>Name</span>
-                <span id='name'></span>
-            </div>
-            <div>
-                <span>Type</span>
-                <span id='type'></span>
-            </div>
-            <div>
-                <span>RA</span>
-                <span id='ra'></span>
-            </div>
-            <div>
-                <span>DEC</span>
-                <span id='dec'></span>
-            </div>
-            <div>
-                <span>Also known as:</span>
-                <span id='other_name'></span>
+    </header>
+
+    <div class="app-drawer-layout mdc-top-app-bar--fixed-adjust">
+        <!-- Drawer -->
+        <aside class="mdc-drawer mdc-drawer--dismissible demo-drawer">
+            <nav class="mdc-drawer__drawer">
+                <nav class="mdc-drawer__content">
+                    <div id="icon-with-text-demo" class="mdc-list">
+                        <div class="drawer-group">
+                            <!-- location related -->
+                            <label class="mdc-text-field mdc-text-field--filled" id="latitude_wrapper">
+                                <span class="mdc-text-field__ripple"></span>
+                                <span class="mdc-floating-label" id="latitude">Latitude</span>
+                                <input class="mdc-text-field__input" step="any" type="number" aria-labelledby="latitude">
+                                <span class="mdc-line-ripple"></span>
+                            </label>
+                            <label class="mdc-text-field mdc-text-field--filled" id="longitude_wrapper">
+                                <span class="mdc-text-field__ripple"></span>
+                                <span class="mdc-floating-label" id="longitude">Longitude</span>
+                                <input class="mdc-text-field__input" step="any" type="number" aria-labelledby="longitude">
+                                <span class="mdc-line-ripple"></span>
+                            </label>
+                            <div class="mdc-touch-target-wrapper">
+                                <button id="use_real_location" class="mdc-button mdc-button--touch">
+                                  <span class="mdc-button__ripple"></span>
+                                  <span class="mdc-button__label">Use real location</span>
+                                  <span class="mdc-button__touch"></span>
+                                </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <hr class="mdc-list-divider" />
+                    <div class="mdc-list">
+                        <label style="padding: 0 16px">Frequency filter</label>
+
+                        <div class="mdc-slider" id="count_filter">
+                            <input class="mdc-slider__input" type="range" min="0" max="100" value="20" name="volume" aria-label="Slide right for more targets">
+                            <div class="mdc-slider__track">
+                                <div class="mdc-slider__track--inactive"></div>
+                                <div class="mdc-slider__track--active">
+                                    <div class="mdc-slider__track--active_fill"></div>
+                                </div>
+                            </div>
+                            <div class="mdc-slider__thumb">
+                                <div class="mdc-slider__thumb-knob"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr class="mdc-list-divider" />
+
+                </nav>
+            </nav>
+        </aside>
+
+        <!-- Content -->
+        <main class="mdc-drawer-app-content main-content">
+            <div class="mdc-layout-grid">
+                <div class="mdc-layout-grid__inner">
+                    <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-8">
+                        <div id="celestial-map"></div>
+                    </div>
+                    <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-4">
+                        <div class="slider">
+                            <ul class="lightSlider" id="lightSlider">
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12">
+                        <div id='info'>
+                            <div>
+                                <span>Name</span>
+                                <span id='name'></span>
+                            </div>
+                            <div>
+                                <span>Type</span>
+                                <span id='type'></span>
+                            </div>
+                            <div>
+                                <span>RA</span>
+                                <span id='ra'></span>
+                            </div>
+                            <div>
+                                <span>DEC</span>
+                                <span id='dec'></span>
+                            </div>
+                            <div>
+                                <span>Also known as:</span>
+                                <span id='other_name'></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
-        </div>
+        </main>
     </div>
+
+
     <script type="text/javascript">
         Celestial.display({
             projection: 'equirectangular',

@@ -1,14 +1,12 @@
 /* Copyright 2015-16 Olaf Frohn https://github.com/ofrohn, see LICENSE */
 
 #celestial-map {
-    max-width: 1000px;
     width: 100%;
     height: auto;
     margin: 0;
     padding: 0;
     display: inline-block;
     position: relative;
-    min-width: 720px;
     overflow: visible;
     grid-column-start: 1;
     grid-column-end: 4;
@@ -436,12 +434,7 @@ svg .constname {
 }
  */
 
-.slider {
-    width: 420px;
-    grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 6;
-}
+.slider {}
 
 .slider ul {
     list-style: none outside none;
@@ -463,11 +456,7 @@ svg .constname {
 }
 
 #container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-auto-rows: 90px;
-    gap: 10px;
-    min-width: 1200px;
+    padding-top: 64px;
 }
 
 #info {
@@ -478,4 +467,9 @@ svg .constname {
 
 #info span:first-child {
     font-weight: bold;
+}
+
+body {
+    padding: 0;
+    margin: 0;
 }

@@ -1,7 +1,7 @@
 // image filename => image data
-let images = {}
-    // pyongc id => target details
-let topTargets = {}
+let images = {};
+// pyongc id => target details
+let topTargets = {};
 
 async function loadData() {
     const [imagesJSON, topTargetsJSON] = await Promise.all([
@@ -12,8 +12,8 @@ async function loadData() {
     topTargets = await topTargetsJSON.json();
     //console.log(images)
     //console.log(topTargets)
-
-    drawMarker(100);
+    calculatePercentiles();
+    drawMarker(20);
 
 }
 
@@ -21,8 +21,10 @@ let currentTargets = [];
 
 let currentTargetID = null;
 
-function drawMarker(n) {
-    currentTargets = moreFrequentThanXTimesTargets(n);
+function drawMarker(p) {
+    let count = percentiles[101 - p];
+
+    currentTargets = moreFrequentThanXTimesTargets(count);
     console.log(currentTargets);
     var pointStyle = {
         stroke: "#f0f",
@@ -60,6 +62,10 @@ function drawMarker(n) {
 
             Object.values(currentTargets).forEach(target => {
                 // [RA, DEC] in degrees
+                if (!target.coordinates['radians coords']) {
+                    return;
+                }
+
                 let coordinatesDegree = target.coordinates['radians coords'].map(x => x * 180 / Math.PI);
 
 
@@ -166,24 +172,50 @@ function updateSlider(target) {
         item: 1,
         loop: true,
         slideMargin: 0,
+        auto: true,
         thumbItem: 9
     });
 
 }
 
+let latitudeWrapper, longitudeWrapper;
+let filterSlider;
 
 window.addEventListener('DOMContentLoaded', (event) => {
     console.log('DOM fully loaded and parsed');
+    const topAppBarElement = document.querySelector('.mdc-top-app-bar');
+    topAppBar = new mdc.topAppBar.MDCTopAppBar(topAppBarElement);
+    const drawerEl = document.querySelector('.mdc-drawer');
+    const drawer = new mdc.drawer.MDCDrawer.attachTo(drawerEl);
+    topAppBar.listen('MDCTopAppBar:nav', () => {
+        drawer.open = !drawer.open;
+        if (!filterSlider) {
+            window.setTimeout(() => {
+                filterSlider = new mdc.slider.MDCSlider(document.querySelector('#count_filter'));
+                filterSlider.listen('MDCSlider:change', (e) => {
+                    drawMarker(e.detail.value);
+                });
+            }, 500)
+
+        }
+    });
+
+    // drawers
+    const buttonRipple = new mdc.ripple.MDCRipple(document.querySelector('#use_real_location'));
+    document.getElementById('use_real_location').addEventListener('click', useRealLocation, false);
+
+    latitudeWrapper = new mdc.textField.MDCTextField(document.querySelector('#latitude_wrapper'));
+    longitudeWrapper = new mdc.textField.MDCTextField(document.querySelector('#longitude_wrapper'));
+
+    latitudeWrapper.listen('change', updateLocation);
+    longitudeWrapper.listen('change', updateLocation);
+
+
+
     loadData();
     document.getElementById('celestial-map').addEventListener('click', getClickPosition, false);
-    $('#lightSlider').lightSlider({
-        gallery: true,
-        item: 1,
-        loop: true,
-        slideMargin: 0,
-        thumbItem: 9
-    });
 });
+
 
 function astroBinImagesByID(id) {
     let targetDetails = topTargets[id];
@@ -213,7 +245,11 @@ function closestTargetAt(ra, dec) {
     let bestDistance = Number.MAX_VALUE;
     for (let key in currentTargets) {
         let target = currentTargets[key];
-        let coordinatesDegree = target.coordinates['radians coords'].map(x => x * 180 / Math.PI);
+        let radianCoords = target.coordinates['radians coords'];
+        if (!radianCoords) {
+            continue;
+        }
+        let coordinatesDegree = radianCoords.map(x => x * 180 / Math.PI);
         let d = distance(ra, dec, coordinatesDegree[0], coordinatesDegree[1]);
 
         if (d < bestDistance) {
